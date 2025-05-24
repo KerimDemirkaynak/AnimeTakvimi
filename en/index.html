@@ -316,9 +316,75 @@
 
 
   function getCurrentSeasonAndYear() { const date = new Date(); const month = date.getMonth(); const year = date.getFullYear(); let season = 'WINTER'; if (month >= 2 && month <= 4) season = 'SPRING'; else if (month >= 5 && month <= 7) season = 'SUMMER'; else if (month >= 8 && month <= 10) season = 'FALL'; return { season, year }; }
-  function renderAnimeCards(animesToDisplay) { animeListContainer.innerHTML = ''; if (animesToDisplay.length === 0) { animeListContainer.innerHTML = '<p style="text-align:center; color:#aaa;">No anime found matching the filter.</p>'; return; } const now = Math.floor(Date.now() / 1000); animesToDisplay.forEach(anime => { const ep = anime.nextAiringEpisode; const anilistLink = `https://anilist.co/anime/${anime.id}`; const diff = ep.airingAt - now; let airingText = ''; const days = Math.floor(diff / 86400); const hours = Math.floor((diff % 86400) / 3600); const minutes = Math.floor((diff % 3600) / 60); if (diff > 0) { airingText = `${days > 0 ? days + ' day' + (days > 1 ? 's ' : ' ') : ''}${hours > 0 || days > 0 ? hours + ' hr' + (hours > 1 ? 's ' : ' ') : ''}${minutes} min later`; } else { const ago = Math.abs(diff); const hoursAgo = Math.floor(ago / 3600); const minutesAgo = Math.floor((ago % 3600) / 60); if (hoursAgo > 72) { airingText = `Aired ${Math.floor(hoursAgo/24)} day${Math.floor(hoursAgo/24) > 1 ? 's' : ''} ago`; } else { airingText = `Aired ${hoursAgo > 0 ? hoursAgo + ' hr' + (hoursAgo > 1 ? 's ' : ' ') : ''}${minutesAgo} min ago`; } } const episodeText = `Episode ${ep.episode}`; let platformHTML = ''; anime.externalLinks.forEach(link => { if (platformLogos[link.site]) { platformHTML += `<a href="${link.url}" target="_blank" title="${link.site}"><img src="${platformLogos[link.site]}" alt="${link.site}"></a>`; } }); const genres = anime.genres.join(', ') || 'Not specified'; const tags = anime.tags.filter(t => !t.isMediaSpoiler).slice(0, 3).map(t => t.name).join(', ') || 'Not specified'; const score = anime.averageScore ? `${(anime.averageScore / 10).toFixed(1)} / 10` : 'No score'; const monthText = anime.startDate?.month ? monthNames[anime.startDate.month - 1] : '';
-  const startDate = anime.startDate?.year && monthText ? `${anime.startDate.day ? anime.startDate.day + ' ' : ''}${monthText} ${anime.startDate.year}` : 'Unknown';
-  const studio = anime.studios.nodes.length > 0 ? anime.studios.nodes[0].name : 'Unknown'; const card = document.createElement('div'); card.className = 'anime-card'; card.innerHTML = `<div class="anime-top"><div class="anime-image"><img src="${anime.coverImage.medium}" alt="${anime.title.romaji}" loading="lazy"></div><div class="anime-info"><div><div class="anime-title" onclick="window.open('${anilistLink}', '_blank')">${anime.title.romaji}</div><div class="episode-number">${episodeText}</div><div class="airing-time">${airingText}</div></div><div><div class="platform-links">${platformHTML || '<span style="font-size:0.8em; color: #999;">No platform information</span>'}</div><button class="info-button">See More</button></div></div></div>`; card.querySelector('.info-button').onclick = (event) => { event.stopPropagation(); showInfo(anime.title.romaji, startDate, genres, tags, score, studio, anilistLink); }; animeListContainer.appendChild(card); }); }
+  function renderAnimeCards(animesToDisplay) {
+    animeListContainer.innerHTML = '';
+    if (animesToDisplay.length === 0) {
+      animeListContainer.innerHTML = '<p style="text-align:center; color:#aaa;">No anime found matching the filter.</p>';
+      return;
+    }
+    const now = Math.floor(Date.now() / 1000);
+    animesToDisplay.forEach(anime => {
+      const ep = anime.nextAiringEpisode;
+      const anilistLink = `https://anilist.co/anime/${anime.id}`;
+      const diff = ep.airingAt - now;
+      let airingText = '';
+      const days = Math.floor(diff / 86400);
+      const hours = Math.floor((diff % 86400) / 3600);
+      const minutes = Math.floor((diff % 3600) / 60);
+      if (diff > 0) {
+        airingText = `${days > 0 ? days + ' day' + (days > 1 ? 's ' : ' ') : ''}${hours > 0 || days > 0 ? hours + ' hr' + (hours > 1 ? 's ' : ' ') : ''}${minutes} min later`;
+      } else {
+        const ago = Math.abs(diff);
+        const hoursAgo = Math.floor(ago / 3600);
+        const minutesAgo = Math.floor((ago % 3600) / 60);
+        if (hoursAgo > 72) {
+          airingText = `Aired ${Math.floor(hoursAgo/24)} day${Math.floor(hoursAgo/24) > 1 ? 's' : ''} ago`;
+        } else {
+          airingText = `Aired ${hoursAgo > 0 ? hoursAgo + ' hr' + (hoursAgo > 1 ? 's ' : ' ') : ''}${minutesAgo} min ago`;
+        }
+      }
+      const episodeText = `Episode ${ep.episode}`;
+      let platformHTML = '';
+      anime.externalLinks.forEach(link => {
+        if (platformLogos[link.site]) {
+          platformHTML += `<a href="${link.url}" target="_blank" title="${link.site}"><img src="${platformLogos[link.site]}" alt="${link.site}"></a>`;
+        }
+      });
+      const genres = anime.genres.join(', ') || 'Not specified';
+      const tags = anime.tags.filter(t => !t.isMediaSpoiler).slice(0, 3).map(t => t.name).join(', ') || 'Not specified';
+      const score = anime.averageScore ? `${(anime.averageScore / 10).toFixed(1)} / 10` : 'No score';
+      const monthText = anime.startDate?.month ? monthNames[anime.startDate.month - 1] : '';
+      const startDate = anime.startDate?.year && monthText ? `${anime.startDate.day ? anime.startDate.day + ' ' : ''}${monthText} ${anime.startDate.year}` : 'Unknown';
+      const studio = anime.studios.nodes.length > 0 ? anime.studios.nodes[0].name : 'Unknown';
+      
+      const displayTitle = anime.title.english || anime.title.romaji; // Use English title, fallback to Romaji
+
+      const card = document.createElement('div');
+      card.className = 'anime-card';
+      card.innerHTML = `
+        <div class="anime-top">
+          <div class="anime-image">
+            <img src="${anime.coverImage.medium}" alt="${displayTitle}" loading="lazy">
+          </div>
+          <div class="anime-info">
+            <div>
+              <div class="anime-title" onclick="window.open('${anilistLink}', '_blank')">${displayTitle}</div>
+              <div class="episode-number">${episodeText}</div>
+              <div class="airing-time">${airingText}</div>
+            </div>
+            <div>
+              <div class="platform-links">${platformHTML || '<span style="font-size:0.8em; color: #999;">No platform information</span>'}</div>
+              <button class="info-button">See More</button>
+            </div>
+          </div>
+        </div>`;
+      card.querySelector('.info-button').onclick = (event) => {
+        event.stopPropagation();
+        showInfo(displayTitle, startDate, genres, tags, score, studio, anilistLink);
+      };
+      animeListContainer.appendChild(card);
+    });
+  }
   function populateGenreFilter(animes) { const allGenres = new Set(); animes.forEach(anime => { anime.genres.forEach(genre => allGenres.add(genre)); }); while (genreFilterSelect.options.length > 1) { genreFilterSelect.remove(1); } const sortedGenres = Array.from(allGenres).sort(); sortedGenres.forEach(genre => { const option = document.createElement('option'); option.value = genre; option.textContent = genre; genreFilterSelect.appendChild(option); }); }
   function applyFilters() { const selectedGenres = Array.from(genreFilterSelect.selectedOptions).map(option => option.value).filter(value => value !== ""); let filteredAnimes = allFetchedAnimes; if (selectedGenres.length > 0) { filteredAnimes = filteredAnimes.filter(anime => selectedGenres.some(selectedGenre => anime.genres.includes(selectedGenre))); } renderAnimeCards(filteredAnimes); }
   applyFilterBtnPanel.addEventListener('click', applyFilters);
@@ -330,7 +396,8 @@
     filterPanel.classList.remove('open');
     toggleFilterBtn.classList.remove('open');
     const { season, year } = getCurrentSeasonAndYear();
-    const query = `query { Page(perPage: 50) { media(season: ${season}, seasonYear: ${year}, type: ANIME, sort: POPULARITY_DESC, status_in: [RELEASING, NOT_YET_RELEASED]) { id title { romaji } coverImage { medium } startDate { year month day } nextAiringEpisode { airingAt episode } isAdult genres tags { name isMediaSpoiler } averageScore externalLinks { site url } studios(isMain: true) { nodes { name } } } } }`;
+    // Fetch both romaji and english titles
+    const query = `query { Page(perPage: 50) { media(season: ${season}, seasonYear: ${year}, type: ANIME, sort: POPULARITY_DESC, status_in: [RELEASING, NOT_YET_RELEASED]) { id title { romaji english } coverImage { medium } startDate { year month day } nextAiringEpisode { airingAt episode } isAdult genres tags { name isMediaSpoiler } averageScore externalLinks { site url } studios(isMain: true) { nodes { name } } } } }`;
     try {
       const response = await fetch('https://graphql.anilist.co', { method: 'POST', headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' }, body: JSON.stringify({ query }) });
       const data = await response.json();
