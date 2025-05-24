@@ -4,20 +4,16 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Anime Takvimi</title>
-
   <!-- Sosyal Medya Meta Etiketleri -->
   <meta property="og:title" content="Anime Takvimi">
   <meta property="og:description" content="Yeni anime bölümleri ne zaman yayınlanacak? Anilist verileriyle anlık geri sayım.">
   <meta property="og:image" content="https://kerimdemirkaynak.github.io/resimler/20241121_055155.jpg">
   <meta property="og:url" content="https://kerimdemirkaynak.github.io/">
   <meta name="twitter:card" content="summary_large_image">
-
   <!-- Favicon -->
   <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AniList_logo.svg/250px-AniList_logo.svg.png" type="image/png">
-
   <!-- Google Font -->
   <link href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap" rel="stylesheet">
-
   <style>
     * {
       box-sizing: border-box;
@@ -177,19 +173,16 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/AniList_logo.svg" alt="Logo">
     <h1>Anime Takvimi</h1>
   </header>
-
   <main>
     <h2>Yeni Anime Bölümleri</h2>
     <div id="animeList"></div>
   </main>
-
   <div id="infoModal" class="modal">
     <div class="modal-content">
-      <span class="close" onclick="document.getElementById('infoModal').style.display='none'">&times;</span>
+      <span class="close" onclick="document.getElementById('infoModal').style.display='none'">×</span>
       <div id="modalContent"></div>
     </div>
   </div>
-
   <footer>
     <p>
       <a href="https://kerimdemirkaynak.github.io/">Ana Sayfa</a> |
@@ -198,8 +191,7 @@
     </p>
     <p>© <span id="year"></span> Kerim Demirkaynak - Tüm hakları saklıdır</p>
   </footer>
-
- <script>
+  <script>
   document.getElementById('year').textContent = new Date().getFullYear();
 
   const platformLogos = {
@@ -256,9 +248,19 @@
     container.innerHTML = '';
     const now = Math.floor(Date.now() / 1000);
 
-    data.data.Page.media.forEach(anime => {
-      if (anime.isAdult || !anime.nextAiringEpisode) return;
+    // 1. Gelen animeleri filtrele (yetişkin içeriği olmayan ve bir sonraki bölüm bilgisi olanlar)
+    let animesToDisplay = data.data.Page.media.filter(anime =>
+        !anime.isAdult && anime.nextAiringEpisode && anime.nextAiringEpisode.airingAt
+    );
 
+    // 2. Yayın tarihine göre sırala (en yakın olan en başta)
+    // airingAt değeri Unix timestamp'i olduğu için küçük olan daha yakındır.
+    animesToDisplay.sort((a, b) => {
+        return a.nextAiringEpisode.airingAt - b.nextAiringEpisode.airingAt;
+    });
+
+    // 3. Filtrelenmiş ve sıralanmış animeler üzerinden kartları oluştur
+    animesToDisplay.forEach(anime => {
       const ep = anime.nextAiringEpisode;
       const link = `https://anilist.co/anime/${anime.id}`;
       const diff = ep.airingAt - now;
