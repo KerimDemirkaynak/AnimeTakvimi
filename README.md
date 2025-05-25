@@ -1,4 +1,5 @@
 # Anime Takvimi
+[**English**](README.en.md) | [**Türkçe**](../README.md)
 
 [![Lisans](https://img.shields.io/badge/LİSANS-MIT-blue.svg?color=97CA01&logoColor=blue&style=for-the-badge)](https://opensource.org/license/mit/)
 [![Website](https://img.shields.io/badge/Website-kerimdemirkaynak.github.io-00215E?style=for-the-badge)](https://kerimdemirkaynak.github.io/AnimeTakvimi)
