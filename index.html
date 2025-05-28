@@ -72,7 +72,7 @@
     #toggleFilterBtn:hover {
       background-color: #333;
     }
-    #toggleFilterBtn .fa-filter {
+    #toggleFilterBtn .fa-filter { /* Font Awesome ikonu için */
         margin-left: 10px;
         font-size: 0.9em; /* İkon boyutu */
     }
@@ -142,12 +142,16 @@
 
     main {
       padding: 25px 20px;
-      max-width: 750px;
+      max-width: 750px; /* Mobil için varsayılan max-width */
       margin: 0 auto;
     }
     h2.page-title { text-align: center; margin-bottom: 35px; color: #e0e0e0; font-size: 1.8em; font-weight: 600;}
     #loadingMessage { text-align: center; padding: 25px; font-size: 1.2em; color: #aaa; }
-    #animeList { display: flex; flex-direction: column; gap: 20px; }
+    #animeList {
+      display: flex;
+      flex-direction: column; /* Mobil için varsayılan: tek sütun */
+      gap: 20px;
+    }
 
     .anime-card {
       display: flex;
@@ -156,6 +160,7 @@
       border-radius: 12px;
       padding: 15px;
       box-shadow: 0 3px 8px rgba(0,0,0,0.25);
+      /* Masaüstü için genişlik media query içinde ayarlanacak */
     }
      .anime-card:hover {
         box-shadow: 0 5px 15px rgba(0,0,0,0.3);
@@ -223,17 +228,40 @@
 
     footer { text-align: center; font-size: 13px; padding: 20px; background: #1e1e1e; border-top: 1px solid #2c2c2c; margin-top: 30px; } footer a { color: #4fc3f7; text-decoration: none; margin: 0 10px; } footer a:hover { text-decoration: underline; }
 
-    /* Filtreleme bölümünün mobil ve masaüstü için sticky/static durumu */
+    /* Filtreleme bölümünün mobil için sticky durumu */
     @media (max-width: 768px) {
       .filter-controls-container {
         position: sticky;
         /* top değeri JS ile ayarlanacak */
       }
     }
+
+    /* Masaüstü için ayarlar */
     @media (min-width: 769px) {
         .filter-controls-container {
             position: static; /* Masaüstünde normal akışta */
             top: auto;
+            /* İsteğe bağlı: Ana içerik genişlerse filtre kontrollerini de ortalamak için
+            max-width: 1100px;
+            margin-left: auto;
+            margin-right: auto;
+            padding-left: 0;
+            padding-right: 0; */
+        }
+
+        main {
+            max-width: 1100px; /* Masaüstünde ana içerik alanını üç kart için genişlet */
+        }
+
+        #animeList {
+          flex-direction: row;    /* Kartları yan yana sırala */
+          flex-wrap: wrap;        /* Sığmayan kartları alt satıra at */
+          justify-content: flex-start; /* Kartları sola yasla */
+          /* gap: 20px; zaten tanımlı ve hem satırlar hem sütunlar arası boşluk sağlar */
+        }
+
+        .anime-card {
+          width: calc((100% - 40px) / 3); /* Her kart (Toplam %100 - 2*gap) / 3. (gap=20px) */
         }
     }
   </style>
@@ -247,7 +275,8 @@
   <div class="filter-controls-container" id="filterControlsContainer">
     <button id="toggleFilterBtn">
         <span>Filtrele</span>
-        <i class="fas fa-filter"></i>
+        <span class="arrow-indicator"></span> <!-- CSS Ok ikonu için span -->
+        <!-- <i class="fas fa-filter"></i> Font Awesome ikonu kullanılacaksa bu aktif edilebilir, span kaldırılabilir -->
     </button>
     <div class="filter-panel" id="filterPanel">
       <div class="filter-group">
@@ -276,396 +305,15 @@
   const platformLogos = { "Crunchyroll": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Crunchyroll_2024.svg", "HIDIVE": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Hidive_text_logo.svg", "YouTube": "https://upload.wikimedia.org/wikipedia/commons/0/08/YouTube_light_logo_%282024%29.svg", "Bilibili TV": "https://upload.wikimedia.org/wikipedia/en/b/b7/Bilibili_logo.svg", "Netflix": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" };
   const monthNames = ['Ocak', 'Şubat', 'Mart', 'Nisan', 'Mayıs', 'Haziran', 'Temmuz', 'Ağustos', 'Eylül', 'Ekim', 'Kasım', 'Aralık'];
 
-  // << YENİ VE GÜNCELLENMİŞ ÇEVİRİ HARİTALARI >>
   const genreTranslations = {
-    "Action": "Aksiyon",
-    "Adventure": "Macera",
-    "Comedy": "Komedi",
-    "Drama": "Dram",
-    "Ecchi": "Cinsellik",
-    "Fantasy": "Fantastik",
-    "Horror": "Korku",
-    "Mahou Shoujo": "Büyülü Kız",
-    "Mecha": "Meka",
-    "Music": "Müzik",
-    "Mystery": "Gizem",
-    "Psychological": "Psikolojik",
-    "Romance": "Romantizm",
-    "Sci-Fi": "Bilim Kurgu",
-    "Slice of Life": "Hayattan Kesitler",
-    "Sports": "Spor",
-    "Supernatural": "Doğaüstü",
-    "Thriller": "Gerilim"
+    "Action": "Aksiyon", "Adventure": "Macera", "Comedy": "Komedi", "Drama": "Dram", "Ecchi": "Cinsellik", "Fantasy": "Fantastik", "Horror": "Korku", "Mahou Shoujo": "Büyülü Kız", "Mecha": "Meka", "Music": "Müzik", "Mystery": "Gizem", "Psychological": "Psikolojik", "Romance": "Romantizm", "Sci-Fi": "Bilim Kurgu", "Slice of Life": "Hayattan Kesitler", "Sports": "Spor", "Supernatural": "Doğaüstü", "Thriller": "Gerilim"
   };
-
   const tagTranslations = {
-    "4-koma": "4-koma",
-    "Achronological Order": "Kronolojik Olmayan Sıra",
-    "Afterlife": "Ölüm Sonrası Yaşam",
-    "Age Gap": "Yaş Farkı",
-    "Airsoft": "Airsoft",
-    "Aliens": "Uzaylılar",
-    "Alternate Universe": "Alternatif Evren",
-    "American Football": "Amerikan Futbolu",
-    "Amnesia": "Hafıza Kaybı",
-    "Anti-Hero": "Anti-Kahraman",
-    "Archery": "Okçuluk",
-    "Assassins": "Suikastçılar",
-    "Athletics": "Atletizm",
-    "Augmented Reality": "Artırılmış Gerçeklik",
-    "Aviation": "Havacılık",
-    "Badminton": "Badminton",
-    "Band": "Müzik Grubu",
-    "Bar": "Bar",
-    "Baseball": "Beyzbol",
-    "Basketball": "Basketbol",
-    "Battle Royale": "Battle Royale",
-    "Biographical": "Biyografik",
-    "Bisexual": "Biseksüel",
-    "Body Swapping": "Vücut Değiştirme",
-    "Boxing": "Boks",
-    "Bullying": "Zorbalık",
-    "Calligraphy": "Kaligrafi",
-    "Card Battle": "Kart Savaşı",
-    "Cars": "Arabalar",
-    "CGI": "CGI",
-    "Chibi": "Minyatür Çizim",
-    "Chuunibyou": "8. Sınıf Sendromu",
-    "Classic Literature": "Klasik Edebiyat",
-    "College": "Üniversite",
-    "Coming of Age": "Yetişkinliğe Geçiş",
-    "Cosplay": "Kosplay",
-    "Crossdressing": "Çapraz Giyinme",
-    "Crossover": "Farklı Animelerin İş Birliği",
-    "Cultivation": "Yetiştirme",
-    "Cute Girls Doing Cute Things": "Sevimli Kızlar Sevimli Şeyler Yapıyor",
-    "Cyberpunk": "Siberpunk",
-    "Cycling": "Bisiklet",
-    "Dancing": "Dans",
-    "Delinquents": "Hınzırlar",
-    "Demons": "İblisler",
-    "Development": "Gelişim",
-    "Detective": "Dedektif",
-    "Dragons": "Ejderhalar",
-    "Drawing": "Çizim",
-    "Dystopian": "Distopik",
-    "Economics": "Ekonomi",
-    "Educational": "Eğitici",
-    "Ensemble Cast": "Geniş Kadro",
-    "Environmental": "Çevresel",
-    "Episodic": "Episodik",
-    "Espionage": "Casusluk",
-    "Fairy Tale": "Peri Masalı",
-    "Family Life": "Aile Hayatı",
-    "Fashion": "Moda",
-    "Female Protagonist": "Kadın Başrol",
-    "Fishing": "Balıkçılık",
-    "Fitness": "Fitness",
-    "Flash": "Flash Animasyon",
-    "Food": "Yemek",
-    "Football": "Futbol",
-    "Foreign": "Yabancı",
-    "Fugitive": "Kaçak",
-    "Full CGI": "Tamamen CGI",
-    "Full Colour": "Tam Renkli",
-    "Gambling": "Kumar",
-    "Gangs": "Çeteler",
-    "Gender Bending": "Cinsiyet Değişimi",
-    "Gender Neutral": "Cinsiyetsiz",
-    "Ghost": "Hayalet",
-    "Gods": "Tanrılar",
-    "Gore": "Vahşet",
-    "Guns": "Ateşli Silahlar",
-    "Gyaru": "Gyaru",
-    "Harem": "Harem",
-    "Henshin": "Dönüşüm",
-    "Hikikomori": "Eve Kapanık",
-    "Historical": "Tarihi",
-    "Ice Skating": "Buz Pateni",
-    "Idol": "İdol",
-    "Isekai": "Başka Dünya", // Bu popüler bir terim, özellikle ekledim
-    "Iyashikei": "Rahatlatıcı",
-    "Josei": "Josei",
-    "Kaiju": "Dev Canavar",
-    "Karuta": "Karuta",
-    "Kemonomimi": "Hayvan Kulaklıklar",
-    "Kids": "Çocuk",
-    "Love Triangle": "Aşk Üçgeni",
-    "Mafia": "Mafya",
-    "Magic": "Büyü",
-    "Mahjong": "Mahjong",
-    "Maids": "Hizmetçiler",
-    "Male Protagonist": "Erkek Başrol",
-    "Martial Arts": "Dövüş Sanatları",
-    "Memory Manipulation": "Hafıza Manipülasyonu",
-    "Meta": "Meta",
-    "Military": "Askeri",
-    "Monster Girl": "Canavar Kız",
-    "Mopeds": "Moped",
-    "Motorcycles": "Motosikletler",
-    "Musical": "Müzikal",
-    "Mythology": "Mitoloji",
-    "Nekomimi": "Kedi Kulaklılar",
-    "Ninja": "Ninja",
-    "No Dialogue": "Diyalogsuz",
-    "Noir": "Kara Film",
-    "Nudity": "Çıplaklık",
-    "Otaku Culture": "Otaku Kültürü",
-    "Outdoor": "Doğa Aktiviteleri",
-    "Parody": "Parodi",
-    "Philosophy": "Felsefi",
-    "Photography": "Fotoğrafçılık",
-    "Pirates": "Korsanlar",
-    "Poker": "Poker",
-    "Police": "Polis",
-    "Politics": "Siyaset",
-    "Post-Apocalyptic": "Kıyamet Sonrası",
-    "Primarily Adult Cast": "Yetişkin Kadro Ağırlıklı",
-    "Primarily Female Cast": "Kadın Kadro Ağırlıklı",
-    "Primarily Male Cast": "Erkek Kadro Ağırlıklı",
-    "Puppetry": "Kukla Sanatı",
-    "Real Robot": "Gerçekçi Robot",
-    "Rehabilitation": "Rehabilitasyon",
-    "Reincarnation": "Reenkarnasyon",
-    "Revenge": "İntikam",
-    "Reverse Harem": "Ters Harem",
-    "Robots": "Robotlar",
-    "Rugby": "Ragbi",
-    "Rural": "Kırsal Yaşam",
-    "Samurai": "Samuray",
-    "Satire": "Hiciv",
-    "School": "Okul",
-    "School Club": "Okul Kulübü",
-    "Seinen": "Seinen",
-    "Ships": "Gemiler",
-    "Shogi": "Şogi",
-    "Shoujo": "Şojo",
-    "Shoujo Ai": "Lezbiyen Aşkı",
-    "Shounen": "Şonen",
-    "Shounen Ai": "Gay Aşkı",
-    "Slapstick": "Kaba Komedi",
-    "Slavery": "Kölelik",
-    "Space": "Uzay",
-    "Space Opera": "Uzay Operası",
-    "Steampunk": "Steampunk",
-    "Stop Motion": "Stop Motion",
-    "Super Power": "Süper Güç",
-    "Super Robot": "Süper Robot",
-    "Superhero": "Süper Kahraman",
-    "Surreal Comedy": "Absürt Komedi",
-    "Survival": "Hayatta Kalma",
-    "Swimming": "Yüzme",
-    "Swordplay": "Kılıç Dövüşü",
-    "Table Tennis": "Masa Tenisi",
-    "Tanks": "Tanklar",
-    "Teacher": "Öğretmen",
-    "Tennis": "Tenis",
-    "Terrorism": "Terörizm",
-    "Time Manipulation": "Zaman Manipülasyonu",
-    "Time Skip": "Zaman Atlaması",
-    "Time Travel": "Zaman Yolculuğu",
-    "Tragedy": "Trajedi",
-    "Trains": "Trenler",
-    "Triads": "Triadlar",
-    "Tsundere": "Tsundere",
-    "Urban Fantasy": "Şehir Fantastisi",
-    "Vampire": "Vampir",
-    "Video Games": "Video Oyunları",
-    "Virtual World": "Sanal Dünya",
-    "Volleyball": "Voleybol",
-    "War": "Savaş",
-    "Witch": "Cadı",
-    "Work": "İş Hayatı",
-    "Wrestling": "Güreş",
-    "Writing": "Yazarlık",
-    "Wuxia": "Wuxia",
-    "Yakuza": "Japon Mafyası",
-    "Yandere": "Takıntılı Kadın",
-    "Youkai": "Japon Hayaleti",
-    "Achromatic": "Akromatik",
-    "Acrobatics": "Akrobasi",
-    "Acting": "Oyunculuk",
-    "Adoption": "Evlat Edinme",
-    "Advertisement": "Reklam",
-    "Age Regression": "Yaş Gerilemesi",
-    "Agender": "Cinsiyetsiz",
-    "Agriculture": "Tarım",
-    "Alchemy": "Simya",
-    "Anachronism": "Anakronizm",
-    "Ancient China": "Antik Çin",
-    "Angels": "Melekler",
-    "Animals": "Hayvanlar",
-    "Anthology": "Antoloji",
-    "Anthropomorphism": "Antropomorfizm",
-    "Aromantic": "Aromantik",
-    "Arranged Marriage": "Görücü Usulü Evlilik",
-    "Artificial Intelligence": "Yapay Zeka",
-    "Asexual": "Aseksüel",
-    "Astronomy": "Astronomi",
-    "Autobiographical": "Otobiyografik",
-    "Blackmail": "Şantaj",
-    "Board Game": "Kutu Oyunu",
-    "Boarding School": "Yatılı Okul",
-    "Body Horror": "Ceset Korkusu",
-    "Body Image": "Beden İmajı",
-    "Bowling": "Bowling",
-    "Boys' Love": "Gay Aşkı",
-    "Butler": "Uşak",
-    "Camping": "Kampçılık",
-    "Cannibalism": "Yamyamlık",
-    "Centaur": "At İnsan",
-    "Cheerleading": "Amigoluk",
-    "Chimera": "Kimera",
-    "Circus": "Sirk",
-    "Class Struggle": "Sınıf Mücadelesi",
-    "Classical Music": "Klasik Müzik",
-    "Clone": "Klon",
-    "Coastal": "Kıyı Bölgesi",
-    "Cohabitation": "Birlikte Yaşama",
-    "Conspiracy": "Komplo",
-    "Cosmic Horror": "Kozmik Korku",
-    "Cowboys": "Kovboylar",
-    "Creature Taming": "Yaratık Evcilleştirme",
-    "Crime": "Suç",
-    "Criminal Organization": "Suç Örgütü",
-    "Cult": "Kült",
-    "Curses": "Lanetler",
-    "Cute Boys Doing Cute Things": "Sevimli Erkekler Sevimli Şeyler Yapıyor",
-    "Cyborg": "Siborg",
-    "Death Game": "Ölüm Oyunu",
-    "Denpa": "Denpa",
-    "Desert": "Çöl",
-    "Dinosaurs": "Dinozorlar",
-    "Disability": "Engellilik",
-    "Dissociative Identities": "Çoklu Kişilik Bozukluğu",
-    "Drugs": "Uyuşturucu Maddeler",
-    "Dullahan": "Dullahan",
-    "Dungeon": "Zindan",
-    "E-Sports": "E-Spor",
-    "Eco-Horror": "Ekolojik Korku",
-    "Elderly Protagonist": "Yaşlı Başrol",
-    "Elf": "Elf",
-    "Ero Guro": "Ero Guro",
-    "Estranged Family": "Ayrılmış Aile",
-    "Exorcism": "Şeytan Çıkarma",
-    "Fairy": "Peri",
-    "Fake Relationship": "Sahte İlişki",
-    "Female Harem": "Kadın Haremi",
-    "Femboy": "Femboy",
-    "Fencing": "Eskrim",
-    "Filmmaking": "Film Yapımı",
-    "Firefighters": "İtfaiyeciler",
-    "Found Family": "Sonradan Kurulan Aile",
-    "Full Color": "Tam Renkli",
-    "Go": "Go (Oyun)",
-    "Goblin": "Goblin",
-    "Golf": "Golf",
-    "Handball": "Hentbol",
-    "Heterosexual": "Heteroseksüel",
-    "Hip-hop Music": "Hip-hop Müzik",
-    "Homeless": "Evsiz",
-    "Horticulture": "Bahçıvanlık",
-    "Indigenous Cultures": "Yerli Kültürler",
-    "Inn": "Han",
-    "Jazz Music": "Caz Müzik",
-    "Judo": "Judo",
-    "Kingdom Management": "Krallık Yönetimi",
-    "Konbini": "Bakkal",
-    "Kuudere": "Duygusuz Karakter",
-    "Lacrosse": "Lakros",
-    "Language Barrier": "Dil Engeli",
-    "LGBTQ+ Themes": "Eş Cinsel Temalar",
-    "Long Strip": "Webtoon",
-    "Lost Civilization": "Kayıp Uygarlık",
-    "Makeup": "Makyaj",
-    "Male Harem": "Erkek Haremi",
-    "Marriage": "Evlilik",
-    "Matchmaking": "Çöpçatanlık",
-    "Matriarchy": "Anaerkillik",
-    "Medicine": "Tıp",
-    "Medieval": "Orta Çağ",
-    "Mermaid": "Deniz Kızı",
-    "Metal Music": "Metal Müzik",
-    "Mixed Gender Harem": "Çok Cinsiyetli Harem",
-    "Mixed Media": "Karma Medya",
-    "Monster Boy": "Canavar Çocuk",
-    "Mountaineering": "Dağcılık",
-    "Musical Theater": "Müzikal Tiyatrosu",
-    "Natural Disaster": "Doğal Afet",
-    "Necromancy": "Nekromansi",
-    "Non-fiction": "Kurgu Dışı",
-    "Nun": "Rahibe",
-    "Office": "Ofis",
-    "Office Lady": "Ofis Çalışanı Kadın",
-    "Oiran": "Oiran",
-    "Ojou-sama": "Prenses",
-    "Orphan": "Yetim",
-    "Outdoor Activities": "Doğa Aktiviteleri",
-    "Pandemic": "Pandemi",
-    "Parenthood": "Ebeveynlik",
-    "Parkour": "Parkur",
-    "Polyamorous": "Çok Eşlilik",
-    "POV": "Bakış Açısı",
-    "Pregnancy": "Hamilelik",
-    "Primarily Animal Cast": "Hayvan Ağırlıklı Kadro",
-    "Primarily Child Cast": "Çocuk Ağırlıklı Kadro",
-    "Primarily Teen Cast": "Genç Ağırlıklı Kadro",
-    "Prison": "Hapishane",
-    "Proxy Battle": "Vekalet Savaşı",
-    "Psychosexual": "Psikoseksüel",
-    "Rakugo": "Rakugo",
-    "Religion": "Din",
-    "Rescue": "Kurtarma",
-    "Restaurant": "Restoran",
-    "Rock Music": "Rock Müzik",
-    "Rotoscoping": "Rotoskopi",
-    "Royal Affairs": "Kraliyet Meseleleri",
-    "Scuba Diving": "Tüplü Dalış",
-    "Shapeshifting": "Şekil Değiştirme",
-    "Shrine Maiden": "Tapınak Bakiresi",
-    "Skateboarding": "Kaykay",
-    "Skeleton": "İskelet",
-    "Snowscape": "Karlı Hava",
-    "Software Development": "Yazılım Geliştirme",
-    "Spearplay": "Mızrak Dövüşü",
-    "Succubus": "Azgın Şeytan",
-    "Suicide": "İntihar",
-    "Sumo": "Sumo Güreşi",
-    "Surfing": "Sörf",
-    "Tanned Skin": "Bronz Ten",
-    "Teens' Love": "Genç Aşkı",
-    "Time Loop": "Zaman Döngüsü",
-    "Tokusatsu": "Tokusatsu",
-    "Tomboy": "Erkek Fatma",
-    "Torture": "İşkence",
-    "Transgender": "İbne",
-    "Travel": "Seyahat",
-    "Twins": "İkizler",
-    "Unrequited Love": "Karşılıksız Aşk",
-    "Urban": "Kentsel",
-    "Vertical Video": "Dikey Video",
-    "Veterinarian": "Veteriner",
-    "Vikings": "Vikingler",
-    "Villainess": "Kötü Kadın Karakter",
-    "Vocal Synth": "Vokal Sentezleyici",
-    "VTuber": "Sanal YouTuber",
-    "Werewolf": "Kurt Adam",
-    "Wilderness": "Vahşi Doğa",
-    "Yuri": "Lezbiyen Aşkı",
-    "Femdom": "Dominant Kadın",
-    "Inseki": "Üvey Aile İlişkisi",
-    "Large Breasts": "Büyük Göğüsler",
-    "Zombie": "Zombi"
+    "4-koma": "4-koma", "Achronological Order": "Kronolojik Olmayan Sıra", "Afterlife": "Ölüm Sonrası Yaşam", "Age Gap": "Yaş Farkı", "Airsoft": "Airsoft", "Aliens": "Uzaylılar", "Alternate Universe": "Alternatif Evren", "American Football": "Amerikan Futbolu", "Amnesia": "Hafıza Kaybı", "Anti-Hero": "Anti-Kahraman", "Archery": "Okçuluk", "Assassins": "Suikastçılar", "Athletics": "Atletizm", "Augmented Reality": "Artırılmış Gerçeklik", "Aviation": "Havacılık", "Badminton": "Badminton", "Band": "Müzik Grubu", "Bar": "Bar", "Baseball": "Beyzbol", "Basketball": "Basketbol", "Battle Royale": "Battle Royale", "Biographical": "Biyografik", "Bisexual": "Biseksüel", "Body Swapping": "Vücut Değiştirme", "Boxing": "Boks", "Bullying": "Zorbalık", "Calligraphy": "Kaligrafi", "Card Battle": "Kart Savaşı", "Cars": "Arabalar", "CGI": "CGI", "Chibi": "Minyatür Çizim", "Chuunibyou": "8. Sınıf Sendromu", "Classic Literature": "Klasik Edebiyat", "College": "Üniversite", "Coming of Age": "Yetişkinliğe Geçiş", "Cosplay": "Kosplay", "Crossdressing": "Çapraz Giyinme", "Crossover": "Farklı Animelerin İş Birliği", "Cultivation": "Yetiştirme", "Cute Girls Doing Cute Things": "Sevimli Kızlar Sevimli Şeyler Yapıyor", "Cyberpunk": "Siberpunk", "Cycling": "Bisiklet", "Dancing": "Dans", "Delinquents": "Hınzırlar", "Demons": "İblisler", "Development": "Gelişim", "Detective": "Dedektif", "Dragons": "Ejderhalar", "Drawing": "Çizim", "Dystopian": "Distopik", "Economics": "Ekonomi", "Educational": "Eğitici", "Ensemble Cast": "Geniş Kadro", "Environmental": "Çevresel", "Episodic": "Episodik", "Espionage": "Casusluk", "Fairy Tale": "Peri Masalı", "Family Life": "Aile Hayatı", "Fashion": "Moda", "Female Protagonist": "Kadın Başrol", "Fishing": "Balıkçılık", "Fitness": "Fitness", "Flash": "Flash Animasyon", "Food": "Yemek", "Football": "Futbol", "Foreign": "Yabancı", "Fugitive": "Kaçak", "Full CGI": "Tamamen CGI", "Full Colour": "Tam Renkli", "Gambling": "Kumar", "Gangs": "Çeteler", "Gender Bending": "Cinsiyet Değişimi", "Gender Neutral": "Cinsiyetsiz", "Ghost": "Hayalet", "Gods": "Tanrılar", "Gore": "Vahşet", "Guns": "Ateşli Silahlar", "Gyaru": "Gyaru", "Harem": "Harem", "Henshin": "Dönüşüm", "Hikikomori": "Eve Kapanık", "Historical": "Tarihi", "Ice Skating": "Buz Pateni", "Idol": "İdol", "Isekai": "Başka Dünya", "Iyashikei": "Rahatlatıcı", "Josei": "Josei", "Kaiju": "Dev Canavar", "Karuta": "Karuta", "Kemonomimi": "Hayvan Kulaklıklar", "Kids": "Çocuk", "Love Triangle": "Aşk Üçgeni", "Mafia": "Mafya", "Magic": "Büyü", "Mahjong": "Mahjong", "Maids": "Hizmetçiler", "Male Protagonist": "Erkek Başrol", "Martial Arts": "Dövüş Sanatları", "Memory Manipulation": "Hafıza Manipülasyonu", "Meta": "Meta", "Military": "Askeri", "Monster Girl": "Canavar Kız", "Mopeds": "Moped", "Motorcycles": "Motosikletler", "Musical": "Müzikal", "Mythology": "Mitoloji", "Nekomimi": "Kedi Kulaklılar", "Ninja": "Ninja", "No Dialogue": "Diyalogsuz", "Noir": "Kara Film", "Nudity": "Çıplaklık", "Otaku Culture": "Otaku Kültürü", "Outdoor": "Doğa Aktiviteleri", "Parody": "Parodi", "Philosophy": "Felsefi", "Photography": "Fotoğrafçılık", "Pirates": "Korsanlar", "Poker": "Poker", "Police": "Polis", "Politics": "Siyaset", "Post-Apocalyptic": "Kıyamet Sonrası", "Primarily Adult Cast": "Yetişkin Kadro Ağırlıklı", "Primarily Female Cast": "Kadın Kadro Ağırlıklı", "Primarily Male Cast": "Erkek Kadro Ağırlıklı", "Puppetry": "Kukla Sanatı", "Real Robot": "Gerçekçi Robot", "Rehabilitation": "Rehabilitasyon", "Reincarnation": "Reenkarnasyon", "Revenge": "İntikam", "Reverse Harem": "Ters Harem", "Robots": "Robotlar", "Rugby": "Ragbi", "Rural": "Kırsal Yaşam", "Samurai": "Samuray", "Satire": "Hiciv", "School": "Okul", "School Club": "Okul Kulübü", "Seinen": "Seinen", "Ships": "Gemiler", "Shogi": "Şogi", "Shoujo": "Şojo", "Shoujo Ai": "Lezbiyen Aşkı", "Shounen": "Şonen", "Shounen Ai": "Gay Aşkı", "Slapstick": "Kaba Komedi", "Slavery": "Kölelik", "Space": "Uzay", "Space Opera": "Uzay Operası", "Steampunk": "Steampunk", "Stop Motion": "Stop Motion", "Super Power": "Süper Güç", "Super Robot": "Süper Robot", "Superhero": "Süper Kahraman", "Surreal Comedy": "Absürt Komedi", "Survival": "Hayatta Kalma", "Swimming": "Yüzme", "Swordplay": "Kılıç Dövüşü", "Table Tennis": "Masa Tenisi", "Tanks": "Tanklar", "Teacher": "Öğretmen", "Tennis": "Tenis", "Terrorism": "Terörizm", "Time Manipulation": "Zaman Manipülasyonu", "Time Skip": "Zaman Atlaması", "Time Travel": "Zaman Yolculuğu", "Tragedy": "Trajedi", "Trains": "Trenler", "Triads": "Triadlar", "Tsundere": "Tsundere", "Urban Fantasy": "Şehir Fantastisi", "Vampire": "Vampir", "Video Games": "Video Oyunları", "Virtual World": "Sanal Dünya", "Volleyball": "Voleybol", "War": "Savaş", "Witch": "Cadı", "Work": "İş Hayatı", "Wrestling": "Güreş", "Writing": "Yazarlık", "Wuxia": "Wuxia", "Yakuza": "Japon Mafyası", "Yandere": "Takıntılı Kadın", "Youkai": "Japon Hayaleti", "Achromatic": "Akromatik", "Acrobatics": "Akrobasi", "Acting": "Oyunculuk", "Adoption": "Evlat Edinme", "Advertisement": "Reklam", "Age Regression": "Yaş Gerilemesi", "Agender": "Cinsiyetsiz", "Agriculture": "Tarım", "Alchemy": "Simya", "Anachronism": "Anakronizm", "Ancient China": "Antik Çin", "Angels": "Melekler", "Animals": "Hayvanlar", "Anthology": "Antoloji", "Anthropomorphism": "Antropomorfizm", "Aromantic": "Aromantik", "Arranged Marriage": "Görücü Usulü Evlilik", "Artificial Intelligence": "Yapay Zeka", "Asexual": "Aseksüel", "Astronomy": "Astronomi", "Autobiographical": "Otobiyografik", "Blackmail": "Şantaj", "Board Game": "Kutu Oyunu", "Boarding School": "Yatılı Okul", "Body Horror": "Ceset Korkusu", "Body Image": "Beden İmajı", "Bowling": "Bowling", "Boys' Love": "Gay Aşkı", "Butler": "Uşak", "Camping": "Kampçılık", "Cannibalism": "Yamyamlık", "Centaur": "At İnsan", "Cheerleading": "Amigoluk", "Chimera": "Kimera", "Circus": "Sirk", "Class Struggle": "Sınıf Mücadelesi", "Classical Music": "Klasik Müzik", "Clone": "Klon", "Coastal": "Kıyı Bölgesi", "Cohabitation": "Birlikte Yaşama", "Conspiracy": "Komplo", "Cosmic Horror": "Kozmik Korku", "Cowboys": "Kovboylar", "Creature Taming": "Yaratık Evcilleştirme", "Crime": "Suç", "Criminal Organization": "Suç Örgütü", "Cult": "Kült", "Curses": "Lanetler", "Cute Boys Doing Cute Things": "Sevimli Erkekler Sevimli Şeyler Yapıyor", "Cyborg": "Siborg", "Death Game": "Ölüm Oyunu", "Denpa": "Denpa", "Desert": "Çöl", "Dinosaurs": "Dinozorlar", "Disability": "Engellilik", "Dissociative Identities": "Çoklu Kişilik Bozukluğu", "Drugs": "Uyuşturucu Maddeler", "Dullahan": "Dullahan", "Dungeon": "Zindan", "E-Sports": "E-Spor", "Eco-Horror": "Ekolojik Korku", "Elderly Protagonist": "Yaşlı Başrol", "Elf": "Elf", "Ero Guro": "Ero Guro", "Estranged Family": "Ayrılmış Aile", "Exorcism": "Şeytan Çıkarma", "Fairy": "Peri", "Fake Relationship": "Sahte İlişki", "Female Harem": "Kadın Haremi", "Femboy": "Femboy", "Fencing": "Eskrim", "Filmmaking": "Film Yapımı", "Firefighters": "İtfaiyeciler", "Found Family": "Sonradan Kurulan Aile", "Full Color": "Tam Renkli", "Go": "Go (Oyun)", "Goblin": "Goblin", "Golf": "Golf", "Handball": "Hentbol", "Heterosexual": "Heteroseksüel", "Hip-hop Music": "Hip-hop Müzik", "Homeless": "Evsiz", "Horticulture": "Bahçıvanlık", "Indigenous Cultures": "Yerli Kültürler", "Inn": "Han", "Jazz Music": "Caz Müzik", "Judo": "Judo", "Kingdom Management": "Krallık Yönetimi", "Konbini": "Bakkal", "Kuudere": "Duygusuz Karakter", "Lacrosse": "Lakros", "Language Barrier": "Dil Engeli", "LGBTQ+ Themes": "Eş Cinsel Temalar", "Long Strip": "Webtoon", "Lost Civilization": "Kayıp Uygarlık", "Makeup": "Makyaj", "Male Harem": "Erkek Haremi", "Marriage": "Evlilik", "Matchmaking": "Çöpçatanlık", "Matriarchy": "Anaerkillik", "Medicine": "Tıp", "Medieval": "Orta Çağ", "Mermaid": "Deniz Kızı", "Metal Music": "Metal Müzik", "Mixed Gender Harem": "Çok Cinsiyetli Harem", "Mixed Media": "Karma Medya", "Monster Boy": "Canavar Çocuk", "Mountaineering": "Dağcılık", "Musical Theater": "Müzikal Tiyatrosu", "Natural Disaster": "Doğal Afet", "Necromancy": "Nekromansi", "Non-fiction": "Kurgu Dışı", "Nun": "Rahibe", "Office": "Ofis", "Office Lady": "Ofis Çalışanı Kadın", "Oiran": "Oiran", "Ojou-sama": "Prenses", "Orphan": "Yetim", "Outdoor Activities": "Doğa Aktiviteleri", "Pandemic": "Pandemi", "Parenthood": "Ebeveynlik", "Parkour": "Parkur", "Polyamorous": "Çok Eşlilik", "POV": "Bakış Açısı", "Pregnancy": "Hamilelik", "Primarily Animal Cast": "Hayvan Ağırlıklı Kadro", "Primarily Child Cast": "Çocuk Ağırlıklı Kadro", "Primarily Teen Cast": "Genç Ağırlıklı Kadro", "Prison": "Hapishane", "Proxy Battle": "Vekalet Savaşı", "Psychosexual": "Psikoseksüel", "Rakugo": "Rakugo", "Religion": "Din", "Rescue": "Kurtarma", "Restaurant": "Restoran", "Rock Music": "Rock Müzik", "Rotoscoping": "Rotoskopi", "Royal Affairs": "Kraliyet Meseleleri", "Scuba Diving": "Tüplü Dalış", "Shapeshifting": "Şekil Değiştirme", "Shrine Maiden": "Tapınak Bakiresi", "Skateboarding": "Kaykay", "Skeleton": "İskelet", "Snowscape": "Karlı Hava", "Software Development": "Yazılım Geliştirme", "Spearplay": "Mızrak Dövüşü", "Succubus": "Azgın Şeytan", "Suicide": "İntihar", "Sumo": "Sumo Güreşi", "Surfing": "Sörf", "Tanned Skin": "Bronz Ten", "Teens' Love": "Genç Aşkı", "Time Loop": "Zaman Döngüsü", "Tokusatsu": "Tokusatsu", "Tomboy": "Erkek Fatma", "Torture": "İşkence", "Transgender": "İbne", "Travel": "Seyahat", "Twins": "İkizler", "Unrequited Love": "Karşılıksız Aşk", "Urban": "Kentsel", "Vertical Video": "Dikey Video", "Veterinarian": "Veteriner", "Vikings": "Vikingler", "Villainess": "Kötü Kadın Karakter", "Vocal Synth": "Vokal Sentezleyici", "VTuber": "Sanal YouTuber", "Werewolf": "Kurt Adam", "Wilderness": "Vahşi Doğa", "Yuri": "Lezbiyen Aşkı", "Femdom": "Dominant Kadın", "Inseki": "Üvey Aile İlişkisi", "Large Breasts": "Büyük Göğüsler", "Zombie": "Zombi"
   };
 
-  function translateGenre(originalGenre) {
-    return genreTranslations[originalGenre] || originalGenre;
-  }
-
-  function translateTag(originalTag) {
-    return tagTranslations[originalTag] || originalTag;
-  }
-  // << ÇEVİRİ HARİTALARI VE FONKSİYONLARI SONU >>
+  function translateGenre(originalGenre) { return genreTranslations[originalGenre] || originalGenre; }
+  function translateTag(originalTag) { return tagTranslations[originalTag] || originalTag; }
 
   let allFetchedAnimes = [];
   const animeListContainer = document.getElementById('animeList');
@@ -741,16 +389,8 @@
           platformHTML += `<a href="${link.url}" target="_blank" title="${link.site}"><img src="${platformLogos[link.site]}" alt="${link.site}"></a>`;
         }
       });
-
-      // << ÇEVİRİ UYGULAMASI >>
       const translatedGenres = anime.genres.map(genre => translateGenre(genre)).join(', ') || 'Belirtilmemiş';
-      const translatedTags = anime.tags
-        .filter(t => !t.isMediaSpoiler)
-        .slice(0, 3) // Sadece ilk 3 tema (isteğe bağlı)
-        .map(t => translateTag(t.name))
-        .join(', ') || 'Belirtilmemiş';
-      // << ÇEVİRİ UYGULAMASI SONU >>
-
+      const translatedTags = anime.tags.filter(t => !t.isMediaSpoiler).slice(0, 3).map(t => translateTag(t.name)).join(', ') || 'Belirtilmemiş';
       const score = anime.averageScore ? `${(anime.averageScore / 10).toFixed(1)} / 10` : 'Puan yok';
       const monthText = anime.startDate?.month ? monthNames[anime.startDate.month - 1] : '';
       const startDate = anime.startDate?.year && monthText ? `${anime.startDate.day ? anime.startDate.day + ' ' : ''}${monthText} ${anime.startDate.year}` : 'Bilinmiyor';
@@ -777,7 +417,6 @@
         </div>`;
       card.querySelector('.info-button').onclick = (event) => {
         event.stopPropagation();
-        // showInfo fonksiyonuna çevrilmiş değerleri gönder
         showInfo(anime.title.romaji, startDate, translatedGenres, translatedTags, score, studio, anilistLink);
       };
       animeListContainer.appendChild(card);
@@ -786,17 +425,13 @@
 
   function populateGenreFilter(animes) {
     const allGenres = new Set();
-    animes.forEach(anime => {
-      anime.genres.forEach(genre => allGenres.add(genre));
-    });
-    while (genreFilterSelect.options.length > 1) { // İlk "Tüm Türler" seçeneğini koru
-      genreFilterSelect.remove(1);
-    }
+    animes.forEach(anime => { anime.genres.forEach(genre => allGenres.add(genre)); });
+    while (genreFilterSelect.options.length > 1) { genreFilterSelect.remove(1); }
     const sortedGenres = Array.from(allGenres).sort();
     sortedGenres.forEach(genre => {
       const option = document.createElement('option');
-      option.value = genre; // Filtreleme için orijinal değer
-      option.textContent = translateGenre(genre); // Kullanıcıya gösterilen çevrilmiş metin
+      option.value = genre;
+      option.textContent = translateGenre(genre);
       genreFilterSelect.appendChild(option);
     });
   }
@@ -805,9 +440,7 @@
     const selectedGenres = Array.from(genreFilterSelect.selectedOptions).map(option => option.value).filter(value => value !== "");
     let filteredAnimes = allFetchedAnimes;
     if (selectedGenres.length > 0) {
-      filteredAnimes = filteredAnimes.filter(anime =>
-        selectedGenres.some(selectedGenre => anime.genres.includes(selectedGenre))
-      );
+      filteredAnimes = filteredAnimes.filter(anime => selectedGenres.some(selectedGenre => anime.genres.includes(selectedGenre)));
     }
     renderAnimeCards(filteredAnimes);
   }
@@ -815,7 +448,9 @@
   applyFilterBtnPanel.addEventListener('click', applyFilters);
   resetFilterBtnPanel.addEventListener('click', () => {
     Array.from(genreFilterSelect.options).forEach(option => option.selected = false);
-    genreFilterSelect.value = ""; // "Tüm Türler" seçeneğini seçili hale getir (eğer ilk seçenek buysa)
+    if (genreFilterSelect.options.length > 0) { // "Tüm Türler" seçeneğini tekrar seçili yap
+        genreFilterSelect.options[0].selected = true;
+    }
     renderAnimeCards(allFetchedAnimes);
   });
 
@@ -867,7 +502,7 @@
         if (!anime.isAdult && anime.nextAiringEpisode && anime.nextAiringEpisode.airingAt) {
           const airingTime = anime.nextAiringEpisode.airingAt;
           const timeDifference = airingTime - nowForFilter;
-          return timeDifference <= sevenDaysInSeconds; // Son 7 gün içinde yayınlanmış veya yayınlanacak olanlar
+           return Math.abs(timeDifference) <= sevenDaysInSeconds; // Son 7 gün ve gelecek 7 gün içindekiler
         }
         return false;
       });
@@ -881,7 +516,7 @@
       allFetchedAnimes.sort((a, b) => a.nextAiringEpisode.airingAt - b.nextAiringEpisode.airingAt);
       loadingMessage.style.display = 'none';
       filterControlsContainer.style.display = 'block';
-      handleResizeAndLoad(); // Filtre çubuğunun konumunu ayarla
+      handleResizeAndLoad();
       populateGenreFilter(allFetchedAnimes);
       renderAnimeCards(allFetchedAnimes);
 
@@ -897,7 +532,6 @@
   const closeButton = modal.querySelector('.close');
 
   function showInfo(title, date, genres, tags, score, studio, anilistLink) {
-    // Bu fonksiyon zaten çevrilmiş 'genres' ve 'tags' alıyor.
     modalContentDiv.innerHTML = `
       <h3 style="color: #00c6ff; margin-bottom: 15px; text-align: center; font-family: 'Poppins', sans-serif !important; font-weight:600;">${title}</h3>
       <p><strong>Başlangıç:</strong> ${date}</p>
@@ -923,11 +557,7 @@
   }
 
   closeButton.onclick = closeModal;
-  window.onclick = function(event) {
-    if (event.target == modal) {
-      closeModal();
-    }
-  };
+  window.onclick = function(event) { if (event.target == modal) { closeModal(); } };
 
   getAnimeList();
   </script>
