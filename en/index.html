@@ -75,17 +75,29 @@
     #toggleFilterBtn .fa-filter {
         margin-left: 10px;
         font-size: 0.9em; /* Icon size */
+        transition: transform 0.2s ease-out; /* Added for potential rotation */
     }
-    #toggleFilterBtn .arrow-indicator::before { /* For CSS arrow icon */
-        content: '\25BC'; /* Down arrow */
+    /* If you want the FontAwesome icon to rotate, uncomment this
+    #toggleFilterBtn.open .fa-filter {
+        transform: rotate(180deg);
+    }
+    */
+    /*
+    If you prefer a CSS arrow instead of FontAwesome:
+    Remove <i class="fas fa-filter"></i> from the button
+    Add <span class="arrow-indicator"></span> to the button
+    And add these styles:
+    #toggleFilterBtn .arrow-indicator::before {
+        content: '\25BC';
         display: inline-block;
         transition: transform 0.2s ease-out;
         font-size: 0.8em;
         margin-left: 8px;
     }
     #toggleFilterBtn.open .arrow-indicator::before {
-        transform: rotate(180deg); /* Up arrow */
+        transform: rotate(180deg);
     }
+    */
 
     .filter-panel {
       background-color: #1c1c1c;
@@ -142,12 +154,16 @@
 
     main {
       padding: 25px 20px;
-      max-width: 750px;
+      max-width: 750px; /* Default for mobile */
       margin: 0 auto;
     }
     h2.page-title { text-align: center; margin-bottom: 35px; color: #e0e0e0; font-size: 1.8em; font-weight: 600;}
     #loadingMessage { text-align: center; padding: 25px; font-size: 1.2em; color: #aaa; }
-    #animeList { display: flex; flex-direction: column; gap: 20px; }
+    #animeList {
+      display: flex;
+      flex-direction: column; /* Default for mobile: single column */
+      gap: 20px;
+    }
 
     .anime-card {
       display: flex;
@@ -156,6 +172,7 @@
       border-radius: 12px;
       padding: 15px;
       box-shadow: 0 3px 8px rgba(0,0,0,0.25);
+      /* Width for desktop will be set in media query */
     }
      .anime-card:hover {
         box-shadow: 0 5px 15px rgba(0,0,0,0.3);
@@ -230,10 +247,34 @@
         /* top value to be set with JS */
       }
     }
+
+    /* Desktop settings */
     @media (min-width: 769px) {
         .filter-controls-container {
             position: static; /* In normal flow on desktop */
             top: auto;
+            /* Optional: To center filter controls if main content expands
+            max-width: 1100px;
+            margin-left: auto;
+            margin-right: auto;
+            padding-left: 0;
+            padding-right: 0;
+            */
+        }
+
+        main {
+            max-width: 1100px; /* Expand main content area for three cards */
+        }
+
+        #animeList {
+          flex-direction: row;    /* Arrange cards side by side */
+          flex-wrap: wrap;        /* Wrap cards to the next line if they don't fit */
+          justify-content: flex-start; /* Align cards to the start, gap handles spacing */
+          /* gap: 20px; is already defined and applies to rows and columns */
+        }
+
+        .anime-card {
+          width: calc((100% - 40px) / 3); /* Each card (Total 100% - 2*gap) / 3. (gap=20px) */
         }
     }
   </style>
@@ -388,7 +429,7 @@
   function populateGenreFilter(animes) { const allGenres = new Set(); animes.forEach(anime => { anime.genres.forEach(genre => allGenres.add(genre)); }); while (genreFilterSelect.options.length > 1) { genreFilterSelect.remove(1); } const sortedGenres = Array.from(allGenres).sort(); sortedGenres.forEach(genre => { const option = document.createElement('option'); option.value = genre; option.textContent = genre; genreFilterSelect.appendChild(option); }); }
   function applyFilters() { const selectedGenres = Array.from(genreFilterSelect.selectedOptions).map(option => option.value).filter(value => value !== ""); let filteredAnimes = allFetchedAnimes; if (selectedGenres.length > 0) { filteredAnimes = filteredAnimes.filter(anime => selectedGenres.some(selectedGenre => anime.genres.includes(selectedGenre))); } renderAnimeCards(filteredAnimes); }
   applyFilterBtnPanel.addEventListener('click', applyFilters);
-  resetFilterBtnPanel.addEventListener('click', () => { Array.from(genreFilterSelect.options).forEach(option => option.selected = false); renderAnimeCards(allFetchedAnimes); });
+  resetFilterBtnPanel.addEventListener('click', () => { Array.from(genreFilterSelect.options).forEach(option => option.selected = false); if (genreFilterSelect.options.length > 0) { genreFilterSelect.options[0].selected = true; } renderAnimeCards(allFetchedAnimes); });
   async function getAnimeList() {
     loadingMessage.style.display = 'block';
     animeListContainer.innerHTML = '';
@@ -414,17 +455,14 @@
           if (!anime.isAdult && anime.nextAiringEpisode && anime.nextAiringEpisode.airingAt) {
               const airingTime = anime.nextAiringEpisode.airingAt;
               const timeDifference = airingTime - nowForFilter;
-              // If airing time is in the past (timeDifference <= 0), show.
-              // If airing time is in the future and within 7 days (0 < timeDifference <= sevenDaysInSeconds), show.
-              // In other cases (if it will air after 7 days), do not show.
-              return timeDifference <= sevenDaysInSeconds;
+              return Math.abs(timeDifference) <= sevenDaysInSeconds; // Show if aired in last 7 days OR will air in next 7 days
           }
           return false;
       });
 
       // If no anime remains after filtering
       if (allFetchedAnimes.length === 0) {
-        loadingMessage.textContent = 'No recently aired or upcoming anime found within the next 7 days.';
+        loadingMessage.textContent = 'No recently aired or upcoming anime found within the 7-day window.';
         filterControlsContainer.style.display = 'none'; // Also hide filter controls
         return;
       }
