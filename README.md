@@ -6,7 +6,8 @@
 
 Anlık anime yayın takvimi. Yeni bölümlerin ne zaman yayınlanacağını gösterir ve Anilist GraphQL API'sinden veri çeker. Kullanıcılara türlere göre filtreleme imkanı sunar ve arayüzde Türkçe çeviriler kullanır.
 
-![Anime Takvimi Ekran Görüntüsü](https://github.com/user-attachments/assets/4e3c5eaa-87b2-46be-b33d-1067b7cd66a9)
+![Anime Takvimi Ekran Görüntüsü](https://github.com/user-attachments/assets/3c23a8a8-8e08-4fbb-800e-3abdd116aa95)
+
 
 ## 🌐 Demo
 *   **Türkçe:** [Canlı Demo](https://kerimdemirkaynak.github.io/AnimeTakvimi)
