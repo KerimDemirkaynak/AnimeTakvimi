@@ -355,8 +355,25 @@
   window.addEventListener('resize', handleResizeAndLoad);
   document.addEventListener('DOMContentLoaded', handleResizeAndLoad);
 
+  // DEĞİŞTİRİLMİŞ FONKSİYON
+  function getCurrentSeasonAndYear() {
+    const date = new Date();
+    const month = date.getMonth(); // 0 (Ocak) - 11 (Aralık)
+    const year = date.getFullYear();
+    let season;
 
-  function getCurrentSeasonAndYear() { const date = new Date(); const month = date.getMonth(); const year = date.getFullYear(); let season = 'WINTER'; if (month >= 2 && month <= 4) season = 'SPRING'; else if (month >= 5 && month <= 7) season = 'SUMMER'; else if (month >= 8 && month <= 10) season = 'FALL'; return { season, year }; }
+    if (month >= 0 && month <= 2) { // Ocak, Şubat, Mart
+      season = 'WINTER';
+    } else if (month >= 3 && month <= 5) { // Nisan, Mayıs, Haziran
+      season = 'SPRING';
+    } else if (month >= 6 && month <= 8) { // Temmuz, Ağustos, Eylül
+      season = 'SUMMER';
+    } else { // Ekim, Kasım, Aralık (month >= 9 && month <= 11)
+      season = 'FALL';
+    }
+    return { season, year };
+  }
+
   function renderAnimeCards(animesToDisplay) {
     animeListContainer.innerHTML = '';
     if (animesToDisplay.length === 0) {
