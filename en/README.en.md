@@ -6,7 +6,7 @@
 
 A real-time anime release schedule. It shows when new episodes will air and pulls data from the Anilist GraphQL API. It offers users the ability to filter by genre.
 
-![Anime Schedule Screenshot](https://github.com/user-attachments/assets/4e3c5eaa-87b2-46be-b33d-1067b7cd66a9)
+![Anime Schedule Screenshot](https://github.com/user-attachments/assets/3c23a8a8-8e08-4fbb-800e-3abdd116aa95)
 
 ## 🌐 Demo
 *   **Turkish:** [Live Demo](https://kerimdemirkaynak.github.io/AnimeTakvimi)
