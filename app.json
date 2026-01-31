@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Anime Takvimi",
+    "slug": "anime-takvimi",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.kerim.animetakvimi", // BURASI MUTLAKA OLMALI
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    }
+    // ... diğer ayarlar
+  }
+}
