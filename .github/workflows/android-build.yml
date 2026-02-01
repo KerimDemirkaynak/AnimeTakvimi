@@ -2,10 +2,10 @@ name: Android APK Oluşturucu
 
 on:
   push:
-    branches: [ main ] # Kodu main dalına attığında çalışır
+    branches: [ main ]
   pull_request:
     branches: [ main ]
-  workflow_dispatch: # Manuel tetikleme butonu ekler
+  workflow_dispatch:
 
 jobs:
   build:
@@ -34,11 +34,10 @@ jobs:
         run: npm install -g expo-cli
 
       - name: Native Dosyaları Oluştur (Prebuild)
-        # Expo projesini saf Android projesine çevirir
-        run: npx expo prebuild --platform android --no-integrity-check
+        # Hata veren kısım düzeltildi: --no-integrity-check silindi.
+        run: npx expo prebuild --platform android
 
       - name: APK Derle (Gradle Build)
-        # Debug modunda APK üretir (İmza gerektirmez, hemen çalışır)
         run: cd android && ./gradlew assembleDebug
 
       - name: APK'yı Yükle (Artifacts)
