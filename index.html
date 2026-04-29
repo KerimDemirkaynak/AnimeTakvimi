@@ -135,7 +135,6 @@
     .modal-body::-webkit-scrollbar-thumb:hover { background: var(--primary); }
     
     .modal-body h3 { font-size: 1.3rem; margin-bottom: 12px; color: #fff; line-height: 1.2;}
-    /* Grid'i başlangıç tarihi, stüdyo ve puan için 3 sütunlu yapıyoruz */
     .modal-details { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; margin-bottom: 12px; }
     .detail-item { display: flex; flex-direction: column; gap: 4px; }
     .detail-label { font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase; }
@@ -245,7 +244,6 @@
   </footer>
 
   <script>
-  // ÇOKLU DİL (i18n) STATİK METİNLER (startDate eklendi)
   const i18n = {
       tr: {
           headerTitle: "Anime Takvimi", searchPlaceholder: "Anime ara (Örn: DanMachi, SAO)...",
@@ -266,7 +264,6 @@
   };
 
   let currentLang = navigator.language.startsWith('tr') ? 'tr' : 'en';
-
   let genreTranslations = {};
   let tagTranslations = {};
 
@@ -304,7 +301,6 @@
           const response = await fetch('https://raw.githubusercontent.com/KerimDemirkaynak/AnimeTakvimi/refs/heads/main/turtemaceviri.json');
           if (!response.ok) throw new Error("JSON Fetch Error");
           const data = await response.json();
-          
           if (data.tur) data.tur.forEach(item => { genreTranslations[item.orijinal] = item.ceviri; });
           if (data.tema) data.tema.forEach(item => { tagTranslations[item.orijinal] = item.ceviri; });
       } catch (error) {
@@ -325,7 +321,6 @@
       document.getElementById('ui-modal-summary').textContent = t.summaryTitle;
       document.getElementById('ui-btn-translate').textContent = t.translateBtn;
       document.getElementById('ui-btn-anilist').textContent = t.anilistBtn;
-
       document.querySelectorAll('.lang-btn').forEach(btn => {
           btn.classList.toggle('active', btn.getAttribute('data-lang') === currentLang);
       });
@@ -348,16 +343,13 @@
       const sliderContainer = document.getElementById('heroSliderContainer');
       const sliderTrack = document.getElementById('heroSlider');
       const dotsContainer = document.getElementById('sliderDots');
-
       if(sliderAnimes.length === 0 || searchTerm !== "" || selectedGenres.length > 0) {
           sliderContainer.style.display = 'none';
           return;
       }
-
       sliderContainer.style.display = 'block';
       sliderTrack.innerHTML = '';
       dotsContainer.innerHTML = '';
-
       sliderAnimes.forEach((anime, index) => {
           const slide = document.createElement('div');
           slide.className = 'slide';
@@ -370,13 +362,11 @@
               </div>
           `;
           sliderTrack.appendChild(slide);
-
           const dot = document.createElement('div');
           dot.className = `dot ${index === 0 ? 'active' : ''}`;
           dot.onclick = () => goToSlide(index);
           dotsContainer.appendChild(dot);
       });
-
       startSlideTimer(sliderAnimes.length);
   }
 
@@ -400,28 +390,22 @@
   function renderAnimeCards(animesToDisplay) {
     animeListContainer.innerHTML = '';
     const t = i18n[currentLang];
-
     if (animesToDisplay.length === 0) {
       animeListContainer.innerHTML = `<div style="grid-column: 1/-1; text-align:center; padding:40px; color:#666;"><i class="fa-regular fa-face-frown" style="font-size:2.5rem; margin-bottom:10px; display:block;"></i>${t.noResults}</div>`;
       return;
     }
-
     const now = Math.floor(Date.now() / 1000);
     animesToDisplay.forEach(anime => {
       const ep = anime.nextAiringEpisode;
       const diff = ep.airingAt - now;
       const absDiff = Math.abs(diff);
-      
       const d = Math.floor(absDiff / 86400);
       const h = Math.floor((absDiff % 86400) / 3600);
       const m = Math.floor((absDiff % 3600) / 60);
-      
       let timeStr = `${d > 0 ? d + t.days + ' ' : ''}${h > 0 ? h + t.hours + ' ' : ''}${m}${t.mins}`;
-      
       let airingText = diff > 0 
           ? `<i class="fa-regular fa-clock"></i> ${timeStr}` 
           : `<i class="fa-solid fa-check-double" style="color:#2ecc71"></i> ${timeStr} ${t.ago}`;
-
       const card = document.createElement('div');
       card.className = 'anime-card';
       card.innerHTML = `
@@ -431,7 +415,6 @@
             <div class="anime-title" title="${getAnimeTitle(anime)}">${getAnimeTitle(anime)}</div>
             <div class="airing-time">${airingText}</div>
           </div>`;
-          
       card.onclick = () => showInfo(anime);
       animeListContainer.appendChild(card);
     });
@@ -439,7 +422,6 @@
 
   function applyFilters() {
       let filtered = allAnimes;
-
       if (searchTerm) {
           const lowerTerm = searchTerm.toLowerCase();
           filtered = filtered.filter(a => {
@@ -449,17 +431,14 @@
               return romajiMatch || enMatch || synMatch;
           });
       }
-
       if (selectedGenres.length > 0) {
           filtered = filtered.filter(a => selectedGenres.every(g => a.genres.includes(g)));
       }
-
       if(searchTerm || selectedGenres.length > 0) {
           document.getElementById('heroSliderContainer').style.display = 'none';
       } else {
           document.getElementById('heroSliderContainer').style.display = 'block';
       }
-
       renderAnimeCards(filtered);
   }
 
@@ -471,19 +450,15 @@
   function setupFilters(animes) {
     const genres = new Set();
     animes.forEach(a => a.genres.forEach(g => genres.add(g)));
-    
     genrePillsContainer.innerHTML = `<button class="pill-btn ${selectedGenres.length === 0 ? 'active' : ''}" data-genre="All">${i18n[currentLang].all}</button>`;
-    
     Array.from(genres).sort().forEach(genre => {
       const isActive = selectedGenres.includes(genre) ? 'active' : '';
       genrePillsContainer.innerHTML += `<button class="pill-btn ${isActive}" data-genre="${genre}">${translateGenre(genre)}</button>`;
     });
-
     document.querySelectorAll('.pill-btn').forEach(btn => {
       btn.addEventListener('click', (e) => {
         const clickedGenre = e.target.getAttribute('data-genre');
         const allBtn = document.querySelector('.pill-btn[data-genre="All"]');
-
         if (clickedGenre === "All") {
             selectedGenres = [];
             document.querySelectorAll('.pill-btn').forEach(b => b.classList.remove('active'));
@@ -508,29 +483,22 @@
     updateStaticUI();
     try {
       const response = await fetch('./anime-data.json');
-      
-      if (!response.ok) throw new Error("Veri dosyası bulunamadı. GitHub Action henüz çalışmamış olabilir.");
-      
+      if (!response.ok) throw new Error("Veri dosyası bulunamadı.");
       const data = await response.json();
-      if (!data.data?.Page?.media) throw new Error("Geçersiz veri formatı");
-
+      if (!data.data?.Page?.media) throw new Error("Geçersiz veri.");
       const rawData = data.data.Page.media;
-      
       const now = Math.floor(Date.now() / 1000);
-      const limit = 7 * 24 * 60 * 60; // 1 Hafta
-
+      const limit = 7 * 24 * 60 * 60;
       allAnimes = rawData.filter(a => {
           if (a.isAdult || !a.nextAiringEpisode?.airingAt) return false;
           return Math.abs(a.nextAiringEpisode.airingAt - now) <= limit;
       }).sort((a, b) => {
           return Math.abs(a.nextAiringEpisode.airingAt - now) - Math.abs(b.nextAiringEpisode.airingAt - now);
       });
-
       loadingContainer.style.display = 'none';
       initSlider(allAnimes); 
       setupFilters(allAnimes);
       renderAnimeCards(allAnimes);
-
     } catch (error) {
       loadingContainer.innerHTML = `<p style="color:var(--danger);">${i18n[currentLang].error}: ${error.message}</p>`;
     }
@@ -543,13 +511,23 @@
     document.getElementById('modalBanner').src = anime.bannerImage || anime.coverImage.extraLarge || anime.coverImage.large;
     document.getElementById('modalTitle').textContent = getAnimeTitle(anime);
     
-    // Başlangıç tarihini hesaplama ve gösterme (Gün.Ay.Yıl formatında)
+    const monthNames = {
+        tr: ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"],
+        en: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    };
+
     let startDateText = t.unknown;
     if (anime.startDate && anime.startDate.year) {
-        const d = anime.startDate.day ? String(anime.startDate.day).padStart(2, '0') : '??';
-        const m = anime.startDate.month ? String(anime.startDate.month).padStart(2, '0') : '??';
         const y = anime.startDate.year;
-        startDateText = `${d}.${m}.${y}`;
+        const mIndex = anime.startDate.month ? anime.startDate.month - 1 : null;
+        const d = anime.startDate.day ? anime.startDate.day : null;
+        if (d && mIndex !== null) {
+            startDateText = currentLang === 'tr' ? `${d} ${monthNames.tr[mIndex]} ${y}` : `${monthNames.en[mIndex]} ${d}, ${y}`;
+        } else if (mIndex !== null) {
+            startDateText = `${monthNames[currentLang][mIndex]} ${y}`;
+        } else {
+            startDateText = `${y}`;
+        }
     }
     document.getElementById('modalStartDate').textContent = startDateText;
 
@@ -583,11 +561,8 @@
     } else {
         translateBtn.style.display = 'none';
     }
-
     document.getElementById('modalLink').href = `https://anilist.co/anime/${anime.id}`;
-    
     document.querySelector('.modal-body').scrollTop = 0;
-    
     modal.style.display = 'block';
     modal.classList.remove('fade-out');
   }
@@ -605,7 +580,6 @@
       await loadTranslations();
       fetchAnimeData();
   }
-  
   initApp();
   </script>
 </body>
