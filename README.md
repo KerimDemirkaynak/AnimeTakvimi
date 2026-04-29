@@ -1,57 +1,59 @@
 # Anime Takvimi
-[**English**](/en/README.en.md) | [**Türkçe**](../README.md)
 
 [![Lisans](https://img.shields.io/badge/LİSANS-MIT-blue.svg?color=97CA01&logoColor=blue&style=for-the-badge)](https://opensource.org/license/mit/)
-[![Website](https://img.shields.io/badge/Website-kerimdemirkaynak.github.io-00215E?style=for-the-badge)](https://kerimdemirkaynak.github.io/AnimeTakvimi)
+[![Website](https://img.shields.io/badge/Website-takvim.kerim.qzz.io-00215E?style=for-the-badge)](https://takvim.kerim.qzz.io/)
 
-Anlık anime yayın takvimi. Yeni bölümlerin ne zaman yayınlanacağını gösterir ve Anilist GraphQL API'sinden veri çeker. Kullanıcılara türlere göre filtreleme imkanı sunar ve arayüzde Türkçe çeviriler kullanır.
+Anlık anime yayın takvimi ve bölüm geri sayım aracı. Bu proje, kullanıcıların tarayıcılarını yormadan ve API limitlerine takılmadan en güncel anime takvimini sunmak için **Jamstack** mimarisi ve **GitHub Actions** otomasyonu kullanılarak geliştirilmiştir.
 
 ![Anime Takvimi Ekran Görüntüsü](https://github.com/user-attachments/assets/3c23a8a8-8e08-4fbb-800e-3abdd116aa95)
 
-
 ## 🌐 Demo
-*   **Türkçe:** [Canlı Demo](https://kerimdemirkaynak.github.io/AnimeTakvimi)
-*   **English:** [Live Demo](https://kerimdemirkaynak.github.io/AnimeTakvimi/en)
+**Canlı Demo:** [takvim.kerim.qzz.io](https://takvim.kerim.qzz.io/)
 
 ## ✨ Özellikler
 
-*   **Anlık Geri Sayım:** Yeni anime bölümlerinin yayınlanmasına kalan süreyi veya ne kadar süre önce yayınlandığını gösterir.
-*   **Anilist Entegrasyonu:** Güncel anime verilerini doğrudan Anilist API'sinden alır.
-*   **Türlere Göre Filtreleme:** Kullanıcıların animeleri belirli türlere göre (çoklu seçim destekli) filtrelemesine olanak tanır.
-*   **Türkçe Tür ve Tema İsimleri:** Anime türleri ve temaları kullanıcıya Türkçe olarak gösterilir (İngilizce versiyonda orijinal isimler kullanılır).
-*   **Detaylı Bilgi Modalı:** Her anime için başlangıç tarihi, stüdyo, (varsa çevrilmiş) türler, (varsa çevrilmiş) temalar ve puan gibi ek bilgileri şık bir modal pencerede gösterir.
-*   **Platform Bağlantıları:** Crunchyroll, HIDIVE, YouTube, Netflix gibi resmi yayın platformlarına doğrudan bağlantılar sunar (eğer mevcutsa).
-*   **Anilist Sayfasına Bağlantı:** Her animenin başlığına veya modal içerisindeki butona tıklandığında ilgili Anilist sayfasına yönlendirir.
-*   **Duyarlı Tasarım:** Farklı ekran boyutlarında (mobil, tablet, masaüstü) düzgün görüntülenir. Header ve filtre çubuğu mobil cihazlarda yapışkan (sticky) özelliktedir.
-*   **Yetişkin İçeriği Filtresi:** Hentai gibi yetişkinlere yönelik içerikler listelenmez.
-*   **Yakın Zamandaki Yayınlar:** Varsayılan olarak son 7 gün içinde yayınlanmış veya yayınlanacak olan animeleri listeler.
-*   **Modern Arayüz:** Google Fonts (Russo One ve Poppins) ve Font Awesome ikonları ile geliştirilmiş kullanıcı arayüzü.
+* **Sıfır API Gecikmesi (Jamstack):** İstemci tarafında her girişte API'ye istek atmak yerine, GitHub Actions günde iki kez AniList API'sinden verileri çeker ve statik bir JSON dosyası oluşturur. Sayfa saniyeler içinde, bekleme olmadan yüklenir.
+* **Dinamik Geri Sayım:** Yeni bölümlerin yayınlanmasına kalan süreyi Unix Timestamp üzerinden matematiksel olarak hesaplayarak milisaniyesine kadar doğru bir geri sayım sunar.
+* **Tek Sayfada Çoklu Dil (TR/EN):** Sayfayı yenilemeye veya farklı bir URL'e gitmeye gerek kalmadan anında Türkçe ve İngilizce arasında geçiş yapılabilir. Çeviriler dışarıdan dinamik olarak çekilir.
+* **Modern Hero Slider:** Haftanın öne çıkan popüler animeleri otomatik kayan şık bir slider ile sunulur.
+* **Hızlı Filtreleme ve Arama:** Animeleri isimlerine göre anlık arayabilir veya modern "hap" (pill) butonlarla türlerine göre filtreleyebilirsiniz.
+* **Detaylı Bilgi Modalı:** Animelerin başlangıç tarihi, stüdyosu, puanı, konu özeti (tek tıkla çeviri seçeneği ile) ve resmi yayın platformlarının (Crunchyroll, Netflix vb.) direkt bağlantıları şık bir pencerede listelenir.
+* **Duyarlı (Responsive) Tasarım:** Mobil cihazlar, tabletler ve masaüstü sistemler için kusursuz ızgara (grid) yapısı.
 
 ## 🛠️ Kullanılan Teknolojiler
 
-*   HTML5
-*   CSS3 (Flexbox, Grid, Animasyonlar)
-*   Vanilla JavaScript (ES6+)
-*   [Anilist GraphQL API](https://anilist.gitbook.io/anilist-apiv2-docs/)
-*   [Google Fonts (Russo One & Poppins)](https://fonts.google.com/)
-*   [Font Awesome](https://fontawesome.com/) (İkonlar için)
+* **Frontend:** HTML5, CSS3, Vanilla JavaScript (ES6+)
+* **Otomasyon (Backend):** Node.js & GitHub Actions
+* **Veri Kaynağı:** [AniList GraphQL API v2](https://anilist.gitbook.io/anilist-apiv2-docs/)
+* **Tipografi & İkonlar:** Google Fonts (Outfit), Font Awesome
 
 ## 🚀 Kurulum ve Çalıştırma
 
-Projeyi yerel makinenizde çalıştırmak için:
+Projeyi yerel makinenizde çalıştırmak herhangi bir paket yükleyicisi gerektirmez.
 
 1.  Bu repoyu klonlayın:
     ```bash
-    git clone https://github.com/kerimdemirkaynak/AnimeTakvimi.git
-    ```
-2.  Proje dizinine gidin:
-    ```bash
+    git clone [https://github.com/kerimdemirkaynak/AnimeTakvimi.git](https://github.com/kerimdemirkaynak/AnimeTakvimi.git)
     cd AnimeTakvimi
     ```
-3.  `index.html` dosyasını (Türkçe versiyon için) veya `en/index.html` dosyasını (İngilizce versiyon için) tarayıcınızda açın.
 
-Herhangi bir derleme veya karmaşık bağımlılık kurulumu gerektirmez.
+2.  (Opsiyonel) Güncel veriyi çekmek için Node.js scriptini çalıştırın:
+    ```bash
+    node fetch_data.js
+    ```
+    *Bu işlem, repodaki `anime-data.json` dosyasını en güncel AniList verileriyle yeniler.*
 
-## 📊 API Kullanımı
+3.  `index.html` dosyasını herhangi bir modern tarayıcıda veya Live Server eklentisiyle açın.
 
-Bu proje, anime verilerini almak için [Anilist GraphQL API](https://anilist.gitbook.io/anilist-apiv2-docs/)'sini kullanır. Mevcut sezondaki popüler animeleri, yayınlanmakta olan veya henüz yayınlanmamış olanları ve son 7 gün içinde yayınlanmış/yayınlanacak olanları listeleyecek şekilde sorgular. Yetişkin içeriği (`isAdult`) hariç tutulur.
+## 🤖 GitHub Actions Otomasyonu Nasıl Çalışır?
+
+Proje içerisinde yer alan `.github/workflows/update-data.yml` dosyası, otomatik bir iş akışı tanımlar. 
+1. Bot, günde iki defa (UTC 00:00 ve 12:00) uyanır.
+2. `fetch_data.js` dosyasını çalıştırarak AniList GraphQL API'sine tek bir sorgu atar.
+3. Gelen veriyi `anime-data.json` dosyasına yazar.
+4. Eğer veride bir değişiklik (yeni bölüm, erteleme vb.) varsa, bunu otomatik olarak repoya `commit` ve `push` yapar.
+Bu sayede web sitesi her zaman güncel kalır ve AniList'in dakikada 90 istek olan limitine (Rate Limit) hiçbir zaman takılmaz.
+
+## 📝 Çeviri Katkısı
+
+Tür ve tema çevirileri projenin içerisindeki statik metinlerden değil, doğrudan harici bir JSON [çeviri dosyasından](https://raw.githubusercontent.com/KerimDemirkaynak/AnimeTakvimi/refs/heads/main/turtemaceviri.json) çekilmektedir. Çevirileri güncellemek veya yeni türler eklemek için bu dosyayı düzenleyebilirsiniz.
