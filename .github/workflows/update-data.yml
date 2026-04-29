@@ -1,0 +1,36 @@
+name: Update Anime Data
+
+on:
+  schedule:
+    - cron: '0 0,12 * * *' # Günde 2 kez çalışır
+  workflow_dispatch: # İstediğin zaman GitHub arayüzünden manuel tetiklemen için buton ekler
+
+permissions:
+  contents: write # Botun repo'ya push yapabilmesi için yazma izni
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repoyu Klonla
+        uses: actions/checkout@v4
+
+      - name: Node.js Kurulumu
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20' # Yerleşik fetch kullanmak için v20 ideal
+
+      - name: Veriyi Çek ve JSON Oluştur
+        run: node fetch_data.js
+
+      - name: Değişiklikleri Commit ve Push Yap
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add anime-data.json
+          
+          # Eğer dosyada değişiklik varsa commit at, yoksa action hata vermesin diye sessizce bitir
+          git diff --quiet && git diff --staged --quiet || git commit -m "GÜNCELLEME: Anime verileri yenilendi"
+          
+          # Doğrudan mevcut branch'e push atar (main veya master hangisindeysen)
+          git push
