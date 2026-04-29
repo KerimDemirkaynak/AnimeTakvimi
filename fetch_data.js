@@ -17,6 +17,7 @@ async function fetchData() {
         media(season: ${season}, seasonYear: ${year}, type: ANIME, sort: POPULARITY_DESC, status_in: [RELEASING, NOT_YET_RELEASED]) {
           id title { romaji english native } 
           synonyms
+          startDate { year month day }
           coverImage { extraLarge large } bannerImage
           nextAiringEpisode { airingAt episode }
           isAdult genres tags { name isMediaSpoiler }
@@ -45,7 +46,7 @@ async function fetchData() {
         
     } catch (error) {
         console.error('Veri çekme hatası:', error);
-        process.exit(1); // Action'ın başarısız olduğunu GitHub'a bildirmek için
+        process.exit(1); 
     }
 }
 
