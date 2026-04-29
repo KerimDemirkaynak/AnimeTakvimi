@@ -18,6 +18,11 @@
             "Xưởng Phép Thuật",
             "Ателье колдовских колпаков"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 6
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147105-rwOX8qyUy8gV.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147105-rwOX8qyUy8gV.jpg"
@@ -190,6 +195,11 @@
             "Re:ZERO รีเซทชีวิต ฝ่าวิกฤตต่างโลก ซีซั่น 4",
             "Re:ZERO – Жизнь с нуля в альтернативном мире 4"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 8
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg"
@@ -226,10 +236,6 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
@@ -238,12 +244,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Amnesia",
-              "isMediaSpoiler": true
+              "name": "Magic",
+              "isMediaSpoiler": false
             },
             {
-              "name": "Witch",
-              "isMediaSpoiler": false
+              "name": "Amnesia",
+              "isMediaSpoiler": true
             },
             {
               "name": "Time Manipulation",
@@ -254,11 +260,11 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Desert",
+              "name": "Witch",
               "isMediaSpoiler": false
             },
             {
-              "name": "Medieval",
+              "name": "Desert",
               "isMediaSpoiler": false
             },
             {
@@ -266,15 +272,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Elf",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Astronomy",
+              "name": "Medieval",
               "isMediaSpoiler": false
             },
             {
@@ -282,20 +280,32 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Astronomy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Elf",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Anthropomorphism",
               "isMediaSpoiler": true
             },
             {
-              "name": "Creature Taming",
-              "isMediaSpoiler": true
+              "name": "Gore",
+              "isMediaSpoiler": false
             },
             {
               "name": "Female Harem",
               "isMediaSpoiler": false
             },
             {
-              "name": "Gore",
-              "isMediaSpoiler": false
+              "name": "Creature Taming",
+              "isMediaSpoiler": true
             },
             {
               "name": "Shapeshifting",
@@ -382,6 +392,11 @@
             "Classroom of the Elite 2nd Year",
             "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ซีซั่น 4 ภาค ปี 2 เทอม 1"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 1
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180745-OEZaBeEdWozn.png",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png"
@@ -547,6 +562,11 @@
             "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว ซีซั่น 4",
             "О моём перерождении в слизь 4"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 3
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182205-q2AeO1owuQbO.jpg"
@@ -671,6 +691,11 @@
             "ยมลแห่งยมโลก",
             "Daemons do Reino das Sombras"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 4
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195600-moI0UFArtOme.jpg"
@@ -776,6 +801,11 @@
             "ตำนานดาบและคทาแห่งวิสตอเรีย ซีซั่น 2",
             "Tongkat Sihir dan Pedang Wistoria Season 2"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 12
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182300-IYkq5KrkQq1V.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182300-IYkq5KrkQq1V.jpg"
@@ -889,6 +919,11 @@
             "關於我在無意間被隔壁的天使變成廢柴這件事",
             "Aku Dimanjakan Tetanggaku yang Seperti Malaikat"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 3
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170019-djbN0b934MhE.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170019-djbN0b934MhE.jpg"
@@ -988,6 +1023,11 @@
             "Dr.STONE Season 4 Part 3",
             "ドクターストーン"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 2
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199221-TReDQMNhslHu.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199221-TReDQMNhslHu.jpg"
@@ -1109,6 +1149,11 @@
             "Marriage Toxin",
             "วิวาห์แต้มพิษ"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 7
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199547-LAaG3cmKCGhr.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199547-LAaG3cmKCGhr.jpg"
@@ -1263,6 +1308,11 @@
             "Kuranika",
             "クラにか"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 7
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169580-nXxpmqu6UVux.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg"
@@ -1355,6 +1405,11 @@
             "Стены изо льда",
             "ปราการน้ำแข็งแห่งหัวใจ"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 2
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186497-uwPrNPphXvjP.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186497-uwPrNPphXvjP.jpg"
@@ -1451,6 +1506,11 @@
             "Дорохедоро 2",
             "สาปพันธุ์อสูร ซีซั่น2"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 1
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173172-404XnuOS0DhR.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173172-404XnuOS0DhR.jpg"
@@ -1587,6 +1647,11 @@
             "オタギャル",
             "OtaGyaru"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 8
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199588-M2vtWicvqNbU.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199588-M2vtWicvqNbU.jpg"
@@ -1686,6 +1751,11 @@
             "TBATE S2",
             "Начало после конца 2"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 1
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194317-M7t2ymBDHqyW.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194317-M7t2ymBDHqyW.jpg"
@@ -1770,6 +1840,11 @@
             "BaruYome",
             "Принцесса-рыцарь — невеста варвара"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 9
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182483-La7chs6htDWr.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182483-La7chs6htDWr.jpg"
@@ -1882,6 +1957,11 @@
             "ลำนำรักผู้พิทักษ์ฤดูกาล ภาควสันตลีลา",
             "Sứ giả bốn mùa: Vũ Điệu Mùa Xuân"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 3,
+            "day": 29
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190143-IqqbkMAF0GOo.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190143-IqqbkMAF0GOo.jpg"
@@ -2026,6 +2106,11 @@
             "อาคาเนะ พลิกตำนานวงการราคุโกะ",
             "Сказание об Аканэ"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 4
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196935-RnLWBsEvNp8M.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196935-RnLWBsEvNp8M.jpg"
@@ -2161,6 +2246,11 @@
             "native": "異世界のんびり農家２"
           },
           "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 6
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197824-k9Uyef8g49hB.png",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197824-k9Uyef8g49hB.png"
@@ -2253,6 +2343,11 @@
             "NEEDY STREAMER OVERLOAD",
             "NEEDY GIRL OVERDOSE -OVERTURE-"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 5
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202102-7qDmTI7eT5xF.png",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202102-7qDmTI7eT5xF.png"
@@ -2406,6 +2501,11 @@
             " ライアーゲーム",
             "Игра лжецов"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 7
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png"
@@ -2517,6 +2617,11 @@
             "ท่านคานัน ปีศาจต๊อง บ๊องไม่มีใครเกิน",
             "Канан до чёртиков проста"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 5
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190704-Ts1VvkrNdnCZ.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190704-Ts1VvkrNdnCZ.jpg"
@@ -2675,6 +2780,11 @@
             "本好きの下剋上 司書になるためには手段を選んでいられません 第4期",
             "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 4
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg"
@@ -2813,6 +2923,11 @@
             "NIPPON SANGOKU: สามก๊กญี่ปุ่น",
             "Nippon Sangoku: A Guerra das Três Nações"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 5
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-SHKX08LarRzB.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206914-SHKX08LarRzB.jpg"
@@ -2930,6 +3045,11 @@
             "native": "愛してるゲームを終わらせたい"
           },
           "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 14
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194393-0H9yYABu6y0i.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg"
@@ -3020,6 +3140,11 @@
           "synonyms": [
             "อิรุมะคุง ผจญในแดนปีศาจ ซีซั่น 4"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 4
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184492-KUVFGieuMaOx.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg"
@@ -3141,6 +3266,11 @@
             "มหาศึกวีรชนข้ามภพ",
             "Лепестки реинкарнации"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 3
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179950-g95odyBfYEbU.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179950-g95odyBfYEbU.jpg"
@@ -3239,6 +3369,11 @@
           "synonyms": [
             "Go For It, Nakamura!"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 2
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180228-MuZ7adbGiYVj.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180228-MuZ7adbGiYVj.jpg"
@@ -3342,6 +3477,11 @@
           "synonyms": [
             "My Hero Academia No. 170+1: “More”"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 5,
+            "day": 2
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204356-7DZzU5jQEV5n.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204356-7DZzU5jQEV5n.jpg"
@@ -3413,6 +3553,11 @@
             "The Strongest Occupation Is Not a Hero or a Sage, but an Appraiser (Provisional)!",
             "Kanteishikari"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 1
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200769-8WkFkoFxc2fw.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200769-8WkFkoFxc2fw.jpg"
@@ -3509,6 +3654,11 @@
           "synonyms": [
             "โบตั๋น คามิอินะ งดงามดุจดอกลิลลี่ยามลอยละล่อง"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 11
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187869-LUn3dyTzuKUq.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187869-LUn3dyTzuKUq.jpg"
@@ -3631,6 +3781,11 @@
             "ポンスカ",
             "Бесполезный дежурный и школьница со слишком короткой юбкой"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 6
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189987-CkTDPfD7vu2Y.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189987-CkTDPfD7vu2Y.jpg"
@@ -3742,6 +3897,11 @@
           "synonyms": [
             "ยอดไก่นักสู้กู้โลก"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 3,
+            "day": 14
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179813-cLHpUPV1IiEm.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179813-cLHpUPV1IiEm.jpg"
@@ -3908,6 +4068,11 @@
             "คิลบลู",
             "Убивая юность"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 11
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198113-NRa47idWSlnx.jpg"
@@ -4034,6 +4199,11 @@
           "synonyms": [
             "Mission: Yozakura Family Season 2"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 12
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182578-Te8W0EwesgrS.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182578-Te8W0EwesgrS.jpg"
@@ -4122,6 +4292,11 @@
             "Observation Records of My Fiancée: The Misadventures of a Self-Proclaimed Villainess",
             "บันทึกสังเกตการณ์คู่หมั้นผู้ประกาศตัวเป็นนางร้าย"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 3
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192808-tfrX4Gn2Y1Ye.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg"
@@ -4211,6 +4386,11 @@
             "The Irregular at Magic High School THE MOVIE - Yotsuba Succession Arc-",
             "Непутёвый ученик в школе магии: Наследование Йоцубы"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 5,
+            "day": 8
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178707-Ys8zvR7BLECi.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178707-Ys8zvR7BLECi.jpg"
@@ -4272,6 +4452,11 @@
             "かのかり 5",
             "KanoKari 5"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 8
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199029-8eMkhHlD62Ik.png",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199029-8eMkhHlD62Ik.png"
@@ -4351,6 +4536,11 @@
             "YowaYowa Teacher",
             "คุณครูมาดหลอน หัวใจอ่อนแอ"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 11
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185211-ewfgT5Cn99k0.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185211-ewfgT5Cn99k0.jpg"
@@ -4468,6 +4658,11 @@
             "ラス為 2",
             "โศกนาฏกรรมของตัวร้ายสุดแกร่งอย่างราชินีลาสบอสจะขอถวายตัวเพื่อปวงชน ซีซั่น 2"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 7
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195268-HkEv0z9iTCJK.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195268-HkEv0z9iTCJK.jpg"
@@ -4567,6 +4762,11 @@
           "synonyms": [
             "Haibara’s Teenage New Game+"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 3
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195333-KUIF1eqOdVdd.png",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195333-KUIF1eqOdVdd.png"
@@ -4654,6 +4854,11 @@
             "マオ",
             "MAO หาญสู้พลิกชะตาอาถรรพณ์"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 4
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196012-R3YNjunufpYh.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196012-R3YNjunufpYh.jpg"
@@ -4763,6 +4968,11 @@
             "The Classroom of a Black Cat and a Witch",
             "Чёрная кошка и класс ведьм"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 12
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196974-mZk1uyrx0XNx.png"
@@ -4880,6 +5090,11 @@
             "Nigetsuri",
             "ปล่อยปลาตัวใหญ่หลุดมือไปก็จริง แต่ไหงถึงได้ปลาตัวใหญ่กว่ามาแทนกันล่ะคะ"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 2
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201817-pyfL9F8muPeq.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201817-pyfL9F8muPeq.jpg"
@@ -4981,6 +5196,11 @@
             "Matakoro",
             "Killed Again, Mr. Detective?"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 3
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202381-bxgyUXGtGtZj.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202381-bxgyUXGtGtZj.jpg"
@@ -5053,6 +5273,11 @@
             "บ้านพักคุสึโนกิกับสวนเทพเจ้า",
             "Божественный сад у поместья Кусуноки"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 5
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196029-4ML0UHngkZhn.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196029-4ML0UHngkZhn.jpg"
@@ -5146,6 +5371,11 @@
             "หนึ่งร้อยทิวทัศน์แห่งอาวาจิมะ",
             "Сто видов Авадзимы"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 10
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177501-lLkxUFVZ8uAj.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177501-lLkxUFVZ8uAj.jpg"
@@ -5267,6 +5497,11 @@
             "勇者の肋骨",
             "Yuusha no Rokkotsu"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 8
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206951-qiHcrw7pwzuq.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206951-qiHcrw7pwzuq.jpg"
@@ -5386,6 +5621,11 @@
             "自販機 3",
             "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 1
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198939-95aqzBr0Lzcv.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198939-95aqzBr0Lzcv.jpg"
@@ -5480,6 +5720,11 @@
           "synonyms": [
             "Даже копия способна влюбиться"
           ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 7
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186744-nFH4y2slUrO4.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186744-nFH4y2slUrO4.jpg"
@@ -5577,6 +5822,11 @@
             "native": "茉莉花ちゃんの好感度はぶっ壊れている"
           },
           "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 6
+          },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202523-NHeyiypiPnGP.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202523-NHeyiypiPnGP.jpg"
