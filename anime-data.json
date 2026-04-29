@@ -206,8 +206,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189046-MDk2CaVuRWpb.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777467600,
-            "episode": 4
+            "airingAt": 1778072400,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -403,8 +403,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180745-Iicz1F6Kuj4e.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777465800,
-            "episode": 8
+            "airingAt": 1778070600,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -722,11 +722,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Youkai",
+              "name": "Archery",
               "isMediaSpoiler": false
             },
             {
-              "name": "Archery",
+              "name": "Rural",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Youkai",
               "isMediaSpoiler": false
             },
             {
@@ -734,15 +738,11 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Rural",
+              "name": "Urban Fantasy",
               "isMediaSpoiler": false
             },
             {
               "name": "Twins",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
               "isMediaSpoiler": false
             },
             {
@@ -856,7 +856,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 79,
+          "averageScore": 80,
           "studios": {
             "nodes": [
               {
@@ -1688,11 +1688,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "School",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "School",
               "isMediaSpoiler": false
             },
             {
@@ -1918,7 +1918,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 66,
+          "averageScore": 67,
           "studios": {
             "nodes": [
               {
@@ -2769,6 +2769,141 @@
           ]
         },
         {
+          "id": 206914,
+          "title": {
+            "romaji": "Nippon Sangoku",
+            "english": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
+            "native": "日本三國"
+          },
+          "synonyms": [
+            "Nippon Sangoku: Trzy Narody Wschodzącego Słońca",
+            "Les Nations du Soleil Sanglant",
+            "NIPPON SANGOKU: สามก๊กญี่ปุ่น",
+            "Nippon Sangoku: A Guerra das Três Nações"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-SHKX08LarRzB.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206914-SHKX08LarRzB.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206914-owssGq2CGhRZ.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1777809600,
+            "episode": 5
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "tags": [
+            {
+              "name": "War",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Politics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Dystopian",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Military",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Philosophy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Post-Apocalyptic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Class Struggle",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Satire",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Revenge",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anachronism",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Rural",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 80,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Studio Kafka"
+              }
+            ]
+          },
+          "description": "<p>A revolution sparked by nuclear war, natural disaster, and misrule leads to the collapse of Japanese society. The country splits into three nations vying for hegemony, and the Sangoku era begins. Aoteru Misumi, a former agricultural officer, vows to reunify Japan. He rises through the ranks with only his knowledge and eloquence. Witness the legend of the man later hailed as a genius strategist.<br />\n<br><br><br />\n(Source: Amazon Prime Video)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://www.nipponsangoku.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/sangoku_PR"
+            },
+            {
+              "site": "Amazon Prime Video",
+              "url": "https://www.amazon.com/dp/B0GKZDKSJW"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@sangoku_pr"
+            }
+          ]
+        },
+        {
           "id": 171110,
           "title": {
             "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
@@ -2911,133 +3046,6 @@
           ]
         },
         {
-          "id": 206914,
-          "title": {
-            "romaji": "Nippon Sangoku",
-            "english": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
-            "native": "日本三國"
-          },
-          "synonyms": [
-            "Nippon Sangoku: Trzy Narody Wschodzącego Słońca",
-            "Les Nations du Soleil Sanglant",
-            "NIPPON SANGOKU: สามก๊กญี่ปุ่น",
-            "Nippon Sangoku: A Guerra das Três Nações"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-SHKX08LarRzB.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206914-SHKX08LarRzB.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206914-owssGq2CGhRZ.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1777809600,
-            "episode": 5
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Drama",
-            "Sci-Fi"
-          ],
-          "tags": [
-            {
-              "name": "War",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Politics",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dystopian",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Military",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Philosophy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Post-Apocalyptic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Class Struggle",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Satire",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Revenge",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Anachronism",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Rural",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 80,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Studio Kafka"
-              }
-            ]
-          },
-          "description": "<p>A revolution sparked by nuclear war, natural disaster, and misrule leads to the collapse of Japanese society. The country splits into three nations vying for hegemony, and the Sangoku era begins. Aoteru Misumi, a former agricultural officer, vows to reunify Japan. He rises through the ranks with only his knowledge and eloquence. Witness the legend of the man later hailed as a genius strategist.<br />\n<br><br><br />\n(Source: Amazon Prime Video)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://www.nipponsangoku.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/sangoku_PR"
-            },
-            {
-              "site": "Amazon Prime Video",
-              "url": "https://www.amazon.com/dp/B0GKZDKSJW"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@sangoku_pr"
-            }
-          ]
-        },
-        {
           "id": 194393,
           "title": {
             "romaji": "Aishiteru Game wo Owarasetai",
@@ -3078,11 +3086,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "CGI",
+              "name": "Tsundere",
               "isMediaSpoiler": false
             },
             {
-              "name": "Tsundere",
+              "name": "CGI",
               "isMediaSpoiler": false
             },
             {
@@ -3988,7 +3996,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 64,
+          "averageScore": 65,
           "studios": {
             "nodes": [
               {
@@ -4463,8 +4471,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1777467600,
-            "episode": 4
+            "airingAt": 1778072400,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -4720,7 +4728,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 68,
+          "averageScore": 69,
           "studios": {
             "nodes": [
               {
@@ -4844,120 +4852,6 @@
           ]
         },
         {
-          "id": 196012,
-          "title": {
-            "romaji": "MAO",
-            "english": "MAO",
-            "native": "MAO"
-          },
-          "synonyms": [
-            "マオ",
-            "MAO หาญสู้พลิกชะตาอาถรรพณ์"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196012-R3YNjunufpYh.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196012-R3YNjunufpYh.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1777733160,
-            "episode": 5
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Mystery",
-            "Romance",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Exorcism",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Youkai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Manipulation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 66,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Sunrise"
-              }
-            ]
-          },
-          "description": "<p><b>A curse that binds past and present.</b><br />\n<br><br><br />\nMao, a young mystic who lives in the Taisho period of early 1900s Japan, is a mysterious onmyoji who, after suffering a life-altering curse, has continued to live for nine hundred long years. His world becomes even stranger when he meets Nanoka Kiba, a junior high schooler who seems to have traveled from the future. In spite of her tender years, Nanoka has lived a strange life herself, marked by her traumatic experience as a young child losing both her parents to a grisly accident. But when Nanoka decides to return to that fateful shopping arcade, she is transported to another time and place - a world where supernatural ayakashi thrive in an era long before her own. There she meets Mao, whose abrupt and bizarre question prompts Nanoka to see herself and her curious life in a completely new light. Now the two travelers from different worlds unite as they take on the dark powers that grip both their lives.<br />\n<br><br>(Source: VIZ Media, Hulu, edited)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://www.anime-mao.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/MAOanimation"
-            },
-            {
-              "site": "Hulu",
-              "url": "https://www.hulu.com/series/mao-7c9b966e-4234-4994-b1ef-37242b834d72"
-            },
-            {
-              "site": "Disney Plus",
-              "url": "https://www.disneyplus.com/pt-br/browse/entity-6b6116ca-6f0b-4748-bb8d-b0fbb8eb5119"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2343716"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jh6jFqpP-B97p7eUzipzZzv"
-            }
-          ]
-        },
-        {
           "id": 196974,
           "title": {
             "romaji": "Kuroneko to Majo no Kyoushitsu",
@@ -5073,6 +4967,120 @@
             {
               "site": "YouTube",
               "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jh2Aq9dnBrcdmlUPfq5VQtL"
+            }
+          ]
+        },
+        {
+          "id": 196012,
+          "title": {
+            "romaji": "MAO",
+            "english": "MAO",
+            "native": "MAO"
+          },
+          "synonyms": [
+            "マオ",
+            "MAO หาญสู้พลิกชะตาอาถรรพณ์"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196012-R3YNjunufpYh.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196012-R3YNjunufpYh.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1777733160,
+            "episode": 5
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama",
+            "Mystery",
+            "Romance",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Exorcism",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Youkai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Manipulation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Demons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 66,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Sunrise"
+              }
+            ]
+          },
+          "description": "<p><b>A curse that binds past and present.</b><br />\n<br><br><br />\nMao, a young mystic who lives in the Taisho period of early 1900s Japan, is a mysterious onmyoji who, after suffering a life-altering curse, has continued to live for nine hundred long years. His world becomes even stranger when he meets Nanoka Kiba, a junior high schooler who seems to have traveled from the future. In spite of her tender years, Nanoka has lived a strange life herself, marked by her traumatic experience as a young child losing both her parents to a grisly accident. But when Nanoka decides to return to that fateful shopping arcade, she is transported to another time and place - a world where supernatural ayakashi thrive in an era long before her own. There she meets Mao, whose abrupt and bizarre question prompts Nanoka to see herself and her curious life in a completely new light. Now the two travelers from different worlds unite as they take on the dark powers that grip both their lives.<br />\n<br><br>(Source: VIZ Media, Hulu, edited)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://www.anime-mao.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/MAOanimation"
+            },
+            {
+              "site": "Hulu",
+              "url": "https://www.hulu.com/series/mao-7c9b966e-4234-4994-b1ef-37242b834d72"
+            },
+            {
+              "site": "Disney Plus",
+              "url": "https://www.disneyplus.com/pt-br/browse/entity-6b6116ca-6f0b-4748-bb8d-b0fbb8eb5119"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2343716"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jh6jFqpP-B97p7eUzipzZzv"
             }
           ]
         },
@@ -5238,7 +5246,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 57,
+          "averageScore": 58,
           "studios": {
             "nodes": [
               {
@@ -5356,6 +5364,130 @@
             {
               "site": "YouTube",
               "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JjlyxvkFA0-OyN6zwDTNjoA"
+            }
+          ]
+        },
+        {
+          "id": 206951,
+          "title": {
+            "romaji": "Megami \"Isekai Tensei Nani ni Naritai Desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+            "english": "My Ribdiculous Reincarnation",
+            "native": "女神「異世界転生何になりたいですか」 俺「勇者の肋骨で」"
+          },
+          "synonyms": [
+            "Goddess: \"What Do You Want to Turn Into When You're Reincarnated in Another World?\" Me: \"Into a Hero's Rib\"",
+            "勇者の肋骨",
+            "Yuusha no Rokkotsu"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 8
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206951-qiHcrw7pwzuq.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206951-qiHcrw7pwzuq.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206951-P1BNNpbqN4zG.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1778000340,
+            "episode": 5
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Mixed Media",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Surreal Comedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Afterlife",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Parody",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gods",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anti-Hero",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Episodic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Alternate Universe",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Stop Motion",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anthropomorphism",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Demons",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 62,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Qzil.la"
+              },
+              {
+                "name": "S.o.K"
+              }
+            ]
+          },
+          "description": "<p>My reincarnation destination is... “the rib of a harem-loving, happy-ending, overpowered hero”!? An isekai reincarnation anime that defies animation conventions is born!<br><br></p>\n<p>Beyond traditional animation, this series delivers an exhilarating isekai reincarnation tale through unconventional techniques like stop-motion, puppet theater, and live-action—featuring the aloof “Goddess” in charge of isekai reincarnations and the protagonist “Me,” who endures one absurd reincarnation after another!<br><br></p>\n<p>(Source: YouTube Channel, translated)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/rokkotsu_anime"
+            },
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/rokkotsu_anime/"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://rokkotsu-anime.com/"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/@rokkotsu-anime"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371665/my-ribdiculous-reincarnation"
             }
           ]
         },
@@ -5486,130 +5618,6 @@
           ]
         },
         {
-          "id": 206951,
-          "title": {
-            "romaji": "Megami \"Isekai Tensei Nani ni Naritai Desu ka\" Ore \"Yuusha no Rokkotsu de\"",
-            "english": "My Ribdiculous Reincarnation",
-            "native": "女神「異世界転生何になりたいですか」 俺「勇者の肋骨で」"
-          },
-          "synonyms": [
-            "Goddess: \"What Do You Want to Turn Into When You're Reincarnated in Another World?\" Me: \"Into a Hero's Rib\"",
-            "勇者の肋骨",
-            "Yuusha no Rokkotsu"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206951-qiHcrw7pwzuq.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206951-qiHcrw7pwzuq.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1778000340,
-            "episode": 5
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Mixed Media",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Surreal Comedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Afterlife",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Parody",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gods",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Anti-Hero",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Episodic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Alternate Universe",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Stop Motion",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Anthropomorphism",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 62,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Qzil.la"
-              },
-              {
-                "name": "S.o.K"
-              }
-            ]
-          },
-          "description": "<p>My reincarnation destination is... “the rib of a harem-loving, happy-ending, overpowered hero”!? An isekai reincarnation anime that defies animation conventions is born!<br><br></p>\n<p>Beyond traditional animation, this series delivers an exhilarating isekai reincarnation tale through unconventional techniques like stop-motion, puppet theater, and live-action—featuring the aloof “Goddess” in charge of isekai reincarnations and the protagonist “Me,” who endures one absurd reincarnation after another!<br><br></p>\n<p>(Source: YouTube Channel, translated)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/rokkotsu_anime"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/rokkotsu_anime/"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://rokkotsu-anime.com/"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/@rokkotsu-anime"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371665/my-ribdiculous-reincarnation"
-            }
-          ]
-        },
-        {
           "id": 198939,
           "title": {
             "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
@@ -5632,8 +5640,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1777467600,
-            "episode": 5
+            "airingAt": 1778072400,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
