@@ -3,579 +3,601 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Anime Takvimi</title>
-  <meta property="og:title" content="Anime Takvimi">
-  <meta property="og:description" content="Yeni anime bölümleri ne zaman yayınlanacak? Anilist verileriyle anlık geri sayım.">
-  <meta property="og:image" content="https://kerimdemirkaynak.github.io/resimler/20241121_055155.jpg">
-  <meta property="og:url" content="https://kerimdemirkaynak.github.io/">
-  <meta name="twitter:card" content="summary_large_image">
-  <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AniList_logo.svg/250px-AniList_logo.svg.png" type="image/png">
-  <!-- Google Fonts: Russo One (Header için), Poppins (Genel ve Anime Başlıkları için) -->
-  <link href="https://fonts.googleapis.com/css2?family=Russo+One&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <title>Anime Takvimi | Yeni Bölümler</title>
+  
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  
   <style>
-    * {
-      box-sizing: border-box;
+    :root {
+      --bg-base: #000000;
+      --bg-surface: #121212;
+      --bg-surface-light: #1e1e24;
+      --primary: #00c6ff;
+      --text-main: #ffffff;
+      --text-muted: #8a8a93;
+      --danger: #ff4757;
+      --transition: 0.25s ease;
     }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
     body {
-      font-family: 'Poppins', sans-serif; /* Varsayılan font Poppins */
-      background: #121212;
-      color: white;
-      margin: 0;
-      padding: 0;
+      font-family: 'Outfit', sans-serif;
+      background: var(--bg-base);
+      color: var(--text-main);
+      overflow-x: hidden;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
     }
+
+    ::-webkit-scrollbar { height: 4px; width: 6px; }
+    ::-webkit-scrollbar-track { background: var(--bg-base); }
+    ::-webkit-scrollbar-thumb { background: #333; border-radius: 10px; }
+
     header {
-      display: flex;
-      align-items: center;
-      padding: 12px 20px; /* Padding biraz arttı */
-      background: #1e1e1e;
-      border-bottom: 1px solid #2c2c2c;
-      position: sticky;
-      top: 0;
-      z-index: 1000;
+      display: flex; align-items: center; justify-content: space-between; padding: 12px 20px;
+      background: rgba(0, 0, 0, 0.85); backdrop-filter: blur(16px);
+      position: sticky; top: 0; z-index: 1000;
+      border-bottom: 1px solid rgba(255,255,255,0.05);
     }
-    header img {
-      height: 35px; /* Logo biraz büyüdü */
-      margin-right: 12px;
+    .header-left { display: flex; align-items: center; }
+    .header-left img { height: 24px; margin-right: 10px; }
+    .header-left h1 { font-size: 18px; font-weight: 700; margin: 0;}
+
+    .lang-switcher {
+        display: flex; background: rgba(255,255,255,0.1);
+        border-radius: 20px; overflow: hidden; cursor: pointer;
     }
-    header h1 {
-      font-family: 'Russo One', sans-serif; /* Sadece header başlığı Russo One */
-      font-size: 22px; /* Biraz büyüdü */
-      margin: 0;
-      color: #4fc3f7;
+    .lang-btn {
+        padding: 4px 12px; font-size: 0.8rem; font-weight: 700;
+        color: var(--text-muted); transition: var(--transition); user-select: none;
+    }
+    .lang-btn.active { background: var(--primary); color: #000; }
+
+    .filter-scroll-container {
+      width: 100%; background: linear-gradient(to bottom, rgba(0,0,0,0.95), rgba(0,0,0,0.8), transparent);
+      padding: 15px 20px 5px; position: sticky; top: 49px; z-index: 990;
     }
 
-    /* FİLTRELEME BÖLÜMÜ (Header Altında) */
-    .filter-controls-container {
-      background-color: #1a1a1a;
-      padding: 10px 20px; /* Dış padding */
-      border-bottom: 1px solid #2c2c2c;
-      /* position: sticky; JS ile yönetilecek */
-      /* top değeri JS ile ayarlanacak */
-      z-index: 990;
+    .search-box { position: relative; margin-bottom: 12px; max-width: 1400px; margin-inline: auto; }
+    .search-box input {
+        width: 100%; padding: 10px 15px 10px 40px; border-radius: 12px;
+        border: 1px solid rgba(255,255,255,0.1); background: var(--bg-surface);
+        color: white; font-family: inherit; font-size: 0.95rem; outline: none; transition: 0.3s;
     }
-    #toggleFilterBtn {
-      background-color: #282828;
-      color: #e0e0e0;
-      border: 1px solid #333;
-      padding: 10px 15px; /* İç padding */
-      border-radius: 6px;
-      cursor: pointer;
-      font-size: 1em; /* Buton yazısı biraz büyüdü */
-      width: 100%;
-      text-align: left;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      font-weight: 500; /* Daha okunaklı */
-    }
-    #toggleFilterBtn:hover {
-      background-color: #333;
-    }
-    #toggleFilterBtn .fa-filter { /* Font Awesome ikonu için */
-        margin-left: 10px;
-        font-size: 0.9em; /* İkon boyutu */
-    }
-    #toggleFilterBtn .arrow-indicator::before { /* CSS ok ikonu için */
-        content: '\25BC'; /* Aşağı ok */
-        display: inline-block;
-        transition: transform 0.2s ease-out;
-        font-size: 0.8em;
-        margin-left: 8px;
-    }
-    #toggleFilterBtn.open .arrow-indicator::before {
-        transform: rotate(180deg); /* Yukarı ok */
-    }
+    .search-box input:focus { border-color: var(--primary); box-shadow: 0 0 10px rgba(0,198,255,0.2); }
+    .search-box i { position: absolute; left: 15px; top: 50%; transform: translateY(-50%); color: var(--text-muted); }
 
-    .filter-panel {
-      background-color: #1c1c1c;
-      padding: 15px;
-      margin-top: 10px; /* Toggle butondan ayırmak için */
-      border: 1px solid #2f2f2f;
-      border-radius: 6px;
-      display: none; /* Başlangıçta gizli */
-      flex-direction: column;
-      gap: 15px;
+    .genre-pills { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 10px; scrollbar-width: none; max-width: 1400px; margin-inline: auto; }
+    .genre-pills::-webkit-scrollbar { display: none; }
+    .pill-btn {
+      background: var(--bg-surface); color: var(--text-muted); border: 1px solid rgba(255,255,255,0.1);
+      padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 500; cursor: pointer;
+      white-space: nowrap; transition: var(--transition); user-select: none; font-family: inherit;
     }
-    .filter-panel.open {
-      display: flex; /* .open sınıfı ile görünür yap */
-    }
-    .filter-group {
-      display: flex;
-      flex-direction: column;
-      gap: 6px;
-    }
-    .filter-group label {
-      font-size: 0.95em;
-      color: #b0b0b0;
-      font-weight: 500;
-    }
-    .filter-panel select, .filter-panel button {
-      padding: 9px 12px;
-      border-radius: 5px;
-      border: 1px solid #333;
-      background-color: #282828;
-      color: white;
-      font-family: 'Poppins', sans-serif;
-      font-size: 0.95em;
-      cursor: pointer;
-    }
-    .filter-panel select {
-      max-height: 150px; /* Select kutusunun yüksekliğini sınırlayalım */
-    }
-    .filter-panel button#applyFilterBtnPanel {
-      background-color: #4fc3f7;
-      color: #121212;
-      font-weight: 600;
-    }
-     .filter-panel button#resetFilterBtnPanel:hover {
-        background-color: #383838;
-    }
-    .filter-buttons-panel {
-        display: flex;
-        gap: 10px;
-        margin-top: 5px;
-    }
-    .filter-buttons-panel button {
-        flex: 1;
-    }
+    .pill-btn:hover { background: var(--bg-surface-light); color: var(--text-main); }
+    .pill-btn.active { background: var(--primary); color: #000; border-color: var(--primary); font-weight: 700; box-shadow: 0 0 10px rgba(0,198,255,0.3); }
 
-    main {
-      padding: 25px 20px;
-      max-width: 750px; /* Mobil için varsayılan max-width */
-      margin: 0 auto;
-    }
-    h2.page-title { text-align: center; margin-bottom: 35px; color: #e0e0e0; font-size: 1.8em; font-weight: 600;}
-    #loadingMessage { text-align: center; padding: 25px; font-size: 1.2em; color: #aaa; }
-    #animeList {
-      display: flex;
-      flex-direction: column; /* Mobil için varsayılan: tek sütun */
-      gap: 20px;
-    }
+    main { padding: 10px 20px 40px; flex: 1; max-width: 1400px; margin: 0 auto; width: 100%; }
 
-    .anime-card {
-      display: flex;
-      flex-direction: column;
-      background: #1e1e1e;
-      border-radius: 12px;
-      padding: 15px;
-      box-shadow: 0 3px 8px rgba(0,0,0,0.25);
-      /* Masaüstü için genişlik media query içinde ayarlanacak */
+    .hero-slider-container {
+        position: relative; width: 100%; height: 200px;
+        border-radius: 12px; overflow: hidden; margin-bottom: 24px;
+        display: none; box-shadow: 0 5px 20px rgba(0,0,0,0.5); transition: opacity 0.3s;
     }
-     .anime-card:hover {
-        box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-        transform: translateY(-2px);
-        transition: transform 0.2s ease-out, box-shadow 0.2s ease-out;
+    @media(min-width: 768px) { .hero-slider-container { height: 350px; margin-bottom: 30px;} }
+    .hero-slider { display: flex; height: 100%; transition: transform 0.6s cubic-bezier(0.25, 1, 0.5, 1); }
+    .slide { min-width: 100%; position: relative; cursor: pointer; }
+    .slide img { width: 100%; height: 100%; object-fit: cover; }
+    .slide-overlay {
+        position: absolute; bottom: 0; left: 0; right: 0;
+        background: linear-gradient(to top, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.4) 60%, transparent 100%);
+        padding: 20px; display: flex; flex-direction: column; justify-content: flex-end; height: 100%;
     }
+    .slide-badge { background: var(--primary); color: #000; padding: 4px 10px; border-radius: 6px; font-size: 0.75rem; font-weight: 800; width: max-content; margin-bottom: 8px;}
+    .slide-title { font-size: 1.3rem; font-weight: 700; color: #fff; margin-bottom: 5px; text-shadow: 2px 2px 5px rgba(0,0,0,0.8); line-height: 1.2; }
+    @media(min-width: 768px) { .slide-title { font-size: 2.2rem; margin-bottom: 10px;} }
+    .slider-dots { position: absolute; bottom: 15px; right: 20px; display: flex; gap: 8px; }
+    .dot { width: 8px; height: 8px; background: rgba(255,255,255,0.4); border-radius: 50%; cursor: pointer; transition: 0.3s; }
+    .dot.active { background: var(--primary); transform: scale(1.4); }
 
-    .anime-top { display: flex; gap: 18px; }
-    .anime-image img {
-      width: 110px;
-      height: 165px;
-      object-fit: cover;
-      border-radius: 8px;
-      flex-shrink: 0;
-    }
-    .anime-info { flex: 1; display: flex; flex-direction: column; justify-content: space-between; }
-    .anime-title {
-      font-family: 'Poppins', sans-serif;
-      font-size: 1.2em;
-      font-weight: 600;
-      line-height: 1.3;
-      margin-bottom: 8px;
-      word-break: break-word;
-      color: #58c9f3;
-      cursor: pointer;
-    }
-    .anime-title:hover { text-decoration: underline; color: #4fc3f7; }
-    .episode-number {
-      font-size: 1em;
-      font-weight: 500;
-      color: #e0e0e0;
-      margin-bottom: 6px;
-    }
-    .airing-time {
-      font-size: 0.9em;
-      color: #b0b0b0;
-      margin-bottom: 10px;
-    }
-    .platform-links { margin-top: auto; }
-    .platform-links a { display: inline-block; margin-right: 8px; height: 22px; }
-    .platform-links img { height: 100%; object-fit: contain; filter: brightness(0) invert(1); transition: transform 0.2s ease; }
-    .platform-links a:hover img { transform: scale(1.1); }
-    .info-button {
-      margin-top: 12px;
-      background: #333;
-      border: none;
-      color: white;
-      padding: 7px 12px;
-      border-radius: 6px;
-      cursor: pointer;
-      font-size: 0.9em;
-      font-weight: 500;
-      align-self: flex-start;
-    }
-    .info-button:hover { background-color: #444; }
+    .loader-container { display: flex; flex-direction: column; align-items: center; justify-content: center; height: 30vh; color: var(--text-muted); }
+    .spinner { width: 40px; height: 40px; border: 3px solid rgba(255,255,255,0.1); border-top-color: var(--primary); border-radius: 50%; animation: spin 1s linear infinite; margin-bottom: 15px; }
+    @keyframes spin { to { transform: rotate(360deg); } }
 
-    .modal { display: none; position: fixed; z-index: 9999; left: 0; top: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.7); backdrop-filter: blur(3px); opacity: 0; animation: fadeInModal 0.3s forwards; }
-    .modal-content { background-color: #1a1a2e; margin: 10% auto; padding: 25px; width: 90%; max-width: 450px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3), 0 0 20px rgba(0, 198, 255, 0.2); transform: translateY(-20px); animation: slideInModal 0.4s 0.1s forwards cubic-bezier(0.25, 0.46, 0.45, 0.94); border-top: 3px solid #00c6ff; font-family: 'Poppins', sans-serif;}
-    @keyframes fadeInModal { to { opacity: 1; } } @keyframes slideInModal { to { transform: translateY(0); opacity: 1; } } @keyframes fadeOutModal { to { opacity: 0; } } @keyframes slideOutModal { to { transform: translateY(-20px); opacity: 0; } }
-    .modal.fade-out { animation: fadeOutModal 0.3s forwards; } .modal.fade-out .modal-content { animation: slideOutModal 0.4s forwards cubic-bezier(0.55, 0.085, 0.68, 0.53); }
-    .close { color: #b0b0b0; float: right; font-size: 24px; font-weight: bold; cursor: pointer; transition: color 0.2s ease, transform 0.2s ease; } .close:hover { color: #00c6ff; transform: rotate(90deg); }
-    #modalContent h3 { font-family: 'Poppins', sans-serif !important; font-weight: 600; }
-    #modalContent p { margin-bottom: 12px; font-size: 1.0em; color: #e0e0e0; } #modalContent strong { color: #92effd; margin-right: 4px; }
-    .modal-anilist-button { display: inline-block; margin-top: 15px; background: transparent; border: 1px solid #00c6ff; color: #92effd; padding: 8px 15px; border-radius: 8px; cursor: pointer; font-size: 0.9em; font-weight: 600; text-decoration: none; transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease; font-family: 'Poppins', sans-serif;} .modal-anilist-button:hover { background-color: #00c6ff; color: #1a1a2e; box-shadow: 0 0 10px #00c6ff; }
+    #animeList { display: grid; grid-template-columns: repeat(auto-fill, minmax(105px, 1fr)); gap: 12px; }
+    @media (min-width: 768px) { #animeList { grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 16px; } }
 
-    footer { text-align: center; font-size: 13px; padding: 20px; background: #1e1e1e; border-top: 1px solid #2c2c2c; margin-top: 30px; } footer a { color: #4fc3f7; text-decoration: none; margin: 0 10px; } footer a:hover { text-decoration: underline; }
+    .anime-card { position: relative; border-radius: 8px; overflow: hidden; aspect-ratio: 2 / 3; cursor: pointer; background: var(--bg-surface); box-shadow: 0 4px 10px rgba(0,0,0,0.4); transition: var(--transition); }
+    .anime-card:hover { transform: translateY(-4px) scale(1.03); z-index: 10; box-shadow: 0 8px 20px rgba(0,198,255,0.2);}
+    .anime-card img.poster { width: 100%; height: 100%; object-fit: cover; transition: var(--transition); }
+    .anime-card:hover img.poster { filter: brightness(0.5); }
 
-    /* Filtreleme bölümünün mobil için sticky durumu */
-    @media (max-width: 768px) {
-      .filter-controls-container {
-        position: sticky;
-        /* top değeri JS ile ayarlanacak */
-      }
-    }
+    .card-overlay { position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0.6) 60%, transparent 100%); padding: 15px 8px 8px; display: flex; flex-direction: column; justify-content: flex-end; height: 65%; pointer-events: none; }
+    .episode-badge { position: absolute; top: 0; left: 0; background: var(--primary); color: #000; padding: 4px 8px; border-radius: 0 0 8px 0; font-size: 0.7rem; font-weight: 800; }
+    .anime-title { font-size: 0.85rem; font-weight: 600; color: #fff; line-height: 1.2; margin-bottom: 4px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-shadow: 1px 1px 2px rgba(0,0,0,0.9); }
+    .airing-time { font-size: 0.75rem; color: var(--primary); font-weight: 600; display: flex; align-items: center; gap: 4px; }
 
-    /* Masaüstü için ayarlar */
-    @media (min-width: 769px) {
-        .filter-controls-container {
-            position: static; /* Masaüstünde normal akışta */
-            top: auto;
-            /* İsteğe bağlı: Ana içerik genişlerse filtre kontrollerini de ortalamak için
-            max-width: 1100px;
-            margin-left: auto;
-            margin-right: auto;
-            padding-left: 0;
-            padding-right: 0; */
-        }
+    .modal { display: none; position: fixed; z-index: 9999; left: 0; top: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.85); backdrop-filter: blur(8px); opacity: 0; animation: fadeIn 0.2s forwards; }
+    .modal-content { background: var(--bg-surface); margin: 5vh auto; width: 90%; max-width: 500px; max-height: 90vh; display: flex; flex-direction: column; border-radius: 12px; overflow: hidden; border: 1px solid rgba(255,255,255,0.1); position: relative; transform: translateY(20px); animation: slideUp 0.3s forwards cubic-bezier(0.25, 0.8, 0.25, 1); }
+    @keyframes fadeIn { to { opacity: 1; } } @keyframes fadeOut { to { opacity: 0; } } @keyframes slideUp { to { transform: translateY(0); } } .modal.fade-out { animation: fadeOut 0.2s forwards; }
+    
+    .modal-banner { width: 100%; height: 160px; object-fit: cover; background: #1a1a1a; display: block; flex-shrink: 0; }
+    .close { position: absolute; top: 12px; right: 12px; background: rgba(0,0,0,0.6); color: #fff; width: 30px; height: 30px; border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; font-size: 18px; transition: var(--transition); z-index: 10; }
+    .close:hover { background: var(--danger); transform: rotate(90deg); }
+    
+    .modal-body { padding: 20px; overflow-y: auto; -webkit-overflow-scrolling: touch; }
+    .modal-body::-webkit-scrollbar { width: 5px; }
+    .modal-body::-webkit-scrollbar-track { background: transparent; }
+    .modal-body::-webkit-scrollbar-thumb { background: #333; border-radius: 5px; }
+    .modal-body::-webkit-scrollbar-thumb:hover { background: var(--primary); }
+    
+    .modal-body h3 { font-size: 1.3rem; margin-bottom: 12px; color: #fff; line-height: 1.2;}
+    .modal-details { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 12px; }
+    .detail-item { display: flex; flex-direction: column; gap: 4px; }
+    .detail-label { font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase; }
+    .detail-value { font-size: 0.9rem; font-weight: 500; color: #fff; }
+    
+    .platforms-container { display: flex; flex-wrap: wrap; gap: 8px; }
+    .platforms-container a { display: inline-flex; align-items: center; background: #fff; padding: 4px; border-radius: 4px; transition: transform 0.2s; }
+    .platforms-container a:hover { transform: scale(1.1); }
+    .platforms-container img { height: 16px; object-fit: contain; filter: brightness(0); }
 
-        main {
-            max-width: 1100px; /* Masaüstünde ana içerik alanını üç kart için genişlet */
-        }
+    .modal-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; margin-bottom: 15px; }
+    .tag { background: rgba(255,255,255,0.15); padding: 3px 8px; border-radius: 4px; font-size: 0.75rem; color: #e0e0e0;}
+    
+    .modal-summary-section { background: rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.05); border-radius: 8px; padding: 12px; margin-bottom: 15px; }
+    .summary-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
+    .translate-btn { background: #4285F4; color: #fff; padding: 4px 10px; border-radius: 6px; font-size: 0.75rem; font-weight: 600; text-decoration: none; display: inline-flex; align-items: center; gap: 5px; transition: var(--transition);}
+    .translate-btn:hover { background: #3367d6; }
+    .summary-text { font-size: 0.85rem; color: #ccc; line-height: 1.5; padding-right: 5px; }
 
-        #animeList {
-          flex-direction: row;    /* Kartları yan yana sırala */
-          flex-wrap: wrap;        /* Sığmayan kartları alt satıra at */
-          justify-content: flex-start; /* Kartları sola yasla */
-          /* gap: 20px; zaten tanımlı ve hem satırlar hem sütunlar arası boşluk sağlar */
-        }
-
-        .anime-card {
-          width: calc((100% - 40px) / 3); /* Her kart (Toplam %100 - 2*gap) / 3. (gap=20px) */
-        }
-    }
+    .modal-action { margin-top: 10px; }
+    .modal-anilist-button { display: flex; align-items: center; justify-content: center; gap: 8px; width: 100%; background: var(--primary); color: #000; padding: 12px; border-radius: 8px; font-weight: 700; text-decoration: none; transition: var(--transition); font-size: 0.95rem;}
+    .modal-anilist-button:hover { background: #fff; transform: scale(1.02); }
+    
+    footer { text-align: center; padding: 20px; font-size: 0.8rem; color: var(--text-muted); margin-top: auto; border-top: 1px solid rgba(255,255,255,0.05); }
+    footer a { color: var(--primary); text-decoration: none; }
   </style>
 </head>
 <body>
-  <header id="pageHeader">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/AniList_logo.svg" alt="Logo">
-    <h1>Anime Takvimi</h1>
+
+  <header>
+    <div class="header-left">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/AniList_logo.svg" alt="AniList">
+        <h1 id="ui-header-title">Anime Takvimi</h1>
+    </div>
+    <div class="lang-switcher" id="langSwitcher">
+        <div class="lang-btn" data-lang="tr">TR</div>
+        <div class="lang-btn" data-lang="en">EN</div>
+    </div>
   </header>
 
-  <div class="filter-controls-container" id="filterControlsContainer">
-    <button id="toggleFilterBtn">
-        <span>Filtrele</span>
-        <span class="arrow-indicator"></span> <!-- CSS Ok ikonu için span -->
-        <!-- <i class="fas fa-filter"></i> Font Awesome ikonu kullanılacaksa bu aktif edilebilir, span kaldırılabilir -->
-    </button>
-    <div class="filter-panel" id="filterPanel">
-      <div class="filter-group">
-        <label for="genreFilter">Türe Göre:</label>
-        <select id="genreFilter" multiple>
-          <option value="">Tüm Türler</option>
-        </select>
-      </div>
-      <div class="filter-buttons-panel">
-        <button id="applyFilterBtnPanel">Uygula</button>
-        <button id="resetFilterBtnPanel">Sıfırla</button>
-      </div>
+  <div class="filter-scroll-container">
+    <div class="search-box">
+        <i class="fa-solid fa-magnifying-glass"></i>
+        <input type="text" id="searchInput" placeholder="Anime ara (Örn: DanMachi)...">
     </div>
+    <div class="genre-pills" id="genrePillsContainer"></div>
   </div>
 
   <main>
-    <h2 class="page-title">Yeni Anime Bölümleri</h2>
-    <div id="loadingMessage">Yükleniyor...</div>
+    <div class="hero-slider-container" id="heroSliderContainer">
+        <div class="hero-slider" id="heroSlider"></div>
+        <div class="slider-dots" id="sliderDots"></div>
+    </div>
+
+    <div id="loadingContainer" class="loader-container">
+        <div class="spinner"></div>
+        <p id="ui-loading-text">Bölümler taranıyor...</p>
+    </div>
+    
     <div id="animeList"></div>
   </main>
 
-  <div id="infoModal" class="modal"> <div class="modal-content"> <span class="close">×</span> <div id="modalContent"></div> </div> </div>
-  <footer> <p> <a href="https://kerimdemirkaynak.github.io/">Ana Sayfa</a> | <a href="https://kerimdemirkaynak.github.io/hakkinda">Hakkında</a> | <a href="https://kerimdemirkaynak.github.io/iletisim">İletişim</a> </p> <p>© <span id="year"></span> Kerim Demirkaynak - Tüm hakları saklıdır</p> </footer>
+  <div id="infoModal" class="modal"> 
+    <div class="modal-content"> 
+        <span class="close">&times;</span> 
+        <img id="modalBanner" class="modal-banner" src="" alt="Banner">
+        <div class="modal-body">
+            <h3 id="modalTitle"></h3>
+            
+            <div class="modal-details">
+                <div class="detail-item"><span class="detail-label" id="ui-modal-studio">Stüdyo</span><span class="detail-value" id="modalStudio"></span></div>
+                <div class="detail-item"><span class="detail-label" id="ui-modal-score">Puan</span><span class="detail-value" id="modalScore"></span></div>
+                <div class="detail-item" style="grid-column: 1 / -1;">
+                    <span class="detail-label" id="ui-modal-platforms">Platformlar</span>
+                    <div class="platforms-container" id="modalPlatforms"></div>
+                </div>
+                <div class="detail-item" style="grid-column: 1 / -1;">
+                    <span class="detail-label" id="ui-modal-genres">Türler</span>
+                    <span class="detail-value" id="modalGenres"></span>
+                </div>
+            </div>
+            
+            <div class="modal-tags" id="modalTags"></div>
+
+            <div class="modal-summary-section">
+                <div class="summary-header">
+                    <span class="detail-label" style="color: var(--primary); font-weight: 600;" id="ui-modal-summary">Konu Özeti</span>
+                    <a id="modalTranslateBtn" href="#" target="_blank" class="translate-btn">
+                        <i class="fa-brands fa-google"></i> <span id="ui-btn-translate">Çevir</span>
+                    </a>
+                </div>
+                <div class="summary-text" id="modalSummary"></div>
+            </div>
+
+            <div class="modal-action">
+                <a id="modalLink" href="#" target="_blank" class="modal-anilist-button">
+                    <span id="ui-btn-anilist">AniList Sayfasına Git</span> <i class="fa-solid fa-arrow-right"></i>
+                </a>
+            </div>
+        </div>
+    </div> 
+  </div>
+
+  <footer> 
+    <p><a href="https://kerimdemirkaynak.github.io/">Ana Sayfa</a> | &copy; 2026 Kerim Demirkaynak</p> 
+  </footer>
+
   <script>
-  document.getElementById('year').textContent = new Date().getFullYear();
-  const platformLogos = { "Crunchyroll": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Crunchyroll_2024.svg", "HIDIVE": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Hidive_text_logo.svg", "YouTube": "https://upload.wikimedia.org/wikipedia/commons/0/08/YouTube_light_logo_%282024%29.svg", "Bilibili TV": "https://upload.wikimedia.org/wikipedia/en/b/b7/Bilibili_logo.svg", "Netflix": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" };
-  const monthNames = ['Ocak', 'Şubat', 'Mart', 'Nisan', 'Mayıs', 'Haziran', 'Temmuz', 'Ağustos', 'Eylül', 'Ekim', 'Kasım', 'Aralık'];
-
-  const genreTranslations = {
-    "Action": "Aksiyon", "Adventure": "Macera", "Comedy": "Komedi", "Drama": "Dram", "Ecchi": "Cinsellik", "Fantasy": "Fantastik", "Horror": "Korku", "Mahou Shoujo": "Büyülü Kız", "Mecha": "Meka", "Music": "Müzik", "Mystery": "Gizem", "Psychological": "Psikolojik", "Romance": "Romantizm", "Sci-Fi": "Bilim Kurgu", "Slice of Life": "Hayattan Kesitler", "Sports": "Spor", "Supernatural": "Doğaüstü", "Thriller": "Gerilim"
+  // ÇOKLU DİL (i18n) STATİK METİNLER
+  const i18n = {
+      tr: {
+          headerTitle: "Anime Takvimi", searchPlaceholder: "Anime ara (Örn: DanMachi, SAO)...",
+          all: "🔥 Tümü", loading: "Bölümler taranıyor...", noResults: "Kriterlere uygun anime bulunamadı.",
+          seasonHit: "Sezonun Gözdesi", out: "Çıktı", ago: "önce", days: "g", hours: "s", mins: "d", ep: "BLM",
+          studio: "Stüdyo", score: "Puan", platforms: "Platformlar", genres: "Türler",
+          summaryTitle: "Konu Özeti", translateBtn: "Çevir", anilistBtn: "AniList Sayfasına Git",
+          unknown: "Bilinmiyor", none: "Yok", unlisted: "Belirtilmemiş", error: "Hata", jsonError: "Çeviri dosyası yüklenemedi!"
+      },
+      en: {
+          headerTitle: "Anime Calendar", searchPlaceholder: "Search anime (e.g. DanMachi, SAO)...",
+          all: "🔥 All", loading: "Scanning episodes...", noResults: "No anime found matching criteria.",
+          seasonHit: "Season Hit", out: "Released", ago: "ago", days: "d", hours: "h", mins: "m", ep: "EP",
+          studio: "Studio", score: "Score", platforms: "Platforms", genres: "Genres",
+          summaryTitle: "Synopsis", translateBtn: "Translate", anilistBtn: "Go to AniList",
+          unknown: "Unknown", none: "N/A", unlisted: "Unlisted", error: "Error", jsonError: "Failed to load translation file!"
+      }
   };
-  const tagTranslations = {
-    "4-koma": "4-koma", "Achronological Order": "Kronolojik Olmayan Sıra", "Afterlife": "Ölüm Sonrası Yaşam", "Age Gap": "Yaş Farkı", "Airsoft": "Airsoft", "Aliens": "Uzaylılar", "Alternate Universe": "Alternatif Evren", "American Football": "Amerikan Futbolu", "Amnesia": "Hafıza Kaybı", "Anti-Hero": "Anti-Kahraman", "Archery": "Okçuluk", "Assassins": "Suikastçılar", "Athletics": "Atletizm", "Augmented Reality": "Artırılmış Gerçeklik", "Aviation": "Havacılık", "Badminton": "Badminton", "Band": "Müzik Grubu", "Bar": "Bar", "Baseball": "Beyzbol", "Basketball": "Basketbol", "Battle Royale": "Battle Royale", "Biographical": "Biyografik", "Bisexual": "Biseksüel", "Body Swapping": "Vücut Değiştirme", "Boxing": "Boks", "Bullying": "Zorbalık", "Calligraphy": "Kaligrafi", "Card Battle": "Kart Savaşı", "Cars": "Arabalar", "CGI": "CGI", "Chibi": "Minyatür Çizim", "Chuunibyou": "8. Sınıf Sendromu", "Classic Literature": "Klasik Edebiyat", "College": "Üniversite", "Coming of Age": "Yetişkinliğe Geçiş", "Cosplay": "Kosplay", "Crossdressing": "Çapraz Giyinme", "Crossover": "Farklı Animelerin İş Birliği", "Cultivation": "Yetiştirme", "Cute Girls Doing Cute Things": "Sevimli Kızlar Sevimli Şeyler Yapıyor", "Cyberpunk": "Siberpunk", "Cycling": "Bisiklet", "Dancing": "Dans", "Delinquents": "Hınzırlar", "Demons": "İblisler", "Development": "Gelişim", "Detective": "Dedektif", "Dragons": "Ejderhalar", "Drawing": "Çizim", "Dystopian": "Distopik", "Economics": "Ekonomi", "Educational": "Eğitici", "Ensemble Cast": "Geniş Kadro", "Environmental": "Çevresel", "Episodic": "Episodik", "Espionage": "Casusluk", "Fairy Tale": "Peri Masalı", "Family Life": "Aile Hayatı", "Fashion": "Moda", "Female Protagonist": "Kadın Başrol", "Fishing": "Balıkçılık", "Fitness": "Fitness", "Flash": "Flash Animasyon", "Food": "Yemek", "Football": "Futbol", "Foreign": "Yabancı", "Fugitive": "Kaçak", "Full CGI": "Tamamen CGI", "Full Colour": "Tam Renkli", "Gambling": "Kumar", "Gangs": "Çeteler", "Gender Bending": "Cinsiyet Değişimi", "Gender Neutral": "Cinsiyetsiz", "Ghost": "Hayalet", "Gods": "Tanrılar", "Gore": "Vahşet", "Guns": "Ateşli Silahlar", "Gyaru": "Gyaru", "Harem": "Harem", "Henshin": "Dönüşüm", "Hikikomori": "Eve Kapanık", "Historical": "Tarihi", "Ice Skating": "Buz Pateni", "Idol": "İdol", "Isekai": "Başka Dünya", "Iyashikei": "Rahatlatıcı", "Josei": "Josei", "Kaiju": "Dev Canavar", "Karuta": "Karuta", "Kemonomimi": "Hayvan Kulaklıklar", "Kids": "Çocuk", "Love Triangle": "Aşk Üçgeni", "Mafia": "Mafya", "Magic": "Büyü", "Mahjong": "Mahjong", "Maids": "Hizmetçiler", "Male Protagonist": "Erkek Başrol", "Martial Arts": "Dövüş Sanatları", "Memory Manipulation": "Hafıza Manipülasyonu", "Meta": "Meta", "Military": "Askeri", "Monster Girl": "Canavar Kız", "Mopeds": "Moped", "Motorcycles": "Motosikletler", "Musical": "Müzikal", "Mythology": "Mitoloji", "Nekomimi": "Kedi Kulaklılar", "Ninja": "Ninja", "No Dialogue": "Diyalogsuz", "Noir": "Kara Film", "Nudity": "Çıplaklık", "Otaku Culture": "Otaku Kültürü", "Outdoor": "Doğa Aktiviteleri", "Parody": "Parodi", "Philosophy": "Felsefi", "Photography": "Fotoğrafçılık", "Pirates": "Korsanlar", "Poker": "Poker", "Police": "Polis", "Politics": "Siyaset", "Post-Apocalyptic": "Kıyamet Sonrası", "Primarily Adult Cast": "Yetişkin Kadro Ağırlıklı", "Primarily Female Cast": "Kadın Kadro Ağırlıklı", "Primarily Male Cast": "Erkek Kadro Ağırlıklı", "Puppetry": "Kukla Sanatı", "Real Robot": "Gerçekçi Robot", "Rehabilitation": "Rehabilitasyon", "Reincarnation": "Reenkarnasyon", "Revenge": "İntikam", "Reverse Harem": "Ters Harem", "Robots": "Robotlar", "Rugby": "Ragbi", "Rural": "Kırsal Yaşam", "Samurai": "Samuray", "Satire": "Hiciv", "School": "Okul", "School Club": "Okul Kulübü", "Seinen": "Seinen", "Ships": "Gemiler", "Shogi": "Şogi", "Shoujo": "Şojo", "Shoujo Ai": "Lezbiyen Aşkı", "Shounen": "Şonen", "Shounen Ai": "Gay Aşkı", "Slapstick": "Kaba Komedi", "Slavery": "Kölelik", "Space": "Uzay", "Space Opera": "Uzay Operası", "Steampunk": "Steampunk", "Stop Motion": "Stop Motion", "Super Power": "Süper Güç", "Super Robot": "Süper Robot", "Superhero": "Süper Kahraman", "Surreal Comedy": "Absürt Komedi", "Survival": "Hayatta Kalma", "Swimming": "Yüzme", "Swordplay": "Kılıç Dövüşü", "Table Tennis": "Masa Tenisi", "Tanks": "Tanklar", "Teacher": "Öğretmen", "Tennis": "Tenis", "Terrorism": "Terörizm", "Time Manipulation": "Zaman Manipülasyonu", "Time Skip": "Zaman Atlaması", "Time Travel": "Zaman Yolculuğu", "Tragedy": "Trajedi", "Trains": "Trenler", "Triads": "Triadlar", "Tsundere": "Tsundere", "Urban Fantasy": "Şehir Fantastisi", "Vampire": "Vampir", "Video Games": "Video Oyunları", "Virtual World": "Sanal Dünya", "Volleyball": "Voleybol", "War": "Savaş", "Witch": "Cadı", "Work": "İş Hayatı", "Wrestling": "Güreş", "Writing": "Yazarlık", "Wuxia": "Wuxia", "Yakuza": "Japon Mafyası", "Yandere": "Takıntılı Kadın", "Youkai": "Japon Hayaleti", "Achromatic": "Akromatik", "Acrobatics": "Akrobasi", "Acting": "Oyunculuk", "Adoption": "Evlat Edinme", "Advertisement": "Reklam", "Age Regression": "Yaş Gerilemesi", "Agender": "Cinsiyetsiz", "Agriculture": "Tarım", "Alchemy": "Simya", "Anachronism": "Anakronizm", "Ancient China": "Antik Çin", "Angels": "Melekler", "Animals": "Hayvanlar", "Anthology": "Antoloji", "Anthropomorphism": "Antropomorfizm", "Aromantic": "Aromantik", "Arranged Marriage": "Görücü Usulü Evlilik", "Artificial Intelligence": "Yapay Zeka", "Asexual": "Aseksüel", "Astronomy": "Astronomi", "Autobiographical": "Otobiyografik", "Blackmail": "Şantaj", "Board Game": "Kutu Oyunu", "Boarding School": "Yatılı Okul", "Body Horror": "Ceset Korkusu", "Body Image": "Beden İmajı", "Bowling": "Bowling", "Boys' Love": "Gay Aşkı", "Butler": "Uşak", "Camping": "Kampçılık", "Cannibalism": "Yamyamlık", "Centaur": "At İnsan", "Cheerleading": "Amigoluk", "Chimera": "Kimera", "Circus": "Sirk", "Class Struggle": "Sınıf Mücadelesi", "Classical Music": "Klasik Müzik", "Clone": "Klon", "Coastal": "Kıyı Bölgesi", "Cohabitation": "Birlikte Yaşama", "Conspiracy": "Komplo", "Cosmic Horror": "Kozmik Korku", "Cowboys": "Kovboylar", "Creature Taming": "Yaratık Evcilleştirme", "Crime": "Suç", "Criminal Organization": "Suç Örgütü", "Cult": "Kült", "Curses": "Lanetler", "Cute Boys Doing Cute Things": "Sevimli Erkekler Sevimli Şeyler Yapıyor", "Cyborg": "Siborg", "Death Game": "Ölüm Oyunu", "Denpa": "Denpa", "Desert": "Çöl", "Dinosaurs": "Dinozorlar", "Disability": "Engellilik", "Dissociative Identities": "Çoklu Kişilik Bozukluğu", "Drugs": "Uyuşturucu Maddeler", "Dullahan": "Dullahan", "Dungeon": "Zindan", "E-Sports": "E-Spor", "Eco-Horror": "Ekolojik Korku", "Elderly Protagonist": "Yaşlı Başrol", "Elf": "Elf", "Ero Guro": "Ero Guro", "Estranged Family": "Ayrılmış Aile", "Exorcism": "Şeytan Çıkarma", "Fairy": "Peri", "Fake Relationship": "Sahte İlişki", "Female Harem": "Kadın Haremi", "Femboy": "Femboy", "Fencing": "Eskrim", "Filmmaking": "Film Yapımı", "Firefighters": "İtfaiyeciler", "Found Family": "Sonradan Kurulan Aile", "Full Color": "Tam Renkli", "Go": "Go (Oyun)", "Goblin": "Goblin", "Golf": "Golf", "Handball": "Hentbol", "Heterosexual": "Heteroseksüel", "Hip-hop Music": "Hip-hop Müzik", "Homeless": "Evsiz", "Horticulture": "Bahçıvanlık", "Indigenous Cultures": "Yerli Kültürler", "Inn": "Han", "Jazz Music": "Caz Müzik", "Judo": "Judo", "Kingdom Management": "Krallık Yönetimi", "Konbini": "Bakkal", "Kuudere": "Duygusuz Karakter", "Lacrosse": "Lakros", "Language Barrier": "Dil Engeli", "LGBTQ+ Themes": "Eş Cinsel Temalar", "Long Strip": "Webtoon", "Lost Civilization": "Kayıp Uygarlık", "Makeup": "Makyaj", "Male Harem": "Erkek Haremi", "Marriage": "Evlilik", "Matchmaking": "Çöpçatanlık", "Matriarchy": "Anaerkillik", "Medicine": "Tıp", "Medieval": "Orta Çağ", "Mermaid": "Deniz Kızı", "Metal Music": "Metal Müzik", "Mixed Gender Harem": "Çok Cinsiyetli Harem", "Mixed Media": "Karma Medya", "Monster Boy": "Canavar Çocuk", "Mountaineering": "Dağcılık", "Musical Theater": "Müzikal Tiyatrosu", "Natural Disaster": "Doğal Afet", "Necromancy": "Nekromansi", "Non-fiction": "Kurgu Dışı", "Nun": "Rahibe", "Office": "Ofis", "Office Lady": "Ofis Çalışanı Kadın", "Oiran": "Oiran", "Ojou-sama": "Prenses", "Orphan": "Yetim", "Outdoor Activities": "Doğa Aktiviteleri", "Pandemic": "Pandemi", "Parenthood": "Ebeveynlik", "Parkour": "Parkur", "Polyamorous": "Çok Eşlilik", "POV": "Bakış Açısı", "Pregnancy": "Hamilelik", "Primarily Animal Cast": "Hayvan Ağırlıklı Kadro", "Primarily Child Cast": "Çocuk Ağırlıklı Kadro", "Primarily Teen Cast": "Genç Ağırlıklı Kadro", "Prison": "Hapishane", "Proxy Battle": "Vekalet Savaşı", "Psychosexual": "Psikoseksüel", "Rakugo": "Rakugo", "Religion": "Din", "Rescue": "Kurtarma", "Restaurant": "Restoran", "Rock Music": "Rock Müzik", "Rotoscoping": "Rotoskopi", "Royal Affairs": "Kraliyet Meseleleri", "Scuba Diving": "Tüplü Dalış", "Shapeshifting": "Şekil Değiştirme", "Shrine Maiden": "Tapınak Bakiresi", "Skateboarding": "Kaykay", "Skeleton": "İskelet", "Snowscape": "Karlı Hava", "Software Development": "Yazılım Geliştirme", "Spearplay": "Mızrak Dövüşü", "Succubus": "Azgın Şeytan", "Suicide": "İntihar", "Sumo": "Sumo Güreşi", "Surfing": "Sörf", "Tanned Skin": "Bronz Ten", "Teens' Love": "Genç Aşkı", "Time Loop": "Zaman Döngüsü", "Tokusatsu": "Tokusatsu", "Tomboy": "Erkek Fatma", "Torture": "İşkence", "Transgender": "İbne", "Travel": "Seyahat", "Twins": "İkizler", "Unrequited Love": "Karşılıksız Aşk", "Urban": "Kentsel", "Vertical Video": "Dikey Video", "Veterinarian": "Veteriner", "Vikings": "Vikingler", "Villainess": "Kötü Kadın Karakter", "Vocal Synth": "Vokal Sentezleyici", "VTuber": "Sanal YouTuber", "Werewolf": "Kurt Adam", "Wilderness": "Vahşi Doğa", "Yuri": "Lezbiyen Aşkı", "Femdom": "Dominant Kadın", "Inseki": "Üvey Aile İlişkisi", "Large Breasts": "Büyük Göğüsler", "Zombie": "Zombi"
+
+  let currentLang = navigator.language.startsWith('tr') ? 'tr' : 'en';
+
+  // DİNAMİK ÇEVİRİ OBJELERİ
+  let genreTranslations = {};
+  let tagTranslations = {};
+
+  const platformLogos = { 
+      "Crunchyroll": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Crunchyroll_2024.svg", 
+      "HIDIVE": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Hidive_text_logo.svg", 
+      "YouTube": "https://upload.wikimedia.org/wikipedia/commons/0/08/YouTube_light_logo_%282024%29.svg", 
+      "Bilibili TV": "https://upload.wikimedia.org/wikipedia/en/b/b7/Bilibili_logo.svg", 
+      "Netflix": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+      "Hulu": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Hulu_Logo.svg",
+      "Amazon Prime Video": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png"
   };
 
-  function translateGenre(originalGenre) { return genreTranslations[originalGenre] || originalGenre; }
-  function translateTag(originalTag) { return tagTranslations[originalTag] || originalTag; }
+  function translateGenre(g) { return currentLang === 'tr' ? (genreTranslations[g] || g) : g; }
+  function translateTag(t) { return currentLang === 'tr' ? (tagTranslations[t] || t) : t; }
 
-  let allFetchedAnimes = [];
-  const animeListContainer = document.getElementById('animeList');
-  const loadingMessage = document.getElementById('loadingMessage');
-  const toggleFilterBtn = document.getElementById('toggleFilterBtn');
-  const filterPanel = document.getElementById('filterPanel');
-  const filterControlsContainer = document.getElementById('filterControlsContainer');
-  const genreFilterSelect = document.getElementById('genreFilter');
-  const applyFilterBtnPanel = document.getElementById('applyFilterBtnPanel');
-  const resetFilterBtnPanel = document.getElementById('resetFilterBtnPanel');
-  const pageHeader = document.getElementById('pageHeader');
-
-  function adjustFilterContainerStickyTop() {
-    const headerHeight = pageHeader.offsetHeight;
-    if (window.innerWidth <= 768) {
-        filterControlsContainer.style.top = headerHeight + 'px';
-    } else {
-        filterControlsContainer.style.top = 'auto';
-    }
+  function getAnimeTitle(anime) {
+      if (currentLang === 'en' && anime.title.english) return anime.title.english;
+      return anime.title.romaji;
   }
 
-  toggleFilterBtn.addEventListener('click', () => {
-    filterPanel.classList.toggle('open');
-    toggleFilterBtn.classList.toggle('open');
-  });
+  let allAnimes = [];
+  let selectedGenres = [];
+  let searchTerm = "";
+  let currentSlide = 0;
+  let slideInterval;
 
-  function handleResizeAndLoad() {
-      if (window.innerWidth <= 768) {
-          adjustFilterContainerStickyTop();
-          filterControlsContainer.style.position = 'sticky';
-      } else {
-          filterControlsContainer.style.position = 'static';
-          filterControlsContainer.style.top = 'auto';
+  const animeListContainer = document.getElementById('animeList');
+  const loadingContainer = document.getElementById('loadingContainer');
+  const genrePillsContainer = document.getElementById('genrePillsContainer');
+  const searchInput = document.getElementById('searchInput');
+
+  // GitHub üzerinden JSON çeviri dosyasını yükleme
+  async function loadTranslations() {
+      try {
+          const response = await fetch('https://raw.githubusercontent.com/KerimDemirkaynak/AnimeTakvimi/refs/heads/main/turtemaceviri.json');
+          if (!response.ok) throw new Error("JSON Fetch Error");
+          const data = await response.json();
+          
+          if (data.tur) data.tur.forEach(item => { genreTranslations[item.orijinal] = item.ceviri; });
+          if (data.tema) data.tema.forEach(item => { tagTranslations[item.orijinal] = item.ceviri; });
+      } catch (error) {
+          console.warn(i18n[currentLang].jsonError, error);
       }
   }
 
-  window.addEventListener('resize', handleResizeAndLoad);
-  document.addEventListener('DOMContentLoaded', handleResizeAndLoad);
+  function updateStaticUI() {
+      const t = i18n[currentLang];
+      document.getElementById('ui-header-title').textContent = t.headerTitle;
+      document.getElementById('searchInput').placeholder = t.searchPlaceholder;
+      document.getElementById('ui-loading-text').textContent = t.loading;
+      document.getElementById('ui-modal-studio').textContent = t.studio;
+      document.getElementById('ui-modal-score').textContent = t.score;
+      document.getElementById('ui-modal-platforms').textContent = t.platforms;
+      document.getElementById('ui-modal-genres').textContent = t.genres;
+      document.getElementById('ui-modal-summary').textContent = t.summaryTitle;
+      document.getElementById('ui-btn-translate').textContent = t.translateBtn;
+      document.getElementById('ui-btn-anilist').textContent = t.anilistBtn;
 
-  function getCurrentSeasonAndYear() {
-    const date = new Date();
-    const month = date.getMonth(); // 0 (Ocak) - 11 (Aralık)
-    const year = date.getFullYear();
-    let season;
+      document.querySelectorAll('.lang-btn').forEach(btn => {
+          btn.classList.toggle('active', btn.getAttribute('data-lang') === currentLang);
+      });
+  }
 
-    if (month >= 0 && month <= 2) { // Ocak, Şubat, Mart
-      season = 'WINTER';
-    } else if (month >= 3 && month <= 5) { // Nisan, Mayıs, Haziran
-      season = 'SPRING';
-    } else if (month >= 6 && month <= 8) { // Temmuz, Ağustos, Eylül
-      season = 'SUMMER';
-    } else { // Ekim, Kasım, Aralık (month >= 9 && month <= 11)
-      season = 'FALL';
-    }
-    return { season, year };
+  document.querySelectorAll('.lang-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+          currentLang = e.target.getAttribute('data-lang');
+          updateStaticUI();
+          if (allAnimes.length > 0) {
+              setupFilters(allAnimes); 
+              applyFilters(); 
+              initSlider(allAnimes); 
+          }
+      });
+  });
+
+  function initSlider(rawData) {
+      const sliderAnimes = rawData.filter(a => !a.isAdult && a.bannerImage).slice(0, 5);
+      const sliderContainer = document.getElementById('heroSliderContainer');
+      const sliderTrack = document.getElementById('heroSlider');
+      const dotsContainer = document.getElementById('sliderDots');
+
+      if(sliderAnimes.length === 0 || searchTerm !== "" || selectedGenres.length > 0) {
+          sliderContainer.style.display = 'none';
+          return;
+      }
+
+      sliderContainer.style.display = 'block';
+      sliderTrack.innerHTML = '';
+      dotsContainer.innerHTML = '';
+
+      sliderAnimes.forEach((anime, index) => {
+          const slide = document.createElement('div');
+          slide.className = 'slide';
+          slide.onclick = () => showInfo(anime);
+          slide.innerHTML = `
+              <img src="${anime.bannerImage}" alt="Banner" loading="lazy">
+              <div class="slide-overlay">
+                  <div class="slide-badge"><i class="fa-solid fa-fire"></i> ${i18n[currentLang].seasonHit}</div>
+                  <div class="slide-title">${getAnimeTitle(anime)}</div>
+              </div>
+          `;
+          sliderTrack.appendChild(slide);
+
+          const dot = document.createElement('div');
+          dot.className = `dot ${index === 0 ? 'active' : ''}`;
+          dot.onclick = () => goToSlide(index);
+          dotsContainer.appendChild(dot);
+      });
+
+      startSlideTimer(sliderAnimes.length);
+  }
+
+  function goToSlide(index) {
+      const sliderTrack = document.getElementById('heroSlider');
+      const dots = document.querySelectorAll('.dot');
+      currentSlide = index;
+      sliderTrack.style.transform = `translateX(-${index * 100}%)`;
+      dots.forEach(d => d.classList.remove('active'));
+      if(dots[index]) dots[index].classList.add('active');
+  }
+
+  function startSlideTimer(totalSlides) {
+      clearInterval(slideInterval);
+      slideInterval = setInterval(() => {
+          currentSlide = (currentSlide + 1) % totalSlides;
+          goToSlide(currentSlide);
+      }, 4000); 
   }
 
   function renderAnimeCards(animesToDisplay) {
     animeListContainer.innerHTML = '';
+    const t = i18n[currentLang];
+
     if (animesToDisplay.length === 0) {
-      animeListContainer.innerHTML = '<p style="text-align:center; color:#aaa;">Filtreyle eşleşen anime bulunamadı.</p>';
+      animeListContainer.innerHTML = `<div style="grid-column: 1/-1; text-align:center; padding:40px; color:#666;"><i class="fa-regular fa-face-frown" style="font-size:2.5rem; margin-bottom:10px; display:block;"></i>${t.noResults}</div>`;
       return;
     }
+
     const now = Math.floor(Date.now() / 1000);
     animesToDisplay.forEach(anime => {
       const ep = anime.nextAiringEpisode;
-      const anilistLink = `https://anilist.co/anime/${anime.id}`;
       const diff = ep.airingAt - now;
-      let airingText = '';
-      const days = Math.floor(diff / 86400);
-      const hours = Math.floor((diff % 86400) / 3600);
-      const minutes = Math.floor((diff % 3600) / 60);
-      if (diff > 0) {
-        airingText = `${days > 0 ? days + ' gün ' : ''}${hours > 0 || days > 0 ? hours + ' sa ' : ''}${minutes} dk sonra`;
-      } else {
-        const ago = Math.abs(diff);
-        const hoursAgo = Math.floor(ago / 3600);
-        const minutesAgo = Math.floor((ago % 3600) / 60);
-        if (hoursAgo > 72) {
-          airingText = `${Math.floor(hoursAgo/24)} gün önce yayınlandı`;
-        } else {
-          airingText = `${hoursAgo > 0 ? hoursAgo + ' sa ' : ''}${minutesAgo} dk önce yayınlandı`;
-        }
-      }
-      const episodeText = `${ep.episode}. Bölüm`;
-      let platformHTML = '';
-      anime.externalLinks.forEach(link => {
-        if (platformLogos[link.site]) {
-          platformHTML += `<a href="${link.url}" target="_blank" title="${link.site}"><img src="${platformLogos[link.site]}" alt="${link.site}"></a>`;
-        }
-      });
-      const translatedGenres = anime.genres.map(genre => translateGenre(genre)).join(', ') || 'Belirtilmemiş';
-      const translatedTags = anime.tags.filter(t => !t.isMediaSpoiler).slice(0, 3).map(t => translateTag(t.name)).join(', ') || 'Belirtilmemiş';
-      const score = anime.averageScore ? `${(anime.averageScore / 10).toFixed(1)} / 10` : 'Puan yok';
-      const monthText = anime.startDate?.month ? monthNames[anime.startDate.month - 1] : '';
-      const startDate = anime.startDate?.year && monthText ? `${anime.startDate.day ? anime.startDate.day + ' ' : ''}${monthText} ${anime.startDate.year}` : 'Bilinmiyor';
-      const studio = anime.studios.nodes.length > 0 ? anime.studios.nodes[0].name : 'Bilinmiyor';
+      const absDiff = Math.abs(diff);
+      
+      const d = Math.floor(absDiff / 86400);
+      const h = Math.floor((absDiff % 86400) / 3600);
+      const m = Math.floor((absDiff % 3600) / 60);
+      
+      let timeStr = `${d > 0 ? d + t.days + ' ' : ''}${h > 0 ? h + t.hours + ' ' : ''}${m}${t.mins}`;
+      
+      let airingText = diff > 0 
+          ? `<i class="fa-regular fa-clock"></i> ${timeStr}` 
+          : `<i class="fa-solid fa-check-double" style="color:#2ecc71"></i> ${timeStr} ${t.ago}`;
 
       const card = document.createElement('div');
       card.className = 'anime-card';
       card.innerHTML = `
-        <div class="anime-top">
-          <div class="anime-image">
-            <img src="${anime.coverImage.medium}" alt="${anime.title.romaji}" loading="lazy">
-          </div>
-          <div class="anime-info">
-            <div>
-              <div class="anime-title" onclick="window.open('${anilistLink}', '_blank')">${anime.title.romaji}</div>
-              <div class="episode-number">${episodeText}</div>
-              <div class="airing-time">${airingText}</div>
-            </div>
-            <div>
-              <div class="platform-links">${platformHTML || '<span style="font-size:0.8em; color: #999;">Platform bilgisi yok</span>'}</div>
-              <button class="info-button">Daha fazla bilgi</button>
-            </div>
-          </div>
-        </div>`;
-      card.querySelector('.info-button').onclick = (event) => {
-        event.stopPropagation();
-        showInfo(anime.title.romaji, startDate, translatedGenres, translatedTags, score, studio, anilistLink);
-      };
+          <div class="episode-badge">${t.ep} ${ep.episode}</div>
+          <img class="poster" src="${anime.coverImage.large}" alt="Poster" loading="lazy">
+          <div class="card-overlay">
+            <div class="anime-title" title="${getAnimeTitle(anime)}">${getAnimeTitle(anime)}</div>
+            <div class="airing-time">${airingText}</div>
+          </div>`;
+          
+      card.onclick = () => showInfo(anime);
       animeListContainer.appendChild(card);
     });
   }
 
-  function populateGenreFilter(animes) {
-    const allGenres = new Set();
-    animes.forEach(anime => { anime.genres.forEach(genre => allGenres.add(genre)); });
-    while (genreFilterSelect.options.length > 1) { genreFilterSelect.remove(1); }
-    const sortedGenres = Array.from(allGenres).sort();
-    sortedGenres.forEach(genre => {
-      const option = document.createElement('option');
-      option.value = genre;
-      option.textContent = translateGenre(genre);
-      genreFilterSelect.appendChild(option);
+  function applyFilters() {
+      let filtered = allAnimes;
+
+      if (searchTerm) {
+          const lowerTerm = searchTerm.toLowerCase();
+          filtered = filtered.filter(a => {
+              const romajiMatch = a.title.romaji?.toLowerCase().includes(lowerTerm);
+              const enMatch = a.title.english?.toLowerCase().includes(lowerTerm);
+              const synMatch = a.synonyms?.some(s => s.toLowerCase().includes(lowerTerm));
+              return romajiMatch || enMatch || synMatch;
+          });
+      }
+
+      if (selectedGenres.length > 0) {
+          filtered = filtered.filter(a => selectedGenres.every(g => a.genres.includes(g)));
+      }
+
+      if(searchTerm || selectedGenres.length > 0) {
+          document.getElementById('heroSliderContainer').style.display = 'none';
+      } else {
+          document.getElementById('heroSliderContainer').style.display = 'block';
+      }
+
+      renderAnimeCards(filtered);
+  }
+
+  searchInput.addEventListener('input', (e) => {
+      searchTerm = e.target.value.trim();
+      applyFilters();
+  });
+
+  function setupFilters(animes) {
+    const genres = new Set();
+    animes.forEach(a => a.genres.forEach(g => genres.add(g)));
+    
+    genrePillsContainer.innerHTML = `<button class="pill-btn ${selectedGenres.length === 0 ? 'active' : ''}" data-genre="All">${i18n[currentLang].all}</button>`;
+    
+    Array.from(genres).sort().forEach(genre => {
+      const isActive = selectedGenres.includes(genre) ? 'active' : '';
+      genrePillsContainer.innerHTML += `<button class="pill-btn ${isActive}" data-genre="${genre}">${translateGenre(genre)}</button>`;
+    });
+
+    document.querySelectorAll('.pill-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        const clickedGenre = e.target.getAttribute('data-genre');
+        const allBtn = document.querySelector('.pill-btn[data-genre="All"]');
+
+        if (clickedGenre === "All") {
+            selectedGenres = [];
+            document.querySelectorAll('.pill-btn').forEach(b => b.classList.remove('active'));
+            e.target.classList.add('active');
+        } else {
+            allBtn.classList.remove('active');
+            if (selectedGenres.includes(clickedGenre)) {
+                selectedGenres = selectedGenres.filter(g => g !== clickedGenre);
+                e.target.classList.remove('active');
+            } else {
+                selectedGenres.push(clickedGenre);
+                e.target.classList.add('active');
+            }
+            if (selectedGenres.length === 0) allBtn.classList.add('active');
+        }
+        applyFilters();
+      });
     });
   }
 
-  function applyFilters() {
-    const selectedGenres = Array.from(genreFilterSelect.selectedOptions).map(option => option.value).filter(value => value !== "");
-    let filteredAnimes = allFetchedAnimes;
-    if (selectedGenres.length > 0) {
-      filteredAnimes = filteredAnimes.filter(anime => selectedGenres.some(selectedGenre => anime.genres.includes(selectedGenre)));
-    }
-    renderAnimeCards(filteredAnimes);
-  }
-
-  applyFilterBtnPanel.addEventListener('click', applyFilters);
-  resetFilterBtnPanel.addEventListener('click', () => {
-    Array.from(genreFilterSelect.options).forEach(option => option.selected = false);
-    if (genreFilterSelect.options.length > 0) { // "Tüm Türler" seçeneğini tekrar seçili yap
-        genreFilterSelect.options[0].selected = true;
-    }
-    renderAnimeCards(allFetchedAnimes);
-  });
-
-  async function getAnimeList() {
-    loadingMessage.style.display = 'block';
-    animeListContainer.innerHTML = '';
-    filterControlsContainer.style.display = 'none';
-    filterPanel.classList.remove('open');
-    toggleFilterBtn.classList.remove('open');
-
-    const { season, year } = getCurrentSeasonAndYear();
-    const query = `
-      query {
-        Page(perPage: 50) {
-          media(season: ${season}, seasonYear: ${year}, type: ANIME, sort: POPULARITY_DESC, status_in: [RELEASING, NOT_YET_RELEASED]) {
-            id
-            title { romaji }
-            coverImage { medium }
-            startDate { year month day }
-            nextAiringEpisode { airingAt episode }
-            isAdult
-            genres
-            tags { name isMediaSpoiler }
-            averageScore
-            externalLinks { site url }
-            studios(isMain: true) { nodes { name } }
-          }
-        }
-      }`;
-
+  // YENİDEN YAZILMIŞ VERİ ÇEKME FONKSİYONU
+  async function fetchAnimeData() {
+    updateStaticUI();
     try {
-      const response = await fetch('https://graphql.anilist.co', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
-        body: JSON.stringify({ query })
-      });
+      // Artık doğrudan eylem tarafından oluşturulan dosyayı okuyoruz
+      const response = await fetch('./anime-data.json');
+      
+      if (!response.ok) throw new Error("Veri dosyası bulunamadı. GitHub Action henüz çalışmamış olabilir.");
+      
       const data = await response.json();
+      if (!data.data?.Page?.media) throw new Error("Geçersiz veri formatı");
 
-      if (!data.data || !data.data.Page || !data.data.Page.media || data.data.Page.media.length === 0) {
-        loadingMessage.textContent = 'Bu sezon için gösterilecek anime bulunamadı.';
-        filterControlsContainer.style.display = 'none';
-        return;
-      }
+      const rawData = data.data.Page.media;
+      
+      const now = Math.floor(Date.now() / 1000);
+      const limit = 7 * 24 * 60 * 60; // 1 Hafta
 
-      const nowForFilter = Math.floor(Date.now() / 1000);
-      const sevenDaysInSeconds = 7 * 24 * 60 * 60;
-
-      allFetchedAnimes = data.data.Page.media.filter(anime => {
-        if (!anime.isAdult && anime.nextAiringEpisode && anime.nextAiringEpisode.airingAt) {
-          const airingTime = anime.nextAiringEpisode.airingAt;
-          const timeDifference = airingTime - nowForFilter;
-           return Math.abs(timeDifference) <= sevenDaysInSeconds; // Son 7 gün ve gelecek 7 gün içindekiler
-        }
-        return false;
+      allAnimes = rawData.filter(a => {
+          if (a.isAdult || !a.nextAiringEpisode?.airingAt) return false;
+          return Math.abs(a.nextAiringEpisode.airingAt - now) <= limit;
+      }).sort((a, b) => {
+          return Math.abs(a.nextAiringEpisode.airingAt - now) - Math.abs(b.nextAiringEpisode.airingAt - now);
       });
 
-      if (allFetchedAnimes.length === 0) {
-        loadingMessage.textContent = 'Yakın zamanda yayınlanacak veya yeni yayınlanmış anime bulunamadı.';
-        filterControlsContainer.style.display = 'none';
-        return;
-      }
-
-      allFetchedAnimes.sort((a, b) => a.nextAiringEpisode.airingAt - b.nextAiringEpisode.airingAt);
-      loadingMessage.style.display = 'none';
-      filterControlsContainer.style.display = 'block';
-      handleResizeAndLoad();
-      populateGenreFilter(allFetchedAnimes);
-      renderAnimeCards(allFetchedAnimes);
+      loadingContainer.style.display = 'none';
+      initSlider(allAnimes); 
+      setupFilters(allAnimes);
+      renderAnimeCards(allAnimes);
 
     } catch (error) {
-      console.error("API Hatası:", error);
-      loadingMessage.textContent = 'Veri alınırken bir hata oluştu.';
-      filterControlsContainer.style.display = 'none';
+      loadingContainer.innerHTML = `<p style="color:var(--danger);">${i18n[currentLang].error}: ${error.message}</p>`;
     }
   }
 
   const modal = document.getElementById('infoModal');
-  const modalContentDiv = document.getElementById('modalContent');
-  const closeButton = modal.querySelector('.close');
 
-  function showInfo(title, date, genres, tags, score, studio, anilistLink) {
-    modalContentDiv.innerHTML = `
-      <h3 style="color: #00c6ff; margin-bottom: 15px; text-align: center; font-family: 'Poppins', sans-serif !important; font-weight:600;">${title}</h3>
-      <p><strong>Başlangıç:</strong> ${date}</p>
-      <p><strong>Stüdyo:</strong> ${studio}</p>
-      <p><strong>Türler:</strong> ${genres}</p>
-      <p><strong>Temalar:</strong> ${tags}</p>
-      <p><strong>Puan:</strong> ${score}</p>
-      <p style="text-align: center; margin-top: 20px;">
-        <a href="${anilistLink}" target="_blank" class="modal-anilist-button">AniList Sayfası</a>
-      </p>`;
+  function showInfo(anime) {
+    const t = i18n[currentLang];
+    document.getElementById('modalBanner').src = anime.bannerImage || anime.coverImage.extraLarge || anime.coverImage.large;
+    document.getElementById('modalTitle').textContent = getAnimeTitle(anime);
+    document.getElementById('modalStudio').textContent = anime.studios.nodes.length ? anime.studios.nodes[0].name : t.unknown;
+    document.getElementById('modalScore').innerHTML = anime.averageScore ? `${(anime.averageScore/10).toFixed(1)} <i class="fa-solid fa-star" style="color:#f1c40f"></i>` : t.none;
+    document.getElementById('modalGenres').textContent = anime.genres.map(translateGenre).join(', ') || '-';
+    
+    let platformsHTML = '';
+    anime.externalLinks.forEach(link => {
+        if (platformLogos[link.site]) {
+            platformsHTML += `<a href="${link.url}" target="_blank" title="${link.site}"><img src="${platformLogos[link.site]}" alt="${link.site}"></a>`;
+        }
+    });
+    document.getElementById('modalPlatforms').innerHTML = platformsHTML || `<span style="font-size: 0.8rem; color:#aaa;">${t.unlisted}</span>`;
+
+    const validTags = anime.tags.filter(tag => !tag.isMediaSpoiler).slice(0, 4);
+    document.getElementById('modalTags').innerHTML = validTags.map(tag => `<span class="tag">${translateTag(tag.name)}</span>`).join('');
+    
+    let descHtml = anime.description || "";
+    document.getElementById('modalSummary').innerHTML = descHtml || `<span style="color:#777;">${t.unknown}</span>`;
+    
+    const tempDiv = document.createElement("div");
+    tempDiv.innerHTML = descHtml;
+    const plainText = tempDiv.textContent || tempDiv.innerText || "";
+    
+    const translateBtn = document.getElementById('modalTranslateBtn');
+    if (anime.description) {
+        translateBtn.style.display = 'inline-flex';
+        const targetLang = currentLang === 'tr' ? 'tr' : 'en';
+        translateBtn.href = `https://translate.google.com/?sl=auto&tl=${targetLang}&text=${encodeURIComponent(plainText)}&op=translate`;
+    } else {
+        translateBtn.style.display = 'none';
+    }
+
+    document.getElementById('modalLink').href = `https://anilist.co/anime/${anime.id}`;
+    
+    document.querySelector('.modal-body').scrollTop = 0;
+    
     modal.style.display = 'block';
     modal.classList.remove('fade-out');
   }
 
   function closeModal() {
     modal.classList.add('fade-out');
-    modal.addEventListener('animationend', function handler(event) {
-      if (event.target === modal && modal.classList.contains('fade-out')) {
-        modal.style.display = 'none';
-      }
-      modal.removeEventListener('animationend', handler);
-    }, { once: true });
+    setTimeout(() => { if (modal.classList.contains('fade-out')) modal.style.display = 'none'; }, 200);
   }
 
-  closeButton.onclick = closeModal;
-  window.onclick = function(event) { if (event.target == modal) { closeModal(); } };
+  document.querySelector('.close').onclick = closeModal;
+  window.onclick = (e) => { if (e.target == modal) closeModal(); };
 
-  getAnimeList();
+  // UYGULAMAYI BAŞLATMA
+  async function initApp() {
+      updateStaticUI();
+      await loadTranslations();
+      fetchAnimeData();
+  }
+  
+  initApp();
   </script>
 </body>
 </html>
