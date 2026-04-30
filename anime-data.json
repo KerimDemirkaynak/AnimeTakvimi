@@ -236,11 +236,11 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Female Protagonist",
+              "name": "Time Loop",
               "isMediaSpoiler": false
             },
             {
-              "name": "Time Loop",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -256,19 +256,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Witch",
               "isMediaSpoiler": false
             },
             {
-              "name": "Desert",
-              "isMediaSpoiler": false
+              "name": "Tragedy",
+              "isMediaSpoiler": true
             },
             {
-              "name": "Cult",
+              "name": "Desert",
               "isMediaSpoiler": false
             },
             {
@@ -276,7 +272,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Cult",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Travel",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anthropomorphism",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Gore",
               "isMediaSpoiler": false
             },
             {
@@ -292,14 +300,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Anthropomorphism",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Female Harem",
               "isMediaSpoiler": false
             },
@@ -308,11 +308,11 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Shapeshifting",
+              "name": "Gods",
               "isMediaSpoiler": true
             },
             {
-              "name": "Gods",
+              "name": "Shapeshifting",
               "isMediaSpoiler": true
             },
             {
@@ -1329,11 +1329,11 @@
           ],
           "tags": [
             {
-              "name": "Otaku Culture",
+              "name": "School",
               "isMediaSpoiler": false
             },
             {
-              "name": "School",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -1341,7 +1341,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Otaku Culture",
               "isMediaSpoiler": false
             },
             {
@@ -1517,8 +1517,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173172-tkPQqLzfnxYN.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777471200,
-            "episode": 7
+            "airingAt": 1778076000,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -1658,8 +1658,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199588-I4HoR4YjnpqD.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777473900,
-            "episode": 4
+            "airingAt": 1778078700,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -1676,15 +1676,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
               "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
             },
             {
@@ -1762,8 +1762,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1777473000,
-            "episode": 5
+            "airingAt": 1778077800,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -2033,14 +2033,6 @@
             {
               "name": "Tragedy",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
             },
             {
               "name": "Politics",
@@ -2672,6 +2664,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Shounen",
               "isMediaSpoiler": false
             },
@@ -2697,10 +2693,6 @@
             },
             {
               "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
               "isMediaSpoiler": false
             },
             {
@@ -3388,8 +3380,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180228-WAvqro5AamHj.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777476600,
-            "episode": 6
+            "airingAt": 1778081400,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -4598,6 +4590,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Bisexual",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Age Gap",
               "isMediaSpoiler": false
             },
@@ -4619,10 +4615,6 @@
             },
             {
               "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Bisexual",
               "isMediaSpoiler": true
             }
           ],
@@ -5109,8 +5101,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1777474800,
-            "episode": 5
+            "airingAt": 1778079600,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -5651,10 +5643,6 @@
           ],
           "tags": [
             {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Dungeon",
               "isMediaSpoiler": false
             },
@@ -5667,11 +5655,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Coastal",
+              "name": "Isekai",
               "isMediaSpoiler": false
             },
             {
-              "name": "Isekai",
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coastal",
               "isMediaSpoiler": false
             },
             {
@@ -5689,6 +5681,10 @@
             {
               "name": "Female Harem",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 63,
