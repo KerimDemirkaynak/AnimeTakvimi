@@ -112,15 +112,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Disability",
               "isMediaSpoiler": true
             },
             {
               "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
             {
@@ -232,15 +232,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Dissociative Identities",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Time Loop",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -248,12 +240,20 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Amnesia",
+              "name": "Dissociative Identities",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
             },
             {
               "name": "Time Manipulation",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Amnesia",
+              "isMediaSpoiler": true
             },
             {
               "name": "Witch",
@@ -280,12 +280,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Anthropomorphism",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Gore",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Anthropomorphism",
+              "isMediaSpoiler": true
             },
             {
               "name": "Astronomy",
@@ -1416,8 +1416,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186497-naXtQFMHJaR1.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777560960,
-            "episode": 5
+            "airingAt": 1778165760,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -3277,8 +3277,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1777563000,
-            "episode": 5
+            "airingAt": 1778167800,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -4777,8 +4777,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195333-66Rnkl0TzxtO.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777566480,
-            "episode": 5
+            "airingAt": 1778171280,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -5211,8 +5211,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1777568280,
-            "episode": 5
+            "airingAt": 1778173080,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -5510,8 +5510,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177501-oucV5vhyzxjb.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777567500,
-            "episode": 4
+            "airingAt": 1778172300,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -5582,6 +5582,10 @@
             },
             {
               "name": "Family Life",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             }
           ],
