@@ -573,7 +573,7 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777644000,
+            "airingAt": 1778248800,
             "episode": 5
           },
           "isAdult": false,
@@ -930,8 +930,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1777642200,
-            "episode": 5
+            "airingAt": 1778247000,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -1212,6 +1212,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Boys' Love",
               "isMediaSpoiler": true
             },
@@ -1220,16 +1224,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Shounen",
-              "isMediaSpoiler": false
+              "name": "Mixed Gender Harem",
+              "isMediaSpoiler": true
             },
             {
               "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Mixed Gender Harem",
-              "isMediaSpoiler": true
             },
             {
               "name": "Female Harem",
@@ -2414,11 +2414,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
@@ -3498,15 +3498,15 @@
           ],
           "tags": [
             {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Superhero",
               "isMediaSpoiler": false
             },
             {
               "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
               "isMediaSpoiler": false
             },
             {
@@ -3665,8 +3665,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187869-EbWPynNeX5VY.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777647600,
-            "episode": 4
+            "airingAt": 1778252400,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -3684,15 +3684,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Iyashikei",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
               "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Iyashikei",
               "isMediaSpoiler": false
             },
             {
@@ -3708,11 +3708,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Food",
+              "name": "Bar",
               "isMediaSpoiler": false
             },
             {
-              "name": "Bar",
+              "name": "Food",
               "isMediaSpoiler": false
             },
             {
@@ -5132,6 +5132,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Tomboy",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
@@ -5141,10 +5145,6 @@
             },
             {
               "name": "Martial Arts",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tomboy",
               "isMediaSpoiler": false
             },
             {
@@ -5594,6 +5594,10 @@
             },
             {
               "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             }
           ],
