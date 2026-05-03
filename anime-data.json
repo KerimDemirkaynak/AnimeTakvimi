@@ -702,8 +702,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195600-UxHvDXwzJxlP.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777732200,
-            "episode": 5
+            "airingAt": 1778337000,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -1552,12 +1552,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Love Triangle",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
             },
             {
               "name": "Seinen",
@@ -1566,6 +1566,18 @@
             {
               "name": "Polyamorous",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Basketball",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Baseball",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Table Tennis",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 74,
@@ -1862,11 +1874,11 @@
           ],
           "tags": [
             {
-              "name": "Female Protagonist",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -1878,15 +1890,23 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
+              "name": "Age Gap",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "War",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Lost Civilization",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Nudity",
               "isMediaSpoiler": false
             },
             {
@@ -1894,11 +1914,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Dragons",
-              "isMediaSpoiler": true
+              "name": "Elf",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
             },
             {
               "name": "Fairy",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Dragons",
               "isMediaSpoiler": true
             },
             {
@@ -1910,12 +1938,12 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Lost Civilization",
+              "name": "Robots",
               "isMediaSpoiler": true
             },
             {
-              "name": "Robots",
-              "isMediaSpoiler": true
+              "name": "Medieval",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 66,
@@ -1968,8 +1996,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190143-0Ffw9Tb9Sjdo.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777734000,
-            "episode": 6
+            "airingAt": 1778338800,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -2007,10 +2035,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Gods",
               "isMediaSpoiler": false
             },
@@ -2023,8 +2047,20 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Super Power",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Dissociative Identities",
+              "isMediaSpoiler": true
             },
             {
               "name": "Primarily Adult Cast",
@@ -2044,10 +2080,6 @@
             },
             {
               "name": "Twins",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Dissociative Identities",
               "isMediaSpoiler": true
             },
             {
@@ -2202,8 +2234,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196935-tl3sNMXDMfaQ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777732200,
-            "episode": 5
+            "airingAt": 1778337000,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -2227,11 +2259,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Revenge",
+              "name": "Shounen",
               "isMediaSpoiler": false
             },
             {
-              "name": "Shounen",
+              "name": "Revenge",
               "isMediaSpoiler": false
             },
             {
@@ -2346,8 +2378,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202102-RBgWbaATyuDt.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777735800,
-            "episode": 5
+            "airingAt": 1778340600,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -2362,12 +2394,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Philosophy",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Denpa",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Philosophy",
+              "isMediaSpoiler": false
             },
             {
               "name": "Otaku Culture",
@@ -2390,19 +2422,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban",
-              "isMediaSpoiler": false
+              "name": "Suicide",
+              "isMediaSpoiler": true
             },
             {
               "name": "Rape",
               "isMediaSpoiler": true
             },
             {
-              "name": "Suicide",
-              "isMediaSpoiler": true
+              "name": "CGI",
+              "isMediaSpoiler": false
             },
             {
-              "name": "CGI",
+              "name": "Urban",
               "isMediaSpoiler": false
             },
             {
@@ -2414,11 +2446,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Work",
               "isMediaSpoiler": false
             },
             {
@@ -2426,7 +2458,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Work",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
@@ -2653,11 +2685,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Class Struggle",
               "isMediaSpoiler": false
             },
             {
-              "name": "Class Struggle",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -2669,6 +2701,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Tragedy",
               "isMediaSpoiler": false
             },
@@ -2677,15 +2713,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Revenge",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Anachronism",
               "isMediaSpoiler": false
             },
             {
@@ -2693,12 +2721,16 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Nudity",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Ensemble Cast",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Anachronism",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 80,
@@ -2755,8 +2787,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190704-bLXpyNFVZbss.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777737600,
-            "episode": 5
+            "airingAt": 1778342400,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -3212,6 +3244,10 @@
             {
               "name": "Crossdressing",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 78,
@@ -3527,11 +3563,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Ensemble Cast",
+              "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
-              "name": "Educational",
+              "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
             {
@@ -3543,7 +3579,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Seinen",
+              "name": "Boarding School",
               "isMediaSpoiler": false
             },
             {
@@ -3551,11 +3587,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Boarding School",
+              "name": "Educational",
               "isMediaSpoiler": false
             },
             {
-              "name": "Found Family",
+              "name": "Travel",
               "isMediaSpoiler": false
             },
             {
@@ -3563,7 +3599,7 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Travel",
+              "name": "Found Family",
               "isMediaSpoiler": false
             }
           ],
@@ -3621,8 +3657,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1777728600,
-            "episode": 6
+            "airingAt": 1778333400,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -3843,8 +3879,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-c74ASz5mP87W.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777730400,
-            "episode": 4
+            "airingAt": 1778335200,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -4515,15 +4551,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Large Breasts",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "School",
               "isMediaSpoiler": false
             },
             {
               "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Large Breasts",
               "isMediaSpoiler": false
             },
             {
@@ -4921,8 +4957,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777733160,
-            "episode": 5
+            "airingAt": 1778337960,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -5229,8 +5265,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196029-7awWJNlMM0BQ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777739400,
-            "episode": 5
+            "airingAt": 1778344200,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
