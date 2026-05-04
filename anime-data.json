@@ -144,6 +144,10 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Twins",
               "isMediaSpoiler": false
             },
@@ -2043,19 +2047,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Shoujo",
               "isMediaSpoiler": false
             },
             {
               "name": "Age Gap",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -2073,6 +2073,14 @@
             {
               "name": "Tragedy",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
             },
             {
               "name": "Politics",
@@ -2446,15 +2454,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Yandere",
               "isMediaSpoiler": false
             },
             {
               "name": "Work",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
@@ -2588,10 +2596,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Shounen",
               "isMediaSpoiler": false
             },
@@ -2609,6 +2613,10 @@
             },
             {
               "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
               "isMediaSpoiler": false
             },
             {
@@ -2739,15 +2747,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Revenge",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Post-Apocalyptic",
               "isMediaSpoiler": false
             },
             {
-              "name": "Seinen",
+              "name": "Class Struggle",
               "isMediaSpoiler": false
             },
             {
-              "name": "Class Struggle",
+              "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
@@ -2759,19 +2771,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Tragedy",
               "isMediaSpoiler": false
             },
             {
-              "name": "Gore",
+              "name": "Swordplay",
               "isMediaSpoiler": false
             },
             {
-              "name": "Revenge",
+              "name": "Gore",
               "isMediaSpoiler": false
             },
             {
@@ -3893,11 +3901,11 @@
           ],
           "tags": [
             {
-              "name": "Age Regression",
+              "name": "Guns",
               "isMediaSpoiler": false
             },
             {
-              "name": "Guns",
+              "name": "Age Regression",
               "isMediaSpoiler": false
             },
             {
@@ -3913,20 +3921,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Crime",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Urban",
               "isMediaSpoiler": false
             },
             {
-              "name": "Fake Relationship",
-              "isMediaSpoiler": true
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
             },
             {
               "name": "Surreal Comedy",
@@ -3934,6 +3934,10 @@
             },
             {
               "name": "Primarily Child Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crime",
               "isMediaSpoiler": false
             },
             {
@@ -3947,6 +3951,10 @@
             {
               "name": "Shounen",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Fake Relationship",
+              "isMediaSpoiler": true
             },
             {
               "name": "Arranged Marriage",
@@ -4842,8 +4850,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196974-wOXpVEgXm7aR.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777818600,
-            "episode": 4
+            "airingAt": 1778423400,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -4899,15 +4907,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Teacher",
               "isMediaSpoiler": false
             },
             {
               "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             }
           ],
@@ -5830,8 +5838,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1777824000,
-            "episode": 4
+            "airingAt": 1778428800,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
