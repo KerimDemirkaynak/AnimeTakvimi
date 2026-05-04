@@ -693,7 +693,8 @@
             "YomiTsuga",
             "Pasangan dari Alam Baka",
             "ยมลแห่งยมโลก",
-            "Daemons do Reino das Sombras"
+            "Daemons do Reino das Sombras",
+            "Espíritus del Inframundo"
           ],
           "startDate": {
             "year": 2026,
@@ -848,20 +849,20 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
+              "name": "Henshin",
+              "isMediaSpoiler": true
             },
             {
               "name": "Shounen",
               "isMediaSpoiler": false
             },
             {
-              "name": "Medieval",
+              "name": "Female Harem",
               "isMediaSpoiler": false
             },
             {
-              "name": "Henshin",
-              "isMediaSpoiler": true
+              "name": "Medieval",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 80,
@@ -875,7 +876,7 @@
               }
             ]
           },
-          "description": "<p>The second season of <i>Tsue to Tsurugi no Wistoria</i>.<br><br><br />\nWill, a washout student at a magical academy who is unable to use magic, is aiming to join the top tier of mages, the Magia Vander, to fulfill a promise to his childhood friend, Elfaria. Wielding a sword instead of a wand, his abilities are slowly recognized within the academy. During the all-student praxis dungeon training he undertakes with Lihanna and the other top students of his year, they are ambushed by a mysterious mage. Though they barely manage to survive the attack together, they go on to face the exit exam. Can Will reach the girl waiting for him in the tower?<br><br><br />\n(Source: Wistoria: Wand and Sword Season 2 English Site)</p>",
+          "description": "<p>The second season of <i>Tsue to Tsurugi no Wistoria</i>.<br><br><br />\nWill, a washout student at a magical academy who is unable to use magic, is aiming to join the top tier of mages, the Magia Vander, to fulfill a promise to his childhood friend, Elfaria. Wielding a sword instead of a wand, his abilities are slowly recognized within the academy. During the all-student praxis dungeon training he undertakes with Lihanna and the other top students of his year, they are ambushed by a mysterious mage. Though they barely manage to survive the attack together, they go on to face the exit exam. Can Will reach the girl waiting for him in the tower?<br><br><br />\n(Source: Official Site)</p>",
           "externalLinks": [
             {
               "site": "Official Site",
@@ -984,7 +985,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 79,
+          "averageScore": 78,
           "studios": {
             "nodes": [
               {
@@ -2150,8 +2151,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197824-rS7XjJQ0CZs2.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777901400,
-            "episode": 5
+            "airingAt": 1778506200,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -2307,7 +2308,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 77,
+          "averageScore": 76,
           "studios": {
             "nodes": [
               {
@@ -2364,6 +2365,141 @@
             {
               "site": "YouTube",
               "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JiCtTdD2GRMvAmM6RXA2uhH"
+            }
+          ]
+        },
+        {
+          "id": 206914,
+          "title": {
+            "romaji": "Nippon Sangoku",
+            "english": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
+            "native": "日本三國"
+          },
+          "synonyms": [
+            "Nippon Sangoku: Trzy Narody Wschodzącego Słońca",
+            "Les Nations du Soleil Sanglant",
+            "NIPPON SANGOKU: สามก๊กญี่ปุ่น",
+            "Nippon Sangoku: A Guerra das Três Nações"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-SHKX08LarRzB.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206914-SHKX08LarRzB.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206914-owssGq2CGhRZ.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1778414400,
+            "episode": 6
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "tags": [
+            {
+              "name": "War",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Politics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Dystopian",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Military",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Philosophy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Revenge",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Post-Apocalyptic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Class Struggle",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Satire",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Rural",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anachronism",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 80,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Studio Kafka"
+              }
+            ]
+          },
+          "description": "<p>A revolution sparked by nuclear war, natural disaster, and misrule leads to the collapse of Japanese society. The country splits into three nations vying for hegemony, and the Sangoku era begins. Aoteru Misumi, a former agricultural officer, vows to reunify Japan. He rises through the ranks with only his knowledge and eloquence. Witness the legend of the man later hailed as a genius strategist.<br />\n<br><br><br />\n(Source: Amazon Prime Video)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://www.nipponsangoku.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/sangoku_PR"
+            },
+            {
+              "site": "Amazon Prime Video",
+              "url": "https://www.amazon.com/dp/B0GKZDKSJW"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@sangoku_pr"
             }
           ]
         },
@@ -2689,141 +2825,6 @@
             {
               "site": "YouTube",
               "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JhVy3KHGqdAMw_lVe9Vq5UN"
-            }
-          ]
-        },
-        {
-          "id": 206914,
-          "title": {
-            "romaji": "Nippon Sangoku",
-            "english": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
-            "native": "日本三國"
-          },
-          "synonyms": [
-            "Nippon Sangoku: Trzy Narody Wschodzącego Słońca",
-            "Les Nations du Soleil Sanglant",
-            "NIPPON SANGOKU: สามก๊กญี่ปุ่น",
-            "Nippon Sangoku: A Guerra das Três Nações"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-SHKX08LarRzB.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206914-SHKX08LarRzB.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206914-owssGq2CGhRZ.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1778414400,
-            "episode": 6
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Drama",
-            "Sci-Fi"
-          ],
-          "tags": [
-            {
-              "name": "War",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Politics",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dystopian",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Military",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Philosophy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Revenge",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Post-Apocalyptic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Class Struggle",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Satire",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Rural",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Anachronism",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 80,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Studio Kafka"
-              }
-            ]
-          },
-          "description": "<p>A revolution sparked by nuclear war, natural disaster, and misrule leads to the collapse of Japanese society. The country splits into three nations vying for hegemony, and the Sangoku era begins. Aoteru Misumi, a former agricultural officer, vows to reunify Japan. He rises through the ranks with only his knowledge and eloquence. Witness the legend of the man later hailed as a genius strategist.<br />\n<br><br><br />\n(Source: Amazon Prime Video)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://www.nipponsangoku.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/sangoku_PR"
-            },
-            {
-              "site": "Amazon Prime Video",
-              "url": "https://www.amazon.com/dp/B0GKZDKSJW"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@sangoku_pr"
             }
           ]
         },
@@ -3214,15 +3215,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
             },
             {
               "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
               "isMediaSpoiler": false
             },
             {
@@ -3238,15 +3239,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Band",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
               "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Band",
               "isMediaSpoiler": false
             },
             {
@@ -3750,125 +3751,6 @@
           ]
         },
         {
-          "id": 189987,
-          "title": {
-            "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
-            "english": "The Klutzy Class Monitor and the Girl with the Short Skirt",
-            "native": "ポンコツ風紀委員とスカート丈が不適切なJKの話"
-          },
-          "synonyms": [
-            "The Story Between a Dumb Prefect and a High School Girl with an Inappropriate Skirt Length",
-            "PonSuka",
-            "ポンスカ",
-            "Бесполезный дежурный и школьница со слишком короткой юбкой"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 6
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189987-CkTDPfD7vu2Y.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189987-CkTDPfD7vu2Y.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189987-0UGf5F7zWNvv.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1777904640,
-            "episode": 5
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Slapstick",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tsundere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gyaru",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Surreal Comedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Hip-hop Music",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 72,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Zero-G"
-              }
-            ]
-          },
-          "description": "<p>Sakuradaimon is the school's prefect. A prefect is a student who is authorized to enforce discipline. As a prefect, he's supposed to be a role model to other students, but unfortunately he's not perfect. Kohinata is one of the people who Sakuradaimon has tried to discipline into wearing appropriate school attire, but she has thusfar been disobedient.<br><br />\n<br><br />\nAnd so this is a story of the two interacting with one another.</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://ponsuka.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/ponsuka_anime"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371923/the-klutzy-class-monitor-and-the-girl-with-the-short-skirt"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2361551"
-            }
-          ]
-        },
-        {
           "id": 198113,
           "title": {
             "romaji": "Kill Ao",
@@ -3998,6 +3880,125 @@
             {
               "site": "Viki",
               "url": "https://www.viki.com/tv/41501c-kill-blue"
+            }
+          ]
+        },
+        {
+          "id": 189987,
+          "title": {
+            "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
+            "english": "The Klutzy Class Monitor and the Girl with the Short Skirt",
+            "native": "ポンコツ風紀委員とスカート丈が不適切なJKの話"
+          },
+          "synonyms": [
+            "The Story Between a Dumb Prefect and a High School Girl with an Inappropriate Skirt Length",
+            "PonSuka",
+            "ポンスカ",
+            "Бесполезный дежурный и школьница со слишком короткой юбкой"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 6
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189987-CkTDPfD7vu2Y.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189987-CkTDPfD7vu2Y.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189987-0UGf5F7zWNvv.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1777904640,
+            "episode": 5
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Slapstick",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tsundere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gyaru",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Iyashikei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Surreal Comedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Hip-hop Music",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 73,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Zero-G"
+              }
+            ]
+          },
+          "description": "<p>Sakuradaimon is the school's prefect. A prefect is a student who is authorized to enforce discipline. As a prefect, he's supposed to be a role model to other students, but unfortunately he's not perfect. Kohinata is one of the people who Sakuradaimon has tried to discipline into wearing appropriate school attire, but she has thusfar been disobedient.<br><br />\n<br><br />\nAnd so this is a story of the two interacting with one another.</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://ponsuka.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/ponsuka_anime"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371923/the-klutzy-class-monitor-and-the-girl-with-the-short-skirt"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2361551"
             }
           ]
         },
@@ -4427,90 +4428,6 @@
           ]
         },
         {
-          "id": 199029,
-          "title": {
-            "romaji": "Kanojo, Okarishimasu 5th Season",
-            "english": "Rent-a-Girlfriend Season 5",
-            "native": "彼女、お借りします 第5期"
-          },
-          "synonyms": [
-            "かのかり 5",
-            "KanoKari 5"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199029-8eMkhHlD62Ik.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199029-8eMkhHlD62Ik.png"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1778072400,
-            "episode": 5
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Netorase",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Fake Relationship",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Psychosexual",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 56,
-          "studios": {
-            "nodes": [
-              {
-                "name": "TMS Entertainment"
-              }
-            ]
-          },
-          "description": "<p>The fifth season of <i>Kanojo, Okarishimasu</i>.<br />\n<br><br><br />\n<i>Note: Kanojo, Okarishimasu 5th Season was streamed 2 days in advance of the TV broadcast on DMM TV beginning April 8, 2026. Regular broadcasting began on April 11, 2026.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/kanokari_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kanokari-official.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/G6QWV3976/rent-a-girlfriend"
-            }
-          ]
-        },
-        {
           "id": 185211,
           "title": {
             "romaji": "Yowa Yowa Sensei",
@@ -4628,6 +4545,90 @@
             {
               "site": "YouTube",
               "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgXUB10c8pdjrn7SUPo4IdI"
+            }
+          ]
+        },
+        {
+          "id": 199029,
+          "title": {
+            "romaji": "Kanojo, Okarishimasu 5th Season",
+            "english": "Rent-a-Girlfriend Season 5",
+            "native": "彼女、お借りします 第5期"
+          },
+          "synonyms": [
+            "かのかり 5",
+            "KanoKari 5"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 8
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199029-8eMkhHlD62Ik.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199029-8eMkhHlD62Ik.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1778072400,
+            "episode": 5
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Netorase",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Fake Relationship",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Psychosexual",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 57,
+          "studios": {
+            "nodes": [
+              {
+                "name": "TMS Entertainment"
+              }
+            ]
+          },
+          "description": "<p>The fifth season of <i>Kanojo, Okarishimasu</i>.<br />\n<br><br><br />\n<i>Note: Kanojo, Okarishimasu 5th Season was streamed 2 days in advance of the TV broadcast on DMM TV beginning April 8, 2026. Regular broadcasting began on April 11, 2026.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/kanokari_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://kanokari-official.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/G6QWV3976/rent-a-girlfriend"
             }
           ]
         },
@@ -4919,7 +4920,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 64,
+          "averageScore": 63,
           "studios": {
             "nodes": [
               {
@@ -5097,15 +5098,11 @@
           ],
           "tags": [
             {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Royal Affairs",
               "isMediaSpoiler": false
             },
             {
-              "name": "Ojou-sama",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -5113,15 +5110,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Tomboy",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Tomboy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ojou-sama",
               "isMediaSpoiler": false
             },
             {
@@ -5130,6 +5127,10 @@
             },
             {
               "name": "Parody",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             }
           ],
@@ -5562,11 +5563,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
+              "name": "Bullying",
               "isMediaSpoiler": false
             },
             {
-              "name": "Bullying",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -5879,7 +5880,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 49,
+          "averageScore": 48,
           "studios": {
             "nodes": [
               {
