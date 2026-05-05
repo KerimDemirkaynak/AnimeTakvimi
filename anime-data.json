@@ -124,11 +124,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Revenge",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Body Horror",
               "isMediaSpoiler": true
             },
             {
-              "name": "Revenge",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": true
             },
             {
@@ -138,10 +142,6 @@
             {
               "name": "Dragons",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
             },
             {
               "name": "Twins",
@@ -861,7 +861,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 80,
+          "averageScore": 81,
           "studios": {
             "nodes": [
               {
@@ -2214,6 +2214,141 @@
           ]
         },
         {
+          "id": 206914,
+          "title": {
+            "romaji": "Nippon Sangoku",
+            "english": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
+            "native": "日本三國"
+          },
+          "synonyms": [
+            "Nippon Sangoku: Trzy Narody Wschodzącego Słońca",
+            "Les Nations du Soleil Sanglant",
+            "NIPPON SANGOKU: สามก๊กญี่ปุ่น",
+            "Nippon Sangoku: A Guerra das Três Nações"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-SHKX08LarRzB.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206914-SHKX08LarRzB.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206914-owssGq2CGhRZ.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1778414400,
+            "episode": 6
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "tags": [
+            {
+              "name": "War",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Politics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Dystopian",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Military",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Philosophy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Revenge",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Post-Apocalyptic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Class Struggle",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Satire",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Rural",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anachronism",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 80,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Studio Kafka"
+              }
+            ]
+          },
+          "description": "<p>A revolution sparked by nuclear war, natural disaster, and misrule leads to the collapse of Japanese society. The country splits into three nations vying for hegemony, and the Sangoku era begins. Aoteru Misumi, a former agricultural officer, vows to reunify Japan. He rises through the ranks with only his knowledge and eloquence. Witness the legend of the man later hailed as a genius strategist.<br />\n<br><br><br />\n(Source: Amazon Prime Video)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://www.nipponsangoku.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/sangoku_PR"
+            },
+            {
+              "site": "Amazon Prime Video",
+              "url": "https://www.amazon.com/dp/B0GKZDKSJW"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@sangoku_pr"
+            }
+          ]
+        },
+        {
           "id": 196935,
           "title": {
             "romaji": "Akane-banashi",
@@ -2353,141 +2488,6 @@
             {
               "site": "YouTube",
               "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JiCtTdD2GRMvAmM6RXA2uhH"
-            }
-          ]
-        },
-        {
-          "id": 206914,
-          "title": {
-            "romaji": "Nippon Sangoku",
-            "english": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
-            "native": "日本三國"
-          },
-          "synonyms": [
-            "Nippon Sangoku: Trzy Narody Wschodzącego Słońca",
-            "Les Nations du Soleil Sanglant",
-            "NIPPON SANGOKU: สามก๊กญี่ปุ่น",
-            "Nippon Sangoku: A Guerra das Três Nações"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-SHKX08LarRzB.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206914-SHKX08LarRzB.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206914-owssGq2CGhRZ.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1778414400,
-            "episode": 6
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Drama",
-            "Sci-Fi"
-          ],
-          "tags": [
-            {
-              "name": "War",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Politics",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dystopian",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Military",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Philosophy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Revenge",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Post-Apocalyptic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Class Struggle",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Satire",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Rural",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Anachronism",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 80,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Studio Kafka"
-              }
-            ]
-          },
-          "description": "<p>A revolution sparked by nuclear war, natural disaster, and misrule leads to the collapse of Japanese society. The country splits into three nations vying for hegemony, and the Sangoku era begins. Aoteru Misumi, a former agricultural officer, vows to reunify Japan. He rises through the ranks with only his knowledge and eloquence. Witness the legend of the man later hailed as a genius strategist.<br />\n<br><br><br />\n(Source: Amazon Prime Video)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://www.nipponsangoku.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/sangoku_PR"
-            },
-            {
-              "site": "Amazon Prime Video",
-              "url": "https://www.amazon.com/dp/B0GKZDKSJW"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@sangoku_pr"
             }
           ]
         },
@@ -4734,8 +4734,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195268-dsEz7gM76ykF.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777986000,
-            "episode": 5
+            "airingAt": 1778590800,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
