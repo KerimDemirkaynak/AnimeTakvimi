@@ -29,8 +29,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/147105-fTjmRrILFixZ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777903200,
-            "episode": 6
+            "airingAt": 1778508000,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -80,6 +80,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Primarily Child Cast",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Philosophy",
               "isMediaSpoiler": false
             },
@@ -88,11 +92,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Child Cast",
+              "name": "Travel",
               "isMediaSpoiler": false
             },
             {
-              "name": "Travel",
+              "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
             {
@@ -100,15 +104,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Rehabilitation",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Politics",
               "isMediaSpoiler": false
             },
             {
-              "name": "Ensemble Cast",
+              "name": "Rehabilitation",
               "isMediaSpoiler": false
             },
             {
@@ -138,10 +138,6 @@
             {
               "name": "Dragons",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": true
             },
             {
               "name": "LGBTQ+ Themes",
@@ -252,12 +248,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Time Manipulation",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Amnesia",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Time Manipulation",
+              "isMediaSpoiler": false
             },
             {
               "name": "Witch",
@@ -833,11 +829,11 @@
           ],
           "tags": [
             {
-              "name": "Swordplay",
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
+              "name": "Swordplay",
               "isMediaSpoiler": false
             },
             {
@@ -1245,15 +1241,15 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Guns",
               "isMediaSpoiler": false
             },
             {
               "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -2076,14 +2072,6 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Politics",
               "isMediaSpoiler": false
             },
@@ -2562,11 +2550,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Tragedy",
+              "name": "VTuber",
               "isMediaSpoiler": false
             },
             {
-              "name": "VTuber",
+              "name": "Tragedy",
               "isMediaSpoiler": false
             },
             {
@@ -2578,11 +2566,11 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "CGI",
+              "name": "Urban",
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban",
+              "name": "CGI",
               "isMediaSpoiler": false
             },
             {
@@ -2594,19 +2582,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yandere",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Work",
               "isMediaSpoiler": false
             },
             {
-              "name": "Disability",
+              "name": "Yandere",
               "isMediaSpoiler": false
             },
             {
               "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Disability",
               "isMediaSpoiler": false
             },
             {
@@ -2850,8 +2838,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777906800,
-            "episode": 5
+            "airingAt": 1778511600,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -3907,8 +3895,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189987-0UGf5F7zWNvv.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777904640,
-            "episode": 5
+            "airingAt": 1778509440,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -5511,12 +5499,12 @@
           ],
           "tags": [
             {
-              "name": "Achronological Order",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Primarily Female Cast",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Achronological Order",
+              "isMediaSpoiler": true
             },
             {
               "name": "Ensemble Cast",
@@ -5547,6 +5535,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Episodic",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Acting",
               "isMediaSpoiler": false
             },
@@ -5556,10 +5548,6 @@
             },
             {
               "name": "Family Life",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Episodic",
               "isMediaSpoiler": false
             },
             {
