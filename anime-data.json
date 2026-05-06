@@ -206,8 +206,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189046-MDk2CaVuRWpb.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778072400,
-            "episode": 5
+            "airingAt": 1778677200,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -403,8 +403,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180745-Iicz1F6Kuj4e.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778070600,
-            "episode": 9
+            "airingAt": 1778675400,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -1205,11 +1205,11 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Bisexual",
+              "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Adult Cast",
+              "name": "Bisexual",
               "isMediaSpoiler": false
             },
             {
@@ -1374,7 +1374,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 76,
+          "averageScore": 77,
           "studios": {
             "nodes": [
               {
@@ -1476,7 +1476,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 76,
+          "averageScore": 77,
           "studios": {
             "nodes": [
               {
@@ -1639,8 +1639,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173172-tkPQqLzfnxYN.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778076000,
-            "episode": 8
+            "airingAt": 1778680800,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -2817,118 +2817,6 @@
           ]
         },
         {
-          "id": 197754,
-          "title": {
-            "romaji": "LIAR GAME",
-            "english": "LIAR GAME",
-            "native": "LIAR GAME"
-          },
-          "synonyms": [
-            " ライアーゲーム",
-            "Игра лжецов"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 7
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1778511600,
-            "episode": 6
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Psychological"
-          ],
-          "tags": [
-            {
-              "name": "Gambling",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Death Game",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Transgender",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Bullying",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Conspiracy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cult",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 61,
-          "studios": {
-            "nodes": [
-              {
-                "name": "MADHOUSE"
-              }
-            ]
-          },
-          "description": "<p>Wishing she would live up to the ideal, Kanzaki Nao's father named her thusly for “honesty”. Nao has more than lived up to her father's wishes--even exceeding them and earning the label of &quot;a foolishly honest girl&quot;. This makes Nao the least qualified candidate for the high stakes 'Liar Game', where winning requires deceiving the opponent out of their money and losing means receiving massive debt. However, that doesn't stop a box containing a hundred million yen in cash and a card informing her of her participation in the game from arriving at her doorstep, nor does it stop her from being promptly tricked out of the entire sum of money. Upon hearing that a genius swindler, responsible for the bankruptcy of a major corporation, is being released from jail, Nao goes to the swindler, Shinichi Akiyama, to enlist his help. With that, the two are drawn into the dark, greed-filled, and deceptive world of the Liar Game.</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://www.liargame-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/liargame_anime/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371851/liar-game"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://www.liargame-anime.com/en/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/liargame_en"
-            }
-          ]
-        },
-        {
           "id": 194393,
           "title": {
             "romaji": "Aishiteru Game wo Owarasetai",
@@ -3018,6 +2906,118 @@
             {
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/GT00371779"
+            }
+          ]
+        },
+        {
+          "id": 197754,
+          "title": {
+            "romaji": "LIAR GAME",
+            "english": "LIAR GAME",
+            "native": "LIAR GAME"
+          },
+          "synonyms": [
+            " ライアーゲーム",
+            "Игра лжецов"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 7
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1778511600,
+            "episode": 6
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama",
+            "Psychological"
+          ],
+          "tags": [
+            {
+              "name": "Gambling",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Death Game",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Transgender",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Bullying",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Conspiracy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cult",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 60,
+          "studios": {
+            "nodes": [
+              {
+                "name": "MADHOUSE"
+              }
+            ]
+          },
+          "description": "<p>Wishing she would live up to the ideal, Kanzaki Nao's father named her thusly for “honesty”. Nao has more than lived up to her father's wishes--even exceeding them and earning the label of &quot;a foolishly honest girl&quot;. This makes Nao the least qualified candidate for the high stakes 'Liar Game', where winning requires deceiving the opponent out of their money and losing means receiving massive debt. However, that doesn't stop a box containing a hundred million yen in cash and a card informing her of her participation in the game from arriving at her doorstep, nor does it stop her from being promptly tricked out of the entire sum of money. Upon hearing that a genius swindler, responsible for the bankruptcy of a major corporation, is being released from jail, Nao goes to the swindler, Shinichi Akiyama, to enlist his help. With that, the two are drawn into the dark, greed-filled, and deceptive world of the Liar Game.</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://www.liargame-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/liargame_anime/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371851/liar-game"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://www.liargame-anime.com/en/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/liargame_en"
             }
           ]
         },
@@ -3397,114 +3397,6 @@
           ]
         },
         {
-          "id": 180228,
-          "title": {
-            "romaji": "Ganbare! Nakamura-kun!!",
-            "english": "Go For It, Nakamura-kun!!",
-            "native": "ガンバレ！中村くん！！"
-          },
-          "synonyms": [
-            "Go For It, Nakamura!"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 2
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180228-MuZ7adbGiYVj.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180228-MuZ7adbGiYVj.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180228-WAvqro5AamHj.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1778081400,
-            "episode": 7
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Boys' Love",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Unrequited Love",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Parody",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cute Boys Doing Cute Things",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Male Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Animals",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Episodic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Love Triangle",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 76,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Drive"
-              }
-            ]
-          },
-          "description": "<p>Love at first sight is no myth—just ask Okuto Nakamura. Whenever his dreamy classmate Aiki Hirose enters the room, his heart skips a beat, despite the fact that they’ve never actually spoken. Not to mention, Nakamura is a complete klutz with zero friends. Will he ruin his chance at love before it even begins?<br />\n<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br><br />\n<i>Note: The series streamed a week in advance on Hulu Japan starting with episode 2 released alongside episode 1.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://nakamura-kun.love/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/nkmr_kun_tv"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00337506/go-for-it-nakamura-kun"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
-            }
-          ]
-        },
-        {
           "id": 187869,
           "title": {
             "romaji": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
@@ -3633,6 +3525,114 @@
             {
               "site": "iQ",
               "url": "https://www.iq.com/album/1hqt8hoj3xl"
+            }
+          ]
+        },
+        {
+          "id": 180228,
+          "title": {
+            "romaji": "Ganbare! Nakamura-kun!!",
+            "english": "Go For It, Nakamura-kun!!",
+            "native": "ガンバレ！中村くん！！"
+          },
+          "synonyms": [
+            "Go For It, Nakamura!"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 2
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180228-MuZ7adbGiYVj.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180228-MuZ7adbGiYVj.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180228-WAvqro5AamHj.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1778081400,
+            "episode": 7
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Boys' Love",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Unrequited Love",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Parody",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cute Boys Doing Cute Things",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Male Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Animals",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Episodic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Love Triangle",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 76,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Drive"
+              }
+            ]
+          },
+          "description": "<p>Love at first sight is no myth—just ask Okuto Nakamura. Whenever his dreamy classmate Aiki Hirose enters the room, his heart skips a beat, despite the fact that they’ve never actually spoken. Not to mention, Nakamura is a complete klutz with zero friends. Will he ruin his chance at love before it even begins?<br />\n<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br><br />\n<i>Note: The series streamed a week in advance on Hulu Japan starting with episode 2 released alongside episode 1.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://nakamura-kun.love/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/nkmr_kun_tv"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00337506/go-for-it-nakamura-kun"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
             }
           ]
         },
@@ -4558,8 +4558,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1778072400,
-            "episode": 5
+            "airingAt": 1778677200,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -4782,6 +4782,10 @@
             },
             {
               "name": "Time Skip",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
               "isMediaSpoiler": false
             }
           ],
@@ -5647,19 +5651,23 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Super Power",
               "isMediaSpoiler": false
             },
             {
-              "name": "Meta",
+              "name": "Urban Fantasy",
               "isMediaSpoiler": false
             },
             {
               "name": "School Club",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Revenge",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Meta",
               "isMediaSpoiler": false
             },
             {
@@ -5679,7 +5687,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 65,
+          "averageScore": 66,
           "studios": {
             "nodes": [
               {
@@ -5726,8 +5734,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1778072400,
-            "episode": 6
+            "airingAt": 1778677200,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -5897,95 +5905,115 @@
           ]
         },
         {
-          "id": 197868,
+          "id": 196144,
           "title": {
-            "romaji": "Maid-san wa Taberu dake",
-            "english": "The Food Diary of Miss Maid",
-            "native": "メイドさんは食べるだけ"
+            "romaji": "Snowball Earth",
+            "english": "SNOWBALL EARTH",
+            "native": "スノウボールアース"
           },
           "synonyms": [
-            "メイ食べ"
+            "สโนว์บอลเอิร์ธ",
+            "Земля-снежок"
           ],
           "startDate": {
             "year": 2026,
             "month": 4,
-            "day": 1
+            "day": 3
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197868-sm5jcjPKWhNL.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197868-sm5jcjPKWhNL.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196144-UqVOcMjThkqa.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196144-UqVOcMjThkqa.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197868-wBmzwZ3Ay4bD.jpg",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196144-oWeLz0DOjhYV.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778418000,
-            "episode": 7
+            "airingAt": 1778250600,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
-            "Slice of Life"
+            "Action",
+            "Mecha",
+            "Sci-Fi"
           ],
           "tags": [
             {
-              "name": "Food",
+              "name": "Full CGI",
               "isMediaSpoiler": false
             },
             {
-              "name": "Maids",
+              "name": "Post-Apocalyptic",
               "isMediaSpoiler": false
             },
             {
-              "name": "Iyashikei",
+              "name": "Kaiju",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Artificial Intelligence",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Female Cast",
+              "name": "Snowscape",
               "isMediaSpoiler": false
             },
             {
-              "name": "Episodic",
+              "name": "Robots",
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Cute Girls Doing Cute Things",
+              "name": "Aliens",
               "isMediaSpoiler": false
             },
             {
-              "name": "Educational",
+              "name": "Space",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Space Opera",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": true
             }
           ],
-          "averageScore": 64,
+          "averageScore": 62,
           "studios": {
             "nodes": [
               {
-                "name": "EMT Squared"
-              },
-              {
-                "name": "Magic Bus"
+                "name": "Studio KAI"
               }
             ]
           },
-          "description": "<p>What’s a maid to do when she finds herself suddenly stuck in Japan for a year? Eat, of course! Follow maid-in-training Suzume Tachibana as she tries all sorts of Japanese food, from sweets like taiyaki and melon bread to savory snacks like takoyaki and onigiri! Be warned, though-while Suzume sates her appetite through delicious treat after delicious treat, she might just end up whetting yours!<br />\n<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br><br />\n<i>Note: Maid-san wa Taberu dake was streamed a week in advance on dAnimestore, ABEMA, and U-Next starting with episode 2. Episode 1 was streamed on April 1, 2026. Regular broadcasting began on April 5, 2026.</i></p>",
+          "description": "<p>&quot;Yukio... I'm going to make a friend.&quot; A shy boy named Tetsuo. The only thing he had was a giant robot named Yukio. They became &quot;saviors&quot; in the fight against the galactic monsters coming from outer space. After the final battle, Tetsuo returns to Earth for the first time in ten years and witnesses an astonishing world. It's a frozen Earth (named Snowball Earth), where the entire land is covered in snow and ice, being turned into a deadly world! What happened to the human race? And will Tetsuo be able to fulfill the promise he made to Yukio?<br><br><br />\n(Source: Shogakukan, translated)</p>",
           "externalLinks": [
             {
               "site": "Official Site",
-              "url": "https://meitabe-anime.com/"
+              "url": "https://snowballearth.net/"
             },
             {
               "site": "Twitter",
-              "url": "https://x.com/lovetoeat_maid"
+              "url": "https://x.com/snowballearth_o"
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00375170/the-food-diary-of-miss-maid"
+              "url": "https://www.crunchyroll.com/series/GT00371869/snowball-earth"
+            },
+            {
+              "site": "Disney Plus",
+              "url": "https://www.disneyplus.com/browse/entity-5ecc8b00-79fd-4c1a-81ed-f44260ef38d4"
             }
           ]
         }
