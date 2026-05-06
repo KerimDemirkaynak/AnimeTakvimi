@@ -292,20 +292,20 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Elf",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Harem",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
               "name": "Creature Taming",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
             },
             {
               "name": "Gods",
@@ -1165,8 +1165,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199547-7230SVo56b42.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777989600,
-            "episode": 5
+            "airingAt": 1778594400,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -1324,8 +1324,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1777991400,
-            "episode": 5
+            "airingAt": 1778596200,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -1366,11 +1366,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Love Triangle",
+              "name": "Hikikomori",
               "isMediaSpoiler": false
             },
             {
-              "name": "Hikikomori",
+              "name": "Love Triangle",
               "isMediaSpoiler": false
             }
           ],
@@ -2264,6 +2264,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Class Struggle",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Philosophy",
               "isMediaSpoiler": false
             },
@@ -2273,10 +2277,6 @@
             },
             {
               "name": "Post-Apocalyptic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Class Struggle",
               "isMediaSpoiler": false
             },
             {
@@ -2947,8 +2947,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194393-FmUDMgF0apUJ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1777989600,
-            "episode": 4
+            "airingAt": 1778594400,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -3067,10 +3067,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
@@ -3113,6 +3109,10 @@
             {
               "name": "Disability",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": true
             },
             {
               "name": "Adoption",
@@ -5364,8 +5364,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206951-P1BNNpbqN4zG.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778000340,
-            "episode": 5
+            "airingAt": 1778605140,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -5620,8 +5620,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1777991400,
-            "episode": 5
+            "airingAt": 1778596200,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
