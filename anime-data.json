@@ -104,11 +104,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Politics",
+              "name": "Rehabilitation",
               "isMediaSpoiler": false
             },
             {
-              "name": "Rehabilitation",
+              "name": "Politics",
               "isMediaSpoiler": false
             },
             {
@@ -124,15 +124,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Revenge",
               "isMediaSpoiler": true
             },
             {
               "name": "Body Horror",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": true
             },
             {
@@ -486,6 +486,10 @@
             },
             {
               "name": "Conspiracy",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Suicide",
               "isMediaSpoiler": true
             },
             {
@@ -1523,8 +1527,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199588-I4HoR4YjnpqD.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778078700,
-            "episode": 5
+            "airingAt": 1778683500,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -1723,6 +1727,10 @@
             {
               "name": "Nudity",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Time Manipulation",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 80,
@@ -1912,8 +1920,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1778077800,
-            "episode": 6
+            "airingAt": 1778682600,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -2598,11 +2606,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Nudity",
+              "name": "Bullying",
               "isMediaSpoiler": true
             },
             {
-              "name": "Bullying",
+              "name": "Nudity",
               "isMediaSpoiler": true
             },
             {
@@ -3549,8 +3557,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180228-WAvqro5AamHj.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778081400,
-            "episode": 7
+            "airingAt": 1778686200,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -5051,6 +5059,18 @@
             {
               "site": "YouTube",
               "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jh6jFqpP-B97p7eUzipzZzv"
+            },
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/maoanimation_official"
+            },
+            {
+              "site": "Amazon Prime Video",
+              "url": "https://www.amazon.co.jp/gp/video/detail/amzn1.dv.gti.216799c0-8263-4bc4-b95a-d91f002591c8"
+            },
+            {
+              "site": "Bandai Channel",
+              "url": "https://www.b-ch.com/titles/9635/"
             }
           ]
         },
@@ -5079,8 +5099,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1778079600,
-            "episode": 6
+            "airingAt": 1778684400,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
