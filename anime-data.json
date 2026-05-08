@@ -1354,15 +1354,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
               "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -1425,8 +1425,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186497-naXtQFMHJaR1.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778165760,
-            "episode": 6
+            "airingAt": 1778770560,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -1802,11 +1802,11 @@
           ],
           "tags": [
             {
-              "name": "Heterosexual",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -2032,6 +2032,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Age Gap",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
@@ -2048,7 +2052,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Gods",
+              "name": "Shoujo",
               "isMediaSpoiler": false
             },
             {
@@ -2056,16 +2060,20 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Shoujo",
+              "name": "Gods",
               "isMediaSpoiler": false
             },
             {
-              "name": "Age Gap",
-              "isMediaSpoiler": false
+              "name": "Tragedy",
+              "isMediaSpoiler": true
             },
             {
               "name": "Super Power",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Torture",
+              "isMediaSpoiler": true
             },
             {
               "name": "Dissociative Identities",
@@ -2076,24 +2084,16 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
+              "name": "Crime",
+              "isMediaSpoiler": false
             },
             {
               "name": "Politics",
               "isMediaSpoiler": false
             },
             {
-              "name": "Torture",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Twins",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Crime",
-              "isMediaSpoiler": false
             }
           ],
           "averageScore": 75,
@@ -2801,6 +2801,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Large Breasts",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "School",
               "isMediaSpoiler": false
             },
@@ -2810,10 +2814,6 @@
             },
             {
               "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Large Breasts",
               "isMediaSpoiler": false
             },
             {
@@ -2837,11 +2837,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Harem",
+              "name": "Nudity",
               "isMediaSpoiler": false
             },
             {
-              "name": "Nudity",
+              "name": "Female Harem",
               "isMediaSpoiler": false
             },
             {
@@ -2877,11 +2877,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Gyaru",
               "isMediaSpoiler": false
             },
             {
-              "name": "Gyaru",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             }
           ],
@@ -3322,8 +3322,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1778167800,
-            "episode": 6
+            "airingAt": 1778772600,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -3938,7 +3938,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Coming of Age",
+              "name": "Gyaru",
               "isMediaSpoiler": false
             },
             {
@@ -3946,7 +3946,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Gyaru",
+              "name": "Coming of Age",
               "isMediaSpoiler": false
             },
             {
@@ -4358,72 +4358,6 @@
           ]
         },
         {
-          "id": 178707,
-          "title": {
-            "romaji": "Mahouka Koukou no Rettousei: Yotsuba Keishou-hen",
-            "english": null,
-            "native": "劇場版 魔法科高校の劣等生 四葉継承編"
-          },
-          "synonyms": [
-            "The Irregular at Magic High School THE MOVIE - Yotsuba Succession Arc-",
-            "Непутёвый ученик в школе магии: Наследование Йоцубы"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 5,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178707-Ys8zvR7BLECi.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178707-Ys8zvR7BLECi.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1778166000,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Romance",
-            "Sci-Fi",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "8-bit"
-              }
-            ]
-          },
-          "description": "<p>Movie adaptation of <i>Mahouka Koukou no Rettousei's</i> Yotsuba Succession Arc.<br><br />\n<br><br />\nThe invitation has arrived. It is time for the New Year’s Reception at the Yotsuba family residence. This year, Miyuki and other candidates will gather there to decide who will be the next leader of their powerful clan. If chosen as the successor, she would never have to see her brother live as a pariah ever again. At the same time, such a position surely entails a political marriage, plunging her mind into complete turmoil. Complicating matters, the current head of their family sows doubt with the shocking claim that Miyuki is not Tatsuya’s sister. When the new year comes, their relationship may be changed forever...<br><br />\n<br><br />\n(Source: Yen Press)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/mahouka_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://mahouka.jp/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/MahoukaUSA"
-            }
-          ]
-        },
-        {
           "id": 185211,
           "title": {
             "romaji": "Yowa Yowa Sensei",
@@ -4576,10 +4510,6 @@
           ],
           "tags": [
             {
-              "name": "Netorase",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Fake Relationship",
               "isMediaSpoiler": false
             },
@@ -4588,7 +4518,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Netorase",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Love Triangle",
               "isMediaSpoiler": false
             },
             {
@@ -4649,8 +4587,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195333-66Rnkl0TzxtO.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778171280,
-            "episode": 6
+            "airingAt": 1778776080,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -4679,16 +4617,16 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Love Triangle",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "School",
               "isMediaSpoiler": false
             },
             {
               "name": "Hikikomori",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Love Triangle",
-              "isMediaSpoiler": true
             },
             {
               "name": "Primarily Teen Cast",
@@ -5210,8 +5148,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1778173080,
-            "episode": 6
+            "airingAt": 1778777880,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -5247,6 +5185,10 @@
             {
               "name": "Crime",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Body Swapping",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 57,
@@ -5625,8 +5567,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177501-oucV5vhyzxjb.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778172300,
-            "episode": 5
+            "airingAt": 1778777100,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -5664,15 +5606,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Episodic",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "LGBTQ+ Themes",
               "isMediaSpoiler": true
             },
             {
               "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Episodic",
               "isMediaSpoiler": false
             },
             {
@@ -5702,6 +5644,10 @@
             {
               "name": "CGI",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Religion",
+              "isMediaSpoiler": true
             },
             {
               "name": "Male Protagonist",
@@ -6039,6 +5985,99 @@
             {
               "site": "Disney Plus",
               "url": "https://www.disneyplus.com/browse/entity-5ecc8b00-79fd-4c1a-81ed-f44260ef38d4"
+            }
+          ]
+        },
+        {
+          "id": 197868,
+          "title": {
+            "romaji": "Maid-san wa Taberu dake",
+            "english": "The Food Diary of Miss Maid",
+            "native": "メイドさんは食べるだけ"
+          },
+          "synonyms": [
+            "メイ食べ"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 1
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197868-sm5jcjPKWhNL.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197868-sm5jcjPKWhNL.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197868-wBmzwZ3Ay4bD.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1778418000,
+            "episode": 7
+          },
+          "isAdult": false,
+          "genres": [
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Food",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Maids",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Iyashikei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Episodic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cute Girls Doing Cute Things",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Educational",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 64,
+          "studios": {
+            "nodes": [
+              {
+                "name": "EMT Squared"
+              },
+              {
+                "name": "Magic Bus"
+              }
+            ]
+          },
+          "description": "<p>What’s a maid to do when she finds herself suddenly stuck in Japan for a year? Eat, of course! Follow maid-in-training Suzume Tachibana as she tries all sorts of Japanese food, from sweets like taiyaki and melon bread to savory snacks like takoyaki and onigiri! Be warned, though-while Suzume sates her appetite through delicious treat after delicious treat, she might just end up whetting yours!<br />\n<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br><br />\n<i>Note: Maid-san wa Taberu dake was streamed a week in advance on dAnimestore, ABEMA, and U-Next starting with episode 2. Episode 1 was streamed on April 1, 2026. Regular broadcasting began on April 5, 2026.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://meitabe-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/lovetoeat_maid"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00375170/the-food-diary-of-miss-maid"
             }
           ]
         }
