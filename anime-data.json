@@ -240,20 +240,20 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Dissociative Identities",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Amnesia",
+              "name": "Dissociative Identities",
               "isMediaSpoiler": true
             },
             {
               "name": "Time Manipulation",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Amnesia",
+              "isMediaSpoiler": true
             },
             {
               "name": "Witch",
@@ -300,12 +300,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Creature Taming",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Female Harem",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Creature Taming",
+              "isMediaSpoiler": true
             },
             {
               "name": "Gods",
@@ -564,7 +564,8 @@
             "Tensura 4",
             "転スラ 4",
             "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว ซีซั่น 4",
-            "О моём перерождении в слизь 4"
+            "О моём перерождении в слизь 4",
+            "Aquella vez que me convertí en slime - Temporada 4"
           ],
           "startDate": {
             "year": 2026,
@@ -577,8 +578,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778248800,
-            "episode": 5
+            "airingAt": 1778853600,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -642,6 +643,10 @@
             },
             {
               "name": "Femboy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crossdressing",
               "isMediaSpoiler": false
             }
           ],
@@ -1478,6 +1483,14 @@
             {
               "name": "Love Triangle",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Orphan",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "School Club",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 77,
@@ -1669,15 +1682,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Anti-Hero",
               "isMediaSpoiler": false
             },
             {
               "name": "Amnesia",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
               "isMediaSpoiler": false
             },
             {
@@ -2675,11 +2688,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Mixed Media",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Mixed Media",
               "isMediaSpoiler": false
             },
             {
@@ -2699,11 +2712,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Bullying",
+              "name": "Nudity",
               "isMediaSpoiler": true
             },
             {
-              "name": "Nudity",
+              "name": "Bullying",
               "isMediaSpoiler": true
             },
             {
@@ -3425,8 +3438,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187869-EbWPynNeX5VY.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778252400,
-            "episode": 5
+            "airingAt": 1778857200,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -3614,6 +3627,10 @@
             {
               "name": "Love Triangle",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Archery",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 76,
@@ -4390,15 +4407,15 @@
           ],
           "tags": [
             {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Teacher",
               "isMediaSpoiler": false
             },
             {
               "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
               "isMediaSpoiler": false
             },
             {
@@ -5610,12 +5627,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Yuri",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
             },
             {
               "name": "Acting",
@@ -5634,12 +5651,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Suicide",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
             },
             {
               "name": "CGI",
@@ -5897,8 +5914,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196144-oWeLz0DOjhYV.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778250600,
-            "episode": 6
+            "airingAt": 1778855400,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
