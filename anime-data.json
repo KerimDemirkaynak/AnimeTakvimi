@@ -268,15 +268,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Cult",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Travel",
               "isMediaSpoiler": false
             },
             {
@@ -286,6 +278,14 @@
             {
               "name": "Anthropomorphism",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Travel",
+              "isMediaSpoiler": false
             },
             {
               "name": "Astronomy",
@@ -634,15 +634,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Agender",
               "isMediaSpoiler": false
             },
             {
               "name": "Femboy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -1242,12 +1242,12 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Female Harem",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
             },
             {
               "name": "Heterosexual",
@@ -1383,7 +1383,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 77,
+          "averageScore": 78,
           "studios": {
             "nodes": [
               {
@@ -1746,7 +1746,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 80,
+          "averageScore": 81,
           "studios": {
             "nodes": [
               {
@@ -3065,8 +3065,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171110-lgtmKokpevUM.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778315400,
-            "episode": 5
+            "airingAt": 1778920200,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -3205,8 +3205,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184492-JsZazzn4Acqf.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778318760,
-            "episode": 6
+            "airingAt": 1778923560,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -3517,7 +3517,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 76,
+          "averageScore": 77,
           "studios": {
             "nodes": [
               {
@@ -3739,7 +3739,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 59,
+          "averageScore": 58,
           "studios": {
             "nodes": [
               {
@@ -4396,8 +4396,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185211-2wkjFD6tz7l3.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778329800,
-            "episode": 5
+            "airingAt": 1778934600,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -4904,6 +4904,119 @@
           ]
         },
         {
+          "id": 201817,
+          "title": {
+            "romaji": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+            "english": "Always a Catch!",
+            "native": "逃がした魚は大きかったが釣りあげた魚が大きすぎた件"
+          },
+          "synonyms": [
+            "The Fish I Missed Was Big, but the Fish I Caught Was Too Big",
+            "Always a Catch!: How I Punched My Way into Marrying a Prince",
+            "逃げ釣り",
+            "Nigetsuri",
+            "ปล่อยปลาตัวใหญ่หลุดมือไปก็จริง แต่ไหงถึงได้ปลาตัวใหญ่กว่ามาแทนกันล่ะคะ",
+            "Ikan yang Lepas Dari Pancingku Memang Besar, Tapi Ikan yang Kutangkap Setelahnya Malah Terlalu Besar"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 2
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201817-pyfL9F8muPeq.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201817-pyfL9F8muPeq.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1778684400,
+            "episode": 7
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Royal Affairs",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shoujo",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tomboy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ojou-sama",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Martial Arts",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Parody",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 70,
+          "studios": {
+            "nodes": [
+              {
+                "name": "TROYCA"
+              }
+            ]
+          },
+          "description": "<p>Born into a legendary ducal family, martial prodigy Maria “Mimi” Annovazzi loses her claim as heir and is suddenly ordered to marry into prestige. With no options left in her homeland, she transfers to a neighboring kingdom—only to be publicly dumped at graduation by a prince she’s never met over an engagement she didn’t even know she had! Will Maria be doomed to the life of a spinster?!<Br><br>(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://nigetsuri-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/nigetsuri_anime"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/fh6v37zbyp"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2343020"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3n62kkjOOBxuuhfXiDUu4g"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371642/always-a-catch"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://youtube.com/playlist?list=PLPanbgyToztZfCF_t30MEwliHPYRdpKwy&si=zO4Q6CCvBH-bUEYy"
+            }
+          ]
+        },
+        {
           "id": 196012,
           "title": {
             "romaji": "MAO",
@@ -5030,119 +5143,6 @@
           ]
         },
         {
-          "id": 201817,
-          "title": {
-            "romaji": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
-            "english": "Always a Catch!",
-            "native": "逃がした魚は大きかったが釣りあげた魚が大きすぎた件"
-          },
-          "synonyms": [
-            "The Fish I Missed Was Big, but the Fish I Caught Was Too Big",
-            "Always a Catch!: How I Punched My Way into Marrying a Prince",
-            "逃げ釣り",
-            "Nigetsuri",
-            "ปล่อยปลาตัวใหญ่หลุดมือไปก็จริง แต่ไหงถึงได้ปลาตัวใหญ่กว่ามาแทนกันล่ะคะ",
-            "Ikan yang Lepas Dari Pancingku Memang Besar, Tapi Ikan yang Kutangkap Setelahnya Malah Terlalu Besar"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 2
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201817-pyfL9F8muPeq.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201817-pyfL9F8muPeq.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1778684400,
-            "episode": 7
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shoujo",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tomboy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ojou-sama",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Martial Arts",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Parody",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 70,
-          "studios": {
-            "nodes": [
-              {
-                "name": "TROYCA"
-              }
-            ]
-          },
-          "description": "<p>Born into a legendary ducal family, martial prodigy Maria “Mimi” Annovazzi loses her claim as heir and is suddenly ordered to marry into prestige. With no options left in her homeland, she transfers to a neighboring kingdom—only to be publicly dumped at graduation by a prince she’s never met over an engagement she didn’t even know she had! Will Maria be doomed to the life of a spinster?!<Br><br>(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://nigetsuri-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/nigetsuri_anime"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/fh6v37zbyp"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2343020"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3n62kkjOOBxuuhfXiDUu4g"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371642/always-a-catch"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://youtube.com/playlist?list=PLPanbgyToztZfCF_t30MEwliHPYRdpKwy&si=zO4Q6CCvBH-bUEYy"
-            }
-          ]
-        },
-        {
           "id": 202381,
           "title": {
             "romaji": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
@@ -5208,7 +5208,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 58,
+          "averageScore": 57,
           "studios": {
             "nodes": [
               {
@@ -5537,7 +5537,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 65,
+          "averageScore": 66,
           "studios": {
             "nodes": [
               {
@@ -5777,7 +5777,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 63,
+          "averageScore": 62,
           "studios": {
             "nodes": [
               {
