@@ -712,8 +712,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195600-UxHvDXwzJxlP.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778337000,
-            "episode": 6
+            "airingAt": 1778941800,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -1827,12 +1827,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Age Gap",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Foreign",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Gap",
+              "isMediaSpoiler": true
             },
             {
               "name": "War",
@@ -2022,8 +2022,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190143-0Ffw9Tb9Sjdo.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778338800,
-            "episode": 7
+            "airingAt": 1778943600,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -2077,6 +2077,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Dissociative Identities",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Tragedy",
               "isMediaSpoiler": true
             },
@@ -2085,11 +2089,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Torture",
-              "isMediaSpoiler": true
+              "name": "Politics",
+              "isMediaSpoiler": false
             },
             {
-              "name": "Dissociative Identities",
+              "name": "Torture",
               "isMediaSpoiler": true
             },
             {
@@ -2098,10 +2102,6 @@
             },
             {
               "name": "Crime",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Politics",
               "isMediaSpoiler": false
             },
             {
@@ -2152,7 +2152,9 @@
             "Nippon Sangoku: Trzy Narody Wschodzącego Słońca",
             "Les Nations du Soleil Sanglant",
             "NIPPON SANGOKU: สามก๊กญี่ปุ่น",
-            "Nippon Sangoku: A Guerra das Três Nações"
+            "Nippon Sangoku: A Guerra das Três Nações",
+            "NIPPON SANGOKU: Kızıl Güneşin Üç Ulusu",
+            "Nippon Sangoku: Las tres naciones del sol carmesí"
           ],
           "startDate": {
             "year": 2026,
@@ -2391,8 +2393,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196935-tl3sNMXDMfaQ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778337000,
-            "episode": 6
+            "airingAt": 1778941800,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -2628,8 +2630,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202102-RBgWbaATyuDt.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778340600,
-            "episode": 6
+            "airingAt": 1778945400,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -2688,11 +2690,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Mixed Media",
               "isMediaSpoiler": false
             },
             {
-              "name": "Mixed Media",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
@@ -2701,10 +2703,6 @@
             },
             {
               "name": "Yandere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
@@ -2790,8 +2788,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190704-bLXpyNFVZbss.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778342400,
-            "episode": 6
+            "airingAt": 1778947200,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -2890,11 +2888,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Gyaru",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Gyaru",
               "isMediaSpoiler": false
             }
           ],
@@ -3461,11 +3459,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Adult Cast",
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
-              "name": "Cute Girls Doing Cute Things",
+              "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
@@ -3489,7 +3487,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Food",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
@@ -3497,7 +3495,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Food",
               "isMediaSpoiler": false
             },
             {
@@ -3505,12 +3503,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Travel",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Love Triangle",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Travel",
+              "isMediaSpoiler": false
             },
             {
               "name": "Found Family",
@@ -3683,8 +3681,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1778333400,
-            "episode": 7
+            "airingAt": 1778938200,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -3786,8 +3784,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-c74ASz5mP87W.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778335200,
-            "episode": 5
+            "airingAt": 1778940000,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -4459,11 +4457,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Crossdressing",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": true
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Crossdressing",
               "isMediaSpoiler": true
             }
           ],
@@ -5038,8 +5036,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778337960,
-            "episode": 6
+            "airingAt": 1778942760,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -5378,8 +5376,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196029-7awWJNlMM0BQ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778344200,
-            "episode": 6
+            "airingAt": 1778949000,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -5595,12 +5593,12 @@
           ],
           "tags": [
             {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Achronological Order",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
             },
             {
               "name": "Ensemble Cast",
