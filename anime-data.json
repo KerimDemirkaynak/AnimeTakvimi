@@ -545,7 +545,7 @@
             },
             {
               "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2342498"
+              "url": "https://www.bilibili.tv/media/2342498"
             },
             {
               "site": "YouTube",
@@ -826,8 +826,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182300-d1znfWKzn1bT.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778398200,
-            "episode": 5
+            "airingAt": 1779003000,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -1408,6 +1408,123 @@
           ]
         },
         {
+          "id": 199588,
+          "title": {
+            "romaji": "Otaku ni Yasashii Gal wa Inai!?",
+            "english": "Gals Can't Be Kind to Otaku!?",
+            "native": "オタクに優しいギャルはいない!?"
+          },
+          "synonyms": [
+            "OtaGal",
+            "オタギャル",
+            "OtaGyaru"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 8
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199588-M2vtWicvqNbU.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199588-M2vtWicvqNbU.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199588-I4HoR4YjnpqD.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1778683500,
+            "episode": 6
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Gyaru",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Otaku Culture",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Love Triangle",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Polyamorous",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Baseball",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Basketball",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Table Tennis",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 75,
+          "studios": {
+            "nodes": [
+              {
+                "name": "TMS Entertainment"
+              }
+            ]
+          },
+          "description": "<p>Meet Takuya Seo, an otaku who sits behind the popular gals in class, Ijichi and Amane. Since they're people from different &quot;castes,&quot; you wouldn't expect them to have much in common. But when their worlds collide over a borrowed eraser, Takuya slips up about his favorite anime, and Amane...is rather quick to correct him. She says she's not a fan, but her familiarity with the series suggests otherwise. Could she be...a fellow geek?!<br />\n<br><br><br />\n(Source: Yen Press)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://otagal.jp/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/OtaGal_official"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371662/gals-cant-be-kind-to-otaku"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/channel/UCoqLO21EpMJdhABGFJOPn0g"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@otagyal_official"
+            }
+          ]
+        },
+        {
           "id": 186497,
           "title": {
             "romaji": "Koori no Jouheki",
@@ -1514,123 +1631,6 @@
             {
               "site": "Netflix",
               "url": "https://www.netflix.com/title/82031882"
-            }
-          ]
-        },
-        {
-          "id": 199588,
-          "title": {
-            "romaji": "Otaku ni Yasashii Gal wa Inai!?",
-            "english": "Gals Can't Be Kind to Otaku!?",
-            "native": "オタクに優しいギャルはいない!?"
-          },
-          "synonyms": [
-            "OtaGal",
-            "オタギャル",
-            "OtaGyaru"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199588-M2vtWicvqNbU.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199588-M2vtWicvqNbU.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199588-I4HoR4YjnpqD.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1778683500,
-            "episode": 6
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Gyaru",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Otaku Culture",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Love Triangle",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Polyamorous",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Baseball",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Basketball",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Table Tennis",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 74,
-          "studios": {
-            "nodes": [
-              {
-                "name": "TMS Entertainment"
-              }
-            ]
-          },
-          "description": "<p>Meet Takuya Seo, an otaku who sits behind the popular gals in class, Ijichi and Amane. Since they're people from different &quot;castes,&quot; you wouldn't expect them to have much in common. But when their worlds collide over a borrowed eraser, Takuya slips up about his favorite anime, and Amane...is rather quick to correct him. She says she's not a fan, but her familiarity with the series suggests otherwise. Could she be...a fellow geek?!<br />\n<br><br><br />\n(Source: Yen Press)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://otagal.jp/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/OtaGal_official"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371662/gals-cant-be-kind-to-otaku"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/channel/UCoqLO21EpMJdhABGFJOPn0g"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@otagyal_official"
             }
           ]
         },
@@ -1997,6 +1997,99 @@
           ]
         },
         {
+          "id": 197824,
+          "title": {
+            "romaji": "Isekai Nonbiri Nouka 2",
+            "english": "Farming Life in Another World 2",
+            "native": "異世界のんびり農家２"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 6
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197824-k9Uyef8g49hB.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197824-k9Uyef8g49hB.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197824-rS7XjJQ0CZs2.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1778506200,
+            "episode": 6
+          },
+          "isAdult": false,
+          "genres": [
+            "Fantasy",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Agriculture",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kingdom Management",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Iyashikei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 73,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Zero-G"
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Isekai Nonbiri Nouka</i>.<br />\n<br><br></p>\n<p><i>Note: World premiere of Episode 1 before the Japanese television premiere occurred at ANIMONIUM in Bangkok February 8, 2026</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/nonbiri_nouka"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://nonbiri-nouka2.com/"
+            },
+            {
+              "site": "HIDIVE",
+              "url": "https://www.hidive.com/season/35229"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2342017"
+            }
+          ]
+        },
+        {
           "id": 190143,
           "title": {
             "romaji": "Shunkashuutou Daikousha: Haru no Mai",
@@ -2167,8 +2260,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206914-owssGq2CGhRZ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778414400,
-            "episode": 6
+            "airingAt": 1779019200,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -2279,242 +2372,6 @@
           ]
         },
         {
-          "id": 197824,
-          "title": {
-            "romaji": "Isekai Nonbiri Nouka 2",
-            "english": "Farming Life in Another World 2",
-            "native": "異世界のんびり農家２"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 6
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197824-k9Uyef8g49hB.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197824-k9Uyef8g49hB.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197824-rS7XjJQ0CZs2.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1778506200,
-            "episode": 6
-          },
-          "isAdult": false,
-          "genres": [
-            "Fantasy",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Agriculture",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kingdom Management",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 73,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Zero-G"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Isekai Nonbiri Nouka</i>.<br />\n<br><br></p>\n<p><i>Note: World premiere of Episode 1 before the Japanese television premiere occurred at ANIMONIUM in Bangkok February 8, 2026</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/nonbiri_nouka"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://nonbiri-nouka2.com/"
-            },
-            {
-              "site": "HIDIVE",
-              "url": "https://www.hidive.com/season/35229"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2342017"
-            }
-          ]
-        },
-        {
-          "id": 196935,
-          "title": {
-            "romaji": "Akane-banashi",
-            "english": "Akane-banashi",
-            "native": "あかね噺"
-          },
-          "synonyms": [
-            "อาคาเนะ พลิกตำนานวงการราคุโกะ",
-            "Сказание об Аканэ"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196935-RnLWBsEvNp8M.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196935-RnLWBsEvNp8M.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196935-tl3sNMXDMfaQ.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1778941800,
-            "episode": 7
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama"
-          ],
-          "tags": [
-            {
-              "name": "Rakugo",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Acting",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Revenge",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Found Family",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Work",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Family Life",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "POV",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Skip",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 76,
-          "studios": {
-            "nodes": [
-              {
-                "name": "ZEXCS"
-              }
-            ]
-          },
-          "description": "<p><i>&quot;With only your voice and body—master the art.&quot;</i><br><br></p>\n<p>Akane Ousaki, captivated since childhood by the magical performances of her father, Shinta Arakawa, witnesses a shocking incident during his decisive performance for promotion to shin’uchi (master rank).<br><br></p>\n<p>Six years later, now a high school student, she sets her sights on becoming a shin’uchi herself—pushing forward in the highly competitive world of rakugo.<br><br><br />\nA passionate and authentic rakugo drama begins now!<br />\n<br><br><br />\n(Source: TV Asahi, edited)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/akanebanashi_PR"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://akane-banashi.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/akanebanashi_en"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/@akane-banashi_global"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@akanebanashi_en"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/akanebanashi_en"
-            },
-            {
-              "site": "Facebook",
-              "url": "https://facebook.com/akanebanashi.en"
-            },
-            {
-              "site": "Netflix",
-              "url": "https://www.netflix.com/title/82701514"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://youtube.com/playlist?list=PLwfE82x42voBU9yH8QafeHXu8Pqw7UVLx"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://youtube.com/playlist?list=PLwfE82x42voAcBJrkmSQgNunnH9fBbp6b"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://youtube.com/playlist?list=PLwfE82x42voBwoxfyq6sTNytLARQvQHWq"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JiCtTdD2GRMvAmM6RXA2uhH"
-            }
-          ]
-        },
-        {
           "id": 194393,
           "title": {
             "romaji": "Aishiteru Game wo Owarasetai",
@@ -2604,161 +2461,6 @@
             {
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/GT00371779"
-            }
-          ]
-        },
-        {
-          "id": 202102,
-          "title": {
-            "romaji": "NEEDY GIRL OVERDOSE",
-            "english": "NEEDY GIRL OVERDOSE",
-            "native": "NEEDY GIRL OVERDOSE"
-          },
-          "synonyms": [
-            "ニーディガール オーバードーズ",
-            "NEEDY STREAMER OVERLOAD",
-            "NEEDY GIRL OVERDOSE -OVERTURE-"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202102-7qDmTI7eT5xF.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202102-7qDmTI7eT5xF.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202102-RBgWbaATyuDt.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1778945400,
-            "episode": 7
-          },
-          "isAdult": false,
-          "genres": [
-            "Adventure",
-            "Drama",
-            "Psychological",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Denpa",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Philosophy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Otaku Culture",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Drugs",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Idol",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "VTuber",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Suicide",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Rape",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Mixed Media",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Work",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yandere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Disability",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Bullying",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Video Games",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 68,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Yostar Pictures"
-              }
-            ]
-          },
-          "description": "<p>OMGkawaiiAngel, affectionately known as &quot;KAngel&quot;, is the top streamer girl with 10 million subscribers, and not a day goes by without seeing her in action. Whether online, on TV, or at a live show, she is always surrounded by her cheering fans.<br />\n<br><br><br />\nStriving to catch up with KAngel's popularity is a three-girl streaming unit called Karamazov.<br />\n<br><br><br />\nAnd far removed from the world of these streamers is Kache, a girl who lives with her freeloader boyfriend while working at a theme cafe.<br />\n<br><br><br />\nThe story of the &quot;Internet Angel&quot; who captivated the world, woven by a girl who shines like a star and girls who reach for that brilliance, and the story of &quot;you&quot; on the other side of the screen, begins here.<br />\n<br><br><br />\n(Source: Official Site)<br />\n<br><br><br />\n<i>Note: Prior to broadcasting, &quot;NEEDY GIRL OVERDOSE -OVERTURE-&quot; — a theatrical pre-screening of the first 3 episodes rearranged and edited together— debuted in Japan on March 6, 2026.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/needygirl_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://needygirl-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/needyanime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://needygirl-anime.com/en/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371863/needy-girl-overdose"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@needygirl_anime"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/needy.anime/"
             }
           ]
         },
@@ -2925,6 +2627,304 @@
             {
               "site": "YouTube",
               "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JhVy3KHGqdAMw_lVe9Vq5UN"
+            }
+          ]
+        },
+        {
+          "id": 196935,
+          "title": {
+            "romaji": "Akane-banashi",
+            "english": "Akane-banashi",
+            "native": "あかね噺"
+          },
+          "synonyms": [
+            "อาคาเนะ พลิกตำนานวงการราคุโกะ",
+            "Сказание об Аканэ"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196935-RnLWBsEvNp8M.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196935-RnLWBsEvNp8M.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196935-tl3sNMXDMfaQ.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1778941800,
+            "episode": 7
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama"
+          ],
+          "tags": [
+            {
+              "name": "Rakugo",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Acting",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Revenge",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Found Family",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Work",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Family Life",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "POV",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Skip",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 76,
+          "studios": {
+            "nodes": [
+              {
+                "name": "ZEXCS"
+              }
+            ]
+          },
+          "description": "<p><i>&quot;With only your voice and body—master the art.&quot;</i><br><br></p>\n<p>Akane Ousaki, captivated since childhood by the magical performances of her father, Shinta Arakawa, witnesses a shocking incident during his decisive performance for promotion to shin’uchi (master rank).<br><br></p>\n<p>Six years later, now a high school student, she sets her sights on becoming a shin’uchi herself—pushing forward in the highly competitive world of rakugo.<br><br><br />\nA passionate and authentic rakugo drama begins now!<br />\n<br><br><br />\n(Source: TV Asahi, edited)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/akanebanashi_PR"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://akane-banashi.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/akanebanashi_en"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/@akane-banashi_global"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@akanebanashi_en"
+            },
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/akanebanashi_en"
+            },
+            {
+              "site": "Facebook",
+              "url": "https://facebook.com/akanebanashi.en"
+            },
+            {
+              "site": "Netflix",
+              "url": "https://www.netflix.com/title/82701514"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://youtube.com/playlist?list=PLwfE82x42voBU9yH8QafeHXu8Pqw7UVLx"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://youtube.com/playlist?list=PLwfE82x42voAcBJrkmSQgNunnH9fBbp6b"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://youtube.com/playlist?list=PLwfE82x42voBwoxfyq6sTNytLARQvQHWq"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JiCtTdD2GRMvAmM6RXA2uhH"
+            }
+          ]
+        },
+        {
+          "id": 202102,
+          "title": {
+            "romaji": "NEEDY GIRL OVERDOSE",
+            "english": "NEEDY GIRL OVERDOSE",
+            "native": "NEEDY GIRL OVERDOSE"
+          },
+          "synonyms": [
+            "ニーディガール オーバードーズ",
+            "NEEDY STREAMER OVERLOAD",
+            "NEEDY GIRL OVERDOSE -OVERTURE-"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202102-7qDmTI7eT5xF.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202102-7qDmTI7eT5xF.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202102-RBgWbaATyuDt.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1778945400,
+            "episode": 7
+          },
+          "isAdult": false,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Psychological",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Denpa",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Philosophy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Otaku Culture",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Drugs",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Idol",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "VTuber",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Suicide",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Rape",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Mixed Media",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Work",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yandere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Disability",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Bullying",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Video Games",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 68,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Yostar Pictures"
+              }
+            ]
+          },
+          "description": "<p>OMGkawaiiAngel, affectionately known as &quot;KAngel&quot;, is the top streamer girl with 10 million subscribers, and not a day goes by without seeing her in action. Whether online, on TV, or at a live show, she is always surrounded by her cheering fans.<br />\n<br><br><br />\nStriving to catch up with KAngel's popularity is a three-girl streaming unit called Karamazov.<br />\n<br><br><br />\nAnd far removed from the world of these streamers is Kache, a girl who lives with her freeloader boyfriend while working at a theme cafe.<br />\n<br><br><br />\nThe story of the &quot;Internet Angel&quot; who captivated the world, woven by a girl who shines like a star and girls who reach for that brilliance, and the story of &quot;you&quot; on the other side of the screen, begins here.<br />\n<br><br><br />\n(Source: Official Site)<br />\n<br><br><br />\n<i>Note: Prior to broadcasting, &quot;NEEDY GIRL OVERDOSE -OVERTURE-&quot; — a theatrical pre-screening of the first 3 episodes rearranged and edited together— debuted in Japan on March 6, 2026.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/needygirl_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://needygirl-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/needyanime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://needygirl-anime.com/en/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371863/needy-girl-overdose"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@needygirl_anime"
+            },
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/needy.anime/"
             }
           ]
         },
@@ -3416,6 +3416,108 @@
           ]
         },
         {
+          "id": 200769,
+          "title": {
+            "romaji": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+            "english": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
+            "native": "最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？"
+          },
+          "synonyms": [
+            "The Strongest Occupation Is Not a Hero or a Sage, but an Appraiser (Provisional)!",
+            "Kanteishikari"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 1
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200769-8WkFkoFxc2fw.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200769-8WkFkoFxc2fw.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1778938200,
+            "episode": 8
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Slapstick",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Elf",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kemonomimi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Archery",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crossdressing",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Surreal Comedy",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 59,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Studio Flad"
+              }
+            ]
+          },
+          "description": "<p>Hibiki, a high school student who was suddenly transferred to another world, wanders alone in a vast grassland of a fantasy world where monsters inhabit. All he has are non-combat skills such as &quot;Appraisal&quot;! From a hopeless situation, he is saved by encounters, and his all-powerful abilities blossom! An another world adventure tale of miraculous reversal cheats burst forth!<br />\n<br><br><br />\n(Source: Alpha Manga)<br />\n<br><br><br />\n<i>Note: Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? was streamed a week in advance of the TV broadcast on dAnimestore, and ABEMA starting with episode 2. The first episode was released on April 2, 2026. Regular broadcasting began on April 4, 2026.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/kanteishi_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://kanteishikari-anime.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://crunchyroll.com/series/GT00371875/the-strongest-job-is-apparently-not-a-hero-or-a-sage-but-an-appraiser-provisional"
+            }
+          ]
+        },
+        {
           "id": 187869,
           "title": {
             "romaji": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
@@ -3656,108 +3758,6 @@
             {
               "site": "YouTube",
               "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
-            }
-          ]
-        },
-        {
-          "id": 200769,
-          "title": {
-            "romaji": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
-            "english": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
-            "native": "最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？"
-          },
-          "synonyms": [
-            "The Strongest Occupation Is Not a Hero or a Sage, but an Appraiser (Provisional)!",
-            "Kanteishikari"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 1
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200769-8WkFkoFxc2fw.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200769-8WkFkoFxc2fw.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1778938200,
-            "episode": 8
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Slapstick",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Elf",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kemonomimi",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Archery",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Crossdressing",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Surreal Comedy",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 58,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Studio Flad"
-              }
-            ]
-          },
-          "description": "<p>Hibiki, a high school student who was suddenly transferred to another world, wanders alone in a vast grassland of a fantasy world where monsters inhabit. All he has are non-combat skills such as &quot;Appraisal&quot;! From a hopeless situation, he is saved by encounters, and his all-powerful abilities blossom! An another world adventure tale of miraculous reversal cheats burst forth!<br />\n<br><br><br />\n(Source: Alpha Manga)<br />\n<br><br><br />\n<i>Note: Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? was streamed a week in advance of the TV broadcast on dAnimestore, and ABEMA starting with episode 2. The first episode was released on April 2, 2026. Regular broadcasting began on April 4, 2026.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/kanteishi_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kanteishikari-anime.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://crunchyroll.com/series/GT00371875/the-strongest-job-is-apparently-not-a-hero-or-a-sage-but-an-appraiser-provisional"
             }
           ]
         },
@@ -4034,8 +4034,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179813-RZI6o4qilPyH.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778385600,
-            "episode": 9
+            "airingAt": 1778990400,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -4297,8 +4297,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182578-p3J3Cs24qe9J.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778400000,
-            "episode": 5
+            "airingAt": 1779004800,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -4409,11 +4409,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
+              "name": "Nudity",
               "isMediaSpoiler": false
             },
             {
-              "name": "Nudity",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -4490,94 +4490,6 @@
             {
               "site": "YouTube",
               "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgXUB10c8pdjrn7SUPo4IdI"
-            }
-          ]
-        },
-        {
-          "id": 199029,
-          "title": {
-            "romaji": "Kanojo, Okarishimasu 5th Season",
-            "english": "Rent-a-Girlfriend Season 5",
-            "native": "彼女、お借りします 第5期"
-          },
-          "synonyms": [
-            "かのかり 5",
-            "KanoKari 5"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199029-8eMkhHlD62Ik.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199029-8eMkhHlD62Ik.png"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1778677200,
-            "episode": 6
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Fake Relationship",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Netorase",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Love Triangle",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Psychosexual",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 57,
-          "studios": {
-            "nodes": [
-              {
-                "name": "TMS Entertainment"
-              }
-            ]
-          },
-          "description": "<p>The fifth season of <i>Kanojo, Okarishimasu</i>.<br />\n<br><br><br />\n<i>Note: Kanojo, Okarishimasu 5th Season was streamed 2 days in advance of the TV broadcast on DMM TV beginning April 8, 2026. Regular broadcasting began on April 11, 2026.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/kanokari_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kanokari-official.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/G6QWV3976/rent-a-girlfriend"
             }
           ]
         },
@@ -4669,6 +4581,94 @@
             {
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/GT00371668/haibaras-teenage-new-game"
+            }
+          ]
+        },
+        {
+          "id": 199029,
+          "title": {
+            "romaji": "Kanojo, Okarishimasu 5th Season",
+            "english": "Rent-a-Girlfriend Season 5",
+            "native": "彼女、お借りします 第5期"
+          },
+          "synonyms": [
+            "かのかり 5",
+            "KanoKari 5"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 8
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199029-8eMkhHlD62Ik.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199029-8eMkhHlD62Ik.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1778677200,
+            "episode": 6
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Fake Relationship",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Netorase",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Love Triangle",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Psychosexual",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 57,
+          "studios": {
+            "nodes": [
+              {
+                "name": "TMS Entertainment"
+              }
+            ]
+          },
+          "description": "<p>The fifth season of <i>Kanojo, Okarishimasu</i>.<br />\n<br><br><br />\n<i>Note: Kanojo, Okarishimasu 5th Season was streamed 2 days in advance of the TV broadcast on DMM TV beginning April 8, 2026. Regular broadcasting began on April 11, 2026.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/kanokari_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://kanokari-official.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/G6QWV3976/rent-a-girlfriend"
             }
           ]
         },
@@ -5206,7 +5206,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 57,
+          "averageScore": 58,
           "studios": {
             "nodes": [
               {
@@ -5560,6 +5560,111 @@
           ]
         },
         {
+          "id": 198939,
+          "title": {
+            "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+            "english": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3",
+            "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う 3rd Season"
+          },
+          "synonyms": [
+            "Jihanki 3",
+            "自販機 3",
+            "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 1
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198939-95aqzBr0Lzcv.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198939-95aqzBr0Lzcv.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1778677200,
+            "episode": 7
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Dungeon",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Travel",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anthropomorphism",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coastal",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Language Barrier",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Food",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Economics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 63,
+          "studios": {
+            "nodes": [
+              {
+                "name": "AXsiZ"
+              },
+              {
+                "name": "Studio Gokumi"
+              }
+            ]
+          },
+          "description": "<p>The third season of <i>Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://jihanki-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/jihanki_anime"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GVDHX8504/reborn-as-a-vending-machine-i-now-wander-the-dungeon"
+            }
+          ]
+        },
+        {
           "id": 177501,
           "title": {
             "romaji": "Awajima Hyakkei",
@@ -5698,111 +5803,6 @@
           ]
         },
         {
-          "id": 198939,
-          "title": {
-            "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
-            "english": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3",
-            "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う 3rd Season"
-          },
-          "synonyms": [
-            "Jihanki 3",
-            "自販機 3",
-            "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 1
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198939-95aqzBr0Lzcv.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198939-95aqzBr0Lzcv.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1778677200,
-            "episode": 7
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Dungeon",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Travel",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Anthropomorphism",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coastal",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Language Barrier",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Food",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Economics",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 62,
-          "studios": {
-            "nodes": [
-              {
-                "name": "AXsiZ"
-              },
-              {
-                "name": "Studio Gokumi"
-              }
-            ]
-          },
-          "description": "<p>The third season of <i>Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://jihanki-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/jihanki_anime"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GVDHX8504/reborn-as-a-vending-machine-i-now-wander-the-dungeon"
-            }
-          ]
-        },
-        {
           "id": 202523,
           "title": {
             "romaji": "Marika-chan no Koukando wa Bukkowareteiru",
@@ -5862,7 +5862,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 49,
+          "averageScore": 48,
           "studios": {
             "nodes": [
               {
@@ -6024,8 +6024,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197868-wBmzwZ3Ay4bD.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778418000,
-            "episode": 7
+            "airingAt": 1779022800,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
