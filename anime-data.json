@@ -29,8 +29,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/147105-fTjmRrILFixZ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778508000,
-            "episode": 7
+            "airingAt": 1779112800,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -80,11 +80,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Child Cast",
+              "name": "Philosophy",
               "isMediaSpoiler": false
             },
             {
-              "name": "Philosophy",
+              "name": "Primarily Child Cast",
               "isMediaSpoiler": false
             },
             {
@@ -650,7 +650,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 80,
+          "averageScore": 81,
           "studios": {
             "nodes": [
               {
@@ -870,7 +870,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 81,
+          "averageScore": 82,
           "studios": {
             "nodes": [
               {
@@ -2015,8 +2015,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197824-rS7XjJQ0CZs2.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778506200,
-            "episode": 6
+            "airingAt": 1779111000,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -2086,6 +2086,143 @@
             {
               "site": "Bilibili TV",
               "url": "https://www.bilibili.tv/en/media/2342017"
+            }
+          ]
+        },
+        {
+          "id": 206914,
+          "title": {
+            "romaji": "Nippon Sangoku",
+            "english": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
+            "native": "日本三國"
+          },
+          "synonyms": [
+            "Nippon Sangoku: Trzy Narody Wschodzącego Słońca",
+            "Les Nations du Soleil Sanglant",
+            "NIPPON SANGOKU: สามก๊กญี่ปุ่น",
+            "Nippon Sangoku: A Guerra das Três Nações",
+            "NIPPON SANGOKU: Kızıl Güneşin Üç Ulusu",
+            "Nippon Sangoku: Las tres naciones del sol carmesí"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-SHKX08LarRzB.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206914-SHKX08LarRzB.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206914-owssGq2CGhRZ.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1779019200,
+            "episode": 7
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "tags": [
+            {
+              "name": "War",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Politics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Dystopian",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Military",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Class Struggle",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Philosophy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Revenge",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Post-Apocalyptic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Satire",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Rural",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anachronism",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 81,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Studio Kafka"
+              }
+            ]
+          },
+          "description": "<p>A revolution sparked by nuclear war, natural disaster, and misrule leads to the collapse of Japanese society. The country splits into three nations vying for hegemony, and the Sangoku era begins. Aoteru Misumi, a former agricultural officer, vows to reunify Japan. He rises through the ranks with only his knowledge and eloquence. Witness the legend of the man later hailed as a genius strategist.<br />\n<br><br><br />\n(Source: Amazon Prime Video)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://www.nipponsangoku.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/sangoku_PR"
+            },
+            {
+              "site": "Amazon Prime Video",
+              "url": "https://www.amazon.com/dp/B0GKZDKSJW"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@sangoku_pr"
             }
           ]
         },
@@ -2231,236 +2368,6 @@
             {
               "site": "Bilibili TV",
               "url": "https://www.bilibili.tv/en/media/2342908"
-            }
-          ]
-        },
-        {
-          "id": 206914,
-          "title": {
-            "romaji": "Nippon Sangoku",
-            "english": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
-            "native": "日本三國"
-          },
-          "synonyms": [
-            "Nippon Sangoku: Trzy Narody Wschodzącego Słońca",
-            "Les Nations du Soleil Sanglant",
-            "NIPPON SANGOKU: สามก๊กญี่ปุ่น",
-            "Nippon Sangoku: A Guerra das Três Nações",
-            "NIPPON SANGOKU: Kızıl Güneşin Üç Ulusu",
-            "Nippon Sangoku: Las tres naciones del sol carmesí"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-SHKX08LarRzB.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206914-SHKX08LarRzB.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206914-owssGq2CGhRZ.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1779019200,
-            "episode": 7
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Drama",
-            "Sci-Fi"
-          ],
-          "tags": [
-            {
-              "name": "War",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Politics",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dystopian",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Military",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Class Struggle",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Philosophy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Revenge",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Post-Apocalyptic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Satire",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Rural",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Anachronism",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 80,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Studio Kafka"
-              }
-            ]
-          },
-          "description": "<p>A revolution sparked by nuclear war, natural disaster, and misrule leads to the collapse of Japanese society. The country splits into three nations vying for hegemony, and the Sangoku era begins. Aoteru Misumi, a former agricultural officer, vows to reunify Japan. He rises through the ranks with only his knowledge and eloquence. Witness the legend of the man later hailed as a genius strategist.<br />\n<br><br><br />\n(Source: Amazon Prime Video)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://www.nipponsangoku.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/sangoku_PR"
-            },
-            {
-              "site": "Amazon Prime Video",
-              "url": "https://www.amazon.com/dp/B0GKZDKSJW"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@sangoku_pr"
-            }
-          ]
-        },
-        {
-          "id": 194393,
-          "title": {
-            "romaji": "Aishiteru Game wo Owarasetai",
-            "english": "I Want to End this Love Game",
-            "native": "愛してるゲームを終わらせたい"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 14
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194393-0H9yYABu6y0i.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194393-FmUDMgF0apUJ.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1778594400,
-            "episode": 5
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tsundere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Video Games",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 71,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Felix Film"
-              }
-            ]
-          },
-          "description": "<p>Childhood friends Yukiya and Miku share everything…except their feelings. Ever since sixth grade, they’ve played a “love game”: they take turns saying “I love you” and whoever gets flustered first loses. Now in high school, their hearts are closer than ever—but will they finally find the courage to confess?<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://www.aishiteru-game.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/aishiterugame"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371779"
             }
           ]
         },
@@ -2627,6 +2534,99 @@
             {
               "site": "YouTube",
               "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JhVy3KHGqdAMw_lVe9Vq5UN"
+            }
+          ]
+        },
+        {
+          "id": 194393,
+          "title": {
+            "romaji": "Aishiteru Game wo Owarasetai",
+            "english": "I Want to End this Love Game",
+            "native": "愛してるゲームを終わらせたい"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 14
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194393-0H9yYABu6y0i.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194393-FmUDMgF0apUJ.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1778594400,
+            "episode": 5
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tsundere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Video Games",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 71,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Felix Film"
+              }
+            ]
+          },
+          "description": "<p>Childhood friends Yukiya and Miku share everything…except their feelings. Ever since sixth grade, they’ve played a “love game”: they take turns saying “I love you” and whoever gets flustered first loses. Now in high school, their hearts are closer than ever—but will they finally find the courage to confess?<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://www.aishiteru-game.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/aishiterugame"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371779"
             }
           ]
         },
@@ -3522,6 +3522,143 @@
           ]
         },
         {
+          "id": 198113,
+          "title": {
+            "romaji": "Kill Ao",
+            "english": "KILL BLUE",
+            "native": "キルアオ"
+          },
+          "synonyms": [
+            "Kill Blue",
+            "คิลบลู",
+            "Убивая юность"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 11
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198113-NRa47idWSlnx.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-c74ASz5mP87W.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1778940000,
+            "episode": 6
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Comedy"
+          ],
+          "tags": [
+            {
+              "name": "Guns",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Regression",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Assassins",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School Club",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Surreal Comedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Child Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crime",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kuudere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Rehabilitation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Fake Relationship",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Arranged Marriage",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Dissociative Identities",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 73,
+          "studios": {
+            "nodes": [
+              {
+                "name": "CUE"
+              }
+            ]
+          },
+          "description": "<p>Juuzou Oogami is a legendary hitman who has never failed an assignment, no matter how impossible. One day, after wiping out a powerful organization, he is stung by a mysterious wasp and collapses. When he wakes up, the fearsome 39-year-old assassin has been transformed into a 13-year-old boy!<br><br></p>\n<p>Before he can even process what happened, his boss delivers a new order: “In that body, infiltrate a middle school.”<br><br></p>\n<p>What awaits him is an unexpected school life filled with colorful classmates, youthful chaos, and looming danger. Can Juuzou ever return to his original form? Or will the assassins closing in on him end his second life before it even begins!?<br><br><br />\n(Source: Official Site)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://kill-blue.jp/"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@killblue_official"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/KILLBLUE_PR"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371896/kill-blue"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2343894"
+            },
+            {
+              "site": "Viki",
+              "url": "https://www.viki.com/tv/41501c-kill-blue"
+            },
+            {
+              "site": "Netflix",
+              "url": "https://www.netflix.com/title/82757009"
+            }
+          ]
+        },
+        {
           "id": 187869,
           "title": {
             "romaji": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
@@ -3766,143 +3903,6 @@
           ]
         },
         {
-          "id": 198113,
-          "title": {
-            "romaji": "Kill Ao",
-            "english": "KILL BLUE",
-            "native": "キルアオ"
-          },
-          "synonyms": [
-            "Kill Blue",
-            "คิลบลู",
-            "Убивая юность"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 11
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198113-NRa47idWSlnx.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-c74ASz5mP87W.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1778940000,
-            "episode": 6
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Comedy"
-          ],
-          "tags": [
-            {
-              "name": "Guns",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Regression",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Assassins",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School Club",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Surreal Comedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Child Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Crime",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kuudere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Rehabilitation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Fake Relationship",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Arranged Marriage",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Dissociative Identities",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 73,
-          "studios": {
-            "nodes": [
-              {
-                "name": "CUE"
-              }
-            ]
-          },
-          "description": "<p>Juuzou Oogami is a legendary hitman who has never failed an assignment, no matter how impossible. One day, after wiping out a powerful organization, he is stung by a mysterious wasp and collapses. When he wakes up, the fearsome 39-year-old assassin has been transformed into a 13-year-old boy!<br><br></p>\n<p>Before he can even process what happened, his boss delivers a new order: “In that body, infiltrate a middle school.”<br><br></p>\n<p>What awaits him is an unexpected school life filled with colorful classmates, youthful chaos, and looming danger. Can Juuzou ever return to his original form? Or will the assassins closing in on him end his second life before it even begins!?<br><br><br />\n(Source: Official Site)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://kill-blue.jp/"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@killblue_official"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/KILLBLUE_PR"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371896/kill-blue"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2343894"
-            },
-            {
-              "site": "Viki",
-              "url": "https://www.viki.com/tv/41501c-kill-blue"
-            },
-            {
-              "site": "Netflix",
-              "url": "https://www.netflix.com/title/82757009"
-            }
-          ]
-        },
-        {
           "id": 189987,
           "title": {
             "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
@@ -3926,8 +3926,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189987-0UGf5F7zWNvv.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778509440,
-            "episode": 6
+            "airingAt": 1779114240,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -4445,15 +4445,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Bisexual",
               "isMediaSpoiler": true
             },
             {
               "name": "Age Gap",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -5325,6 +5325,10 @@
             {
               "name": "Demons",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Artificial Intelligence",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 63,
@@ -5427,7 +5431,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 69,
+          "averageScore": 70,
           "studios": {
             "nodes": [
               {
@@ -5870,7 +5874,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 48,
+          "averageScore": 49,
           "studios": {
             "nodes": [
               {
