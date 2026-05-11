@@ -854,12 +854,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Henshin",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Shounen",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Henshin",
+              "isMediaSpoiler": true
             },
             {
               "name": "Female Harem",
@@ -966,11 +966,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Kuudere",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Kuudere",
               "isMediaSpoiler": false
             },
             {
@@ -2711,6 +2711,10 @@
             {
               "name": "Time Skip",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Gyaru",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 76,
@@ -3891,6 +3895,10 @@
             {
               "site": "Viki",
               "url": "https://www.viki.com/tv/41501c-kill-blue"
+            },
+            {
+              "site": "Netflix",
+              "url": "https://www.netflix.com/title/82757009"
             }
           ]
         },
@@ -4804,8 +4812,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196974-wOXpVEgXm7aR.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778423400,
-            "episode": 5
+            "airingAt": 1779028200,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -5821,8 +5829,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1778428800,
-            "episode": 5
+            "airingAt": 1779033600,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
