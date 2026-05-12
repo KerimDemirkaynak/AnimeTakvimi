@@ -52,15 +52,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Drawing",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
             {
               "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Drawing",
               "isMediaSpoiler": false
             },
             {
@@ -116,16 +116,16 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Teacher",
               "isMediaSpoiler": false
             },
             {
               "name": "School",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
             },
             {
               "name": "Revenge",
@@ -144,15 +144,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Iyashikei",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Twins",
               "isMediaSpoiler": false
             },
             {
               "name": "Spearplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Iyashikei",
               "isMediaSpoiler": false
             }
           ],
@@ -288,15 +288,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Astronomy",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Elf",
               "isMediaSpoiler": false
             },
             {
               "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Astronomy",
               "isMediaSpoiler": false
             },
             {
@@ -724,11 +724,15 @@
           ],
           "tags": [
             {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Shounen",
+              "name": "Youkai",
               "isMediaSpoiler": false
             },
             {
@@ -737,10 +741,6 @@
             },
             {
               "name": "Rural",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Youkai",
               "isMediaSpoiler": false
             },
             {
@@ -2954,8 +2954,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778511600,
-            "episode": 6
+            "airingAt": 1779116400,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -3441,7 +3441,7 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1778938200,
+            "airingAt": 1778941800,
             "episode": 8
           },
           "isAdult": false,
@@ -3702,11 +3702,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Cute Girls Doing Cute Things",
+              "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Adult Cast",
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
@@ -3718,11 +3718,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Seinen",
+              "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Ensemble Cast",
+              "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
@@ -3734,15 +3734,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Boarding School",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Food",
               "isMediaSpoiler": false
             },
             {
-              "name": "Educational",
+              "name": "Boarding School",
               "isMediaSpoiler": false
             },
             {
@@ -3755,6 +3751,10 @@
             },
             {
               "name": "Found Family",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Educational",
               "isMediaSpoiler": false
             }
           ],
