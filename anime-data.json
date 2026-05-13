@@ -76,10 +76,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Tsundere",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Philosophy",
               "isMediaSpoiler": false
             },
@@ -109,6 +105,10 @@
             },
             {
               "name": "Politics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tsundere",
               "isMediaSpoiler": false
             },
             {
@@ -206,8 +206,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189046-MDk2CaVuRWpb.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778677200,
-            "episode": 6
+            "airingAt": 1779282000,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -654,8 +654,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180745-Iicz1F6Kuj4e.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778675400,
-            "episode": 10
+            "airingAt": 1779280200,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -1153,6 +1153,111 @@
           ]
         },
         {
+          "id": 169580,
+          "title": {
+            "romaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+            "english": "I Made Friends with the Second Prettiest Girl in My Class",
+            "native": "クラスで２番目に可愛い女の子と友だちになった"
+          },
+          "synonyms": [
+            "I Became Friends with the Second Cutest Girl in My Class",
+            "Kuranika",
+            "クラにか"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 7
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169580-nXxpmqu6UVux.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1779201000,
+            "episode": 7
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Otaku Culture",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Estranged Family",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Chibi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Hikikomori",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Love Triangle",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 78,
+          "studios": {
+            "nodes": [
+              {
+                "name": "CONNECT"
+              }
+            ]
+          },
+          "description": "<p>Maki Maehara, the class outcast, finally makes his first friend: Umi Asanagi, the second-prettiest girl in class and the center of everyone’s attention. He’s convinced she’s out of his league, but as their unlikely friendship grows, Maki starts to wonder…could there be more than just friendship between them?<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/2ndinclass/"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://kuranika.asmik-ace.co.jp/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371673"
+            }
+          ]
+        },
+        {
           "id": 199547,
           "title": {
             "romaji": "MARRIAGETOXIN",
@@ -1307,111 +1412,6 @@
             {
               "site": "iQ",
               "url": "https://www.iq.com/album/lobrkqtcd1"
-            }
-          ]
-        },
-        {
-          "id": 169580,
-          "title": {
-            "romaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
-            "english": "I Made Friends with the Second Prettiest Girl in My Class",
-            "native": "クラスで２番目に可愛い女の子と友だちになった"
-          },
-          "synonyms": [
-            "I Became Friends with the Second Cutest Girl in My Class",
-            "Kuranika",
-            "クラにか"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 7
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169580-nXxpmqu6UVux.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1779201000,
-            "episode": 7
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Otaku Culture",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Chibi",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Estranged Family",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Hikikomori",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Love Triangle",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 78,
-          "studios": {
-            "nodes": [
-              {
-                "name": "CONNECT"
-              }
-            ]
-          },
-          "description": "<p>Maki Maehara, the class outcast, finally makes his first friend: Umi Asanagi, the second-prettiest girl in class and the center of everyone’s attention. He’s convinced she’s out of his league, but as their unlikely friendship grows, Maki starts to wonder…could there be more than just friendship between them?<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/2ndinclass/"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kuranika.asmik-ace.co.jp/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371673"
             }
           ]
         },
@@ -1586,15 +1586,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Shoujo",
               "isMediaSpoiler": false
             },
             {
               "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
               "isMediaSpoiler": false
             },
             {
@@ -1776,6 +1776,99 @@
           ]
         },
         {
+          "id": 197824,
+          "title": {
+            "romaji": "Isekai Nonbiri Nouka 2",
+            "english": "Farming Life in Another World 2",
+            "native": "異世界のんびり農家２"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 6
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197824-k9Uyef8g49hB.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197824-k9Uyef8g49hB.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197824-rS7XjJQ0CZs2.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1779111000,
+            "episode": 7
+          },
+          "isAdult": false,
+          "genres": [
+            "Fantasy",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Agriculture",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kingdom Management",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Iyashikei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 74,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Zero-G"
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Isekai Nonbiri Nouka</i>.<br />\n<br><br></p>\n<p><i>Note: World premiere of Episode 1 before the Japanese television premiere occurred at ANIMONIUM in Bangkok February 8, 2026</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/nonbiri_nouka"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://nonbiri-nouka2.com/"
+            },
+            {
+              "site": "HIDIVE",
+              "url": "https://www.hidive.com/season/35229"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2342017"
+            }
+          ]
+        },
+        {
           "id": 173172,
           "title": {
             "romaji": "Dorohedoro Season 2",
@@ -1797,8 +1890,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173172-tkPQqLzfnxYN.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778680800,
-            "episode": 9
+            "airingAt": 1779285600,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -1916,99 +2009,6 @@
             {
               "site": "YouTube",
               "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JijIk0-cv_OB8lVOHKzve3r"
-            }
-          ]
-        },
-        {
-          "id": 197824,
-          "title": {
-            "romaji": "Isekai Nonbiri Nouka 2",
-            "english": "Farming Life in Another World 2",
-            "native": "異世界のんびり農家２"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 6
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197824-k9Uyef8g49hB.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197824-k9Uyef8g49hB.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197824-rS7XjJQ0CZs2.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1779111000,
-            "episode": 7
-          },
-          "isAdult": false,
-          "genres": [
-            "Fantasy",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Agriculture",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kingdom Management",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 74,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Zero-G"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Isekai Nonbiri Nouka</i>.<br />\n<br><br></p>\n<p><i>Note: World premiere of Episode 1 before the Japanese television premiere occurred at ANIMONIUM in Bangkok February 8, 2026</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/nonbiri_nouka"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://nonbiri-nouka2.com/"
-            },
-            {
-              "site": "HIDIVE",
-              "url": "https://www.hidive.com/season/35229"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2342017"
             }
           ]
         },
@@ -2231,6 +2231,99 @@
             {
               "site": "TikTok",
               "url": "https://www.tiktok.com/@sangoku_pr"
+            }
+          ]
+        },
+        {
+          "id": 194393,
+          "title": {
+            "romaji": "Aishiteru Game wo Owarasetai",
+            "english": "I Want to End this Love Game",
+            "native": "愛してるゲームを終わらせたい"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 14
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194393-0H9yYABu6y0i.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194393-FmUDMgF0apUJ.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1779199200,
+            "episode": 6
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tsundere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Video Games",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 71,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Felix Film"
+              }
+            ]
+          },
+          "description": "<p>Childhood friends Yukiya and Miku share everything…except their feelings. Ever since sixth grade, they’ve played a “love game”: they take turns saying “I love you” and whoever gets flustered first loses. Now in high school, their hearts are closer than ever—but will they finally find the courage to confess?<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://www.aishiteru-game.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/aishiterugame"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371779"
             }
           ]
         },
@@ -2513,7 +2606,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 67,
+          "averageScore": 68,
           "studios": {
             "nodes": [
               {
@@ -2542,99 +2635,6 @@
             {
               "site": "YouTube",
               "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JhVy3KHGqdAMw_lVe9Vq5UN"
-            }
-          ]
-        },
-        {
-          "id": 194393,
-          "title": {
-            "romaji": "Aishiteru Game wo Owarasetai",
-            "english": "I Want to End this Love Game",
-            "native": "愛してるゲームを終わらせたい"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 14
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194393-0H9yYABu6y0i.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194393-FmUDMgF0apUJ.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1779199200,
-            "episode": 6
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tsundere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Video Games",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 71,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Felix Film"
-              }
-            ]
-          },
-          "description": "<p>Childhood friends Yukiya and Miku share everything…except their feelings. Ever since sixth grade, they’ve played a “love game”: they take turns saying “I love you” and whoever gets flustered first loses. Now in high school, their hearts are closer than ever—but will they finally find the courage to confess?<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://www.aishiteru-game.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/aishiterugame"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371779"
             }
           ]
         },
@@ -3505,7 +3505,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 59,
+          "averageScore": 58,
           "studios": {
             "nodes": [
               {
@@ -3799,118 +3799,6 @@
           ]
         },
         {
-          "id": 180228,
-          "title": {
-            "romaji": "Ganbare! Nakamura-kun!!",
-            "english": "Go For It, Nakamura-kun!!",
-            "native": "ガンバレ！中村くん！！"
-          },
-          "synonyms": [
-            "Go For It, Nakamura!"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 2
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180228-MuZ7adbGiYVj.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180228-MuZ7adbGiYVj.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180228-WAvqro5AamHj.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1778686200,
-            "episode": 8
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Boys' Love",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Unrequited Love",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Parody",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cute Boys Doing Cute Things",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Male Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Animals",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Episodic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Love Triangle",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Archery",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 76,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Drive"
-              }
-            ]
-          },
-          "description": "<p>Love at first sight is no myth—just ask Okuto Nakamura. Whenever his dreamy classmate Aiki Hirose enters the room, his heart skips a beat, despite the fact that they’ve never actually spoken. Not to mention, Nakamura is a complete klutz with zero friends. Will he ruin his chance at love before it even begins?<br />\n<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br><br />\n<i>Note: The series streamed a week in advance on Hulu Japan starting with episode 2 released alongside episode 1.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://nakamura-kun.love/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/nkmr_kun_tv"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00337506/go-for-it-nakamura-kun"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
-            }
-          ]
-        },
-        {
           "id": 189987,
           "title": {
             "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
@@ -4026,6 +3914,118 @@
             {
               "site": "Bilibili TV",
               "url": "https://www.bilibili.tv/en/media/2361551"
+            }
+          ]
+        },
+        {
+          "id": 180228,
+          "title": {
+            "romaji": "Ganbare! Nakamura-kun!!",
+            "english": "Go For It, Nakamura-kun!!",
+            "native": "ガンバレ！中村くん！！"
+          },
+          "synonyms": [
+            "Go For It, Nakamura!"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 2
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180228-MuZ7adbGiYVj.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180228-MuZ7adbGiYVj.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180228-WAvqro5AamHj.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1778686200,
+            "episode": 8
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Boys' Love",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Unrequited Love",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Parody",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cute Boys Doing Cute Things",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Male Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Animals",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Episodic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Love Triangle",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Archery",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 76,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Drive"
+              }
+            ]
+          },
+          "description": "<p>Love at first sight is no myth—just ask Okuto Nakamura. Whenever his dreamy classmate Aiki Hirose enters the room, his heart skips a beat, despite the fact that they’ve never actually spoken. Not to mention, Nakamura is a complete klutz with zero friends. Will he ruin his chance at love before it even begins?<br />\n<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br><br />\n<i>Note: The series streamed a week in advance on Hulu Japan starting with episode 2 released alongside episode 1.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://nakamura-kun.love/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/nkmr_kun_tv"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00337506/go-for-it-nakamura-kun"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
             }
           ]
         },
@@ -4580,7 +4580,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 63,
+          "averageScore": 64,
           "studios": {
             "nodes": [
               {
@@ -4601,94 +4601,6 @@
             {
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/GT00371668/haibaras-teenage-new-game"
-            }
-          ]
-        },
-        {
-          "id": 199029,
-          "title": {
-            "romaji": "Kanojo, Okarishimasu 5th Season",
-            "english": "Rent-a-Girlfriend Season 5",
-            "native": "彼女、お借りします 第5期"
-          },
-          "synonyms": [
-            "かのかり 5",
-            "KanoKari 5"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199029-8eMkhHlD62Ik.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199029-8eMkhHlD62Ik.png"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1778677200,
-            "episode": 6
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Fake Relationship",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Netorase",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Love Triangle",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Psychosexual",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 57,
-          "studios": {
-            "nodes": [
-              {
-                "name": "TMS Entertainment"
-              }
-            ]
-          },
-          "description": "<p>The fifth season of <i>Kanojo, Okarishimasu</i>.<br />\n<br><br><br />\n<i>Note: Kanojo, Okarishimasu 5th Season was streamed 2 days in advance of the TV broadcast on DMM TV beginning April 8, 2026. Regular broadcasting began on April 11, 2026.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/kanokari_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kanokari-official.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/G6QWV3976/rent-a-girlfriend"
             }
           ]
         },
@@ -4799,6 +4711,94 @@
             {
               "site": "iQ",
               "url": "https://www.iq.com/album/upxd1s2it9"
+            }
+          ]
+        },
+        {
+          "id": 199029,
+          "title": {
+            "romaji": "Kanojo, Okarishimasu 5th Season",
+            "english": "Rent-a-Girlfriend Season 5",
+            "native": "彼女、お借りします 第5期"
+          },
+          "synonyms": [
+            "かのかり 5",
+            "KanoKari 5"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 8
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199029-8eMkhHlD62Ik.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199029-8eMkhHlD62Ik.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1779282000,
+            "episode": 7
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Fake Relationship",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Netorase",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Love Triangle",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Psychosexual",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 57,
+          "studios": {
+            "nodes": [
+              {
+                "name": "TMS Entertainment"
+              }
+            ]
+          },
+          "description": "<p>The fifth season of <i>Kanojo, Okarishimasu</i>.<br />\n<br><br><br />\n<i>Note: Kanojo, Okarishimasu 5th Season was streamed 2 days in advance of the TV broadcast on DMM TV beginning April 8, 2026. Regular broadcasting began on April 11, 2026.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/kanokari_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://kanokari-official.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/G6QWV3976/rent-a-girlfriend"
             }
           ]
         },
@@ -5610,8 +5610,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1778677200,
-            "episode": 7
+            "airingAt": 1779282000,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
