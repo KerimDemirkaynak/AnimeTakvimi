@@ -276,15 +276,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Travel",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Anthropomorphism",
               "isMediaSpoiler": true
             },
             {
               "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Travel",
               "isMediaSpoiler": false
             },
             {
@@ -316,12 +316,12 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Dragons",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Maids",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Dragons",
+              "isMediaSpoiler": true
             },
             {
               "name": "Twins",
@@ -1333,8 +1333,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1778596200,
-            "episode": 6
+            "airingAt": 1779201000,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -1373,6 +1373,14 @@
             {
               "name": "Chibi",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Estranged Family",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": true
             },
             {
               "name": "Hikikomori",
@@ -2570,11 +2578,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -2582,11 +2590,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "CGI",
+              "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Teen Cast",
+              "name": "CGI",
               "isMediaSpoiler": false
             },
             {
@@ -2594,11 +2602,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Shounen",
+              "name": "School",
               "isMediaSpoiler": false
             },
             {
-              "name": "School",
+              "name": "Shounen",
               "isMediaSpoiler": false
             },
             {
@@ -3698,11 +3706,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
@@ -3710,7 +3714,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Iyashikei",
               "isMediaSpoiler": false
             },
             {
@@ -3965,10 +3973,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Coming of Age",
               "isMediaSpoiler": false
             },
@@ -3986,6 +3990,10 @@
             },
             {
               "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
               "isMediaSpoiler": false
             },
             {
@@ -4254,6 +4262,10 @@
             {
               "name": "Shoujo",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Bullying",
+              "isMediaSpoiler": true
             },
             {
               "name": "Kemonomimi",
@@ -5261,8 +5273,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206951-P1BNNpbqN4zG.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778605140,
-            "episode": 6
+            "airingAt": 1779209940,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -5484,8 +5496,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1778596200,
-            "episode": 6
+            "airingAt": 1779201000,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
