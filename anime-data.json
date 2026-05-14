@@ -1056,8 +1056,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199221-b3W0FfJd4zMy.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778763600,
-            "episode": 7
+            "airingAt": 1779368400,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -1116,7 +1116,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 81,
+          "averageScore": 82,
           "studios": {
             "nodes": [
               {
@@ -1241,7 +1241,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 78,
+          "averageScore": 79,
           "studios": {
             "nodes": [
               {
@@ -1472,10 +1472,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
@@ -1489,6 +1485,10 @@
             },
             {
               "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -1676,8 +1676,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1778761800,
-            "episode": 6
+            "airingAt": 1779366600,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -2336,151 +2336,6 @@
           ]
         },
         {
-          "id": 190143,
-          "title": {
-            "romaji": "Shunkashuutou Daikousha: Haru no Mai",
-            "english": "Agents of the Four Seasons: Dance of Spring",
-            "native": "春夏秋冬代行者 春の舞"
-          },
-          "synonyms": [
-            "Agents of the Four Seasons: Dance of Spring",
-            "4 Seasons",
-            "Utusan Empat Musim: Tarian Musim Semi",
-            "Gli Agenti delle Quattro Stagioni: La Danza della Primavera",
-            "ลำนำรักผู้พิทักษ์ฤดูกาล ภาควสันตลีลา",
-            "Sứ giả bốn mùa: Vũ Điệu Mùa Xuân"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 3,
-            "day": 29
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190143-IqqbkMAF0GOo.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190143-IqqbkMAF0GOo.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190143-0Ffw9Tb9Sjdo.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1778943600,
-            "episode": 8
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Environmental",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Mythology",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Gap",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Rehabilitation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Disability",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shoujo",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gods",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dissociative Identities",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Politics",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Torture",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Crime",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Twins",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 75,
-          "studios": {
-            "nodes": [
-              {
-                "name": "WIT STUDIO"
-              }
-            ]
-          },
-          "description": "<p>When the Agent of Spring, Hinagiku Kayo, is abducted, spring itself vanishes—plunging the world into unending winter. Refusing to give up, her devoted guard, Sakura Himedaka, searches for her for years. When Hinagiku suddenly returns, the two set out to restore the lost season, face the past that tore them apart, and reclaim the warmth they refuse to lose again.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://4seasons-anime.com"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/4seasons_anime"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371636/agents-of-the-four-seasons-dance-of-spring"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/26yez547xm5"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2342908"
-            }
-          ]
-        },
-        {
           "id": 190704,
           "title": {
             "romaji": "Kanan-sama wa Akumade Choroi",
@@ -2647,37 +2502,187 @@
           ]
         },
         {
-          "id": 196935,
+          "id": 190143,
           "title": {
-            "romaji": "Akane-banashi",
-            "english": "Akane-banashi",
-            "native": "あかね噺"
+            "romaji": "Shunkashuutou Daikousha: Haru no Mai",
+            "english": "Agents of the Four Seasons: Dance of Spring",
+            "native": "春夏秋冬代行者 春の舞"
           },
           "synonyms": [
-            "อาคาเนะ พลิกตำนานวงการราคุโกะ",
-            "Сказание об Аканэ"
+            "Agents of the Four Seasons: Dance of Spring",
+            "4 Seasons",
+            "Utusan Empat Musim: Tarian Musim Semi",
+            "Gli Agenti delle Quattro Stagioni: La Danza della Primavera",
+            "ลำนำรักผู้พิทักษ์ฤดูกาล ภาควสันตลีลา",
+            "Sứ giả bốn mùa: Vũ Điệu Mùa Xuân"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 3,
+            "day": 29
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190143-IqqbkMAF0GOo.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190143-IqqbkMAF0GOo.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190143-0Ffw9Tb9Sjdo.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1778943600,
+            "episode": 8
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama",
+            "Fantasy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Environmental",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Mythology",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Gap",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Rehabilitation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Disability",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shoujo",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gods",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Dissociative Identities",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Politics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Torture",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crime",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Twins",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 75,
+          "studios": {
+            "nodes": [
+              {
+                "name": "WIT STUDIO"
+              }
+            ]
+          },
+          "description": "<p>When the Agent of Spring, Hinagiku Kayo, is abducted, spring itself vanishes—plunging the world into unending winter. Refusing to give up, her devoted guard, Sakura Himedaka, searches for her for years. When Hinagiku suddenly returns, the two set out to restore the lost season, face the past that tore them apart, and reclaim the warmth they refuse to lose again.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://4seasons-anime.com"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/4seasons_anime"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371636/agents-of-the-four-seasons-dance-of-spring"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/26yez547xm5"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2342908"
+            }
+          ]
+        },
+        {
+          "id": 197754,
+          "title": {
+            "romaji": "LIAR GAME",
+            "english": "LIAR GAME",
+            "native": "LIAR GAME"
+          },
+          "synonyms": [
+            " ライアーゲーム",
+            "Игра лжецов"
           ],
           "startDate": {
             "year": 2026,
             "month": 4,
-            "day": 4
+            "day": 7
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196935-RnLWBsEvNp8M.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196935-RnLWBsEvNp8M.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196935-tl3sNMXDMfaQ.jpg",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778941800,
+            "airingAt": 1779116400,
             "episode": 7
           },
           "isAdult": false,
           "genres": [
-            "Drama"
+            "Drama",
+            "Psychological"
           ],
           "tags": [
             {
-              "name": "Rakugo",
+              "name": "Gambling",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Death Game",
               "isMediaSpoiler": false
             },
             {
@@ -2685,27 +2690,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Coming of Age",
+              "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
-              "name": "Acting",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Revenge",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Found Family",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Work",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -2713,83 +2702,59 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Family Life",
+              "name": "Coming of Age",
               "isMediaSpoiler": false
             },
             {
-              "name": "School",
+              "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "POV",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Skip",
+              "name": "Transgender",
               "isMediaSpoiler": true
             },
             {
-              "name": "Gyaru",
+              "name": "Bullying",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Conspiracy",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Cult",
+              "isMediaSpoiler": true
             }
           ],
-          "averageScore": 76,
+          "averageScore": 60,
           "studios": {
             "nodes": [
               {
-                "name": "ZEXCS"
+                "name": "MADHOUSE"
               }
             ]
           },
-          "description": "<p><i>&quot;With only your voice and body—master the art.&quot;</i><br><br></p>\n<p>Akane Ousaki, captivated since childhood by the magical performances of her father, Shinta Arakawa, witnesses a shocking incident during his decisive performance for promotion to shin’uchi (master rank).<br><br></p>\n<p>Six years later, now a high school student, she sets her sights on becoming a shin’uchi herself—pushing forward in the highly competitive world of rakugo.<br><br><br />\nA passionate and authentic rakugo drama begins now!<br />\n<br><br><br />\n(Source: TV Asahi, edited)</p>",
+          "description": "<p>Wishing she would live up to the ideal, Kanzaki Nao's father named her thusly for “honesty”. Nao has more than lived up to her father's wishes--even exceeding them and earning the label of &quot;a foolishly honest girl&quot;. This makes Nao the least qualified candidate for the high stakes 'Liar Game', where winning requires deceiving the opponent out of their money and losing means receiving massive debt. However, that doesn't stop a box containing a hundred million yen in cash and a card informing her of her participation in the game from arriving at her doorstep, nor does it stop her from being promptly tricked out of the entire sum of money. Upon hearing that a genius swindler, responsible for the bankruptcy of a major corporation, is being released from jail, Nao goes to the swindler, Shinichi Akiyama, to enlist his help. With that, the two are drawn into the dark, greed-filled, and deceptive world of the Liar Game.</p>",
           "externalLinks": [
             {
+              "site": "Official Site",
+              "url": "https://www.liargame-anime.com/"
+            },
+            {
               "site": "Twitter",
-              "url": "https://x.com/akanebanashi_PR"
+              "url": "https://x.com/liargame_anime/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371851/liar-game"
             },
             {
               "site": "Official Site",
-              "url": "https://akane-banashi.com/"
+              "url": "https://www.liargame-anime.com/en/"
             },
             {
               "site": "Twitter",
-              "url": "https://x.com/akanebanashi_en"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/@akane-banashi_global"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@akanebanashi_en"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/akanebanashi_en"
-            },
-            {
-              "site": "Facebook",
-              "url": "https://facebook.com/akanebanashi.en"
-            },
-            {
-              "site": "Netflix",
-              "url": "https://www.netflix.com/title/82701514"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://youtube.com/playlist?list=PLwfE82x42voBU9yH8QafeHXu8Pqw7UVLx"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://youtube.com/playlist?list=PLwfE82x42voAcBJrkmSQgNunnH9fBbp6b"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://youtube.com/playlist?list=PLwfE82x42voBwoxfyq6sTNytLARQvQHWq"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JiCtTdD2GRMvAmM6RXA2uhH"
+              "url": "https://x.com/liargame_en"
             }
           ]
         },
@@ -2949,42 +2914,37 @@
           ]
         },
         {
-          "id": 197754,
+          "id": 196935,
           "title": {
-            "romaji": "LIAR GAME",
-            "english": "LIAR GAME",
-            "native": "LIAR GAME"
+            "romaji": "Akane-banashi",
+            "english": "Akane-banashi",
+            "native": "あかね噺"
           },
           "synonyms": [
-            " ライアーゲーム",
-            "Игра лжецов"
+            "อาคาเนะ พลิกตำนานวงการราคุโกะ",
+            "Сказание об Аканэ"
           ],
           "startDate": {
             "year": 2026,
             "month": 4,
-            "day": 7
+            "day": 4
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196935-RnLWBsEvNp8M.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196935-RnLWBsEvNp8M.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196935-tl3sNMXDMfaQ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779116400,
+            "airingAt": 1778941800,
             "episode": 7
           },
           "isAdult": false,
           "genres": [
-            "Drama",
-            "Psychological"
+            "Drama"
           ],
           "tags": [
             {
-              "name": "Gambling",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Death Game",
+              "name": "Rakugo",
               "isMediaSpoiler": false
             },
             {
@@ -2992,11 +2952,27 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Seinen",
+              "name": "Coming of Age",
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Acting",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Revenge",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Found Family",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Work",
               "isMediaSpoiler": false
             },
             {
@@ -3004,59 +2980,83 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Coming of Age",
+              "name": "Family Life",
               "isMediaSpoiler": false
             },
             {
-              "name": "Ensemble Cast",
+              "name": "School",
               "isMediaSpoiler": false
             },
             {
-              "name": "Transgender",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Bullying",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Conspiracy",
+              "name": "POV",
               "isMediaSpoiler": false
             },
             {
-              "name": "Cult",
+              "name": "Time Skip",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Gyaru",
+              "isMediaSpoiler": false
             }
           ],
-          "averageScore": 60,
+          "averageScore": 76,
           "studios": {
             "nodes": [
               {
-                "name": "MADHOUSE"
+                "name": "ZEXCS"
               }
             ]
           },
-          "description": "<p>Wishing she would live up to the ideal, Kanzaki Nao's father named her thusly for “honesty”. Nao has more than lived up to her father's wishes--even exceeding them and earning the label of &quot;a foolishly honest girl&quot;. This makes Nao the least qualified candidate for the high stakes 'Liar Game', where winning requires deceiving the opponent out of their money and losing means receiving massive debt. However, that doesn't stop a box containing a hundred million yen in cash and a card informing her of her participation in the game from arriving at her doorstep, nor does it stop her from being promptly tricked out of the entire sum of money. Upon hearing that a genius swindler, responsible for the bankruptcy of a major corporation, is being released from jail, Nao goes to the swindler, Shinichi Akiyama, to enlist his help. With that, the two are drawn into the dark, greed-filled, and deceptive world of the Liar Game.</p>",
+          "description": "<p><i>&quot;With only your voice and body—master the art.&quot;</i><br><br></p>\n<p>Akane Ousaki, captivated since childhood by the magical performances of her father, Shinta Arakawa, witnesses a shocking incident during his decisive performance for promotion to shin’uchi (master rank).<br><br></p>\n<p>Six years later, now a high school student, she sets her sights on becoming a shin’uchi herself—pushing forward in the highly competitive world of rakugo.<br><br><br />\nA passionate and authentic rakugo drama begins now!<br />\n<br><br><br />\n(Source: TV Asahi, edited)</p>",
           "externalLinks": [
             {
-              "site": "Official Site",
-              "url": "https://www.liargame-anime.com/"
-            },
-            {
               "site": "Twitter",
-              "url": "https://x.com/liargame_anime/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371851/liar-game"
+              "url": "https://x.com/akanebanashi_PR"
             },
             {
               "site": "Official Site",
-              "url": "https://www.liargame-anime.com/en/"
+              "url": "https://akane-banashi.com/"
             },
             {
               "site": "Twitter",
-              "url": "https://x.com/liargame_en"
+              "url": "https://x.com/akanebanashi_en"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/@akane-banashi_global"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@akanebanashi_en"
+            },
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/akanebanashi_en"
+            },
+            {
+              "site": "Facebook",
+              "url": "https://facebook.com/akanebanashi.en"
+            },
+            {
+              "site": "Netflix",
+              "url": "https://www.netflix.com/title/82701514"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://youtube.com/playlist?list=PLwfE82x42voBU9yH8QafeHXu8Pqw7UVLx"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://youtube.com/playlist?list=PLwfE82x42voAcBJrkmSQgNunnH9fBbp6b"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://youtube.com/playlist?list=PLwfE82x42voBwoxfyq6sTNytLARQvQHWq"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JiCtTdD2GRMvAmM6RXA2uhH"
             }
           ]
         },
@@ -4613,6 +4613,94 @@
           ]
         },
         {
+          "id": 199029,
+          "title": {
+            "romaji": "Kanojo, Okarishimasu 5th Season",
+            "english": "Rent-a-Girlfriend Season 5",
+            "native": "彼女、お借りします 第5期"
+          },
+          "synonyms": [
+            "かのかり 5",
+            "KanoKari 5"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 8
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199029-8eMkhHlD62Ik.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199029-8eMkhHlD62Ik.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1779282000,
+            "episode": 7
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Fake Relationship",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Netorase",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Love Triangle",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Psychosexual",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 57,
+          "studios": {
+            "nodes": [
+              {
+                "name": "TMS Entertainment"
+              }
+            ]
+          },
+          "description": "<p>The fifth season of <i>Kanojo, Okarishimasu</i>.<br />\n<br><br><br />\n<i>Note: Kanojo, Okarishimasu 5th Season was streamed 2 days in advance of the TV broadcast on DMM TV beginning April 8, 2026. Regular broadcasting began on April 11, 2026.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/kanokari_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://kanokari-official.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/G6QWV3976/rent-a-girlfriend"
+            }
+          ]
+        },
+        {
           "id": 195268,
           "title": {
             "romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2",
@@ -4719,94 +4807,6 @@
             {
               "site": "iQ",
               "url": "https://www.iq.com/album/upxd1s2it9"
-            }
-          ]
-        },
-        {
-          "id": 199029,
-          "title": {
-            "romaji": "Kanojo, Okarishimasu 5th Season",
-            "english": "Rent-a-Girlfriend Season 5",
-            "native": "彼女、お借りします 第5期"
-          },
-          "synonyms": [
-            "かのかり 5",
-            "KanoKari 5"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199029-8eMkhHlD62Ik.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199029-8eMkhHlD62Ik.png"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1779282000,
-            "episode": 7
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Fake Relationship",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Netorase",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Love Triangle",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Psychosexual",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 57,
-          "studios": {
-            "nodes": [
-              {
-                "name": "TMS Entertainment"
-              }
-            ]
-          },
-          "description": "<p>The fifth season of <i>Kanojo, Okarishimasu</i>.<br />\n<br><br><br />\n<i>Note: Kanojo, Okarishimasu 5th Season was streamed 2 days in advance of the TV broadcast on DMM TV beginning April 8, 2026. Regular broadcasting began on April 11, 2026.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/kanokari_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kanokari-official.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/G6QWV3976/rent-a-girlfriend"
             }
           ]
         },
@@ -5238,7 +5238,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 58,
+          "averageScore": 57,
           "studios": {
             "nodes": [
               {
