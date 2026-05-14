@@ -52,15 +52,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Drawing",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
             {
               "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Drawing",
               "isMediaSpoiler": false
             },
             {
@@ -88,11 +88,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Travel",
+              "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Ensemble Cast",
+              "name": "Travel",
               "isMediaSpoiler": false
             },
             {
@@ -128,16 +128,16 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Foreign",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Revenge",
               "isMediaSpoiler": true
             },
             {
               "name": "Body Horror",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Foreign",
-              "isMediaSpoiler": false
             },
             {
               "name": "Dragons",
@@ -154,6 +154,10 @@
             {
               "name": "Spearplay",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 86,
@@ -262,6 +266,10 @@
             {
               "name": "Tragedy",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Spearplay",
+              "isMediaSpoiler": false
             },
             {
               "name": "Desert",
@@ -551,11 +559,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
+              "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Ensemble Cast",
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
@@ -1438,8 +1446,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199588-I4HoR4YjnpqD.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778683500,
-            "episode": 6
+            "airingAt": 1779288300,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -2034,8 +2042,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1778682600,
-            "episode": 7
+            "airingAt": 1779287400,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -3938,8 +3946,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180228-WAvqro5AamHj.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778686200,
-            "episode": 8
+            "airingAt": 1779291000,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -4865,6 +4873,14 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Astronomy",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "School",
               "isMediaSpoiler": false
             },
@@ -4877,19 +4893,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
               "name": "Teacher",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             }
           ],
@@ -4947,8 +4959,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1778684400,
-            "episode": 7
+            "airingAt": 1779289200,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -5260,7 +5272,8 @@
           "synonyms": [
             "Goddess: \"What Do You Want to Turn Into When You're Reincarnated in Another World?\" Me: \"Into a Hero's Rib\"",
             "勇者の肋骨",
-            "Yuusha no Rokkotsu"
+            "Yuusha no Rokkotsu",
+            "Reinkarnasiku... Ingin Jadi Tulang Rusuk Pahlawan!"
           ],
           "startDate": {
             "year": 2026,
@@ -5527,11 +5540,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban Fantasy",
+              "name": "School Club",
               "isMediaSpoiler": false
             },
             {
-              "name": "School Club",
+              "name": "Urban Fantasy",
               "isMediaSpoiler": false
             },
             {
