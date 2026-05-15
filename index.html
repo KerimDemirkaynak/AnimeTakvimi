@@ -12,6 +12,9 @@
   
   <link rel="canonical" href="https://takvim.kerim.qzz.io/">
 
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#000000">
+
   <link rel="alternate" hreflang="tr" href="https://takvim.kerim.qzz.io/" />
   <link rel="alternate" hreflang="en" href="https://takvim.kerim.qzz.io/" />
   <link rel="alternate" hreflang="x-default" href="https://takvim.kerim.qzz.io/" />
@@ -650,6 +653,14 @@
       updateStaticUI();
       await loadTranslations();
       fetchAnimeData();
+  }
+    // Service Worker Kaydı
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('./sw.js')
+        .then(reg => console.log('Service Worker başarıyla kaydedildi.', reg))
+        .catch(err => console.log('Service Worker kayıt hatası:', err));
+    });
   }
   initApp();
   </script>
