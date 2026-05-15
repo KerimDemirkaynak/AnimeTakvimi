@@ -1,5 +1,27 @@
 const fs = require('fs');
 
+// MAL Kullanıcı Adını Buraya Gir
+const MAL_USERNAME = "KerimDemirkaynak";
+
+// Google Translate Ücretsiz Endpoint'i ile Çeviri Fonksiyonu
+async function translateText(text) {
+    if (!text) return "";
+    // AniList'in HTML etiketlerini metin çevirisine girmemesi için temizleyelim
+    const cleanText = text.replace(/<[^>]*>?/gm, ''); 
+    const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=tr&dt=t&q=${encodeURIComponent(cleanText)}`;
+    
+    try {
+        const res = await fetch(url);
+        if (!res.ok) throw new Error("Çeviri sunucusu yanıt vermedi");
+        const json = await res.json();
+        // Google Translate'in karmaşık dizi yapısından sadece çevrilmiş metinleri birleştir
+        return json[0].map(item => item[0]).join('');
+    } catch (e) {
+        console.error("Çeviri atlandı (Hata veya Limit):", e.message);
+        return text; 
+    }
+}
+
 function getCurrentSeasonAndYear() {
     const month = new Date().getMonth();
     const year = new Date().getFullYear();
@@ -29,6 +51,21 @@ async function fetchData() {
     }`;
 
     try {
+        // 1. MyAnimeList İzleme Listesini Çek (Status 1 = Watching)
+        console.log('MAL izleme listesi çekiliyor...');
+        let malTitles = [];
+        try {
+            const malUrl = `https://myanimelist.net/animelist/${MAL_USERNAME}/load.json?status=1`;
+            const malRes = await fetch(malUrl, { headers: { "User-Agent": "Mozilla/5.0" } });
+            if (malRes.ok) {
+                const malData = await malRes.json();
+                malTitles = malData.map(a => a.anime_title.toLowerCase());
+            }
+        } catch (e) {
+            console.error('MAL Verisi alınamadı, listesiz devam ediliyor:', e);
+        }
+
+        // 2. AniList Verisini Çek
         console.log('AniList API\'sine istek atılıyor...');
         const response = await fetch('https://graphql.anilist.co', {
             method: 'POST',
@@ -37,10 +74,34 @@ async function fetchData() {
         });
         
         if (!response.ok) throw new Error(`HTTP Error: ${response.status}`);
-        
         const data = await response.json();
         
-        // Veriyi JSON formatında aynı dizine kaydet
+        // 3. Verileri Birleştir ve Çevir
+        console.log('Açıklamalar çevriliyor ve MAL listesi eşleştiriliyor...');
+        const animes = data.data.Page.media;
+        
+        for (let anime of animes) {
+            // A. İzleme Listesi Eşleştirmesi
+            const titlesToMatch = [
+                anime.title.romaji?.toLowerCase(),
+                anime.title.english?.toLowerCase(),
+                ...(anime.synonyms || []).map(s => s.toLowerCase())
+            ].filter(Boolean);
+            
+            // Eğer başlıklar eşleşirse veya biri diğerini içeriyorsa "isMyList" true olur
+            anime.isMyList = malTitles.some(malTitle => 
+                titlesToMatch.some(t => t.includes(malTitle) || malTitle.includes(t))
+            );
+
+            // B. Açıklama Çevirisi
+            if (anime.description) {
+                anime.descriptionTr = await translateText(anime.description);
+                // Rate-limit yememek için her çeviride kısa bir bekleme ekleyelim
+                await new Promise(r => setTimeout(r, 200)); 
+            }
+        }
+        
+        // 4. Kaydet
         fs.writeFileSync('anime-data.json', JSON.stringify(data, null, 2));
         console.log('anime-data.json başarıyla güncellendi.');
         
