@@ -186,7 +186,9 @@
               "site": "Netflix",
               "url": "https://www.netflix.com/title/82741721"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Herkesin büyüler ve ejderhalar gibi harikaları olduğu gibi kabul ettiği bir dünyada Coco, basit bir hayali olan bir kızdır: cadı olmak istiyor. Ancak herkes sihirbazların doğduğunu, yaratılmadığını ve Coco'nun sihir yeteneğiyle doğmadığını biliyor. Büyülü olmayan hayatına boyun eğen Coco, cadı olma hayalinden vazgeçmek üzeredir... ta ki gizemli, gezgin bir sihirbaz olan Qifrey ile tanışana kadar. Qifrey'in daha önce hiç görmediği bir şekilde büyü yaptığını gizlice gören Coco, çok geçmeden herkesin \"bildiği\" şeyin gerçek olmayabileceğini öğrenir ve büyülü hayalinin göründüğü kadar uzakta olmayabileceğini keşfeder... \n\n(Kaynak: Kodansha ABD) \nNot: Tongari Boushi no Atelier 2. bölüm, 1. bölümün yanı sıra Crunchyroll, ABEMA ve Netflix'te bir hafta önceden yayınlandı. Yayın, TV yayınından bir hafta öncedir."
         },
         {
           "id": 189046,
@@ -382,7 +384,9 @@
               "site": "Bilibili TV",
               "url": "https://www.bilibili.tv/en/media/2342439"
             }
-          ]
+          ],
+          "isMyList": true,
+          "descriptionTr": "Re:Zero kara Hajimeru Isekai Seikatsu'nun dördüncü sezonu.\nAcı çeken müttefiklerini kurtarmak isteyen Subaru, Ülker Gözetleme Kulesi'ndeki Bilge'yi bulmak için ölümcül bir çölle karşı karşıya kalır.\n(Kaynak: Crunchyroll Haberleri)\n\nNot: 1. Bölümün Dünya Prömiyeri, 1 Kasım 2025'te Lucca Comics & Games 2025'te Japon televizyon yayınından önce gösterildi."
         },
         {
           "id": 195600,
@@ -500,7 +504,9 @@
               "site": "Bilibili TV",
               "url": "https://www.bilibili.tv/en/media/2342276"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Uzak bir dağ köyünde, iki taş muhafızın dikkatli gözleri altında genç Yuru, elinde kalan tek aileye, değerli ikiz kız kardeşi Asa'ya yakın kalarak mutlu bir şekilde toprakta yaşıyor. Asa ise kafeste kilitliyken köy adına gizemli bir “görev” yürütmektedir. Asa neden tutuklu? Peki Yuru'nun cennet gibi olan evinde başka hangi sırlar saklanıyor?\n(Kaynak: Square Enix)"
         },
         {
           "id": 182205,
@@ -559,11 +565,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Ensemble Cast",
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
+              "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
             {
@@ -633,7 +639,9 @@
               "site": "Bilibili TV",
               "url": "https://www.bilibili.tv/en/media/2342192"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Tensei Shitara Slime Datta Ken'in dördüncü sezonu.\nİblis Lordu Rimuru'nun insanlarla canavarlar arasında bir ittifak kurma hayali gerçekleşmeye bir adım daha yaklaşıyor. Tempest gelişmeye devam ederken Granville Rozzo ve torunu Maribel Rozzo, insanlığı yöneterek koruma planları konusunda İblis Lordu Rimuru ile çatışır. Bu arada El Dorado'da İblis Lordu Leon kendi hedefleri doğrultusunda çalışmaktadır. Yeni bir Kahramanın uyanışı yaklaşıyor!\n(Kaynak: Crunchyroll Haberleri)"
         },
         {
           "id": 180745,
@@ -810,7 +818,9 @@
               "site": "YouTube",
               "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e'nin dördüncü sezonu.\nAyanokouji ve sınıf arkadaşları İleri Yetiştirme Lisesi'ndeki ikinci yıllarına başlarken, onları yeni sınavlar ve oldukça benzersiz birinci sınıf öğrencilerinden oluşan yeni bir grupla karşılarlar. Birbirlerini hızlı bir şekilde tanımaları gerekecek, çünkü ilk özel sınav birinci sınıfları ikinci sınıflarla yazılı bir sınavda eşleştiriyor; takımları kötü performans gösterirse yalnızca ikinci sınıflar okuldan atılmayla karşı karşıya kalacak! Daha da kötüsü mü? Görünüşe göre yeni birinci sınıflardan biri de Beyaz Oda'dan. Ayanokouji bu gizli düşmanın kimliğini ortaya çıkarırken sınır dışı edilmekten kurtulabilecek mi?\n\n(Kaynak: Yedi Deniz)"
         },
         {
           "id": 182300,
@@ -923,7 +933,9 @@
               "site": "Bilibili TV",
               "url": "https://www.bilibili.tv/en/media/2342649"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Tsue to Tsurugi no Wistoria'nın ikinci sezonu.\nBüyü akademisinde sihir kullanamayan başarısız bir öğrenci olan Will, çocukluk arkadaşı Elfaria'ya verdiği bir sözü yerine getirmek için büyücülerin en üst kademesi olan Magia Vander'a katılmayı hedefliyor. Asa yerine kılıç kullanan yetenekleri akademide yavaş yavaş tanınmaktadır. Lihanna ve yılın diğer başarılı öğrencileriyle birlikte üstlendiği tüm öğrencilerden oluşan uygulamalı zindan eğitimi sırasında gizemli bir büyücü tarafından pusuya düşürülürler. Saldırıdan hep birlikte zar zor kurtulsalar da çıkış sınavıyla karşı karşıya kalırlar. Will kulede kendisini bekleyen kıza ulaşabilecek mi?\n(Kaynak: Resmi Site)"
         },
         {
           "id": 170019,
@@ -1032,7 +1044,9 @@
               "site": "YouTube",
               "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JjhVqkAt1bFMDpgrRsby7Z_"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Sareteita Ken'in Otonari no Tenshi-sama'sının ikinci sezonu.\n\nŞimdi bir çift olan Amane ve Mahiru, bu tatlı aşk hikayesinde okul hayatına yön veriyor ve geçmişlerinin üstesinden geliyor.\n\n(Kaynak: Crunchyroll Haberleri)"
         },
         {
           "id": 199221,
@@ -1158,7 +1172,9 @@
               "site": "Bilibili TV",
               "url": "https://www.bilibili.tv/en/media/2123789"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Dr.STONE'un dördüncü sezonunun üçüncü ve son kürü."
         },
         {
           "id": 169580,
@@ -1263,7 +1279,9 @@
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/GT00371673"
             }
-          ]
+          ],
+          "isMyList": true,
+          "descriptionTr": "Sınıfın dışladığı Maki Maehara sonunda ilk arkadaşını edinir: Sınıfın en güzel ikinci kızı ve herkesin ilgi odağı olan Umi Asanagi. Onun kendi liginin dışında olduğuna inanıyor ama beklenmedik arkadaşlıkları büyüdükçe Maki merak etmeye başlıyor: Aralarında arkadaşlıktan daha fazlası olabilir mi?\n\n(Kaynak: Crunchyroll)"
         },
         {
           "id": 199547,
@@ -1421,7 +1439,9 @@
               "site": "iQ",
               "url": "https://www.iq.com/album/lobrkqtcd1"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Yüzyıllar boyunca ölümcül sanatlar, Üstatlar olarak bilinen kişiler tarafından mükemmelleştirildi.\nBunlar arasında Beş Büyük Ailenin Zehir Ustaları en korkunç güce ve nüfuza sahiptir.\nZehir Ustaları'nın Gero Ailesi'nin varisi Hikaru Gero, tüm hayatını aşktan veya evlilikten çok uzakta, yeraltı dünyasında geçirmiştir.\nAncak Gero Ailesi reisi, Hikaru'nun kız kardeşinin soyunu korumak için bir varis doğurması gerektiğine karar verince -gerekirse güç kullanarak- Hikaru onu ne pahasına olursa olsun korumaya karar verir.\nİşte tam o sırada Hikaru, son işinin hedefi haline gelen parlak bir evlilik dolandırıcısı olan Mei Kinosaki ile karşılaşır.\nAilenin veraset sorununu çözmenin ve kız kardeşini korumanın tek yolunun evlilik olduğunu anlayan Hikaru, düşünmeden Mei'den bir gelin bulma konusunda yardım ister.\n\n(Kaynak: EMOTION Etiket Kanalı)"
         },
         {
           "id": 199588,
@@ -1538,7 +1558,9 @@
               "site": "TikTok",
               "url": "https://www.tiktok.com/@otagyal_official"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Sınıfın popüler kızları Ijichi ve Amane'nin arkasında oturan otaku Takuya Seo ile tanışın. Farklı \"kastlardan\" insanlar oldukları için pek fazla ortak noktaya sahip olmalarını bekleyemezsiniz. Ancak ödünç alınan bir silgi yüzünden dünyaları çatışınca Takuya en sevdiği anime hakkında hata yapar ve Amane... onu hemen düzeltir. Hayran olmadığını söylüyor ancak diziye olan aşinalığı aksini gösteriyor. O...bir inek arkadaşı olabilir mi?!\n\n(Kaynak: Yen Press)"
         },
         {
           "id": 186497,
@@ -1648,7 +1670,9 @@
               "site": "Netflix",
               "url": "https://www.netflix.com/title/82031882"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Sosyal açıdan beceriksiz olan Higawa Koyuki, kendisi ve diğer insanlar arasında bir duvar tutuyor. Lisede zamanını yalnız geçiriyor, ta ki bir nedenden dolayı aralarındaki mesafeyi kapatmaya çalışan Amamiya Minato ile tanışana kadar?!\n\nYalnız Koyuki, popüler Miki, sınırları olmayan Minato ve nazik basketbolcu Youta. Bu, dört karmaşık ve kafası karışmış gencin ve onların karışık hayatlarının hikayesi!\n\n(Kaynak: Margaret, çevrildi)"
         },
         {
           "id": 182483,
@@ -1682,6 +1706,7 @@
           "isAdult": false,
           "genres": [
             "Comedy",
+            "Ecchi",
             "Fantasy",
             "Romance"
           ],
@@ -1781,7 +1806,9 @@
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/GT00362253/the-warrior-princess-and-the-barbaric-king"
             }
-          ]
+          ],
+          "isMyList": true,
+          "descriptionTr": "Batı'nın en azılı şövalyesi Serafina, barbarlar tarafından yakalandığında işkence görmeyi bekliyordu. Bunun yerine evlenme teklifi aldı! Yeminli düşmanıyla evlenmek kesinlikle hayır! Ancak düğünü kaçıran kişinin kültürünü ve çok güzel yüzünü gördükten sonra, kılıcını düğün duvağıyla değiştirmek isteyebilir. Düşmanlardan belki de sevgililere uzanan nihai hikayeye hazır olun.\n\n(Kaynak: Crunchyroll)"
         },
         {
           "id": 197824,
@@ -1874,7 +1901,9 @@
               "site": "Bilibili TV",
               "url": "https://www.bilibili.tv/en/media/2342017"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Isekai Nonbiri Nouka'nın ikinci sezonu.\n\nNot: 8 Şubat 2026'da Bangkok'taki ANIMONIUM'da Japon televizyon galasından önce Bölüm 1'in dünya prömiyeri yapıldı."
         },
         {
           "id": 173172,
@@ -2018,7 +2047,9 @@
               "site": "YouTube",
               "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JijIk0-cv_OB8lVOHKzve3r"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Dorohedoro'nun ikinci sezonu. \nCaiman, lanetli görünümünün ardındaki gerçeğe adım adım yaklaşırken ve Şaşı'nın patronunun etrafındaki gizem çözülmeye başladıkça anarşi devam eder.  \n(Kaynak: Netflix Animesi)"
         },
         {
           "id": 194317,
@@ -2103,7 +2134,9 @@
               "site": "Bilibili TV",
               "url": "https://www.bilibili.tv/en/media/2341767"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru'nun ikinci sezonu mu?\n\nArthur, Jasmine'le birlikte son bir görevle karşı karşıyadır ancak bu görev, kimsenin geleceğini tahmin etmediği bir trajediyi ortaya çıkarır.\n\n(Kaynak: Crunchyoll Haberleri)"
         },
         {
           "id": 194393,
@@ -2196,7 +2229,9 @@
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/GT00371779"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Çocukluk arkadaşları Yukiya ve Miku, duyguları dışında her şeyi paylaşırlar. Altıncı sınıftan beri bir “aşk oyunu” oynuyorlar: Sırayla “Seni seviyorum” diyorlar ve kim ilk önce telaşlanırsa o kaybediyor. Artık lisedeyken kalpleri her zamankinden daha yakın ama sonunda itiraf edecek cesareti bulabilecekler mi?\n\n(Kaynak: Crunchyroll)"
         },
         {
           "id": 206914,
@@ -2333,7 +2368,9 @@
               "site": "TikTok",
               "url": "https://www.tiktok.com/@sangoku_pr"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Nükleer savaş, doğal afet ve kötü yönetimin yol açtığı bir devrim, Japon toplumunun çöküşüne yol açar. Ülke hegemonya için yarışan üç ülkeye bölünür ve Sangoku dönemi başlar. Eski bir tarım memuru olan Aoteru Misumi, Japonya'yı yeniden birleştirme sözü verdi. Sadece ilmi ve belagati ile rütbelerde yükselir. Daha sonra dahi bir stratejist olarak selamlanan adamın efsanesine tanık olun.\n\n(Kaynak: Amazon Prime Videosu)"
         },
         {
           "id": 190704,
@@ -2499,7 +2536,9 @@
               "site": "YouTube",
               "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JhVy3KHGqdAMw_lVe9Vq5UN"
             }
-          ]
+          ],
+          "isMyList": true,
+          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor ama sonunda bir şekilde onunla bir ilişki mi kuruyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk buluşma ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!\n\n(Kaynak: Crunchyroll)"
         },
         {
           "id": 190143,
@@ -2644,7 +2683,9 @@
               "site": "Bilibili TV",
               "url": "https://www.bilibili.tv/en/media/2342908"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Baharın Temsilcisi Hinagiku Kayo kaçırıldığında baharın kendisi ortadan kaybolur ve dünyayı bitmek bilmeyen bir kışa sürükler. Vazgeçmeyi reddeden sadık muhafızı Sakura Himedaka, onu yıllarca arar. Hinagiku aniden geri döndüğünde ikili, kaybedilen sezonu geri getirmek, onları parçalayan geçmişle yüzleşmek ve kaybetmeyi reddettikleri sıcaklığı yeniden geri kazanmak için yola çıkar.\n\n(Kaynak: Crunchyroll)"
         },
         {
           "id": 197754,
@@ -2756,7 +2797,9 @@
               "site": "Twitter",
               "url": "https://x.com/liargame_en"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "İdealine uygun yaşamasını dileyen Kanzaki Nao'nun babası, ona \"dürüstlük\" adını verdi. Nao, babasının isteklerini fazlasıyla yerine getirmiş, hatta onları aşmış ve \"aptalca dürüst bir kız\" etiketini kazanmıştır. Bu, Nao'yu, kazanmanın rakibin parasını almak için kandırmayı gerektirdiği ve kaybetmenin ise büyük miktarda borç almak anlamına geldiği yüksek riskli 'Yalancı Oyunu' için en az nitelikli aday haline getiriyor. Ancak bu, içinde yüz milyon yen nakit bulunan bir kutunun ve oyuna katıldığını bildiren bir kartın kapısının önüne gelmesini engellemediği gibi, kandırılarak tüm paranın anında alınmasını da engellemez. Büyük bir şirketin iflasından sorumlu olan dahi bir dolandırıcının hapisten çıktığını duyan Nao, yardım almak için dolandırıcı Shinichi Akiyama'ya gider. Bununla birlikte ikili, Yalancı Oyununun karanlık, açgözlülük dolu ve aldatıcı dünyasına çekilir."
         },
         {
           "id": 202102,
@@ -2911,7 +2954,9 @@
               "site": "Instagram",
               "url": "https://www.instagram.com/needy.anime/"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Sevgiyle \"KAngel\" olarak bilinen OMGkawaiiAngel, 10 milyon abonesiyle en iyi yayıncı kızlardan biri ve onu çalışırken görmeden bir gün geçmiyor. İster internette, ister televizyonda, ister canlı bir şovda olsun, etrafı her zaman tezahürat yapan hayranlarıyla çevrilidir.\n\nKaramazov adında üç kızdan oluşan bir yayın birimi, KAngel'in popülaritesini yakalamaya çalışıyor.\n\nVe bu yayıncıların dünyasından çok uzakta olan Kache, bir temalı kafede çalışırken beleşçi erkek arkadaşıyla birlikte yaşayan bir kızdır.\n\nYıldız gibi parlayan bir kız ve o parlaklığa ulaşan kızların ördüğü dünyayı büyüleyen \"İnternet Meleği\" ile ekranın diğer tarafındaki \"sen\"in hikayesi burada başlıyor.\n\n(Kaynak: Resmi Site)\n\nNot: Yayınlanmadan önce, yeniden düzenlenen ve kurgulanan ilk 3 bölümün teatral ön gösterimi olan \"NEEDY GIRL OVERDOSE -OVERTURE-\" 6 Mart 2026'da Japonya'da gösterime girdi."
         },
         {
           "id": 196935,
@@ -3058,7 +3103,9 @@
               "site": "YouTube",
               "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JiCtTdD2GRMvAmM6RXA2uhH"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "\"Yalnızca sesiniz ve vücudunuzla sanatta ustalaşın.\"\nÇocukluğundan beri babası Shinta Arakawa'nın büyülü performanslarının büyüsüne kapılan Akane Ousaki, shin'uchi'ye (usta rütbesi) yükselmek için gösterdiği kararlı performans sırasında şok edici bir olaya tanık olur.\nAltı yıl sonra artık bir lise öğrencisi olarak gözünü bir shin'uchi olmaya dikiyor ve rakugo'nun son derece rekabetçi dünyasında ilerlemeye başlıyor.\nTutkulu ve özgün bir rakugo draması şimdi başlıyor!\n\n(Kaynak: TV Asahi, düzenlendi)"
         },
         {
           "id": 184492,
@@ -3186,7 +3233,9 @@
               "site": "Bilibili TV",
               "url": "https://www.bilibili.tv/en/media/2342582"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Mairimashita'nın dördüncü sezonu! Iruma-kun.\n\nSuzuki Iruma ve Uyumsuzlar Sınıfının on üç öğrencisinin tamamı, Müzik Festivalinde 4. Sıraya ulaşmak için performans sergilemek zorundadır.\n(Kaynak: Crunchyroll Haberleri)"
         },
         {
           "id": 171110,
@@ -3328,7 +3377,9 @@
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/G6793XKZY/ascendance-of-a-bookworm"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.\n\nBir soyluyla yaşadığı felaketle sonuçlanan karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra katı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi her türden değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!\n\n(Kaynak: J-Novel Kulübü)"
         },
         {
           "id": 179950,
@@ -3433,7 +3484,9 @@
               "site": "Bilibili TV",
               "url": "https://www.bilibili.tv/en/media/2343947"
             }
-          ]
+          ],
+          "isMyList": true,
+          "descriptionTr": "Touya Senji yeteneksiz. Her şeyi denedi ama ne kadar uğraşırsa uğraşsın hiçbir şeyde başarılı olamıyor. Daha sonra bir Kendo şampiyonu ve insanlığın koruyucusu olan Haito ile tanışır. Geçmiş yaşamlarının yeteneklerinden yararlanmak için Reenkarnasyon Kökünü kullanıyor, ancak bu yalnızca kendi boğazını kestiğinde işe yarıyor. Şimdi de Touya'nın kendisine katılmasını mı istiyor?\n\n(Kaynak: Mangamo, düzenlendi)"
         },
         {
           "id": 200769,
@@ -3535,7 +3588,9 @@
               "site": "Crunchyroll",
               "url": "https://crunchyroll.com/series/GT00371875/the-strongest-job-is-apparently-not-a-hero-or-a-sage-but-an-appraiser-provisional"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Aniden başka bir dünyaya transfer edilen lise öğrencisi Hibiki, canavarların yaşadığı bir fantezi dünyasının uçsuz bucaksız otlaklarında tek başına dolaşır. Sahip olduğu tek şey \"Değerlendirme\" gibi savaş dışı becerilerdir! Umutsuz bir durumdan, karşılaşmalarla kurtulur ve çok güçlü yetenekleri gelişir! Mucizevi tersine çevirme hileleriyle dolu başka bir dünya macera hikayesi ortaya çıktı!\n\n(Kaynak: Alfa Manga)\n\nNot: Saikyou no Shokugyou ve Yuusha demosu Kenja demosu Naku Kanteishi (Kari) Rashii desu yo? dAnimestore'daki TV yayınından bir hafta önce yayınlandı ve ABEMA 2. bölümden itibaren yayınlandı. İlk bölüm 2 Nisan 2026'da yayınlandı. 4 Nisan 2026'da düzenli yayına başladı."
         },
         {
           "id": 198113,
@@ -3672,7 +3727,9 @@
               "site": "Netflix",
               "url": "https://www.netflix.com/title/82757009"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Juuzou Oogami, ne kadar imkansız olursa olsun hiçbir görevde başarısız olmayan efsanevi bir tetikçidir. Bir gün güçlü bir organizasyonu yok ettikten sonra gizemli bir eşekarısı tarafından sokulur ve yere yığılır. 39 yaşındaki korkunç suikastçı uyandığında 13 yaşında bir çocuğa dönüşmüştür!\nDaha ne olduğunu anlayamadan patronu yeni bir emir verir: \"O bedenin içinde bir ortaokula sızın.\"\nOnu bekleyen ise renkli sınıf arkadaşları, gençlik kaosu ve yaklaşmakta olan tehlikelerle dolu beklenmedik bir okul hayatıdır. Juuzou bir gün orijinal formuna dönebilecek mi? Yoksa ona yaklaşan suikastçılar onun ikinci hayatına daha başlamadan son mu verecek?\n(Kaynak: Resmi Site)"
         },
         {
           "id": 187869,
@@ -3695,8 +3752,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187869-EbWPynNeX5VY.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778857200,
-            "episode": 6
+            "airingAt": 1779462000,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -3746,11 +3803,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Food",
               "isMediaSpoiler": false
             },
             {
-              "name": "Food",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
@@ -3804,7 +3861,9 @@
               "site": "iQ",
               "url": "https://www.iq.com/album/1hqt8hoj3xl"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Yeni üniversite hayatı, yeni yurt arkadaşları... ve yepyeni bir içki dünyası! Botan Kamiina, sessiz yurt lideri Ibuki Tonami'yi tek başına içki içerken fark ettikten sonra ilk alkol yudumunu alıyor. Botan, shochu'dan viskiye kadar içki içmenin keyfini arkadaşlarıyla paylaşırken, Ibuki yavaş yavaş bazı zevklerin paylaşıldığında daha iyi olduğunu öğrenir.\n\n(Kaynak: Crunchyroll)"
         },
         {
           "id": 189987,
@@ -3923,7 +3982,9 @@
               "site": "Bilibili TV",
               "url": "https://www.bilibili.tv/en/media/2361551"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Sakuradaimon okulun müdürüdür. Vali, disiplini uygulama yetkisine sahip bir öğrencidir. Bir sınıf başkanı olarak diğer öğrencilere rol model olması gerekiyor ama ne yazık ki mükemmel değil. Kohinata, Sakuradaimon'un uygun okul kıyafetleri giymesi konusunda disipline etmeye çalıştığı kişilerden biridir, ancak şu ana kadar itaatsiz olmuştur.\n\nVe bu, ikisinin birbirleriyle etkileşime girdiği bir hikaye."
         },
         {
           "id": 180228,
@@ -4035,7 +4096,9 @@
               "site": "YouTube",
               "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "İlk görüşte aşk bir efsane değildir; sadece Okuto Nakamura'ya sorun. Hayalperest sınıf arkadaşı Aiki Hirose ne zaman odaya girse, aslında hiç konuşmamış olmalarına rağmen kalbi atıyor. Nakamura'nın sıfır arkadaşı olan tam bir beceriksiz olduğundan bahsetmiyorum bile. Aşka olan şansını daha başlamadan mahvedecek mi?\n\n(Kaynak: Crunchyroll)\n\nNot: Dizi, 1. bölümle birlikte yayınlanan 2. bölümden başlayarak Hulu Japonya'da bir hafta önceden yayınlandı."
         },
         {
           "id": 192808,
@@ -4133,7 +4196,9 @@
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/GT00371887/an-observation-log-of-my-fiance-who-calls-herself-a-villainess"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Bertia, en sevdiği otome oyununa yeniden hayat veriyor; kahraman olarak değil, mükemmel Veliaht Prens Cecil'le nişanlanan kötü adam olarak! Rolünün onun gelecekteki aşkını sabote etmek olduğunun tamamen bilincinde olan kadın, hikayeye göre kötü bir çiçek gibi açıp solup gitmeye kararlıdır. Ancak ne kadar plan yapmaya çalışırsa çalışsın, \"kötü\" planları onu yalnızca daha da sevimli kılıyor!\n\n(Kaynak: Crunchyroll)\n\nNot: Jishou Akuyaku Reijou ve Konyakusha no Kansatsu Kiroku. Prime Video'daki TV yayınından 3 gün önce yayınlandı ve Crunchyroll 3 Nisan 2026'dan itibaren yayınlandı. Düzenli yayın 6 Nisan 2026'da başladı."
         },
         {
           "id": 179813,
@@ -4302,7 +4367,9 @@
               "site": "Bilibili TV",
               "url": "https://www.bilibili.tv/en/media/2289611"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Yürüyüşün mahalle horozu Keiji, sıradan bir horozdan çok daha fazlasıdır; o, insanlığın en büyük savunucusudur! Rakipleri on kat uzunluğa sahip olabilir ama hiçbir şey onun yiğit yüreğinden ve korkunç savaş çığlığından daha büyük olamaz: Kokekokko!\n\n(Kaynak: VIZ Media, düzenlendi)"
         },
         {
           "id": 182578,
@@ -4398,7 +4465,9 @@
               "site": "Hulu",
               "url": "https://www.hulu.com/series/mission-yozakura-family-ac689bea-f955-4d95-8693-7b87b5a309cb"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Yozakura-san Chi no Daisakusen'in ikinci sezonu."
         },
         {
           "id": 185211,
@@ -4519,7 +4588,9 @@
               "site": "YouTube",
               "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgXUB10c8pdjrn7SUPo4IdI"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu kızdırırsanız, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlı ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacak... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetti.\n\n(Kaynak: HİDİV)"
         },
         {
           "id": 195333,
@@ -4610,7 +4681,9 @@
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/GT00371668/haibaras-teenage-new-game"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Hepimizin liseden utanç verici anıları ya da derin pişmanlıkları var, değil mi? Sosyal kaygılı üniversite son sınıf öğrencisi Natsuki Haibara da öyle. Hayatının o zamanlarını düşündüğünde, sahip olduğu tek şey mutlu bir ergenlik dönemine dair geçici fantezilerdir. O halde, kendisini açıklanamaz bir şekilde yedi yıl geçmişte, lisedeki ilk yılından bir ay önce bulduğunda yaşadığı şaşkınlığı ve şaşkınlığı bir düşünün! Haibara daha önceki hatalarından kaçınabilecek mi, okulun sosyal piramidinin tepesine ulaşabilecek mi ve sonunda hayallerindeki kıza kavuşabilecek mi? Yoksa okulun en nefret edilen çocuğu olarak üç yıllık yalnızlığı yeniden mi yaşamak zorunda kalacak? Başarılı olmak için bir egzersiz programından çevrimiçi nasıl yapılır kılavuzlarına, bir çocukluk arkadaşına ve bolca saf iradeye kadar alabileceği her türlü yardıma ihtiyacı olacak. Haibara'nın ergenlik yıllarına ikinci bir şans vermesini izleyin!\n\n(Kaynak: J-Novel Kulübü)\n\nNot: İlk 4 bölüm 15 Mart 2026 tarihinde ön gösterime girmiştir. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
         },
         {
           "id": 199029,
@@ -4698,7 +4771,9 @@
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/G6QWV3976/rent-a-girlfriend"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Kanojo, Okarishimasu'nun Beşinci Sezonu.\n\nNot: Kanojo, Okarishimasu 5. Sezonu 8 Nisan'da başlayacak olan DMM TV'deki yayından 2 gün önce yayınlanmıştır."
         },
         {
           "id": 195268,
@@ -4808,7 +4883,9 @@
               "site": "iQ",
               "url": "https://www.iq.com/album/upxd1s2it9"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Higeki no Genkyou'dan Naru Saikyou Gedou'ya Last Boss Joou wa Tami no Tame ni Tsukushimasu'nun ikinci sezonu."
         },
         {
           "id": 196974,
@@ -4931,7 +5008,9 @@
               "site": "YouTube",
               "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jh2Aq9dnBrcdmlUPfq5VQtL"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Spica Başak çırak bir cadıdır ancak herhangi bir sihir kullanamaz. Hayallerindeki akademiye girebilmek için ustası olacak birine ihtiyacı var ama ne parası ne de hiçbir bağlantısı var. Aniden önünde sihir kullanabilen, konuşan gizemli bir kara kedi belirir!! Spica sihir öğrenmek istiyor, kara kedi ise lanetinin kırılmasını istiyor; hedefler aynı yolda. Böylece gizli bir usta-çırak ilişkisi doğdu! Ama laneti bozmanın anahtarı onu öpmek…?! Sakar bir cadı ve kara bir kedinin öğretileri; sihir akademisi fantezisi burada başlıyor!!\n\n(Kaynak: K Manga)"
         },
         {
           "id": 201817,
@@ -5044,7 +5123,9 @@
               "site": "YouTube",
               "url": "https://youtube.com/playlist?list=PLPanbgyToztZfCF_t30MEwliHPYRdpKwy&si=zO4Q6CCvBH-bUEYy"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Efsanevi bir dük ailesinde doğan dövüş dahisi Maria \"Mimi\" Annovazzi, mirasçı olma iddiasını kaybeder ve aniden prestij sahibi olmak için evlenmesi emredilir. Memleketinde hiçbir seçeneği kalmadığından komşu bir krallığa transfer olur; ancak mezuniyet töreninde, varlığından bile haberi bile olmadığı bir nişan nedeniyle hiç tanımadığı bir prens tarafından herkesin önünde terk edilir! Maria bir kız kurusunun hayatına mı mahkum olacak?!(Kaynak: Crunchyroll)"
         },
         {
           "id": 196012,
@@ -5170,7 +5251,9 @@
               "site": "Bandai Channel",
               "url": "https://www.b-ch.com/titles/9635/"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Geçmişi ve bugünü birbirine bağlayan bir lanet.\n\n1900'lerin başlarında Japonya'nın Taisho döneminde yaşayan genç bir mistik olan Mao, hayatını değiştiren bir lanete maruz kaldıktan sonra dokuz yüz uzun yıl boyunca yaşamaya devam eden gizemli bir onmyojidir. Gelecekten gelmiş gibi görünen ortaokul öğrencisi Nanoka Kiba ile tanıştığında dünyası daha da tuhaf bir hal alır. Nanoka, hassas yıllarına rağmen, küçük bir çocukken anne ve babasını tüyler ürpertici bir kazada kaybetmesiyle yaşadığı travmatik deneyimin damgasını vurduğu garip bir hayat yaşamıştır. Ancak Nanoka o uğursuz alışveriş merkezine dönmeye karar verdiğinde başka bir zamana ve yere taşınır; doğaüstü ayakaşilerin kendisinden çok önce geliştiği bir dünyaya. Orada Mao ile tanışır ve Mao'nun ani ve tuhaf sorusu Nanoka'nın kendisini ve meraklı hayatını tamamen yeni bir ışıkta görmesine neden olur. Artık farklı dünyalardan gelen iki gezgin, hayatlarını etkileyen karanlık güçlerle mücadele ederken birleşiyor.\n(Kaynak: VIZ Media, Hulu, düzenlendi)"
         },
         {
           "id": 202381,
@@ -5260,7 +5343,9 @@
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/GT00371787/killed-again-mr-detective"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Sakuya Otsuki, asistanı Lilithea ile birlikte babasının izinden gitmeye çalışan efsanevi bir dedektifin oğludur. Ancak bu lise dedektifinde farklı olan bir şeyler vardır. Nereye giderse gitsin, bir cinayet kurbanı olarak her zaman kendini davaların içine sokmayı başarıyor! Sakuya lüks bir yolcu gemisine sızmakla görevlendirilince kendini bir kez daha öldürülmüş halde bulur. Ancak gözlerini her yeniden açtığında Lilithea yanındadır ve gizemin derinliklerine inmesine yardım etmeye hazırdır...\n(Kaynak: Yen Press)"
         },
         {
           "id": 206951,
@@ -5389,7 +5474,9 @@
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/GT00371665/my-ribdiculous-reincarnation"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Reenkarnasyon hedefim... \"harem seven, mutlu sonla biten, aşırı güçlü bir kahramanın kaburga kemiği\"!? Animasyon geleneklerine meydan okuyan bir isekai reenkarnasyon animesi doğuyor!\nGeleneksel animasyonun ötesinde, bu dizi, stop-motion, kukla tiyatrosu ve canlı aksiyon gibi alışılmadık tekniklerle heyecan verici bir isekai reenkarnasyon hikayesi sunuyor; isekai reenkarnasyonlarından sorumlu soğuk \"Tanrıça\" ve birbiri ardına saçma reenkarnasyonlara katlanan baş kahraman \"Ben\"i içeriyor!\n(Kaynak: YouTube Kanalı, çevrildi)"
         },
         {
           "id": 196029,
@@ -5486,7 +5573,9 @@
               "site": "YouTube",
               "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JjlyxvkFA0-OyN6zwDTNjoA"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Minato Kusunoki, ailesinin perili, terk edilmiş kırsal mülkünü yönetmekle görevlendirilir. Bununla birlikte, ezici ruhsal gücü sayesinde Minato, kazara tüm mekanı arındırarak, bir zamanlar lanetli olan bu mülkü, başıboş tanrılar ve tanrılar için huzurlu bir sığınağa dönüştürüyor! Minato buraya yerleşirken kendisini ilginç ilahi komşularla ve tanrılar arasındaki yaşamın canlı kaosuyla çevrelenmiş halde bulur.\n\n(Kaynak: Crunchyroll)"
         },
         {
           "id": 186744,
@@ -5598,7 +5687,9 @@
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/GT00374288/even-a-replica-can-fall-in-love"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Kendini iyi hissetmediğinde, sınav olduğunda, okula gitmek istemediğinde... Onun yerini ben alıyorum. Ben onun kopyasıyım. Başka bir amacım yok. Ama aşık olduğumda bu değişti. Aşık olduğum çocuğun ben olduğumu anlaması için saçlarımı topuz yapıyorum. Okulu atlıyoruz ve yarın ve sonrasında her gün tekrar buluşacağımıza söz veriyoruz. Ben onun kopyasıyım. Benimle ilgili her şey ödünç alınmış ve boş ama kalbim benim.\n\n(Kaynak: Crunchyroll)"
         },
         {
           "id": 198939,
@@ -5703,7 +5794,9 @@
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/GVDHX8504/reborn-as-a-vending-machine-i-now-wander-the-dungeon"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou'nun üçüncü sezonu."
         },
         {
           "id": 202523,
@@ -5795,7 +5888,9 @@
               "site": "OceanVeil",
               "url": "https://oceanveil.net/anime_titles/399"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Benim gibi sevilmeyen biri için çocukluk arkadaşım Marika'ya itirafta bulunmak imkansızdı. Ben de her çaresiz çocuğun yapacağı şeyi yaptım; kayan bir yıldızın olmasını diledim! Uyandığımda bu rüya gerçekleşmiş miydi? Tıpkı bir aşk simülasyon oyununda olduğu gibi, insanlar için bir aşk ölçer görebiliyordum. Bunun bir rüya değil de gerçek olduğunu anlayınca doğrudan Marika'yı görmeye gittim. Aşk ölçeri o kadar düşüktü ki kırılmıştı ve neredeyse cehenneme kadar düşmüştü! Madem benden bu kadar nefret ediyordu, neden bu kadar iyiydi? Gerçekten böyle mi hissetti yoksa...?!\n\n(Kaynak: Coolmic)\n\nNot: Bölüm 1, 13 Mart 2026'da AnimeFesta'da gelişmiş bir dağıtım aldı. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
         },
         {
           "id": 177501,
@@ -5933,7 +6028,9 @@
               "site": "YouTube",
               "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JjWZOD_IeD4sSKU4icerKBZ"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Awajima Opera Okulu'nda Japonya'nın dört bir yanından kızlar sahnede bir yer kazanmak için çabalıyor. Wakana müzikal tiyatroya olan aşkıyla hareket ederken Kinue sessiz bir disiplinle çalışıyor. Burslu öğrenci Emi herkesin dikkatini çeker; ama özellikle de hayranlık ve karşılaştırma konusunda zorluk çeken Keiko'nun. Değişen bakış açıları sayesinde iç içe geçen günleri, hırsı, dostluğu ve kendini keşfetmeyi keşfediyor.\n\n(Kaynak: Crunchyroll)"
         },
         {
           "id": 196144,
@@ -5957,8 +6054,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196144-oWeLz0DOjhYV.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778855400,
-            "episode": 7
+            "airingAt": 1779460200,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -5976,18 +6073,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Kaiju",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Artificial Intelligence",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Snowscape",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Robots",
               "isMediaSpoiler": false
             },
@@ -5996,7 +6081,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Kaiju",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Artificial Intelligence",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Aliens",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Snowscape",
               "isMediaSpoiler": false
             },
             {
@@ -6008,16 +6105,16 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Super Power",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Space Opera",
               "isMediaSpoiler": false
             },
             {
               "name": "Shounen",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": true
             }
           ],
           "averageScore": 62,
@@ -6046,7 +6143,9 @@
               "site": "Disney Plus",
               "url": "https://www.disneyplus.com/browse/entity-5ecc8b00-79fd-4c1a-81ed-f44260ef38d4"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "\"Yukio... Bir arkadaş edineceğim.\" Tetsuo adında utangaç bir çocuk. Sahip olduğu tek şey Yukio adında dev bir robottu. Uzaydan gelen galaktik canavarlara karşı mücadelede “kurtarıcı” oldular. Son savaşın ardından Tetsuo, on yıl aradan sonra ilk kez Dünya'ya döner ve şaşırtıcı bir dünyaya tanık olur. Bu, tüm arazinin kar ve buzla kaplandığı, ölümcül bir dünyaya dönüştüğü donmuş bir Dünya (kartopu Dünyası olarak adlandırılır)! İnsan ırkına ne oldu? Peki Tetsuo, Yukio'ya verdiği sözü yerine getirebilecek mi?\n(Kaynak: Shogakukan, çevrildi)"
         },
         {
           "id": 197868,
@@ -6139,7 +6238,9 @@
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/GT00375170/the-food-diary-of-miss-maid"
             }
-          ]
+          ],
+          "isMyList": false,
+          "descriptionTr": "Bir hizmetçi kendini aniden bir yıl boyunca Japonya'da sıkışmış bulduğunda ne yapmalıdır? Tabii ki yiyin! Taiyaki ve kavun ekmeği gibi tatlılardan takoyaki ve onigiri gibi lezzetli atıştırmalıklara kadar her türlü Japon yemeğini deneyen hizmetçi Suzume Tachibana'yı takip edin! Ancak dikkat edin, Suzume iştahını lezzetli ikramlardan sonra doyururken, sonunda sizinkini bileyebilir!\n\n(Kaynak: Crunchyroll)\n\nNot: Maid-san wa Taberu dake, 2. bölümden itibaren dAnimestore, ABEMA ve U-Next'te bir hafta önceden yayınlandı. 1. Bölüm, 1 Nisan 2026'da yayınlandı. Düzenli yayın 5 Nisan 2026'da başladı."
         }
       ]
     }
