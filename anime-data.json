@@ -244,15 +244,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Dissociative Identities",
               "isMediaSpoiler": true
             },
             {
               "name": "Time Manipulation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -276,6 +276,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Travel",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Cult",
               "isMediaSpoiler": false
             },
@@ -284,7 +288,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Travel",
+              "name": "Medieval",
               "isMediaSpoiler": false
             },
             {
@@ -292,15 +296,11 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Medieval",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
               "name": "Elf",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -438,12 +438,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Rural",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Anachronism",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Rural",
+              "isMediaSpoiler": false
             },
             {
               "name": "Twins",
@@ -1563,8 +1563,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186497-naXtQFMHJaR1.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778770560,
-            "episode": 7
+            "airingAt": 1779375360,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -1594,7 +1594,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban",
+              "name": "Kuudere",
               "isMediaSpoiler": false
             },
             {
@@ -1606,11 +1606,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Kuudere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Bullying",
+              "name": "Urban",
               "isMediaSpoiler": false
             },
             {
@@ -1618,12 +1614,16 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Orphan",
-              "isMediaSpoiler": true
+              "name": "Bullying",
+              "isMediaSpoiler": false
             },
             {
               "name": "School Club",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Orphan",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 77,
@@ -3353,8 +3353,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1778772600,
-            "episode": 7
+            "airingAt": 1779377400,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -4542,8 +4542,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195333-66Rnkl0TzxtO.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778776080,
-            "episode": 7
+            "airingAt": 1779380880,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -5195,8 +5195,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1778777880,
-            "episode": 7
+            "airingAt": 1779382680,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -5544,12 +5544,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Revenge",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
             },
             {
               "name": "Meta",
@@ -5728,8 +5728,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177501-oucV5vhyzxjb.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778777100,
-            "episode": 6
+            "airingAt": 1779381900,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
