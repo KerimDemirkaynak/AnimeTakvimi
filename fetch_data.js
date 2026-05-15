@@ -13,6 +13,9 @@ async function translateText(text) {
     // 2. Geriye kalan diğer tüm HTML etiketlerini temizle (<i>, <b> vb.)
     cleanText = cleanText.replace(/<[^>]*>?/gm, ''); 
     
+    // 3. Art arda gelen 3 veya daha fazla boşluğu sadece 2 boşluğa indir ve kenarları kırp
+    cleanText = cleanText.replace(/\n{3,}/g, '\n\n').trim();
+    
     const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=tr&dt=t&q=${encodeURIComponent(cleanText)}`;
     
     try {
@@ -20,10 +23,10 @@ async function translateText(text) {
         if (!res.ok) throw new Error("Çeviri sunucusu yanıt vermedi");
         const json = await res.json();
         
-        // 3. Google Translate'in karmaşık dizi yapısından sadece çevrilmiş metinleri birleştir
+        // 4. Google Translate'in karmaşık dizi yapısından sadece çevrilmiş metinleri birleştir
         let translatedText = json[0].map(item => item[0]).join('');
         
-        // 4. Arayüzde (innerHTML) tekrar düzgün paragraf boşlukları oluşması için \n'leri <br>'ye çevir
+        // 5. Arayüzde (innerHTML) tekrar düzgün paragraf boşlukları oluşması için \n'leri <br>'ye çevir
         return translatedText.replace(/\n/g, '<br>');
         
     } catch (e) {
