@@ -6,16 +6,26 @@ const MAL_USERNAME = "KerimDemirkaynak";
 // Google Translate Ücretsiz Endpoint'i ile Çeviri Fonksiyonu
 async function translateText(text) {
     if (!text) return "";
-    // AniList'in HTML etiketlerini metin çevirisine girmemesi için temizleyelim
-    const cleanText = text.replace(/<[^>]*>?/gm, ''); 
+    
+    // 1. Paragraf ve satır atlama etiketlerini \n karakterine dönüştür
+    let cleanText = text.replace(/<br\s*[\/]?>/gi, '\n').replace(/<\/p>/gi, '\n\n');
+    
+    // 2. Geriye kalan diğer tüm HTML etiketlerini temizle (<i>, <b> vb.)
+    cleanText = cleanText.replace(/<[^>]*>?/gm, ''); 
+    
     const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=tr&dt=t&q=${encodeURIComponent(cleanText)}`;
     
     try {
         const res = await fetch(url);
         if (!res.ok) throw new Error("Çeviri sunucusu yanıt vermedi");
         const json = await res.json();
-        // Google Translate'in karmaşık dizi yapısından sadece çevrilmiş metinleri birleştir
-        return json[0].map(item => item[0]).join('');
+        
+        // 3. Google Translate'in karmaşık dizi yapısından sadece çevrilmiş metinleri birleştir
+        let translatedText = json[0].map(item => item[0]).join('');
+        
+        // 4. Arayüzde (innerHTML) tekrar düzgün paragraf boşlukları oluşması için \n'leri <br>'ye çevir
+        return translatedText.replace(/\n/g, '<br>');
+        
     } catch (e) {
         console.error("Çeviri atlandı (Hata veya Limit):", e.message);
         return text; 
