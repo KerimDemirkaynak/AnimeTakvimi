@@ -256,7 +256,8 @@
             <div class="modal-summary-section">
                 <div class="summary-header">
                     <span class="detail-label" style="color: var(--primary); font-weight: 600;" id="ui-modal-summary">Konu Özeti</span>
-                    <a id="modalTranslateBtn" href="#" target="_blank" class="translate-btn">
+                    <!-- "target=_blank" özelliği anlık çeviri yapacağımız için kaldırıldı -->
+                    <a id="modalTranslateBtn" href="#" class="translate-btn">
                         <i class="fa-brands fa-google"></i> <span id="ui-btn-translate">Çevir</span>
                     </a>
                 </div>
@@ -280,18 +281,18 @@
   const i18n = {
       tr: {
           headerTitle: "Anime Takvimi", searchPlaceholder: "Anime ara (Örn: DanMachi, SAO)...",
-          all: "🔥 Tümü", loading: "Bölümler taranıyor...", noResults: "Kriterlere uygun anime bulunamadı.",
+          all: "🔥 Tümü", myList: "Listem", loading: "Bölümler taranıyor...", noResults: "Kriterlere uygun anime bulunamadı.",
           seasonHit: "Sezonun Gözdesi", out: "Çıktı", ago: "önce", days: "g", hours: "s", mins: "d", ep: "BLM",
           startDate: "Başlangıç", studio: "Stüdyo", score: "Puan", platforms: "Platformlar", genres: "Türler",
-          summaryTitle: "Konu Özeti", translateBtn: "Çevir", anilistBtn: "AniList Sayfasına Git",
+          summaryTitle: "Konu Özeti", translateBtn: "Çevir", originalBtn: "Orijinali Göster", anilistBtn: "AniList Sayfasına Git",
           unknown: "Bilinmiyor", none: "Yok", unlisted: "Belirtilmemiş", error: "Hata", jsonError: "Çeviri dosyası yüklenemedi!"
       },
       en: {
           headerTitle: "Anime Calendar", searchPlaceholder: "Search anime (e.g. DanMachi, SAO)...",
-          all: "🔥 All", loading: "Scanning episodes...", noResults: "No anime found matching criteria.",
+          all: "🔥 All", myList: "My List", loading: "Scanning episodes...", noResults: "No anime found matching criteria.",
           seasonHit: "Season Hit", out: "Released", ago: "ago", days: "d", hours: "h", mins: "m", ep: "EP",
           startDate: "Start Date", studio: "Studio", score: "Score", platforms: "Platforms", genres: "Genres",
-          summaryTitle: "Synopsis", translateBtn: "Translate", anilistBtn: "Go to AniList",
+          summaryTitle: "Synopsis", translateBtn: "Translate", originalBtn: "Show Original", anilistBtn: "Go to AniList",
           unknown: "Unknown", none: "N/A", unlisted: "Unlisted", error: "Error", jsonError: "Failed to load translation file!"
       }
   };
@@ -320,6 +321,7 @@
 
   let allAnimes = [];
   let selectedGenres = [];
+  let isMyListActive = false;
   let searchTerm = "";
   let currentSlide = 0;
   let slideInterval;
@@ -376,7 +378,7 @@
       const sliderContainer = document.getElementById('heroSliderContainer');
       const sliderTrack = document.getElementById('heroSlider');
       const dotsContainer = document.getElementById('sliderDots');
-      if(sliderAnimes.length === 0 || searchTerm !== "" || selectedGenres.length > 0) {
+      if(sliderAnimes.length === 0 || searchTerm !== "" || selectedGenres.length > 0 || isMyListActive) {
           sliderContainer.style.display = 'none';
           return;
       }
@@ -455,6 +457,11 @@
 
   function applyFilters() {
       let filtered = allAnimes;
+      
+      if (isMyListActive) {
+          filtered = filtered.filter(a => a.isMyList === true);
+      }
+
       if (searchTerm) {
           const lowerTerm = searchTerm.toLowerCase();
           filtered = filtered.filter(a => {
@@ -464,10 +471,12 @@
               return romajiMatch || enMatch || synMatch;
           });
       }
+      
       if (selectedGenres.length > 0) {
           filtered = filtered.filter(a => selectedGenres.every(g => a.genres.includes(g)));
       }
-      if(searchTerm || selectedGenres.length > 0) {
+      
+      if(searchTerm || selectedGenres.length > 0 || isMyListActive) {
           document.getElementById('heroSliderContainer').style.display = 'none';
       } else {
           document.getElementById('heroSliderContainer').style.display = 'block';
@@ -483,21 +492,39 @@
   function setupFilters(animes) {
     const genres = new Set();
     animes.forEach(a => a.genres.forEach(g => genres.add(g)));
-    genrePillsContainer.innerHTML = `<button class="pill-btn ${selectedGenres.length === 0 ? 'active' : ''}" data-genre="All">${i18n[currentLang].all}</button>`;
+    
+    genrePillsContainer.innerHTML = `
+      <button class="pill-btn ${selectedGenres.length === 0 && !isMyListActive ? 'active' : ''}" data-genre="All">${i18n[currentLang].all}</button>
+      <button class="pill-btn ${isMyListActive ? 'active' : ''}" data-genre="MyList" style="border-color:#f1c40f;">✨ ${i18n[currentLang].myList}</button>
+    `;
+
     Array.from(genres).sort().forEach(genre => {
       const isActive = selectedGenres.includes(genre) ? 'active' : '';
       genrePillsContainer.innerHTML += `<button class="pill-btn ${isActive}" data-genre="${genre}">${translateGenre(genre)}</button>`;
     });
+
     document.querySelectorAll('.pill-btn').forEach(btn => {
       btn.addEventListener('click', (e) => {
         const clickedGenre = e.target.getAttribute('data-genre');
         const allBtn = document.querySelector('.pill-btn[data-genre="All"]');
+        const myListBtn = document.querySelector('.pill-btn[data-genre="MyList"]');
+
         if (clickedGenre === "All") {
             selectedGenres = [];
+            isMyListActive = false;
             document.querySelectorAll('.pill-btn').forEach(b => b.classList.remove('active'));
             e.target.classList.add('active');
+        } else if (clickedGenre === "MyList") {
+            selectedGenres = []; 
+            isMyListActive = !isMyListActive; 
+            document.querySelectorAll('.pill-btn').forEach(b => b.classList.remove('active'));
+            if(isMyListActive) e.target.classList.add('active');
+            else allBtn.classList.add('active');
         } else {
             allBtn.classList.remove('active');
+            myListBtn.classList.remove('active');
+            isMyListActive = false;
+            
             if (selectedGenres.includes(clickedGenre)) {
                 selectedGenres = selectedGenres.filter(g => g !== clickedGenre);
                 e.target.classList.remove('active');
@@ -582,18 +609,29 @@
     let descHtml = anime.description || "";
     document.getElementById('modalSummary').innerHTML = descHtml || `<span style="color:#777;">${t.unknown}</span>`;
     
-    const tempDiv = document.createElement("div");
-    tempDiv.innerHTML = descHtml;
-    const plainText = tempDiv.textContent || tempDiv.innerText || "";
-    
     const translateBtn = document.getElementById('modalTranslateBtn');
+    
     if (anime.description) {
         translateBtn.style.display = 'inline-flex';
-        const targetLang = currentLang === 'tr' ? 'tr' : 'en';
-        translateBtn.href = `https://translate.google.com/?sl=auto&tl=${targetLang}&text=${encodeURIComponent(plainText)}&op=translate`;
+        let isTranslated = false;
+        document.getElementById('ui-btn-translate').textContent = t.translateBtn;
+        
+        translateBtn.onclick = (e) => {
+            e.preventDefault();
+            isTranslated = !isTranslated;
+            
+            if (isTranslated && anime.descriptionTr) {
+                document.getElementById('modalSummary').innerHTML = anime.descriptionTr;
+                document.getElementById('ui-btn-translate').textContent = t.originalBtn;
+            } else {
+                document.getElementById('modalSummary').innerHTML = descHtml;
+                document.getElementById('ui-btn-translate').textContent = t.translateBtn;
+            }
+        };
     } else {
         translateBtn.style.display = 'none';
     }
+
     document.getElementById('modalLink').href = `https://anilist.co/anime/${anime.id}`;
     document.querySelector('.modal-body').scrollTop = 0;
     modal.style.display = 'block';
