@@ -527,8 +527,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1778853600,
-            "episode": 6
+            "airingAt": 1779458400,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -952,8 +952,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1778851800,
-            "episode": 7
+            "airingAt": 1779456600,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -2077,7 +2077,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 55,
+          "averageScore": 56,
           "studios": {
             "nodes": [
               {
@@ -2102,6 +2102,99 @@
             {
               "site": "Bilibili TV",
               "url": "https://www.bilibili.tv/en/media/2341767"
+            }
+          ]
+        },
+        {
+          "id": 194393,
+          "title": {
+            "romaji": "Aishiteru Game wo Owarasetai",
+            "english": "I Want to End this Love Game",
+            "native": "愛してるゲームを終わらせたい"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 14
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194393-0H9yYABu6y0i.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194393-FmUDMgF0apUJ.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1779199200,
+            "episode": 6
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tsundere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Video Games",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 72,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Felix Film"
+              }
+            ]
+          },
+          "description": "<p>Childhood friends Yukiya and Miku share everything…except their feelings. Ever since sixth grade, they’ve played a “love game”: they take turns saying “I love you” and whoever gets flustered first loses. Now in high school, their hearts are closer than ever—but will they finally find the courage to confess?<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://www.aishiteru-game.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/aishiterugame"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371779"
             }
           ]
         },
@@ -2243,99 +2336,6 @@
           ]
         },
         {
-          "id": 194393,
-          "title": {
-            "romaji": "Aishiteru Game wo Owarasetai",
-            "english": "I Want to End this Love Game",
-            "native": "愛してるゲームを終わらせたい"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 14
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194393-0H9yYABu6y0i.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194393-FmUDMgF0apUJ.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1779199200,
-            "episode": 6
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tsundere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Video Games",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 71,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Felix Film"
-              }
-            ]
-          },
-          "description": "<p>Childhood friends Yukiya and Miku share everything…except their feelings. Ever since sixth grade, they’ve played a “love game”: they take turns saying “I love you” and whoever gets flustered first loses. Now in high school, their hearts are closer than ever—but will they finally find the courage to confess?<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://www.aishiteru-game.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/aishiterugame"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371779"
-            }
-          ]
-        },
-        {
           "id": 190704,
           "title": {
             "romaji": "Kanan-sama wa Akumade Choroi",
@@ -2469,7 +2469,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 68,
+          "averageScore": 67,
           "studios": {
             "nodes": [
               {
@@ -2873,7 +2873,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 68,
+          "averageScore": 67,
           "studios": {
             "nodes": [
               {
@@ -3306,7 +3306,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 77,
+          "averageScore": 76,
           "studios": {
             "nodes": [
               {
@@ -4038,6 +4038,104 @@
           ]
         },
         {
+          "id": 192808,
+          "title": {
+            "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+            "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+            "native": "自称悪役令嬢な婚約者の観察記録。"
+          },
+          "synonyms": [
+            "Observation Records of My Fiancée: The Misadventures of a Self-Proclaimed Villainess",
+            "บันทึกสังเกตการณ์คู่หมั้นผู้ประกาศตัวเป็นนางร้าย"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 3
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192808-tfrX4Gn2Y1Ye.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192808-iaS1GnOo5l3G.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1779454800,
+            "episode": 8
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Villainess",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Royal Affairs",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ojou-sama",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shoujo",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Bullying",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Kemonomimi",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 72,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Ashi Productions"
+              }
+            ]
+          },
+          "description": "<p>Bertia is reincarnated into her favorite otome game—not as the heroine, but as the villainess engaged to the perfect Crown Prince Cecil! Fully aware that her role is to sabotage his future romance, she’s determined to bloom as a wicked flower and wither away according to the story. But no matter how hard she tries to scheme, her “evil” plans only make her more endearing!<br><br />\n<br><br />\n(Source: Crunchyroll)<br />\n<br><br><br />\n<i>Note: Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. was streamed 3 days in advance of the TV broadcast on Prime Video, and Crunchyroll beginning April 3, 2026. Regular broadcasting began on April 6, 2026.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/jisho_akuyakuPR"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://jisho-akuyaku-anime.jp/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371887/an-observation-log-of-my-fiance-who-calls-herself-a-villainess"
+            }
+          ]
+        },
+        {
           "id": 179813,
           "title": {
             "romaji": "Niwatori Fighter",
@@ -4203,104 +4301,6 @@
             {
               "site": "Bilibili TV",
               "url": "https://www.bilibili.tv/en/media/2289611"
-            }
-          ]
-        },
-        {
-          "id": 192808,
-          "title": {
-            "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
-            "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
-            "native": "自称悪役令嬢な婚約者の観察記録。"
-          },
-          "synonyms": [
-            "Observation Records of My Fiancée: The Misadventures of a Self-Proclaimed Villainess",
-            "บันทึกสังเกตการณ์คู่หมั้นผู้ประกาศตัวเป็นนางร้าย"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 3
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192808-tfrX4Gn2Y1Ye.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192808-iaS1GnOo5l3G.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1778850000,
-            "episode": 7
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Fantasy",
-            "Romance",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Villainess",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ojou-sama",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shoujo",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Bullying",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Kemonomimi",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 71,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Ashi Productions"
-              }
-            ]
-          },
-          "description": "<p>Bertia is reincarnated into her favorite otome game—not as the heroine, but as the villainess engaged to the perfect Crown Prince Cecil! Fully aware that her role is to sabotage his future romance, she’s determined to bloom as a wicked flower and wither away according to the story. But no matter how hard she tries to scheme, her “evil” plans only make her more endearing!<br><br />\n<br><br />\n(Source: Crunchyroll)<br />\n<br><br><br />\n<i>Note: Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. was streamed 3 days in advance of the TV broadcast on Prime Video, and Crunchyroll beginning April 3, 2026. Regular broadcasting began on April 6, 2026.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/jisho_akuyakuPR"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://jisho-akuyaku-anime.jp/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371887/an-observation-log-of-my-fiance-who-calls-herself-a-villainess"
             }
           ]
         },
@@ -5706,6 +5706,98 @@
           ]
         },
         {
+          "id": 202523,
+          "title": {
+            "romaji": "Marika-chan no Koukando wa Bukkowareteiru",
+            "english": "Marika's Love Meter Malfunction",
+            "native": "茉莉花ちゃんの好感度はぶっ壊れている"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 6
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202523-NHeyiypiPnGP.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202523-NHeyiypiPnGP.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1779033600,
+            "episode": 6
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Ecchi",
+            "Romance",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yandere",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 49,
+          "studios": {
+            "nodes": [
+              {
+                "name": "studio LEO"
+              }
+            ]
+          },
+          "description": "<p>Confessing to my childhood friend Marika was impossible for someone as unpopular as me. So, I did what any desperate boy would do—I wished upon a shooting star! When I woke up, that dream had come true?! I could see a love meter for people, just like in a love simulation game. Once I realized this was real and not a dream I went straight to see Marika. Her love meter was so low it had broken and practically fallen all the way to hell! If she hated me so much why was she so nice?! Is this how she really felt or...?!<br />\n<br><br><br />\n(Source: Coolmic)<br />\n<br><br><br />\n<i>Note: Episode 1 received an advanced distribution on AnimeFesta on March 13th, 2026. The start date reflects the start of the regular series broadcasting.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/marikowa_off/"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://marikowa.af-original.com"
+            },
+            {
+              "site": "OceanVeil",
+              "url": "https://oceanveil.net/anime_titles/398"
+            },
+            {
+              "site": "OceanVeil",
+              "url": "https://oceanveil.net/anime_titles/399"
+            }
+          ]
+        },
+        {
           "id": 177501,
           "title": {
             "romaji": "Awajima Hyakkei",
@@ -5771,12 +5863,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "LGBTQ+ Themes",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": false
             },
             {
               "name": "Acting",
@@ -5840,94 +5932,6 @@
             {
               "site": "YouTube",
               "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JjWZOD_IeD4sSKU4icerKBZ"
-            }
-          ]
-        },
-        {
-          "id": 202523,
-          "title": {
-            "romaji": "Marika-chan no Koukando wa Bukkowareteiru",
-            "english": "Marika's Love Meter Malfunction",
-            "native": "茉莉花ちゃんの好感度はぶっ壊れている"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 6
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202523-NHeyiypiPnGP.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202523-NHeyiypiPnGP.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1779033600,
-            "episode": 6
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Ecchi",
-            "Romance",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yandere",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 49,
-          "studios": {
-            "nodes": [
-              {
-                "name": "studio LEO"
-              }
-            ]
-          },
-          "description": "<p>Confessing to my childhood friend Marika was impossible for someone as unpopular as me. So, I did what any desperate boy would do—I wished upon a shooting star! When I woke up, that dream had come true?! I could see a love meter for people, just like in a love simulation game. Once I realized this was real and not a dream I went straight to see Marika. Her love meter was so low it had broken and practically fallen all the way to hell! If she hated me so much why was she so nice?! Is this how she really felt or...?!<br />\n<br><br><br />\n(Source: Coolmic)<br />\n<br><br><br />\n<i>Note: Episode 1 received an advanced distribution on AnimeFesta on March 13th, 2026. The start date reflects the start of the regular series broadcasting.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/marikowa_off/"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://marikowa.af-original.com"
-            },
-            {
-              "site": "OceanVeil",
-              "url": "https://oceanveil.net/anime_titles/398"
-            },
-            {
-              "site": "OceanVeil",
-              "url": "https://oceanveil.net/anime_titles/399"
             }
           ]
         },
