@@ -29,8 +29,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/147105-fTjmRrILFixZ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779112800,
-            "episode": 8
+            "airingAt": 1779717600,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -56,16 +56,16 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Memory Manipulation",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
             {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Memory Manipulation",
+              "isMediaSpoiler": true
             },
             {
               "name": "Coming of Age",
@@ -346,7 +346,7 @@
               }
             ]
           },
-          "description": "<p>The fourth season of <i>Re:Zero kara Hajimeru Isekai Seikatsu</i>.<br><br></p>\n<p>To save his stricken allies, Subaru faces a deadly desert to find the Sage at Pleiades Watchtower.<br><br></p>\n<p>(Source: Crunchyroll News)</p>\n<p><br><br><br />\n<i>Note: World Premiere of Episode 1 screened at Lucca Comics &amp; Games 2025 on November 1, 2025, before the Japanese television broadcast.</p>",
+          "description": "<p>The fourth season of <i>Re:Zero kara Hajimeru Isekai Seikatsu</i>.<br><br></p>\n<p>To save his stricken allies, Subaru faces a deadly desert to find the Sage at Pleiades Watchtower.<br><br></p>\n<p>(Source: Crunchyroll News)</p>\n<p><br><br><br />\n<i>Note: Episode 1 pre-screened at Lucca Comics &amp; Games on November 1, 2025, before the Japanese television broadcast.</p>",
           "externalLinks": [
             {
               "site": "Twitter",
@@ -386,7 +386,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Re:Zero kara Hajimeru Isekai Seikatsu'nun dördüncü sezonu.<br><br>Acı çeken müttefiklerini kurtarmak isteyen Subaru, Ülker Gözetleme Kulesi'ndeki Bilge'yi bulmak için ölümcül bir çölle karşı karşıya kalır.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: 1. Bölümün Dünya Prömiyeri, 1 Kasım 2025'te Lucca Comics & Games 2025'te Japon televizyon yayınından önce gösterildi."
+          "descriptionTr": "Re:Zero kara Hajimeru Isekai Seikatsu'nun dördüncü sezonu.<br><br>Acı çeken müttefiklerini kurtarmak isteyen Subaru, Ülker Gözetleme Kulesi'ndeki Bilge'yi bulmak için ölümcül bir çölle karşı karşıya kalır.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: 1. Bölüm, 1 Kasım 2025'te Lucca Comics & Games'te Japon televizyon yayınından önce ön gösterimi yapılmıştır."
         },
         {
           "id": 195600,
@@ -870,11 +870,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Teen Cast",
+              "name": "Shounen",
               "isMediaSpoiler": false
             },
             {
-              "name": "Shounen",
+              "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
             },
             {
@@ -1835,8 +1835,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197824-rS7XjJQ0CZs2.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779111000,
-            "episode": 7
+            "airingAt": 1779715800,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -2145,101 +2145,6 @@
           "descriptionTr": "Dorohedoro'nun ikinci sezonu. <br><br>Caiman, lanetli görünümünün ardındaki gerçeğe adım adım yaklaşırken ve Şaşı'nın patronunun etrafındaki gizem çözülmeye başladıkça anarşi devam eder. <br><br> <br><br>(Kaynak: Netflix Animesi)"
         },
         {
-          "id": 194393,
-          "title": {
-            "romaji": "Aishiteru Game wo Owarasetai",
-            "english": "I Want to End this Love Game",
-            "native": "愛してるゲームを終わらせたい"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 14
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194393-0H9yYABu6y0i.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194393-FmUDMgF0apUJ.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1779199200,
-            "episode": 6
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tsundere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Video Games",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 72,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Felix Film"
-              }
-            ]
-          },
-          "description": "<p>Childhood friends Yukiya and Miku share everything…except their feelings. Ever since sixth grade, they’ve played a “love game”: they take turns saying “I love you” and whoever gets flustered first loses. Now in high school, their hearts are closer than ever—but will they finally find the courage to confess?<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://www.aishiteru-game.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/aishiterugame"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371779"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Çocukluk arkadaşları Yukiya ve Miku, duyguları dışında her şeyi paylaşırlar. Altıncı sınıftan beri bir “aşk oyunu” oynuyorlar: Sırayla “Seni seviyorum” diyorlar ve kim ilk önce telaşlanırsa o kaybediyor. Artık lisedeyken kalpleri her zamankinden daha yakın ama sonunda itiraf edecek cesareti bulabilecekler mi?<br><br>(Kaynak: Crunchyroll)"
-        },
-        {
           "id": 206914,
           "title": {
             "romaji": "Nippon Sangoku",
@@ -2377,6 +2282,101 @@
           ],
           "isMyList": false,
           "descriptionTr": "Nükleer savaş, doğal afet ve kötü yönetimin yol açtığı bir devrim, Japon toplumunun çöküşüne yol açar. Ülke hegemonya için yarışan üç ülkeye bölünür ve Sangoku dönemi başlar. Eski bir tarım memuru olan Aoteru Misumi, Japonya'yı yeniden birleştirme sözü verdi. Sadece ilmi ve belagati ile rütbelerde yükselir. Daha sonra dahi bir stratejist olarak selamlanan adamın efsanesine tanık olun.<br><br>(Kaynak: Amazon Prime Videosu)"
+        },
+        {
+          "id": 194393,
+          "title": {
+            "romaji": "Aishiteru Game wo Owarasetai",
+            "english": "I Want to End this Love Game",
+            "native": "愛してるゲームを終わらせたい"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 14
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194393-0H9yYABu6y0i.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194393-FmUDMgF0apUJ.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1779199200,
+            "episode": 6
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tsundere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Video Games",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 72,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Felix Film"
+              }
+            ]
+          },
+          "description": "<p>Childhood friends Yukiya and Miku share everything…except their feelings. Ever since sixth grade, they’ve played a “love game”: they take turns saying “I love you” and whoever gets flustered first loses. Now in high school, their hearts are closer than ever—but will they finally find the courage to confess?<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://www.aishiteru-game.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/aishiterugame"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371779"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Çocukluk arkadaşları Yukiya ve Miku, duyguları dışında her şeyi paylaşırlar. Altıncı sınıftan beri bir “aşk oyunu” oynuyorlar: Sırayla “Seni seviyorum” diyorlar ve kim ilk önce telaşlanırsa o kaybediyor. Artık lisedeyken kalpleri her zamankinden daha yakın ama sonunda itiraf edecek cesareti bulabilecekler mi?<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 190704,
@@ -2702,120 +2702,6 @@
           "descriptionTr": "Baharın Temsilcisi Hinagiku Kayo kaçırıldığında baharın kendisi ortadan kaybolur ve dünyayı bitmek bilmeyen bir kışa sürükler. Vazgeçmeyi reddeden sadık muhafızı Sakura Himedaka, onu yıllarca arar. Hinagiku aniden geri döndüğünde ikili, kaybedilen sezonu geri getirmek, onları parçalayan geçmişle yüzleşmek ve kaybetmeyi reddettikleri sıcaklığı yeniden geri kazanmak için yola çıkar.<br><br>(Kaynak: Crunchyroll)"
         },
         {
-          "id": 197754,
-          "title": {
-            "romaji": "LIAR GAME",
-            "english": "LIAR GAME",
-            "native": "LIAR GAME"
-          },
-          "synonyms": [
-            " ライアーゲーム",
-            "Игра лжецов"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 7
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1779116400,
-            "episode": 7
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Psychological"
-          ],
-          "tags": [
-            {
-              "name": "Gambling",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Death Game",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Transgender",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Bullying",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Conspiracy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cult",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 60,
-          "studios": {
-            "nodes": [
-              {
-                "name": "MADHOUSE"
-              }
-            ]
-          },
-          "description": "<p>Wishing she would live up to the ideal, Kanzaki Nao's father named her thusly for “honesty”. Nao has more than lived up to her father's wishes--even exceeding them and earning the label of &quot;a foolishly honest girl&quot;. This makes Nao the least qualified candidate for the high stakes 'Liar Game', where winning requires deceiving the opponent out of their money and losing means receiving massive debt. However, that doesn't stop a box containing a hundred million yen in cash and a card informing her of her participation in the game from arriving at her doorstep, nor does it stop her from being promptly tricked out of the entire sum of money. Upon hearing that a genius swindler, responsible for the bankruptcy of a major corporation, is being released from jail, Nao goes to the swindler, Shinichi Akiyama, to enlist his help. With that, the two are drawn into the dark, greed-filled, and deceptive world of the Liar Game.</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://www.liargame-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/liargame_anime/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371851/liar-game"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://www.liargame-anime.com/en/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/liargame_en"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "İdealine uygun yaşamasını dileyen Kanzaki Nao'nun babası, ona \"dürüstlük\" adını verdi. Nao, babasının isteklerini fazlasıyla yerine getirmiş, hatta onları aşmış ve \"aptalca dürüst bir kız\" etiketini kazanmıştır. Bu, Nao'yu, kazanmanın rakibin parasını almak için kandırmayı gerektirdiği ve kaybetmenin ise büyük miktarda borç almak anlamına geldiği yüksek riskli 'Yalancı Oyunu' için en az nitelikli aday haline getiriyor. Ancak bu, içinde yüz milyon yen nakit bulunan bir kutunun ve oyuna katıldığını bildiren bir kartın kapısının önüne gelmesini engellemediği gibi, kandırılarak tüm paranın anında alınmasını da engellemez. Büyük bir şirketin iflasından sorumlu olan dahi bir dolandırıcının hapisten çıktığını duyan Nao, yardım almak için dolandırıcı Shinichi Akiyama'ya gider. Bununla birlikte ikili, Yalancı Oyununun karanlık, açgözlülük dolu ve aldatıcı dünyasına çekilir."
-        },
-        {
           "id": 202102,
           "title": {
             "romaji": "NEEDY GIRL OVERDOSE",
@@ -2934,7 +2820,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 67,
+          "averageScore": 68,
           "studios": {
             "nodes": [
               {
@@ -3124,6 +3010,120 @@
           ],
           "isMyList": false,
           "descriptionTr": "\"Yalnızca sesiniz ve vücudunuzla sanatta ustalaşın.\"<br><br>Çocukluğundan beri babası Shinta Arakawa'nın büyülü performanslarının büyüsüne kapılan Akane Ousaki, shin'uchi'ye (usta rütbesi) yükselmek için gösterdiği kararlı performans sırasında şok edici bir olaya tanık olur.<br><br>Altı yıl sonra artık bir lise öğrencisi olarak gözünü bir shin'uchi olmaya dikiyor ve rakugo'nun son derece rekabetçi dünyasında ilerlemeye başlıyor.<br><br>Tutkulu ve özgün bir rakugo draması şimdi başlıyor!<br><br>(Kaynak: TV Asahi, düzenlendi)"
+        },
+        {
+          "id": 197754,
+          "title": {
+            "romaji": "LIAR GAME",
+            "english": "LIAR GAME",
+            "native": "LIAR GAME"
+          },
+          "synonyms": [
+            " ライアーゲーム",
+            "Игра лжецов"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 7
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1779721200,
+            "episode": 8
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama",
+            "Psychological"
+          ],
+          "tags": [
+            {
+              "name": "Gambling",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Death Game",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Transgender",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Bullying",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Conspiracy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cult",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 60,
+          "studios": {
+            "nodes": [
+              {
+                "name": "MADHOUSE"
+              }
+            ]
+          },
+          "description": "<p>Wishing she would live up to the ideal, Kanzaki Nao's father named her thusly for “honesty”. Nao has more than lived up to her father's wishes--even exceeding them and earning the label of &quot;a foolishly honest girl&quot;. This makes Nao the least qualified candidate for the high stakes 'Liar Game', where winning requires deceiving the opponent out of their money and losing means receiving massive debt. However, that doesn't stop a box containing a hundred million yen in cash and a card informing her of her participation in the game from arriving at her doorstep, nor does it stop her from being promptly tricked out of the entire sum of money. Upon hearing that a genius swindler, responsible for the bankruptcy of a major corporation, is being released from jail, Nao goes to the swindler, Shinichi Akiyama, to enlist his help. With that, the two are drawn into the dark, greed-filled, and deceptive world of the Liar Game.</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://www.liargame-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/liargame_anime/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371851/liar-game"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://www.liargame-anime.com/en/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/liargame_en"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "İdealine uygun yaşamasını dileyen Kanzaki Nao'nun babası, ona \"dürüstlük\" adını verdi. Nao, babasının isteklerini fazlasıyla yerine getirmiş, hatta onları aşmış ve \"aptalca dürüst bir kız\" etiketini kazanmıştır. Bu, Nao'yu, kazanmanın rakibin parasını almak için kandırmayı gerektirdiği ve kaybetmenin ise büyük miktarda borç almak anlamına geldiği yüksek riskli 'Yalancı Oyunu' için en az nitelikli aday haline getiriyor. Ancak bu, içinde yüz milyon yen nakit bulunan bir kutunun ve oyuna katıldığını bildiren bir kartın kapısının önüne gelmesini engellemediği gibi, kandırılarak tüm paranın anında alınmasını da engellemez. Büyük bir şirketin iflasından sorumlu olan dahi bir dolandırıcının hapisten çıktığını duyan Nao, yardım almak için dolandırıcı Shinichi Akiyama'ya gider. Bununla birlikte ikili, Yalancı Oyununun karanlık, açgözlülük dolu ve aldatıcı dünyasına çekilir."
         },
         {
           "id": 184492,
@@ -3907,8 +3907,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189987-0UGf5F7zWNvv.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779114240,
-            "episode": 7
+            "airingAt": 1779719040,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -6028,7 +6028,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 68,
+          "averageScore": 67,
           "studios": {
             "nodes": [
               {
