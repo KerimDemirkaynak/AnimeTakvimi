@@ -2205,15 +2205,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Revenge",
               "isMediaSpoiler": false
             },
             {
               "name": "Post-Apocalyptic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
@@ -2225,15 +2225,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Gore",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Tragedy",
               "isMediaSpoiler": false
             },
             {
               "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gore",
               "isMediaSpoiler": false
             },
             {
@@ -2278,6 +2278,10 @@
             {
               "site": "TikTok",
               "url": "https://www.tiktok.com/@sangoku_pr"
+            },
+            {
+              "site": "Prime Video",
+              "url": "https://www.primevideo.com/detail/0LW570H4NYAE6XSCD8I7KZMVNH"
             }
           ],
           "isMyList": false,
