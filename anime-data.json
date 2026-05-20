@@ -212,8 +212,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189046-MDk2CaVuRWpb.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779282000,
-            "episode": 7
+            "airingAt": 1779886800,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -246,12 +246,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Dissociative Identities",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Time Manipulation",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Dissociative Identities",
+              "isMediaSpoiler": true
             },
             {
               "name": "Female Protagonist",
@@ -672,8 +672,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180745-Iicz1F6Kuj4e.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779280200,
-            "episode": 11
+            "airingAt": 1779885000,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -1051,6 +1051,113 @@
           "descriptionTr": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken'in ikinci sezonu.<br><br>Şimdi bir çift olan Amane ve Mahiru, bu tatlı aşk hikayesinde okul hayatına yön veriyor ve geçmişlerinin üstesinden geliyor.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Crunchyroll, İngilizce başlığı \"The Angel Next Door Spoils Me Rotten2\" adı altında etiketledi, dolayısıyla başlığın ad ile 2 arasında boşluk olmaması hatalı görünse de, serinin resmi olarak etiketlendiği şey budur."
         },
         {
+          "id": 169580,
+          "title": {
+            "romaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+            "english": "I Made Friends with the Second Prettiest Girl in My Class",
+            "native": "クラスで２番目に可愛い女の子と友だちになった"
+          },
+          "synonyms": [
+            "I Became Friends with the Second Cutest Girl in My Class",
+            "Kuranika",
+            "クラにか"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 7
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169580-nXxpmqu6UVux.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1779805800,
+            "episode": 8
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Otaku Culture",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Estranged Family",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Chibi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Hikikomori",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Love Triangle",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 79,
+          "studios": {
+            "nodes": [
+              {
+                "name": "CONNECT"
+              }
+            ]
+          },
+          "description": "<p>Maki Maehara, the class outcast, finally makes his first friend: Umi Asanagi, the second-prettiest girl in class and the center of everyone’s attention. He’s convinced she’s out of his league, but as their unlikely friendship grows, Maki starts to wonder…could there be more than just friendship between them?<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/2ndinclass/"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://kuranika.asmik-ace.co.jp/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371673"
+            }
+          ],
+          "isMyList": true,
+          "descriptionTr": "Sınıfın dışladığı Maki Maehara sonunda ilk arkadaşını edinir: Sınıfın en güzel ikinci kızı ve herkesin ilgi odağı olan Umi Asanagi. Onun kendi liginin dışında olduğuna inanıyor ama beklenmedik arkadaşlıkları büyüdükçe Maki merak etmeye başlıyor: Aralarında arkadaşlıktan daha fazlası olabilir mi?<br><br>(Kaynak: Crunchyroll)"
+        },
+        {
           "id": 199221,
           "title": {
             "romaji": "Dr. STONE: SCIENCE FUTURE Part 3",
@@ -1177,113 +1284,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Dr.STONE'un dördüncü sezonunun üçüncü ve son kürü."
-        },
-        {
-          "id": 169580,
-          "title": {
-            "romaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
-            "english": "I Made Friends with the Second Prettiest Girl in My Class",
-            "native": "クラスで２番目に可愛い女の子と友だちになった"
-          },
-          "synonyms": [
-            "I Became Friends with the Second Cutest Girl in My Class",
-            "Kuranika",
-            "クラにか"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 7
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169580-nXxpmqu6UVux.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1779805800,
-            "episode": 8
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Otaku Culture",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Estranged Family",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Chibi",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Hikikomori",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Love Triangle",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 79,
-          "studios": {
-            "nodes": [
-              {
-                "name": "CONNECT"
-              }
-            ]
-          },
-          "description": "<p>Maki Maehara, the class outcast, finally makes his first friend: Umi Asanagi, the second-prettiest girl in class and the center of everyone’s attention. He’s convinced she’s out of his league, but as their unlikely friendship grows, Maki starts to wonder…could there be more than just friendship between them?<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/2ndinclass/"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kuranika.asmik-ace.co.jp/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371673"
-            }
-          ],
-          "isMyList": true,
-          "descriptionTr": "Sınıfın dışladığı Maki Maehara sonunda ilk arkadaşını edinir: Sınıfın en güzel ikinci kızı ve herkesin ilgi odağı olan Umi Asanagi. Onun kendi liginin dışında olduğuna inanıyor ama beklenmedik arkadaşlıkları büyüdükçe Maki merak etmeye başlıyor: Aralarında arkadaşlıktan daha fazlası olabilir mi?<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 199547,
@@ -1472,8 +1472,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199588-I4HoR4YjnpqD.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779288300,
-            "episode": 7
+            "airingAt": 1779893100,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -1912,93 +1912,6 @@
           "descriptionTr": "Isekai Nonbiri Nouka'nın ikinci sezonu.<br><br>Not: 8 Şubat 2026'da Bangkok'taki ANIMONIUM'da Japon televizyon galasından önce Bölüm 1'in dünya prömiyeri yapıldı."
         },
         {
-          "id": 194317,
-          "title": {
-            "romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
-            "english": "The Beginning After the End Season 2",
-            "native": "最強の王様、二度目の人生は 何をする? 第2期"
-          },
-          "synonyms": [
-            "TBATE S2",
-            "Начало после конца 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 1
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194317-M7t2ymBDHqyW.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194317-M7t2ymBDHqyW.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1779287400,
-            "episode": 8
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dragons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Elf",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 56,
-          "studios": {
-            "nodes": [
-              {
-                "name": "studio A-CAT"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?</i><br />\n<br><br><br />\nArthur faces one last mission with Jasmine, but the quest unleashes a tragedy no one saw coming.<br />\n<br><br><br />\n(Source: Crunchyoll News)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/saikyo2dome"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://saikyo2dome-tbate.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/G24H1NWKE/the-beginning-after-the-end"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2341767"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru'nun ikinci sezonu mu?<br><br>Arthur, Jasmine'le birlikte son bir görevle karşı karşıyadır ancak bu görev, kimsenin geleceğini tahmin etmediği bir trajediyi ortaya çıkarır.<br><br>(Kaynak: Crunchyoll Haberleri)"
-        },
-        {
           "id": 206914,
           "title": {
             "romaji": "Nippon Sangoku",
@@ -2142,6 +2055,93 @@
           "descriptionTr": "Nükleer savaş, doğal afet ve kötü yönetimin yol açtığı bir devrim, Japon toplumunun çöküşüne yol açar. Ülke hegemonya için yarışan üç ülkeye bölünür ve Sangoku dönemi başlar. Eski bir tarım memuru olan Aoteru Misumi, Japonya'yı yeniden birleştirme sözü verdi. Sadece ilmi ve belagati ile rütbelerde yükselir. Daha sonra dahi bir stratejist olarak selamlanan adamın efsanesine tanık olun.<br><br>(Kaynak: Amazon Prime Videosu)"
         },
         {
+          "id": 194317,
+          "title": {
+            "romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
+            "english": "The Beginning After the End Season 2",
+            "native": "最強の王様、二度目の人生は 何をする? 第2期"
+          },
+          "synonyms": [
+            "TBATE S2",
+            "Начало после конца 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 1
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194317-M7t2ymBDHqyW.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194317-M7t2ymBDHqyW.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1779892200,
+            "episode": 9
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Dragons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Elf",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 56,
+          "studios": {
+            "nodes": [
+              {
+                "name": "studio A-CAT"
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?</i><br />\n<br><br><br />\nArthur faces one last mission with Jasmine, but the quest unleashes a tragedy no one saw coming.<br />\n<br><br><br />\n(Source: Crunchyoll News)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/saikyo2dome"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://saikyo2dome-tbate.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/G24H1NWKE/the-beginning-after-the-end"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2341767"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru'nun ikinci sezonu mu?<br><br>Arthur, Jasmine'le birlikte son bir görevle karşı karşıyadır ancak bu görev, kimsenin geleceğini tahmin etmediği bir trajediyi ortaya çıkarır.<br><br>(Kaynak: Crunchyoll Haberleri)"
+        },
+        {
           "id": 173172,
           "title": {
             "romaji": "Dorohedoro Season 2",
@@ -2163,8 +2163,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173172-tkPQqLzfnxYN.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779285600,
-            "episode": 10
+            "airingAt": 1779890400,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -2548,7 +2548,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor - ancak bir şekilde onunla bir ilişkiye mi giriyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk randevu ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor ama sonunda bir şekilde onunla bir ilişki mi kuruyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk buluşma ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 190143,
@@ -2820,155 +2820,6 @@
           "descriptionTr": "İdealine uygun yaşamasını dileyen Kanzaki Nao'nun babası, ona \"dürüstlük\" adını verdi. Nao, babasının isteklerini fazlasıyla yerine getirmiş, hatta onları aşmış ve \"aptalca dürüst bir kız\" etiketini kazanmıştır. Bu, Nao'yu, kazanmanın rakibin parasını almak için kandırmayı gerektirdiği ve kaybetmenin ise büyük miktarda borç almak anlamına geldiği yüksek riskli 'Yalancı Oyunu' için en az nitelikli aday haline getiriyor. Ancak bu, içinde yüz milyon yen nakit bulunan bir kutunun ve oyuna katıldığını bildiren bir kartın kapısının önüne gelmesini engellemediği gibi, kandırılarak tüm paranın anında alınmasını da engellemez. Büyük bir şirketin iflasından sorumlu olan dahi bir dolandırıcının hapisten çıktığını duyan Nao, yardım almak için dolandırıcı Shinichi Akiyama'ya gider. Bununla birlikte ikili, Yalancı Oyununun karanlık, açgözlülük dolu ve aldatıcı dünyasına çekilir."
         },
         {
-          "id": 196935,
-          "title": {
-            "romaji": "Akane-banashi",
-            "english": "Akane-banashi",
-            "native": "あかね噺"
-          },
-          "synonyms": [
-            "อาคาเนะ พลิกตำนานวงการราคุโกะ",
-            "Сказание об Аканэ"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196935-RnLWBsEvNp8M.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196935-RnLWBsEvNp8M.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196935-tl3sNMXDMfaQ.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1779546600,
-            "episode": 8
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama"
-          ],
-          "tags": [
-            {
-              "name": "Rakugo",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Acting",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Revenge",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Found Family",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Work",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Family Life",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "POV",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Skip",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Gyaru",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 76,
-          "studios": {
-            "nodes": [
-              {
-                "name": "ZEXCS"
-              }
-            ]
-          },
-          "description": "<p><i>&quot;With only your voice and body—master the art.&quot;</i><br><br></p>\n<p>Akane Ousaki, captivated since childhood by the magical performances of her father, Shinta Arakawa, witnesses a shocking incident during his decisive performance for promotion to shin’uchi (master rank).<br><br></p>\n<p>Six years later, now a high school student, she sets her sights on becoming a shin’uchi herself—pushing forward in the highly competitive world of rakugo.<br><br><br />\nA passionate and authentic rakugo drama begins now!<br />\n<br><br><br />\n(Source: TV Asahi, edited)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/akanebanashi_PR"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://akane-banashi.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/akanebanashi_en"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/@akane-banashi_global"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@akanebanashi_en"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/akanebanashi_en"
-            },
-            {
-              "site": "Facebook",
-              "url": "https://facebook.com/akanebanashi.en"
-            },
-            {
-              "site": "Netflix",
-              "url": "https://www.netflix.com/title/82701514"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://youtube.com/playlist?list=PLwfE82x42voBU9yH8QafeHXu8Pqw7UVLx"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://youtube.com/playlist?list=PLwfE82x42voAcBJrkmSQgNunnH9fBbp6b"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://youtube.com/playlist?list=PLwfE82x42voBwoxfyq6sTNytLARQvQHWq"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JiCtTdD2GRMvAmM6RXA2uhH"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "\"Yalnızca sesiniz ve vücudunuzla sanatta ustalaşın.\"<br><br>Çocukluğundan beri babası Shinta Arakawa'nın büyülü performanslarının büyüsüne kapılan Akane Ousaki, shin'uchi'ye (usta rütbesi) yükselmek için gösterdiği kararlı performans sırasında şok edici bir olaya tanık olur.<br><br>Altı yıl sonra artık bir lise öğrencisi olarak gözünü bir shin'uchi olmaya dikiyor ve rakugo'nun son derece rekabetçi dünyasında ilerlemeye başlıyor.<br><br>Tutkulu ve özgün bir rakugo draması şimdi başlıyor!<br><br>(Kaynak: TV Asahi, düzenlendi)"
-        },
-        {
           "id": 202102,
           "title": {
             "romaji": "NEEDY GIRL OVERDOSE",
@@ -3128,6 +2979,155 @@
           ],
           "isMyList": false,
           "descriptionTr": "Sevgiyle \"KAngel\" olarak bilinen OMGkawaiiAngel, 10 milyon abonesiyle en iyi yayıncı kızlardan biri ve onu çalışırken görmeden bir gün geçmiyor. İster internette, ister televizyonda, ister canlı bir şovda olsun, etrafı her zaman tezahürat yapan hayranlarıyla çevrilidir.<br><br>Karamazov adında üç kızdan oluşan bir yayın birimi, KAngel'in popülaritesini yakalamaya çalışıyor.<br><br>Ve bu yayıncıların dünyasından çok uzakta olan Kache, bir temalı kafede çalışırken beleşçi erkek arkadaşıyla birlikte yaşayan bir kızdır.<br><br>Yıldız gibi parlayan bir kız ve o parlaklığa ulaşan kızların ördüğü dünyayı büyüleyen \"İnternet Meleği\" ile ekranın diğer tarafındaki \"sen\"in hikayesi burada başlıyor.<br><br>(Kaynak: Resmi Site)<br><br>Not: Yayınlanmadan önce, yeniden düzenlenen ve kurgulanan ilk 3 bölümün teatral ön gösterimi olan \"NEEDY GIRL OVERDOSE -OVERTURE-\" 6 Mart 2026'da Japonya'da gösterime girdi."
+        },
+        {
+          "id": 196935,
+          "title": {
+            "romaji": "Akane-banashi",
+            "english": "Akane-banashi",
+            "native": "あかね噺"
+          },
+          "synonyms": [
+            "อาคาเนะ พลิกตำนานวงการราคุโกะ",
+            "Сказание об Аканэ"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196935-RnLWBsEvNp8M.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196935-RnLWBsEvNp8M.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196935-tl3sNMXDMfaQ.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1779546600,
+            "episode": 8
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama"
+          ],
+          "tags": [
+            {
+              "name": "Rakugo",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Acting",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Revenge",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Found Family",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Work",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Family Life",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "POV",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Skip",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Gyaru",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 76,
+          "studios": {
+            "nodes": [
+              {
+                "name": "ZEXCS"
+              }
+            ]
+          },
+          "description": "<p><i>&quot;With only your voice and body—master the art.&quot;</i><br><br></p>\n<p>Akane Ousaki, captivated since childhood by the magical performances of her father, Shinta Arakawa, witnesses a shocking incident during his decisive performance for promotion to shin’uchi (master rank).<br><br></p>\n<p>Six years later, now a high school student, she sets her sights on becoming a shin’uchi herself—pushing forward in the highly competitive world of rakugo.<br><br><br />\nA passionate and authentic rakugo drama begins now!<br />\n<br><br><br />\n(Source: TV Asahi, edited)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/akanebanashi_PR"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://akane-banashi.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/akanebanashi_en"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/@akane-banashi_global"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@akanebanashi_en"
+            },
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/akanebanashi_en"
+            },
+            {
+              "site": "Facebook",
+              "url": "https://facebook.com/akanebanashi.en"
+            },
+            {
+              "site": "Netflix",
+              "url": "https://www.netflix.com/title/82701514"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://youtube.com/playlist?list=PLwfE82x42voBU9yH8QafeHXu8Pqw7UVLx"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://youtube.com/playlist?list=PLwfE82x42voAcBJrkmSQgNunnH9fBbp6b"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://youtube.com/playlist?list=PLwfE82x42voBwoxfyq6sTNytLARQvQHWq"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JiCtTdD2GRMvAmM6RXA2uhH"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "\"Yalnızca sesiniz ve vücudunuzla sanatta ustalaşın.\"<br><br>Çocukluğundan beri babası Shinta Arakawa'nın büyülü performanslarının büyüsüne kapılan Akane Ousaki, shin'uchi'ye (usta rütbesi) yükselmek için gösterdiği kararlı performans sırasında şok edici bir olaya tanık olur.<br><br>Altı yıl sonra artık bir lise öğrencisi olarak gözünü bir shin'uchi olmaya dikiyor ve rakugo'nun son derece rekabetçi dünyasında ilerlemeye başlıyor.<br><br>Tutkulu ve özgün bir rakugo draması şimdi başlıyor!<br><br>(Kaynak: TV Asahi, düzenlendi)"
         },
         {
           "id": 184492,
@@ -3754,6 +3754,127 @@
           "descriptionTr": "Juuzou Oogami, ne kadar imkansız olursa olsun hiçbir görevde başarısız olmayan efsanevi bir tetikçidir. Bir gün güçlü bir organizasyonu yok ettikten sonra gizemli bir eşekarısı tarafından sokulur ve yere yığılır. 39 yaşındaki korkunç suikastçı uyandığında 13 yaşında bir çocuğa dönüşmüştür!<br><br>Daha ne olduğunu anlayamadan patronu yeni bir emir verir: \"O bedenin içinde bir ortaokula sızın.\"<br><br>Onu bekleyen ise renkli sınıf arkadaşları, gençlik kaosu ve yaklaşmakta olan tehlikelerle dolu beklenmedik bir okul hayatıdır. Juuzou bir gün orijinal formuna dönebilecek mi? Yoksa ona yaklaşan suikastçılar onun ikinci hayatına daha başlamadan son mu verecek?<br><br>(Kaynak: Resmi Site)"
         },
         {
+          "id": 189987,
+          "title": {
+            "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
+            "english": "The Klutzy Class Monitor and the Girl with the Short Skirt",
+            "native": "ポンコツ風紀委員とスカート丈が不適切なJKの話"
+          },
+          "synonyms": [
+            "The Story Between a Dumb Prefect and a High School Girl with an Inappropriate Skirt Length",
+            "PonSuka",
+            "ポンスカ",
+            "Бесполезный дежурный и школьница со слишком короткой юбкой"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 6
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189987-CkTDPfD7vu2Y.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189987-CkTDPfD7vu2Y.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189987-0UGf5F7zWNvv.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1779719040,
+            "episode": 8
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Slapstick",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tsundere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gyaru",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Iyashikei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Surreal Comedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Hip-hop Music",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 74,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Zero-G"
+              }
+            ]
+          },
+          "description": "<p>Sakuradaimon is the school's prefect. A prefect is a student who is authorized to enforce discipline. As a prefect, he's supposed to be a role model to other students, but unfortunately he's not perfect. Kohinata is one of the people who Sakuradaimon has tried to discipline into wearing appropriate school attire, but she has thusfar been disobedient.<br><br />\n<br><br />\nAnd so this is a story of the two interacting with one another.</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://ponsuka.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/ponsuka_anime"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371923/the-klutzy-class-monitor-and-the-girl-with-the-short-skirt"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2361551"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Sakuradaimon okulun müdürüdür. Vali, disiplini uygulama yetkisine sahip bir öğrencidir. Bir sınıf başkanı olarak diğer öğrencilere rol model olması gerekiyor ama ne yazık ki mükemmel değil. Kohinata, Sakuradaimon'un uygun okul kıyafetleri giymesi konusunda disipline etmeye çalıştığı kişilerden biridir, ancak şu ana kadar itaatsiz olmuştur.<br><br>Ve bu, ikisinin birbirleriyle etkileşime girdiği bir hikaye."
+        },
+        {
           "id": 187869,
           "title": {
             "romaji": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
@@ -3886,127 +4007,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Yeni üniversite hayatı, yeni yurt arkadaşları... ve yepyeni bir içki dünyası! Botan Kamiina, sessiz yurt lideri Ibuki Tonami'yi tek başına içki içerken fark ettikten sonra ilk alkol yudumunu alıyor. Botan, shochu'dan viskiye kadar içki içmenin keyfini arkadaşlarıyla paylaşırken, Ibuki yavaş yavaş bazı zevklerin paylaşıldığında daha iyi olduğunu öğrenir.<br><br>(Kaynak: Crunchyroll)"
-        },
-        {
-          "id": 189987,
-          "title": {
-            "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
-            "english": "The Klutzy Class Monitor and the Girl with the Short Skirt",
-            "native": "ポンコツ風紀委員とスカート丈が不適切なJKの話"
-          },
-          "synonyms": [
-            "The Story Between a Dumb Prefect and a High School Girl with an Inappropriate Skirt Length",
-            "PonSuka",
-            "ポンスカ",
-            "Бесполезный дежурный и школьница со слишком короткой юбкой"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 6
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189987-CkTDPfD7vu2Y.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189987-CkTDPfD7vu2Y.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189987-0UGf5F7zWNvv.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1779719040,
-            "episode": 8
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Slapstick",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tsundere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gyaru",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Surreal Comedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Hip-hop Music",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 73,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Zero-G"
-              }
-            ]
-          },
-          "description": "<p>Sakuradaimon is the school's prefect. A prefect is a student who is authorized to enforce discipline. As a prefect, he's supposed to be a role model to other students, but unfortunately he's not perfect. Kohinata is one of the people who Sakuradaimon has tried to discipline into wearing appropriate school attire, but she has thusfar been disobedient.<br><br />\n<br><br />\nAnd so this is a story of the two interacting with one another.</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://ponsuka.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/ponsuka_anime"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371923/the-klutzy-class-monitor-and-the-girl-with-the-short-skirt"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2361551"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Sakuradaimon okulun müdürüdür. Vali, disiplini uygulama yetkisine sahip bir öğrencidir. Bir sınıf başkanı olarak diğer öğrencilere rol model olması gerekiyor ama ne yazık ki mükemmel değil. Kohinata, Sakuradaimon'un uygun okul kıyafetleri giymesi konusunda disipline etmeye çalıştığı kişilerden biridir, ancak şu ana kadar itaatsiz olmuştur.<br><br>Ve bu, ikisinin birbirleriyle etkileşime girdiği bir hikaye."
         },
         {
           "id": 180228,
@@ -4712,6 +4712,118 @@
           "descriptionTr": "Hepimizin liseden utanç verici anıları ya da derin pişmanlıkları var, değil mi? Sosyal kaygılı üniversite son sınıf öğrencisi Natsuki Haibara da öyle. Hayatının o zamanlarını düşündüğünde, sahip olduğu tek şey mutlu bir ergenlik dönemine dair geçici fantezilerdir. O halde, kendisini açıklanamaz bir şekilde yedi yıl geçmişte, lisedeki ilk yılından bir ay önce bulduğunda yaşadığı şaşkınlığı ve şaşkınlığı bir düşünün! Haibara daha önceki hatalarından kaçınabilecek mi, okulun sosyal piramidinin tepesine ulaşabilecek mi ve sonunda hayallerindeki kıza kavuşabilecek mi? Yoksa okulun en nefret edilen çocuğu olarak üç yıllık yalnızlığı yeniden mi yaşamak zorunda kalacak? Başarılı olmak için bir egzersiz programından çevrimiçi nasıl yapılır kılavuzlarına, bir çocukluk arkadaşına ve bolca saf iradeye kadar alabileceği her türlü yardıma ihtiyacı olacak. Haibara'nın ergenlik yıllarına ikinci bir şans vermesini izleyin!<br><br>(Kaynak: J-Novel Kulübü)<br><br>Not: İlk 4 bölüm 15 Mart 2026 tarihinde ön gösterime girmiştir. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
         },
         {
+          "id": 195268,
+          "title": {
+            "romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2",
+            "english": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
+            "native": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2"
+          },
+          "synonyms": [
+            "LasTame 2",
+            "ラス為 2",
+            "โศกนาฏกรรมของตัวร้ายสุดแกร่งอย่างราชินีลาสบอสจะขอถวายตัวเพื่อปวงชน ซีซั่น 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 7
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195268-HkEv0z9iTCJK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195268-HkEv0z9iTCJK.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195268-dsEz7gM76ykF.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1779800400,
+            "episode": 8
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Villainess",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ojou-sama",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Family Life",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Skip",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 69,
+          "studios": {
+            "nodes": [
+              {
+                "name": "OLM"
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/lastame_pr"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://lastame.com/"
+            },
+            {
+              "site": "HIDIVE",
+              "url": "https://www.hidive.com/season/35231"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1gxoIoRFrIlzxe5FM1yZfe"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/upxd1s2it9"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Higeki no Genkyou'dan Naru Saikyou Gedou'ya Last Boss Joou wa Tami no Tame ni Tsukushimasu'nun ikinci sezonu."
+        },
+        {
           "id": 196974,
           "title": {
             "romaji": "Kuroneko to Majo no Kyoushitsu",
@@ -4858,8 +4970,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1779282000,
-            "episode": 7
+            "airingAt": 1779886800,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -4925,118 +5037,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Kanojo, Okarishimasu'nun Beşinci Sezonu.<br><br>Not: Kanojo, Okarishimasu 5. Sezonu 8 Nisan'da başlayacak olan DMM TV'deki yayından 2 gün önce yayınlanmıştır."
-        },
-        {
-          "id": 195268,
-          "title": {
-            "romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2",
-            "english": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
-            "native": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2"
-          },
-          "synonyms": [
-            "LasTame 2",
-            "ラス為 2",
-            "โศกนาฏกรรมของตัวร้ายสุดแกร่งอย่างราชินีลาสบอสจะขอถวายตัวเพื่อปวงชน ซีซั่น 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 7
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195268-HkEv0z9iTCJK.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195268-HkEv0z9iTCJK.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195268-dsEz7gM76ykF.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1779800400,
-            "episode": 8
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Villainess",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ojou-sama",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Family Life",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Skip",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 69,
-          "studios": {
-            "nodes": [
-              {
-                "name": "OLM"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/lastame_pr"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://lastame.com/"
-            },
-            {
-              "site": "HIDIVE",
-              "url": "https://www.hidive.com/season/35231"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1gxoIoRFrIlzxe5FM1yZfe"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/upxd1s2it9"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Higeki no Genkyou'dan Naru Saikyou Gedou'ya Last Boss Joou wa Tami no Tame ni Tsukushimasu'nun ikinci sezonu."
         },
         {
           "id": 201817,
@@ -5745,8 +5745,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1779282000,
-            "episode": 8
+            "airingAt": 1779886800,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
