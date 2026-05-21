@@ -56,10 +56,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
@@ -69,6 +65,10 @@
             },
             {
               "name": "Coming of Age",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
             {
@@ -1510,11 +1510,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Seinen",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
@@ -1689,7 +1689,7 @@
           },
           "synonyms": [
             "The Barbarian’s Bride",
-            "The Bride of Babaroi",
+            "The Bride of Barbaroi",
             "Himekishi wa Barbaroi no Yome",
             "バルよめ",
             "BaruYome",
@@ -2245,11 +2245,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Nudity",
+              "name": "Time Manipulation",
               "isMediaSpoiler": true
             },
             {
-              "name": "Time Manipulation",
+              "name": "Nudity",
               "isMediaSpoiler": true
             }
           ],
@@ -2894,12 +2894,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Rape",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
             },
             {
               "name": "Mixed Media",
@@ -2936,6 +2936,10 @@
             {
               "name": "Video Games",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Body Image",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 68,
@@ -4029,8 +4033,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180228-WAvqro5AamHj.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779291000,
-            "episode": 9
+            "airingAt": 1779895800,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -4890,10 +4894,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "School",
               "isMediaSpoiler": false
             },
@@ -4911,6 +4911,10 @@
             },
             {
               "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
@@ -5064,8 +5068,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1779289200,
-            "episode": 8
+            "airingAt": 1779894000,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
