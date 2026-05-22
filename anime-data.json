@@ -525,8 +525,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779458400,
-            "episode": 7
+            "airingAt": 1780063200,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -958,8 +958,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1779456600,
-            "episode": 8
+            "airingAt": 1780061400,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -3840,7 +3840,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 73,
+          "averageScore": 74,
           "studios": {
             "nodes": [
               {
@@ -4140,8 +4140,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192808-iaS1GnOo5l3G.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779454800,
-            "episode": 8
+            "airingAt": 1780059600,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -5347,7 +5347,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 58,
+          "averageScore": 57,
           "studios": {
             "nodes": [
               {
@@ -5451,11 +5451,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Stop Motion",
+              "name": "Anthropomorphism",
               "isMediaSpoiler": false
             },
             {
-              "name": "Anthropomorphism",
+              "name": "Stop Motion",
               "isMediaSpoiler": false
             },
             {
@@ -6085,8 +6085,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196144-oWeLz0DOjhYV.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779460200,
-            "episode": 8
+            "airingAt": 1780065000,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
