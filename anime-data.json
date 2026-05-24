@@ -108,10 +108,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Disability",
               "isMediaSpoiler": true
             },
@@ -126,6 +122,10 @@
             {
               "name": "School",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
             },
             {
               "name": "Body Horror",
@@ -406,8 +406,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195600-UxHvDXwzJxlP.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779546600,
-            "episode": 8
+            "airingAt": 1780151400,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -1343,15 +1343,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Bisexual",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Shounen",
+              "name": "Bisexual",
               "isMediaSpoiler": false
             },
             {
@@ -1368,6 +1364,10 @@
             },
             {
               "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
               "isMediaSpoiler": false
             },
             {
@@ -1952,6 +1952,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Military",
               "isMediaSpoiler": false
             },
@@ -1961,10 +1965,6 @@
             },
             {
               "name": "Class Struggle",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
@@ -2372,7 +2372,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Dorohedoro'nun ikinci sezonu. <br><br>The anarchy continues as Caiman inches closer to the truth behind his cursed appearance and the mystery around the Cross-Eyes' boss begins to unravel. <br><br> <br><br>(Kaynak: Netflix Animesi)"
+          "descriptionTr": "Dorohedoro'nun ikinci sezonu. <br><br>Caiman, lanetli görünümünün ardındaki gerçeğe adım adım yaklaşırken ve Şaşı'nın patronunun etrafındaki gizem çözülmeye başladıkça anarşi devam eder. <br><br> <br><br>(Kaynak: Netflix Animesi)"
         },
         {
           "id": 190704,
@@ -2400,8 +2400,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190704-bLXpyNFVZbss.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779552000,
-            "episode": 8
+            "airingAt": 1780156800,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -2568,8 +2568,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190143-0Ffw9Tb9Sjdo.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779548400,
-            "episode": 9
+            "airingAt": 1780153200,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -2820,7 +2820,8 @@
           },
           "synonyms": [
             "อาคาเนะ พลิกตำนานวงการราคุโกะ",
-            "Сказание об Аканэ"
+            "Сказание об Аканэ",
+            "Chuyện Kể Akane"
           ],
           "startDate": {
             "year": 2026,
@@ -2833,8 +2834,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196935-tl3sNMXDMfaQ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779546600,
-            "episode": 8
+            "airingAt": 1780151400,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -2983,8 +2984,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202102-RBgWbaATyuDt.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779550200,
-            "episode": 8
+            "airingAt": 1780155000,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -3031,6 +3032,10 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Urban",
               "isMediaSpoiler": false
             },
@@ -3052,10 +3057,6 @@
             },
             {
               "name": "Work",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
@@ -3421,8 +3422,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1779546600,
-            "episode": 9
+            "airingAt": 1780151400,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -3526,8 +3527,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-c74ASz5mP87W.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779544800,
-            "episode": 7
+            "airingAt": 1780149600,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -4683,6 +4684,10 @@
             {
               "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Basketball",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 64,
@@ -4872,6 +4877,10 @@
             },
             {
               "name": "Love Triangle",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Surreal Comedy",
               "isMediaSpoiler": false
             },
             {
@@ -5175,8 +5184,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779547560,
-            "episode": 8
+            "airingAt": 1780152360,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -5530,8 +5539,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196029-7awWJNlMM0BQ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779553800,
-            "episode": 8
+            "airingAt": 1780158600,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
