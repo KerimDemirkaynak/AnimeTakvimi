@@ -29,8 +29,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/147105-fTjmRrILFixZ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779717600,
-            "episode": 9
+            "airingAt": 1780322400,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -137,6 +137,10 @@
             },
             {
               "name": "Tsundere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
@@ -1109,14 +1113,6 @@
             {
               "name": "Chibi",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Hikikomori",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Love Triangle",
-              "isMediaSpoiler": false
             }
           ],
           "averageScore": 79,
@@ -1823,8 +1819,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197824-rS7XjJQ0CZs2.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779715800,
-            "episode": 8
+            "airingAt": 1780320600,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -3920,8 +3916,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189987-0UGf5F7zWNvv.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779719040,
-            "episode": 8
+            "airingAt": 1780323840,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -3987,7 +3983,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 74,
+          "averageScore": 73,
           "studios": {
             "nodes": [
               {
@@ -4232,6 +4228,108 @@
           "descriptionTr": "Bertia, en sevdiği otome oyununa yeniden hayat veriyor; kahraman olarak değil, mükemmel Veliaht Prens Cecil'le nişanlanan kötü adam olarak! Rolünün onun gelecekteki aşkını sabote etmek olduğunun tamamen bilincinde olan kadın, hikayeye göre kötü bir çiçek gibi açıp solup gitmeye kararlıdır. Ancak ne kadar plan yapmaya çalışırsa çalışsın, \"kötü\" planları onu yalnızca daha da sevimli kılıyor!<br><br>(Kaynak: Crunchyroll)<br><br>Not: Jishou Akuyaku Reijou ve Konyakusha no Kansatsu Kiroku. Prime Video'daki TV yayınından 3 gün önce yayınlandı ve Crunchyroll 3 Nisan 2026'dan itibaren yayınlandı. Düzenli yayın 6 Nisan 2026'da başladı."
         },
         {
+          "id": 182578,
+          "title": {
+            "romaji": "Yozakura-san Chi no Daisakusen 2nd Season",
+            "english": "Mission: Yozakura Family Season 2",
+            "native": "夜桜さんちの大作戦 第2期"
+          },
+          "synonyms": [
+            "Mission: Yozakura Family Season 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 12
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182578-Te8W0EwesgrS.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182578-Te8W0EwesgrS.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182578-p3J3Cs24qe9J.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1780214400,
+            "episode": 8
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Espionage",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Body Horror",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Family Life",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 75,
+          "studios": {
+            "nodes": [
+              {
+                "name": "SILVER LINK."
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Yozakura-san Chi no Daisakusen</i>.</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://mission-yozakura-family.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/OfficialHitsuji"
+            },
+            {
+              "site": "Disney Plus",
+              "url": "https://www.disneyplus.com/browse/entity-ac689bea-f955-4d95-8693-7b87b5a309cb"
+            },
+            {
+              "site": "Hulu",
+              "url": "https://www.hulu.com/series/mission-yozakura-family-ac689bea-f955-4d95-8693-7b87b5a309cb"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Yozakura-san Chi no Daisakusen'in ikinci sezonu."
+        },
+        {
           "id": 179813,
           "title": {
             "romaji": "Niwatori Fighter",
@@ -4401,108 +4499,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Yürüyüşün mahalle horozu Keiji, sıradan bir horozdan çok daha fazlasıdır; o, insanlığın en büyük savunucusudur! Rakipleri on kat uzunluğa sahip olabilir ama hiçbir şey onun yiğit yüreğinden ve korkunç savaş çığlığından daha büyük olamaz: Kokekokko!<br><br>(Kaynak: VIZ Media, düzenlendi)"
-        },
-        {
-          "id": 182578,
-          "title": {
-            "romaji": "Yozakura-san Chi no Daisakusen 2nd Season",
-            "english": "Mission: Yozakura Family Season 2",
-            "native": "夜桜さんちの大作戦 第2期"
-          },
-          "synonyms": [
-            "Mission: Yozakura Family Season 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 12
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182578-Te8W0EwesgrS.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182578-Te8W0EwesgrS.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182578-p3J3Cs24qe9J.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1780214400,
-            "episode": 8
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Espionage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Body Horror",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Family Life",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 75,
-          "studios": {
-            "nodes": [
-              {
-                "name": "SILVER LINK."
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Yozakura-san Chi no Daisakusen</i>.</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://mission-yozakura-family.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/OfficialHitsuji"
-            },
-            {
-              "site": "Disney Plus",
-              "url": "https://www.disneyplus.com/browse/entity-ac689bea-f955-4d95-8693-7b87b5a309cb"
-            },
-            {
-              "site": "Hulu",
-              "url": "https://www.hulu.com/series/mission-yozakura-family-ac689bea-f955-4d95-8693-7b87b5a309cb"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Yozakura-san Chi no Daisakusen'in ikinci sezonu."
         },
         {
           "id": 185211,
@@ -4845,100 +4841,6 @@
           "descriptionTr": "Higeki no Genkyou'dan Naru Saikyou Gedou'ya Last Boss Joou wa Tami no Tame ni Tsukushimasu'nun ikinci sezonu."
         },
         {
-          "id": 199029,
-          "title": {
-            "romaji": "Kanojo, Okarishimasu 5th Season",
-            "english": "Rent-a-Girlfriend Season 5",
-            "native": "彼女、お借りします 第5期"
-          },
-          "synonyms": [
-            "かのかり 5",
-            "KanoKari 5"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199029-8eMkhHlD62Ik.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199029-8eMkhHlD62Ik.png"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1779886800,
-            "episode": 8
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Fake Relationship",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Netorase",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Love Triangle",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Surreal Comedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Psychosexual",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 57,
-          "studios": {
-            "nodes": [
-              {
-                "name": "TMS Entertainment"
-              }
-            ]
-          },
-          "description": "<p>The fifth season of <i>Kanojo, Okarishimasu</i>.<br />\n<br><br><br />\n<i>Note: Kanojo, Okarishimasu 5th Season was streamed 2 days in advance of the TV broadcast on DMM TV beginning April 8, 2026. Regular broadcasting began on April 11, 2026.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/kanokari_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kanokari-official.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/G6QWV3976/rent-a-girlfriend"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Kanojo, Okarishimasu'nun Beşinci Sezonu.<br><br>Not: Kanojo, Okarishimasu 5. Sezonu 8 Nisan'da başlayacak olan DMM TV'deki yayından 2 gün önce yayınlanmıştır."
-        },
-        {
           "id": 196974,
           "title": {
             "romaji": "Kuroneko to Majo no Kyoushitsu",
@@ -5074,6 +4976,100 @@
           ],
           "isMyList": false,
           "descriptionTr": "Spica Başak çırak bir cadıdır ancak herhangi bir sihir kullanamaz. Hayallerindeki akademiye girebilmek için ustası olacak birine ihtiyacı var ama ne parası ne de hiçbir bağlantısı var. Aniden önünde sihir kullanabilen, konuşan gizemli bir kara kedi belirir!! Spica sihir öğrenmek istiyor, kara kedi ise lanetinin kırılmasını istiyor; hedefler aynı yolda. Böylece gizli bir usta-çırak ilişkisi doğdu! Ama laneti bozmanın anahtarı onu öpmek…?! Sakar bir cadı ve kara bir kedinin öğretileri; sihir akademisi fantezisi burada başlıyor!!<br><br>(Kaynak: K Manga)"
+        },
+        {
+          "id": 199029,
+          "title": {
+            "romaji": "Kanojo, Okarishimasu 5th Season",
+            "english": "Rent-a-Girlfriend Season 5",
+            "native": "彼女、お借りします 第5期"
+          },
+          "synonyms": [
+            "かのかり 5",
+            "KanoKari 5"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 8
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199029-8eMkhHlD62Ik.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199029-8eMkhHlD62Ik.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1779886800,
+            "episode": 8
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Fake Relationship",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Netorase",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Love Triangle",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Surreal Comedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Psychosexual",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 57,
+          "studios": {
+            "nodes": [
+              {
+                "name": "TMS Entertainment"
+              }
+            ]
+          },
+          "description": "<p>The fifth season of <i>Kanojo, Okarishimasu</i>.<br />\n<br><br><br />\n<i>Note: Kanojo, Okarishimasu 5th Season was streamed 2 days in advance of the TV broadcast on DMM TV beginning April 8, 2026. Regular broadcasting began on April 11, 2026.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/kanokari_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://kanokari-official.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/G6QWV3976/rent-a-girlfriend"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Kanojo, Okarishimasu'nun Beşinci Sezonu.<br><br>Not: Kanojo, Okarishimasu 5. Sezonu 8 Nisan'da başlayacak olan DMM TV'deki yayından 2 gün önce yayınlanmıştır."
         },
         {
           "id": 201817,
@@ -5903,11 +5899,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Harem",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Female Harem",
               "isMediaSpoiler": false
             },
             {
@@ -5919,11 +5915,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "School",
+              "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Teen Cast",
+              "name": "School",
               "isMediaSpoiler": false
             },
             {
