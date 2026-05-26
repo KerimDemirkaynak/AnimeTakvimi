@@ -100,10 +100,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Rehabilitation",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Politics",
               "isMediaSpoiler": false
             },
@@ -124,6 +120,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Rehabilitation",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Body Horror",
               "isMediaSpoiler": true
             },
@@ -140,16 +140,8 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Twins",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": true
             }
           ],
           "averageScore": 86,
@@ -1139,7 +1131,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Sınıfın dışladığı Maki Maehara sonunda ilk arkadaşını edinir: Sınıfın en güzel ikinci kızı ve herkesin ilgi odağı olan Umi Asanagi. Onun kendi liginin dışında olduğuna inanıyor ama beklenmedik arkadaşlıkları büyüdükçe Maki merak etmeye başlıyor: Aralarında arkadaşlıktan daha fazlası olabilir mi?<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Sınıfın dışladığı Maki Maehara, sonunda ilk arkadaşını edinir: Sınıfın en güzel ikinci kızı ve herkesin ilgi odağı olan Umi Asanagi. Onun kendi liginin dışında olduğuna inanıyor ama beklenmedik arkadaşlıkları büyüdükçe Maki merak etmeye başlıyor: Aralarında arkadaşlıktan daha fazlası olabilir mi?<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 199221,
@@ -1341,10 +1333,6 @@
             {
               "name": "Bisexual",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Boys' Love",
-              "isMediaSpoiler": true
             },
             {
               "name": "Super Power",
@@ -1798,7 +1786,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Batı'nın en azılı şövalyesi Serafina, barbarlar tarafından yakalandığında işkence görmeyi bekliyordu. Bunun yerine evlenme teklifi aldı! Yeminli düşmanıyla evlenmek kesinlikle hayır! Ancak düğünü kaçıran kişinin kültürünü ve çok güzel yüzünü gördükten sonra, kılıcını düğün duvağıyla değiştirmek isteyebilir. Düşmanlardan belki de sevgililere uzanan nihai hikayeye hazır olun.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Batı'nın en azılı şövalyesi Serafina, barbarlar tarafından yakalandığında işkence görmeyi bekliyordu. Bunun yerine evlenme teklifi aldı! Yeminli düşmanıyla evlenmek kesinlikle hayır! Ancak düğününü kaçıran kişinin kültürünü ve çok güzel yüzünü gördükten sonra, kılıcını bir düğün duvağıyla değiştirmek isteyebilir. Düşmanlardan belki de sevgililere uzanan nihai hikayeye hazır olun.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 197824,
@@ -2364,7 +2352,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Dorohedoro'nun ikinci sezonu. <br><br>Caiman lanetli görünümünün ardındaki gerçeğe adım adım yaklaşırken anarşi devam eder ve Şaşı'nın patronunun etrafındaki gizem çözülmeye başlar. <br><br> <br><br>(Kaynak: Netflix Animesi)"
+          "descriptionTr": "Dorohedoro'nun ikinci sezonu. <br><br>Caiman, lanetli görünümünün ardındaki gerçeğe adım adım yaklaşırken ve Şaşı'nın patronunun etrafındaki gizem çözülmeye başladıkça anarşi devam eder. <br><br> <br><br>(Kaynak: Netflix Animesi)"
         },
         {
           "id": 190704,
@@ -2532,7 +2520,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor - ancak bir şekilde onunla bir ilişkiye mi giriyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk randevu ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor ama sonunda bir şekilde onunla bir ilişki mi kuruyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk buluşma ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 190143,
@@ -2711,8 +2699,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779721200,
-            "episode": 8
+            "airingAt": 1780326000,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -3794,11 +3782,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
-              "name": "Cute Girls Doing Cute Things",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
@@ -4629,7 +4617,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu gücendirirseniz, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlı ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacak... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetti.<br><br>(Kaynak: HİDİV)"
+          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu kızdırırsanız, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlı ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacak... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetti.<br><br>(Kaynak: HİDİV)"
         },
         {
           "id": 195333,
@@ -4678,7 +4666,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Basketball",
               "isMediaSpoiler": false
             },
             {
@@ -4686,19 +4682,11 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Hikikomori",
               "isMediaSpoiler": false
             },
             {
               "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Basketball",
               "isMediaSpoiler": false
             }
           ],
@@ -4726,7 +4714,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Hepimizin liseden utanç verici anıları ya da derin pişmanlıkları var, değil mi? Sosyal açıdan kaygılı üniversite son sınıf öğrencisi Natsuki Haibara da öyle. Hayatının o zamanlarını düşündüğünde, sahip olduğu tek şey mutlu bir ergenlik dönemine dair geçici fantezilerdir. O halde, kendisini açıklanamaz bir şekilde yedi yıl geçmişte, lisedeki ilk yılından bir ay önce bulduğunda yaşadığı şaşkınlığı ve şaşkınlığı bir düşünün! Haibara daha önceki hatalarından kaçınabilecek mi, okulun sosyal piramidinin tepesine ulaşabilecek mi ve sonunda hayallerindeki kıza kavuşabilecek mi? Yoksa okulun en nefret edilen çocuğu olarak üç yıllık yalnızlığı yeniden mi yaşamak zorunda kalacak? Başarılı olmak için bir egzersiz programından çevrimiçi nasıl yapılır kılavuzlarına, bir çocukluk arkadaşına ve bolca saf iradeye kadar alabileceği her türlü yardıma ihtiyacı olacak. Haibara'nın ergenlik yıllarına ikinci bir şans vermesini izleyin!<br><br>(Kaynak: J-Novel Kulübü)<br><br>Not: İlk 4 bölüm 15 Mart 2026 tarihinde ön gösterime girmiştir. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
+          "descriptionTr": "Hepimizin liseden utanç verici anıları ya da derin pişmanlıkları var, değil mi? Sosyal kaygılı üniversite son sınıf öğrencisi Natsuki Haibara da öyle. Hayatının o zamanlarını düşündüğünde, sahip olduğu tek şey mutlu bir ergenlik dönemine dair geçici fantezilerdir. O halde, kendisini açıklanamaz bir şekilde yedi yıl geçmişte, lisedeki ilk yılından bir ay önce bulduğunda yaşadığı şaşkınlığı ve şaşkınlığı bir düşünün! Haibara daha önceki hatalarından kaçınabilecek mi, okulun sosyal piramidinin tepesine ulaşabilecek mi ve sonunda hayallerindeki kıza kavuşabilecek mi? Yoksa okulun en nefret edilen çocuğu olarak üç yıllık yalnızlığı yeniden mi yaşamak zorunda kalacak? Başarılı olmak için bir egzersiz programından çevrimiçi nasıl yapılır kılavuzlarına, bir çocukluk arkadaşına ve bolca saf iradeye kadar alabileceği her türlü yardıma ihtiyacı olacak. Haibara'nın ergenlik yıllarına ikinci bir şans vermesini izleyin!<br><br>(Kaynak: J-Novel Kulübü)<br><br>Not: İlk 4 bölüm 15 Mart 2026 tarihinde ön gösterime girmiştir. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
         },
         {
           "id": 195268,
@@ -5178,10 +5166,6 @@
             {
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/GT00371642/always-a-catch"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://youtube.com/playlist?list=PLPanbgyToztZfCF_t30MEwliHPYRdpKwy&si=zO4Q6CCvBH-bUEYy"
             }
           ],
           "isMyList": false,
@@ -5312,7 +5296,7 @@
               "url": "https://www.b-ch.com/titles/9635/"
             }
           ],
-          "isMyList": false,
+          "isMyList": true,
           "descriptionTr": "Geçmişi ve bugünü birbirine bağlayan bir lanet.<br><br>1900'lerin başlarında Japonya'nın Taisho döneminde yaşayan genç bir mistik olan Mao, hayatını değiştiren bir lanete maruz kaldıktan sonra dokuz yüz uzun yıl boyunca yaşamaya devam eden gizemli bir onmyojidir. Gelecekten gelmiş gibi görünen ortaokul öğrencisi Nanoka Kiba ile tanıştığında dünyası daha da tuhaf bir hal alır. Nanoka, hassas yıllarına rağmen, küçük bir çocukken anne ve babasını tüyler ürpertici bir kazada kaybetmesiyle yaşadığı travmatik deneyimin damgasını vurduğu garip bir hayat yaşamıştır. Ancak Nanoka o uğursuz alışveriş merkezine dönmeye karar verdiğinde başka bir zamana ve yere taşınır; doğaüstü ayakaşilerin kendisinden çok önce geliştiği bir dünyaya. Orada Mao ile tanışır ve Mao'nun ani ve tuhaf sorusu Nanoka'nın kendisini ve meraklı hayatını tamamen yeni bir ışıkta görmesine neden olur. Artık farklı dünyalardan gelen iki gezgin, hayatlarını etkileyen karanlık güçlerle mücadele ederken birleşiyor.<br><br>(Kaynak: VIZ Media, Hulu, düzenlendi)"
         },
         {
@@ -5639,7 +5623,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Minato Kusunoki, ailesinin perili, terk edilmiş kırsal mülkünü yönetmekle görevlendirilir. Bununla birlikte, ezici ruhsal gücü sayesinde Minato, kazara tüm mekanı arındırarak, bir zamanlar lanetli olan bu mülkü, başıboş tanrılar ve tanrılar için huzurlu bir sığınağa dönüştürüyor! Minato buraya yerleşirken kendisini ilginç ilahi komşularla ve tanrılar arasındaki yaşamın canlı kaosuyla çevrelenmiş halde bulur.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Minato Kusunoki, ailesinin perili, terk edilmiş kırsal mülkünü yönetmekle görevlendirilir. Bununla birlikte, ezici ruhsal gücü sayesinde Minato, yanlışlıkla tüm yeri arındırarak bir zamanlar lanetli olan mülkü, başıboş tanrılar ve tanrılar için huzurlu bir sığınağa dönüştürüyor! Minato buraya yerleşirken kendisini ilginç ilahi komşularla ve tanrılar arasındaki yaşamın canlı kaosuyla çevrelenmiş halde bulur.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 186744,
@@ -5754,7 +5738,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kendini iyi hissetmediğinde, sınav olduğunda, okula gitmek istemediğinde... Onun yerini ben alıyorum. Ben onun kopyasıyım. Başka bir amacım yok. Ama aşık olduğumda bu değişti. Aşık olduğum çocuk benim olduğumu anlasın diye saçlarımı topluyorum. Okulu atlıyoruz ve yarın ve sonrasında her gün tekrar buluşacağımıza söz veriyoruz. Ben onun kopyasıyım. Benimle ilgili her şey ödünç alınmış ve boş ama kalbim benim.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Kendini iyi hissetmediğinde, sınav olduğunda, okula gitmek istemediğinde... Onun yerini ben alıyorum. Ben onun kopyasıyım. Başka bir amacım yok. Ama aşık olduğumda bu değişti. Aşık olduğum çocuğun ben olduğumu anlaması için saçlarımı topuz yapıyorum. Okulu atlıyoruz ve yarın ve sonrasında her gün tekrar buluşacağımıza söz veriyoruz. Ben onun kopyasıyım. Benimle ilgili her şey ödünç alınmış ve boş ama kalbim benim.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 198939,
@@ -6099,7 +6083,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Awajima Opera Okulu'nda Japonya'nın dört bir yanından kızlar sahnede bir yer kazanmak için çabalıyor. Wakana müzikal tiyatroya olan aşkıyla hareket ederken Kinue sessiz bir disiplinle çalışıyor. Burslu öğrenci Emi herkesin dikkatini çekiyor, ama özellikle de hayranlık ve karşılaştırma konusunda zorluk çeken Keiko'nun. Değişen bakış açıları sayesinde iç içe geçen günleri, hırsı, dostluğu ve kendini keşfetmeyi keşfediyor.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Awajima Opera Okulu'nda Japonya'nın dört bir yanından kızlar sahnede bir yer kazanmak için çabalıyor. Wakana müzikal tiyatroya olan aşkıyla hareket ederken Kinue sessiz bir disiplinle çalışıyor. Burslu öğrenci Emi herkesin dikkatini çeker; ama özellikle de hayranlık ve karşılaştırma konusunda zorluk çeken Keiko'nun. Değişen bakış açıları sayesinde iç içe geçen günleri, hırsı, dostluğu ve kendini keşfetmeyi keşfediyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 196144,
@@ -6214,7 +6198,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "\"Yukio... Bir arkadaş edineceğim.\" Tetsuo adında utangaç bir çocuk. Sahip olduğu tek şey Yukio adında dev bir robottu. Uzaydan gelen galaktik canavarlara karşı mücadelede “kurtarıcı” oldular. Son savaşın ardından Tetsuo, on yıl aradan sonra ilk kez Dünya'ya döner ve şaşırtıcı bir dünyaya tanık olur. Bu, tüm arazinin kar ve buzla kaplandığı, ölümcül bir dünyaya dönüştüğü donmuş bir Dünya (kartopu Dünyası olarak adlandırılır)! İnsan ırkına ne oldu? Peki Tetsuo, Yukio'ya verdiği sözü yerine getirebilecek mi?<br><br>(Kaynak: Shogakukan, çevrildi)"
+          "descriptionTr": "\"Yukio... Bir arkadaş edineceğim.\" Tetsuo adında utangaç bir çocuk. Sahip olduğu tek şey Yukio adında dev bir robottu. Uzaydan gelen galaktik canavarlara karşı mücadelede “kurtarıcı” oldular. Son savaşın ardından Tetsuo, on yıl aradan sonra ilk kez Dünya'ya döner ve şaşırtıcı bir dünyaya tanık olur. Bu, tüm arazinin kar ve buzla kaplandığı, ölümcül bir dünyaya dönüştüğü donmuş bir Dünya (Kartopu Dünyası olarak adlandırılır)! İnsan ırkına ne oldu? Peki Tetsuo, Yukio'ya verdiği sözü yerine getirebilecek mi?<br><br>(Kaynak: Shogakukan, çevrildi)"
         },
         {
           "id": 197868,
@@ -6309,7 +6293,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bir hizmetçi kendini aniden bir yıl boyunca Japonya'da sıkışıp kalmış bulduğunda ne yapmalıdır? Tabii ki yiyin! Taiyaki ve kavun ekmeği gibi tatlılardan takoyaki ve onigiri gibi lezzetli atıştırmalıklara kadar her türlü Japon yemeğini deneyen hizmetçi Suzume Tachibana'yı takip edin! Ancak dikkat edin, Suzume iştahını lezzetli ikramlardan sonra doyururken, sonunda sizinkini bileyebilir!<br><br>(Kaynak: Crunchyroll)<br><br>Not: Maid-san wa Taberu dake, 2. bölümden itibaren dAnimestore, ABEMA ve U-Next'te bir hafta önceden yayınlandı. 1. Bölüm, 1 Nisan 2026'da yayınlandı. Düzenli yayın 5 Nisan 2026'da başladı."
+          "descriptionTr": "Bir hizmetçi kendini aniden bir yıl boyunca Japonya'da sıkışmış bulduğunda ne yapmalıdır? Tabii ki yiyin! Taiyaki ve kavun ekmeği gibi tatlılardan takoyaki ve onigiri gibi lezzetli atıştırmalıklara kadar her türlü Japon yemeğini deneyen hizmetçi Suzume Tachibana'yı takip edin! Ancak dikkat edin, Suzume iştahını lezzetli ikramlardan sonra doyururken, sonunda sizinkini bileyebilir!<br><br>(Kaynak: Crunchyroll)<br><br>Not: Maid-san wa Taberu dake, 2. bölümden itibaren dAnimestore, ABEMA ve U-Next'te bir hafta önceden yayınlandı. 1. Bölüm, 1 Nisan 2026'da yayınlandı. Düzenli yayın 5 Nisan 2026'da başladı."
         }
       ]
     }
