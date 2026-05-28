@@ -274,12 +274,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Anthropomorphism",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
             },
             {
               "name": "Heterosexual",
@@ -656,7 +656,7 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180745-Iicz1F6Kuj4e.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780576200,
+            "airingAt": 1780486200,
             "episode": 13
           },
           "isAdult": false,
@@ -1323,8 +1323,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199221-b3W0FfJd4zMy.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779973200,
-            "episode": 9
+            "airingAt": 1780578000,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -1571,8 +1571,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186497-naXtQFMHJaR1.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779980160,
-            "episode": 9
+            "airingAt": 1780584960,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -1686,8 +1686,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182483-Nzix9ntq3CVj.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779971400,
-            "episode": 8
+            "airingAt": 1780576200,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -1960,15 +1960,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Class Struggle",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Revenge",
               "isMediaSpoiler": false
             },
             {
               "name": "Post-Apocalyptic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Class Struggle",
               "isMediaSpoiler": false
             },
             {
@@ -3528,8 +3528,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179950-j8dYIqYi8KLC.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779982200,
-            "episode": 9
+            "airingAt": 1780587000,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -3700,6 +3700,10 @@
             },
             {
               "name": "Hip-hop Music",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Otaku Culture",
               "isMediaSpoiler": false
             }
           ],
@@ -4292,7 +4296,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 65,
+          "averageScore": 64,
           "studios": {
             "nodes": [
               {
@@ -4883,7 +4887,15 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Prostitution",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
@@ -4892,10 +4904,6 @@
             },
             {
               "name": "Surreal Comedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
