@@ -517,8 +517,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780063200,
-            "episode": 8
+            "airingAt": 1780668000,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -730,10 +730,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Revenge",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Tragedy",
               "isMediaSpoiler": false
             },
@@ -754,6 +750,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Revenge",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Athletics",
               "isMediaSpoiler": false
             },
@@ -768,6 +768,18 @@
             {
               "name": "Female Harem",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Wilderness",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Camping",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Time Skip",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 79,
@@ -950,8 +962,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170019-r07RiVV5d8rT.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780061400,
-            "episode": 9
+            "airingAt": 1780666200,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -1109,6 +1121,10 @@
             {
               "name": "Love Triangle",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Video Games",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 79,
@@ -3546,6 +3562,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Memory Manipulation",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
@@ -3554,15 +3574,35 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Cosplay",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Historical",
               "isMediaSpoiler": false
             },
             {
+              "name": "Gender Bending",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Anti-Hero",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cosplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Artificial Intelligence",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Disability",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Military",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ninja",
               "isMediaSpoiler": false
             },
             {
@@ -3576,6 +3616,22 @@
             {
               "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Twins",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Suicide",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 60,
@@ -3758,8 +3814,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187869-WuaolpHqNqHk.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780066800,
-            "episode": 8
+            "airingAt": 1780671600,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -3785,11 +3841,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Adult Cast",
+              "name": "Iyashikei",
               "isMediaSpoiler": false
             },
             {
-              "name": "Iyashikei",
+              "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
@@ -4015,8 +4071,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192808-iaS1GnOo5l3G.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780059600,
-            "episode": 9
+            "airingAt": 1780664400,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -4051,11 +4107,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Isekai",
+              "name": "Shoujo",
               "isMediaSpoiler": false
             },
             {
-              "name": "Shoujo",
+              "name": "Isekai",
               "isMediaSpoiler": false
             },
             {
@@ -5937,7 +5993,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 68,
+          "averageScore": 67,
           "studios": {
             "nodes": [
               {
@@ -5989,8 +6045,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196144-oWeLz0DOjhYV.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780065000,
-            "episode": 9
+            "airingAt": 1780669800,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
