@@ -238,15 +238,15 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Amnesia",
               "isMediaSpoiler": true
             },
             {
               "name": "Witch",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -656,7 +656,7 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180745-Iicz1F6Kuj4e.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780486200,
+            "airingAt": 1780489800,
             "episode": 13
           },
           "isAdult": false,
@@ -802,7 +802,7 @@
             },
             {
               "site": "YouTube",
-              "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
+              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3d2XXHoyqobEAMz2g0nBc0"
             }
           ],
           "isMyList": false,
@@ -1231,11 +1231,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -1586,6 +1586,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
@@ -1598,20 +1602,16 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "School",
               "isMediaSpoiler": false
             },
             {
-              "name": "School",
+              "name": "Shoujo",
               "isMediaSpoiler": false
             },
             {
               "name": "Love Triangle",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Shoujo",
-              "isMediaSpoiler": false
             },
             {
               "name": "Coming of Age",
@@ -2870,11 +2870,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "VTuber",
+              "name": "Tragedy",
               "isMediaSpoiler": false
             },
             {
-              "name": "Tragedy",
+              "name": "VTuber",
               "isMediaSpoiler": false
             },
             {
@@ -4518,8 +4518,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195333-66Rnkl0TzxtO.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779985680,
-            "episode": 9
+            "airingAt": 1780590480,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -4887,11 +4887,11 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Prostitution",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Prostitution",
               "isMediaSpoiler": false
             },
             {
@@ -5335,8 +5335,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1779987480,
-            "episode": 9
+            "airingAt": 1780592280,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -5850,8 +5850,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177501-oucV5vhyzxjb.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1779986700,
-            "episode": 8
+            "airingAt": 1780591500,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -5885,11 +5885,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Musical Theater",
+              "name": "Episodic",
               "isMediaSpoiler": false
             },
             {
-              "name": "Episodic",
+              "name": "Musical Theater",
               "isMediaSpoiler": false
             },
             {
@@ -5921,16 +5921,16 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Religion",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
               "name": "CGI",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Religion",
-              "isMediaSpoiler": true
             },
             {
               "name": "Male Protagonist",
