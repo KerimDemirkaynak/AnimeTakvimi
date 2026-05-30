@@ -537,18 +537,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Spearplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Archery",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Magic",
               "isMediaSpoiler": false
             },
@@ -566,6 +554,18 @@
             },
             {
               "name": "Skeleton",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Spearplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Archery",
               "isMediaSpoiler": false
             },
             {
@@ -1952,11 +1952,11 @@
           ],
           "tags": [
             {
-              "name": "War",
+              "name": "Politics",
               "isMediaSpoiler": false
             },
             {
-              "name": "Politics",
+              "name": "War",
               "isMediaSpoiler": false
             },
             {
@@ -1964,11 +1964,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Seinen",
+              "name": "Military",
               "isMediaSpoiler": false
             },
             {
-              "name": "Military",
+              "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
@@ -1992,11 +1992,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Satire",
+              "name": "Tragedy",
               "isMediaSpoiler": false
             },
             {
-              "name": "Tragedy",
+              "name": "Satire",
               "isMediaSpoiler": false
             },
             {
@@ -3801,7 +3801,8 @@
             "native": "上伊那ぼたん、酔へる姿は百合の花"
           },
           "synonyms": [
-            "โบตั๋น คามิอินะ งดงามดุจดอกลิลลี่ยามลอยละล่อง"
+            "โบตั๋น คามิอินะ งดงามดุจดอกลิลลี่ยามลอยละล่อง",
+            "Kamiina Botan - Dáng Say Tựa Đoá Bách Hợp"
           ],
           "startDate": {
             "year": 2026,
@@ -3895,6 +3896,10 @@
             {
               "name": "Outdoor Activities",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Unrequited Love",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 77,
@@ -4312,15 +4317,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Demons",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
@@ -4332,7 +4329,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Demons",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Body Horror",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
@@ -4621,6 +4626,10 @@
             },
             {
               "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Restaurant",
               "isMediaSpoiler": false
             }
           ],
