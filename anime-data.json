@@ -1964,11 +1964,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Military",
+              "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
-              "name": "Seinen",
+              "name": "Military",
               "isMediaSpoiler": false
             },
             {
@@ -2012,11 +2012,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Anachronism",
+              "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Ensemble Cast",
+              "name": "Anachronism",
               "isMediaSpoiler": false
             },
             {
@@ -2210,7 +2210,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 56,
+          "averageScore": 57,
           "studios": {
             "nodes": [
               {
@@ -3025,8 +3025,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184492-JsZazzn4Acqf.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780133160,
-            "episode": 9
+            "airingAt": 1780737960,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -3157,8 +3157,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171110-lgtmKokpevUM.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780129800,
-            "episode": 8
+            "airingAt": 1780734600,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -3252,7 +3252,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 76,
+          "averageScore": 77,
           "studios": {
             "nodes": [
               {
@@ -3834,11 +3834,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Cute Girls Doing Cute Things",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
@@ -3902,7 +3902,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 77,
+          "averageScore": 78,
           "studios": {
             "nodes": [
               {
@@ -4449,8 +4449,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185211-2wkjFD6tz7l3.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780144200,
-            "episode": 8
+            "airingAt": 1780749000,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -5926,12 +5926,12 @@
           ],
           "tags": [
             {
-              "name": "Achronological Order",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Primarily Female Cast",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Achronological Order",
+              "isMediaSpoiler": true
             },
             {
               "name": "Ensemble Cast",
@@ -5950,20 +5950,16 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Episodic",
+              "name": "Musical Theater",
               "isMediaSpoiler": false
             },
             {
-              "name": "Musical Theater",
+              "name": "Episodic",
               "isMediaSpoiler": false
             },
             {
               "name": "LGBTQ+ Themes",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": false
             },
             {
               "name": "Acting",
@@ -5975,6 +5971,10 @@
             },
             {
               "name": "Family Life",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
@@ -6145,7 +6145,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "\"Yukio... Bir arkadaş edineceğim.\" Tetsuo adında utangaç bir çocuk. Sahip olduğu tek şey Yukio adında dev bir robottu. Uzaydan gelen galaktik canavarlara karşı mücadelede “kurtarıcı” oldular. Son savaşın ardından Tetsuo, on yıl aradan sonra ilk kez Dünya'ya döner ve şaşırtıcı bir dünyaya tanık olur. Bu, tüm arazinin kar ve buzla kaplandığı, ölümcül bir dünyaya dönüştüğü donmuş bir Dünya (kartopu Dünyası olarak adlandırılır)! İnsan ırkına ne oldu? Peki Tetsuo, Yukio'ya verdiği sözü yerine getirebilecek mi?<br><br>(Kaynak: Shogakukan, çevrildi)"
+          "descriptionTr": "\"Yukio... Bir arkadaş edineceğim.\" Tetsuo adında utangaç bir çocuk. Sahip olduğu tek şey Yukio adında dev bir robottu. Uzaydan gelen galaktik canavarlara karşı mücadelede “kurtarıcı” oldular. Son savaşın ardından Tetsuo, on yıl aradan sonra ilk kez Dünya'ya döner ve şaşırtıcı bir dünyaya tanık olur. Bu, tüm arazinin kar ve buzla kaplandığı, ölümcül bir dünyaya dönüştüğü donmuş bir Dünya (Kartopu Dünyası olarak adlandırılır)! İnsan ırkına ne oldu? Peki Tetsuo, Yukio'ya verdiği sözü yerine getirebilecek mi?<br><br>(Kaynak: Shogakukan, çevrildi)"
         },
         {
           "id": 197868,
