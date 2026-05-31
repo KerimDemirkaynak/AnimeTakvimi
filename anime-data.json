@@ -418,19 +418,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Youkai",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Archery",
               "isMediaSpoiler": false
             },
             {
-              "name": "Rural",
+              "name": "Youkai",
               "isMediaSpoiler": false
             },
             {
               "name": "Twins",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Rural",
               "isMediaSpoiler": false
             },
             {
@@ -818,7 +818,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e'nin dördüncü sezonu.<br><br>Ayanokouji ve sınıf arkadaşları İleri Yetiştirme Lisesi'ndeki ikinci yıllarına başlarken, onları yeni sınavlar ve oldukça benzersiz birinci sınıf öğrencilerinden oluşan yeni bir grupla karşılarlar. Birbirlerini hızlı bir şekilde tanımaları gerekecek, çünkü ilk özel sınav birinci sınıfları ikinci sınıflarla yazılı bir sınavda eşleştiriyor; yalnızca ikinci sınıflar takımlarının kötü performans göstermesi durumunda okuldan atılma tehlikesiyle karşı karşıya kalacak! Daha da kötüsü mü? Görünüşe göre yeni birinci sınıflardan biri de Beyaz Oda'dan. Ayanokouji bu gizli düşmanın kimliğini ortaya çıkarırken sınır dışı edilmekten kurtulabilecek mi?<br><br>(Kaynak: Yedi Deniz)"
+          "descriptionTr": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e'nin dördüncü sezonu.<br><br>Ayanokouji ve sınıf arkadaşları İleri Yetiştirme Lisesi'ndeki ikinci yıllarına başlarken, onları yeni sınavlar ve oldukça benzersiz birinci sınıf öğrencilerinden oluşan yeni bir grupla karşılarlar. Birbirlerini hızlı bir şekilde tanımaları gerekecek, çünkü ilk özel sınav birinci sınıfları ikinci sınıflarla yazılı bir sınavda eşleştiriyor; takımları kötü performans gösterirse yalnızca ikinci sınıflar okuldan atılmayla karşı karşıya kalacak! Daha da kötüsü mü? Görünüşe göre yeni birinci sınıflardan biri de Beyaz Oda'dan. Ayanokouji bu gizli düşmanın kimliğini ortaya çıkarırken sınır dışı edilmekten kurtulabilecek mi?<br><br>(Kaynak: Yedi Deniz)"
         },
         {
           "id": 182300,
@@ -842,8 +842,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182300-d1znfWKzn1bT.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780212600,
-            "episode": 8
+            "airingAt": 1780817400,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -858,11 +858,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Swordplay",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Swordplay",
               "isMediaSpoiler": false
             },
             {
@@ -1020,7 +1020,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 77,
+          "averageScore": 76,
           "studios": {
             "nodes": [
               {
@@ -1327,7 +1327,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yüzyıllar boyunca ölümcül sanatlar, Üstatlar olarak bilinen kişiler tarafından mükemmelleştirildi.<br><br>Bunlar arasında Beş Büyük Ailenin Zehir Ustaları en korkunç güce ve nüfuza sahiptir.<br><br>Zehir Ustaları'nın Gero Ailesi'nin varisi Hikaru Gero, tüm hayatını aşktan veya evlilikten çok uzakta, yeraltı dünyasında geçirmiştir.<br><br>Ancak Gero Ailesi reisi, Hikaru'nun kız kardeşinin soyunu korumak için gerekirse zorla bir varis doğurması gerektiğine karar verince Hikaru, onu ne pahasına olursa olsun korumaya karar verir.<br><br>İşte tam o sırada Hikaru, son işinin hedefi haline gelen parlak bir evlilik dolandırıcısı olan Mei Kinosaki ile karşılaşır.<br><br>Ailenin veraset sorununu çözmenin ve kız kardeşini korumanın tek yolunun evlilik olduğunu anlayan Hikaru, düşünmeden Mei'den bir gelin bulma konusunda yardım ister.<br><br>(Kaynak: EMOTION Etiket Kanalı)"
+          "descriptionTr": "Yüzyıllar boyunca ölümcül sanatlar, Üstatlar olarak bilinen kişiler tarafından mükemmelleştirildi.<br><br>Bunlar arasında Beş Büyük Ailenin Zehir Ustaları en korkunç güce ve nüfuza sahiptir.<br><br>Zehir Ustaları'nın Gero Ailesi'nin varisi Hikaru Gero, tüm hayatını aşktan veya evlilikten çok uzakta, yeraltı dünyasında geçirmiştir.<br><br>Ancak Gero Ailesi reisi, Hikaru'nun kız kardeşinin soyunu korumak için bir varis doğurması gerektiğine karar verince -gerekirse güç kullanarak- Hikaru onu ne pahasına olursa olsun korumaya karar verir.<br><br>İşte tam o sırada Hikaru, son işinin hedefi haline gelen parlak bir evlilik dolandırıcısı olan Mei Kinosaki ile karşılaşır.<br><br>Ailenin veraset sorununu çözmenin ve kız kardeşini korumanın tek yolunun evlilik olduğunu anlayan Hikaru, düşünmeden Mei'den bir gelin bulma konusunda yardım ister.<br><br>(Kaynak: EMOTION Etiket Kanalı)"
         },
         {
           "id": 199221,
@@ -1953,8 +1953,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206914-owssGq2CGhRZ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780228800,
-            "episode": 9
+            "airingAt": 1780833600,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -2418,7 +2418,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor - ancak bir şekilde onunla bir ilişkiye mi giriyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk randevu ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor ama sonunda bir şekilde onunla bir ilişki mi kuruyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk buluşma ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 190143,
@@ -2469,6 +2469,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Shoujo",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Age Gap",
               "isMediaSpoiler": false
             },
@@ -2497,23 +2501,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Shoujo",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Gods",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Politics",
               "isMediaSpoiler": false
             },
             {
@@ -2521,8 +2509,24 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Politics",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Suicide",
+              "isMediaSpoiler": true
             },
             {
               "name": "Crime",
@@ -2530,10 +2534,6 @@
             },
             {
               "name": "Twins",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Suicide",
               "isMediaSpoiler": true
             },
             {
@@ -2954,6 +2954,10 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Psychosexual",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Video Games",
               "isMediaSpoiler": false
             },
@@ -2966,15 +2970,11 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Psychosexual",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Tomboy",
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 68,
+          "averageScore": 67,
           "studios": {
             "nodes": [
               {
@@ -3144,7 +3144,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Mairimashita'nın dördüncü sezonu! Iruma-kun.<br><br>Suzuki Iruma ve Uyumsuzlar Sınıfının on üç öğrencisinin tümü, Müzik Festivalinde 4. Sıraya ulaşmak için performans sergilemek zorundadır.<br><br>(Kaynak: Crunchyroll Haberleri)"
+          "descriptionTr": "Mairimashita'nın dördüncü sezonu! Iruma-kun.<br><br>Suzuki Iruma ve Uyumsuzlar Sınıfının on üç öğrencisinin tamamı, Müzik Festivalinde 4. Sıraya ulaşmak için performans sergilemek zorundadır.<br><br>(Kaynak: Crunchyroll Haberleri)"
         },
         {
           "id": 171110,
@@ -3288,7 +3288,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.<br><br>Bir soyluyla yaşadığı felaketle sonuçlanan karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra sıkı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi, her türlü değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!<br><br>(Kaynak: J-Novel Kulübü)"
+          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.<br><br>Bir soyluyla yaşadığı felaketle sonuçlanan karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra katı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi her türden değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!<br><br>(Kaynak: J-Novel Kulübü)"
         },
         {
           "id": 198113,
@@ -3387,7 +3387,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 74,
+          "averageScore": 73,
           "studios": {
             "nodes": [
               {
@@ -3854,11 +3854,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
-              "name": "Cute Girls Doing Cute Things",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
@@ -4195,8 +4195,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182578-p3J3Cs24qe9J.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780214400,
-            "episode": 8
+            "airingAt": 1780819200,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -4296,10 +4296,7 @@
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179813-cLHpUPV1IiEm.jpg"
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179813-RZI6o4qilPyH.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1780200000,
-            "episode": 12
-          },
+          "nextAiringEpisode": null,
           "isAdult": false,
           "genres": [
             "Action",
@@ -4377,7 +4374,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 64,
+          "averageScore": 65,
           "studios": {
             "nodes": [
               {
@@ -5264,7 +5261,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Geçmişi ve bugünü birbirine bağlayan bir lanet.<br><br>1900'lerin başlarında Japonya'nın Taisho döneminde yaşayan genç bir mistik olan Mao, hayatını değiştiren bir lanete maruz kaldıktan sonra dokuz yüz uzun yıl boyunca yaşamaya devam eden gizemli bir onmyojidir. Gelecekten gelmiş gibi görünen ortaokul öğrencisi Nanoka Kiba ile tanıştığında dünyası daha da tuhaf bir hal alır. Nanoka, hassas yıllarına rağmen, küçük bir çocukken anne ve babasını tüyler ürpertici bir kazada kaybetmesiyle yaşadığı travmatik deneyimin damgasını vurduğu garip bir hayat yaşamıştır. Ancak Nanoka o uğursuz alışveriş merkezine dönmeye karar verdiğinde başka bir zamana ve yere taşınır; doğaüstü ayakaşilerin kendisinden çok önce geliştiği bir dünyaya. Orada Mao ile tanışır ve Mao'nun ani ve tuhaf sorusu Nanoka'nın kendisini ve meraklı hayatını tamamen yeni bir ışıkta görmesine neden olur. Artık farklı dünyalardan gelen iki gezgin, hayatlarını etkileyen karanlık güçlerle mücadele ederken birleşiyor.<br><br>(Kaynak: VIZ Media, Hulu, düzenlendi)"
+          "descriptionTr": "Geçmişi ve bugünü birbirine bağlayan bir lanet.<br><br>1900'lerin başlarında Japonya'nın Taisho döneminde yaşayan genç bir mistik olan Mao, hayatını değiştiren bir lanete maruz kaldıktan sonra dokuz yüz uzun yıl boyunca yaşamaya devam eden gizemli bir onmyojidir. Gelecekten gelmiş gibi görünen ortaokul öğrencisi Nanoka Kiba ile tanıştığında dünyası daha da tuhaf bir hal alır. Nanoka, hassas yıllarına rağmen, küçük bir çocuk olarak anne ve babasını tüyler ürpertici bir kazada kaybetmesiyle yaşadığı travmatik deneyimin damgasını vurduğu garip bir hayat yaşamıştır. Ancak Nanoka o uğursuz alışveriş merkezine dönmeye karar verdiğinde başka bir zamana ve yere taşınır; doğaüstü ayakaşilerin kendisinden çok önce geliştiği bir dünyaya. Orada Mao ile tanışır ve Mao'nun ani ve tuhaf sorusu Nanoka'nın kendisini ve meraklı hayatını tamamen yeni bir ışıkta görmesine neden olur. Artık farklı dünyalardan gelen iki gezgin, hayatlarını etkileyen karanlık güçlerle mücadele ederken birleşiyor.<br><br>(Kaynak: VIZ Media, Hulu, düzenlendi)"
         },
         {
           "id": 206951,
@@ -5491,7 +5488,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Sakuya Otsuki, asistanı Lilithea ile birlikte babasının izinden gitmeye çalışan efsanevi bir dedektifin oğludur. Ancak bu lise hafiyesinde farklı olan bir şeyler vardır. Nereye giderse gitsin, bir cinayet kurbanı olarak her zaman kendini davaların içine sokmayı başarıyor! Sakuya lüks bir yolcu gemisine sızmakla görevlendirilince kendini bir kez daha öldürülmüş halde bulur. Ancak gözlerini her yeniden açtığında Lilithea yanındadır ve gizemin derinliklerine inmesine yardım etmeye hazırdır...<br><br>(Kaynak: Yen Press)"
+          "descriptionTr": "Sakuya Otsuki, asistanı Lilithea ile birlikte babasının izinden gitmeye çalışan efsanevi bir dedektifin oğludur. Ancak bu lise dedektifinde farklı olan bir şeyler vardır. Nereye giderse gitsin, bir cinayet kurbanı olarak her zaman kendini davaların içine sokmayı başarıyor! Sakuya lüks bir yolcu gemisine sızmakla görevlendirilince kendini bir kez daha öldürülmüş halde bulur. Ancak gözlerini her yeniden açtığında Lilithea yanındadır ve gizemin derinliklerine inmesine yardım etmeye hazırdır...<br><br>(Kaynak: Yen Press)"
         },
         {
           "id": 196029,
@@ -5590,7 +5587,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Minato Kusunoki, ailesinin perili, terk edilmiş kırsal mülkünü yönetmekle görevlendirilir. Bununla birlikte, ezici ruhsal gücü sayesinde Minato, yanlışlıkla tüm yeri arındırarak bir zamanlar lanetli olan mülkü, başıboş tanrılar ve tanrılar için huzurlu bir sığınağa dönüştürüyor! Minato buraya yerleşirken kendisini ilginç ilahi komşularla ve tanrılar arasındaki yaşamın canlı kaosuyla çevrelenmiş halde bulur.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Minato Kusunoki, ailesinin perili, terk edilmiş kırsal mülkünü yönetmekle görevlendirilir. Bununla birlikte, ezici ruhsal gücü sayesinde Minato, kazara tüm yeri arındırarak bir zamanlar lanetli olan mülkü, başıboş tanrılar ve tanrılar için huzurlu bir sığınağa dönüştürüyor! Minato buraya yerleşirken kendisini ilginç ilahi komşularla ve tanrılar arasındaki yaşamın canlı kaosuyla çevrelenmiş halde bulur.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 186744,
@@ -6050,7 +6047,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Awajima Opera Okulu'nda Japonya'nın dört bir yanından kızlar sahnede bir yer kazanmak için çabalıyor. Wakana müzikal tiyatroya olan aşkıyla hareket ederken Kinue sessiz bir disiplinle çalışıyor. Burslu öğrenci Emi herkesin dikkatini çekiyor, ama özellikle de hayranlık ve karşılaştırma konusunda zorluk çeken Keiko'nun. Değişen bakış açıları sayesinde iç içe geçen günleri, hırsı, dostluğu ve kendini keşfetmeyi keşfediyor.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Awajima Opera Okulu'nda Japonya'nın dört bir yanından kızlar sahnede bir yer kazanmak için çabalıyor. Wakana müzikal tiyatroya olan aşkıyla hareket ederken Kinue sessiz bir disiplinle çalışıyor. Burslu öğrenci Emi herkesin dikkatini çeker; ama özellikle de hayranlık ve karşılaştırma konusunda zorluk çeken Keiko'nun. Değişen bakış açıları sayesinde iç içe geçen günleri, hırsı, dostluğu ve kendini keşfetmeyi keşfediyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 196144,
@@ -6165,7 +6162,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "\"Yukio... Bir arkadaş edineceğim.\" Tetsuo adında utangaç bir çocuk. Sahip olduğu tek şey Yukio adında dev bir robottu. Uzaydan gelen galaktik canavarlara karşı mücadelede “kurtarıcı” oldular. Son savaşın ardından Tetsuo, on yıl aradan sonra ilk kez Dünya'ya döner ve şaşırtıcı bir dünyaya tanık olur. Bu, tüm arazinin kar ve buzla kaplandığı, ölümcül bir dünyaya dönüştüğü donmuş bir Dünya (kartopu Dünyası olarak adlandırılır)! İnsan ırkına ne oldu? Peki Tetsuo, Yukio'ya verdiği sözü yerine getirebilecek mi?<br><br>(Kaynak: Shogakukan, çevrildi)"
+          "descriptionTr": "\"Yukio... Bir arkadaş edineceğim.\" Tetsuo adında utangaç bir çocuk. Sahip olduğu tek şey Yukio adında dev bir robottu. Uzaydan gelen galaktik canavarlara karşı mücadelede “kurtarıcı” oldular. Son savaşın ardından Tetsuo, on yıl aradan sonra ilk kez Dünya'ya döner ve şaşırtıcı bir dünyaya tanık olur. Bu, tüm arazinin kar ve buzla kaplandığı, ölümcül bir dünyaya dönüştüğü donmuş bir Dünya (Kartopu Dünyası olarak adlandırılır)! İnsan ırkına ne oldu? Peki Tetsuo, Yukio'ya verdiği sözü yerine getirebilecek mi?<br><br>(Kaynak: Shogakukan, çevrildi)"
         },
         {
           "id": 197868,
@@ -6188,8 +6185,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197868-wBmzwZ3Ay4bD.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780232400,
-            "episode": 10
+            "airingAt": 1780837200,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -6260,7 +6257,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bir hizmetçi kendini aniden bir yıl boyunca Japonya'da sıkışıp kalmış bulduğunda ne yapmalıdır? Tabii ki yiyin! Taiyaki ve kavun ekmeği gibi tatlılardan takoyaki ve onigiri gibi lezzetli atıştırmalıklara kadar her türlü Japon yemeğini deneyen hizmetçi Suzume Tachibana'yı takip edin! Ancak dikkat edin, Suzume iştahını lezzetli ikramlardan sonra doyururken, sonunda sizinkini bileyebilir!<br><br>(Kaynak: Crunchyroll)<br><br>Not: Maid-san wa Taberu dake, 2. bölümden itibaren dAnimestore, ABEMA ve U-Next'te bir hafta önceden yayınlandı. 1. Bölüm, 1 Nisan 2026'da yayınlandı. Düzenli yayın 5 Nisan 2026'da başladı."
+          "descriptionTr": "Bir hizmetçi kendini aniden bir yıl boyunca Japonya'da sıkışmış bulduğunda ne yapmalıdır? Tabii ki yiyin! Taiyaki ve kavun ekmeği gibi tatlılardan takoyaki ve onigiri gibi lezzetli atıştırmalıklara kadar her türlü Japon yemeğini deneyen hizmetçi Suzume Tachibana'yı takip edin! Ancak dikkat edin, Suzume iştahını lezzetli ikramlardan sonra doyururken, sonunda sizinkini bileyebilir!<br><br>(Kaynak: Crunchyroll)<br><br>Not: Maid-san wa Taberu dake, 2. bölümden itibaren dAnimestore, ABEMA ve U-Next'te bir hafta önceden yayınlandı. 1. Bölüm, 1 Nisan 2026'da yayınlandı. Düzenli yayın 5 Nisan 2026'da başladı."
         },
         {
           "id": 204319,
@@ -6392,7 +6389,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Ablası Kaori'nin yönlendirmesiyle Souta aniden Hokuei Üniversitesi Kadın Voleybol Kulübü'nün yurt müdürü ve koçu oldu. Orada ilk aşkı Ayano ile önemli bir buluşma yaşadı... Kızlar yurdunda! Spor salonunda! Otelde mi? Onu bekleyen şey, kendisinden daha büyük kızların patronluk taslayacağı günlerdi! Boyut Farklılıklarından Mutlu Bir Harem Rom-Com'u ♡ Kuzey Ovalarında Kocaman Doğdu!!<br><br>(Kaynak: OceanVeil)<br><br>Not: Bölüm 1, 13 Mart 2025'te AnimeFesta'da gelişmiş bir dağıtım aldı. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
+          "descriptionTr": "Souta, ablası Kaori'nin yönlendirmesiyle aniden Hokuei Üniversitesi Kadın Voleybol Kulübü'nün yurt müdürü ve koçu oldu. Orada ilk aşkı Ayano ile önemli bir buluşma yaşadı... Kızlar yurdunda! Spor salonunda! Otelde mi? Onu bekleyen şey, kendisinden daha büyük kızlar tarafından patronluk taslanacağı günlerdi! Boyut Farklılıklarından Mutlu Bir Harem Rom-Com'u ♡ Kuzey Ovalarında Kocaman Doğdu!!<br><br>(Kaynak: OceanVeil)<br><br>Not: Bölüm 1, 13 Mart 2025'te AnimeFesta'da gelişmiş bir dağıtım aldı. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
         }
       ]
     }
