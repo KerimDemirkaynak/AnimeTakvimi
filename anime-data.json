@@ -2906,12 +2906,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Suicide",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Yuri",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Suicide",
+              "isMediaSpoiler": true
             },
             {
               "name": "Urban",
@@ -3311,7 +3311,7 @@
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198113-NRa47idWSlnx.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-c74ASz5mP87W.jpg",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-5hYeMXL2zilW.jpg",
           "nextAiringEpisode": {
             "airingAt": 1780754400,
             "episode": 9
@@ -4310,23 +4310,23 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Revenge",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Parody",
-              "isMediaSpoiler": false
             },
             {
               "name": "Animals",
               "isMediaSpoiler": false
             },
             {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Parody",
               "isMediaSpoiler": false
             },
             {
@@ -4371,6 +4371,10 @@
             },
             {
               "name": "Natural Disaster",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Tragedy",
               "isMediaSpoiler": true
             }
           ],
@@ -4810,8 +4814,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196974-wOXpVEgXm7aR.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780237800,
-            "episode": 8
+            "airingAt": 1780842600,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -5830,8 +5834,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1780243200,
-            "episode": 7
+            "airingAt": 1780848000,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -6278,8 +6282,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1780243500,
-            "episode": 9
+            "airingAt": 1780848300,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -6351,6 +6355,14 @@
             {
               "name": "Bisexual",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Teens' Love",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 57,
