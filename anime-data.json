@@ -29,8 +29,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/147105-fTjmRrILFixZ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780322400,
-            "episode": 10
+            "airingAt": 1780927200,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -52,16 +52,16 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Memory Manipulation",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
               "name": "Drawing",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Memory Manipulation",
-              "isMediaSpoiler": true
             },
             {
               "name": "Coming of Age",
@@ -169,6 +169,14 @@
             {
               "site": "Netflix",
               "url": "https://www.netflix.com/title/82741721"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@tongari_anime"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/@tongari_anime"
             }
           ],
           "isMyList": false,
@@ -818,7 +826,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e'nin dördüncü sezonu.<br><br>Ayanokouji ve sınıf arkadaşları İleri Yetiştirme Lisesi'ndeki ikinci yıllarına başlarken, onları yeni sınavlar ve oldukça benzersiz birinci sınıf öğrencilerinden oluşan yeni bir grupla karşılarlar. Birbirlerini hızlı bir şekilde tanımaları gerekecek, çünkü ilk özel sınav birinci sınıfları ikinci sınıflarla yazılı bir sınavda eşleştiriyor; takımları kötü performans gösterirse yalnızca ikinci sınıflar okuldan atılmayla karşı karşıya kalacak! Daha da kötüsü mü? Görünüşe göre yeni birinci sınıflardan biri de Beyaz Oda'dan. Ayanokouji bu gizli düşmanın kimliğini ortaya çıkarırken sınır dışı edilmekten kurtulabilecek mi?<br><br>(Kaynak: Yedi Deniz)"
+          "descriptionTr": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e'nin dördüncü sezonu.<br><br>Ayanokouji ve sınıf arkadaşları İleri Yetiştirme Lisesi'ndeki ikinci yıllarına başlarken, onları yeni sınavlar ve oldukça benzersiz birinci sınıf öğrencilerinden oluşan yeni bir grupla karşılarlar. Birbirlerini hızlı bir şekilde tanımaları gerekecek, çünkü ilk özel sınav birinci sınıfları ikinci sınıflarla yazılı bir sınavda eşleştiriyor; yalnızca ikinci sınıflar takımlarının kötü performans göstermesi durumunda okuldan atılma tehlikesiyle karşı karşıya kalacak! Daha da kötüsü mü? Görünüşe göre yeni birinci sınıflardan biri de Beyaz Oda'dan. Ayanokouji bu gizli düşmanın kimliğini ortaya çıkarırken sınır dışı edilmekten kurtulabilecek mi?<br><br>(Kaynak: Yedi Deniz)"
         },
         {
           "id": 182300,
@@ -942,10 +950,125 @@
             {
               "site": "Bilibili TV",
               "url": "https://www.bilibili.tv/en/media/2342649"
+            },
+            {
+              "site": "Netflix",
+              "url": "https://www.netflix.com/title/81900358"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/yzy3wofgnt"
             }
           ],
           "isMyList": false,
           "descriptionTr": "Tsue to Tsurugi no Wistoria'nın ikinci sezonu.<br><br>Büyü akademisinde sihir kullanamayan başarısız bir öğrenci olan Will, çocukluk arkadaşı Elfaria'ya verdiği bir sözü yerine getirmek için büyücülerin en üst kademesi olan Magia Vander'a katılmayı hedefliyor. Asa yerine kılıç kullanan yetenekleri akademide yavaş yavaş tanınmaktadır. Lihanna ve yılın diğer başarılı öğrencileriyle birlikte üstlendiği tüm öğrencilerden oluşan uygulamalı zindan eğitimi sırasında gizemli bir büyücü tarafından pusuya düşürülürler. Saldırıdan hep birlikte zar zor kurtulsalar da çıkış sınavıyla karşı karşıya kalırlar. Will kulede kendisini bekleyen kıza ulaşabilecek mi?<br><br>(Kaynak: Resmi Site)"
+        },
+        {
+          "id": 169580,
+          "title": {
+            "romaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+            "english": "I Made Friends with the Second Prettiest Girl in My Class",
+            "native": "クラスで２番目に可愛い女の子と友だちになった"
+          },
+          "synonyms": [
+            "I Became Friends with the Second Cutest Girl in My Class",
+            "Kuranika",
+            "クラにか"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 7
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169580-nXxpmqu6UVux.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169580-RUdWWw0j74HH.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1780410600,
+            "episode": 9
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Otaku Culture",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Estranged Family",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Chibi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Love Triangle",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Video Games",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 79,
+          "studios": {
+            "nodes": [
+              {
+                "name": "CONNECT"
+              }
+            ]
+          },
+          "description": "<p>Maki Maehara, the class outcast, finally makes his first friend: Umi Asanagi, the second-prettiest girl in class and the center of everyone’s attention. He’s convinced she’s out of his league, but as their unlikely friendship grows, Maki starts to wonder…could there be more than just friendship between them?<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/2ndinclass/"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://kuranika.asmik-ace.co.jp/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371673"
+            }
+          ],
+          "isMyList": true,
+          "descriptionTr": "Sınıfın dışladığı Maki Maehara sonunda ilk arkadaşını edinir: Sınıfın en güzel ikinci kızı ve herkesin ilgi odağı olan Umi Asanagi. Onun kendi liginin dışında olduğuna inanıyor ama beklenmedik arkadaşlıkları büyüdükçe Maki merak etmeye başlıyor: Aralarında arkadaşlıktan daha fazlası olabilir mi?<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 170019,
@@ -1057,113 +1180,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken'in ikinci sezonu.<br><br>Şimdi bir çift olan Amane ve Mahiru, bu tatlı aşk hikayesinde okul hayatına yön veriyor ve geçmişlerinin üstesinden geliyor.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Crunchyroll, İngilizce başlığı \"The Angel Next Door Spoils Me Rotten2\" adı altında etiketledi, dolayısıyla başlığın ad ile 2 arasında boşluk olmaması hatalı görünse de, serinin resmi olarak etiketlendiği şey budur."
-        },
-        {
-          "id": 169580,
-          "title": {
-            "romaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
-            "english": "I Made Friends with the Second Prettiest Girl in My Class",
-            "native": "クラスで２番目に可愛い女の子と友だちになった"
-          },
-          "synonyms": [
-            "I Became Friends with the Second Cutest Girl in My Class",
-            "Kuranika",
-            "クラにか"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 7
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169580-nXxpmqu6UVux.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169580-RUdWWw0j74HH.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1780410600,
-            "episode": 9
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Otaku Culture",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Estranged Family",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Chibi",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Love Triangle",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Video Games",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 79,
-          "studios": {
-            "nodes": [
-              {
-                "name": "CONNECT"
-              }
-            ]
-          },
-          "description": "<p>Maki Maehara, the class outcast, finally makes his first friend: Umi Asanagi, the second-prettiest girl in class and the center of everyone’s attention. He’s convinced she’s out of his league, but as their unlikely friendship grows, Maki starts to wonder…could there be more than just friendship between them?<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/2ndinclass/"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kuranika.asmik-ace.co.jp/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371673"
-            }
-          ],
-          "isMyList": true,
-          "descriptionTr": "Sınıfın dışladığı Maki Maehara sonunda ilk arkadaşını edinir: Sınıfın en güzel ikinci kızı ve herkesin ilgi odağı olan Umi Asanagi. Onun kendi liginin dışında olduğuna inanıyor ama beklenmedik arkadaşlıkları büyüdükçe Maki merak etmeye başlıyor: Aralarında arkadaşlıktan daha fazlası olabilir mi?<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 199547,
@@ -1327,7 +1343,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yüzyıllar boyunca ölümcül sanatlar, Üstatlar olarak bilinen kişiler tarafından mükemmelleştirildi.<br><br>Bunlar arasında Beş Büyük Ailenin Zehir Ustaları en korkunç güce ve nüfuza sahiptir.<br><br>Zehir Ustaları'nın Gero Ailesi'nin varisi Hikaru Gero, tüm hayatını aşktan veya evlilikten çok uzakta, yeraltı dünyasında geçirmiştir.<br><br>Ancak Gero Ailesi reisi, Hikaru'nun kız kardeşinin soyunu korumak için bir varis doğurması gerektiğine karar verince -gerekirse güç kullanarak- Hikaru onu ne pahasına olursa olsun korumaya karar verir.<br><br>İşte tam o sırada Hikaru, son işinin hedefi haline gelen parlak bir evlilik dolandırıcısı olan Mei Kinosaki ile karşılaşır.<br><br>Ailenin veraset sorununu çözmenin ve kız kardeşini korumanın tek yolunun evlilik olduğunu anlayan Hikaru, düşünmeden Mei'den bir gelin bulma konusunda yardım ister.<br><br>(Kaynak: EMOTION Etiket Kanalı)"
+          "descriptionTr": "Yüzyıllar boyunca ölümcül sanatlar, Üstatlar olarak bilinen kişiler tarafından mükemmelleştirildi.<br><br>Bunlar arasında Beş Büyük Ailenin Zehir Ustaları en korkunç güce ve nüfuza sahiptir.<br><br>Zehir Ustaları'nın Gero Ailesi'nin varisi Hikaru Gero, tüm hayatını aşktan veya evlilikten çok uzakta, yeraltı dünyasında geçirmiştir.<br><br>Ancak Gero Ailesi reisi, Hikaru'nun kız kardeşinin soyunu korumak için gerekirse zorla bir varis doğurması gerektiğine karar verince Hikaru, onu ne pahasına olursa olsun korumaya karar verir.<br><br>İşte tam o sırada Hikaru, son işinin hedefi haline gelen parlak bir evlilik dolandırıcısı olan Mei Kinosaki ile karşılaşır.<br><br>Ailenin veraset sorununu çözmenin ve kız kardeşini korumanın tek yolunun evlilik olduğunu anlayan Hikaru, düşünmeden Mei'den bir gelin bulma konusunda yardım ister.<br><br>(Kaynak: EMOTION Etiket Kanalı)"
         },
         {
           "id": 199221,
@@ -1542,7 +1558,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 75,
+          "averageScore": 76,
           "studios": {
             "nodes": [
               {
@@ -1825,109 +1841,6 @@
           "descriptionTr": "Batı'nın en azılı şövalyesi Serafina, barbarlar tarafından yakalandığında işkence görmeyi bekliyordu. Bunun yerine evlenme teklifi aldı! Yeminli düşmanıyla evlenmek kesinlikle hayır! Ancak düğünü kaçıran kişinin kültürünü ve çok güzel yüzünü gördükten sonra, kılıcını düğün duvağıyla değiştirmek isteyebilir. Düşmanlardan belki de sevgililere uzanan nihai hikayeye hazır olun.<br><br>(Kaynak: Crunchyroll)"
         },
         {
-          "id": 197824,
-          "title": {
-            "romaji": "Isekai Nonbiri Nouka 2",
-            "english": "Farming Life in Another World 2",
-            "native": "異世界のんびり農家２"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 6
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197824-k9Uyef8g49hB.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197824-k9Uyef8g49hB.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197824-rS7XjJQ0CZs2.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1780320600,
-            "episode": 9
-          },
-          "isAdult": false,
-          "genres": [
-            "Fantasy",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Agriculture",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kingdom Management",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Angels",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Vampire",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 74,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Zero-G"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Isekai Nonbiri Nouka</i>.<br />\n<br><br></p>\n<p><i>Note: World premiere of Episode 1 before the Japanese television premiere occurred at ANIMONIUM in Bangkok February 8, 2026</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/nonbiri_nouka"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://nonbiri-nouka2.com/"
-            },
-            {
-              "site": "HIDIVE",
-              "url": "https://www.hidive.com/season/35229"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2342017"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Isekai Nonbiri Nouka'nın ikinci sezonu.<br><br>Not: 8 Şubat 2026'da Bangkok'taki ANIMONIUM'da Japon televizyon galasından önce Bölüm 1'in dünya prömiyeri yapıldı."
-        },
-        {
           "id": 206914,
           "title": {
             "romaji": "Nippon Sangoku",
@@ -2069,6 +1982,109 @@
           ],
           "isMyList": false,
           "descriptionTr": "Nükleer savaş, doğal afet ve kötü yönetimin yol açtığı bir devrim, Japon toplumunun çöküşüne yol açar. Ülke hegemonya için yarışan üç ülkeye bölünür ve Sangoku dönemi başlar. Eski bir tarım memuru olan Aoteru Misumi, Japonya'yı yeniden birleştirme sözü verdi. Sadece ilmi ve belagati ile rütbelerde yükselir. Daha sonra dahi bir stratejist olarak selamlanan adamın efsanesine tanık olun.<br><br>(Kaynak: Amazon Prime Videosu)"
+        },
+        {
+          "id": 197824,
+          "title": {
+            "romaji": "Isekai Nonbiri Nouka 2",
+            "english": "Farming Life in Another World 2",
+            "native": "異世界のんびり農家２"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 6
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197824-k9Uyef8g49hB.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197824-k9Uyef8g49hB.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197824-rS7XjJQ0CZs2.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1780925400,
+            "episode": 10
+          },
+          "isAdult": false,
+          "genres": [
+            "Fantasy",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Agriculture",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kingdom Management",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Angels",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Vampire",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Iyashikei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 74,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Zero-G"
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Isekai Nonbiri Nouka</i>.<br />\n<br><br></p>\n<p><i>Note: World premiere of Episode 1 before the Japanese television premiere occurred at ANIMONIUM in Bangkok February 8, 2026</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/nonbiri_nouka"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://nonbiri-nouka2.com/"
+            },
+            {
+              "site": "HIDIVE",
+              "url": "https://www.hidive.com/season/35229"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2342017"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Isekai Nonbiri Nouka'nın ikinci sezonu.<br><br>Not: 8 Şubat 2026'da Bangkok'taki ANIMONIUM'da Japon televizyon galasından önce Bölüm 1'in dünya prömiyeri yapıldı."
         },
         {
           "id": 194393,
@@ -2222,7 +2238,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 57,
+          "averageScore": 56,
           "studios": {
             "nodes": [
               {
@@ -2418,7 +2434,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor ama sonunda bir şekilde onunla bir ilişki mi kuruyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk buluşma ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor - ancak bir şekilde onunla bir ilişkiye mi giriyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk randevu ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 190143,
@@ -2597,8 +2613,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780326000,
-            "episode": 9
+            "airingAt": 1780930800,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -3288,7 +3304,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.<br><br>Bir soyluyla yaşadığı felaketle sonuçlanan karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra katı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi her türden değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!<br><br>(Kaynak: J-Novel Kulübü)"
+          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.<br><br>Bir soyluyla yaşadığı felaketle sonuçlanan karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra sıkı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi her türden değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!<br><br>(Kaynak: J-Novel Kulübü)"
         },
         {
           "id": 198113,
@@ -3359,15 +3375,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Crime",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Kuudere",
               "isMediaSpoiler": false
             },
             {
               "name": "Rehabilitation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crime",
               "isMediaSpoiler": false
             },
             {
@@ -3385,6 +3401,10 @@
             {
               "name": "Dissociative Identities",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Criminal Organization",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 73,
@@ -3515,7 +3535,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 58,
+          "averageScore": 57,
           "studios": {
             "nodes": [
               {
@@ -3712,8 +3732,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189987-0UGf5F7zWNvv.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780323840,
-            "episode": 9
+            "airingAt": 1780928640,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -3854,19 +3874,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Cute Girls Doing Cute Things",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
-              "name": "Iyashikei",
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
               "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Iyashikei",
               "isMediaSpoiler": false
             },
             {
@@ -3954,7 +3974,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yeni üniversite hayatı, yeni yurt arkadaşları... ve yepyeni bir içki dünyası! Botan Kamiina, sessiz yurt lideri Ibuki Tonami'yi tek başına içki içerken fark ettikten sonra ilk alkol yudumunu alıyor. Botan, shochu'dan viskiye kadar içki içmenin keyfini arkadaşlarıyla paylaşırken, Ibuki yavaş yavaş bazı zevklerin paylaşıldığında daha iyi olduğunu öğrenir.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Yeni üniversite hayatı, yeni yurt arkadaşları... ve yepyeni bir içki dünyası! Botan Kamiina, sessiz yurt lideri Ibuki Tonami'yi tek başına içki içerken fark ettikten sonra alkolünden ilk yudumunu alıyor. Botan, shochu'dan viskiye kadar içki içmenin keyfini arkadaşlarıyla paylaşırken, Ibuki yavaş yavaş bazı zevklerin paylaşıldığında daha iyi olduğunu öğrenir.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 180228,
@@ -4378,7 +4398,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 65,
+          "averageScore": 66,
           "studios": {
             "nodes": [
               {
@@ -4577,7 +4597,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu kızdırırsanız, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlı ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacak... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetti.<br><br>(Kaynak: HİDİV)"
+          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu gücendirirseniz, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlıdır ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacaktır... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetmiştir.<br><br>(Kaynak: HİDİV)"
         },
         {
           "id": 195333,
@@ -4927,7 +4947,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Spica Başak çırak bir cadıdır ancak herhangi bir sihir kullanamaz. Hayallerindeki akademiye girebilmek için ustası olacak birine ihtiyacı var ama ne parası ne de hiçbir bağlantısı var. Aniden önünde sihir kullanabilen, konuşan gizemli bir kara kedi belirir!! Spica sihir öğrenmek istiyor, kara kedi ise lanetinin kırılmasını istiyor; hedefler aynı yolda. Böylece gizli bir usta-çırak ilişkisi doğdu! Ama laneti bozmanın anahtarı onu öpmek…?! Sakar bir cadı ve kara bir kedinin öğretileri; sihir akademisi fantezisi burada başlıyor!!<br><br>(Kaynak: K Manga)"
+          "descriptionTr": "Spica Başak çırak bir cadıdır ancak herhangi bir sihir kullanamaz. Hayallerindeki akademiye girebilmek için ustası olacak birine ihtiyacı var ama ne parası ne de hiçbir bağlantısı var. Aniden önünde sihir kullanabilen, konuşan gizemli bir kara kedi belirir!! Spica sihir öğrenmek istiyor, kara kedi ise lanetinin kırılmasını istiyor; aynı yoldaki hedefler. Böylece gizli bir usta-çırak ilişkisi doğdu! Ama laneti bozmanın anahtarı onu öpmek…?! Sakar bir cadı ve kara bir kedinin öğretileri; sihir akademisi fantezisi burada başlıyor!!<br><br>(Kaynak: K Manga)"
         },
         {
           "id": 199029,
@@ -4998,6 +5018,10 @@
             },
             {
               "name": "Psychosexual",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Nudity",
               "isMediaSpoiler": true
             }
           ],
@@ -5591,7 +5615,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Minato Kusunoki, ailesinin perili, terk edilmiş kırsal mülkünü yönetmekle görevlendirilir. Bununla birlikte, ezici ruhsal gücü sayesinde Minato, kazara tüm yeri arındırarak bir zamanlar lanetli olan mülkü, başıboş tanrılar ve tanrılar için huzurlu bir sığınağa dönüştürüyor! Minato buraya yerleşirken kendisini ilginç ilahi komşularla ve tanrılar arasındaki yaşamın canlı kaosuyla çevrelenmiş halde bulur.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Minato Kusunoki, ailesinin perili, terk edilmiş kırsal mülkünü yönetmekle görevlendirilir. Bununla birlikte, ezici ruhsal gücü sayesinde Minato, kazara tüm mekanı arındırarak, bir zamanlar lanetli olan bu mülkü, başıboş tanrılar ve tanrılar için huzurlu bir sığınağa dönüştürüyor! Minato buraya yerleşirken kendisini ilginç ilahi komşularla ve tanrılar arasındaki yaşamın canlı kaosuyla çevrelenmiş halde bulur.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 186744,
@@ -5706,7 +5730,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kendini iyi hissetmediğinde, sınav olduğunda, okula gitmek istemediğinde... Onun yerini ben alıyorum. Ben onun kopyasıyım. Başka bir amacım yok. Ama aşık olduğumda bu değişti. Aşık olduğum çocuğun ben olduğumu anlaması için saçlarımı topuz yapıyorum. Okulu atlıyoruz ve yarın ve sonrasında her gün tekrar buluşacağımıza söz veriyoruz. Ben onun kopyasıyım. Benimle ilgili her şey ödünç alınmış ve boş ama kalbim benim.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Kendini iyi hissetmediğinde, sınav olduğunda, okula gitmek istemediğinde... Onun yerini ben alıyorum. Ben onun kopyasıyım. Başka bir amacım yok. Ama aşık olduğumda bu değişti. Aşık olduğum çocuk benim olduğumu anlasın diye saçlarımı topluyorum. Okulu atlıyoruz ve yarın ve sonrasında her gün tekrar buluşacağımıza söz veriyoruz. Ben onun kopyasıyım. Benimle ilgili her şey ödünç alınmış ve boş ama kalbim benim.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 198939,
@@ -5947,12 +5971,12 @@
           ],
           "tags": [
             {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Achronological Order",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
             },
             {
               "name": "Ensemble Cast",
