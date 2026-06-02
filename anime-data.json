@@ -142,6 +142,10 @@
             {
               "name": "Twins",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Achromatic",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 86,
@@ -1259,6 +1263,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Shounen",
               "isMediaSpoiler": false
             },
@@ -1267,19 +1275,15 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Female Harem",
               "isMediaSpoiler": true
             },
             {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -1343,7 +1347,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yüzyıllar boyunca ölümcül sanatlar, Üstatlar olarak bilinen kişiler tarafından mükemmelleştirildi.<br><br>Bunlar arasında Beş Büyük Ailenin Zehir Ustaları en korkunç güce ve nüfuza sahiptir.<br><br>Zehir Ustaları'nın Gero Ailesi'nin varisi Hikaru Gero, tüm hayatını aşktan veya evlilikten çok uzakta, yeraltı dünyasında geçirmiştir.<br><br>Ancak Gero Ailesi reisi, Hikaru'nun kız kardeşinin soyunu korumak için gerekirse zorla bir varis doğurması gerektiğine karar verince Hikaru, onu ne pahasına olursa olsun korumaya karar verir.<br><br>İşte tam o sırada Hikaru, son işinin hedefi haline gelen parlak bir evlilik dolandırıcısı olan Mei Kinosaki ile karşılaşır.<br><br>Ailenin veraset sorununu çözmenin ve kız kardeşini korumanın tek yolunun evlilik olduğunu anlayan Hikaru, düşünmeden Mei'den bir gelin bulma konusunda yardım ister.<br><br>(Kaynak: EMOTION Etiket Kanalı)"
+          "descriptionTr": "Yüzyıllar boyunca ölümcül sanatlar, Üstatlar olarak bilinen kişiler tarafından mükemmelleştirildi.<br><br>Bunlar arasında Beş Büyük Ailenin Zehir Ustaları en korkunç güce ve nüfuza sahiptir.<br><br>Zehir Ustaları'nın Gero Ailesi'nin varisi Hikaru Gero, tüm hayatını aşktan veya evlilikten çok uzakta, yeraltı dünyasında geçirmiştir.<br><br>Ancak Gero Ailesi reisi, Hikaru'nun kız kardeşinin soyunu korumak için bir varis doğurması gerektiğine karar verince -gerekirse güç kullanarak- Hikaru onu ne pahasına olursa olsun korumaya karar verir.<br><br>İşte tam o sırada Hikaru, son işinin hedefi haline gelen parlak bir evlilik dolandırıcısı olan Mei Kinosaki ile karşılaşır.<br><br>Ailenin veraset sorununu çözmenin ve kız kardeşini korumanın tek yolunun evlilik olduğunu anlayan Hikaru, düşünmeden Mei'den bir gelin bulma konusunda yardım ister.<br><br>(Kaynak: EMOTION Etiket Kanalı)"
         },
         {
           "id": 199221,
@@ -3874,19 +3878,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Adult Cast",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
               "name": "Iyashikei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
@@ -4044,11 +4048,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Animals",
+              "name": "Episodic",
               "isMediaSpoiler": false
             },
             {
-              "name": "Episodic",
+              "name": "Animals",
               "isMediaSpoiler": false
             },
             {
@@ -4297,178 +4301,6 @@
           "descriptionTr": "Yozakura-san Chi no Daisakusen'in ikinci sezonu."
         },
         {
-          "id": 179813,
-          "title": {
-            "romaji": "Niwatori Fighter",
-            "english": "Rooster Fighter",
-            "native": "ニワトリ・ファイター"
-          },
-          "synonyms": [
-            "ยอดไก่นักสู้กู้โลก"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 3,
-            "day": 14
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179813-cLHpUPV1IiEm.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179813-cLHpUPV1IiEm.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179813-RZI6o4qilPyH.jpg",
-          "nextAiringEpisode": null,
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Revenge",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Animals",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Parody",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kaiju",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Surreal Comedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Body Horror",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Netorare",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Yakuza",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gambling",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Natural Disaster",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 66,
-          "studios": {
-            "nodes": [
-              {
-                "name": "SANZIGEN"
-              }
-            ]
-          },
-          "description": "<p>Keiji, the neighborhood cock of the walk is more than just an ordinary rooster—he’s humanity’s greatest defender! His opponents may be ten stories tall, but nothing is bigger than his stout heart and his fearsome battle cry—<i>Kokekokko!</i><br />\n<br><br><br />\n(Source: VIZ Media, edited)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://www.niwatori-fighter.net/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/niwatorifighte1"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/RoosterFighter_"
-            },
-            {
-              "site": "Adult Swim",
-              "url": "https://www.adultswim.com/videos/rooster-fighter"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/niwatorifighter_official"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jij171Q_EAc8xRn0RLyYmbJ"
-            },
-            {
-              "site": "Disney Plus",
-              "url": "https://www.disneyplus.com/browse/entity-75f4baad-151d-489d-8a9e-bec4ab49ed23"
-            },
-            {
-              "site": "Hulu",
-              "url": "https://www.hulu.com/series/75f4baad-151d-489d-8a9e-bec4ab49ed23"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://www.niwatori-fighter.net/es/"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/roosterfighter_official/"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://www.niwatori-fighter.net/en/"
-            },
-            {
-              "site": "Facebook",
-              "url": "https://www.facebook.com/RoosterFighterOfficial"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00365727/rooster-fighter"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2289611"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Yürüyüşün mahalle horozu Keiji, sıradan bir horozdan çok daha fazlasıdır; o, insanlığın en büyük savunucusudur! Rakipleri on kat uzunluğa sahip olabilir ama hiçbir şey onun yiğit yüreğinden ve korkunç savaş çığlığından daha büyük olamaz: Kokekokko!<br><br>(Kaynak: VIZ Media, düzenlendi)"
-        },
-        {
           "id": 185211,
           "title": {
             "romaji": "Yowa Yowa Sensei",
@@ -4698,7 +4530,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Hepimizin liseden utanç verici anıları ya da derin pişmanlıkları var, değil mi? Sosyal kaygılı üniversite son sınıf öğrencisi Natsuki Haibara da öyle. Hayatının o zamanlarını düşündüğünde, sahip olduğu tek şey mutlu bir ergenlik dönemine dair geçici fantezilerdir. O halde, kendisini açıklanamaz bir şekilde yedi yıl geçmişte, lisedeki ilk yılından bir ay önce bulduğunda yaşadığı şaşkınlığı ve şaşkınlığı bir düşünün! Haibara daha önceki hatalarından kaçınabilecek mi, okulun sosyal piramidinin tepesine ulaşabilecek mi ve sonunda hayallerindeki kıza kavuşabilecek mi? Yoksa okulun en nefret edilen çocuğu olarak üç yıllık yalnızlığı yeniden mi yaşamak zorunda kalacak? Başarılı olmak için bir egzersiz programından çevrimiçi nasıl yapılır kılavuzlarına, bir çocukluk arkadaşına ve bolca saf iradeye kadar alabileceği her türlü yardıma ihtiyacı olacak. Haibara'nın ergenlik yıllarına ikinci bir şans vermesini izleyin!<br><br>(Kaynak: J-Novel Kulübü)<br><br>Not: İlk 4 bölüm 15 Mart 2026 tarihinde ön gösterime girmiştir. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
+          "descriptionTr": "Hepimizin liseden utanç verici anıları ya da derin pişmanlıkları var, değil mi? Sosyal açıdan kaygılı üniversite son sınıf öğrencisi Natsuki Haibara da öyle. Hayatının o zamanlarını düşündüğünde, sahip olduğu tek şey mutlu bir ergenlik dönemine dair geçici fantezilerdir. O halde, kendisini açıklanamaz bir şekilde yedi yıl geçmişte, lisedeki ilk yılından bir ay önce bulduğunda yaşadığı şaşkınlığı ve şaşkınlığı bir düşünün! Haibara daha önceki hatalarından kaçınabilecek mi, okulun sosyal piramidinin tepesine ulaşabilecek mi ve sonunda hayallerindeki kıza kavuşabilecek mi? Yoksa okulun en nefret edilen çocuğu olarak üç yıllık yalnızlığı yeniden mi yaşamak zorunda kalacak? Başarılı olmak için bir egzersiz programından çevrimiçi nasıl yapılır kılavuzlarına, bir çocukluk arkadaşına ve bolca saf iradeye kadar alabileceği her türlü yardıma ihtiyacı olacak. Haibara'nın ergenlik yıllarına ikinci bir şans vermesini izleyin!<br><br>(Kaynak: J-Novel Kulübü)<br><br>Not: İlk 4 bölüm 15 Mart 2026 tarihinde ön gösterime girmiştir. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
         },
         {
           "id": 195268,
@@ -6426,6 +6258,105 @@
           ],
           "isMyList": false,
           "descriptionTr": "Souta, ablası Kaori'nin yönlendirmesiyle aniden Hokuei Üniversitesi Kadın Voleybol Kulübü'nün yurt müdürü ve koçu oldu. Orada ilk aşkı Ayano ile önemli bir buluşma yaşadı... Kızlar yurdunda! Spor salonunda! Otelde mi? Onu bekleyen şey, kendisinden daha büyük kızlar tarafından patronluk taslanacağı günlerdi! Boyut Farklılıklarından Mutlu Bir Harem Rom-Com'u ♡ Kuzey Ovalarında Kocaman Doğdu!!<br><br>(Kaynak: OceanVeil)<br><br>Not: Bölüm 1, 13 Mart 2025'te AnimeFesta'da gelişmiş bir dağıtım aldı. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
+        },
+        {
+          "id": 202985,
+          "title": {
+            "romaji": "Tadaima, Ojamasaremasu!",
+            "english": "Pardon the Intrusion, I'm Home!",
+            "native": "ただいま、おじゃまされます！"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 8
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202985-lyp5TYpTnqSg.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202985-lyp5TYpTnqSg.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202985-CJxaDe1kJTyp.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1780417740,
+            "episode": 9
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Love Triangle",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Otaku Culture",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shoujo",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cohabitation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Polyamorous",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Chibi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Femboy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Fake Relationship",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 62,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Tatsunoko Production"
+              }
+            ]
+          },
+          "description": "<p>So is this what it means to have roommates now?! Office worker Rinko, 24, lives alone and is secretly an otaku. One day, her apartment gets connected to the two neighboring rooms through a &quot;hole&quot; in the wall. In the room on the left is a fresh-faced yet mysterious guy who is overly-sweet to Rinko. The room on the right is occupied by a guy with violent tendences who is similarly mysterious... But wait! &quot;I... I think I know him!&quot; Rinko's only source of solitude, her apartment, has been turned upside down. Now, every day is full of heart-pounding surprises!<br />\n<br><br><br />\n(Source: Manga Plaza)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://www.tadaoja-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/tadaoja_anime"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371775/pardon-the-intrusion-im-home"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Peki artık oda arkadaşlarına sahip olmanın anlamı bu mu? 24 yaşındaki ofis çalışanı Rinko, yalnız yaşıyor ve gizlice bir otaku. Bir gün dairesi duvardaki bir \"delik\" aracılığıyla iki komşu odaya bağlanır. Soldaki odada Rinko'ya aşırı tatlı davranan taze yüzlü ama gizemli bir adam var. Sağdaki oda, şiddet eğilimi olan ve benzer şekilde gizemli bir adam tarafından işgal ediliyor... Ama durun! \"Ben...sanırım onu ​​tanıyorum!\" Rinko'nun tek yalnızlık kaynağı olan dairesi altüst olmuştur. Artık her gün yürek hoplatan sürprizlerle dolu!<br><br>(Kaynak: Manga Plaza)"
         }
       ]
     }
