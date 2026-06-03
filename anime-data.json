@@ -754,6 +754,10 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Amnesia",
               "isMediaSpoiler": true
             },
@@ -830,7 +834,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e'nin dördüncü sezonu.<br><br>Ayanokouji ve sınıf arkadaşları İleri Yetiştirme Lisesi'ndeki ikinci yıllarına başlarken, onları yeni sınavlar ve oldukça benzersiz birinci sınıf öğrencilerinden oluşan yeni bir grupla karşılarlar. Birbirlerini hızlı bir şekilde tanımaları gerekecek, çünkü ilk özel sınav birinci sınıfları ikinci sınıflarla yazılı bir sınavda eşleştiriyor; takımları kötü performans gösterirse yalnızca ikinci sınıflar okuldan atılmayla karşı karşıya kalacak! Daha da kötüsü mü? Görünüşe göre yeni birinci sınıflardan biri de Beyaz Oda'dan. Ayanokouji bu gizli düşmanın kimliğini ortaya çıkarırken sınır dışı edilmekten kurtulabilecek mi?<br><br>(Kaynak: Yedi Deniz)"
+          "descriptionTr": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e'nin dördüncü sezonu.<br><br>Ayanokouji ve sınıf arkadaşları İleri Yetiştirme Lisesi'ndeki ikinci yıllarına başlarken, onları yeni sınavlar ve oldukça benzersiz birinci sınıf öğrencilerinden oluşan yeni bir grupla karşılarlar. Birbirlerini hızlı bir şekilde tanımaları gerekecek, çünkü ilk özel sınav birinci sınıfları ikinci sınıflarla yazılı bir sınavda eşleştiriyor; yalnızca ikinci sınıflar takımlarının kötü performans göstermesi durumunda okuldan atılma tehlikesiyle karşı karşıya kalacak! Daha da kötüsü mü? Görünüşe göre yeni birinci sınıflardan biri de Beyaz Oda'dan. Ayanokouji bu gizli düşmanın kimliğini ortaya çıkarırken sınır dışı edilmekten kurtulabilecek mi?<br><br>(Kaynak: Yedi Deniz)"
         },
         {
           "id": 182300,
@@ -1558,6 +1562,14 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Video Games",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Table Tennis",
               "isMediaSpoiler": false
             }
@@ -1842,7 +1854,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Batı'nın en azılı şövalyesi Serafina, barbarlar tarafından yakalandığında işkence görmeyi bekliyordu. Bunun yerine evlenme teklifi aldı! Yeminli düşmanıyla evlenmek kesinlikle hayır! Ancak düğünü kaçıran kişinin kültürünü ve çok güzel yüzünü gördükten sonra, kılıcını düğün duvağıyla değiştirmek isteyebilir. Düşmanlardan belki de sevgililere uzanan nihai hikayeye hazır olun.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Batı'nın en azılı şövalyesi Serafina, barbarlar tarafından yakalandığında işkence görmeyi bekliyordu. Bunun yerine evlenme teklifi aldı! Yeminli düşmanıyla evlenmek kesinlikle hayır! Ancak düğününü kaçıran kişinin kültürünü ve çok güzel yüzünü gördükten sonra, kılıcını bir düğün duvağıyla değiştirmek isteyebilir. Düşmanlardan belki de sevgililere uzanan nihai hikayeye hazır olun.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 206914,
@@ -2438,7 +2450,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor ama sonunda bir şekilde onunla bir ilişki mi kuruyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk buluşma ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor - ancak bir şekilde onunla bir ilişkiye mi giriyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk randevu ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 190143,
@@ -3308,7 +3320,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.<br><br>Bir soyluyla yaşadığı felaketle sonuçlanan karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra katı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi her türden değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!<br><br>(Kaynak: J-Novel Kulübü)"
+          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.<br><br>Bir soyluyla yaşadığı felaketle sonuçlanan karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra sıkı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi, her türlü değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!<br><br>(Kaynak: J-Novel Kulübü)"
         },
         {
           "id": 198113,
@@ -3409,6 +3421,14 @@
             {
               "name": "Criminal Organization",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Football",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 74,
@@ -3978,7 +3998,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yeni üniversite hayatı, yeni yurt arkadaşları... ve yepyeni bir içki dünyası! Botan Kamiina, sessiz yurt lideri Ibuki Tonami'yi tek başına içki içerken fark ettikten sonra ilk alkol yudumunu alıyor. Botan, shochu'dan viskiye kadar içki içmenin keyfini arkadaşlarıyla paylaşırken, Ibuki yavaş yavaş bazı zevklerin paylaşıldığında daha iyi olduğunu öğrenir.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Yeni üniversite hayatı, yeni yurt arkadaşları... ve yepyeni bir içki dünyası! Botan Kamiina, sessiz yurt lideri Ibuki Tonami'yi tek başına içki içerken fark ettikten sonra alkolünden ilk yudumunu alıyor. Botan, shochu'dan viskiye kadar içki içmenin keyfini arkadaşlarıyla paylaşırken, Ibuki yavaş yavaş bazı zevklerin paylaşıldığında daha iyi olduğunu öğrenir.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 180228,
@@ -4333,11 +4353,11 @@
           ],
           "tags": [
             {
-              "name": "Teacher",
+              "name": "Nudity",
               "isMediaSpoiler": false
             },
             {
-              "name": "Nudity",
+              "name": "Teacher",
               "isMediaSpoiler": false
             },
             {
@@ -4429,7 +4449,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu kızdırırsanız, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlı ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacak... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetti.<br><br>(Kaynak: HİDİV)"
+          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu gücendirirseniz, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlıdır ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacaktır... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetmiştir.<br><br>(Kaynak: HİDİV)"
         },
         {
           "id": 195333,
@@ -4530,7 +4550,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Hepimizin liseden utanç verici anıları ya da derin pişmanlıkları var, değil mi? Sosyal kaygılı üniversite son sınıf öğrencisi Natsuki Haibara da öyle. Hayatının o zamanlarını düşündüğünde, sahip olduğu tek şey mutlu bir ergenlik dönemine dair geçici fantezilerdir. O halde, kendisini açıklanamaz bir şekilde yedi yıl geçmişte, lisedeki ilk yılından bir ay önce bulduğunda yaşadığı şaşkınlığı ve şaşkınlığı bir düşünün! Haibara daha önceki hatalarından kaçınabilecek mi, okulun sosyal piramidinin tepesine ulaşabilecek mi ve sonunda hayallerindeki kıza kavuşabilecek mi? Yoksa okulun en nefret edilen çocuğu olarak üç yıllık yalnızlığı yeniden mi yaşamak zorunda kalacak? Başarılı olmak için bir egzersiz programından çevrimiçi nasıl yapılır kılavuzlarına, bir çocukluk arkadaşına ve bolca saf iradeye kadar alabileceği her türlü yardıma ihtiyacı olacak. Haibara'nın ergenlik yıllarına ikinci bir şans vermesini izleyin!<br><br>(Kaynak: J-Novel Kulübü)<br><br>Not: İlk 4 bölüm 15 Mart 2026 tarihinde ön gösterime girmiştir. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
+          "descriptionTr": "Hepimizin liseden utanç verici anıları ya da derin pişmanlıkları var, değil mi? Sosyal açıdan kaygılı üniversite son sınıf öğrencisi Natsuki Haibara da öyle. Hayatının o zamanlarını düşündüğünde, sahip olduğu tek şey mutlu bir ergenlik dönemine dair geçici fantezilerdir. O halde, kendisini açıklanamaz bir şekilde yedi yıl geçmişte, lisedeki ilk yılından bir ay önce bulduğunda yaşadığı şaşkınlığı ve şaşkınlığı bir düşünün! Haibara daha önceki hatalarından kaçınabilecek mi, okulun sosyal piramidinin tepesine ulaşabilecek mi ve sonunda hayallerindeki kıza kavuşabilecek mi? Yoksa okulun en nefret edilen çocuğu olarak üç yıllık yalnızlığı yeniden mi yaşamak zorunda kalacak? Başarılı olmak için bir egzersiz programından çevrimiçi nasıl yapılır kılavuzlarına, bir çocukluk arkadaşına ve bolca saf iradeye kadar alabileceği her türlü yardıma ihtiyacı olacak. Haibara'nın ergenlik yıllarına ikinci bir şans vermesini izleyin!<br><br>(Kaynak: J-Novel Kulübü)<br><br>Not: İlk 4 bölüm 15 Mart 2026 tarihinde ön gösterime girmiştir. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
         },
         {
           "id": 196974,
@@ -5121,7 +5141,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Geçmişi ve bugünü birbirine bağlayan bir lanet.<br><br>1900'lerin başlarında Japonya'nın Taisho döneminde yaşayan genç bir mistik olan Mao, hayatını değiştiren bir lanete maruz kaldıktan sonra dokuz yüz uzun yıl boyunca yaşamaya devam eden gizemli bir onmyojidir. Gelecekten gelmiş gibi görünen ortaokul öğrencisi Nanoka Kiba ile tanıştığında dünyası daha da tuhaf bir hal alır. Nanoka, hassas yıllarına rağmen, küçük bir çocuk olarak anne ve babasını tüyler ürpertici bir kazada kaybetmesiyle yaşadığı travmatik deneyimin damgasını vurduğu garip bir hayat yaşamıştır. Ancak Nanoka o uğursuz alışveriş merkezine dönmeye karar verdiğinde başka bir zamana ve yere taşınır; doğaüstü ayakaşilerin kendisinden çok önce geliştiği bir dünyaya. Orada Mao ile tanışır ve Mao'nun ani ve tuhaf sorusu Nanoka'nın kendisini ve meraklı hayatını tamamen yeni bir ışıkta görmesine neden olur. Artık farklı dünyalardan gelen iki gezgin, hayatlarını etkileyen karanlık güçlerle mücadele ederken birleşiyor.<br><br>(Kaynak: VIZ Media, Hulu, düzenlendi)"
+          "descriptionTr": "Geçmişi ve bugünü birbirine bağlayan bir lanet.<br><br>1900'lerin başlarında Japonya'nın Taisho döneminde yaşayan genç bir mistik olan Mao, hayatını değiştiren bir lanete maruz kaldıktan sonra dokuz yüz uzun yıl boyunca yaşamaya devam eden gizemli bir onmyojidir. Gelecekten gelmiş gibi görünen ortaokul öğrencisi Nanoka Kiba ile tanıştığında dünyası daha da tuhaf bir hal alır. Nanoka, hassas yıllarına rağmen, küçük bir çocukken anne ve babasını tüyler ürpertici bir kazada kaybetmesiyle yaşadığı travmatik deneyimin damgasını vurduğu garip bir hayat yaşamıştır. Ancak Nanoka o uğursuz alışveriş merkezine dönmeye karar verdiğinde başka bir zamana ve yere taşınır; doğaüstü ayakaşilerin kendisinden çok önce geliştiği bir dünyaya. Orada Mao ile tanışır. Mao'nun ani ve tuhaf sorusu Nanoka'nın kendisini ve meraklı hayatını tamamen yeni bir ışıkta görmesine neden olur. Artık farklı dünyalardan gelen iki gezgin, hayatlarını etkileyen karanlık güçlerle mücadele ederken birleşiyor.<br><br>(Kaynak: VIZ Media, Hulu, düzenlendi)"
         },
         {
           "id": 206951,
@@ -5147,8 +5167,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206951-P1BNNpbqN4zG.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780419540,
-            "episode": 9
+            "airingAt": 1781024340,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -5447,7 +5467,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Minato Kusunoki, ailesinin perili, terk edilmiş kırsal mülkünü yönetmekle görevlendirilir. Bununla birlikte, ezici ruhsal gücü sayesinde Minato, kazara tüm yeri arındırarak bir zamanlar lanetli olan mülkü, başıboş tanrılar ve tanrılar için huzurlu bir sığınağa dönüştürüyor! Minato buraya yerleşirken kendisini ilginç ilahi komşularla ve tanrılar arasındaki yaşamın canlı kaosuyla çevrelenmiş halde bulur.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Minato Kusunoki, ailesinin perili, terk edilmiş kırsal mülkünü yönetmekle görevlendirilir. Bununla birlikte, ezici ruhsal gücü sayesinde Minato, kazara tüm mekanı arındırarak, bir zamanlar lanetli olan bu mülkü, başıboş tanrılar ve tanrılar için huzurlu bir sığınağa dönüştürüyor! Minato buraya yerleşirken kendisini ilginç ilahi komşularla ve tanrılar arasındaki yaşamın canlı kaosuyla çevrelenmiş halde bulur.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 186744,
@@ -5562,7 +5582,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kendini iyi hissetmediğinde, sınav olduğunda, okula gitmek istemediğinde... Onun yerini ben alıyorum. Ben onun kopyasıyım. Başka bir amacım yok. Ama aşık olduğumda bu değişti. Aşık olduğum çocuğun ben olduğumu anlaması için saçlarımı topuz yapıyorum. Okulu atlıyoruz ve yarın ve sonrasında her gün tekrar buluşacağımıza söz veriyoruz. Ben onun kopyasıyım. Benimle ilgili her şey ödünç alınmış ve boş ama kalbim benim.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Kendini iyi hissetmediğinde, sınav olduğunda, okula gitmek istemediğinde... Onun yerini ben alıyorum. Ben onun kopyasıyım. Başka bir amacım yok. Ama aşık olduğumda bu değişti. Aşık olduğum çocuk benim olduğumu anlasın diye saçlarımı topluyorum. Okulu atlıyoruz ve yarın ve sonrasında her gün tekrar buluşacağımıza söz veriyoruz. Ben onun kopyasıyım. Benimle ilgili her şey ödünç alınmış ve boş ama kalbim benim.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 198939,
@@ -6278,8 +6298,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202985-CJxaDe1kJTyp.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780417740,
-            "episode": 9
+            "airingAt": 1781022540,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
