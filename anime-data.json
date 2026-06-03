@@ -208,8 +208,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189046-MDk2CaVuRWpb.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780491600,
-            "episode": 9
+            "airingAt": 1781096400,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -278,11 +278,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Cult",
+              "name": "Gore",
               "isMediaSpoiler": false
             },
             {
-              "name": "Gore",
+              "name": "Cult",
               "isMediaSpoiler": false
             },
             {
@@ -334,7 +334,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 87,
+          "averageScore": 88,
           "studios": {
             "nodes": [
               {
@@ -668,8 +668,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180745-Iicz1F6Kuj4e.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780489800,
-            "episode": 13
+            "airingAt": 1781094600,
+            "episode": 14
           },
           "isAdult": false,
           "genres": [
@@ -1052,7 +1052,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 79,
+          "averageScore": 80,
           "studios": {
             "nodes": [
               {
@@ -1504,8 +1504,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199588-I4HoR4YjnpqD.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780497900,
-            "episode": 9
+            "airingAt": 1781102700,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -1542,16 +1542,16 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Polyamorous",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Polyamorous",
-              "isMediaSpoiler": true
             },
             {
               "name": "Baseball",
@@ -1568,6 +1568,10 @@
             {
               "name": "Primarily Female Cast",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
             },
             {
               "name": "Table Tennis",
@@ -2219,8 +2223,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1780497000,
-            "episode": 10
+            "airingAt": 1781101800,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -2251,6 +2255,10 @@
             },
             {
               "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
               "isMediaSpoiler": false
             }
           ],
@@ -2450,7 +2458,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor - ancak bir şekilde onunla bir ilişkiye mi giriyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk randevu ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor - ancak bir şekilde onunla bir ilişkiye mi giriyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk buluşma ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 190143,
@@ -2559,6 +2567,10 @@
             {
               "name": "Suicide",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
             },
             {
               "name": "Crime",
@@ -3431,7 +3443,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 74,
+          "averageScore": 73,
           "studios": {
             "nodes": [
               {
@@ -4021,8 +4033,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180228-WAvqro5AamHj.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780500600,
-            "episode": 11
+            "airingAt": 1781105400,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -4449,7 +4461,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu gücendirirseniz, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlıdır ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacaktır... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetmiştir.<br><br>(Kaynak: HİDİV)"
+          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu gücendirirseniz, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlı ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacak... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetti.<br><br>(Kaynak: HİDİV)"
         },
         {
           "id": 195333,
@@ -4823,8 +4835,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1780491600,
-            "episode": 9
+            "airingAt": 1781096400,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -4930,8 +4942,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201817-I5zjpJCelDjB.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780498800,
-            "episode": 10
+            "airingAt": 1781103600,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -5607,8 +5619,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1780491600,
-            "episode": 10
+            "airingAt": 1781096400,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
