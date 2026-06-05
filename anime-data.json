@@ -529,8 +529,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780668000,
-            "episode": 9
+            "airingAt": 1781272800,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -698,10 +698,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Criminal Organization",
               "isMediaSpoiler": true
             },
@@ -710,7 +706,7 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Anti-Hero",
+              "name": "School",
               "isMediaSpoiler": false
             },
             {
@@ -719,6 +715,10 @@
             },
             {
               "name": "Coming of Age",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anti-Hero",
               "isMediaSpoiler": false
             },
             {
@@ -1105,8 +1105,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170019-r07RiVV5d8rT.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780666200,
-            "episode": 10
+            "airingAt": 1781271000,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -1662,11 +1662,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Ensemble Cast",
+              "name": "Kuudere",
               "isMediaSpoiler": false
             },
             {
-              "name": "Kuudere",
+              "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
             {
@@ -1676,10 +1676,6 @@
             {
               "name": "Shoujo",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Love Triangle",
-              "isMediaSpoiler": true
             },
             {
               "name": "Coming of Age",
@@ -1694,12 +1690,20 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "School Club",
-              "isMediaSpoiler": false
+              "name": "Love Triangle",
+              "isMediaSpoiler": true
             },
             {
               "name": "Orphan",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "School Club",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Chibi",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 78,
@@ -3022,7 +3026,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 67,
+          "averageScore": 68,
           "studios": {
             "nodes": [
               {
@@ -3611,7 +3615,8 @@
           "synonyms": [
             "リンネ",
             "มหาศึกวีรชนข้ามภพ",
-            "輪迴的花瓣"
+            "輪迴的花瓣",
+            "Cánh Hoa Luân Hồi"
           ],
           "startDate": {
             "year": 2026,
@@ -4156,8 +4161,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192808-iaS1GnOo5l3G.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780664400,
-            "episode": 10
+            "airingAt": 1781269200,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -4540,6 +4545,10 @@
             {
               "name": "Restaurant",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Band",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 64,
@@ -5161,7 +5170,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Geçmişi ve bugünü birbirine bağlayan bir lanet.<br><br>1900'lerin başlarında Japonya'nın Taisho döneminde yaşayan genç bir mistik olan Mao, hayatını değiştiren bir lanete maruz kaldıktan sonra dokuz yüz uzun yıl boyunca yaşamaya devam eden gizemli bir onmyojidir. Gelecekten gelmiş gibi görünen ortaokul öğrencisi Nanoka Kiba ile tanıştığında dünyası daha da tuhaf bir hal alır. Nanoka, hassas yıllarına rağmen, küçük bir çocukken anne ve babasını tüyler ürpertici bir kazada kaybetmesiyle yaşadığı travmatik deneyimin damgasını vurduğu garip bir hayat yaşamıştır. Ancak Nanoka o uğursuz alışveriş merkezine dönmeye karar verdiğinde başka bir zamana ve yere taşınır; doğaüstü ayakaşilerin kendisinden çok önce geliştiği bir dünyaya. Orada Mao ile tanışır. Mao'nun ani ve tuhaf sorusu Nanoka'nın kendisini ve meraklı hayatını tamamen yeni bir ışıkta görmesine neden olur. Artık farklı dünyalardan gelen iki gezgin, hayatlarını etkileyen karanlık güçlerle mücadele ederken birleşiyor.<br><br>(Kaynak: VIZ Media, Hulu, düzenlendi)"
+          "descriptionTr": "Geçmişi ve bugünü birbirine bağlayan bir lanet.<br><br>1900'lerin başlarında Japonya'nın Taisho döneminde yaşayan genç bir mistik olan Mao, hayatını değiştiren bir lanete maruz kaldıktan sonra dokuz yüz uzun yıl boyunca yaşamaya devam eden gizemli bir onmyojidir. Gelecekten gelmiş gibi görünen ortaokul öğrencisi Nanoka Kiba ile tanıştığında dünyası daha da tuhaf bir hal alır. Nanoka, hassas yıllarına rağmen, küçük bir çocukken anne ve babasını tüyler ürpertici bir kazada kaybetmesiyle yaşadığı travmatik deneyimin damgasını vurduğu garip bir hayat yaşamıştır. Ancak Nanoka o uğursuz alışveriş merkezine dönmeye karar verdiğinde başka bir zamana ve yere taşınır; doğaüstü ayakaşilerin kendisinden çok önce geliştiği bir dünyaya. Orada Mao ile tanışır ve Mao'nun ani ve tuhaf sorusu Nanoka'nın kendisini ve meraklı hayatını tamamen yeni bir ışıkta görmesine neden olur. Artık farklı dünyalardan gelen iki gezgin, hayatlarını etkileyen karanlık güçlerle mücadele ederken birleşiyor.<br><br>(Kaynak: VIZ Media, Hulu, düzenlendi)"
         },
         {
           "id": 206951,
@@ -5364,7 +5373,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 58,
+          "averageScore": 57,
           "studios": {
             "nodes": [
               {
@@ -5578,7 +5587,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 66,
+          "averageScore": 67,
           "studios": {
             "nodes": [
               {
@@ -5967,8 +5976,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196144-oWeLz0DOjhYV.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780669800,
-            "episode": 10
+            "airingAt": 1781274600,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -6265,7 +6274,7 @@
               }
             ]
           },
-          "description": "<p>Souta was suddenly made dorm manager and coach of the Hokuei University Women's Volleyball Club as prompted by his older sister, Kaori. There, he had a fateful reunion with Ayano, his first love... In the girls' dorm! In the gym! In a hotel?! What awaited him were days of being bossed around by girls bigger than him! A Happy Harem Rom-Com of Size Differences♡ Born Huge on the Northern Plains!!<br />\n<br><br><br />\n(Source: OceanVeil)<br />\n<br><br><br />\n<i>Note: Episode 1 received an advanced distribution on AnimeFesta on March 13th, 2025. The start date reflects the start of the regular series broadcasting.</i></p>",
+          "description": "<p>Souta was suddenly made dorm manager and coach of the Hokuei University Women's Volleyball Club as prompted by his older sister, Kaori. There, he had a fateful reunion with Ayano, his first love... In the girls' dorm! In the gym! In a hotel?! What awaited him were days of being bossed around by girls bigger than him! A Happy Harem Rom-Com of Size Differences♡ Born Huge on the Northern Plains!!<br />\n<br><br><br />\n(Source: OceanVeil)<br />\n<br><br><br />\n<i>Note: Episode 1 received an advanced distribution on AnimeFesta on March 13th, 2026. The start date reflects the start of the regular series broadcasting.</i></p>",
           "externalLinks": [
             {
               "site": "Twitter",
@@ -6293,7 +6302,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Ablası Kaori'nin yönlendirmesiyle Souta aniden Hokuei Üniversitesi Kadın Voleybol Kulübü'nün yurt müdürü ve koçu oldu. Orada ilk aşkı Ayano ile önemli bir buluşma yaşadı... Kızlar yurdunda! Spor salonunda! Otelde mi? Onu bekleyen şey, kendisinden daha büyük kızların patronluk taslayacağı günlerdi! Boyut Farklılıklarından Mutlu Bir Harem Rom-Com'u ♡ Kuzey Ovalarında Kocaman Doğdu!!<br><br>(Kaynak: OceanVeil)<br><br>Not: Bölüm 1, 13 Mart 2025'te AnimeFesta'da gelişmiş bir dağıtım aldı. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
+          "descriptionTr": "Ablası Kaori'nin yönlendirmesiyle Souta aniden Hokuei Üniversitesi Kadın Voleybol Kulübü'nün yurt müdürü ve koçu oldu. Orada ilk aşkı Ayano ile önemli bir buluşma yaşadı... Kızlar yurdunda! Spor salonunda! Otelde mi? Onu bekleyen şey, kendisinden daha büyük kızların patronluk taslayacağı günlerdi! Boyut Farklılıklarından Mutlu Bir Harem Rom-Com'u ♡ Kuzey Ovalarında Kocaman Doğdu!!<br><br>(Kaynak: OceanVeil)<br><br>Not: Bölüm 1, 13 Mart 2026'da AnimeFesta'da gelişmiş bir dağıtım aldı. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
         },
         {
           "id": 202985,
