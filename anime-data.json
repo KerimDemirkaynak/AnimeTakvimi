@@ -3900,8 +3900,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187869-WuaolpHqNqHk.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780671600,
-            "episode": 9
+            "airingAt": 1781276400,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -3919,19 +3919,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Cute Girls Doing Cute Things",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
-              "name": "Iyashikei",
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
               "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Iyashikei",
               "isMediaSpoiler": false
             },
             {
@@ -3943,11 +3943,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Bar",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Bar",
               "isMediaSpoiler": false
             },
             {
@@ -3967,6 +3967,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Unrequited Love",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Travel",
               "isMediaSpoiler": false
             },
@@ -3975,15 +3979,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Unrequited Love",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Educational",
               "isMediaSpoiler": false
             },
             {
               "name": "Outdoor Activities",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Episodic",
               "isMediaSpoiler": false
             }
           ],
@@ -4611,6 +4615,10 @@
           ],
           "tags": [
             {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
@@ -4619,15 +4627,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Villainess",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
               "isMediaSpoiler": false
             },
             {
@@ -4635,11 +4635,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Reincarnation",
+              "name": "Super Power",
               "isMediaSpoiler": false
             },
             {
               "name": "Family Life",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Reincarnation",
               "isMediaSpoiler": false
             },
             {
@@ -5371,6 +5375,10 @@
             {
               "name": "Suicide",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Disability",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 57,
@@ -5636,7 +5644,7 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1781096400,
+            "airingAt": 1781701200,
             "episode": 11
           },
           "isAdult": false,
