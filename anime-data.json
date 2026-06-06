@@ -502,7 +502,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "İki taş muhafızın dikkatli gözleri altındaki uzak bir dağ köyünde genç Yuru, elinde kalan tek aileye, değerli ikiz kız kardeşi Asa'ya yakın kalarak mutlu bir şekilde toprakta yaşıyor. Asa ise kafeste kilitliyken köy adına gizemli bir “görev” yürütmektedir. Asa neden tutuklu? Peki Yuru'nun cennet gibi olan evinde başka hangi sırlar saklanıyor?<br><br>(Kaynak: Square Enix)"
+          "descriptionTr": "Uzak bir dağ köyünde, iki taş muhafızın dikkatli gözleri altında genç Yuru, elinde kalan tek aileye, değerli ikiz kız kardeşi Asa'ya yakın kalarak mutlu bir şekilde toprakta yaşıyor. Asa ise kafeste kilitliyken köy adına gizemli bir “görev” yürütmektedir. Asa neden tutuklu? Peki Yuru'nun cennet gibi olan evinde başka hangi sırlar saklanıyor?<br><br>(Kaynak: Square Enix)"
         },
         {
           "id": 182205,
@@ -1223,19 +1223,19 @@
           ],
           "tags": [
             {
-              "name": "Assassins",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Marriage",
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban",
+              "name": "Assassins",
               "isMediaSpoiler": false
             },
             {
               "name": "Crime",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
               "isMediaSpoiler": false
             },
             {
@@ -2084,7 +2084,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 74,
+          "averageScore": 73,
           "studios": {
             "nodes": [
               {
@@ -3089,8 +3089,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184492-JsZazzn4Acqf.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780737960,
-            "episode": 10
+            "airingAt": 1781342760,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -3197,150 +3197,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Mairimashita'nın dördüncü sezonu! Iruma-kun.<br><br>Suzuki Iruma ve Uyumsuzlar Sınıfının on üç öğrencisinin tamamı, Müzik Festivalinde 4. Sıraya ulaşmak için performans sergilemek zorundadır.<br><br>(Kaynak: Crunchyroll Haberleri)"
-        },
-        {
-          "id": 171110,
-          "title": {
-            "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
-            "english": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
-            "native": "本好きの下剋上 領主の養女"
-          },
-          "synonyms": [
-            "Ascendance of a Bookworm Season 4",
-            "本好きの下剋上 司書になるためには手段を選んでいられません 第4期",
-            "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171110-lgtmKokpevUM.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1780734600,
-            "episode": 9
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Fantasy",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Writing",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Politics",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Religion",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gods",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Conspiracy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Josei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Travel",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Disability",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Adoption",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Food",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Economics",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Alchemy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Time Skip",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 76,
-          "studios": {
-            "nodes": [
-              {
-                "name": "WIT STUDIO"
-              }
-            ]
-          },
-          "description": "<p>Anime adaptation of Part 3 of <i>Honzuki no Gekokujou</i>.<br />\n<br><br><br />\nFollowing a disastrous encounter with a noble, Myne finally resolves to say goodbye to her family and friends in the lower city, changing her name to “Rozemyne” and beginning her new life as the adopted daughter of Ehrenfest’s archduke. However, her days as an archnoble in noble society are brutal, as she is put through rigorous etiquette and magic training on top of her duties as High Bishop and forewoman. It all proves too much for a weak little seven-year-old girl... Or it would have, had the High Priest not offered her the keys to the temple’s book room as a reward. If she could get her hands on those, she’d be able to read all sorts of precious books! Her name may have changed, but Rozemyne’s passion for books remains the same as she charges into a whole new world! The detailed setting expands as the printing industry grows in size. Here begins Part 3 of this biblio-fantasy for book lovers everywhere!<br />\n<br><br><br />\n(Source: J-Novel Club) </p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "http://booklove-anime.jp/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/anime_booklove"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/G6793XKZY/ascendance-of-a-bookworm"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.<br><br>Bir soyluyla yaşadığı felaketle sonuçlanan karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra sıkı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi, her türlü değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!<br><br>(Kaynak: J-Novel Kulübü)"
         },
         {
           "id": 198113,
@@ -3492,6 +3348,150 @@
           ],
           "isMyList": false,
           "descriptionTr": "Juuzou Oogami, ne kadar imkansız olursa olsun hiçbir görevde başarısız olmayan efsanevi bir tetikçidir. Bir gün güçlü bir organizasyonu yok ettikten sonra gizemli bir eşekarısı tarafından sokulur ve yere yığılır. 39 yaşındaki korkunç suikastçı uyandığında 13 yaşında bir çocuğa dönüşmüştür!<br><br>Daha ne olduğunu anlayamadan patronu yeni bir emir verir: \"O bedenin içinde bir ortaokula sızın.\"<br><br>Onu bekleyen ise renkli sınıf arkadaşları, gençlik kaosu ve yaklaşmakta olan tehlikelerle dolu beklenmedik bir okul hayatıdır. Juuzou bir gün orijinal formuna dönebilecek mi? Yoksa ona yaklaşan suikastçılar onun ikinci hayatına daha başlamadan son mu verecek?<br><br>(Kaynak: Resmi Site)"
+        },
+        {
+          "id": 171110,
+          "title": {
+            "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
+            "english": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+            "native": "本好きの下剋上 領主の養女"
+          },
+          "synonyms": [
+            "Ascendance of a Bookworm Season 4",
+            "本好きの下剋上 司書になるためには手段を選んでいられません 第4期",
+            "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171110-lgtmKokpevUM.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1781339400,
+            "episode": 10
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama",
+            "Fantasy",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Writing",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Politics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Religion",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gods",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Conspiracy",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Josei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Travel",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Disability",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Adoption",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Food",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Economics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Alchemy",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Time Skip",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Gore",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 76,
+          "studios": {
+            "nodes": [
+              {
+                "name": "WIT STUDIO"
+              }
+            ]
+          },
+          "description": "<p>Anime adaptation of Part 3 of <i>Honzuki no Gekokujou</i>.<br />\n<br><br><br />\nFollowing a disastrous encounter with a noble, Myne finally resolves to say goodbye to her family and friends in the lower city, changing her name to “Rozemyne” and beginning her new life as the adopted daughter of Ehrenfest’s archduke. However, her days as an archnoble in noble society are brutal, as she is put through rigorous etiquette and magic training on top of her duties as High Bishop and forewoman. It all proves too much for a weak little seven-year-old girl... Or it would have, had the High Priest not offered her the keys to the temple’s book room as a reward. If she could get her hands on those, she’d be able to read all sorts of precious books! Her name may have changed, but Rozemyne’s passion for books remains the same as she charges into a whole new world! The detailed setting expands as the printing industry grows in size. Here begins Part 3 of this biblio-fantasy for book lovers everywhere!<br />\n<br><br><br />\n(Source: J-Novel Club) </p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "http://booklove-anime.jp/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/anime_booklove"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/G6793XKZY/ascendance-of-a-bookworm"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.<br><br>Bir soyluyla yaşadığı felaketle sonuçlanan karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra sıkı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi, her türlü değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!<br><br>(Kaynak: J-Novel Kulübü)"
         },
         {
           "id": 200769,
@@ -3915,11 +3915,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Female Cast",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
             {
@@ -3971,6 +3971,10 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Episodic",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Travel",
               "isMediaSpoiler": false
             },
@@ -3987,7 +3991,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Episodic",
+              "name": "Software Development",
               "isMediaSpoiler": false
             }
           ],
@@ -4367,8 +4371,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185211-2wkjFD6tz7l3.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780749000,
-            "episode": 9
+            "airingAt": 1781353800,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -4474,7 +4478,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu gücendirirseniz, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlıdır ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacaktır... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetmiştir.<br><br>(Kaynak: HİDİV)"
+          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu gücendirirseniz, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlı ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacak... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetti.<br><br>(Kaynak: HİDİV)"
         },
         {
           "id": 195333,
@@ -4579,7 +4583,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Hepimizin liseden utanç verici anıları ya da derin pişmanlıkları var, değil mi? Sosyal açıdan kaygılı üniversite son sınıf öğrencisi Natsuki Haibara da öyle. Hayatının o zamanlarını düşündüğünde, sahip olduğu tek şey mutlu bir ergenlik dönemine dair geçici fantezilerdir. O halde, kendisini açıklanamaz bir şekilde yedi yıl geçmişte, lisedeki ilk yılından bir ay önce bulduğunda yaşadığı şaşkınlığı ve şaşkınlığı bir düşünün! Haibara daha önceki hatalarından kaçınabilecek mi, okulun sosyal piramidinin tepesine ulaşabilecek mi ve sonunda hayallerindeki kıza kavuşabilecek mi? Yoksa okulun en nefret edilen çocuğu olarak üç yıllık yalnızlığı yeniden mi yaşamak zorunda kalacak? Başarılı olmak için bir egzersiz programından çevrimiçi nasıl yapılır kılavuzlarına, bir çocukluk arkadaşına ve bolca saf iradeye kadar alabileceği her türlü yardıma ihtiyacı olacak. Haibara'nın ergenlik yıllarına ikinci bir şans vermesini izleyin!<br><br>(Kaynak: J-Novel Kulübü)<br><br>Not: İlk 4 bölüm 15 Mart 2026 tarihinde ön gösterime girmiştir. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
+          "descriptionTr": "Hepimizin liseden utanç verici anıları ya da derin pişmanlıkları var, değil mi? Sosyal kaygılı üniversite son sınıf öğrencisi Natsuki Haibara da öyle. Hayatının o zamanlarını düşündüğünde, sahip olduğu tek şey mutlu bir ergenlik dönemine dair geçici fantezilerdir. O halde, kendisini açıklanamaz bir şekilde yedi yıl geçmişte, lisedeki ilk yılından bir ay önce bulduğunda yaşadığı şaşkınlığı ve şaşkınlığı bir düşünün! Haibara daha önceki hatalarından kaçınabilecek mi, okulun sosyal piramidinin tepesine ulaşabilecek mi ve sonunda hayallerindeki kıza kavuşabilecek mi? Yoksa okulun en nefret edilen çocuğu olarak üç yıllık yalnızlığı yeniden mi yaşamak zorunda kalacak? Başarılı olmak için bir egzersiz programından çevrimiçi nasıl yapılır kılavuzlarına, bir çocukluk arkadaşına ve bolca saf iradeye kadar alabileceği her türlü yardıma ihtiyacı olacak. Haibara'nın ergenlik yıllarına ikinci bir şans vermesini izleyin!<br><br>(Kaynak: J-Novel Kulübü)<br><br>Not: İlk 4 bölüm 15 Mart 2026 tarihinde ön gösterime girmiştir. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
         },
         {
           "id": 195268,
@@ -5046,135 +5050,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Efsanevi bir dük ailesinde doğan dövüş dahisi Maria \"Mimi\" Annovazzi, mirasçı olma iddiasını kaybeder ve aniden prestij sahibi olmak için evlenmesi emredilir. Memleketinde hiçbir seçeneği kalmadığından komşu bir krallığa transfer olur; ancak mezuniyet töreninde, varlığından bile habersiz olduğu bir nişan nedeniyle hiç tanımadığı bir prens tarafından herkesin önünde terk edilir! Maria bir kız kurusunun hayatına mı mahkum olacak?<br><br>(Kaynak: Crunchyroll)"
-        },
-        {
-          "id": 196012,
-          "title": {
-            "romaji": "MAO",
-            "english": "MAO",
-            "native": "MAO"
-          },
-          "synonyms": [
-            "マオ",
-            "MAO หาญสู้พลิกชะตาอาถรรพณ์"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196012-R3YNjunufpYh.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196012-R3YNjunufpYh.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1780757160,
-            "episode": 10
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Mystery",
-            "Romance",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Exorcism",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Youkai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Manipulation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 66,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Sunrise"
-              }
-            ]
-          },
-          "description": "<p><b>A curse that binds past and present.</b><br />\n<br><br><br />\nMao, a young mystic who lives in the Taisho period of early 1900s Japan, is a mysterious onmyoji who, after suffering a life-altering curse, has continued to live for nine hundred long years. His world becomes even stranger when he meets Nanoka Kiba, a junior high schooler who seems to have traveled from the future. In spite of her tender years, Nanoka has lived a strange life herself, marked by her traumatic experience as a young child losing both her parents to a grisly accident. But when Nanoka decides to return to that fateful shopping arcade, she is transported to another time and place - a world where supernatural ayakashi thrive in an era long before her own. There she meets Mao, whose abrupt and bizarre question prompts Nanoka to see herself and her curious life in a completely new light. Now the two travelers from different worlds unite as they take on the dark powers that grip both their lives.<br />\n<br><br>(Source: VIZ Media, Hulu, edited)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://www.anime-mao.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/MAOanimation"
-            },
-            {
-              "site": "Hulu",
-              "url": "https://www.hulu.com/series/mao-7c9b966e-4234-4994-b1ef-37242b834d72"
-            },
-            {
-              "site": "Disney Plus",
-              "url": "https://www.disneyplus.com/pt-br/browse/entity-6b6116ca-6f0b-4748-bb8d-b0fbb8eb5119"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2343716"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jh6jFqpP-B97p7eUzipzZzv"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/maoanimation_official"
-            },
-            {
-              "site": "Amazon Prime Video",
-              "url": "https://www.amazon.co.jp/gp/video/detail/amzn1.dv.gti.216799c0-8263-4bc4-b95a-d91f002591c8"
-            },
-            {
-              "site": "Bandai Channel",
-              "url": "https://www.b-ch.com/titles/9635/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Geçmişi ve bugünü birbirine bağlayan bir lanet.<br><br>1900'lerin başlarında Japonya'nın Taisho döneminde yaşayan genç bir mistik olan Mao, hayatını değiştiren bir lanete maruz kaldıktan sonra dokuz yüz uzun yıl boyunca yaşamaya devam eden gizemli bir onmyojidir. Gelecekten gelmiş gibi görünen ortaokul öğrencisi Nanoka Kiba ile tanıştığında dünyası daha da tuhaf bir hal alır. Nanoka, hassas yıllarına rağmen, küçük bir çocukken anne ve babasını tüyler ürpertici bir kazada kaybetmesiyle yaşadığı travmatik deneyimin damgasını vurduğu garip bir hayat yaşamıştır. Ancak Nanoka o uğursuz alışveriş merkezine dönmeye karar verdiğinde başka bir zamana ve yere taşınır; doğaüstü ayakaşilerin kendisinden çok önce geliştiği bir dünyaya. Orada Mao ile tanışır ve Mao'nun ani ve tuhaf sorusu Nanoka'nın kendisini ve meraklı hayatını tamamen yeni bir ışıkta görmesine neden olur. Artık farklı dünyalardan gelen iki gezgin, hayatlarını etkileyen karanlık güçlerle mücadele ederken birleşiyor.<br><br>(Kaynak: VIZ Media, Hulu, düzenlendi)"
+          "descriptionTr": "Efsanevi bir dük ailesinde doğan dövüş dahisi Maria \"Mimi\" Annovazzi, mirasçı olma iddiasını kaybeder ve aniden prestij sahibi olmak için evlenmesi emredilir. Memleketinde hiçbir seçeneği kalmadığından komşu bir krallığa transfer olur; ancak mezuniyet töreninde, varlığından bile haberi bile olmadığı bir nişan nedeniyle hiç tanımadığı bir prens tarafından herkesin önünde terk edilir! Maria bir kız kurusunun hayatına mı mahkum olacak?<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 206951,
@@ -5306,6 +5182,134 @@
           ],
           "isMyList": false,
           "descriptionTr": "Reenkarnasyon hedefim... \"harem seven, mutlu sonla biten, aşırı güçlü bir kahramanın kaburga kemiği\"!? Animasyon geleneklerine meydan okuyan bir isekai reenkarnasyon animesi doğuyor!<br><br>Geleneksel animasyonun ötesinde, bu dizi, stop-motion, kukla tiyatrosu ve canlı aksiyon gibi alışılmadık tekniklerle heyecan verici bir isekai reenkarnasyon hikayesi sunuyor; isekai reenkarnasyonlarından sorumlu soğuk \"Tanrıça\" ve birbiri ardına saçma reenkarnasyonlara katlanan baş kahraman \"Ben\"i içeriyor!<br><br>(Kaynak: YouTube Kanalı, çevrildi)"
+        },
+        {
+          "id": 196012,
+          "title": {
+            "romaji": "MAO",
+            "english": "MAO",
+            "native": "MAO"
+          },
+          "synonyms": [
+            "マオ",
+            "MAO หาญสู้พลิกชะตาอาถรรพณ์"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196012-R3YNjunufpYh.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196012-R3YNjunufpYh.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1780757160,
+            "episode": 10
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama",
+            "Mystery",
+            "Romance",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Exorcism",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Youkai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Manipulation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Demons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 66,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Sunrise"
+              }
+            ]
+          },
+          "description": "<p><b>A curse that binds past and present.</b><br />\n<br><br><br />\nMao, a young mystic who lives in the Taisho period of early 1900s Japan, is a mysterious onmyoji who, after suffering a life-altering curse, has continued to live for nine hundred long years. His world becomes even stranger when he meets Nanoka Kiba, a junior high schooler who seems to have traveled from the future. In spite of her tender years, Nanoka has lived a strange life herself, marked by her traumatic experience as a young child losing both her parents to a grisly accident. But when Nanoka decides to return to that fateful shopping arcade, she is transported to another time and place - a world where supernatural ayakashi thrive in an era long before her own. There she meets Mao, whose abrupt and bizarre question prompts Nanoka to see herself and her curious life in a completely new light. Now the two travelers from different worlds unite as they take on the dark powers that grip both their lives.<br />\n<br><br>(Source: VIZ Media, Hulu, edited)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://www.anime-mao.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/MAOanimation"
+            },
+            {
+              "site": "Hulu",
+              "url": "https://www.hulu.com/series/mao-7c9b966e-4234-4994-b1ef-37242b834d72"
+            },
+            {
+              "site": "Disney Plus",
+              "url": "https://www.disneyplus.com/pt-br/browse/entity-6b6116ca-6f0b-4748-bb8d-b0fbb8eb5119"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2343716"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jh6jFqpP-B97p7eUzipzZzv"
+            },
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/maoanimation_official"
+            },
+            {
+              "site": "Amazon Prime Video",
+              "url": "https://www.amazon.co.jp/gp/video/detail/amzn1.dv.gti.216799c0-8263-4bc4-b95a-d91f002591c8"
+            },
+            {
+              "site": "Bandai Channel",
+              "url": "https://www.b-ch.com/titles/9635/"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Geçmişi ve bugünü birbirine bağlayan bir lanet.<br><br>1900'lerin başlarında Japonya'nın Taisho döneminde yaşayan genç bir mistik olan Mao, hayatını değiştiren bir lanete maruz kaldıktan sonra dokuz yüz uzun yıl boyunca yaşamaya devam eden gizemli bir onmyojidir. Gelecekten gelmiş gibi görünen ortaokul öğrencisi Nanoka Kiba ile tanıştığında dünyası daha da tuhaf bir hal alır. Nanoka, hassas yıllarına rağmen, küçük bir çocukken anne ve babasını tüyler ürpertici bir kazada kaybetmesiyle yaşadığı travmatik deneyimin damgasını vurduğu garip bir hayat yaşamıştır. Ancak Nanoka o uğursuz alışveriş merkezine dönmeye karar verdiğinde başka bir zamana ve yere taşınır; doğaüstü ayakaşilerin kendisinden çok önce geliştiği bir dünyaya. Orada Mao ile tanışır ve Mao'nun ani ve tuhaf sorusu Nanoka'nın kendisini ve meraklı hayatını tamamen yeni bir ışıkta görmesine neden olur. Artık farklı dünyalardan gelen iki gezgin, hayatlarını etkileyen karanlık güçlerle mücadele ederken birleşiyor.<br><br>(Kaynak: VIZ Media, Hulu, düzenlendi)"
         },
         {
           "id": 202381,
@@ -5504,7 +5508,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Minato Kusunoki, ailesinin perili, terk edilmiş kırsal mülkünü yönetmekle görevlendirilir. Bununla birlikte, ezici ruhsal gücü sayesinde Minato, yanlışlıkla tüm yeri arındırarak bir zamanlar lanetli olan mülkü, başıboş tanrılar ve tanrılar için huzurlu bir sığınağa dönüştürüyor! Minato buraya yerleşirken kendisini ilginç ilahi komşularla ve tanrılar arasındaki yaşamın canlı kaosuyla çevrelenmiş halde bulur.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Minato Kusunoki, ailesinin perili, terk edilmiş kırsal mülkünü yönetmekle görevlendirilir. Bununla birlikte, ezici ruhsal gücü sayesinde Minato, kazara tüm mekanı arındırarak, bir zamanlar lanetli olan bu mülkü, başıboş tanrılar ve tanrılar için huzurlu bir sığınağa dönüştürüyor! Minato buraya yerleşirken kendisini ilginç ilahi komşularla ve tanrılar arasındaki yaşamın canlı kaosuyla çevrelenmiş halde bulur.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 186744,
@@ -5619,7 +5623,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kendini iyi hissetmediğinde, sınav olduğunda, okula gitmek istemediğinde... Onun yerini ben alıyorum. Ben onun kopyasıyım. Başka bir amacım yok. Ama aşık olduğumda bu değişti. Aşık olduğum çocuk benim olduğumu anlasın diye saçlarımı topluyorum. Okulu atlıyoruz ve yarın ve sonrasında her gün tekrar buluşacağımıza söz veriyoruz. Ben onun kopyasıyım. Benimle ilgili her şey ödünç alınmış ve boş ama kalbim benim.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Kendini iyi hissetmediğinde, sınav olduğunda, okula gitmek istemediğinde... Onun yerini ben alıyorum. Ben onun kopyasıyım. Başka bir amacım yok. Ama aşık olduğumda bu değişti. Aşık olduğum çocuğun ben olduğumu anlaması için saçlarımı topuz yapıyorum. Okulu atlıyoruz ve yarın ve sonrasında her gün tekrar buluşacağımıza söz veriyoruz. Ben onun kopyasıyım. Benimle ilgili her şey ödünç alınmış ve boş ama kalbim benim.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 198939,
@@ -5960,7 +5964,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Awajima Opera Okulu'nda Japonya'nın dört bir yanından kızlar sahnede bir yer kazanmak için çabalıyor. Wakana müzikal tiyatroya olan aşkıyla hareket ederken Kinue sessiz bir disiplinle çalışıyor. Burslu öğrenci Emi herkesin dikkatini çeker; ama özellikle de hayranlık ve karşılaştırma konusunda zorluk çeken Keiko'nun. Değişen bakış açıları sayesinde iç içe geçen günleri, hırsı, dostluğu ve kendini keşfetmeyi keşfediyor.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Awajima Opera Okulu'nda Japonya'nın dört bir yanından kızlar sahnede bir yer kazanmak için çabalıyor. Wakana müzikal tiyatroya olan aşkıyla hareket ederken Kinue sessiz bir disiplinle çalışıyor. Burslu öğrenci Emi herkesin dikkatini çekiyor, ama özellikle de hayranlık ve karşılaştırma konusunda zorluk çeken Keiko'nun. Değişen bakış açıları sayesinde iç içe geçen günleri, hırsı, dostluğu ve kendini keşfetmeyi keşfediyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 196144,
@@ -6075,7 +6079,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "\"Yukio... Bir arkadaş edineceğim.\" Tetsuo adında utangaç bir çocuk. Sahip olduğu tek şey Yukio adında dev bir robottu. Uzaydan gelen galaktik canavarlara karşı mücadelede “kurtarıcı” oldular. Son savaşın ardından Tetsuo, on yıl aradan sonra ilk kez Dünya'ya döner ve şaşırtıcı bir dünyaya tanık olur. Bu, tüm arazinin kar ve buzla kaplandığı, ölümcül bir dünyaya dönüştüğü donmuş bir Dünya (Kartopu Dünyası olarak adlandırılır)! İnsan ırkına ne oldu? Peki Tetsuo, Yukio'ya verdiği sözü yerine getirebilecek mi?<br><br>(Kaynak: Shogakukan, çevrildi)"
+          "descriptionTr": "\"Yukio... Bir arkadaş edineceğim.\" Tetsuo adında utangaç bir çocuk. Sahip olduğu tek şey Yukio adında dev bir robottu. Uzaydan gelen galaktik canavarlara karşı mücadelede “kurtarıcı” oldular. Son savaşın ardından Tetsuo, on yıl aradan sonra ilk kez Dünya'ya döner ve şaşırtıcı bir dünyaya tanık olur. Bu, tüm arazinin kar ve buzla kaplandığı, ölümcül bir dünyaya dönüştüğü donmuş bir Dünya (kartopu Dünyası olarak adlandırılır)! İnsan ırkına ne oldu? Peki Tetsuo, Yukio'ya verdiği sözü yerine getirebilecek mi?<br><br>(Kaynak: Shogakukan, çevrildi)"
         },
         {
           "id": 197868,
@@ -6170,7 +6174,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bir hizmetçi kendini aniden bir yıl boyunca Japonya'da sıkışmış bulduğunda ne yapmalıdır? Tabii ki yiyin! Taiyaki ve kavun ekmeği gibi tatlılardan takoyaki ve onigiri gibi lezzetli atıştırmalıklara kadar her türlü Japon yemeğini deneyen hizmetçi Suzume Tachibana'yı takip edin! Ancak dikkat edin, Suzume iştahını lezzetli ikramlardan sonra doyururken, sonunda sizinkini bileyebilir!<br><br>(Kaynak: Crunchyroll)<br><br>Not: Maid-san wa Taberu dake, 2. bölümden itibaren dAnimestore, ABEMA ve U-Next'te bir hafta önceden yayınlandı. 1. Bölüm, 1 Nisan 2026'da yayınlandı. Düzenli yayın 5 Nisan 2026'da başladı."
+          "descriptionTr": "Bir hizmetçi kendini aniden bir yıl boyunca Japonya'da sıkışıp kalmış bulduğunda ne yapmalıdır? Tabii ki yiyin! Taiyaki ve kavun ekmeği gibi tatlılardan takoyaki ve onigiri gibi lezzetli atıştırmalıklara kadar her türlü Japon yemeğini deneyen hizmetçi Suzume Tachibana'yı takip edin! Ancak dikkat edin, Suzume iştahını lezzetli ikramlardan sonra doyururken, sonunda sizinkini bileyebilir!<br><br>(Kaynak: Crunchyroll)<br><br>Not: Maid-san wa Taberu dake, 2. bölümden itibaren dAnimestore, ABEMA ve U-Next'te bir hafta önceden yayınlandı. 1. Bölüm, 1 Nisan 2026'da yayınlandı. Düzenli yayın 5 Nisan 2026'da başladı."
         },
         {
           "id": 204319,
