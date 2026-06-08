@@ -262,15 +262,15 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Travel",
               "isMediaSpoiler": false
             },
             {
               "name": "Spearplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -599,6 +599,14 @@
             },
             {
               "name": "Crossdressing",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Guns",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Politics",
               "isMediaSpoiler": false
             }
           ],
@@ -1077,7 +1085,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Sınıfın dışladığı Maki Maehara sonunda ilk arkadaşını edinir: Sınıfın en güzel ikinci kızı ve herkesin ilgi odağı olan Umi Asanagi. Onun kendi liginin dışında olduğuna inanıyor ama beklenmedik arkadaşlıkları büyüdükçe Maki merak etmeye başlıyor: Aralarında arkadaşlıktan daha fazlası olabilir mi?<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Sınıfın dışladığı Maki Maehara, sonunda ilk arkadaşını edinir: Sınıfın en güzel ikinci kızı ve herkesin ilgi odağı olan Umi Asanagi. Onun kendi liginin dışında olduğuna inanıyor ama beklenmedik arkadaşlıkları büyüdükçe Maki merak etmeye başlıyor: Aralarında arkadaşlıktan daha fazlası olabilir mi?<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 170019,
@@ -1356,7 +1364,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yüzyıllar boyunca ölümcül sanatlar, Üstatlar olarak bilinen kişiler tarafından mükemmelleştirildi.<br><br>Bunlar arasında Beş Büyük Ailenin Zehir Ustaları en korkunç güce ve nüfuza sahiptir.<br><br>Zehir Ustaları'nın Gero Ailesi'nin varisi Hikaru Gero, tüm hayatını aşktan veya evlilikten çok uzakta, yeraltı dünyasında geçirmiştir.<br><br>Ancak Gero Ailesi reisi, Hikaru'nun kız kardeşinin soyunu korumak için gerekirse zorla bir varis doğurması gerektiğine karar verince Hikaru, onu ne pahasına olursa olsun korumaya karar verir.<br><br>İşte tam o sırada Hikaru, son işinin hedefi haline gelen parlak bir evlilik dolandırıcısı olan Mei Kinosaki ile karşılaşır.<br><br>Ailenin veraset sorununu çözmenin ve kız kardeşini korumanın tek yolunun evlilik olduğunu anlayan Hikaru, düşünmeden Mei'den bir gelin bulma konusunda yardım ister.<br><br>(Kaynak: EMOTION Etiket Kanalı)"
+          "descriptionTr": "Yüzyıllar boyunca ölümcül sanatlar, Üstatlar olarak bilinen kişiler tarafından mükemmelleştirildi.<br><br>Bunlar arasında Beş Büyük Ailenin Zehir Ustaları en korkunç güce ve nüfuza sahiptir.<br><br>Zehir Ustaları'nın Gero Ailesi'nin varisi Hikaru Gero, tüm hayatını aşktan veya evlilikten çok uzakta, yeraltı dünyasında geçirmiştir.<br><br>Ancak Gero Ailesi reisi, Hikaru'nun kız kardeşinin soyunu korumak için bir varis doğurması gerektiğine karar verince -gerekirse güç kullanarak- Hikaru onu ne pahasına olursa olsun korumaya karar verir.<br><br>İşte tam o sırada Hikaru, son işinin hedefi haline gelen parlak bir evlilik dolandırıcısı olan Mei Kinosaki ile karşılaşır.<br><br>Ailenin veraset sorununu çözmenin ve kız kardeşini korumanın tek yolunun evlilik olduğunu anlayan Hikaru, düşünmeden Mei'den bir gelin bulma konusunda yardım ister.<br><br>(Kaynak: EMOTION Etiket Kanalı)"
         },
         {
           "id": 199221,
@@ -2467,7 +2475,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor - ancak bir şekilde onunla bir ilişkiye mi giriyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk randevu ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor ama sonunda bir şekilde onunla bir ilişki mi kuruyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk buluşma ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 190143,
@@ -2514,15 +2522,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Mythology",
               "isMediaSpoiler": false
             },
             {
               "name": "Shoujo",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Gap",
               "isMediaSpoiler": false
             },
             {
@@ -2532,10 +2540,6 @@
             {
               "name": "Tragedy",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
             },
             {
               "name": "Rehabilitation",
@@ -2550,7 +2554,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Gods",
+              "name": "Age Gap",
               "isMediaSpoiler": false
             },
             {
@@ -2562,15 +2566,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Super Power",
               "isMediaSpoiler": false
             },
             {
-              "name": "Politics",
+              "name": "Gods",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Adult Cast",
+              "name": "Politics",
               "isMediaSpoiler": false
             },
             {
@@ -2582,6 +2590,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Achromatic",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Crime",
               "isMediaSpoiler": false
             },
@@ -2590,7 +2602,11 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Achromatic",
+              "name": "Guns",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Terrorism",
               "isMediaSpoiler": false
             }
           ],
@@ -2782,10 +2798,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Acting",
               "isMediaSpoiler": false
             },
@@ -2794,11 +2806,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Revenge",
+              "name": "Coming of Age",
               "isMediaSpoiler": false
             },
             {
-              "name": "Found Family",
+              "name": "Revenge",
               "isMediaSpoiler": false
             },
             {
@@ -2806,11 +2818,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Adult Cast",
+              "name": "Found Family",
               "isMediaSpoiler": false
             },
             {
-              "name": "Family Life",
+              "name": "POV",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
@@ -2818,7 +2834,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "POV",
+              "name": "Family Life",
               "isMediaSpoiler": false
             },
             {
@@ -3067,7 +3083,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Sevgiyle \"KAngel\" olarak bilinen OMGkawaiiAngel, 10 milyon abonesiyle en iyi yayıncı kızlardan biri ve onu çalışırken görmeden bir gün geçmiyor. İster internette, ister televizyonda, ister canlı bir şovda olsun, etrafı her zaman tezahürat yapan hayranlarıyla çevrilidir.<br><br>Karamazov adında üç kızdan oluşan bir yayın birimi, KAngel'in popülaritesini yakalamaya çalışıyor.<br><br>Ve bu yayıncıların dünyasından çok uzakta olan Kache, bir temalı kafede çalışırken beleşçi erkek arkadaşıyla birlikte yaşayan bir kızdır.<br><br>Yıldız gibi parlayan bir kız ve o parlaklığa ulaşan kızların ördüğü dünyayı büyüleyen \"İnternet Meleği\" ile ekranın diğer tarafındaki \"sen\"in hikayesi burada başlıyor.<br><br>(Kaynak: Resmi Site)<br><br>Not: Yayınlanmadan önce, yeniden düzenlenen ve kurgulanan ilk 3 bölümün teatral ön gösterimi olan \"NEEDY GIRL OVERDOSE -OVERTURE-\" 6 Mart 2026'da Japonya'da gösterime girdi."
+          "descriptionTr": "Sevgiyle \"KAngel\" olarak bilinen OMGkawaiiAngel, 10 milyon abonesiyle en iyi yayıncı kızlardan biri ve onu çalışırken görmeden bir gün geçmiyor. İster internette, ister televizyonda, ister canlı bir şovda olsun, etrafı her zaman tezahürat yapan hayranlarıyla çevrilidir.<br><br>Karamazov adında üç kızdan oluşan bir yayın birimi, KAngel'in popülaritesini yakalamaya çalışıyor.<br><br>Ve bu yayıncıların dünyasından çok uzakta olan Kache, bir temalı kafede çalışırken beleşçi erkek arkadaşıyla birlikte yaşayan bir kızdır.<br><br>Yıldız gibi parlayan bir kız ve o parlaklığa ulaşan kızların ördüğü dünyayı büyüleyen \"İnternet Meleği\" ile ekranın diğer tarafındaki \"sen\"in hikayesi burada başlıyor.<br><br>(Kaynak: Resmi Site)<br><br>Not: Yayınlanmadan önce, yeniden düzenlenen ve kurgulanan ilk 3 bölümün teatral ön gösterimi olan \"NEEDY GIRL OVERDOSE -OVERTURE-\", 6 Mart 2026'da Japonya'da gösterime girdi."
         },
         {
           "id": 184492,
@@ -3492,7 +3508,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.<br><br>Bir soyluyla yaşadığı felaketle sonuçlanan karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra sıkı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi, her türlü değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!<br><br>(Kaynak: J-Novel Kulübü)"
+          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.<br><br>Bir soyluyla yaşadığı felaketle sonuçlanan karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra katı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi her türden değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!<br><br>(Kaynak: J-Novel Kulübü)"
         },
         {
           "id": 200769,
@@ -3912,11 +3928,11 @@
           ],
           "tags": [
             {
-              "name": "Female Protagonist",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -4479,7 +4495,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu gücendirirseniz, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlı ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacak... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetti.<br><br>(Kaynak: HİDİV)"
+          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu kızdırırsanız, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlı ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacak... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetti.<br><br>(Kaynak: HİDİV)"
         },
         {
           "id": 195333,
@@ -4724,8 +4740,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196974-wOXpVEgXm7aR.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1780842600,
-            "episode": 9
+            "airingAt": 1781447400,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -5415,7 +5431,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Sakuya Otsuki, asistanı Lilithea ile birlikte babasının izinden gitmeye çalışan efsanevi bir dedektifin oğludur. Ancak bu lise dedektifinde farklı olan bir şeyler vardır. Nereye giderse gitsin, bir cinayet kurbanı olarak her zaman kendini davaların içine sokmayı başarıyor! Sakuya lüks bir yolcu gemisine sızmakla görevlendirilince kendini bir kez daha öldürülmüş halde bulur. Ancak gözlerini her yeniden açtığında Lilithea yanındadır ve gizemin derinliklerine inmesine yardım etmeye hazırdır...<br><br>(Kaynak: Yen Press)"
+          "descriptionTr": "Sakuya Otsuki, asistanı Lilithea ile birlikte babasının izinden gitmeye çalışan efsanevi bir dedektifin oğludur. Ancak bu lise hafiyesinde farklı olan bir şeyler vardır. Nereye giderse gitsin, bir cinayet kurbanı olarak her zaman kendini davaların içine sokmayı başarıyor! Sakuya lüks bir yolcu gemisine sızmakla görevlendirilince kendini bir kez daha öldürülmüş halde bulur. Ancak gözlerini her yeniden açtığında Lilithea yanındadır ve gizemin derinliklerine inmesine yardım etmeye hazırdır...<br><br>(Kaynak: Yen Press)"
         },
         {
           "id": 196029,
@@ -5629,7 +5645,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kendini iyi hissetmediğinde, sınav olduğunda, okula gitmek istemediğinde... Onun yerini ben alıyorum. Ben onun kopyasıyım. Başka bir amacım yok. Ama aşık olduğumda bu değişti. Aşık olduğum çocuğun ben olduğumu anlaması için saçlarımı topuz yapıyorum. Okulu atlıyoruz ve yarın ve sonrasında her gün tekrar buluşacağımıza söz veriyoruz. Ben onun kopyasıyım. Benimle ilgili her şey ödünç alınmış ve boş ama kalbim benim.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Kendini iyi hissetmediğinde, sınav olduğunda, okula gitmek istemediğinde... Onun yerini ben alıyorum. Ben onun kopyasıyım. Başka bir amacım yok. Ama aşık olduğumda bu değişti. Aşık olduğum çocuk benim olduğumu anlasın diye saçlarımı topluyorum. Okulu atlıyoruz ve yarın ve sonrasında her gün tekrar buluşacağımıza söz veriyoruz. Ben onun kopyasıyım. Benimle ilgili her şey ödünç alınmış ve boş ama kalbim benim.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 198939,
@@ -5737,104 +5753,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou'nun üçüncü sezonu."
-        },
-        {
-          "id": 202523,
-          "title": {
-            "romaji": "Marika-chan no Koukando wa Bukkowareteiru",
-            "english": "Marika's Love Meter Malfunction",
-            "native": "茉莉花ちゃんの好感度はぶっ壊れている"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 6
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202523-NHeyiypiPnGP.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202523-NHeyiypiPnGP.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1780848000,
-            "episode": 8
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Ecchi",
-            "Romance",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yandere",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Femboy",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 47,
-          "studios": {
-            "nodes": [
-              {
-                "name": "studio LEO"
-              }
-            ]
-          },
-          "description": "<p>Confessing to my childhood friend Marika was impossible for someone as unpopular as me. So, I did what any desperate boy would do—I wished upon a shooting star! When I woke up, that dream had come true?! I could see a love meter for people, just like in a love simulation game. Once I realized this was real and not a dream I went straight to see Marika. Her love meter was so low it had broken and practically fallen all the way to hell! If she hated me so much why was she so nice?! Is this how she really felt or...?!<br />\n<br><br><br />\n(Source: Coolmic)<br />\n<br><br><br />\n<i>Note: Episode 1 received an advanced distribution on AnimeFesta on March 13th, 2026. The start date reflects the start of the regular series broadcasting.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/marikowa_off/"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://marikowa.af-original.com"
-            },
-            {
-              "site": "OceanVeil",
-              "url": "https://oceanveil.net/anime_titles/398"
-            },
-            {
-              "site": "OceanVeil",
-              "url": "https://oceanveil.net/anime_titles/399"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Benim gibi sevilmeyen biri için çocukluk arkadaşım Marika'ya itirafta bulunmak imkansızdı. Ben de her çaresiz çocuğun yapacağı şeyi yaptım; kayan bir yıldızın olmasını diledim! Uyandığımda bu rüya gerçekleşmiş miydi? Tıpkı bir aşk simülasyon oyununda olduğu gibi, insanlar için bir aşk ölçer görebiliyordum. Bunun bir rüya değil de gerçek olduğunu anlayınca doğrudan Marika'yı görmeye gittim. Aşk ölçeri o kadar düşüktü ki kırılmıştı ve neredeyse cehenneme kadar düşmüştü! Madem benden bu kadar nefret ediyordu, neden bu kadar iyiydi? Gerçekten böyle mi hissetti yoksa...?!<br><br>(Kaynak: Coolmic)<br><br>Not: Bölüm 1, 13 Mart 2026'da AnimeFesta'da gelişmiş bir dağıtım aldı. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
         },
         {
           "id": 196144,
@@ -5949,7 +5867,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "\"Yukio... Bir arkadaş edineceğim.\" Tetsuo adında utangaç bir çocuk. Sahip olduğu tek şey Yukio adında dev bir robottu. Uzaydan gelen galaktik canavarlara karşı mücadelede “kurtarıcı” oldular. Son savaşın ardından Tetsuo, on yıl aradan sonra ilk kez Dünya'ya döner ve şaşırtıcı bir dünyaya tanık olur. Bu, tüm arazinin kar ve buzla kaplandığı, ölümcül bir dünyaya dönüştüğü donmuş bir Dünya (kartopu Dünyası olarak adlandırılır)! İnsan ırkına ne oldu? Peki Tetsuo, Yukio'ya verdiği sözü yerine getirebilecek mi?<br><br>(Kaynak: Shogakukan, çevrildi)"
+          "descriptionTr": "\"Yukio... Bir arkadaş edineceğim.\" Tetsuo adında utangaç bir çocuk. Sahip olduğu tek şey Yukio adında dev bir robottu. Uzaydan gelen galaktik canavarlara karşı mücadelede “kurtarıcı” oldular. Son savaşın ardından Tetsuo, on yıl aradan sonra ilk kez Dünya'ya döner ve şaşırtıcı bir dünyaya tanık olur. Bu, tüm arazinin kar ve buzla kaplandığı, ölümcül bir dünyaya dönüştüğü donmuş bir Dünya (Kartopu Dünyası olarak adlandırılır)! İnsan ırkına ne oldu? Peki Tetsuo, Yukio'ya verdiği sözü yerine getirebilecek mi?<br><br>(Kaynak: Shogakukan, çevrildi)"
         },
         {
           "id": 177501,
@@ -6137,6 +6055,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Episodic",
               "isMediaSpoiler": false
             },
@@ -6201,8 +6123,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1780848300,
-            "episode": 10
+            "airingAt": 1781453100,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -6420,6 +6342,119 @@
           ],
           "isMyList": false,
           "descriptionTr": "Peki artık oda arkadaşlarına sahip olmanın anlamı bu mu? 24 yaşındaki ofis çalışanı Rinko, yalnız yaşıyor ve gizlice bir otaku. Bir gün dairesi duvardaki bir \"delik\" aracılığıyla iki komşu odaya bağlanır. Soldaki odada Rinko'ya aşırı tatlı davranan taze yüzlü ama gizemli bir adam var. Sağdaki oda, şiddet eğilimi olan ve benzer şekilde gizemli bir adam tarafından işgal ediliyor... Ama bekleyin! \"Ben...sanırım onu ​​tanıyorum!\" Rinko'nun tek yalnızlık kaynağı olan dairesi altüst olmuştur. Artık her gün yürek hoplatan sürprizlerle dolu!<br><br>(Kaynak: Manga Plaza)"
+        },
+        {
+          "id": 206166,
+          "title": {
+            "romaji": "Ingoku Danchi",
+            "english": "Ingoku Danchi:Deviant's Apartment Complex",
+            "native": "インゴクダンチ"
+          },
+          "synonyms": [
+            "Perverts' Apartment Complex ",
+            "淫獄団地"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 6
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206166-xTJ9h6RmMCKR.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206166-xTJ9h6RmMCKR.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1781453400,
+            "episode": 11
+          },
+          "isAdult": false,
+          "genres": [
+            "Ecchi"
+          ],
+          "tags": [
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Henshin",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Large Breasts",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Femdom",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Hypersexuality",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Bondage",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Gap",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "MILF",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cheating",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Masturbation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Sex Toys",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 48,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Elias"
+              }
+            ]
+          },
+          "description": "<p>It's a place where greedy wives live... A married woman's erotic suspense!<br />\n<br><br><br />\nThis is the extreme suspense of a married woman by the author of <i>Libido Hunter Takeru</i>! In this story, a group of perverted married women wearing the mysterious &quot;libido cross&quot; costume that amplifies human desires come under attack! Protect the apartment complex from the threat of perverted wives, new janitor Yoshida!</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/ingoku_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://ingoku-danchi.deregula.com/"
+            },
+            {
+              "site": "OceanVeil",
+              "url": "https://oceanveil.net/anime_titles/412"
+            },
+            {
+              "site": "OceanVeil",
+              "url": "https://oceanveil.net/anime_titles/411"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Açgözlü kadınların yaşadığı bir yer... Evli bir kadının erotik gerilimi!<br><br>Bu, Libido Avcısı Takeru'nun yazarı tarafından evli bir kadının aşırı gerilimidir! Bu hikayede, insan arzularını güçlendiren gizemli \"libido haçı\" kostümünü giyen bir grup sapkın evli kadın saldırıya uğruyor! Apartman kompleksini sapık eşlerin tehdidinden koruyun, yeni kapıcı Yoshida!"
         }
       ]
     }
