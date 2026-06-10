@@ -1308,8 +1308,8 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": false
+              "name": "Chimera",
+              "isMediaSpoiler": true
             },
             {
               "name": "Animals",
@@ -1320,8 +1320,8 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Chimera",
-              "isMediaSpoiler": true
+              "name": "Yuri",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 75,
@@ -1979,6 +1979,10 @@
             },
             {
               "name": "Anachronism",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Agriculture",
               "isMediaSpoiler": false
             },
             {
@@ -2959,23 +2963,27 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Drugs",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": false
             },
             {
               "name": "Idol",
               "isMediaSpoiler": false
             },
             {
-              "name": "Tragedy",
-              "isMediaSpoiler": false
+              "name": "Body Image",
+              "isMediaSpoiler": true
             },
             {
               "name": "VTuber",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tragedy",
               "isMediaSpoiler": false
             },
             {
@@ -2987,24 +2995,20 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Rape",
-              "isMediaSpoiler": true
+              "name": "Mixed Media",
+              "isMediaSpoiler": false
             },
             {
               "name": "CGI",
               "isMediaSpoiler": false
             },
             {
-              "name": "Mixed Media",
-              "isMediaSpoiler": false
+              "name": "Rape",
+              "isMediaSpoiler": true
             },
             {
               "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Psychosexual",
-              "isMediaSpoiler": true
             },
             {
               "name": "Work",
@@ -3019,20 +3023,20 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Nudity",
+              "name": "Bullying",
               "isMediaSpoiler": true
             },
             {
-              "name": "Bullying",
+              "name": "Psychosexual",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Nudity",
               "isMediaSpoiler": true
             },
             {
               "name": "Video Games",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Body Image",
-              "isMediaSpoiler": true
             },
             {
               "name": "Masturbation",
@@ -3932,15 +3936,15 @@
           ],
           "tags": [
             {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
               "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
@@ -5098,8 +5102,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206951-P1BNNpbqN4zG.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781024340,
-            "episode": 10
+            "airingAt": 1781629140,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -5573,11 +5577,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -5585,7 +5589,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Super Power",
+              "name": "Urban Fantasy",
               "isMediaSpoiler": false
             },
             {
@@ -5597,7 +5601,7 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Urban Fantasy",
+              "name": "Super Power",
               "isMediaSpoiler": false
             },
             {
@@ -5623,6 +5627,10 @@
             {
               "name": "Tragedy",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Dissociative Identities",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 67,
@@ -5791,10 +5799,6 @@
           ],
           "tags": [
             {
-              "name": "Full CGI",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Post-Apocalyptic",
               "isMediaSpoiler": false
             },
@@ -5803,7 +5807,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Full CGI",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Kaiju",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
               "isMediaSpoiler": false
             },
             {
@@ -5815,11 +5827,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Aliens",
+              "name": "Snowscape",
               "isMediaSpoiler": false
             },
             {
-              "name": "Snowscape",
+              "name": "Aliens",
               "isMediaSpoiler": false
             },
             {
@@ -5835,11 +5847,11 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Space Opera",
+              "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
-              "name": "Shounen",
+              "name": "Space Opera",
               "isMediaSpoiler": false
             }
           ],
@@ -6055,11 +6067,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Female Cast",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -6267,8 +6279,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202985-CJxaDe1kJTyp.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781022540,
-            "episode": 10
+            "airingAt": 1781627340,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
