@@ -1396,8 +1396,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199221-b3W0FfJd4zMy.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781182800,
-            "episode": 11
+            "airingAt": 1781787600,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -1656,8 +1656,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186497-naXtQFMHJaR1.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781189760,
-            "episode": 11
+            "airingAt": 1781794560,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -1775,8 +1775,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182483-Nzix9ntq3CVj.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781181000,
-            "episode": 10
+            "airingAt": 1781785800,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -1962,11 +1962,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Satire",
+              "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Ensemble Cast",
+              "name": "Satire",
               "isMediaSpoiler": false
             },
             {
@@ -2487,7 +2487,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor ama sonunda bir şekilde onunla bir ilişki mi kuruyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk randevu ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor - ancak bir şekilde onunla bir ilişkiye mi giriyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk randevu ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 190143,
@@ -3639,154 +3639,6 @@
           "descriptionTr": "Aniden başka bir dünyaya transfer edilen lise öğrencisi Hibiki, canavarların yaşadığı bir fantezi dünyasının uçsuz bucaksız otlaklarında tek başına dolaşır. Sahip olduğu tek şey \"Değerlendirme\" gibi savaş dışı becerilerdir! Umutsuz bir durumdan, karşılaşmalarla kurtulur ve çok güçlü yetenekleri gelişir! Mucizevi tersine çevirme hileleriyle dolu başka bir dünya macera hikayesi ortaya çıktı!<br><br>(Kaynak: Alfa Manga)<br><br>Not: Saikyou no Shokugyou ve Yuusha demosu Kenja demosu Naku Kanteishi (Kari) Rashii desu yo? dAnimestore'daki TV yayınından bir hafta önce yayınlandı ve ABEMA 2. bölümden itibaren yayınlandı. İlk bölüm 2 Nisan 2026'da yayınlandı. 4 Nisan 2026'da düzenli yayına başladı."
         },
         {
-          "id": 179950,
-          "title": {
-            "romaji": "Reincarnation no Kaben",
-            "english": "Petals of Reincarnation",
-            "native": "リィンカーネーションの花弁"
-          },
-          "synonyms": [
-            "リンネ",
-            "มหาศึกวีรชนข้ามภพ",
-            "輪迴的花瓣",
-            "Cánh Hoa Luân Hồi"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 3
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179950-g95odyBfYEbU.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179950-g95odyBfYEbU.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179950-j8dYIqYi8KLC.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1781191800,
-            "episode": 11
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Memory Manipulation",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gender Bending",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Anti-Hero",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cosplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Artificial Intelligence",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Disability",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Military",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ninja",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cute Boys Doing Cute Things",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Twins",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Suicide",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 60,
-          "studios": {
-            "nodes": [
-              {
-                "name": "BENTEN Film"
-              }
-            ]
-          },
-          "description": "<p>Touya Senji is talentless. He's tried everything but he can't seem to excel at anything no matter how hard he tries. Then he meets Haito, a Kendo champion and... humanity's protector? She uses the Stem of Reincarnation to draw on the abilities of her past lives, but it only works when she slits her own throat. And now she wants Touya to join her?!<br />\n<br><br><br />\n(Source: Mangamo, edited)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/PRCN_info"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://petals-of-reincarnation-anime.com/"
-            },
-            {
-              "site": "HIDIVE",
-              "url": "https://www.hidive.com/season/35228"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgAgNZonRZtMMkb823NExcD"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2343947"
-            }
-          ],
-          "isMyList": true,
-          "descriptionTr": "Touya Senji yeteneksiz. Her şeyi denedi ama ne kadar uğraşırsa uğraşsın hiçbir şeyde başarılı olamıyor. Daha sonra bir Kendo şampiyonu ve insanlığın koruyucusu olan Haito ile tanışır. Geçmiş yaşamlarının yeteneklerinden yararlanmak için Reenkarnasyon Kökünü kullanıyor, ancak bu yalnızca kendi boğazını kestiğinde işe yarıyor. Şimdi de Touya'nın kendisine katılmasını mı istiyor?<br><br>(Kaynak: Mangamo, düzenlendi)"
-        },
-        {
           "id": 189987,
           "title": {
             "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
@@ -3912,6 +3764,154 @@
           "descriptionTr": "Sakuradaimon okulun müdürüdür. Vali, disiplini uygulama yetkisine sahip bir öğrencidir. Bir sınıf başkanı olarak diğer öğrencilere rol model olması gerekiyor ama ne yazık ki mükemmel değil. Kohinata, Sakuradaimon'un uygun okul kıyafetleri giymesi konusunda disipline etmeye çalıştığı kişilerden biridir, ancak şu ana kadar itaatsiz olmuştur.<br><br>Ve bu, ikisinin birbirleriyle etkileşime girdiği bir hikaye."
         },
         {
+          "id": 179950,
+          "title": {
+            "romaji": "Reincarnation no Kaben",
+            "english": "Petals of Reincarnation",
+            "native": "リィンカーネーションの花弁"
+          },
+          "synonyms": [
+            "リンネ",
+            "มหาศึกวีรชนข้ามภพ",
+            "輪迴的花瓣",
+            "Cánh Hoa Luân Hồi"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 3
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179950-g95odyBfYEbU.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179950-g95odyBfYEbU.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179950-j8dYIqYi8KLC.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1781796600,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Memory Manipulation",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gender Bending",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anti-Hero",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cosplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Artificial Intelligence",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Disability",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Military",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ninja",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cute Boys Doing Cute Things",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Twins",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Suicide",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 60,
+          "studios": {
+            "nodes": [
+              {
+                "name": "BENTEN Film"
+              }
+            ]
+          },
+          "description": "<p>Touya Senji is talentless. He's tried everything but he can't seem to excel at anything no matter how hard he tries. Then he meets Haito, a Kendo champion and... humanity's protector? She uses the Stem of Reincarnation to draw on the abilities of her past lives, but it only works when she slits her own throat. And now she wants Touya to join her?!<br />\n<br><br><br />\n(Source: Mangamo, edited)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/PRCN_info"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://petals-of-reincarnation-anime.com/"
+            },
+            {
+              "site": "HIDIVE",
+              "url": "https://www.hidive.com/season/35228"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgAgNZonRZtMMkb823NExcD"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2343947"
+            }
+          ],
+          "isMyList": true,
+          "descriptionTr": "Touya Senji yeteneksiz. Her şeyi denedi ama ne kadar uğraşırsa uğraşsın hiçbir şeyde başarılı olamıyor. Daha sonra bir Kendo şampiyonu ve insanlığın koruyucusu olan Haito ile tanışır. Geçmiş yaşamlarının yeteneklerinden yararlanmak için Reenkarnasyon Kökünü kullanıyor, ancak bu yalnızca kendi boğazını kestiğinde işe yarıyor. Şimdi de Touya'nın kendisine katılmasını mı istiyor?<br><br>(Kaynak: Mangamo, düzenlendi)"
+        },
+        {
           "id": 187869,
           "title": {
             "romaji": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
@@ -4027,7 +4027,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 78,
+          "averageScore": 79,
           "studios": {
             "nodes": [
               {
@@ -4059,7 +4059,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yeni üniversite hayatı, yeni yurt arkadaşları... ve yepyeni bir içki dünyası! Botan Kamiina, sessiz yurt lideri Ibuki Tonami'yi tek başına içki içerken fark ettikten sonra alkolünden ilk yudumunu alıyor. Botan, shochu'dan viskiye kadar içki içmenin keyfini arkadaşlarıyla paylaşırken, Ibuki yavaş yavaş bazı zevklerin paylaşıldığında daha iyi olduğunu öğrenir.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Yeni üniversite hayatı, yeni yurt arkadaşları... ve yepyeni bir içki dünyası! Botan Kamiina, sessiz yurt lideri Ibuki Tonami'yi tek başına içki içerken fark ettikten sonra ilk alkol yudumunu alıyor. Botan, shochu'dan viskiye kadar içki içmenin keyfini arkadaşlarıyla paylaşırken, Ibuki yavaş yavaş bazı zevklerin paylaşıldığında daha iyi olduğunu öğrenir.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 180228,
@@ -4510,7 +4510,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu gücendirirseniz, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlı ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacak... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetti.<br><br>(Kaynak: HİDİV)"
+          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu gücendirirseniz, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlıdır ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacaktır... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetmiştir.<br><br>(Kaynak: HİDİV)"
         },
         {
           "id": 195333,
@@ -4615,7 +4615,123 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Hepimizin liseden utanç verici anıları ya da derin pişmanlıkları var, değil mi? Sosyal açıdan kaygılı üniversite son sınıf öğrencisi Natsuki Haibara da öyle. Hayatının o zamanlarını düşündüğünde, sahip olduğu tek şey mutlu bir ergenlik dönemine dair geçici fantezilerdir. O halde, kendisini açıklanamaz bir şekilde yedi yıl geçmişte, lisedeki ilk yılından bir ay önce bulduğunda yaşadığı şaşkınlığı ve şaşkınlığı bir düşünün! Haibara daha önceki hatalarından kaçınabilecek mi, okulun sosyal piramidinin tepesine ulaşabilecek mi ve sonunda hayallerindeki kıza kavuşabilecek mi? Yoksa okulun en nefret edilen çocuğu olarak üç yıllık yalnızlığı yeniden mi yaşamak zorunda kalacak? Başarılı olmak için bir egzersiz programından çevrimiçi nasıl yapılır kılavuzlarına, bir çocukluk arkadaşına ve bolca saf iradeye kadar alabileceği her türlü yardıma ihtiyacı olacak. Haibara'nın ergenlik yıllarına ikinci bir şans vermesini izleyin!<br><br>(Kaynak: J-Novel Kulübü)<br><br>Not: İlk 4 bölüm 15 Mart 2026 tarihinde ön gösterime girmiştir. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
+          "descriptionTr": "Hepimizin liseden utanç verici anıları ya da derin pişmanlıkları var, değil mi? Sosyal kaygılı üniversite son sınıf öğrencisi Natsuki Haibara da öyle. Hayatının o zamanlarını düşündüğünde, sahip olduğu tek şey mutlu bir ergenlik dönemine dair geçici fantezilerdir. O halde, kendisini açıklanamaz bir şekilde yedi yıl geçmişte, lisedeki ilk yılından bir ay önce bulduğunda yaşadığı şaşkınlığı ve şaşkınlığı bir düşünün! Haibara daha önceki hatalarından kaçınabilecek mi, okulun sosyal piramidinin tepesine ulaşabilecek mi ve sonunda hayallerindeki kıza kavuşabilecek mi? Yoksa okulun en nefret edilen çocuğu olarak üç yıllık yalnızlığı yeniden mi yaşamak zorunda kalacak? Başarılı olmak için bir egzersiz programından çevrimiçi nasıl yapılır kılavuzlarına, bir çocukluk arkadaşına ve bolca saf iradeye kadar alabileceği her türlü yardıma ihtiyacı olacak. Haibara'nın ergenlik yıllarına ikinci bir şans vermesini izleyin!<br><br>(Kaynak: J-Novel Kulübü)<br><br>Not: İlk 4 bölüm 15 Mart 2026 tarihinde ön gösterime girmiştir. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
+        },
+        {
+          "id": 195268,
+          "title": {
+            "romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2",
+            "english": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
+            "native": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2"
+          },
+          "synonyms": [
+            "LasTame 2",
+            "ラス為 2",
+            "โศกนาฏกรรมของตัวร้ายสุดแกร่งอย่างราชินีลาสบอสจะขอถวายตัวเพื่อปวงชน ซีซั่น 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 7
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195268-HkEv0z9iTCJK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195268-HkEv0z9iTCJK.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195268-dsEz7gM76ykF.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1781614800,
+            "episode": 11
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Villainess",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ojou-sama",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Family Life",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Skip",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 69,
+          "studios": {
+            "nodes": [
+              {
+                "name": "OLM"
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/lastame_pr"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://lastame.com/"
+            },
+            {
+              "site": "HIDIVE",
+              "url": "https://www.hidive.com/season/35231"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1gxoIoRFrIlzxe5FM1yZfe"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/upxd1s2it9"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Higeki no Genkyou'dan Naru Saikyou Gedou'ya Last Boss Joou wa Tami no Tame ni Tsukushimasu'nun ikinci sezonu."
         },
         {
           "id": 196974,
@@ -4755,122 +4871,6 @@
           "descriptionTr": "Spica Başak çırak bir cadıdır ancak herhangi bir sihir kullanamaz. Hayallerindeki akademiye girebilmek için ustası olacak birine ihtiyacı var ama ne parası ne de hiçbir bağlantısı var. Aniden önünde sihir kullanabilen, konuşan gizemli bir kara kedi belirir!! Spica sihir öğrenmek istiyor, kara kedi ise lanetinin kırılmasını istiyor; hedefler aynı yolda. Böylece gizli bir usta-çırak ilişkisi doğdu! Ama laneti bozmanın anahtarı onu öpmek…?! Sakar bir cadı ve kara bir kedinin öğretileri; sihir akademisi fantezisi burada başlıyor!!<br><br>(Kaynak: K Manga)"
         },
         {
-          "id": 195268,
-          "title": {
-            "romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2",
-            "english": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
-            "native": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2"
-          },
-          "synonyms": [
-            "LasTame 2",
-            "ラス為 2",
-            "โศกนาฏกรรมของตัวร้ายสุดแกร่งอย่างราชินีลาสบอสจะขอถวายตัวเพื่อปวงชน ซีซั่น 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 7
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195268-HkEv0z9iTCJK.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195268-HkEv0z9iTCJK.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195268-dsEz7gM76ykF.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1781614800,
-            "episode": 11
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Villainess",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ojou-sama",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Family Life",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Skip",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 69,
-          "studios": {
-            "nodes": [
-              {
-                "name": "OLM"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/lastame_pr"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://lastame.com/"
-            },
-            {
-              "site": "HIDIVE",
-              "url": "https://www.hidive.com/season/35231"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1gxoIoRFrIlzxe5FM1yZfe"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/upxd1s2it9"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Higeki no Genkyou'dan Naru Saikyou Gedou'ya Last Boss Joou wa Tami no Tame ni Tsukushimasu'nun ikinci sezonu."
-        },
-        {
           "id": 199029,
           "title": {
             "romaji": "Kanojo, Okarishimasu 5th Season",
@@ -4944,6 +4944,10 @@
             {
               "name": "Nudity",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Parody",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 57,
@@ -5083,7 +5087,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Efsanevi bir dük ailesinde doğan dövüş dahisi Maria \"Mimi\" Annovazzi, mirasçı olma iddiasını kaybeder ve aniden prestij sahibi olmak için evlenmesi emredilir. Memleketinde hiçbir seçeneği kalmadığından komşu bir krallığa transfer olur; ancak mezuniyet töreninde, varlığından bile haberi bile olmadığı bir nişan nedeniyle hiç tanımadığı bir prens tarafından herkesin önünde terk edilir! Maria bir kız kurusunun hayatına mı mahkum olacak?<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Efsanevi bir dük ailesinde doğan dövüş dahisi Maria \"Mimi\" Annovazzi, mirasçı olma iddiasını kaybeder ve aniden prestij sahibi olmak için evlenmesi emredilir. Memleketinde hiçbir seçeneği kalmadığından komşu bir krallığa transfer olur; ancak mezuniyet töreninde, varlığından bile habersiz olduğu bir nişan nedeniyle hiç tanımadığı bir prens tarafından herkesin önünde terk edilir! Maria bir kız kurusunun hayatına mı mahkum olacak?<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 206951,
@@ -5096,7 +5100,8 @@
             "Goddess: \"What Do You Want to Turn Into When You're Reincarnated in Another World?\" Me: \"Into a Hero's Rib\"",
             "勇者の肋骨",
             "Yuusha no Rokkotsu",
-            "Reinkarnasiku... Ingin Jadi Tulang Rusuk Pahlawan!"
+            "Reinkarnasiku... Ingin Jadi Tulang Rusuk Pahlawan!",
+            "ท่านเทพธิดาจัดมา ผมก็จัดไป ขอเกิดใหม่เป็นซี่โครงผู้กล้าละกันครับ"
           ],
           "startDate": {
             "year": 2026,
@@ -5177,6 +5182,10 @@
             {
               "name": "Artificial Intelligence",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 65,
@@ -5545,7 +5554,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Minato Kusunoki, ailesinin perili, terk edilmiş kırsal mülkünü yönetmekle görevlendirilir. Bununla birlikte, ezici ruhsal gücü sayesinde Minato, kazara tüm mekanı arındırarak, bir zamanlar lanetli olan bu mülkü, başıboş tanrılar ve tanrılar için huzurlu bir sığınağa dönüştürüyor! Minato buraya yerleşirken kendisini ilginç ilahi komşularla ve tanrılar arasındaki yaşamın canlı kaosuyla çevrelenmiş halde bulur.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Minato Kusunoki, ailesinin perili, terk edilmiş kırsal mülkünü yönetmekle görevlendirilir. Bununla birlikte, ezici ruhsal gücü sayesinde Minato, yanlışlıkla tüm yeri arındırarak bir zamanlar lanetli olan mülkü, başıboş tanrılar ve tanrılar için huzurlu bir sığınağa dönüştürüyor! Minato buraya yerleşirken kendisini ilginç ilahi komşularla ve tanrılar arasındaki yaşamın canlı kaosuyla çevrelenmiş halde bulur.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 186744,
@@ -6026,7 +6035,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Awajima Opera Okulu'nda Japonya'nın dört bir yanından kızlar sahnede bir yer kazanmak için çabalıyor. Wakana müzikal tiyatroya olan aşkıyla hareket ederken Kinue sessiz bir disiplinle çalışıyor. Burslu öğrenci Emi herkesin dikkatini çeker; ama özellikle de hayranlık ve karşılaştırma konusunda zorluk çeken Keiko'nun. Değişen bakış açıları sayesinde iç içe geçen günleri, hırsı, dostluğu ve kendini keşfetmeyi keşfediyor.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Awajima Opera Okulu'nda Japonya'nın dört bir yanından kızlar sahnede bir yer kazanmak için çabalıyor. Wakana müzikal tiyatroya olan aşkıyla hareket ederken Kinue sessiz bir disiplinle çalışıyor. Burslu öğrenci Emi herkesin dikkatini çekiyor, ama özellikle de hayranlık ve karşılaştırma konusunda zorluk çeken Keiko'nun. Değişen bakış açıları sayesinde iç içe geçen günleri, hırsı, dostluğu ve kendini keşfetmeyi keşfediyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 204319,
@@ -6166,7 +6175,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Souta, ablası Kaori'nin yönlendirmesiyle aniden Hokuei Üniversitesi Kadın Voleybol Kulübü'nün yurt müdürü ve koçu oldu. Orada ilk aşkı Ayano ile önemli bir buluşma yaşadı... Kızlar yurdunda! Spor salonunda! Otelde mi? Onu bekleyen şey, kendisinden daha büyük kızlar tarafından patronluk taslanacağı günlerdi! Boyut Farklılıklarından Mutlu Bir Harem Rom-Com'u ♡ Kuzey Ovalarında Kocaman Doğdu!!<br><br>(Kaynak: OceanVeil)<br><br>Not: Bölüm 1, 13 Mart 2026'da AnimeFesta'da gelişmiş bir dağıtım aldı. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
+          "descriptionTr": "Ablası Kaori'nin yönlendirmesiyle Souta aniden Hokuei Üniversitesi Kadın Voleybol Kulübü'nün yurt müdürü ve koçu oldu. Orada ilk aşkı Ayano ile önemli bir buluşma yaşadı... Kızlar yurdunda! Spor salonunda! Otelde mi? Onu bekleyen şey, kendisinden daha büyük kızların patronluk taslayacağı günlerdi! Boyut Farklılıklarından Mutlu Bir Harem Rom-Com'u ♡ Kuzey Ovalarında Kocaman Doğdu!!<br><br>(Kaynak: OceanVeil)<br><br>Not: Bölüm 1, 13 Mart 2026'da AnimeFesta'da gelişmiş bir dağıtım aldı. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
         },
         {
           "id": 197868,
@@ -6265,7 +6274,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bir hizmetçi kendini aniden bir yıl boyunca Japonya'da sıkışıp kalmış bulduğunda ne yapmalıdır? Tabii ki yiyin! Taiyaki ve kavun ekmeği gibi tatlılardan takoyaki ve onigiri gibi lezzetli atıştırmalıklara kadar her türlü Japon yemeğini deneyen hizmetçi Suzume Tachibana'yı takip edin! Ancak dikkat edin, Suzume iştahını lezzetli ikramlardan sonra doyururken, sonunda sizinkini bileyebilir!<br><br>(Kaynak: Crunchyroll)<br><br>Not: Maid-san wa Taberu dake, 2. bölümden itibaren dAnimestore, ABEMA ve U-Next'te bir hafta önceden yayınlandı. 1. Bölüm, 1 Nisan 2026'da yayınlandı. Düzenli yayın 5 Nisan 2026'da başladı."
+          "descriptionTr": "Bir hizmetçi kendini aniden bir yıl boyunca Japonya'da sıkışmış bulduğunda ne yapmalıdır? Tabii ki yiyin! Taiyaki ve kavun ekmeği gibi tatlılardan takoyaki ve onigiri gibi lezzetli atıştırmalıklara kadar her türlü Japon yemeğini deneyen hizmetçi Suzume Tachibana'yı takip edin! Ancak dikkat edin, Suzume iştahını lezzetli ikramlardan sonra doyururken, sonunda sizinkini bileyebilir!<br><br>(Kaynak: Crunchyroll)<br><br>Not: Maid-san wa Taberu dake, 2. bölümden itibaren dAnimestore, ABEMA ve U-Next'te bir hafta önceden yayınlandı. 1. Bölüm, 1 Nisan 2026'da yayınlandı. Düzenli yayın 5 Nisan 2026'da başladı."
         },
         {
           "id": 202985,
