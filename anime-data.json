@@ -120,15 +120,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Rehabilitation",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Body Horror",
               "isMediaSpoiler": true
             },
             {
-              "name": "Tsundere",
+              "name": "Rehabilitation",
               "isMediaSpoiler": false
             },
             {
@@ -140,12 +136,16 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Twins",
+              "name": "Achromatic",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Tsundere",
               "isMediaSpoiler": false
             },
             {
-              "name": "Achromatic",
-              "isMediaSpoiler": true
+              "name": "Twins",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 86,
@@ -262,10 +262,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Spearplay",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Desert",
               "isMediaSpoiler": false
             },
@@ -278,11 +274,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Cult",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Cult",
               "isMediaSpoiler": false
             },
             {
@@ -298,6 +294,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Astronomy",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Elf",
               "isMediaSpoiler": false
             },
@@ -306,19 +306,15 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Astronomy",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Shapeshifting",
               "isMediaSpoiler": true
             },
             {
-              "name": "Creature Taming",
-              "isMediaSpoiler": true
+              "name": "Spearplay",
+              "isMediaSpoiler": false
             },
             {
-              "name": "Gods",
+              "name": "Creature Taming",
               "isMediaSpoiler": true
             },
             {
@@ -332,6 +328,10 @@
             {
               "name": "Twins",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Gods",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 88,
@@ -538,8 +538,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781272800,
-            "episode": 10
+            "airingAt": 1781877600,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -815,7 +815,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 79,
+          "averageScore": 78,
           "studios": {
             "nodes": [
               {
@@ -1096,117 +1096,6 @@
           "descriptionTr": "Sınıfın dışladığı Maki Maehara sonunda ilk arkadaşını edinir: Sınıfın en güzel ikinci kızı ve herkesin ilgi odağı olan Umi Asanagi. Onun kendi liginin dışında olduğuna inanıyor ama beklenmedik arkadaşlıkları büyüdükçe Maki merak etmeye başlıyor: Aralarında arkadaşlıktan daha fazlası olabilir mi?<br><br>(Kaynak: Crunchyroll)"
         },
         {
-          "id": 170019,
-          "title": {
-            "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
-            "english": "The Angel Next Door Spoils Me Rotten2",
-            "native": "お隣の天使様にいつの間にか駄目人間にされていた件 第2期"
-          },
-          "synonyms": [
-            "The Angel Next Door Spoils Me Rotten Season 2",
-            "ขาดคุณนางฟ้าข้างห้องไป ผมคงมีชีวิตต่อไปไม่ได้อีกแล้ว2",
-            "Meu Anjo de Vizinha Me Mima Demais 2",
-            "Chouchouté par l’ange d’à côté saison 2",
-            "Ангел по соседству меня балует 2",
-            "關於我在無意間被隔壁的天使變成廢柴這件事",
-            "Aku Dimanjakan Tetanggaku yang Seperti Malaikat"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 3
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170019-djbN0b934MhE.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170019-djbN0b934MhE.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170019-r07RiVV5d8rT.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1781271000,
-            "episode": 11
-          },
-          "isAdult": false,
-          "genres": [
-            "Romance",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kuudere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Chibi",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Crime",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 76,
-          "studios": {
-            "nodes": [
-              {
-                "name": "project No.9"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken</i>.<br />\n<br><br><br />\nNow a couple, Amane and Mahiru navigate school life and overcome their pasts in this sweet love story.<br />\n<br><br><br />\n(Source: Crunchyroll News)<br />\n<br><br><br />\n<i>Note: Crunchyroll has labeled the English title under the name &quot;The Angel Next Door Spoils Me Rotten2&quot;, so while it seems erroneous for the title not to have a space between the name and 2, it is what the series is officially labeled as.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://otonarino-tenshisama.jp/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/tenshisama_PR"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@tenshisama_pr"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/G9VHN91DJ/the-angel-next-door-spoils-me-rotten"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2343630"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JjhVqkAt1bFMDpgrRsby7Z_"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken'in ikinci sezonu.<br><br>Şimdi bir çift olan Amane ve Mahiru, bu tatlı aşk hikayesinde okul hayatına yön veriyor ve geçmişlerinin üstesinden geliyor.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Crunchyroll, İngilizce başlığı \"The Angel Next Door Spoils Me Rotten2\" adı altında etiketledi, dolayısıyla başlığın ad ile 2 arasında boşluk olmaması hatalı görünse de, serinin resmi olarak etiketlendiği şey budur."
-        },
-        {
           "id": 199547,
           "title": {
             "romaji": "MARRIAGETOXIN",
@@ -1372,7 +1261,118 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yüzyıllar boyunca ölümcül sanatlar, Üstatlar olarak bilinen kişiler tarafından mükemmelleştirildi.<br><br>Bunlar arasında Beş Büyük Ailenin Zehir Ustaları en korkunç güce ve nüfuza sahiptir.<br><br>Zehir Ustaları'nın Gero Ailesi'nin varisi Hikaru Gero, tüm hayatını aşktan veya evlilikten çok uzakta, yeraltı dünyasında geçirmiştir.<br><br>Ancak Gero Ailesi reisi, Hikaru'nun kız kardeşinin soyunu korumak için bir varis doğurması gerektiğine karar verince -gerekirse güç kullanarak- Hikaru onu ne pahasına olursa olsun korumaya karar verir.<br><br>İşte tam o sırada Hikaru, son işinin hedefi haline gelen parlak bir evlilik dolandırıcısı olan Mei Kinosaki ile karşılaşır.<br><br>Ailenin veraset sorununu çözmenin ve kız kardeşini korumanın tek yolunun evlilik olduğunu anlayan Hikaru, düşünmeden Mei'den bir gelin bulma konusunda yardım ister.<br><br>(Kaynak: EMOTION Etiket Kanalı)"
+          "descriptionTr": "Yüzyıllar boyunca ölümcül sanatlar, Üstatlar olarak bilinen kişiler tarafından mükemmelleştirildi.<br><br>Bunlar arasında Beş Büyük Ailenin Zehir Ustaları en korkunç güce ve nüfuza sahiptir.<br><br>Zehir Ustaları'nın Gero Ailesi'nin varisi Hikaru Gero, tüm hayatını aşktan veya evlilikten çok uzakta, yeraltı dünyasında geçirmiştir.<br><br>Ancak Gero Ailesi reisi, Hikaru'nun kız kardeşinin soyunu korumak için gerekirse zorla bir varis doğurması gerektiğine karar verince Hikaru, onu ne pahasına olursa olsun korumaya karar verir.<br><br>İşte tam o sırada Hikaru, son işinin hedefi haline gelen parlak bir evlilik dolandırıcısı olan Mei Kinosaki ile karşılaşır.<br><br>Ailenin veraset sorununu çözmenin ve kız kardeşini korumanın tek yolunun evlilik olduğunu anlayan Hikaru, düşünmeden Mei'den bir gelin bulma konusunda yardım ister.<br><br>(Kaynak: EMOTION Etiket Kanalı)"
+        },
+        {
+          "id": 170019,
+          "title": {
+            "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
+            "english": "The Angel Next Door Spoils Me Rotten2",
+            "native": "お隣の天使様にいつの間にか駄目人間にされていた件 第2期"
+          },
+          "synonyms": [
+            "The Angel Next Door Spoils Me Rotten Season 2",
+            "ขาดคุณนางฟ้าข้างห้องไป ผมคงมีชีวิตต่อไปไม่ได้อีกแล้ว2",
+            "Meu Anjo de Vizinha Me Mima Demais 2",
+            "Chouchouté par l’ange d’à côté saison 2",
+            "Ангел по соседству меня балует 2",
+            "關於我在無意間被隔壁的天使變成廢柴這件事",
+            "Aku Dimanjakan Tetanggaku yang Seperti Malaikat"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 3
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170019-djbN0b934MhE.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170019-djbN0b934MhE.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170019-r07RiVV5d8rT.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1781875800,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Romance",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Iyashikei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kuudere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Chibi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crime",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 76,
+          "studios": {
+            "nodes": [
+              {
+                "name": "project No.9"
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken</i>.<br />\n<br><br><br />\nNow a couple, Amane and Mahiru navigate school life and overcome their pasts in this sweet love story.<br />\n<br><br><br />\n(Source: Crunchyroll News)<br />\n<br><br><br />\n<i>Note: Crunchyroll has labeled the English title under the name &quot;The Angel Next Door Spoils Me Rotten2&quot;, so while it seems erroneous for the title not to have a space between the name and 2, it is what the series is officially labeled as.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://otonarino-tenshisama.jp/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/tenshisama_PR"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@tenshisama_pr"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/G9VHN91DJ/the-angel-next-door-spoils-me-rotten"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2343630"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JjhVqkAt1bFMDpgrRsby7Z_"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken'in ikinci sezonu.<br><br>Şimdi bir çift olan Amane ve Mahiru, bu tatlı aşk hikayesinde okul hayatına yön veriyor ve geçmişlerinin üstesinden geliyor.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Crunchyroll, İngilizce başlığı \"The Angel Next Door Spoils Me Rotten2\" adı altında etiketledi, dolayısıyla başlığın ad ile 2 arasında boşluk olmaması hatalı görünse de, serinin resmi olarak etiketlendiği şey budur."
         },
         {
           "id": 199221,
@@ -1672,11 +1672,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Teen Cast",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -1712,15 +1712,15 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Chibi",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Orphan",
               "isMediaSpoiler": true
             },
             {
               "name": "School Club",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Chibi",
               "isMediaSpoiler": false
             }
           ],
@@ -2488,7 +2488,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor ama sonunda bir şekilde onunla bir ilişki mi kuruyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk randevu ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor - ancak bir şekilde onunla bir ilişkiye mi giriyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk randevu ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 190143,
@@ -2567,10 +2567,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Age Gap",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Torture",
               "isMediaSpoiler": true
             },
@@ -2588,6 +2584,10 @@
             },
             {
               "name": "Gods",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Gap",
               "isMediaSpoiler": false
             },
             {
@@ -3099,140 +3099,6 @@
           "descriptionTr": "\"Yalnızca sesiniz ve vücudunuzla sanatta ustalaşın.\"<br><br>Çocukluğundan beri babası Shinta Arakawa'nın büyülü performanslarının büyüsüne kapılan Akane Ousaki, shin'uchi'ye (usta rütbesi) yükselmek için gösterdiği kararlı performans sırasında şok edici bir olaya tanık olur.<br><br>Altı yıl sonra artık bir lise öğrencisi olarak gözünü bir shin'uchi olmaya dikiyor ve rakugo'nun son derece rekabetçi dünyasında ilerlemeye başlıyor.<br><br>Tutkulu ve özgün bir rakugo draması şimdi başlıyor!<br><br>(Kaynak: TV Asahi, düzenlendi)"
         },
         {
-          "id": 184492,
-          "title": {
-            "romaji": "Mairimashita! Iruma-kun 4",
-            "english": "Welcome to Demon School! Iruma-kun Season 4",
-            "native": "魔入りました！入間くん 第4シリーズ"
-          },
-          "synonyms": [
-            "อิรุมะคุง ผจญในแดนปีศาจ ซีซั่น 4"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184492-KUVFGieuMaOx.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184492-JsZazzn4Acqf.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1781342760,
-            "episode": 11
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Fantasy",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Monster Boy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Monster Girl",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Band",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Found Family",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Crossdressing",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Musical Theater",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 80,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Bandai Namco Pictures"
-              }
-            ]
-          },
-          "description": "<p>The fourth season of <i>Mairimashita! Iruma-kun.</i><br />\n<br><br><br />\nSuzuki Iruma and all thirteen students of the Misfit Class must perform to reach Rank 4 at the Music Festival.<br><br><br />\n(Source: Crunchyroll News)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/nep_irumakun"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/@animeofficial5506"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/iruma_kun"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://www.nhk-character.com/chara/iruma/"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/nep_irumakun/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/G6NVG970Y/welcome-to-demon-school-iruma-kun"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2342582"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Mairimashita'nın dördüncü sezonu! Iruma-kun.<br><br>Suzuki Iruma ve Uyumsuzlar Sınıfının on üç öğrencisinin tamamı, Müzik Festivalinde 4. Sıraya ulaşmak için performans sergilemek zorundadır.<br><br>(Kaynak: Crunchyroll Haberleri)"
-        },
-        {
           "id": 198113,
           "title": {
             "romaji": "Kill Ao",
@@ -3382,6 +3248,140 @@
           ],
           "isMyList": false,
           "descriptionTr": "Juuzou Oogami, ne kadar imkansız olursa olsun hiçbir görevde başarısız olmayan efsanevi bir tetikçidir. Bir gün güçlü bir organizasyonu yok ettikten sonra gizemli bir eşekarısı tarafından sokulur ve yere yığılır. 39 yaşındaki korkunç suikastçı uyandığında 13 yaşında bir çocuğa dönüşmüştür!<br><br>Daha ne olduğunu anlayamadan patronu yeni bir emir verir: \"O bedenin içinde bir ortaokula sızın.\"<br><br>Onu bekleyen ise renkli sınıf arkadaşları, gençlik kaosu ve yaklaşmakta olan tehlikelerle dolu beklenmedik bir okul hayatıdır. Juuzou bir gün orijinal formuna dönebilecek mi? Yoksa ona yaklaşan suikastçılar onun ikinci hayatına daha başlamadan son mu verecek?<br><br>(Kaynak: Resmi Site)"
+        },
+        {
+          "id": 184492,
+          "title": {
+            "romaji": "Mairimashita! Iruma-kun 4",
+            "english": "Welcome to Demon School! Iruma-kun Season 4",
+            "native": "魔入りました！入間くん 第4シリーズ"
+          },
+          "synonyms": [
+            "อิรุมะคุง ผจญในแดนปีศาจ ซีซั่น 4"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184492-KUVFGieuMaOx.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184492-JsZazzn4Acqf.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1781342760,
+            "episode": 11
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Demons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Monster Boy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Monster Girl",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Band",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Found Family",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crossdressing",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Musical Theater",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 80,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Bandai Namco Pictures"
+              }
+            ]
+          },
+          "description": "<p>The fourth season of <i>Mairimashita! Iruma-kun.</i><br />\n<br><br><br />\nSuzuki Iruma and all thirteen students of the Misfit Class must perform to reach Rank 4 at the Music Festival.<br><br><br />\n(Source: Crunchyroll News)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/nep_irumakun"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/@animeofficial5506"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/iruma_kun"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://www.nhk-character.com/chara/iruma/"
+            },
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/nep_irumakun/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/G6NVG970Y/welcome-to-demon-school-iruma-kun"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2342582"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Mairimashita'nın dördüncü sezonu! Iruma-kun.<br><br>Suzuki Iruma ve Uyumsuzlar Sınıfının on üç öğrencisinin tamamı, Müzik Festivalinde 4. Sıraya ulaşmak için performans sergilemek zorundadır.<br><br>(Kaynak: Crunchyroll Haberleri)"
         },
         {
           "id": 171110,
@@ -4060,7 +4060,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yeni üniversite hayatı, yeni yurt arkadaşları... ve yepyeni bir içki dünyası! Botan Kamiina, sessiz yurt lideri Ibuki Tonami'yi tek başına içki içerken fark ettikten sonra alkolünden ilk yudumunu alıyor. Botan, shochu'dan viskiye kadar içki içmenin keyfini arkadaşlarıyla paylaşırken, Ibuki yavaş yavaş bazı zevklerin paylaşıldığında daha iyi olduğunu öğrenir.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Yeni üniversite hayatı, yeni yurt arkadaşları... ve yepyeni bir içki dünyası! Botan Kamiina, sessiz yurt lideri Ibuki Tonami'yi tek başına içki içerken fark ettikten sonra ilk alkol yudumunu alıyor. Botan, shochu'dan viskiye kadar içki içmenin keyfini arkadaşlarıyla paylaşırken, Ibuki yavaş yavaş bazı zevklerin paylaşıldığında daha iyi olduğunu öğrenir.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 180228,
@@ -4202,8 +4202,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192808-iaS1GnOo5l3G.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781269200,
-            "episode": 11
+            "airingAt": 1781874000,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -4511,7 +4511,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu gücendirirseniz, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlı ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacak... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetti.<br><br>(Kaynak: HİDİV)"
+          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu gücendirirseniz, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlıdır ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacaktır... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetmiştir.<br><br>(Kaynak: HİDİV)"
         },
         {
           "id": 195333,
@@ -4616,7 +4616,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Hepimizin liseden utanç verici anıları ya da derin pişmanlıkları var, değil mi? Sosyal açıdan kaygılı üniversite son sınıf öğrencisi Natsuki Haibara da öyle. Hayatının o zamanlarını düşündüğünde, sahip olduğu tek şey mutlu bir ergenlik dönemine dair geçici fantezilerdir. O halde, kendisini açıklanamaz bir şekilde yedi yıl geçmişte, lisedeki ilk yılından bir ay önce bulduğunda yaşadığı şaşkınlığı ve şaşkınlığı bir düşünün! Haibara daha önceki hatalarından kaçınabilecek mi, okulun sosyal piramidinin tepesine ulaşabilecek mi ve sonunda hayallerindeki kıza kavuşabilecek mi? Yoksa okulun en nefret edilen çocuğu olarak üç yıllık yalnızlığı yeniden mi yaşamak zorunda kalacak? Başarılı olmak için bir egzersiz programından çevrimiçi nasıl yapılır kılavuzlarına, bir çocukluk arkadaşına ve bolca saf iradeye kadar alabileceği her türlü yardıma ihtiyacı olacak. Haibara'nın ergenlik yıllarına ikinci bir şans vermesini izleyin!<br><br>(Kaynak: J-Novel Kulübü)<br><br>Not: İlk 4 bölüm 15 Mart 2026 tarihinde ön gösterime girmiştir. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
+          "descriptionTr": "Hepimizin liseden utanç verici anıları ya da derin pişmanlıkları var, değil mi? Sosyal kaygılı üniversite son sınıf öğrencisi Natsuki Haibara da öyle. Hayatının o zamanlarını düşündüğünde, sahip olduğu tek şey mutlu bir ergenlik dönemine dair geçici fantezilerdir. O halde, kendisini açıklanamaz bir şekilde yedi yıl geçmişte, lisedeki ilk yılından bir ay önce bulduğunda yaşadığı şaşkınlığı ve şaşkınlığı bir düşünün! Haibara daha önceki hatalarından kaçınabilecek mi, okulun sosyal piramidinin tepesine ulaşabilecek mi ve sonunda hayallerindeki kıza kavuşabilecek mi? Yoksa okulun en nefret edilen çocuğu olarak üç yıllık yalnızlığı yeniden mi yaşamak zorunda kalacak? Başarılı olmak için bir egzersiz programından çevrimiçi nasıl yapılır kılavuzlarına, bir çocukluk arkadaşına ve bolca saf iradeye kadar alabileceği her türlü yardıma ihtiyacı olacak. Haibara'nın ergenlik yıllarına ikinci bir şans vermesini izleyin!<br><br>(Kaynak: J-Novel Kulübü)<br><br>Not: İlk 4 bölüm 15 Mart 2026 tarihinde ön gösterime girmiştir. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
         },
         {
           "id": 195268,
@@ -4869,7 +4869,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Spica Başak çırak bir cadıdır ancak herhangi bir sihir kullanamaz. Hayallerindeki akademiye girebilmek için ustası olacak birine ihtiyacı var ama ne parası ne de hiçbir bağlantısı var. Aniden önünde sihir kullanabilen, konuşan gizemli bir kara kedi belirir!! Spica sihir öğrenmek istiyor, kara kedi ise lanetinin kırılmasını istiyor; aynı yoldaki hedefler. Böylece gizli bir usta-çırak ilişkisi doğdu! Ama laneti bozmanın anahtarı onu öpmek…?! Sakar bir cadı ve kara bir kedinin öğretileri; sihir akademisi fantezisi burada başlıyor!!<br><br>(Kaynak: K Manga)"
+          "descriptionTr": "Spica Başak çırak bir cadıdır ancak herhangi bir sihir kullanamaz. Hayallerindeki akademiye girebilmek için ustası olacak birine ihtiyacı var ama ne parası ne de hiçbir bağlantısı var. Aniden önünde sihir kullanabilen, konuşan gizemli bir kara kedi belirir!! Spica sihir öğrenmek istiyor, kara kedi ise lanetinin kırılmasını istiyor; hedefler aynı yolda. Böylece gizli bir usta-çırak ilişkisi doğdu! Ama laneti bozmanın anahtarı onu öpmek…?! Sakar bir cadı ve kara bir kedinin öğretileri; sihir akademisi fantezisi burada başlıyor!!<br><br>(Kaynak: K Manga)"
         },
         {
           "id": 199029,
@@ -5088,7 +5088,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Efsanevi bir dük ailesinde doğan dövüş dahisi Maria \"Mimi\" Annovazzi, mirasçı olma iddiasını kaybeder ve aniden prestij sahibi olmak için evlenmesi emredilir. Memleketinde hiçbir seçeneği kalmadığından komşu bir krallığa transfer olur; ancak mezuniyet töreninde, varlığından bile haberi bile olmadığı bir nişan nedeniyle hiç tanımadığı bir prens tarafından herkesin önünde terk edilir! Maria bir kız kurusunun hayatına mı mahkum olacak?<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Efsanevi bir dük ailesinde doğan dövüş dahisi Maria \"Mimi\" Annovazzi, mirasçı olma iddiasını kaybeder ve aniden prestij sahibi olmak için evlenmesi emredilir. Memleketinde hiçbir seçeneği kalmadığından komşu bir krallığa transfer olur; ancak mezuniyet töreninde, varlığından bile habersiz olduğu bir nişan nedeniyle hiç tanımadığı bir prens tarafından herkesin önünde terk edilir! Maria bir kız kurusunun hayatına mı mahkum olacak?<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 206951,
@@ -5432,7 +5432,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 58,
+          "averageScore": 57,
           "studios": {
             "nodes": [
               {
@@ -5555,7 +5555,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Minato Kusunoki, ailesinin perili, terk edilmiş kırsal mülkünü yönetmekle görevlendirilir. Bununla birlikte, ezici ruhsal gücü sayesinde Minato, kazara tüm mekanı arındırarak, bir zamanlar lanetli olan bu mülkü, başıboş tanrılar ve tanrılar için huzurlu bir sığınağa dönüştürüyor! Minato buraya yerleşirken kendisini ilginç ilahi komşularla ve tanrılar arasındaki yaşamın canlı kaosuyla çevrelenmiş halde bulur.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Minato Kusunoki, ailesinin perili, terk edilmiş kırsal mülkünü yönetmekle görevlendirilir. Bununla birlikte, ezici ruhsal gücü sayesinde Minato, yanlışlıkla tüm yeri arındırarak bir zamanlar lanetli olan mülkü, başıboş tanrılar ve tanrılar için huzurlu bir sığınağa dönüştürüyor! Minato buraya yerleşirken kendisini ilginç ilahi komşularla ve tanrılar arasındaki yaşamın canlı kaosuyla çevrelenmiş halde bulur.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 186744,
@@ -5805,8 +5805,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196144-oWeLz0DOjhYV.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781274600,
-            "episode": 11
+            "airingAt": 1781879400,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -6036,7 +6036,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Awajima Opera Okulu'nda Japonya'nın dört bir yanından kızlar sahnede bir yer kazanmak için çabalıyor. Wakana müzikal tiyatroya olan aşkıyla hareket ederken Kinue sessiz bir disiplinle çalışıyor. Burslu öğrenci Emi herkesin dikkatini çeker; ama özellikle de hayranlık ve karşılaştırma konusunda zorluk çeken Keiko'nun. Değişen bakış açıları sayesinde iç içe geçen günleri, hırsı, dostluğu ve kendini keşfetmeyi keşfediyor.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Awajima Opera Okulu'nda Japonya'nın dört bir yanından kızlar sahnede bir yer kazanmak için çabalıyor. Wakana müzikal tiyatroya olan aşkıyla hareket ederken Kinue sessiz bir disiplinle çalışıyor. Burslu öğrenci Emi herkesin dikkatini çekiyor, ama özellikle de hayranlık ve karşılaştırma konusunda zorluk çeken Keiko'nun. Değişen bakış açıları sayesinde iç içe geçen günleri, hırsı, dostluğu ve kendini keşfetmeyi keşfediyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 204319,
@@ -6176,7 +6176,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Souta, ablası Kaori'nin yönlendirmesiyle aniden Hokuei Üniversitesi Kadın Voleybol Kulübü'nün yurt müdürü ve koçu oldu. Orada ilk aşkı Ayano ile önemli bir buluşma yaşadı... Kızlar yurdunda! Spor salonunda! Otelde mi? Onu bekleyen şey, kendisinden daha büyük kızlar tarafından patronluk taslanacağı günlerdi! Boyut Farklılıklarından Mutlu Bir Harem Rom-Com'u ♡ Kuzey Ovalarında Kocaman Doğdu!!<br><br>(Kaynak: OceanVeil)<br><br>Not: Bölüm 1, 13 Mart 2026'da AnimeFesta'da gelişmiş bir dağıtım aldı. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
+          "descriptionTr": "Ablası Kaori'nin yönlendirmesiyle Souta aniden Hokuei Üniversitesi Kadın Voleybol Kulübü'nün yurt müdürü ve koçu oldu. Orada ilk aşkı Ayano ile önemli bir buluşma yaşadı... Kızlar yurdunda! Spor salonunda! Otelde mi? Onu bekleyen şey, kendisinden daha büyük kızların patronluk taslayacağı günlerdi! Boyut Farklılıklarından Mutlu Bir Harem Rom-Com'u ♡ Kuzey Ovalarında Kocaman Doğdu!!<br><br>(Kaynak: OceanVeil)<br><br>Not: Bölüm 1, 13 Mart 2026'da AnimeFesta'da gelişmiş bir dağıtım aldı. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
         },
         {
           "id": 197868,
@@ -6275,7 +6275,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bir hizmetçi kendini aniden bir yıl boyunca Japonya'da sıkışıp kalmış bulduğunda ne yapmalıdır? Tabii ki yiyin! Taiyaki ve kavun ekmeği gibi tatlılardan takoyaki ve onigiri gibi lezzetli atıştırmalıklara kadar her türlü Japon yemeğini deneyen hizmetçi Suzume Tachibana'yı takip edin! Ancak dikkat edin, Suzume iştahını lezzetli ikramlardan sonra doyururken, sonunda sizinkini bileyebilir!<br><br>(Kaynak: Crunchyroll)<br><br>Not: Maid-san wa Taberu dake, 2. bölümden itibaren dAnimestore, ABEMA ve U-Next'te bir hafta önceden yayınlandı. 1. Bölüm, 1 Nisan 2026'da yayınlandı. Düzenli yayın 5 Nisan 2026'da başladı."
+          "descriptionTr": "Bir hizmetçi kendini aniden bir yıl boyunca Japonya'da sıkışmış bulduğunda ne yapmalıdır? Tabii ki yiyin! Taiyaki ve kavun ekmeği gibi tatlılardan takoyaki ve onigiri gibi lezzetli atıştırmalıklara kadar her türlü Japon yemeğini deneyen hizmetçi Suzume Tachibana'yı takip edin! Ancak dikkat edin, Suzume iştahını lezzetli ikramlardan sonra doyururken, sonunda sizinkini bileyebilir!<br><br>(Kaynak: Crunchyroll)<br><br>Not: Maid-san wa Taberu dake, 2. bölümden itibaren dAnimestore, ABEMA ve U-Next'te bir hafta önceden yayınlandı. 1. Bölüm, 1 Nisan 2026'da yayınlandı. Düzenli yayın 5 Nisan 2026'da başladı."
         },
         {
           "id": 202985,
