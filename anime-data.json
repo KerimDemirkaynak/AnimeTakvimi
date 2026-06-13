@@ -1888,7 +1888,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Batı'nın en azılı şövalyesi Serafina, barbarlar tarafından yakalandığında işkence görmeyi bekliyordu. Bunun yerine evlenme teklifi aldı! Yeminli düşmanıyla evlenmek kesinlikle hayır! Ancak düğününü kaçıran kişinin kültürünü ve çok güzel yüzünü gördükten sonra, kılıcını bir düğün duvağıyla değiştirmek isteyebilir. Düşmanlardan belki de sevgililere uzanan nihai hikayeye hazır olun.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Batı'nın en azılı şövalyesi Serafina, barbarlar tarafından yakalandığında işkence görmeyi bekliyordu. Bunun yerine evlenme teklifi aldı! Yeminli düşmanıyla evlenmek kesinlikle hayır! Ancak düğünü kaçıran kişinin kültürünü ve çok güzel yüzünü gördükten sonra, kılıcını düğün duvağıyla değiştirmek isteyebilir. Düşmanlardan belki de sevgililere uzanan nihai hikayeye hazır olun.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 206914,
@@ -2492,7 +2492,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor ama sonunda bir şekilde onunla bir ilişki mi kuruyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk buluşma ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor - ancak bir şekilde onunla bir ilişkiye mi giriyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk randevu ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 190143,
@@ -3024,16 +3024,16 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Family Life",
               "isMediaSpoiler": false
             },
             {
               "name": "Time Skip",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
             },
             {
               "name": "Gyaru",
@@ -3209,9 +3209,13 @@
             {
               "name": "Heterosexual",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Crossdressing",
+              "isMediaSpoiler": true
             }
           ],
-          "averageScore": 74,
+          "averageScore": 73,
           "studios": {
             "nodes": [
               {
@@ -3274,8 +3278,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184492-JsZazzn4Acqf.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781342760,
-            "episode": 11
+            "airingAt": 1781947560,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -3382,6 +3386,10 @@
             {
               "site": "Bilibili TV",
               "url": "https://www.bilibili.tv/en/media/2342582"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1-aoCFQ-X1pmxfTVRvrRAt"
             }
           ],
           "isMyList": false,
@@ -3410,8 +3418,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171110-lgtmKokpevUM.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781339400,
-            "episode": 10
+            "airingAt": 1781944200,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -3644,6 +3652,170 @@
           "descriptionTr": "Aniden başka bir dünyaya transfer edilen lise öğrencisi Hibiki, canavarların yaşadığı bir fantezi dünyasının uçsuz bucaksız otlaklarında tek başına dolaşır. Sahip olduğu tek şey \"Değerlendirme\" gibi savaş dışı becerilerdir! Umutsuz bir durumdan, karşılaşmalarla kurtulur ve çok güçlü yetenekleri gelişir! Mucizevi tersine çevirme hileleriyle dolu başka bir dünya macera hikayesi ortaya çıktı!<br><br>(Kaynak: Alfa Manga)<br><br>Not: Saikyou no Shokugyou ve Yuusha demosu Kenja demosu Naku Kanteishi (Kari) Rashii desu yo? dAnimestore'daki TV yayınından bir hafta önce yayınlandı ve ABEMA 2. bölümden itibaren yayınlandı. İlk bölüm 2 Nisan 2026'da yayınlandı. 4 Nisan 2026'da düzenli yayına başladı."
         },
         {
+          "id": 179950,
+          "title": {
+            "romaji": "Reincarnation no Kaben",
+            "english": "Petals of Reincarnation",
+            "native": "リィンカーネーションの花弁"
+          },
+          "synonyms": [
+            "リンネ",
+            "มหาศึกวีรชนข้ามภพ",
+            "輪迴的花瓣",
+            "Cánh Hoa Luân Hồi"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 3
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179950-g95odyBfYEbU.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179950-g95odyBfYEbU.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179950-j8dYIqYi8KLC.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1781796600,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Memory Manipulation",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Artificial Intelligence",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gender Bending",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anti-Hero",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cosplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Disability",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Military",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ninja",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "War",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Revenge",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cute Boys Doing Cute Things",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Twins",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Suicide",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Zombie",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Body Horror",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 60,
+          "studios": {
+            "nodes": [
+              {
+                "name": "BENTEN Film"
+              }
+            ]
+          },
+          "description": "<p>Touya Senji is talentless. He's tried everything but he can't seem to excel at anything no matter how hard he tries. Then he meets Haito, a Kendo champion and... humanity's protector? She uses the Stem of Reincarnation to draw on the abilities of her past lives, but it only works when she slits her own throat. And now she wants Touya to join her?!<br />\n<br><br><br />\n(Source: Mangamo, edited)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/PRCN_info"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://petals-of-reincarnation-anime.com/"
+            },
+            {
+              "site": "HIDIVE",
+              "url": "https://www.hidive.com/season/35228"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgAgNZonRZtMMkb823NExcD"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2343947"
+            }
+          ],
+          "isMyList": true,
+          "descriptionTr": "Touya Senji yeteneksiz. Her şeyi denedi ama ne kadar uğraşırsa uğraşsın hiçbir şeyde başarılı olamıyor. Daha sonra bir Kendo şampiyonu ve insanlığın koruyucusu olan Haito ile tanışır. Geçmiş yaşamlarının yeteneklerinden yararlanmak için Reenkarnasyon Kökünü kullanıyor, ancak bu yalnızca kendi boğazını kestiğinde işe yarıyor. Şimdi de Touya'nın kendisine katılmasını mı istiyor?<br><br>(Kaynak: Mangamo, düzenlendi)"
+        },
+        {
           "id": 189987,
           "title": {
             "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
@@ -3769,154 +3941,6 @@
           "descriptionTr": "Sakuradaimon okulun müdürüdür. Vali, disiplini uygulama yetkisine sahip bir öğrencidir. Bir sınıf başkanı olarak diğer öğrencilere rol model olması gerekiyor ama ne yazık ki mükemmel değil. Kohinata, Sakuradaimon'un uygun okul kıyafetleri giymesi konusunda disipline etmeye çalıştığı kişilerden biridir, ancak şu ana kadar itaatsiz olmuştur.<br><br>Ve bu, ikisinin birbirleriyle etkileşime girdiği bir hikaye."
         },
         {
-          "id": 179950,
-          "title": {
-            "romaji": "Reincarnation no Kaben",
-            "english": "Petals of Reincarnation",
-            "native": "リィンカーネーションの花弁"
-          },
-          "synonyms": [
-            "リンネ",
-            "มหาศึกวีรชนข้ามภพ",
-            "輪迴的花瓣",
-            "Cánh Hoa Luân Hồi"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 3
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179950-g95odyBfYEbU.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179950-g95odyBfYEbU.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179950-j8dYIqYi8KLC.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1781796600,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Memory Manipulation",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gender Bending",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Anti-Hero",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cosplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Artificial Intelligence",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Disability",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Military",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ninja",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cute Boys Doing Cute Things",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Twins",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Suicide",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 60,
-          "studios": {
-            "nodes": [
-              {
-                "name": "BENTEN Film"
-              }
-            ]
-          },
-          "description": "<p>Touya Senji is talentless. He's tried everything but he can't seem to excel at anything no matter how hard he tries. Then he meets Haito, a Kendo champion and... humanity's protector? She uses the Stem of Reincarnation to draw on the abilities of her past lives, but it only works when she slits her own throat. And now she wants Touya to join her?!<br />\n<br><br><br />\n(Source: Mangamo, edited)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/PRCN_info"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://petals-of-reincarnation-anime.com/"
-            },
-            {
-              "site": "HIDIVE",
-              "url": "https://www.hidive.com/season/35228"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgAgNZonRZtMMkb823NExcD"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2343947"
-            }
-          ],
-          "isMyList": true,
-          "descriptionTr": "Touya Senji yeteneksiz. Her şeyi denedi ama ne kadar uğraşırsa uğraşsın hiçbir şeyde başarılı olamıyor. Daha sonra bir Kendo şampiyonu ve insanlığın koruyucusu olan Haito ile tanışır. Geçmiş yaşamlarının yeteneklerinden yararlanmak için Reenkarnasyon Kökünü kullanıyor, ancak bu yalnızca kendi boğazını kestiğinde işe yarıyor. Şimdi de Touya'nın kendisine katılmasını mı istiyor?<br><br>(Kaynak: Mangamo, düzenlendi)"
-        },
-        {
           "id": 187869,
           "title": {
             "romaji": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
@@ -3996,24 +4020,24 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Food",
-              "isMediaSpoiler": false
+              "name": "Unrequited Love",
+              "isMediaSpoiler": true
             },
             {
-              "name": "Love Triangle",
-              "isMediaSpoiler": true
+              "name": "Food",
+              "isMediaSpoiler": false
             },
             {
               "name": "Found Family",
               "isMediaSpoiler": false
             },
             {
-              "name": "Unrequited Love",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Travel",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Love Triangle",
+              "isMediaSpoiler": true
             },
             {
               "name": "Boarding School",
@@ -4064,7 +4088,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yeni üniversite hayatı, yeni yurt arkadaşları... ve yepyeni bir içki dünyası! Botan Kamiina, sessiz yurt lideri Ibuki Tonami'yi tek başına içki içerken fark ettikten sonra alkolünden ilk yudumunu alıyor. Botan, shochu'dan viskiye kadar içki içmenin keyfini arkadaşlarıyla paylaşırken, Ibuki yavaş yavaş bazı zevklerin paylaşıldığında daha iyi olduğunu öğrenir.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Yeni üniversite hayatı, yeni yurt arkadaşları... ve yepyeni bir içki dünyası! Botan Kamiina, sessiz yurt lideri Ibuki Tonami'yi tek başına içki içerken fark ettikten sonra ilk alkol yudumunu alıyor. Botan, shochu'dan viskiye kadar içki içmenin keyfini arkadaşlarıyla paylaşırken, Ibuki yavaş yavaş bazı zevklerin paylaşıldığında daha iyi olduğunu öğrenir.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 180228,
@@ -4408,8 +4432,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185211-2wkjFD6tz7l3.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781353800,
-            "episode": 10
+            "airingAt": 1781958600,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -4515,7 +4539,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu gücendirirseniz, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlı ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacak... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetti.<br><br>(Kaynak: HİDİV)"
+          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu gücendirirseniz, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlıdır ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacaktır... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetmiştir.<br><br>(Kaynak: HİDİV)"
         },
         {
           "id": 195333,
@@ -5460,7 +5484,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Sakuya Otsuki, asistanı Lilithea ile birlikte babasının izinden gitmeye çalışan efsanevi bir dedektifin oğludur. Ancak bu lise dedektifinde farklı olan bir şeyler vardır. Nereye giderse gitsin, bir cinayet kurbanı olarak her zaman kendini davaların içine sokmayı başarıyor! Sakuya lüks bir yolcu gemisine sızmakla görevlendirilince kendini bir kez daha öldürülmüş halde bulur. Ancak gözlerini her yeniden açtığında Lilithea yanındadır ve gizemin derinliklerine inmesine yardım etmeye hazırdır...<br><br>(Kaynak: Yen Press)"
+          "descriptionTr": "Sakuya Otsuki, asistanı Lilithea ile birlikte babasının izinden gitmeye çalışan efsanevi bir dedektifin oğludur. Ancak bu lise hafiyesinde farklı olan bir şeyler vardır. Nereye giderse gitsin, bir cinayet kurbanı olarak her zaman kendini davaların içine sokmayı başarıyor! Sakuya lüks bir yolcu gemisine sızmakla görevlendirilince kendini bir kez daha öldürülmüş halde bulur. Ancak gözlerini her yeniden açtığında Lilithea yanındadır ve gizemin derinliklerine inmesine yardım etmeye hazırdır...<br><br>(Kaynak: Yen Press)"
         },
         {
           "id": 196029,
@@ -5559,7 +5583,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Minato Kusunoki, ailesinin perili, terk edilmiş kırsal mülkünü yönetmekle görevlendirilir. Bununla birlikte, ezici ruhsal gücü sayesinde Minato, kazara tüm mekanı arındırarak, bir zamanlar lanetli olan bu mülkü, başıboş tanrılar ve tanrılar için huzurlu bir sığınağa dönüştürüyor! Minato buraya yerleşirken kendisini ilginç ilahi komşularla ve tanrılar arasındaki yaşamın canlı kaosuyla çevrelenmiş halde bulur.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Minato Kusunoki, ailesinin perili, terk edilmiş kırsal mülkünü yönetmekle görevlendirilir. Bununla birlikte, ezici ruhsal gücü sayesinde Minato, yanlışlıkla tüm yeri arındırarak bir zamanlar lanetli olan mülkü, başıboş tanrılar ve tanrılar için huzurlu bir sığınağa dönüştürüyor! Minato buraya yerleşirken kendisini ilginç ilahi komşularla ve tanrılar arasındaki yaşamın canlı kaosuyla çevrelenmiş halde bulur.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 186744,
@@ -6283,7 +6307,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bir hizmetçi kendini aniden bir yıl boyunca Japonya'da sıkışıp kalmış bulduğunda ne yapmalıdır? Tabii ki yiyin! Taiyaki ve kavun ekmeği gibi tatlılardan takoyaki ve onigiri gibi lezzetli atıştırmalıklara kadar her türlü Japon yemeğini deneyen hizmetçi Suzume Tachibana'yı takip edin! Ancak dikkat edin, Suzume iştahını lezzetli ikramlardan sonra doyururken, sonunda sizinkini bileyebilir!<br><br>(Kaynak: Crunchyroll)<br><br>Not: Maid-san wa Taberu dake, 2. bölümden itibaren dAnimestore, ABEMA ve U-Next'te bir hafta önceden yayınlandı. 1. Bölüm, 1 Nisan 2026'da yayınlandı. Düzenli yayın 5 Nisan 2026'da başladı."
+          "descriptionTr": "Bir hizmetçi kendini aniden bir yıl boyunca Japonya'da sıkışmış bulduğunda ne yapmalıdır? Tabii ki yiyin! Taiyaki ve kavun ekmeği gibi tatlılardan takoyaki ve onigiri gibi lezzetli atıştırmalıklara kadar her türlü Japon yemeğini deneyen hizmetçi Suzume Tachibana'yı takip edin! Ancak dikkat edin, Suzume iştahını lezzetli ikramlardan sonra doyururken, sonunda sizinkini bileyebilir!<br><br>(Kaynak: Crunchyroll)<br><br>Not: Maid-san wa Taberu dake, 2. bölümden itibaren dAnimestore, ABEMA ve U-Next'te bir hafta önceden yayınlandı. 1. Bölüm, 1 Nisan 2026'da yayınlandı. Düzenli yayın 5 Nisan 2026'da başladı."
         },
         {
           "id": 202985,
@@ -6382,7 +6406,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Peki artık oda arkadaşlarına sahip olmanın anlamı bu mu? 24 yaşındaki ofis çalışanı Rinko, yalnız yaşıyor ve gizlice bir otaku. Bir gün dairesi duvardaki bir \"delik\" aracılığıyla iki komşu odaya bağlanır. Soldaki odada Rinko'ya aşırı tatlı davranan taze yüzlü ama gizemli bir adam var. Sağdaki oda, şiddet eğilimi olan ve benzer şekilde gizemli bir adam tarafından işgal ediliyor... Ama bekleyin! \"Ben...sanırım onu ​​tanıyorum!\" Rinko'nun tek yalnızlık kaynağı olan dairesi altüst olmuştur. Artık her gün yürek hoplatan sürprizlerle dolu!<br><br>(Kaynak: Manga Plaza)"
+          "descriptionTr": "Peki artık oda arkadaşlarına sahip olmanın anlamı bu mu? 24 yaşındaki ofis çalışanı Rinko, yalnız yaşıyor ve gizlice bir otaku. Bir gün dairesi duvardaki bir \"delik\" aracılığıyla iki komşu odaya bağlanır. Soldaki odada Rinko'ya aşırı tatlı davranan taze yüzlü ama gizemli bir adam var. Sağdaki oda, şiddet eğilimi olan ve benzer şekilde gizemli bir adam tarafından işgal ediliyor... Ama durun! \"Ben...sanırım onu ​​tanıyorum!\" Rinko'nun tek yalnızlık kaynağı olan dairesi altüst olmuştur. Artık her gün yürek hoplatan sürprizlerle dolu!<br><br>(Kaynak: Manga Plaza)"
         },
         {
           "id": 206166,
@@ -6419,11 +6443,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Henshin",
+              "name": "Large Breasts",
               "isMediaSpoiler": false
             },
             {
-              "name": "Large Breasts",
+              "name": "Henshin",
               "isMediaSpoiler": false
             },
             {
@@ -6432,6 +6456,14 @@
             },
             {
               "name": "Hypersexuality",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Gap",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "MILF",
               "isMediaSpoiler": false
             },
             {
@@ -6447,23 +6479,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Age Gap",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "MILF",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Cheating",
               "isMediaSpoiler": false
             },
             {
-              "name": "Masturbation",
+              "name": "Sex Toys",
               "isMediaSpoiler": false
             },
             {
-              "name": "Sex Toys",
+              "name": "Masturbation",
               "isMediaSpoiler": false
             }
           ],
