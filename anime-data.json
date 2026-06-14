@@ -314,12 +314,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Creature Taming",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Female Harem",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Creature Taming",
+              "isMediaSpoiler": true
             },
             {
               "name": "Maids",
@@ -410,8 +410,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195600-UxHvDXwzJxlP.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781361000,
-            "episode": 11
+            "airingAt": 1781965800,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -443,6 +443,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Creature Taming",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Rural",
               "isMediaSpoiler": false
             },
@@ -464,10 +468,6 @@
             },
             {
               "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Creature Taming",
               "isMediaSpoiler": false
             },
             {
@@ -1888,7 +1888,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Batı'nın en azılı şövalyesi Serafina, barbarlar tarafından yakalandığında işkence görmeyi bekliyordu. Bunun yerine evlenme teklifi aldı! Yeminli düşmanıyla evlenmek kesinlikle hayır! Ancak düğünü kaçıran kişinin kültürünü ve çok güzel yüzünü gördükten sonra, kılıcını düğün duvağıyla değiştirmek isteyebilir. Düşmanlardan belki de sevgililere uzanan nihai hikayeye hazır olun.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Batı'nın en azılı şövalyesi Serafina, barbarlar tarafından yakalandığında işkence görmeyi bekliyordu. Bunun yerine evlenme teklifi aldı! Yeminli düşmanıyla evlenmek kesinlikle hayır! Ancak düğününü kaçıran kişinin kültürünü ve çok güzel yüzünü gördükten sonra, kılıcını bir düğün duvağıyla değiştirmek isteyebilir. Düşmanlardan belki de sevgililere uzanan nihai hikayeye hazır olun.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 206914,
@@ -2352,8 +2352,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190704-bLXpyNFVZbss.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781366400,
-            "episode": 11
+            "airingAt": 1781971200,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -2392,19 +2392,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Slapstick",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Yandere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Angels",
               "isMediaSpoiler": false
             },
             {
@@ -2416,31 +2404,27 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Nudity",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Female Cast",
+              "name": "Slapstick",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Teen Cast",
+              "name": "Female Harem",
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Love Triangle",
+              "name": "Shounen",
               "isMediaSpoiler": false
             },
             {
               "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Angels",
               "isMediaSpoiler": false
             },
             {
@@ -2452,11 +2436,23 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Gyaru",
               "isMediaSpoiler": false
             },
             {
-              "name": "Gyaru",
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Love Triangle",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             }
           ],
@@ -2520,8 +2516,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190143-0Ffw9Tb9Sjdo.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781362800,
-            "episode": 12
+            "airingAt": 1781967600,
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -2798,8 +2794,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202102-RBgWbaATyuDt.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781364600,
-            "episode": 11
+            "airingAt": 1781969400,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -2830,16 +2826,16 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Idol",
               "isMediaSpoiler": false
             },
             {
               "name": "Body Image",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": false
             },
             {
               "name": "VTuber",
@@ -2858,16 +2854,16 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Rape",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Mixed Media",
               "isMediaSpoiler": false
             },
             {
               "name": "CGI",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Rape",
-              "isMediaSpoiler": true
             },
             {
               "name": "LGBTQ+ Themes",
@@ -2878,20 +2874,20 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yandere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Disability",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Bullying",
               "isMediaSpoiler": true
             },
             {
+              "name": "Yandere",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Psychosexual",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Disability",
+              "isMediaSpoiler": false
             },
             {
               "name": "Nudity",
@@ -2975,8 +2971,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196935-tl3sNMXDMfaQ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781361000,
-            "episode": 11
+            "airingAt": 1781965800,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -3125,8 +3121,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-5hYeMXL2zilW.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781359200,
-            "episode": 10
+            "airingAt": 1781964000,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -3212,6 +3208,10 @@
             },
             {
               "name": "Crossdressing",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Age Gap",
               "isMediaSpoiler": true
             }
           ],
@@ -3393,7 +3393,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Mairimashita'nın dördüncü sezonu! Iruma-kun.<br><br>Suzuki Iruma ve Uyumsuzlar Sınıfının on üç öğrencisinin tamamı, Müzik Festivalinde 4. Sıraya ulaşmak için performans sergilemek zorundadır.<br><br>(Kaynak: Crunchyroll Haberleri)"
+          "descriptionTr": "Mairimashita'nın dördüncü sezonu! Iruma-kun.<br><br>Suzuki Iruma ve Uyumsuzlar Sınıfının on üç öğrencisinin tümü, Müzik Festivalinde 4. Sıraya ulaşmak için performans sergilemek zorundadır.<br><br>(Kaynak: Crunchyroll Haberleri)"
         },
         {
           "id": 171110,
@@ -3560,10 +3560,7 @@
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200769-8WkFkoFxc2fw.jpg"
           },
           "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1781361000,
-            "episode": 12
-          },
+          "nextAiringEpisode": null,
           "isAdult": false,
           "genres": [
             "Action",
@@ -3972,15 +3969,15 @@
           ],
           "tags": [
             {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
               "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
             {
@@ -3996,15 +3993,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Episodic",
+              "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
             {
               "name": "College",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
             {
@@ -4025,6 +4018,10 @@
             },
             {
               "name": "Food",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Episodic",
               "isMediaSpoiler": false
             },
             {
@@ -4088,7 +4085,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yeni üniversite hayatı, yeni yurt arkadaşları... ve yepyeni bir içki dünyası! Botan Kamiina, sessiz yurt lideri Ibuki Tonami'yi tek başına içki içerken fark ettikten sonra ilk alkol yudumunu alıyor. Botan, shochu'dan viskiye kadar içki içmenin keyfini arkadaşlarıyla paylaşırken, Ibuki yavaş yavaş bazı zevklerin paylaşıldığında daha iyi olduğunu öğrenir.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Yeni üniversite hayatı, yeni yurt arkadaşları... ve yepyeni bir içki dünyası! Botan Kamiina, sessiz yurt lideri Ibuki Tonami'yi tek başına içki içerken fark ettikten sonra alkolünden ilk yudumunu alıyor. Botan, shochu'dan viskiye kadar içki içmenin keyfini arkadaşlarıyla paylaşırken, Ibuki yavaş yavaş bazı zevklerin paylaşıldığında daha iyi olduğunu öğrenir.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 180228,
@@ -4274,11 +4271,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Bullying",
+              "name": "Kemonomimi",
               "isMediaSpoiler": true
             },
             {
-              "name": "Kemonomimi",
+              "name": "Time Skip",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Bullying",
               "isMediaSpoiler": true
             }
           ],
@@ -5116,7 +5117,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Efsanevi bir dük ailesinde doğan dövüş dahisi Maria \"Mimi\" Annovazzi, mirasçı olma iddiasını kaybeder ve aniden prestij sahibi olmak için evlenmesi emredilir. Memleketinde hiçbir seçeneği kalmadığından komşu bir krallığa transfer olur; ancak mezuniyet töreninde, varlığından bile habersiz olduğu bir nişan nedeniyle hiç tanımadığı bir prens tarafından herkesin önünde terk edilir! Maria bir kız kurusunun hayatına mı mahkum olacak?<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Efsanevi bir dük ailesinde doğan dövüş dahisi Maria \"Mimi\" Annovazzi, mirasçı olma iddiasını kaybeder ve aniden prestij sahibi olmak için evlenmesi emredilir. Memleketinde hiçbir seçeneği kalmadığından komşu bir krallığa transfer olur; ancak mezuniyet töreninde, varlığından bile haberi bile olmadığı bir nişan nedeniyle hiç tanımadığı bir prens tarafından herkesin önünde terk edilir! Maria bir kız kurusunun hayatına mı mahkum olacak?<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 206951,
@@ -5276,8 +5277,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781361960,
-            "episode": 11
+            "airingAt": 1781966760,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -5484,7 +5485,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Sakuya Otsuki, asistanı Lilithea ile birlikte babasının izinden gitmeye çalışan efsanevi bir dedektifin oğludur. Ancak bu lise hafiyesinde farklı olan bir şeyler vardır. Nereye giderse gitsin, bir cinayet kurbanı olarak her zaman kendini davaların içine sokmayı başarıyor! Sakuya lüks bir yolcu gemisine sızmakla görevlendirilince kendini bir kez daha öldürülmüş halde bulur. Ancak gözlerini her yeniden açtığında Lilithea yanındadır ve gizemin derinliklerine inmesine yardım etmeye hazırdır...<br><br>(Kaynak: Yen Press)"
+          "descriptionTr": "Sakuya Otsuki, asistanı Lilithea ile birlikte babasının izinden gitmeye çalışan efsanevi bir dedektifin oğludur. Ancak bu lise dedektifinde farklı olan bir şeyler vardır. Nereye giderse gitsin, bir cinayet kurbanı olarak her zaman kendini davaların içine sokmayı başarıyor! Sakuya lüks bir yolcu gemisine sızmakla görevlendirilince kendini bir kez daha öldürülmüş halde bulur. Ancak gözlerini her yeniden açtığında Lilithea yanındadır ve gizemin derinliklerine inmesine yardım etmeye hazırdır...<br><br>(Kaynak: Yen Press)"
         },
         {
           "id": 196029,
@@ -5508,8 +5509,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196029-7awWJNlMM0BQ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781368200,
-            "episode": 11
+            "airingAt": 1781973000,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -5702,7 +5703,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kendini iyi hissetmediğinde, sınav olduğunda, okula gitmek istemediğinde... Onun yerini ben alıyorum. Ben onun kopyasıyım. Başka bir amacım yok. Ama aşık olduğumda bu değişti. Aşık olduğum çocuk benim olduğumu anlasın diye saçlarımı topluyorum. Okulu atlıyoruz ve yarın ve sonrasında her gün tekrar buluşacağımıza söz veriyoruz. Ben onun kopyasıyım. Benimle ilgili her şey ödünç alınmış ve boş ama kalbim benim.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Kendini iyi hissetmediğinde, sınav olduğunda, okula gitmek istemediğinde... Onun yerini ben alıyorum. Ben onun kopyasıyım. Başka bir amacım yok. Ama aşık olduğumda bu değişti. Aşık olduğum çocuğun ben olduğumu anlaması için saçlarımı topuz yapıyorum. Okulu atlıyoruz ve yarın ve sonrasında her gün tekrar buluşacağımıza söz veriyoruz. Ben onun kopyasıyım. Benimle ilgili her şey ödünç alınmış ve boş ama kalbim benim.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 198939,
@@ -6307,7 +6308,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bir hizmetçi kendini aniden bir yıl boyunca Japonya'da sıkışmış bulduğunda ne yapmalıdır? Tabii ki yiyin! Taiyaki ve kavun ekmeği gibi tatlılardan takoyaki ve onigiri gibi lezzetli atıştırmalıklara kadar her türlü Japon yemeğini deneyen hizmetçi Suzume Tachibana'yı takip edin! Ancak dikkat edin, Suzume iştahını lezzetli ikramlardan sonra doyururken, sonunda sizinkini bileyebilir!<br><br>(Kaynak: Crunchyroll)<br><br>Not: Maid-san wa Taberu dake, 2. bölümden itibaren dAnimestore, ABEMA ve U-Next'te bir hafta önceden yayınlandı. 1. Bölüm, 1 Nisan 2026'da yayınlandı. Düzenli yayın 5 Nisan 2026'da başladı."
+          "descriptionTr": "Bir hizmetçi kendini aniden bir yıl boyunca Japonya'da sıkışıp kalmış bulduğunda ne yapmalıdır? Tabii ki yiyin! Taiyaki ve kavun ekmeği gibi tatlılardan takoyaki ve onigiri gibi lezzetli atıştırmalıklara kadar her türlü Japon yemeğini deneyen hizmetçi Suzume Tachibana'yı takip edin! Ancak dikkat edin, Suzume iştahını lezzetli ikramlardan sonra doyururken, sonunda sizinkini bileyebilir!<br><br>(Kaynak: Crunchyroll)<br><br>Not: Maid-san wa Taberu dake, 2. bölümden itibaren dAnimestore, ABEMA ve U-Next'te bir hafta önceden yayınlandı. 1. Bölüm, 1 Nisan 2026'da yayınlandı. Düzenli yayın 5 Nisan 2026'da başladı."
         },
         {
           "id": 202985,
@@ -6406,7 +6407,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Peki artık oda arkadaşlarına sahip olmanın anlamı bu mu? 24 yaşındaki ofis çalışanı Rinko, yalnız yaşıyor ve gizlice bir otaku. Bir gün dairesi duvardaki bir \"delik\" aracılığıyla iki komşu odaya bağlanır. Soldaki odada Rinko'ya aşırı tatlı davranan taze yüzlü ama gizemli bir adam var. Sağdaki oda, şiddet eğilimi olan ve benzer şekilde gizemli bir adam tarafından işgal ediliyor... Ama durun! \"Ben...sanırım onu ​​tanıyorum!\" Rinko'nun tek yalnızlık kaynağı olan dairesi altüst olmuştur. Artık her gün yürek hoplatan sürprizlerle dolu!<br><br>(Kaynak: Manga Plaza)"
+          "descriptionTr": "Peki artık oda arkadaşlarına sahip olmanın anlamı bu mu? 24 yaşındaki ofis çalışanı Rinko, yalnız yaşıyor ve gizlice bir otaku. Bir gün dairesi duvardaki bir \"delik\" aracılığıyla iki komşu odaya bağlanır. Soldaki odada Rinko'ya aşırı tatlı davranan taze yüzlü ama gizemli bir adam var. Sağdaki oda, şiddet eğilimi olan ve benzer şekilde gizemli bir adam tarafından işgal ediliyor... Ama bekleyin! \"Ben...sanırım onu ​​tanıyorum!\" Rinko'nun tek yalnızlık kaynağı olan dairesi altüst olmuştur. Artık her gün yürek hoplatan sürprizlerle dolu!<br><br>(Kaynak: Manga Plaza)"
         },
         {
           "id": 206166,
