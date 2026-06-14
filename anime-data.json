@@ -879,8 +879,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182300-d1znfWKzn1bT.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781422200,
-            "episode": 10
+            "airingAt": 1782027000,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -1340,7 +1340,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 76,
+          "averageScore": 75,
           "studios": {
             "nodes": [
               {
@@ -1916,8 +1916,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206914-owssGq2CGhRZ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781438400,
-            "episode": 11
+            "airingAt": 1782043200,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -2454,6 +2454,10 @@
             {
               "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Incest",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 67,
@@ -3215,7 +3219,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 73,
+          "averageScore": 74,
           "studios": {
             "nodes": [
               {
@@ -3649,6 +3653,131 @@
           "descriptionTr": "Aniden başka bir dünyaya transfer edilen lise öğrencisi Hibiki, canavarların yaşadığı bir fantezi dünyasının uçsuz bucaksız otlaklarında tek başına dolaşır. Sahip olduğu tek şey \"Değerlendirme\" gibi savaş dışı becerilerdir! Umutsuz bir durumdan, karşılaşmalarla kurtulur ve çok güçlü yetenekleri gelişir! Mucizevi tersine çevirme hileleriyle dolu başka bir dünya macera hikayesi ortaya çıktı!<br><br>(Kaynak: Alfa Manga)<br><br>Not: Saikyou no Shokugyou ve Yuusha demosu Kenja demosu Naku Kanteishi (Kari) Rashii desu yo? dAnimestore'daki TV yayınından bir hafta önce yayınlandı ve ABEMA 2. bölümden itibaren yayınlandı. İlk bölüm 2 Nisan 2026'da yayınlandı. 4 Nisan 2026'da düzenli yayına başladı."
         },
         {
+          "id": 189987,
+          "title": {
+            "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
+            "english": "The Klutzy Class Monitor and the Girl with the Short Skirt",
+            "native": "ポンコツ風紀委員とスカート丈が不適切なJKの話"
+          },
+          "synonyms": [
+            "The Story Between a Dumb Prefect and a High School Girl with an Inappropriate Skirt Length",
+            "PonSuka",
+            "ポンスカ",
+            "Бесполезный дежурный и школьница со слишком короткой юбкой"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 6
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189987-CkTDPfD7vu2Y.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189987-CkTDPfD7vu2Y.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189987-0UGf5F7zWNvv.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1781533440,
+            "episode": 11
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Slapstick",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tsundere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gyaru",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Iyashikei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Surreal Comedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Hip-hop Music",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Otaku Culture",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 75,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Zero-G"
+              }
+            ]
+          },
+          "description": "<p>Sakuradaimon is the school's prefect. A prefect is a student who is authorized to enforce discipline. As a prefect, he's supposed to be a role model to other students, but unfortunately he's not perfect. Kohinata is one of the people who Sakuradaimon has tried to discipline into wearing appropriate school attire, but she has thusfar been disobedient.<br><br />\n<br><br />\nAnd so this is a story of the two interacting with one another.</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://ponsuka.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/ponsuka_anime"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371923/the-klutzy-class-monitor-and-the-girl-with-the-short-skirt"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2361551"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Sakuradaimon okulun müdürüdür. Vali, disiplini uygulama yetkisine sahip bir öğrencidir. Bir sınıf başkanı olarak diğer öğrencilere rol model olması gerekiyor ama ne yazık ki mükemmel değil. Kohinata, Sakuradaimon'un uygun okul kıyafetleri giymesi konusunda disipline etmeye çalıştığı kişilerden biridir, ancak şu ana kadar itaatsiz olmuştur.<br><br>Ve bu, ikisinin birbirleriyle etkileşime girdiği bir hikaye."
+        },
+        {
           "id": 179950,
           "title": {
             "romaji": "Reincarnation no Kaben",
@@ -3811,131 +3940,6 @@
           ],
           "isMyList": true,
           "descriptionTr": "Touya Senji yeteneksiz. Her şeyi denedi ama ne kadar uğraşırsa uğraşsın hiçbir şeyde başarılı olamıyor. Daha sonra bir Kendo şampiyonu ve insanlığın koruyucusu olan Haito ile tanışır. Geçmiş yaşamlarının yeteneklerinden yararlanmak için Reenkarnasyon Kökünü kullanıyor, ancak bu yalnızca kendi boğazını kestiğinde işe yarıyor. Şimdi de Touya'nın kendisine katılmasını mı istiyor?<br><br>(Kaynak: Mangamo, düzenlendi)"
-        },
-        {
-          "id": 189987,
-          "title": {
-            "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
-            "english": "The Klutzy Class Monitor and the Girl with the Short Skirt",
-            "native": "ポンコツ風紀委員とスカート丈が不適切なJKの話"
-          },
-          "synonyms": [
-            "The Story Between a Dumb Prefect and a High School Girl with an Inappropriate Skirt Length",
-            "PonSuka",
-            "ポンスカ",
-            "Бесполезный дежурный и школьница со слишком короткой юбкой"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 6
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189987-CkTDPfD7vu2Y.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189987-CkTDPfD7vu2Y.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189987-0UGf5F7zWNvv.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1781533440,
-            "episode": 11
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Slapstick",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tsundere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gyaru",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Surreal Comedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Hip-hop Music",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Otaku Culture",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 75,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Zero-G"
-              }
-            ]
-          },
-          "description": "<p>Sakuradaimon is the school's prefect. A prefect is a student who is authorized to enforce discipline. As a prefect, he's supposed to be a role model to other students, but unfortunately he's not perfect. Kohinata is one of the people who Sakuradaimon has tried to discipline into wearing appropriate school attire, but she has thusfar been disobedient.<br><br />\n<br><br />\nAnd so this is a story of the two interacting with one another.</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://ponsuka.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/ponsuka_anime"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371923/the-klutzy-class-monitor-and-the-girl-with-the-short-skirt"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2361551"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Sakuradaimon okulun müdürüdür. Vali, disiplini uygulama yetkisine sahip bir öğrencidir. Bir sınıf başkanı olarak diğer öğrencilere rol model olması gerekiyor ama ne yazık ki mükemmel değil. Kohinata, Sakuradaimon'un uygun okul kıyafetleri giymesi konusunda disipline etmeye çalıştığı kişilerden biridir, ancak şu ana kadar itaatsiz olmuştur.<br><br>Ve bu, ikisinin birbirleriyle etkileşime girdiği bir hikaye."
         },
         {
           "id": 187869,
@@ -4330,8 +4334,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182578-p3J3Cs24qe9J.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781424000,
-            "episode": 10
+            "airingAt": 1782028800,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -4512,7 +4516,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 62,
+          "averageScore": 61,
           "studios": {
             "nodes": [
               {
@@ -5520,15 +5524,15 @@
           ],
           "tags": [
             {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Gods",
               "isMediaSpoiler": false
             },
             {
               "name": "Youkai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Iyashikei",
               "isMediaSpoiler": false
             },
             {
@@ -5552,7 +5556,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 70,
+          "averageScore": 71,
           "studios": {
             "nodes": [
               {
@@ -6212,105 +6216,6 @@
           "descriptionTr": "Ablası Kaori'nin yönlendirmesiyle Souta aniden Hokuei Üniversitesi Kadın Voleybol Kulübü'nün yurt müdürü ve koçu oldu. Orada ilk aşkı Ayano ile önemli bir buluşma yaşadı... Kızlar yurdunda! Spor salonunda! Otelde mi? Onu bekleyen şey, kendisinden daha büyük kızların patronluk taslayacağı günlerdi! Boyut Farklılıklarından Mutlu Bir Harem Rom-Com'u ♡ Kuzey Ovalarında Kocaman Doğdu!!<br><br>(Kaynak: OceanVeil)<br><br>Not: Bölüm 1, 13 Mart 2026'da AnimeFesta'da gelişmiş bir dağıtım aldı. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
         },
         {
-          "id": 197868,
-          "title": {
-            "romaji": "Maid-san wa Taberu dake",
-            "english": "The Food Diary of Miss Maid",
-            "native": "メイドさんは食べるだけ"
-          },
-          "synonyms": [
-            "メイ食べ"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 1
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197868-sm5jcjPKWhNL.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197868-sm5jcjPKWhNL.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197868-wBmzwZ3Ay4bD.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1781442000,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Food",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Maids",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Episodic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cute Girls Doing Cute Things",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Educational",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 64,
-          "studios": {
-            "nodes": [
-              {
-                "name": "EMT Squared"
-              },
-              {
-                "name": "Magic Bus"
-              }
-            ]
-          },
-          "description": "<p>What’s a maid to do when she finds herself suddenly stuck in Japan for a year? Eat, of course! Follow maid-in-training Suzume Tachibana as she tries all sorts of Japanese food, from sweets like taiyaki and melon bread to savory snacks like takoyaki and onigiri! Be warned, though-while Suzume sates her appetite through delicious treat after delicious treat, she might just end up whetting yours!<br />\n<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br><br />\n<i>Note: Maid-san wa Taberu dake was streamed a week in advance on dAnimestore, ABEMA, and U-Next starting with episode 2. Episode 1 was streamed on April 1, 2026. Regular broadcasting began on April 5, 2026.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://meitabe-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/lovetoeat_maid"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00375170/the-food-diary-of-miss-maid"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Bir hizmetçi kendini aniden bir yıl boyunca Japonya'da sıkışıp kalmış bulduğunda ne yapmalıdır? Tabii ki yiyin! Taiyaki ve kavun ekmeği gibi tatlılardan takoyaki ve onigiri gibi lezzetli atıştırmalıklara kadar her türlü Japon yemeğini deneyen hizmetçi Suzume Tachibana'yı takip edin! Ancak dikkat edin, Suzume iştahını lezzetli ikramlardan sonra doyururken, sonunda sizinkini bileyebilir!<br><br>(Kaynak: Crunchyroll)<br><br>Not: Maid-san wa Taberu dake, 2. bölümden itibaren dAnimestore, ABEMA ve U-Next'te bir hafta önceden yayınlandı. 1. Bölüm, 1 Nisan 2026'da yayınlandı. Düzenli yayın 5 Nisan 2026'da başladı."
-        },
-        {
           "id": 202985,
           "title": {
             "romaji": "Tadaima, Ojamasaremasu!",
@@ -6521,6 +6426,133 @@
           ],
           "isMyList": false,
           "descriptionTr": "Açgözlü kadınların yaşadığı bir yer... Evli bir kadının erotik gerilimi!<br><br>Bu, Libido Avcısı Takeru'nun yazarı tarafından evli bir kadının aşırı gerilimidir! Bu hikayede, insan arzularını güçlendiren gizemli \"libido haçı\" kostümünü giyen bir grup sapkın evli kadın saldırıya uğruyor! Apartman kompleksini sapık eşlerin tehdidinden koruyun, yeni kapıcı Yoshida!"
+        },
+        {
+          "id": 181284,
+          "title": {
+            "romaji": "Kirio Fanclub",
+            "english": "Kirio Fan Club",
+            "native": "霧尾ファンクラブ"
+          },
+          "synonyms": [
+            "KirioFC",
+            "คิริโอะแฟนคลับ"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 3
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181284-JJafhd5gDT53.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181284-JJafhd5gDT53.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181284-BthvQRasKf46.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1781796360,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Unrequited Love",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Love Triangle",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Josei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Restaurant",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Athletics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Football",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Boys' Love",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Gyaru",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Suicide",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 60,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Satelight"
+              }
+            ]
+          },
+          "description": "<p>For Aimi and Nami, the answer is to cry tears of joy for being able to pinpoint at a distance the object of their affections, Kirio, from a single toot. These are the kinds of deep, philosophical questions the two friends/rivals in romance pose to each other to prove their love for this boy who hardly seems to know they exist. That won’t stop them from conducting nightly rituals to entice him into their dreams, though, or listing out what exactly they like about him, down to the very last organ. But when push comes to shove, will they choose their hilarious friendship over a shot at love?<br />\n<br><br><br />\n(Source: Kodansha USA)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://kirio-fc.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/kirio_fc"
+            },
+            {
+              "site": "HIDIVE",
+              "url": "https://www.hidive.com/season/35227"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgMGXyhUEr1I_5ryXN436vi"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Aimi ve Nami için cevap, sevgilerinin nesnesi olan Kirio'yu tek bir dokunuşla uzaktan tespit edebildikleri için sevinç gözyaşları dökmekti. Bunlar, romantizmdeki iki arkadaşın/rakiplerin, var olduklarını pek bilmeyen bu çocuğa olan aşklarını kanıtlamak için birbirlerine sordukları türden derin, felsefi sorulardır. Ancak bu onları, onu rüyalarına sokmak için gece ritüelleri düzenlemekten veya en son organına kadar onun hakkında tam olarak nelerden hoşlandıklarını listelemekten alıkoymayacaktır. Ama işler iyice zorlaştığında, aşka ateş etmek yerine komik arkadaşlıklarını mı seçecekler?<br><br>(Kaynak: Kodansha ABD)"
         }
       ]
     }
