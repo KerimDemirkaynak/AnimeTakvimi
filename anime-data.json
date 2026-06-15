@@ -29,8 +29,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/147105-fTjmRrILFixZ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781532000,
-            "episode": 12
+            "airingAt": 1782136800,
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -1223,6 +1223,10 @@
             {
               "name": "Yuri",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Boys' Love",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 75,
@@ -2003,7 +2007,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 81,
+          "averageScore": 82,
           "studios": {
             "nodes": [
               {
@@ -2151,8 +2155,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197824-rS7XjJQ0CZs2.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781530200,
-            "episode": 11
+            "airingAt": 1782135000,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -2683,8 +2687,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781535600,
-            "episode": 11
+            "airingAt": 1782140400,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -3676,8 +3680,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189987-0UGf5F7zWNvv.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781533440,
-            "episode": 11
+            "airingAt": 1782138240,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -4009,16 +4013,16 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Unrequited Love",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Bar",
               "isMediaSpoiler": false
             },
             {
               "name": "Seinen",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Unrequited Love",
-              "isMediaSpoiler": true
             },
             {
               "name": "Food",
@@ -4516,7 +4520,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 61,
+          "averageScore": 62,
           "studios": {
             "nodes": [
               {
@@ -4810,6 +4814,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Witch",
               "isMediaSpoiler": false
             },
@@ -4827,10 +4835,6 @@
             },
             {
               "name": "Curses",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -4960,6 +4964,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Parody",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
@@ -4978,10 +4986,6 @@
             {
               "name": "Nudity",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Parody",
-              "isMediaSpoiler": false
             }
           ],
           "averageScore": 57,
@@ -5556,7 +5560,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 71,
+          "averageScore": 70,
           "studios": {
             "nodes": [
               {
@@ -5707,7 +5711,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kendini iyi hissetmediğinde, sınav olduğunda, okula gitmek istemediğinde... Onun yerini ben alıyorum. Ben onun kopyasıyım. Başka bir amacım yok. Ama aşık olduğumda bu değişti. Aşık olduğum çocuğun ben olduğumu anlaması için saçlarımı topuz yapıyorum. Okulu atlıyoruz ve yarın ve sonrasında her gün tekrar buluşacağımıza söz veriyoruz. Ben onun kopyasıyım. Benimle ilgili her şey ödünç alınmış ve boş ama kalbim benim.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Kendini iyi hissetmediğinde, sınav olduğunda, okula gitmek istemediğinde... Onun yerini ben alıyorum. Ben onun kopyasıyım. Başka bir amacım yok. Ama aşık olduğumda bu değişti. Aşık olduğum çocuk benim olduğumu anlasın diye saçlarımı topluyorum. Okulu atlıyoruz ve yarın ve sonrasında her gün tekrar buluşacağımıza söz veriyoruz. Ben onun kopyasıyım. Benimle ilgili her şey ödünç alınmış ve boş ama kalbim benim.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 198939,
@@ -5933,7 +5937,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "\"Yukio... Bir arkadaş edineceğim.\" Tetsuo adında utangaç bir çocuk. Sahip olduğu tek şey Yukio adında dev bir robottu. Uzaydan gelen galaktik canavarlara karşı mücadelede “kurtarıcı” oldular. Son savaşın ardından Tetsuo, on yıl aradan sonra ilk kez Dünya'ya döner ve şaşırtıcı bir dünyaya tanık olur. Bu, tüm arazinin kar ve buzla kaplandığı, ölümcül bir dünyaya dönüştüğü donmuş bir Dünya (kartopu Dünyası olarak adlandırılır)! İnsan ırkına ne oldu? Peki Tetsuo, Yukio'ya verdiği sözü yerine getirebilecek mi?<br><br>(Kaynak: Shogakukan, çevrildi)"
+          "descriptionTr": "\"Yukio... Bir arkadaş edineceğim.\" Tetsuo adında utangaç bir çocuk. Sahip olduğu tek şey Yukio adında dev bir robottu. Uzaydan gelen galaktik canavarlara karşı mücadelede “kurtarıcı” oldular. Son savaşın ardından Tetsuo, on yıl aradan sonra ilk kez Dünya'ya döner ve şaşırtıcı bir dünyaya tanık olur. Bu, tüm arazinin kar ve buzla kaplandığı, ölümcül bir dünyaya dönüştüğü donmuş bir Dünya (Kartopu Dünyası olarak adlandırılır)! İnsan ırkına ne oldu? Peki Tetsuo, Yukio'ya verdiği sözü yerine getirebilecek mi?<br><br>(Kaynak: Shogakukan, çevrildi)"
         },
         {
           "id": 177501,
@@ -6361,15 +6365,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Hypersexuality",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Gap",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "MILF",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Hypersexuality",
               "isMediaSpoiler": false
             },
             {
@@ -6378,6 +6378,10 @@
             },
             {
               "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Gap",
               "isMediaSpoiler": false
             },
             {
