@@ -799,6 +799,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Camping",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Love Triangle",
               "isMediaSpoiler": false
             },
@@ -808,10 +812,6 @@
             },
             {
               "name": "Wilderness",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Camping",
               "isMediaSpoiler": true
             },
             {
@@ -1587,11 +1587,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Baseball",
+              "name": "Basketball",
               "isMediaSpoiler": false
             },
             {
-              "name": "Basketball",
+              "name": "Baseball",
               "isMediaSpoiler": false
             },
             {
@@ -2452,12 +2452,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Incest",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 67,
@@ -4789,8 +4789,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196974-wOXpVEgXm7aR.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781447400,
-            "episode": 10
+            "airingAt": 1782052200,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -6001,6 +6001,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Acting",
               "isMediaSpoiler": false
             },
@@ -6010,10 +6014,6 @@
             },
             {
               "name": "Family Life",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
@@ -6094,8 +6094,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1781453100,
-            "episode": 11
+            "airingAt": 1782057900,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -6336,8 +6336,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1781453400,
-            "episode": 11
+            "airingAt": 1782058200,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
