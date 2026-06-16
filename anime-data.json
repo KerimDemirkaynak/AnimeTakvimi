@@ -146,6 +146,10 @@
             {
               "name": "Twins",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 86,
@@ -1016,8 +1020,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169580-RUdWWw0j74HH.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781620200,
-            "episode": 11
+            "airingAt": 1782225000,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -1122,8 +1126,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199547-7230SVo56b42.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781618400,
-            "episode": 11
+            "airingAt": 1782223200,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -2061,8 +2065,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194393-FmUDMgF0apUJ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781618400,
-            "episode": 10
+            "airingAt": 1782223200,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -2207,6 +2211,30 @@
             },
             {
               "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Elf",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kemonomimi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Maids",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Dragons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Medicine",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Family Life",
               "isMediaSpoiler": false
             }
           ],
@@ -2560,10 +2588,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Dissociative Identities",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Tragedy",
               "isMediaSpoiler": true
             },
@@ -2578,6 +2602,10 @@
             {
               "name": "Disability",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Dissociative Identities",
+              "isMediaSpoiler": true
             },
             {
               "name": "Torture",
@@ -4469,10 +4497,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Large Breasts",
               "isMediaSpoiler": false
             },
@@ -4481,7 +4505,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Age Gap",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
               "isMediaSpoiler": false
             },
             {
@@ -4494,10 +4526,6 @@
             },
             {
               "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Gap",
               "isMediaSpoiler": false
             },
             {
@@ -4549,7 +4577,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu kızdırırsanız, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlıdır ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacaktır... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetmiştir.<br><br>(Kaynak: HİDİV)"
+          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu kızdırırsanız, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlı ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacak... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetti.<br><br>(Kaynak: HİDİV)"
         },
         {
           "id": 195333,
@@ -4630,7 +4658,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 64,
+          "averageScore": 65,
           "studios": {
             "nodes": [
               {
@@ -4655,122 +4683,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Hepimizin liseden utanç verici anıları ya da derin pişmanlıkları var, değil mi? Sosyal kaygılı üniversite son sınıf öğrencisi Natsuki Haibara da öyle. Hayatının o zamanlarını düşündüğünde, sahip olduğu tek şey mutlu bir ergenlik dönemine dair geçici fantezilerdir. O halde, kendisini açıklanamaz bir şekilde yedi yıl geçmişte, lisedeki ilk yılından bir ay önce bulduğunda yaşadığı şaşkınlığı ve şaşkınlığı bir düşünün! Haibara daha önceki hatalarından kaçınabilecek mi, okulun sosyal piramidinin tepesine ulaşabilecek mi ve sonunda hayallerindeki kıza kavuşabilecek mi? Yoksa okulun en nefret edilen çocuğu olarak üç yıllık yalnızlığı yeniden mi yaşamak zorunda kalacak? Başarılı olmak için bir egzersiz programından çevrimiçi nasıl yapılır kılavuzlarına, bir çocukluk arkadaşına ve bolca saf iradeye kadar alabileceği her türlü yardıma ihtiyacı olacak. Haibara'nın ergenlik yıllarına ikinci bir şans vermesini izleyin!<br><br>(Kaynak: J-Novel Kulübü)<br><br>Not: İlk 4 bölüm 15 Mart 2026 tarihinde ön gösterime girmiştir. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
-        },
-        {
-          "id": 195268,
-          "title": {
-            "romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2",
-            "english": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
-            "native": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2"
-          },
-          "synonyms": [
-            "LasTame 2",
-            "ラス為 2",
-            "โศกนาฏกรรมของตัวร้ายสุดแกร่งอย่างราชินีลาสบอสจะขอถวายตัวเพื่อปวงชน ซีซั่น 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 7
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195268-HkEv0z9iTCJK.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195268-HkEv0z9iTCJK.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195268-dsEz7gM76ykF.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1781614800,
-            "episode": 11
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Villainess",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ojou-sama",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Family Life",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Skip",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 69,
-          "studios": {
-            "nodes": [
-              {
-                "name": "OLM"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/lastame_pr"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://lastame.com/"
-            },
-            {
-              "site": "HIDIVE",
-              "url": "https://www.hidive.com/season/35231"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1gxoIoRFrIlzxe5FM1yZfe"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/upxd1s2it9"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Higeki no Genkyou'dan Naru Saikyou Gedou'ya Last Boss Joou wa Tami no Tame ni Tsukushimasu'nun ikinci sezonu."
         },
         {
           "id": 196974,
@@ -4908,6 +4820,122 @@
           ],
           "isMyList": false,
           "descriptionTr": "Spica Başak çırak bir cadıdır ancak herhangi bir sihir kullanamaz. Hayallerindeki akademiye girebilmek için ustası olacak birine ihtiyacı var ama ne parası ne de hiçbir bağlantısı var. Aniden önünde sihir kullanabilen, konuşan gizemli bir kara kedi belirir!! Spica sihir öğrenmek istiyor, kara kedi ise lanetinin kırılmasını istiyor; hedefler aynı yolda. Böylece gizli bir usta-çırak ilişkisi doğdu! Ama laneti bozmanın anahtarı onu öpmek…?! Sakar bir cadı ve kara bir kedinin öğretileri; sihir akademisi fantezisi burada başlıyor!!<br><br>(Kaynak: K Manga)"
+        },
+        {
+          "id": 195268,
+          "title": {
+            "romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2",
+            "english": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
+            "native": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2"
+          },
+          "synonyms": [
+            "LasTame 2",
+            "ラス為 2",
+            "โศกนาฏกรรมของตัวร้ายสุดแกร่งอย่างราชินีลาสบอสจะขอถวายตัวเพื่อปวงชน ซีซั่น 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 7
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195268-HkEv0z9iTCJK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195268-HkEv0z9iTCJK.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195268-dsEz7gM76ykF.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1782219600,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Villainess",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ojou-sama",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Family Life",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Skip",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 69,
+          "studios": {
+            "nodes": [
+              {
+                "name": "OLM"
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/lastame_pr"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://lastame.com/"
+            },
+            {
+              "site": "HIDIVE",
+              "url": "https://www.hidive.com/season/35231"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1gxoIoRFrIlzxe5FM1yZfe"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/upxd1s2it9"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Higeki no Genkyou'dan Naru Saikyou Gedou'ya Last Boss Joou wa Tami no Tame ni Tsukushimasu'nun ikinci sezonu."
         },
         {
           "id": 199029,
@@ -5259,6 +5287,10 @@
             {
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/GT00371665/my-ribdiculous-reincarnation"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLbuF5Onrcu9dUMAJzfuVj9GRGHY2vp2pz"
             }
           ],
           "isMyList": false,
@@ -5561,7 +5593,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 70,
+          "averageScore": 71,
           "studios": {
             "nodes": [
               {
@@ -5617,8 +5649,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1781620200,
-            "episode": 11
+            "airingAt": 1782225000,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -6239,8 +6271,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202985-CJxaDe1kJTyp.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781627340,
-            "episode": 11
+            "airingAt": 1782232140,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
