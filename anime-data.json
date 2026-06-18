@@ -188,7 +188,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Herkesin büyüler ve ejderhalar gibi harikaları olduğu gibi kabul ettiği bir dünyada Coco, basit bir hayali olan bir kızdır: cadı olmak istiyor. Ancak herkes sihirbazların doğduğunu, yaratılmadığını ve Coco'nun sihir yeteneğiyle doğmadığını biliyor. Büyülü olmayan hayatına boyun eğen Coco, cadı olma hayalinden vazgeçmek üzeredir... ta ki gizemli, gezgin bir sihirbaz olan Qifrey ile tanışana kadar. Qifrey'in daha önce hiç görmediği bir şekilde büyü yaptığını gizlice gören Coco, çok geçmeden herkesin \"bildiği\" şeyin gerçek olmayabileceğini öğrenir ve büyülü hayalinin göründüğü kadar uzakta olmayabileceğini keşfeder... <br><br>(Kaynak: Kodansha ABD) <br><br>Not: Tongari Boushi no Atelier 2. bölüm, 1. bölümün yanı sıra Crunchyroll, ABEMA ve Netflix'te bir hafta önceden yayınlandı. Yayın, TV yayınından bir hafta öncedir."
+          "descriptionTr": "Herkesin büyüler ve ejderhalar gibi harikaları olduğu gibi kabul ettiği bir dünyada Coco, basit bir hayali olan bir kızdır: cadı olmak istiyor. Ancak herkes sihirbazların doğduğunu, yaratılmadığını ve Coco'nun sihir yeteneğiyle doğmadığını biliyor. Büyülü olmayan hayatına boyun eğen Coco, cadı olma hayalinden vazgeçmek üzeredir... ta ki gizemli, gezgin bir sihirbaz olan Qifrey ile tanışana kadar. Qifrey'in daha önce hiç görmediği bir şekilde büyü yaptığını gizlice gören Coco, çok geçmeden herkesin \"bildiği\" şeyin gerçek olmayabileceğini öğrenir ve büyülü hayalinin göründüğü kadar uzakta olmayabileceğini keşfeder... <br><br>(Kaynak: Kodansha ABD) <br><br>Note: Tongari Boushi no Atelier episode 2 was streamed a week in advance on Crunchyroll, ABEMA, and Netflix, alongside episode 1. Streaming is one week ahead of the TV broadcast."
         },
         {
           "id": 189046,
@@ -231,10 +231,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Memory Manipulation",
               "isMediaSpoiler": true
             },
@@ -243,12 +239,16 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
               "name": "Dissociative Identities",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
             },
             {
               "name": "Time Manipulation",
@@ -275,11 +275,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Cult",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Travel",
               "isMediaSpoiler": false
             },
             {
-              "name": "Cult",
+              "name": "Medieval",
               "isMediaSpoiler": false
             },
             {
@@ -287,7 +291,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Medieval",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -299,20 +303,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Elf",
               "isMediaSpoiler": false
             },
             {
               "name": "Shapeshifting",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
             },
             {
               "name": "Spearplay",
@@ -323,7 +319,15 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Creature Taming",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Gods",
               "isMediaSpoiler": true
             },
             {
@@ -333,13 +337,9 @@
             {
               "name": "Twins",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Gods",
-              "isMediaSpoiler": true
             }
           ],
-          "averageScore": 88,
+          "averageScore": 89,
           "studios": {
             "nodes": [
               {
@@ -387,7 +387,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Re:Zero kara Hajimeru Isekai Seikatsu'nun dördüncü sezonu.<br><br>Acı çeken müttefiklerini kurtarmak isteyen Subaru, Ülker Gözetleme Kulesi'ndeki Bilge'yi bulmak için ölümcül bir çölle karşı karşıya kalır.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: 1. Bölüm, 1 Kasım 2025'te Lucca Comics & Games'te Japon televizyon yayınından önce ön gösterimi yapılmıştır."
+          "descriptionTr": "The fourth season of Re:Zero kara Hajimeru Isekai Seikatsu.<br><br>Acı çeken müttefiklerini kurtarmak isteyen Subaru, Ülker Gözetleme Kulesi'ndeki Bilge'yi bulmak için ölümcül bir çölle karşı karşıya kalır.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: 1. Bölüm, 1 Kasım 2025'te Lucca Comics & Games'te Japon televizyon yayınından önce ön gösterimi yapılmıştır."
         },
         {
           "id": 195600,
@@ -1274,7 +1274,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yüzyıllar boyunca ölümcül sanatlar, Üstatlar olarak bilinen kişiler tarafından mükemmelleştirildi.<br><br>Bunlar arasında Beş Büyük Ailenin Zehir Ustaları en korkunç güce ve nüfuza sahiptir.<br><br>Zehir Ustaları'nın Gero Ailesi'nin varisi Hikaru Gero, tüm hayatını aşktan veya evlilikten çok uzakta, yeraltı dünyasında geçirmiştir.<br><br>Ancak Gero Ailesi reisi, Hikaru'nun kız kardeşinin soyunu korumak için bir varis doğurması gerektiğine karar verince -gerekirse güç kullanarak- Hikaru onu ne pahasına olursa olsun korumaya karar verir.<br><br>İşte tam o sırada Hikaru, son işinin hedefi haline gelen parlak bir evlilik dolandırıcısı olan Mei Kinosaki ile karşılaşır.<br><br>Ailenin veraset sorununu çözmenin ve kız kardeşini korumanın tek yolunun evlilik olduğunu anlayan Hikaru, düşünmeden Mei'den bir gelin bulma konusunda yardım ister.<br><br>(Kaynak: EMOTION Etiket Kanalı)"
+          "descriptionTr": "Yüzyıllar boyunca ölümcül sanatlar, Üstatlar olarak bilinen kişiler tarafından mükemmelleştirildi.<br><br>Bunlar arasında Beş Büyük Ailenin Zehir Ustaları en korkunç güce ve nüfuza sahiptir.<br><br>Zehir Ustaları'nın Gero Ailesi'nin varisi Hikaru Gero, tüm hayatını aşktan veya evlilikten çok uzakta, yeraltı dünyasında geçirmiştir.<br><br>Ancak Gero Ailesi reisi, Hikaru'nun kız kardeşinin soyunu korumak için gerekirse zorla bir varis doğurması gerektiğine karar verince Hikaru, onu ne pahasına olursa olsun korumaya karar verir.<br><br>İşte tam o sırada Hikaru, son işinin hedefi haline gelen parlak bir evlilik dolandırıcısı olan Mei Kinosaki ile karşılaşır.<br><br>Ailenin veraset sorununu çözmenin ve kız kardeşini korumanın tek yolunun evlilik olduğunu anlayan Hikaru, düşünmeden Mei'den bir gelin bulma konusunda yardım ister.<br><br>(Kaynak: EMOTION Etiket Kanalı)"
         },
         {
           "id": 170019,
@@ -1385,7 +1385,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken'in ikinci sezonu.<br><br>Şimdi bir çift olan Amane ve Mahiru, bu tatlı aşk hikayesinde okul hayatına yön veriyor ve geçmişlerinin üstesinden geliyor.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Crunchyroll, İngilizce başlığı \"The Angel Next Door Spoils Me Rotten2\" adı altında etiketledi, dolayısıyla başlığın ad ile 2 arasında boşluk olmaması hatalı görünse de, serinin resmi olarak etiketlendiği şey budur."
+          "descriptionTr": "The second season of Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken.<br><br>Şimdi bir çift olan Amane ve Mahiru, bu tatlı aşk hikayesinde okul hayatına yön veriyor ve geçmişlerinin üstesinden geliyor.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Crunchyroll, İngilizce başlığı \"The Angel Next Door Spoils Me Rotten2\" adı altında etiketledi, dolayısıyla başlığın ad ile 2 arasında boşluk olmaması hatalı görünse de, serinin resmi olarak etiketlendiği şey budur."
         },
         {
           "id": 199221,
@@ -1409,8 +1409,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199221-b3W0FfJd4zMy.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781787600,
-            "episode": 12
+            "airingAt": 1782392400,
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -1669,8 +1669,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186497-naXtQFMHJaR1.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781794560,
-            "episode": 12
+            "airingAt": 1782399360,
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -1789,8 +1789,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182483-Nzix9ntq3CVj.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781785800,
-            "episode": 11
+            "airingAt": 1782390600,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -1897,7 +1897,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Batı'nın en azılı şövalyesi Serafina, barbarlar tarafından yakalandığında işkence görmeyi bekliyordu. Bunun yerine evlenme teklifi aldı! Yeminli düşmanıyla evlenmek kesinlikle hayır! Ancak düğünü kaçıran kişinin kültürünü ve çok güzel yüzünü gördükten sonra, kılıcını düğün duvağıyla değiştirmek isteyebilir. Düşmanlardan belki de sevgililere uzanan nihai hikayeye hazır olun.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Batı'nın en azılı şövalyesi Serafina, barbarlar tarafından yakalandığında işkence görmeyi bekliyordu. Bunun yerine evlenme teklifi aldı! Yeminli düşmanıyla evlenmek kesinlikle hayır! Ancak düğününü kaçıran kişinin kültürünü ve çok güzel yüzünü gördükten sonra, kılıcını bir düğün duvağıyla değiştirmek isteyebilir. Düşmanlardan belki de sevgililere uzanan nihai hikayeye hazır olun.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 206914,
@@ -2349,7 +2349,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 57,
+          "averageScore": 58,
           "studios": {
             "nodes": [
               {
@@ -2549,7 +2549,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor ama sonunda bir şekilde onunla bir ilişki mi kuruyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk buluşma ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor - ancak bir şekilde onunla bir ilişkiye mi giriyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk buluşma ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 190143,
@@ -2833,6 +2833,165 @@
           "descriptionTr": "İdealine uygun yaşamasını dileyen Kanzaki Nao'nun babası, ona \"dürüstlük\" adını verdi. Nao, babasının isteklerini fazlasıyla yerine getirmiş, hatta onları aşmış ve \"aptalca dürüst bir kız\" etiketini kazanmıştır. Bu, Nao'yu, kazanmanın rakibin parasını almak için kandırmayı gerektirdiği ve kaybetmenin ise büyük miktarda borç almak anlamına geldiği yüksek riskli 'Yalancı Oyunu' için en az nitelikli aday haline getiriyor. Ancak bu, içinde yüz milyon yen nakit bulunan bir kutunun ve oyuna katıldığını bildiren bir kartın kapısının önüne gelmesini engellemediği gibi, kandırılarak tüm paranın anında alınmasını da engellemez. Büyük bir şirketin iflasından sorumlu olan dahi bir dolandırıcının hapisten çıktığını duyan Nao, yardım almak için dolandırıcı Shinichi Akiyama'ya gider. Bununla birlikte ikili, Yalancı Oyununun karanlık, açgözlülük dolu ve aldatıcı dünyasına çekilir."
         },
         {
+          "id": 198113,
+          "title": {
+            "romaji": "Kill Ao",
+            "english": "KILL BLUE",
+            "native": "キルアオ"
+          },
+          "synonyms": [
+            "Kill Blue",
+            "คิลบลู",
+            "Убивая юность"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 11
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198113-NRa47idWSlnx.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-5hYeMXL2zilW.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1781964000,
+            "episode": 11
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Comedy"
+          ],
+          "tags": [
+            {
+              "name": "Guns",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Regression",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Assassins",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School Club",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Surreal Comedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Child Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kuudere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Rehabilitation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crime",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Fake Relationship",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Dissociative Identities",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Arranged Marriage",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Criminal Organization",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Football",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Crossdressing",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Age Gap",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 74,
+          "studios": {
+            "nodes": [
+              {
+                "name": "CUE"
+              }
+            ]
+          },
+          "description": "<p>Juuzou Oogami is a legendary hitman who has never failed an assignment, no matter how impossible. One day, after wiping out a powerful organization, he is stung by a mysterious wasp and collapses. When he wakes up, the fearsome 39-year-old assassin has been transformed into a 13-year-old boy!<br><br></p>\n<p>Before he can even process what happened, his boss delivers a new order: “In that body, infiltrate a middle school.”<br><br></p>\n<p>What awaits him is an unexpected school life filled with colorful classmates, youthful chaos, and looming danger. Can Juuzou ever return to his original form? Or will the assassins closing in on him end his second life before it even begins!?<br><br><br />\n(Source: Official Site)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://kill-blue.jp/"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@killblue_official"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/KILLBLUE_PR"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371896/kill-blue"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2343894"
+            },
+            {
+              "site": "Viki",
+              "url": "https://www.viki.com/tv/41501c-kill-blue"
+            },
+            {
+              "site": "Netflix",
+              "url": "https://www.netflix.com/title/82757009"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Juuzou Oogami, ne kadar imkansız olursa olsun hiçbir görevde başarısız olmayan efsanevi bir tetikçidir. Bir gün güçlü bir organizasyonu yok ettikten sonra gizemli bir eşekarısı tarafından sokulur ve yere yığılır. 39 yaşındaki korkunç suikastçı uyandığında 13 yaşında bir çocuğa dönüşmüştür!<br><br>Daha ne olduğunu anlayamadan patronu yeni bir emir verir: \"O bedenin içinde bir ortaokula sızın.\"<br><br>Onu bekleyen ise renkli sınıf arkadaşları, gençlik kaosu ve yaklaşmakta olan tehlikelerle dolu beklenmedik bir okul hayatıdır. Juuzou bir gün orijinal formuna dönebilecek mi? Yoksa ona yaklaşan suikastçılar onun ikinci hayatına daha başlamadan son mu verecek?<br><br>(Kaynak: Resmi Site)"
+        },
+        {
           "id": 202102,
           "title": {
             "romaji": "NEEDY GIRL OVERDOSE",
@@ -3004,165 +3163,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Sevgiyle \"KAngel\" olarak bilinen OMGkawaiiAngel, 10 milyon abonesiyle en iyi yayıncı kızlardan biri ve onu çalışırken görmeden bir gün geçmiyor. İster internette, ister televizyonda, ister canlı bir şovda olsun, etrafı her zaman tezahürat yapan hayranlarıyla çevrilidir.<br><br>Karamazov adında üç kızdan oluşan bir yayın birimi, KAngel'in popülaritesini yakalamaya çalışıyor.<br><br>Ve bu yayıncıların dünyasından çok uzakta olan Kache, bir temalı kafede çalışırken beleşçi erkek arkadaşıyla birlikte yaşayan bir kızdır.<br><br>Yıldız gibi parlayan bir kız ve o parlaklığa ulaşan kızların ördüğü dünyayı büyüleyen \"İnternet Meleği\" ile ekranın diğer tarafındaki \"sen\"in hikayesi burada başlıyor.<br><br>(Kaynak: Resmi Site)<br><br>Not: Yayınlanmadan önce, yeniden düzenlenen ve kurgulanan ilk 3 bölümün teatral ön gösterimi olan \"NEEDY GIRL OVERDOSE -OVERTURE-\" 6 Mart 2026'da Japonya'da gösterime girdi."
-        },
-        {
-          "id": 198113,
-          "title": {
-            "romaji": "Kill Ao",
-            "english": "KILL BLUE",
-            "native": "キルアオ"
-          },
-          "synonyms": [
-            "Kill Blue",
-            "คิลบลู",
-            "Убивая юность"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 11
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198113-NRa47idWSlnx.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-5hYeMXL2zilW.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1781964000,
-            "episode": 11
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Comedy"
-          ],
-          "tags": [
-            {
-              "name": "Guns",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Regression",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Assassins",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School Club",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Surreal Comedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Child Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kuudere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Rehabilitation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Crime",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Fake Relationship",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Dissociative Identities",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Arranged Marriage",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Criminal Organization",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Football",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Crossdressing",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Age Gap",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 74,
-          "studios": {
-            "nodes": [
-              {
-                "name": "CUE"
-              }
-            ]
-          },
-          "description": "<p>Juuzou Oogami is a legendary hitman who has never failed an assignment, no matter how impossible. One day, after wiping out a powerful organization, he is stung by a mysterious wasp and collapses. When he wakes up, the fearsome 39-year-old assassin has been transformed into a 13-year-old boy!<br><br></p>\n<p>Before he can even process what happened, his boss delivers a new order: “In that body, infiltrate a middle school.”<br><br></p>\n<p>What awaits him is an unexpected school life filled with colorful classmates, youthful chaos, and looming danger. Can Juuzou ever return to his original form? Or will the assassins closing in on him end his second life before it even begins!?<br><br><br />\n(Source: Official Site)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://kill-blue.jp/"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@killblue_official"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/KILLBLUE_PR"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371896/kill-blue"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2343894"
-            },
-            {
-              "site": "Viki",
-              "url": "https://www.viki.com/tv/41501c-kill-blue"
-            },
-            {
-              "site": "Netflix",
-              "url": "https://www.netflix.com/title/82757009"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Juuzou Oogami, ne kadar imkansız olursa olsun hiçbir görevde başarısız olmayan efsanevi bir tetikçidir. Bir gün güçlü bir organizasyonu yok ettikten sonra gizemli bir eşekarısı tarafından sokulur ve yere yığılır. 39 yaşındaki korkunç suikastçı uyandığında 13 yaşında bir çocuğa dönüşmüştür!<br><br>Daha ne olduğunu anlayamadan patronu yeni bir emir verir: \"O bedenin içinde bir ortaokula sızın.\"<br><br>Onu bekleyen ise renkli sınıf arkadaşları, gençlik kaosu ve yaklaşmakta olan tehlikelerle dolu beklenmedik bir okul hayatıdır. Juuzou bir gün orijinal formuna dönebilecek mi? Yoksa ona yaklaşan suikastçılar onun ikinci hayatına daha başlamadan son mu verecek?<br><br>(Kaynak: Resmi Site)"
         },
         {
           "id": 196935,
@@ -3450,7 +3450,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Mairimashita'nın dördüncü sezonu! Iruma-kun.<br><br>Suzuki Iruma ve Uyumsuzlar Sınıfının on üç öğrencisinin tamamı, Müzik Festivalinde 4. Sıraya ulaşmak için performans sergilemek zorundadır.<br><br>(Kaynak: Crunchyroll Haberleri)"
+          "descriptionTr": "The fourth season of Mairimashita! Iruma-kun.<br><br>Suzuki Iruma ve Uyumsuzlar Sınıfının on üç öğrencisinin tümü, Müzik Festivalinde 4. Sıraya ulaşmak için performans sergilemek zorundadır.<br><br>(Kaynak: Crunchyroll Haberleri)"
         },
         {
           "id": 171110,
@@ -4033,7 +4033,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yeni üniversite hayatı, yeni yurt arkadaşları... ve yepyeni bir içki dünyası! Botan Kamiina, sessiz yurt lideri Ibuki Tonami'yi tek başına içki içerken fark ettikten sonra ilk alkol yudumunu alıyor. Botan, shochu'dan viskiye kadar içki içmenin keyfini arkadaşlarıyla paylaşırken, Ibuki yavaş yavaş bazı zevklerin paylaşıldığında daha iyi olduğunu öğrenir.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Yeni üniversite hayatı, yeni yurt arkadaşları... ve yepyeni bir içki dünyası! Botan Kamiina, sessiz yurt lideri Ibuki Tonami'yi tek başına içki içerken fark ettikten sonra alkolünden ilk yudumunu alıyor. Botan, shochu'dan viskiye kadar içki içmenin keyfini arkadaşlarıyla paylaşırken, Ibuki yavaş yavaş bazı zevklerin paylaşıldığında daha iyi olduğunu öğrenir.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 192808,
@@ -4370,7 +4370,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu kızdırırsanız, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlı ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacak... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetti.<br><br>(Kaynak: HİDİV)"
+          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu gücendirirseniz, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlıdır ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacaktır... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetmiştir.<br><br>(Kaynak: HİDİV)"
         },
         {
           "id": 195333,
@@ -4728,7 +4728,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Spica Başak çırak bir cadıdır ancak herhangi bir sihir kullanamaz. Hayallerindeki akademiye girebilmek için ustası olacak birine ihtiyacı var ama ne parası ne de hiçbir bağlantısı var. Aniden önünde sihir kullanabilen, konuşan gizemli bir kara kedi belirir!! Spica sihir öğrenmek istiyor, kara kedi ise lanetinin kırılmasını istiyor; hedefler aynı yolda. Böylece gizli bir usta-çırak ilişkisi doğdu! Ama laneti bozmanın anahtarı onu öpmek…?! Sakar bir cadı ve kara bir kedinin öğretileri; sihir akademisi fantezisi burada başlıyor!!<br><br>(Kaynak: K Manga)"
+          "descriptionTr": "Spica Başak çırak bir cadıdır ancak herhangi bir sihir kullanamaz. Hayallerindeki akademiye girebilmek için ustası olacak birine ihtiyacı var ama ne parası ne de hiçbir bağlantısı var. Aniden önünde sihir kullanabilen, konuşan gizemli bir kara kedi belirir!! Spica sihir öğrenmek istiyor, kara kedi ise lanetinin kırılmasını istiyor; hedefler aynı yolda. Therefore, a secret master-apprentice relationship was born! Ama laneti bozmanın anahtarı onu öpmek…?! Sakar bir cadı ve kara bir kedinin öğretileri; sihir akademisi fantezisi burada başlıyor!!<br><br>(Kaynak: K Manga)"
         },
         {
           "id": 199029,
@@ -5110,7 +5110,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Geçmişi ve bugünü birbirine bağlayan bir lanet.<br><br>1900'lerin başlarında Japonya'nın Taisho döneminde yaşayan genç bir mistik olan Mao, hayatını değiştiren bir lanete maruz kaldıktan sonra dokuz yüz uzun yıl boyunca yaşamaya devam eden gizemli bir onmyojidir. Gelecekten gelmiş gibi görünen ortaokul öğrencisi Nanoka Kiba ile tanıştığında dünyası daha da tuhaf bir hal alır. Nanoka, hassas yıllarına rağmen, küçük bir çocuk olarak anne ve babasını tüyler ürpertici bir kazada kaybetmesiyle yaşadığı travmatik deneyimin damgasını vurduğu garip bir hayat yaşamıştır. Ancak Nanoka o uğursuz alışveriş merkezine dönmeye karar verdiğinde başka bir zamana ve yere taşınır; doğaüstü ayakaşilerin kendisinden çok önce geliştiği bir dünyaya. Orada Mao ile tanışır ve Mao'nun ani ve tuhaf sorusu Nanoka'nın kendisini ve meraklı hayatını tamamen yeni bir ışıkta görmesine neden olur. Artık farklı dünyalardan gelen iki gezgin, hayatlarını etkileyen karanlık güçlerle mücadele ederken birleşiyor.<br><br>(Kaynak: VIZ Media, Hulu, düzenlendi)"
+          "descriptionTr": "Geçmişi ve bugünü birbirine bağlayan bir lanet.<br><br>1900'lerin başlarında Japonya'nın Taisho döneminde yaşayan genç bir mistik olan Mao, hayatını değiştiren bir lanete maruz kaldıktan sonra dokuz yüz uzun yıl boyunca yaşamaya devam eden gizemli bir onmyojidir. Gelecekten gelmiş gibi görünen ortaokul öğrencisi Nanoka Kiba ile tanıştığında dünyası daha da tuhaf bir hal alır. Nanoka, hassas yıllarına rağmen, küçük bir çocukken anne ve babasını tüyler ürpertici bir kazada kaybetmesiyle yaşadığı travmatik deneyimin damgasını vurduğu garip bir hayat yaşamıştır. Ancak Nanoka o uğursuz alışveriş merkezine dönmeye karar verdiğinde başka bir zamana ve yere taşınır; doğaüstü ayakaşilerin kendisinden çok önce geliştiği bir dünyaya. Orada Mao ile tanışır. Mao'nun ani ve tuhaf sorusu Nanoka'nın kendisini ve meraklı hayatını tamamen yeni bir ışıkta görmesine neden olur. Artık farklı dünyalardan gelen iki gezgin, hayatlarını etkileyen karanlık güçlerle mücadele ederken birleşiyor.<br><br>(Kaynak: VIZ Media, Hulu, düzenlendi)"
         },
         {
           "id": 202381,
@@ -5309,7 +5309,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Minato Kusunoki, ailesinin perili, terk edilmiş kırsal mülkünü yönetmekle görevlendirilir. Bununla birlikte, ezici ruhsal gücü sayesinde Minato, kazara tüm mekanı arındırarak, bir zamanlar lanetli olan bu mülkü, başıboş tanrılar ve tanrılar için huzurlu bir sığınağa dönüştürüyor! Minato buraya yerleşirken kendisini ilginç ilahi komşularla ve tanrılar arasındaki yaşamın canlı kaosuyla çevrelenmiş halde bulur.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Minato Kusunoki, ailesinin perili, terk edilmiş kırsal mülkünü yönetmekle görevlendirilir. Bununla birlikte, ezici ruhsal gücü sayesinde Minato, yanlışlıkla tüm yeri arındırarak bir zamanlar lanetli olan mülkü, başıboş tanrılar ve tanrılar için huzurlu bir sığınağa dönüştürüyor! Minato buraya yerleşirken kendisini ilginç ilahi komşularla ve tanrılar arasındaki yaşamın canlı kaosuyla çevrelenmiş halde bulur.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 186744,
@@ -5428,7 +5428,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kendini iyi hissetmediğinde, sınav olduğunda, okula gitmek istemediğinde... Onun yerini ben alıyorum. Ben onun kopyasıyım. Başka bir amacım yok. Ama aşık olduğumda bu değişti. Aşık olduğum çocuğun ben olduğumu anlaması için saçlarımı topuz yapıyorum. Okulu atlıyoruz ve yarın ve sonrasında her gün tekrar buluşacağımıza söz veriyoruz. Ben onun kopyasıyım. Benimle ilgili her şey ödünç alınmış ve boş ama kalbim benim.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Kendini iyi hissetmediğinde, sınav olduğunda, okula gitmek istemediğinde... Onun yerini ben alıyorum. Ben onun kopyasıyım. Başka bir amacım yok. Ama aşık olduğumda bu değişti. Aşık olduğum çocuk benim olduğumu anlasın diye saçlarımı topluyorum. Okulu atlıyoruz ve yarın ve sonrasında her gün tekrar buluşacağımıza söz veriyoruz. Ben onun kopyasıyım. Benimle ilgili her şey ödünç alınmış ve boş ama kalbim benim.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 198939,
@@ -5794,7 +5794,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Awajima Opera Okulu'nda Japonya'nın dört bir yanından kızlar sahnede bir yer kazanmak için çabalıyor. Wakana müzikal tiyatroya olan aşkıyla hareket ederken Kinue sessiz bir disiplinle çalışıyor. Burslu öğrenci Emi herkesin dikkatini çeker; ama özellikle de hayranlık ve karşılaştırma konusunda zorluk çeken Keiko'nun. Değişen bakış açıları sayesinde iç içe geçen günleri, hırsı, dostluğu ve kendini keşfetmeyi keşfediyor.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Awajima Opera Okulu'nda Japonya'nın dört bir yanından kızlar sahnede bir yer kazanmak için çabalıyor. Wakana müzikal tiyatroya olan aşkıyla hareket ederken Kinue sessiz bir disiplinle çalışıyor. Burslu öğrenci Emi herkesin dikkatini çekiyor, ama özellikle de hayranlık ve karşılaştırma konusunda zorluk çeken Keiko'nun. Değişen bakış açıları sayesinde iç içe geçen günleri, hırsı, dostluğu ve kendini keşfetmeyi keşfediyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 204319,
@@ -5934,7 +5934,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Souta, ablası Kaori'nin yönlendirmesiyle aniden Hokuei Üniversitesi Kadın Voleybol Kulübü'nün yurt müdürü ve koçu oldu. Orada ilk aşkı Ayano ile önemli bir buluşma yaşadı... Kızlar yurdunda! Spor salonunda! Otelde mi? Onu bekleyen şey, kendisinden daha büyük kızlar tarafından patronluk taslanacağı günlerdi! Boyut Farklılıklarından Mutlu Bir Harem Rom-Com'u ♡ Kuzey Ovalarında Kocaman Doğdu!!<br><br>(Kaynak: OceanVeil)<br><br>Not: Bölüm 1, 13 Mart 2026'da AnimeFesta'da gelişmiş bir dağıtım aldı. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
+          "descriptionTr": "Ablası Kaori'nin yönlendirmesiyle Souta aniden Hokuei Üniversitesi Kadın Voleybol Kulübü'nün yurt müdürü ve koçu oldu. Orada ilk aşkı Ayano ile önemli bir buluşma yaşadı... Kızlar yurdunda! Spor salonunda! Otelde mi? Onu bekleyen şey, kendisinden daha büyük kızların patronluk taslayacağı günlerdi! Boyut Farklılıklarından Mutlu Bir Harem Rom-Com'u ♡ Kuzey Ovalarında Kocaman Doğdu!!<br><br>(Kaynak: OceanVeil)<br><br>Not: Bölüm 1, 13 Mart 2026'da AnimeFesta'da gelişmiş bir dağıtım aldı. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
         },
         {
           "id": 202985,
@@ -6033,7 +6033,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Peki artık oda arkadaşlarına sahip olmanın anlamı bu mu? 24 yaşındaki ofis çalışanı Rinko, yalnız yaşıyor ve gizlice bir otaku. Bir gün dairesi duvardaki bir \"delik\" aracılığıyla iki komşu odaya bağlanır. Soldaki odada Rinko'ya aşırı tatlı davranan taze yüzlü ama gizemli bir adam var. Sağdaki oda, şiddet eğilimi olan ve benzer şekilde gizemli bir adam tarafından işgal ediliyor... Ama durun! \"Ben...sanırım onu ​​tanıyorum!\" Rinko'nun tek yalnızlık kaynağı olan dairesi altüst olmuştur. Artık her gün yürek hoplatan sürprizlerle dolu!<br><br>(Kaynak: Manga Plaza)"
+          "descriptionTr": "Peki artık oda arkadaşlarına sahip olmanın anlamı bu mu? 24 yaşındaki ofis çalışanı Rinko, yalnız yaşıyor ve gizlice bir otaku. Bir gün dairesi duvardaki bir \"delik\" aracılığıyla iki komşu odaya bağlanır. Soldaki odada Rinko'ya aşırı tatlı davranan taze yüzlü ama gizemli bir adam var. Sağdaki oda, şiddet eğilimi olan ve benzer şekilde gizemli bir adam tarafından işgal ediliyor... Ama bekleyin! \"Ben...sanırım onu ​​tanıyorum!\" Rinko'nun tek yalnızlık kaynağı olan dairesi altüst olmuştur. Artık her gün yürek hoplatan sürprizlerle dolu!<br><br>(Kaynak: Manga Plaza)"
         },
         {
           "id": 206166,
@@ -6273,7 +6273,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Aimi ve Nami için cevap, sevgilerinin nesnesi olan Kirio'yu tek bir dokunuşla uzaktan tespit edebildikleri için sevinç gözyaşları dökmekti. Bunlar, romantizmdeki iki arkadaşın/rakiplerin, var olduklarını pek bilmeyen bu çocuğa olan aşklarını kanıtlamak için birbirlerine sordukları türden derin, felsefi sorulardır. Ancak bu onları, onu rüyalarına sokmak için gece ritüelleri düzenlemekten veya onun hakkında tam olarak nelerden hoşlandıklarını en son organına kadar listelemekten alıkoymayacaktır. Ama işler iyice zorlaştığında, aşka ateş etmek yerine komik arkadaşlıklarını mı seçecekler?<br><br>(Kaynak: Kodansha ABD)"
+          "descriptionTr": "Aimi ve Nami için cevap, sevgilerinin nesnesi olan Kirio'yu tek bir dokunuşla uzaktan tespit edebildikleri için sevinç gözyaşları dökmekti. Bunlar, romantizmdeki iki arkadaşın/rakiplerin, var olduklarını pek bilmeyen bu çocuğa olan aşklarını kanıtlamak için birbirlerine sordukları türden derin, felsefi sorulardır. Ancak bu onları, onu rüyalarına sokmak için gece ritüelleri düzenlemekten veya en son organına kadar onun hakkında tam olarak nelerden hoşlandıklarını listelemekten alıkoymayacaktır. Ama işler iyice zorlaştığında, aşka ateş etmek yerine komik arkadaşlıklarını mı seçecekler?<br><br>(Kaynak: Kodansha ABD)"
         },
         {
           "id": 195734,
@@ -6392,7 +6392,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Manga kafedeki liseli kız! Meiko, zengin kızların okuluna giden kırsal bir kızdır. Etkinliklere katılırsa tüm masraflar karşılanacaktır... Ama bunun bir manga kafede yatılı çalışma anlamına geleceğini kim bilebilirdi ki?! Küçük bir manga kafeterya standında yaşamanın o kadar da kötü olmadığı ortaya çıktı! Sevimli liseli kızların görev yaptığı manga kafeye doymak ister misiniz?<br><br>(Kaynak: Bookwalker, çevrildi)"
+          "descriptionTr": "Manga kafedeki liseli kız! Meiko, zengin kızların okuluna giden taşralı bir kızdır. Etkinliklere katılırsa tüm masraflar karşılanacaktır... Ama bunun bir manga kafede yatılı çalışma anlamına geleceğini kim bilebilirdi ki?! Küçük bir manga kafeterya standında yaşamanın o kadar da kötü olmadığı ortaya çıktı! Sevimli liseli kızların görev yaptığı manga kafeye doymak ister misiniz?<br><br>(Kaynak: Bookwalker, çevrildi)"
         },
         {
           "id": 158036,
@@ -6509,7 +6509,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Lise orta noktasına ulaşırken, sanat okulunda tasarım eğitimi almayı hayal eden Koichi Asakura'nın planları müze duvarındaki patlayıcı grafitilerle sarsılır. Sanatçı, geçmiş bir olaydan sonra yeteneğini gömen solak bir kız olan Eren Yamagishi'dir. Sanatın bir araya getirdiği Koichi, tasarımın peşine düşerken Eren resme geri döner ancak korku, hırs ve eski yara izleri yollarını tehdit eder.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Lise orta noktasına ulaşırken, sanat okulunda tasarım eğitimi almayı hayal eden Koichi Asakura'nın planları müze duvarındaki patlayıcı grafitilerle sarsılır. Sanatçı, geçmiş bir olaydan sonra yeteneğini gömen solak bir kız olan Eren Yamagishi'dir. Sanatın bir araya getirdiği Koichi, tasarımın peşine düşerken Eren resim yapmaya geri döner ancak korku, hırs ve eski yara izleri yollarını tehdit eder.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 177634,
