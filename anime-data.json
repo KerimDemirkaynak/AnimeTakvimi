@@ -52,11 +52,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Drawing",
               "isMediaSpoiler": false
             },
             {
-              "name": "Drawing",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -108,10 +108,6 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Revenge",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Teacher",
               "isMediaSpoiler": false
             },
@@ -120,15 +116,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Revenge",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Body Horror",
               "isMediaSpoiler": true
             },
             {
-              "name": "Rehabilitation",
+              "name": "Foreign",
               "isMediaSpoiler": false
             },
             {
-              "name": "Foreign",
+              "name": "Rehabilitation",
               "isMediaSpoiler": false
             },
             {
@@ -144,11 +144,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Twins",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Twins",
               "isMediaSpoiler": false
             }
           ],
@@ -279,24 +279,24 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Travel",
+              "name": "Medieval",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Anthropomorphism",
+              "isMediaSpoiler": true
             },
             {
               "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
-              "name": "Anthropomorphism",
-              "isMediaSpoiler": true
+              "name": "Travel",
+              "isMediaSpoiler": false
             },
             {
               "name": "Astronomy",
@@ -327,15 +327,15 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Spearplay",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Twins",
               "isMediaSpoiler": false
             },
             {
               "name": "Maids",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Spearplay",
               "isMediaSpoiler": false
             }
           ],
@@ -347,7 +347,7 @@
               }
             ]
           },
-          "description": "<p>The fourth season of <i>Re:Zero kara Hajimeru Isekai Seikatsu</i>.<br><br></p>\n<p>To save his stricken allies, Subaru faces a deadly desert to find the Sage at Pleiades Watchtower.<br><br></p>\n<p>(Source: Crunchyroll News)</p>\n<p><br><br><br />\n<i>Note: Episode 1 pre-screened at Lucca Comics &amp; Games on November 1, 2025, before the Japanese television broadcast.</p>",
+          "description": "<p>The fourth season of <i>Re:Zero kara Hajimeru Isekai Seikatsu</i>.<br><br></p>\n<p>To save his stricken allies, Subaru faces a deadly desert to find the Sage at Pleiades Watchtower.<br><br></p>\n<p>(Source: Crunchyroll News)</p>\n<p><br><br><br />\n<i>Note: Lucca Comics &amp; Games pre-screened episode 1 early on November 1, 2025, prior to the Japanese television broadcast on July 8th, 2026.</p>",
           "externalLinks": [
             {
               "site": "Twitter",
@@ -387,7 +387,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Re:Zero kara Hajimeru Isekai Seikatsu'nun dördüncü sezonu.<br><br>Acı çeken müttefiklerini kurtarmak isteyen Subaru, Ülker Gözetleme Kulesi'ndeki Bilge'yi bulmak için ölümcül bir çölle karşı karşıya kalır.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: 1. Bölüm, 1 Kasım 2025'te Lucca Comics & Games'te Japon televizyon yayınından önce ön gösterimi yapılmıştır."
+          "descriptionTr": "Re:Zero kara Hajimeru Isekai Seikatsu'nun dördüncü sezonu.<br><br>Acı çeken müttefiklerini kurtarmak isteyen Subaru, Ülker Gözetleme Kulesi'ndeki Bilge'yi bulmak için ölümcül bir çölle karşı karşıya kalır.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Lucca Comics & Games, 1. bölümün ön gösterimini 1 Kasım 2025'te, 8 Temmuz 2026'daki Japon televizyon yayınından önce yaptı."
         },
         {
           "id": 195600,
@@ -543,8 +543,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781877600,
-            "episode": 11
+            "airingAt": 1782482400,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -832,7 +832,7 @@
               }
             ]
           },
-          "description": "<p>The fourth season of <i> Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</i>.<br><br><br />\nAs Ayanokouji and his classmates begin their second year at the Advanced Nurturing High School, they’re greeted by a fresh gauntlet of exams and a fresh batch of rather unique first-year students. They’ll have to get to know each other quickly, because the first special exam pairs the first-years with the second-years on a written test—with only the second-years facing expulsion if their team performs poorly! Worse yet? It seems one of the new first-years is also from the White Room. Can Ayanokouji avoid expulsion while sussing out the identity of this hidden foe?<br />\n<br><br><br />\n(Source: Seven Seas)</p>",
+          "description": "<p>The fourth season of <i>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</i>.<br><br><br />\nAs Ayanokouji and his classmates begin their second year at the Advanced Nurturing High School, they’re greeted by a fresh gauntlet of exams and a fresh batch of rather unique first-year students. They’ll have to get to know each other quickly, because the first special exam pairs the first-years with the second-years on a written test—with only the second-years facing expulsion if their team performs poorly! Worse yet? It seems one of the new first-years is also from the White Room. Can Ayanokouji avoid expulsion while sussing out the identity of this hidden foe?<br />\n<br><br><br />\n(Source: Seven Seas)</p>",
           "externalLinks": [
             {
               "site": "Twitter",
@@ -1226,12 +1226,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Boys' Love",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 75,
@@ -1275,117 +1275,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Yüzyıllar boyunca ölümcül sanatlar, Üstatlar olarak bilinen kişiler tarafından mükemmelleştirildi.<br><br>Bunlar arasında Beş Büyük Ailenin Zehir Ustaları en korkunç güce ve nüfuza sahiptir.<br><br>Zehir Ustaları'nın Gero Ailesi'nin varisi Hikaru Gero, tüm hayatını aşktan veya evlilikten çok uzakta, yeraltı dünyasında geçirmiştir.<br><br>Ancak Gero Ailesi reisi, Hikaru'nun kız kardeşinin soyunu korumak için gerekirse zorla bir varis doğurması gerektiğine karar verince Hikaru, onu ne pahasına olursa olsun korumaya karar verir.<br><br>İşte tam o sırada Hikaru, son işinin hedefi haline gelen parlak bir evlilik dolandırıcısı olan Mei Kinosaki ile karşılaşır.<br><br>Ailenin veraset sorununu çözmenin ve kız kardeşini korumanın tek yolunun evlilik olduğunu anlayan Hikaru, düşünmeden Mei'den bir gelin bulma konusunda yardım ister.<br><br>(Kaynak: EMOTION Etiket Kanalı)"
-        },
-        {
-          "id": 170019,
-          "title": {
-            "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
-            "english": "The Angel Next Door Spoils Me Rotten2",
-            "native": "お隣の天使様にいつの間にか駄目人間にされていた件 第2期"
-          },
-          "synonyms": [
-            "The Angel Next Door Spoils Me Rotten Season 2",
-            "ขาดคุณนางฟ้าข้างห้องไป ผมคงมีชีวิตต่อไปไม่ได้อีกแล้ว2",
-            "Meu Anjo de Vizinha Me Mima Demais 2",
-            "Chouchouté par l’ange d’à côté saison 2",
-            "Ангел по соседству меня балует 2",
-            "關於我在無意間被隔壁的天使變成廢柴這件事",
-            "Aku Dimanjakan Tetanggaku yang Seperti Malaikat"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 3
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170019-djbN0b934MhE.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170019-djbN0b934MhE.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170019-r07RiVV5d8rT.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1781875800,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Romance",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kuudere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Chibi",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Crime",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 75,
-          "studios": {
-            "nodes": [
-              {
-                "name": "project No.9"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken</i>.<br />\n<br><br><br />\nNow a couple, Amane and Mahiru navigate school life and overcome their pasts in this sweet love story.<br />\n<br><br><br />\n(Source: Crunchyroll News)<br />\n<br><br><br />\n<i>Note: Crunchyroll has labeled the English title under the name &quot;The Angel Next Door Spoils Me Rotten2&quot;, so while it seems erroneous for the title not to have a space between the name and 2, it is what the series is officially labeled as.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://otonarino-tenshisama.jp/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/tenshisama_PR"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@tenshisama_pr"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/G9VHN91DJ/the-angel-next-door-spoils-me-rotten"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2343630"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JjhVqkAt1bFMDpgrRsby7Z_"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken'in ikinci sezonu.<br><br>Şimdi bir çift olan Amane ve Mahiru, bu tatlı aşk hikayesinde okul hayatına yön veriyor ve geçmişlerinin üstesinden geliyor.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Crunchyroll, İngilizce başlığı \"The Angel Next Door Spoils Me Rotten2\" adı altında etiketledi, dolayısıyla başlığın ad ile 2 arasında boşluk olmaması hatalı görünse de, serinin resmi olarak etiketlendiği şey budur."
         },
         {
           "id": 199221,
@@ -2553,7 +2442,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor - ancak bir şekilde onunla bir ilişkiye mi giriyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk randevu ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor - ancak bir şekilde onunla bir ilişkiye mi giriyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk buluşma ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 190143,
@@ -2953,7 +2842,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 74,
+          "averageScore": 73,
           "studios": {
             "nodes": [
               {
@@ -3458,7 +3347,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Mairimashita'nın dördüncü sezonu! Iruma-kun.<br><br>Suzuki Iruma ve Uyumsuzlar Sınıfının on üç öğrencisinin tamamı, Müzik Festivalinde 4. Sıraya ulaşmak için performans sergilemek zorundadır.<br><br>(Kaynak: Crunchyroll Haberleri)"
+          "descriptionTr": "Mairimashita'nın dördüncü sezonu! Iruma-kun.<br><br>Suzuki Iruma ve Uyumsuzlar Sınıfının on üç öğrencisinin tümü, Müzik Festivalinde 4. Sıraya ulaşmak için performans sergilemek zorundadır.<br><br>(Kaynak: Crunchyroll Haberleri)"
         },
         {
           "id": 171110,
@@ -3602,7 +3491,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.<br><br>Bir soyluyla yaşadığı felaketle sonuçlanan karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra sıkı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi, her türlü değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!<br><br>(Kaynak: J-Novel Kulübü)"
+          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.<br><br>Bir soyluyla yaşadığı felaketle sonuçlanan karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra sıkı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi her türden değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!<br><br>(Kaynak: J-Novel Kulübü)"
         },
         {
           "id": 189987,
@@ -3915,8 +3804,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187869-WuaolpHqNqHk.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781881200,
-            "episode": 11
+            "airingAt": 1782486000,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -4064,10 +3953,7 @@
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg"
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192808-iaS1GnOo5l3G.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1781874000,
-            "episode": 12
-          },
+          "nextAiringEpisode": null,
           "isAdult": false,
           "genres": [
             "Comedy",
@@ -4378,7 +4264,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu kızdırırsanız, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlıdır ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacaktır... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetmiştir.<br><br>(Kaynak: HİDİV)"
+          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu gücendirirseniz, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlıdır ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacaktır... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetmiştir.<br><br>(Kaynak: HİDİV)"
         },
         {
           "id": 195268,
@@ -4462,7 +4348,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 69,
+          "averageScore": 68,
           "studios": {
             "nodes": [
               {
@@ -5013,7 +4899,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Geçmişi ve bugünü birbirine bağlayan bir lanet.<br><br>1900'lerin başlarında Japonya'nın Taisho döneminde yaşayan genç bir mistik olan Mao, hayatını değiştiren bir lanete maruz kaldıktan sonra dokuz yüz uzun yıl boyunca yaşamaya devam eden gizemli bir onmyojidir. Gelecekten gelmiş gibi görünen ortaokul öğrencisi Nanoka Kiba ile tanıştığında dünyası daha da tuhaf bir hal alır. Nanoka, hassas yıllarına rağmen, küçük bir çocukken anne ve babasını tüyler ürpertici bir kazada kaybetmesiyle yaşadığı travmatik deneyimin damgasını vurduğu garip bir hayat yaşamıştır. Ancak Nanoka o uğursuz alışveriş merkezine dönmeye karar verdiğinde başka bir zamana ve yere taşınır; doğaüstü ayakaşilerin kendisinden çok önce geliştiği bir dünyaya. Orada Mao ile tanışır ve Mao'nun ani ve tuhaf sorusu Nanoka'nın kendisini ve meraklı hayatını tamamen yeni bir ışıkta görmesine neden olur. Artık farklı dünyalardan gelen iki gezgin, hayatlarını etkileyen karanlık güçlerle mücadele ederken birleşiyor.<br><br>(Kaynak: VIZ Media, Hulu, düzenlendi)"
+          "descriptionTr": "Geçmişi ve bugünü birbirine bağlayan bir lanet.<br><br>1900'lerin başlarında Japonya'nın Taisho döneminde yaşayan genç bir mistik olan Mao, hayatını değiştiren bir lanete maruz kaldıktan sonra dokuz yüz uzun yıl boyunca yaşamaya devam eden gizemli bir onmyojidir. Gelecekten gelmiş gibi görünen ortaokul öğrencisi Nanoka Kiba ile tanıştığında dünyası daha da tuhaf bir hal alır. Nanoka, hassas yıllarına rağmen, küçük bir çocukken anne ve babasını tüyler ürpertici bir kazada kaybetmesiyle yaşadığı travmatik deneyimin damgasını vurduğu garip bir hayat yaşamıştır. Ancak Nanoka o uğursuz alışveriş merkezine dönmeye karar verdiğinde başka bir zamana ve yere taşınır; doğaüstü ayakaşilerin kendisinden çok önce geliştiği bir dünyaya. Orada Mao ile tanışır. Mao'nun ani ve tuhaf sorusu Nanoka'nın kendisini ve meraklı hayatını tamamen yeni bir ışıkta görmesine neden olur. Artık farklı dünyalardan gelen iki gezgin, hayatlarını etkileyen karanlık güçlerle mücadele ederken birleşiyor.<br><br>(Kaynak: VIZ Media, Hulu, düzenlendi)"
         },
         {
           "id": 196029,
@@ -5080,7 +4966,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 71,
+          "averageScore": 70,
           "studios": {
             "nodes": [
               {
@@ -5112,7 +4998,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Minato Kusunoki, ailesinin perili, terk edilmiş kırsal mülkünü yönetmekle görevlendirilir. Bununla birlikte, ezici ruhsal gücü sayesinde Minato, kazara tüm mekanı arındırarak, bir zamanlar lanetli olan bu mülkü, başıboş tanrılar ve tanrılar için huzurlu bir sığınağa dönüştürüyor! Minato buraya yerleşirken kendisini ilginç ilahi komşularla ve tanrılar arasındaki yaşamın canlı kaosuyla çevrelenmiş halde bulur.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Minato Kusunoki, ailesinin perili, terk edilmiş kırsal mülkünü yönetmekle görevlendirilir. Bununla birlikte, ezici ruhsal gücü sayesinde Minato, yanlışlıkla tüm yeri arındırarak bir zamanlar lanetli olan mülkü, başıboş tanrılar ve tanrılar için huzurlu bir sığınağa dönüştürüyor! Minato buraya yerleşirken kendisini ilginç ilahi komşularla ve tanrılar arasındaki yaşamın canlı kaosuyla çevrelenmiş halde bulur.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 186744,
@@ -5362,8 +5248,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196144-oWeLz0DOjhYV.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781879400,
-            "episode": 12
+            "airingAt": 1782484200,
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -5852,7 +5738,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Peki artık oda arkadaşlarına sahip olmanın anlamı bu mu? 24 yaşındaki ofis çalışanı Rinko, yalnız yaşıyor ve gizlice bir otaku. Bir gün dairesi duvardaki bir \"delik\" aracılığıyla iki komşu odaya bağlanır. Soldaki odada Rinko'ya aşırı tatlı davranan taze yüzlü ama gizemli bir adam var. Sağdaki oda, şiddet eğilimi olan ve benzer şekilde gizemli bir adam tarafından işgal ediliyor... Ama durun! \"Ben...sanırım onu ​​tanıyorum!\" Rinko'nun tek yalnızlık kaynağı olan dairesi altüst olmuştur. Artık her gün yürek hoplatan sürprizlerle dolu!<br><br>(Kaynak: Manga Plaza)"
+          "descriptionTr": "Peki artık oda arkadaşlarına sahip olmanın anlamı bu mu? 24 yaşındaki ofis çalışanı Rinko, yalnız yaşıyor ve gizlice bir otaku. Bir gün dairesi duvardaki bir \"delik\" aracılığıyla iki komşu odaya bağlanır. Soldaki odada Rinko'ya aşırı tatlı davranan taze yüzlü ama gizemli bir adam var. Sağdaki oda, şiddet eğilimi olan ve benzer şekilde gizemli bir adam tarafından işgal ediliyor... Ama bekleyin! \"Ben...sanırım onu ​​tanıyorum!\" Rinko'nun tek yalnızlık kaynağı olan dairesi altüst olmuştur. Artık her gün yürek hoplatan sürprizlerle dolu!<br><br>(Kaynak: Manga Plaza)"
         },
         {
           "id": 206166,
@@ -6201,7 +6087,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Lise orta noktasına ulaşırken, sanat okulunda tasarım eğitimi almayı hayal eden Koichi Asakura'nın planları müze duvarındaki patlayıcı grafitilerle sarsılır. Sanatçı, geçmiş bir olaydan sonra yeteneğini gömen solak bir kız olan Eren Yamagishi'dir. Sanatın bir araya getirdiği Koichi, tasarımın peşine düşerken Eren resme geri döner ancak korku, hırs ve eski yara izleri yollarını tehdit eder.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Lise orta noktasına ulaşırken, sanat okulunda tasarım eğitimi almayı hayal eden Koichi Asakura'nın planları müze duvarındaki patlayıcı grafitilerle sarsılır. Sanatçı, geçmiş bir olaydan sonra yeteneğini gömen solak bir kız olan Eren Yamagishi'dir. Sanatın bir araya getirdiği Koichi, tasarımın peşine düşerken Eren resim yapmaya geri döner ancak korku, hırs ve eski yara izleri yollarını tehdit eder.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 177634,
@@ -6265,7 +6151,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 77,
+          "averageScore": 78,
           "studios": {
             "nodes": [
               {
@@ -6330,7 +6216,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 41,
+          "averageScore": 42,
           "studios": {
             "nodes": [
               {
@@ -6353,7 +6239,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Rude, E Seviye bir maceracı. Onun tek becerisi olan \"Durum Hastalığını İptal Etme\", yalnızca miasmayla dolu zindanlarda şifalı bitkiler toplamak için faydalı olduğu düşünülen niş bir yetenektir. Neredeyse sıfır savaş becerisine sahip olan maceracı arkadaşları, \"Miasma Çöpçü\" takma adıyla onunla dalga geçiyor. Hayatını değiştirmek için umutsuz bir girişimde bulunan Rude, yeni bir zindana girme riskini alır ancak partisi tarafından ihanete uğrar ve ölüme terk edilir. Erzakları tükenip hayatı tükenirken yasak bir seçim yapar: Bir canavarın etini tüketmek. Böylece Rude'un sadece düşmanlarını tüketerek yeni beceriler kazandığı \"Canavar Yiyen\" macerasının hikayesi başlıyor!<br><br>(Kaynak: Ani-One Asya)"
+          "descriptionTr": "Rude, E Seviye bir maceracı. Onun tek becerisi olan \"Durum Hastalığını İptal Etme\", yalnızca miasmayla dolu zindanlarda şifalı bitkiler toplamak için yararlı olduğu düşünülen bir niş yetenektir. Neredeyse sıfır savaş becerisine sahip olan maceracı arkadaşları, \"Miasma Çöpçü\" takma adıyla onunla dalga geçiyor. Hayatını değiştirmek için umutsuz bir girişimde bulunan Rude, yeni bir zindana girme riskini alır ancak partisi tarafından ihanete uğrar ve ölüme terk edilir. Erzakları tükenip hayatı tükenirken yasak bir seçim yapar: Bir canavarın etini tüketmek. Böylece Rude'un sadece düşmanlarını tüketerek yeni beceriler kazandığı \"Canavar Yiyen\" macerasının hikayesi başlıyor!<br><br>(Kaynak: Ani-One Asya)"
         },
         {
           "id": 169228,
@@ -6577,6 +6463,98 @@
           ],
           "isMyList": false,
           "descriptionTr": "Fuu ve Rui, eskiden yakın olan ancak son zamanlarda birbirlerinden biraz uzaklaşan iki kız kardeştir. Fuu bir gün gizemli bir uzay gemisiyle karşılaşır ve büyülü güçler kazanır. Aynı zamanda Rui büyülü güçler de kazanır ve ikisi de hayal ettikleri yetişkinlere dönüşür. Kız kardeşlerin güçleri iki koşulla birlikte gelir: Büyü güçleri yalnızca bir yıl içinde kullanılabilir ve bunu kimsenin bilmemesi gerekir. Birbirlerinin sırlarından habersiz olan Fuu ve Rui, idol olarak aktif hale gelir.<br><br>(Kaynak: Anime Haber Ağı, düzenlendi)"
+        },
+        {
+          "id": 202508,
+          "title": {
+            "romaji": "Kami no Shizuku",
+            "english": "The Drops of God",
+            "native": "神の雫"
+          },
+          "synonyms": [
+            "Les Gouttes de Dieu",
+            "신의물방울",
+            "สืบมรดกข้ามชาติ หยาดเทวะ"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 10
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202508-dk6LEyevJYUY.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202508-dk6LEyevJYUY.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202508-K276v0truxE0.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1782484200,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama",
+            "Mystery",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Bar",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Food",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 54,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Satelight"
+              }
+            ]
+          },
+          "description": "<p>World-renowned wine critic Yutaka Kanzaki has passed away, leaving behind a wine collection worth over 12 billion yen. His will states that his collection will be given to the one who can identify the origin and year of twelve wines he’s chosen, the “Twelve Apostles”, and one that’s superior even to them, <i>“The Drops of God”. </i><br><br><br />\nCompeting for the prize are Yutaka’s son, Shizuku, who received a world-class education in wine but rebelled against his father and has never drank a drop, and Issei Tomine, a young charismatic wine critic whom Yutaka had recently adopted as his son. <br><br><br />\nWhat is wine? What is a parent and a child? What is life?<br><br />\nThe complex and fragrant battle surrounding the legendary <i>”Drops of God”</i> is about to begin… <br><br><br />\n(Source: Pony Canyon)</p>",
+          "externalLinks": [
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/@dropsofgodanime"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/dropsofgodAnime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://dropsofgod-anime.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371872/the-drops-of-god"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/2f82gh1fg1l"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLbuF5Onrcu9fuunA9-WbxAZpiwmHUS0w9"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Dünyaca ünlü şarap eleştirmeni Yutaka Kanzaki, arkasında 12 milyar yen değerinde bir şarap koleksiyonu bırakarak vefat etti. Vasiyetinde, koleksiyonunun, seçtiği on iki şarabın menşeini ve yılını belirleyebilecek olan “On İki Havari”ye ve onlardan bile üstün olan “Tanrının Damlaları”na verileceği belirtiliyor. <br><br>Ödül için, Yutaka'nın şarap konusunda birinci sınıf bir eğitim almış ancak babasına isyan eden ve bir damla bile içmemiş oğlu Shizuku ile Yutaka'nın yakın zamanda oğlu olarak evlat edindiği genç karizmatik şarap eleştirmeni Issei Tomine yarışıyor. <br><br>Şarap nedir? Ebeveyn ve çocuk nedir? Hayat nedir?<br><br>Efsanevi “Tanrının Damlaları”nı çevreleyen karmaşık ve hoş kokulu savaş başlamak üzere… <br><br>(Kaynak: Pony Kanyonu)"
         }
       ]
     }
