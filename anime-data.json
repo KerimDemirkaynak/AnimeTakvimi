@@ -279,20 +279,20 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Medieval",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
               "name": "Anthropomorphism",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
             },
             {
               "name": "Travel",
@@ -315,23 +315,23 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Creature Taming",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
             },
             {
               "name": "Gods",
               "isMediaSpoiler": true
             },
             {
-              "name": "Twins",
+              "name": "Maids",
               "isMediaSpoiler": false
             },
             {
-              "name": "Maids",
+              "name": "Twins",
               "isMediaSpoiler": false
             },
             {
@@ -1030,10 +1030,6 @@
           ],
           "tags": [
             {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
@@ -1047,6 +1043,10 @@
             },
             {
               "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
@@ -1310,11 +1310,11 @@
           ],
           "tags": [
             {
-              "name": "Post-Apocalyptic",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Post-Apocalyptic",
               "isMediaSpoiler": false
             },
             {
@@ -1342,10 +1342,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Ships",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Survival",
               "isMediaSpoiler": false
             },
@@ -1360,6 +1356,14 @@
             {
               "name": "Educational",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Ships",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Robots",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 82,
@@ -3842,11 +3846,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "College",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "College",
               "isMediaSpoiler": false
             },
             {
@@ -3874,12 +3878,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Travel",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Love Triangle",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Travel",
+              "isMediaSpoiler": false
             },
             {
               "name": "Boarding School",
@@ -5148,6 +5152,7 @@
           "isAdult": false,
           "genres": [
             "Action",
+            "Adventure",
             "Comedy",
             "Fantasy"
           ],
@@ -5403,19 +5408,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Episodic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Musical Theater",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Tragedy",
               "isMediaSpoiler": true
             },
             {
+              "name": "Episodic",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Acting",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Musical Theater",
               "isMediaSpoiler": false
             },
             {
@@ -6087,7 +6092,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Lise orta noktasına ulaşırken, sanat okulunda tasarım eğitimi almayı hayal eden Koichi Asakura'nın planları müze duvarındaki patlayıcı grafitilerle sarsılır. Sanatçı, geçmiş bir olaydan sonra yeteneğini gömen solak bir kız olan Eren Yamagishi'dir. Sanatın bir araya getirdiği Koichi, tasarımın peşine düşerken Eren resim yapmaya geri döner ancak korku, hırs ve eski yara izleri yollarını tehdit eder.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Lise orta noktasına ulaşırken, sanat okulunda tasarım eğitimi almayı hayal eden Koichi Asakura'nın planları müze duvarındaki patlayıcı grafitilerle sarsılır. Sanatçı, geçmiş bir olaydan sonra yeteneğini gömen solak bir kız olan Eren Yamagishi'dir. Sanatın bir araya getirdiği Koichi, tasarımın peşine düşerken Eren resme geri döner ancak korku, hırs ve eski yara izleri yollarını tehdit eder.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 177634,
@@ -6262,8 +6267,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169228-L0wA8BGp54fa.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781884800,
-            "episode": 13
+            "airingAt": 1782489600,
+            "episode": 14
           },
           "isAdult": false,
           "genres": [
