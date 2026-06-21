@@ -384,6 +384,10 @@
             {
               "site": "Bilibili TV",
               "url": "https://www.bilibili.tv/en/media/2342439"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3RN7t6wesJqlUkSUN6FHKF"
             }
           ],
           "isMyList": true,
@@ -415,8 +419,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195600-UxHvDXwzJxlP.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781965800,
-            "episode": 12
+            "airingAt": 1783175400,
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -625,6 +629,10 @@
             {
               "name": "Crossdressing",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Manipulation",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 81,
@@ -2277,178 +2285,6 @@
           "descriptionTr": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru'nun ikinci sezonu mu?<br><br>Arthur, Jasmine'le birlikte son bir görevle karşı karşıyadır ancak bu görev, kimsenin geleceğini tahmin etmediği bir trajediyi ortaya çıkarır.<br><br>(Kaynak: Crunchyoll Haberleri)"
         },
         {
-          "id": 190704,
-          "title": {
-            "romaji": "Kanan-sama wa Akumade Choroi",
-            "english": "Mistress Kanan is Devilishly Easy",
-            "native": "カナン様はあくまでチョロい"
-          },
-          "synonyms": [
-            "Kanan-sama Is Easy as Hell!",
-            "KanaChoro",
-            "カナチョロ",
-            "Mistress Kanan is Devilishly Easy",
-            "ท่านคานัน ปีศาจต๊อง บ๊องไม่มีใครเกิน",
-            "Канан до чёртиков проста"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190704-Ts1VvkrNdnCZ.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190704-Ts1VvkrNdnCZ.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190704-bLXpyNFVZbss.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1781971200,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Demons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tsundere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Large Breasts",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yandere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Episodic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Slapstick",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Angels",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ojou-sama",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Meta",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gyaru",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Love Triangle",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Incest",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 67,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Studio KAI"
-              }
-            ]
-          },
-          "description": "<p>Kanan, a female demon, infiltrates a high school with the goal of devouring some delicious human souls. She sets her sights on the perfect target, a teen boy named Kyougi Youji, and goes for the kill—only to somehow end up in a relationship with him instead?! Kanan’s never been in love before, and this oddly innocent demon creates absolute chaos as the two venture into romance with a first date and beyond!<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://kanachoro-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/Kanan_Choroi"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://crunchyroll.com/series/GT00371860/mistress-kanan-is-devilishly-easy"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2343522"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JhVy3KHGqdAMw_lVe9Vq5UN"
-            }
-          ],
-          "isMyList": true,
-          "descriptionTr": "Dişi bir iblis olan Kanan, bazı lezzetli insan ruhlarını yutmak amacıyla bir liseye sızar. Gözünü mükemmel hedefe, Kyougi Youji adındaki genç bir çocuğa dikiyor ve öldürmeye gidiyor - ancak bir şekilde onunla bir ilişkiye mi giriyor?! Kanan daha önce hiç aşık olmamıştı ve bu tuhaf derecede masum iblis, ikilinin ilk randevu ve sonrasında romantizme atılmasıyla tam bir kaos yaratıyor!<br><br>(Kaynak: Crunchyroll)"
-        },
-        {
           "id": 190143,
           "title": {
             "romaji": "Shunkashuutou Daikousha: Haru no Mai",
@@ -2474,8 +2310,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190143-0Ffw9Tb9Sjdo.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781967600,
-            "episode": 13
+            "airingAt": 1782572400,
+            "episode": 14
           },
           "isAdult": false,
           "genres": [
@@ -2663,15 +2499,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Death Game",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
               "name": "Coming of Age",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Death Game",
               "isMediaSpoiler": false
             },
             {
@@ -2752,8 +2588,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-5hYeMXL2zilW.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781964000,
-            "episode": 11
+            "airingAt": 1782568800,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -2911,8 +2747,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202102-RBgWbaATyuDt.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781969400,
-            "episode": 12
+            "airingAt": 1782574200,
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -3068,156 +2904,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Sevgiyle \"KAngel\" olarak bilinen OMGkawaiiAngel, 10 milyon abonesiyle en iyi yayıncı kızlardan biri ve onu çalışırken görmeden bir gün geçmiyor. İster internette, ister televizyonda, ister canlı bir şovda olsun, etrafı her zaman tezahürat yapan hayranlarıyla çevrilidir.<br><br>Karamazov adında üç kızdan oluşan bir yayın birimi, KAngel'in popülaritesini yakalamaya çalışıyor.<br><br>Ve bu yayıncıların dünyasından çok uzakta olan Kache, bir temalı kafede çalışırken beleşçi erkek arkadaşıyla birlikte yaşayan bir kızdır.<br><br>Yıldız gibi parlayan bir kız ve o parlaklığa ulaşan kızların ördüğü dünyayı büyüleyen \"İnternet Meleği\" ile ekranın diğer tarafındaki \"sen\"in hikayesi burada başlıyor.<br><br>(Kaynak: Resmi Site)<br><br>Not: Yayınlanmadan önce, yeniden düzenlenen ve kurgulanan ilk 3 bölümün teatral ön gösterimi olan \"NEEDY GIRL OVERDOSE -OVERTURE-\" 6 Mart 2026'da Japonya'da gösterime girdi."
-        },
-        {
-          "id": 196935,
-          "title": {
-            "romaji": "Akane-banashi",
-            "english": "Akane-banashi",
-            "native": "あかね噺"
-          },
-          "synonyms": [
-            "อาคาเนะ พลิกตำนานวงการราคุโกะ",
-            "Сказание об Аканэ",
-            "Chuyện Kể Akane"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196935-RnLWBsEvNp8M.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196935-RnLWBsEvNp8M.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196935-tl3sNMXDMfaQ.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1781965800,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama"
-          ],
-          "tags": [
-            {
-              "name": "Rakugo",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Acting",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Revenge",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Work",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Found Family",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "POV",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Family Life",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Skip",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gyaru",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 77,
-          "studios": {
-            "nodes": [
-              {
-                "name": "ZEXCS"
-              }
-            ]
-          },
-          "description": "<p><i>&quot;With only your voice and body—master the art.&quot;</i><br><br></p>\n<p>Akane Ousaki, captivated since childhood by the magical performances of her father, Shinta Arakawa, witnesses a shocking incident during his decisive performance for promotion to shin’uchi (master rank).<br><br></p>\n<p>Six years later, now a high school student, she sets her sights on becoming a shin’uchi herself—pushing forward in the highly competitive world of rakugo.<br><br><br />\nA passionate and authentic rakugo drama begins now!<br />\n<br><br><br />\n(Source: TV Asahi, edited)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/akanebanashi_PR"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://akane-banashi.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/akanebanashi_en"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/@akane-banashi_global"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@akanebanashi_en"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/akanebanashi_en"
-            },
-            {
-              "site": "Facebook",
-              "url": "https://facebook.com/akanebanashi.en"
-            },
-            {
-              "site": "Netflix",
-              "url": "https://www.netflix.com/title/82701514"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://youtube.com/playlist?list=PLwfE82x42voBU9yH8QafeHXu8Pqw7UVLx"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://youtube.com/playlist?list=PLwfE82x42voAcBJrkmSQgNunnH9fBbp6b"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://youtube.com/playlist?list=PLwfE82x42voBwoxfyq6sTNytLARQvQHWq"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JiCtTdD2GRMvAmM6RXA2uhH"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "\"Yalnızca sesiniz ve vücudunuzla sanatta ustalaşın.\"<br><br>Çocukluğundan beri babası Shinta Arakawa'nın büyülü performanslarının büyüsüne kapılan Akane Ousaki, shin'uchi'ye (usta rütbesi) yükselmek için gösterdiği kararlı performans sırasında şok edici bir olaya tanık olur.<br><br>Altı yıl sonra artık bir lise öğrencisi olarak gözünü bir shin'uchi olmaya dikiyor ve rakugo'nun son derece rekabetçi dünyasında ilerlemeye başlıyor.<br><br>Tutkulu ve özgün bir rakugo draması şimdi başlıyor!<br><br>(Kaynak: TV Asahi, düzenlendi)"
         },
         {
           "id": 184492,
@@ -4247,11 +3933,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Time Skip",
+              "name": "Isekai",
               "isMediaSpoiler": false
             },
             {
-              "name": "Isekai",
+              "name": "Time Skip",
               "isMediaSpoiler": false
             }
           ],
@@ -4698,8 +4384,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1781966760,
-            "episode": 12
+            "airingAt": 1782571560,
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -4807,105 +4493,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Geçmişi ve bugünü birbirine bağlayan bir lanet.<br><br>1900'lerin başlarında Japonya'nın Taisho döneminde yaşayan genç bir mistik olan Mao, hayatını değiştiren bir lanete maruz kaldıktan sonra dokuz yüz uzun yıl boyunca yaşamaya devam eden gizemli bir onmyojidir. Gelecekten gelmiş gibi görünen ortaokul öğrencisi Nanoka Kiba ile tanıştığında dünyası daha da tuhaf bir hal alır. Nanoka, hassas yıllarına rağmen, küçük bir çocukken anne ve babasını tüyler ürpertici bir kazada kaybetmesiyle yaşadığı travmatik deneyimin damgasını vurduğu garip bir hayat yaşamıştır. Ancak Nanoka o uğursuz alışveriş merkezine dönmeye karar verdiğinde başka bir zamana ve yere taşınır; doğaüstü ayakaşilerin kendisinden çok önce geliştiği bir dünyaya. Orada Mao ile tanışır ve Mao'nun ani ve tuhaf sorusu Nanoka'nın kendisini ve meraklı hayatını tamamen yeni bir ışıkta görmesine neden olur. Artık farklı dünyalardan gelen iki gezgin, hayatlarını etkileyen karanlık güçlerle mücadele ederken birleşiyor.<br><br>(Kaynak: VIZ Media, Hulu, düzenlendi)"
-        },
-        {
-          "id": 196029,
-          "title": {
-            "romaji": "Kami no Niwatsuki Kusunoki-tei ",
-            "english": "Kusunoki's Garden of Gods",
-            "native": "神の庭付き楠木邸"
-          },
-          "synonyms": [
-            "บ้านพักคุสึโนกิกับสวนเทพเจ้า",
-            "Божественный сад у поместья Кусуноки"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196029-4ML0UHngkZhn.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196029-4ML0UHngkZhn.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196029-7awWJNlMM0BQ.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1781973000,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Fantasy",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Gods",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Youkai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Exorcism",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Rural",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Food",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Animals",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 70,
-          "studios": {
-            "nodes": [
-              {
-                "name": "JUVENAGE"
-              }
-            ]
-          },
-          "description": "<p>Minato Kusunoki is assigned to manage his family’s haunted, abandoned countryside estate. However, thanks to his overwhelming spiritual power, Minato accidentally purifies the entire place, turning the once-cursed property into a peaceful haven for wandering gods and deities! As Minato settles in, he finds himself surrounded by quirky divine neighbors and the lively chaos of life among the gods.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/kusunoki_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kusunokitei.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00374360/kusunokis-garden-of-gods"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2344089"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JjlyxvkFA0-OyN6zwDTNjoA"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Minato Kusunoki, ailesinin perili, terk edilmiş kırsal mülkünü yönetmekle görevlendirilir. Bununla birlikte, ezici ruhsal gücü sayesinde Minato, kazara tüm mekanı arındırarak, bir zamanlar lanetli olan bu mülkü, başıboş tanrılar ve tanrılar için huzurlu bir sığınağa dönüştürüyor! Minato buraya yerleşirken kendisini ilginç ilahi komşularla ve tanrılar arasındaki yaşamın canlı kaosuyla çevrelenmiş halde bulur.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 186744,
@@ -5766,125 +5353,6 @@
           "descriptionTr": "Açgözlü kadınların yaşadığı bir yer... Evli bir kadının erotik gerilimi!<br><br>Bu, Libido Avcısı Takeru'nun yazarı tarafından evli bir kadının aşırı gerilimidir! Bu hikayede, insan arzularını güçlendiren gizemli \"libido haçı\" kostümünü giyen bir grup sapkın evli kadın saldırıya uğruyor! Apartman kompleksini sapık eşlerin tehdidinden koruyun, yeni kapıcı Yoshida!"
         },
         {
-          "id": 195734,
-          "title": {
-            "romaji": "Ichijouma Mankitsu-gurashi!",
-            "english": "Ichijyoma Mankitsu Gurashi!",
-            "native": "一畳間まんきつ暮らし！"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 12
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195734-submxAA36thQ.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195734-submxAA36thQ.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195734-ZWNh9PToiW12.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1781974800,
-            "episode": 11
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Cute Girls Doing Cute Things",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Work",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Restaurant",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Video Games",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Rural",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 61,
-          "studios": {
-            "nodes": [
-              {
-                "name": "PRA"
-              }
-            ]
-          },
-          "description": "<p>High school girl in the manga cafe! Meiko is a countryside girl who enters a rich girls' school. All expenses will be paid if she participates in activities... But who knew it would mean live-in work in a manga cafe?! Living in a small manga cafe booth turns out not to be so bad! Would you like to have your fill of the manga cafe staffed by cute high school girls?<br><br><br />\n(Source: Bookwalker, translated)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/ichijyoma_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://ichijyoma-anime.com/"
-            },
-            {
-              "site": "OceanVeil",
-              "url": "https://oceanveil.net/anime_titles/416"
-            },
-            {
-              "site": "Viki",
-              "url": "https://www.viki.com/tv/41500c-ichijyoma-mankitsu-gurashi"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://youtube.com/playlist?list=PLhGamQZtJ7K8OWPQvBPauPeJeiG4tQpPl&si=u87A3AjP28UlpSkw"
-            },
-            {
-              "site": "Prime Video",
-              "url": "https://www.primevideo.com/dp/B0GXL386ZT"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Manga kafedeki liseli kız! Meiko, zengin kızların okuluna giden taşralı bir kızdır. Etkinliklere katılırsa tüm masraflar karşılanacaktır... Ama bunun bir manga kafede yatılı çalışma anlamına geleceğini kim bilebilirdi ki?! Küçük bir manga kafeterya standında yaşamanın o kadar da kötü olmadığı ortaya çıktı! Sevimli liseli kızların görev yaptığı manga kafeye doymak ister misiniz?<br><br>(Kaynak: Bookwalker, çevrildi)"
-        },
-        {
           "id": 158036,
           "title": {
             "romaji": "Hidarikiki no Eren",
@@ -6565,6 +6033,364 @@
           ],
           "isMyList": false,
           "descriptionTr": "Arata Kouda, ortaokulun ilk yılının sonbaharında tuhaf bir şeyle karşılaştı ----. Bu ev komedisinde, giriş sınavlarına hazırlanan ronin öğrencisi en büyük oğul için duyulan endişe nedeniyle atmosferin biraz gergin olduğu Konohda ailesine \"Kujima\" adındaki gizemli bir yaratık, yeni bir hayat getiriyor! Bu arada kendisine Kujima adını veren yaratık normal bir dil konuşuyor ve insanlarla (veya böceklerle) aynı yemeği yiyor. Uzaydan mı geldi, yoksa...!<br><br>(Kaynak: Crunchyroll)"
+        },
+        {
+          "id": 201090,
+          "title": {
+            "romaji": "Ghost Concert: missing Songs",
+            "english": "GHOST CONCERT : missing Songs",
+            "native": "ゴーストコンサート: missing Songs"
+          },
+          "synonyms": [
+            "โกสต์คอนเสิร์ต : บทเพลงที่หายไป"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 6
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201090-HzQKUjjvde32.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201090-HzQKUjjvde32.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201090-YIO0HtbUiCwC.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1782055800,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Music",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Dystopian",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Exorcism",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Fugitive",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ghost",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Idol",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Artificial Intelligence",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Dissociative Identities",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Archery",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Conspiracy",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crossdressing",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 49,
+          "studios": {
+            "nodes": [
+              {
+                "name": "ENGI"
+              }
+            ]
+          },
+          "description": "<p>The year is 2045, in a world where songs have been banned. Instead of humans playing instruments and creating music, a music app titled &quot;MiucS&quot; is in charge of these things. High school student Seria goes out with her friends one day, but she happens to hear someone singing, which is supposed to be prohibited. What she finds is a lone ghost, a &quot;Great Ghost&quot; who has appeared from outside this world. Now Seria must decide whether to stay silent or risk everything to bring music back to the world.<br />\n<br><br><br />\n(Source: Anime News Network, Crunchyroll, edited)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://ghostconcert-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/GHOSTCONCERT_PJ"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00374796/ghost-concert--missing-songs"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgpcAwuayL8qIjFf0EVbNw0"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Yıl 2045, şarkıların yasaklandığı bir dünyada. İnsanların enstrüman çalması ve müzik yaratması yerine, bu işlerden \"MiucS\" adlı bir müzik uygulaması sorumlu. Lise öğrencisi Seria bir gün arkadaşlarıyla dışarı çıkar ama yasak olması gereken birinin şarkı söylediğini duyar. Bulduğu şey yalnız bir hayalettir, bu dünyanın dışından ortaya çıkan bir \"Büyük Hayalet\". Şimdi Seria'nın sessiz mi kalacağına yoksa müziği dünyaya geri getirmek için her şeyi riske mi atacağına karar vermesi gerekiyor.<br><br>(Kaynak: Anime News Network, Crunchyroll, düzenlendi)"
+        },
+        {
+          "id": 210687,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season",
+            "english": null,
+            "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 4th Season"
+          },
+          "synonyms": [
+            "Re:ZERO ~Starting Break Time From Zero~ Season 4"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 8
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210687-H54G1bTwCBpV.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210687-H54G1bTwCBpV.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1786541400,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Chibi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Flash",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Maids",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Parody",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 66,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Studio PuYUKAI"
+              }
+            ]
+          },
+          "description": "<p>The fourth season of Re:Zero kara Hajimeru Kyuukei Jikan (Break Time).</p>",
+          "externalLinks": [
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PL9In5RiyMy62n0VXpeBKMIkVXZbcNVRjp"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Re:Zero kara Hajimeru Kyuukei Jikan'ın (Mola Zamanı) dördüncü sezonu."
+        },
+        {
+          "id": 183231,
+          "title": {
+            "romaji": "Rilakkuma",
+            "english": "RILAKKUMA",
+            "native": "リラックマ"
+          },
+          "synonyms": [
+            "リラックマ アニメ",
+            "Rilakkuma Anime",
+            "RILAKKUMA: A Leisurely Dream Journey",
+            "Rilakkuma: Goyururi Yume no Tabi",
+            "リラックマ ～ごゆるり夢の旅～",
+            "リラックマ てくてく世界旅行",
+            "Rilakkuma: Tekuteku Sekai Ryokou"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183231-JFjTqQe3rPCw.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1782519960,
+            "episode": 13
+          },
+          "isAdult": false,
+          "genres": [
+            "Fantasy",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Animals",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 57,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Production I.G"
+              }
+            ]
+          },
+          "description": "<p>Everyday life gets a cozy twist with the laid-back Rilakkuma. Gentle moments of friendship, change, and small joys unfold, turning ordinary moments into something quietly magical—one soft, comforting day at a time.<br />\n<br><br><br />\nIt's a moment that will make your heart feel lighter and lighter. No matter where you are or what you're doing, Rilakkuma will be by your side. An exciting new story begins! Experience the stress-free world of Rilakkuma, the relaxed bear who makes being lazy look effortless!<br><br><br />\n(Source: Crunchyroll, Rilakkuma Anime Site, translated)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/rilakkuma_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://rilakkuma-anime.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00374493/rilakkuma"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Rahat Rilakkuma ile günlük yaşam rahat bir dokunuşa kavuşuyor. Dostluğun, değişimin ve küçük sevinçlerin nazik anları ortaya çıkıyor ve sıradan anları, her seferinde yumuşak, rahatlatıcı bir güne, sessizce büyülü bir şeye dönüştürüyor.<br><br>Kalbinizin daha hafif ve daha hafif hissetmesini sağlayacak bir an. Nerede olursanız olun veya ne yapıyor olursanız olun Rilakkuma yanınızda olacaktır. Heyecan verici yeni bir hikaye başlıyor! Tembelliği zahmetsiz gösteren rahat ayı Rilakkuma'nın stressiz dünyasını deneyimleyin!<br><br>(Kaynak: Crunchyroll, Rilakkuma Anime Sitesi, tercüme)"
+        },
+        {
+          "id": 207675,
+          "title": {
+            "romaji": "Hyakki Yakou Shou",
+            "english": "Hyakki Yakoushou",
+            "native": "百鬼夜行抄"
+          },
+          "synonyms": [
+            "Selected Pandemonium",
+            "Tales of a Hundred Ghosts Traveling by the Night",
+            "Hyakkiyakou Shou",
+            "Beyond Twilight",
+            "Le Cortège des cent démons",
+            "La Corte dei Cento Demoni",
+            "บันทึกขบวนร้อยอสูรแห่งรัตติกาล"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 7
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207675-h3TZK82jG5aD.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207675-h3TZK82jG5aD.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1782219300,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Horror",
+            "Mystery",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Youkai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Flash",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Josei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ghost",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 44,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Imagica Infos"
+              },
+              {
+                "name": "Imageworks Studio"
+              }
+            ]
+          },
+          "description": "<p>Ritsu inherited his sixth sense from his grandfather, along with a demon guardian named Blue Storm. Strange things just seem to happen around these two, and it's left to them to get to the bottom of all these mysterious events. Each story is independent but features recurring characters you'll come to know and appreciate as they, each in their own way, try to deal with things 'not of this world'.<br />\n<br><br><br />\n(Source: MU)</p>",
+          "externalLinks": [
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgbFVxH93w5flYikcz7V3YM"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/animehyakki_PR"
+            },
+            {
+              "site": "Prime Video",
+              "url": "https://www.primevideo.com/detail/0M5TD1X03KDPFOAB178702QXF4"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Ritsu, altıncı hissini ve Mavi Fırtına adlı iblis koruyucusunu büyükbabasından miras aldı. Bu ikilinin etrafında tuhaf şeyler oluyor gibi görünüyor ve tüm bu gizemli olayların kökenine inmek onlara kalıyor. Her hikaye bağımsızdır ancak her biri kendi yöntemiyle 'bu dünyaya ait olmayan' şeylerle başa çıkmaya çalışırken tanıyacağınız ve takdir edeceğiniz tekrar eden karakterler içerir.<br><br>(Kaynak: MÜ)"
         }
       ]
     }
