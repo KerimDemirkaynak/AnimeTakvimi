@@ -567,7 +567,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crossdressing",
               "isMediaSpoiler": false
             },
             {
@@ -575,7 +583,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Ensemble Cast",
+              "name": "Asexual",
               "isMediaSpoiler": false
             },
             {
@@ -619,20 +627,16 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Time Manipulation",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Femboy",
               "isMediaSpoiler": false
             },
             {
               "name": "Male Protagonist",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Crossdressing",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Manipulation",
-              "isMediaSpoiler": true
             }
           ],
           "averageScore": 81,
@@ -892,8 +896,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182300-d1znfWKzn1bT.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1782027000,
-            "episode": 11
+            "airingAt": 1782631800,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -1461,11 +1465,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Teen Cast",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
+              "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
             },
             {
@@ -1479,10 +1483,6 @@
             {
               "name": "School",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Polyamorous",
-              "isMediaSpoiler": true
             },
             {
               "name": "Seinen",
@@ -1509,12 +1509,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Table Tennis",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 76,
@@ -1803,153 +1803,6 @@
           ],
           "isMyList": true,
           "descriptionTr": "Batı'nın en azılı şövalyesi Serafina, barbarlar tarafından yakalandığında işkence görmeyi bekliyordu. Bunun yerine evlenme teklifi aldı! Yeminli düşmanıyla evlenmek kesinlikle hayır! Ancak düğününü kaçıran kişinin kültürünü ve çok güzel yüzünü gördükten sonra, kılıcını bir düğün duvağıyla değiştirmek isteyebilir. Düşmanlardan belki de sevgililere uzanan nihai hikayeye hazır olun.<br><br>(Kaynak: Crunchyroll)"
-        },
-        {
-          "id": 206914,
-          "title": {
-            "romaji": "Nippon Sangoku",
-            "english": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
-            "native": "日本三國"
-          },
-          "synonyms": [
-            "Nippon Sangoku: Trzy Narody Wschodzącego Słońca",
-            "Les Nations du Soleil Sanglant",
-            "NIPPON SANGOKU: สามก๊กญี่ปุ่น",
-            "Nippon Sangoku: A Guerra das Três Nações",
-            "NIPPON SANGOKU: Kızıl Güneşin Üç Ulusu",
-            "Nippon Sangoku: Las tres naciones del sol carmesí"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-SHKX08LarRzB.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206914-SHKX08LarRzB.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206914-owssGq2CGhRZ.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1782043200,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Drama",
-            "Sci-Fi"
-          ],
-          "tags": [
-            {
-              "name": "War",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Politics",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dystopian",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Military",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Philosophy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Revenge",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Post-Apocalyptic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Class Struggle",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Satire",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Rural",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Anachronism",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Agriculture",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 82,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Studio Kafka"
-              }
-            ]
-          },
-          "description": "<p>A revolution sparked by nuclear war, natural disaster, and misrule leads to the collapse of Japanese society. The country splits into three nations vying for hegemony, and the Sangoku era begins. Aoteru Misumi, a former agricultural officer, vows to reunify Japan. He rises through the ranks with only his knowledge and eloquence. Witness the legend of the man later hailed as a genius strategist.<br />\n<br><br><br />\n(Source: Amazon Prime Video)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://www.nipponsangoku.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/sangoku_PR"
-            },
-            {
-              "site": "Amazon Prime Video",
-              "url": "https://www.amazon.com/dp/B0GKZDKSJW"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@sangoku_pr"
-            },
-            {
-              "site": "Prime Video",
-              "url": "https://www.primevideo.com/detail/0LW570H4NYAE6XSCD8I7KZMVNH"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Nükleer savaş, doğal afet ve kötü yönetimin yol açtığı bir devrim, Japon toplumunun çöküşüne yol açar. Ülke hegemonya için yarışan üç ülkeye bölünür ve Sangoku dönemi başlar. Eski bir tarım memuru olan Aoteru Misumi, Japonya'yı yeniden birleştirme sözü verdi. Sadece ilmi ve belagati ile rütbelerde yükselir. Daha sonra dahi bir stratejist olarak selamlanan adamın efsanesine tanık olun.<br><br>(Kaynak: Amazon Prime Videosu)"
         },
         {
           "id": 194393,
@@ -3442,7 +3295,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 59,
+          "averageScore": 60,
           "studios": {
             "nodes": [
               {
@@ -3647,8 +3500,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182578-p3J3Cs24qe9J.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1782028800,
-            "episode": 11
+            "airingAt": 1782633600,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -3857,7 +3710,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu kızdırırsanız, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlıdır ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacaktır... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetmiştir.<br><br>(Kaynak: HİDİV)"
+          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu gücendirirseniz, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlıdır ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacaktır... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetmiştir.<br><br>(Kaynak: HİDİV)"
         },
         {
           "id": 195268,
@@ -4269,11 +4122,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Afterlife",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Afterlife",
               "isMediaSpoiler": false
             },
             {
@@ -4313,11 +4166,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Boys' Love",
               "isMediaSpoiler": true
             },
             {
-              "name": "Boys' Love",
+              "name": "Yuri",
               "isMediaSpoiler": true
             }
           ],
@@ -4611,7 +4464,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kendini iyi hissetmediğinde, sınav olduğunda, okula gitmek istemediğinde... Onun yerini ben alıyorum. Ben onun kopyasıyım. Başka bir amacım yok. Ama aşık olduğumda bu değişti. Aşık olduğum çocuk benim olduğumu anlasın diye saçlarımı topluyorum. Okulu atlıyoruz ve yarın ve sonrasında her gün tekrar buluşacağımıza söz veriyoruz. Ben onun kopyasıyım. Benimle ilgili her şey ödünç alınmış ve boş ama kalbim benim.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Kendini iyi hissetmediğinde, sınav olduğunda, okula gitmek istemediğinde... Onun yerini ben alıyorum. Ben onun kopyasıyım. Başka bir amacım yok. Ama aşık olduğumda bu değişti. Aşık olduğum çocuğun ben olduğumu anlaması için saçlarımı topuz yapıyorum. Okulu atlıyoruz ve yarın ve sonrasında her gün tekrar buluşacağımıza söz veriyoruz. Ben onun kopyasıyım. Benimle ilgili her şey ödünç alınmış ve boş ama kalbim benim.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 198939,
@@ -5034,15 +4887,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Polyamorous",
               "isMediaSpoiler": false
             },
             {
               "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -5086,20 +4939,20 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Bisexual",
               "isMediaSpoiler": true
             },
             {
-              "name": "Bisexual",
-              "isMediaSpoiler": true
+              "name": "Teens' Love",
+              "isMediaSpoiler": false
             },
             {
               "name": "Yuri",
               "isMediaSpoiler": true
             },
             {
-              "name": "Teens' Love",
-              "isMediaSpoiler": false
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 57,
@@ -5138,7 +4991,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Ablası Kaori'nin yönlendirmesiyle Souta aniden Hokuei Üniversitesi Kadın Voleybol Kulübü'nün yurt müdürü ve koçu oldu. Orada ilk aşkı Ayano ile önemli bir buluşma yaşadı... Kızlar yurdunda! Spor salonunda! Otelde mi? Onu bekleyen şey, kendisinden daha büyük kızların patronluk taslayacağı günlerdi! Boyut Farklılıklarından Mutlu Bir Harem Rom-Com'u ♡ Kuzey Ovalarında Kocaman Doğdu!!<br><br>(Kaynak: OceanVeil)<br><br>Not: Bölüm 1, 13 Mart 2026'da AnimeFesta'da gelişmiş bir dağıtım aldı. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
+          "descriptionTr": "Souta, ablası Kaori'nin yönlendirmesiyle aniden Hokuei Üniversitesi Kadın Voleybol Kulübü'nün yurt müdürü ve koçu oldu. Orada ilk aşkı Ayano ile önemli bir buluşma yaşadı... Kızlar yurdunda! Spor salonunda! Otelde mi? Onu bekleyen şey, kendisinden daha büyük kızlar tarafından patronluk taslanacağı günlerdi! Boyut Farklılıklarından Mutlu Bir Harem Rom-Com'u ♡ Kuzey Ovalarında Kocaman Doğdu!!<br><br>(Kaynak: OceanVeil)<br><br>Not: Bölüm 1, 13 Mart 2026'da AnimeFesta'da gelişmiş bir dağıtım aldı. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
         },
         {
           "id": 202985,
@@ -5490,8 +5343,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177634-bU4CFWC8Q4dt.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1782030600,
-            "episode": 12
+            "airingAt": 1782635400,
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -5619,7 +5472,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Rude, E Seviye bir maceracı. Onun tek becerisi olan \"Durum Hastalığını İptal Etme\", yalnızca miasmayla dolu zindanlarda şifalı bitkiler toplamak için faydalı olduğu düşünülen niş bir yetenektir. Neredeyse sıfır savaş becerisine sahip olan maceracı arkadaşları, \"Miasma Çöpçü\" takma adıyla onunla dalga geçiyor. Hayatını değiştirmek için umutsuz bir girişimde bulunan Rude, yeni bir zindana girme riskini alır ancak partisi tarafından ihanete uğrar ve ölüme terk edilir. Erzakları tükenip hayatı tükenirken yasak bir seçim yapar: Bir canavarın etini tüketmek. Böylece Rude'un sadece düşmanlarını tüketerek yeni beceriler kazandığı \"Canavar Yiyen\" macerasının hikayesi başlıyor!<br><br>(Kaynak: Ani-One Asya)"
+          "descriptionTr": "Rude, E Seviye bir maceracı. Onun tek becerisi olan \"Durum Hastalığını İptal Etme\", yalnızca miasmayla dolu zindanlarda şifalı bitkiler toplamak için yararlı olduğu düşünülen bir niş yetenektir. Neredeyse sıfır savaş becerisine sahip olan maceracı arkadaşları, \"Miasma Çöpçü\" takma adıyla onunla dalga geçiyor. Hayatını değiştirmek için umutsuz bir girişimde bulunan Rude, yeni bir zindana girme riskini alır ancak partisi tarafından ihanete uğrar ve ölüme terk edilir. Erzakları tükenip hayatı tükenirken yasak bir seçim yapar: Bir canavarın etini tüketmek. Böylece Rude'un sadece düşmanlarını tüketerek yeni beceriler kazandığı \"Canavar Yiyen\" macerasının hikayesi başlıyor!<br><br>(Kaynak: Ani-One Asya)"
         },
         {
           "id": 169228,
@@ -5710,139 +5563,6 @@
           ],
           "isMyList": true,
           "descriptionTr": "199X yılında dünya nükleer bir cehenneme sürüklendi! Denizler yok oldu. Yeryüzü harabe halindedir. Görünüşe göre tüm yaşam yok oldu... ama insanlık yok olmadı!<br><br>Kavrulmuş ve parçalanmış topraklarda hayatta kalanlar umutlarına tutunarak çaresizce yiyecek ve su arıyorlar. Ancak umutları şiddet nedeniyle ayaklar altında çiğneniyor. Bu dünyada güçlü olan haklıdır ve zayıflar merhametsizce ezilir.<br><br>Bu umutsuzluğun derinliklerinden göğsünde yedi yara izi olan yalnız bir adam çıkar. Adı Kenshiro, efsanevi suikast sanatı Hokuto Shinken'in varisi. Nişanlısı Yuria'yı çalan ezeli düşmanı Shin'in peşinde çorak arazide dolaşan Kenshiro, ezilenlerin çığlıklarına cevap vererek umutsuzluk dolu bir dünyada bir umut ışığı haline gelir.<br><br>Yolunda, kıyametten sağ kurtulan acımasız kişiler var; hırsları güç ve açgözlülük tarafından çarpıtılıyor. Zayıfların av olduğu ve duaların duyulmadığı bir dünyada Kenshiro demir yumruklarıyla bir yol açıyor!<br><br>(Kaynak: Resmi İnternet Sitesi)"
-        },
-        {
-          "id": 178749,
-          "title": {
-            "romaji": "Mahou no Shimai LuluttoLilly",
-            "english": "Magical Sisters LuluttoLilly",
-            "native": "魔法の姉妹ルルットリリィ"
-          },
-          "synonyms": [
-            "るるりり",
-            "MSLL"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178749-c0tx9p13PVJy.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178749-c0tx9p13PVJy.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178749-55kXPhUDKYvQ.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1782048600,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Mahou Shoujo"
-          ],
-          "tags": [
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Idol",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Aliens",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Henshin",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dragons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Shapeshifting",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Death Game",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 63,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Studio Pierrot"
-              }
-            ]
-          },
-          "description": "<p>Fuu and Rui are two sisters who used to be close, but have been a bit distant from each other recently. One day, Fuu encounters a mysterious spaceship and gains magical powers. At that same time, Rui also gains magical powers, and both transform into the adults they dream to be. The sisters' powers come with two conditions: their magic powers can only be used in one year, and no one must know about it. Unaware of each other's secrets, Fuu and Rui become active as idols.<br />\n<br><br><br />\n(Source: Anime News Network, edited)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/luluttolilly"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://www.luluttolilly.com/"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://v-storage.jp/pierrot_magicalgirls/msll-global-website/"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/luluttolilly/"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@luluttolilly"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLKPsuBIKuejMR6v7XCBOMy7Xesql1re66"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Fuu ve Rui, eskiden yakın olan ancak son zamanlarda birbirlerinden biraz uzaklaşan iki kız kardeştir. Fuu bir gün gizemli bir uzay gemisiyle karşılaşır ve büyülü güçler kazanır. Aynı zamanda Rui büyülü güçler de kazanır ve ikisi de hayal ettikleri yetişkinlere dönüşür. Kız kardeşlerin güçleri iki koşulla birlikte gelir: Büyü güçleri yalnızca bir yıl içinde kullanılabilir ve bunu kimsenin bilmemesi gerekir. Birbirlerinin sırlarından habersiz olan Fuu ve Rui, idol olarak aktif hale gelir.<br><br>(Kaynak: Anime Haber Ağı, düzenlendi)"
         },
         {
           "id": 202508,
@@ -6138,7 +5858,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 49,
+          "averageScore": 50,
           "studios": {
             "nodes": [
               {
@@ -6391,6 +6111,152 @@
           ],
           "isMyList": false,
           "descriptionTr": "Ritsu, altıncı hissini ve Mavi Fırtına adlı iblis koruyucusunu büyükbabasından miras aldı. Bu ikilinin etrafında tuhaf şeyler oluyor gibi görünüyor ve tüm bu gizemli olayların kökenine inmek onlara kalıyor. Her hikaye bağımsızdır ancak her biri kendi yöntemiyle 'bu dünyaya ait olmayan' şeylerle başa çıkmaya çalışırken tanıyacağınız ve takdir edeceğiniz tekrar eden karakterler içerir.<br><br>(Kaynak: MÜ)"
+        },
+        {
+          "id": 176636,
+          "title": {
+            "romaji": "Shin Keroro Gunsou Movie: Fukkatsushite Sokkou Chikyuu Metsubou no Kiki de Arimasu! ",
+            "english": null,
+            "native": "新劇場版 ケロロ軍曹 復活して速攻地球滅亡の危機であります！"
+          },
+          "synonyms": [
+            "Sgt. Frog Movie",
+            "劇場版 ケロロ軍曹"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 6,
+            "day": 26
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176636-zPyFoYfFYZLo.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176636-zPyFoYfFYZLo.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1782399600,
+            "episode": 1
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "tags": [],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Bandai Namco Pictures"
+              }
+            ]
+          },
+          "description": "<p>The Keroro Platoon, living their lazy days as if invasion were nothing. Then one day, they face a series of bizarre phenomena erupting across the nation. Feeling a sense of crisis, the Keroro Platoon rises up, staking their pride as invaders! What is the meaning of the mysterious symbols they encounter wherever they go. The largest-scale battle in the history of &quot;Sgt.Frog&quot; begins in the Reiwa era!<br><br></p>\n<p>(Source: Crunchyroll News, edited)<br />\n<br><br><br />\n<i>Note: Relations are provisional and will be updated when more info is announced.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/keroro_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://www.bn-pictures.co.jp/keroro-anime/"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Keroro Müfrezesi tembel günlerini sanki işgal hiçbir şeymiş gibi yaşıyor. Sonra bir gün, ülke çapında patlak veren bir dizi tuhaf olayla karşı karşıya kalırlar. Bir kriz duygusu hisseden Keroro Müfrezesi, işgalci olmanın gururunu riske atarak ayağa kalkıyor! Gittikleri her yerde karşılaştıkları gizemli sembollerin anlamı nedir? \"Çavuş Kurbağa\" tarihinin en büyük ölçekli savaşı Reiwa döneminde başlıyor!<br><br>(Kaynak: Crunchyroll News, düzenlendi)<br><br>Not: İlişkiler geçicidir ve daha fazla bilgi açıklandığında güncellenecektir."
+        },
+        {
+          "id": 209940,
+          "title": {
+            "romaji": "Komekami! Girls",
+            "english": null,
+            "native": "こめかみっ！Girls"
+          },
+          "synonyms": [
+            "こめかみっ！ガールズ"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 3
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209940-AmmMcfBXmB3c.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209940-AmmMcfBXmB3c.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209940-5otPJXyKJkbf.jpg",
+          "nextAiringEpisode": null,
+          "isAdult": false,
+          "genres": [
+            "Comedy"
+          ],
+          "tags": [
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Mythology",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Food",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Family Life",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shrine Maiden",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Advertisement",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Educational",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 39,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Daily Plan.net"
+              }
+            ]
+          },
+          "description": "<p>This is the story of the seven-sister unit &quot;Komekami! Girls,&quot; children of the rice deity, born from the tradition: &quot;In a single grain of rice, seven gods reside.&quot;<br><br></p>\n<p>When their mother (the deity of rice, or the rice-god queen) was called back in haste to the celestial realm and no longer able to return to the earthly realm they search for her traces using Usa City (Oita Prefecture) as their base, and teleport to Hachiman shrines throughout Kyushu island. As they solve local problems, they learn about food, take part in cooking battles, and grow.</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/komekami_girls"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://komekamigirls.com/"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/@komekami_girls"
+            },
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/komekami_girls/"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Bu, pirinç tanrısının çocukları olan ve \"Tek bir pirinç tanesinde yedi tanrı barınır\" geleneğinden doğan yedi kız kardeş birimi \"Komekami! Kızlar\"ın hikayesidir.<br><br>Anneleri (pirinç tanrısı veya pirinç tanrısı kraliçesi) aceleyle göksel aleme geri çağrıldığında ve artık dünyevi aleme dönemediğinde, ABD Şehri'ni (Oita Eyaleti) üs olarak kullanarak onun izlerini ararlar ve Kyushu adasındaki Hachiman tapınaklarına ışınlanırlar. Yerel sorunları çözdükçe yemek hakkında bilgi sahibi oluyorlar, yemek pişirme savaşlarına katılıyorlar ve büyüyorlar."
         }
       ]
     }
