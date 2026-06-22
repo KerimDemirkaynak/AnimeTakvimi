@@ -567,11 +567,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Ensemble Cast",
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
+              "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
             {
@@ -579,11 +579,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Henshin",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Asexual",
+              "name": "Dungeon",
               "isMediaSpoiler": false
             },
             {
@@ -591,19 +587,47 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Skeleton",
               "isMediaSpoiler": false
             },
             {
-              "name": "Dungeon",
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Politics",
               "isMediaSpoiler": false
             },
             {
               "name": "Spearplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Agender",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Henshin",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Manipulation",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Asexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Femboy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Guns",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -612,30 +636,6 @@
             },
             {
               "name": "Archery",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Agender",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Guns",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Politics",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Manipulation",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Femboy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
               "isMediaSpoiler": false
             }
           ],
@@ -2364,20 +2364,20 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Transgender",
-              "isMediaSpoiler": true
+              "name": "Conspiracy",
+              "isMediaSpoiler": false
             },
             {
               "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Bullying",
+              "name": "Transgender",
               "isMediaSpoiler": true
             },
             {
-              "name": "Conspiracy",
-              "isMediaSpoiler": false
+              "name": "Bullying",
+              "isMediaSpoiler": true
             },
             {
               "name": "Cult",
@@ -2652,6 +2652,10 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Urban",
               "isMediaSpoiler": false
             },
@@ -2672,6 +2676,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Psychosexual",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Work",
               "isMediaSpoiler": false
             },
@@ -2684,20 +2692,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Psychosexual",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Disability",
               "isMediaSpoiler": false
             },
             {
               "name": "Nudity",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": false
             },
             {
               "name": "Video Games",
@@ -3850,8 +3850,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196974-wOXpVEgXm7aR.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1782052200,
-            "episode": 11
+            "airingAt": 1782657000,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -4261,14 +4261,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Youkai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Shounen",
               "isMediaSpoiler": false
             },
@@ -4281,6 +4273,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Youkai",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Demons",
               "isMediaSpoiler": false
             },
@@ -4289,12 +4285,16 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "School",
+              "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
             },
             {
               "name": "Natural Disaster",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 66,
@@ -4854,146 +4854,6 @@
           "descriptionTr": "Awajima Opera Okulu'nda Japonya'nın dört bir yanından kızlar sahnede bir yer kazanmak için çabalıyor. Wakana müzikal tiyatroya olan aşkıyla hareket ederken Kinue sessiz bir disiplinle çalışıyor. Burslu öğrenci Emi herkesin dikkatini çekiyor, ama özellikle de hayranlık ve karşılaştırma konusunda zorluk çeken Keiko'nun. Değişen bakış açıları sayesinde iç içe geçen günleri, hırsı, dostluğu ve kendini keşfetmeyi keşfediyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
-          "id": 204319,
-          "title": {
-            "romaji": "Ookii Onnanoko wa Suki desu ka?",
-            "english": "Do You Like Big Girls?",
-            "native": "大きい女の子は好きですか？"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 6
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204319-qhw2yBXBUgJT.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204319-qhw2yBXBUgJT.png"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1782057900,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Ecchi",
-            "Romance",
-            "Sports"
-          ],
-          "tags": [
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Polyamorous",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Large Breasts",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Hypersexuality",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Volleyball",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Body Image",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Mahjong",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Fellatio",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "College",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Bisexual",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Teens' Love",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 57,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Studio Houkiboshi"
-              }
-            ]
-          },
-          "description": "<p>Souta was suddenly made dorm manager and coach of the Hokuei University Women's Volleyball Club as prompted by his older sister, Kaori. There, he had a fateful reunion with Ayano, his first love... In the girls' dorm! In the gym! In a hotel?! What awaited him were days of being bossed around by girls bigger than him! A Happy Harem Rom-Com of Size Differences♡ Born Huge on the Northern Plains!!<br />\n<br><br><br />\n(Source: OceanVeil)<br />\n<br><br><br />\n<i>Note: Episode 1 received an advanced distribution on AnimeFesta on March 13th, 2026. The start date reflects the start of the regular series broadcasting.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/Ookii_Onnanoko"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://ookii-onnanoko.af-original.com/"
-            },
-            {
-              "site": "OceanVeil",
-              "url": "https://oceanveil.net/anime_titles/397"
-            },
-            {
-              "site": "OceanVeil",
-              "url": "https://oceanveil.net/anime_titles/396"
-            },
-            {
-              "site": "OceanVeil",
-              "url": "https://oceanveil.net/anime_titles/414"
-            },
-            {
-              "site": "OceanVeil",
-              "url": "https://oceanveil.net/anime_titles/413"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Souta, ablası Kaori'nin yönlendirmesiyle aniden Hokuei Üniversitesi Kadın Voleybol Kulübü'nün yurt müdürü ve koçu oldu. Orada ilk aşkı Ayano ile önemli bir buluşma yaşadı... Kızlar yurdunda! Spor salonunda! Otelde mi? Onu bekleyen şey, kendisinden daha büyük kızlar tarafından patronluk taslanacağı günlerdi! Boyut Farklılıklarından Mutlu Bir Harem Rom-Com'u ♡ Kuzey Ovalarında Kocaman Doğdu!!<br><br>(Kaynak: OceanVeil)<br><br>Not: Bölüm 1, 13 Mart 2026'da AnimeFesta'da gelişmiş bir dağıtım aldı. Başlangıç tarihi, normal dizi yayınının başlangıcını yansıtmaktadır."
-        },
-        {
           "id": 202985,
           "title": {
             "romaji": "Tadaima, Ojamasaremasu!",
@@ -5093,119 +4953,6 @@
           "descriptionTr": "Peki artık oda arkadaşlarına sahip olmanın anlamı bu mu? 24 yaşındaki ofis çalışanı Rinko, yalnız yaşıyor ve gizlice bir otaku. Bir gün dairesi duvardaki bir \"delik\" aracılığıyla iki komşu odaya bağlanır. Soldaki odada Rinko'ya aşırı tatlı davranan taze yüzlü ama gizemli bir adam var. Sağdaki oda, şiddet eğilimi olan ve benzer şekilde gizemli bir adam tarafından işgal ediliyor... Ama durun! \"Ben...sanırım onu ​​tanıyorum!\" Rinko'nun tek yalnızlık kaynağı olan dairesi altüst olmuştur. Artık her gün yürek hoplatan sürprizlerle dolu!<br><br>(Kaynak: Manga Plaza)"
         },
         {
-          "id": 206166,
-          "title": {
-            "romaji": "Ingoku Danchi",
-            "english": "Ingoku Danchi:Deviant's Apartment Complex",
-            "native": "インゴクダンチ"
-          },
-          "synonyms": [
-            "Perverts' Apartment Complex ",
-            "淫獄団地"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 6
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206166-xTJ9h6RmMCKR.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206166-xTJ9h6RmMCKR.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1782058200,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Ecchi"
-          ],
-          "tags": [
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Large Breasts",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Henshin",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Femdom",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "MILF",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Hypersexuality",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Gap",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Bondage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cheating",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Sex Toys",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Masturbation",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 48,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Elias"
-              }
-            ]
-          },
-          "description": "<p>It's a place where greedy wives live... A married woman's erotic suspense!<br />\n<br><br><br />\nThis is the extreme suspense of a married woman by the author of <i>Libido Hunter Takeru</i>! In this story, a group of perverted married women wearing the mysterious &quot;libido cross&quot; costume that amplifies human desires come under attack! Protect the apartment complex from the threat of perverted wives, new janitor Yoshida!</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/ingoku_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://ingoku-danchi.deregula.com/"
-            },
-            {
-              "site": "OceanVeil",
-              "url": "https://oceanveil.net/anime_titles/412"
-            },
-            {
-              "site": "OceanVeil",
-              "url": "https://oceanveil.net/anime_titles/411"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Açgözlü kadınların yaşadığı bir yer... Evli bir kadının erotik gerilimi!<br><br>Bu, Libido Avcısı Takeru'nun yazarı tarafından evli bir kadının aşırı gerilimidir! Bu hikayede, insan arzularını güçlendiren gizemli \"libido haçı\" kostümünü giyen bir grup sapkın evli kadın saldırıya uğruyor! Apartman kompleksini sapık eşlerin tehdidinden koruyun, yeni kapıcı Yoshida!"
-        },
-        {
           "id": 158036,
           "title": {
             "romaji": "Hidarikiki no Eren",
@@ -5290,6 +5037,10 @@
             },
             {
               "name": "College",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Foreign",
               "isMediaSpoiler": false
             }
           ],
@@ -5755,140 +5506,6 @@
           "descriptionTr": "Arata Kouda, ortaokulun ilk yılının sonbaharında tuhaf bir şeyle karşılaştı ----. Bu ev komedisinde, giriş sınavlarına hazırlanan ronin öğrencisi en büyük oğul için duyulan endişe nedeniyle atmosferin biraz gergin olduğu Konohda ailesine \"Kujima\" adındaki gizemli bir yaratık, yeni bir hayat getiriyor! Bu arada kendisine Kujima adını veren yaratık normal bir dil konuşuyor ve insanlarla (veya böceklerle) aynı yemeği yiyor. Uzaydan mı geldi, yoksa...!<br><br>(Kaynak: Crunchyroll)"
         },
         {
-          "id": 201090,
-          "title": {
-            "romaji": "Ghost Concert: missing Songs",
-            "english": "GHOST CONCERT : missing Songs",
-            "native": "ゴーストコンサート: missing Songs"
-          },
-          "synonyms": [
-            "โกสต์คอนเสิร์ต : บทเพลงที่หายไป"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 6
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201090-HzQKUjjvde32.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201090-HzQKUjjvde32.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201090-YIO0HtbUiCwC.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1782055800,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Music",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dystopian",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Exorcism",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Fugitive",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ghost",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Idol",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Artificial Intelligence",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dissociative Identities",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Archery",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Conspiracy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Crossdressing",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 50,
-          "studios": {
-            "nodes": [
-              {
-                "name": "ENGI"
-              }
-            ]
-          },
-          "description": "<p>The year is 2045, in a world where songs have been banned. Instead of humans playing instruments and creating music, a music app titled &quot;MiucS&quot; is in charge of these things. High school student Seria goes out with her friends one day, but she happens to hear someone singing, which is supposed to be prohibited. What she finds is a lone ghost, a &quot;Great Ghost&quot; who has appeared from outside this world. Now Seria must decide whether to stay silent or risk everything to bring music back to the world.<br />\n<br><br><br />\n(Source: Anime News Network, Crunchyroll, edited)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://ghostconcert-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/GHOSTCONCERT_PJ"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00374796/ghost-concert--missing-songs"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgpcAwuayL8qIjFf0EVbNw0"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Yıl 2045, şarkıların yasaklandığı bir dünyada. İnsanların enstrüman çalması ve müzik yaratması yerine, bu işlerden \"MiucS\" adlı bir müzik uygulaması sorumlu. Lise öğrencisi Seria bir gün arkadaşlarıyla dışarı çıkar ama yasak olması gereken birinin şarkı söylediğini duyar. Bulduğu şey yalnız bir hayalettir, bu dünyanın dışından ortaya çıkan bir \"Büyük Hayalet\". Şimdi Seria'nın sessiz mi kalacağına yoksa müziği dünyaya geri getirmek için her şeyi riske mi atacağına karar vermesi gerekiyor.<br><br>(Kaynak: Anime News Network, Crunchyroll, düzenlendi)"
-        },
-        {
           "id": 210687,
           "title": {
             "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season",
@@ -6257,6 +5874,229 @@
           ],
           "isMyList": false,
           "descriptionTr": "Bu, pirinç tanrısının çocukları olan ve \"Tek bir pirinç tanesinde yedi tanrı barınır\" geleneğinden doğan yedi kız kardeş birimi \"Komekami! Kızlar\"ın hikayesidir.<br><br>Anneleri (pirinç tanrısı veya pirinç tanrısı kraliçesi) aceleyle göksel aleme geri çağrıldığında ve artık dünyevi aleme dönemediğinde, ABD Şehri'ni (Oita Eyaleti) üs olarak kullanarak onun izlerini ararlar ve Kyushu adasındaki Hachiman tapınaklarına ışınlanırlar. Yerel sorunları çözdükçe yemek hakkında bilgi sahibi oluyorlar, yemek pişirme savaşlarına katılıyorlar ve büyüyorlar."
+        },
+        {
+          "id": 208314,
+          "title": {
+            "romaji": "Kyonyuu ga Futari Inai to Bokki Shinai Otto no tame ni Tomodachi wo Tsuretekita Tsuma",
+            "english": null,
+            "native": "巨乳が2人いないと勃起しない夫のために友達を連れてきた妻"
+          },
+          "synonyms": [
+            "Kyonyuu ga 2-nin Inai to Bokki Shinai Otto no tame ni Tomodachi wo Tsuretekita Tsuma",
+            "I Can't Get it Up Without Two Pairs of Big Breasts, So My Wife Brought Her Friend!"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 30
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208314-Lw3CFRCPkprM.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208314-Lw3CFRCPkprM.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/208314-fF6kanCQ77pA.jpg",
+          "nextAiringEpisode": null,
+          "isAdult": true,
+          "genres": [
+            "Hentai"
+          ],
+          "tags": [
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Threesome",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Large Breasts",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "MILF",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Fellatio",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nakadashi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Deepthroat",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Facial",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Boobjob",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 68,
+          "studios": {
+            "nodes": [
+              {
+                "name": "T-REX"
+              }
+            ]
+          },
+          "description": "<p>Yuuto and Sae, newlyweds basking in the glow of their marriage, seemed to be enjoying blissful newlywed life—until suddenly, Yuuto couldn't get it up anymore. The reason? His sexual preferences were for big breasts and harems. After learning this, his wife Sae agonized over what to do before finally asking her friend Emi for help. Though hesitant about this wife-approved threesome, Yuuto's harem-loving fetish explodes when faced with Emi—who boasts busty curves rivaling Sae's...!?<br />\n<br><br><br />\n(Source: Lune-soft, translated)</p>",
+          "externalLinks": [],
+          "isMyList": false,
+          "descriptionTr": "Evliliklerinin ışıltısının tadını çıkaran yeni evliler Yuuto ve Sae, mutlu yeni evlilik hayatlarının tadını çıkarıyor gibi görünüyorlardı; ta ki aniden Yuuto daha fazla ayağa kalkamayana kadar. Nedeni? Cinsel tercihleri ​​büyük göğüsler ve haremlerdi. Bunu öğrendikten sonra karısı Sae ne yapması gerektiğini düşündü ve sonunda arkadaşı Emi'den yardım istedi. Eşinin onayladığı bu üçlü seks konusunda tereddütlü olmasına rağmen, Yuuto'nun harem sevdalısı fetişi, Sae'ninkiyle rekabet eden büyük göğüslü kıvrımlara sahip olan Emi ile karşılaştığında patlar...!?<br><br>(Kaynak: Lune-soft, çevrildi)"
+        },
+        {
+          "id": 206523,
+          "title": {
+            "romaji": "Onegai AiPri",
+            "english": null,
+            "native": "おねがいアイプリ"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206523-2IaJCk4R7i63.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206523-2IaJCk4R7i63.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1782606600,
+            "episode": 13
+          },
+          "isAdult": false,
+          "genres": [
+            "Music"
+          ],
+          "tags": [
+            {
+              "name": "Idol",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Advertisement",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Virtual World",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kids",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Henshin",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 54,
+          "studios": {
+            "nodes": [
+              {
+                "name": "OLM"
+              },
+              {
+                "name": "Dongwoo Animation"
+              }
+            ]
+          },
+          "description": "<p>The latest entry in the <i>Pretty Series</i> franchise and a new chapter in the <i>AiPri</i> series.<br />\n<br><br><br />\n<i>Note: Relations are provisional and will be updated when more info is announced.</i> </p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/aipri_animepr"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://aipri.jp/anime/special/onegai/"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Pretty Serisi serisinin en son girişi ve AiPri serisinde yeni bir bölüm.<br><br>Not: İlişkiler geçicidir ve daha fazla bilgi açıklandığında güncellenecektir."
+        },
+        {
+          "id": 212319,
+          "title": {
+            "romaji": "Nikke Nichi! Non Non Zenshou Kichi",
+            "english": "NIKKE Outpost: Off-Duty Tales",
+            "native": "にけにち！のんのん前哨基地"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 5,
+            "day": 22
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212319-y1qSwLdqI2Cv.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212319-y1qSwLdqI2Cv.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": null,
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Sci-Fi",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Cute Girls Doing Cute Things",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Post-Apocalyptic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 63,
+          "studios": {
+            "nodes": []
+          },
+          "description": "<p>Commander, there's no need to sortie today.<br><br />\nNo emergency missions. No roaring gunfire.<br><br />\nAt this moment in the Outpost, all that remains are the Nikkes' everyday moments, laughter, and little unexpected happenings.<br><br>(Source: NIKKE's English Twitter account)</p>",
+          "externalLinks": [
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/@NIKKEJAPAN/"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PL_Aa3W3E5aCF8v29AGTSRenP-0WzEUjaH"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Komutan, bugün sıralamaya gerek yok.<br><br>Acil durum görevi yok. Kükreyen silah sesi yok.<br><br>Şu anda Karakol'da geriye Nikkes'in gündelik anları, kahkahaları ve beklenmedik küçük olaylar kalıyor.<br><br>(Kaynak: NIKKE'nin İngilizce Twitter hesabı)"
         }
       ]
     }
