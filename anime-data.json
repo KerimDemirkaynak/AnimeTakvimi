@@ -3,194 +3,6 @@
     "Page": {
       "media": [
         {
-          "id": 147105,
-          "title": {
-            "romaji": "Tongari Boushi no Atelier",
-            "english": "Witch Hat Atelier",
-            "native": "とんがり帽子のアトリエ"
-          },
-          "synonyms": [
-            "Atelier of Witch Hat",
-            " จอมเวทฝึกหัดกับหมวกมหัศจรรย์",
-            "Atelier spiczastych kapeluszy",
-            "Cadı Şapkası Atölyesi",
-            "L'Atelier des Sorciers",
-            "Xưởng Phép Thuật",
-            "Ателье колдовских колпаков"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 6
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147105-rwOX8qyUy8gV.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147105-rwOX8qyUy8gV.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/147105-fTjmRrILFixZ.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1782136800,
-            "episode": 13
-          },
-          "isAdult": false,
-          "genres": [
-            "Adventure",
-            "Drama",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Conspiracy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Witch",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Drawing",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Memory Manipulation",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Found Family",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Philosophy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Child Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Travel",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Politics",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Disability",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Teacher",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Revenge",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Body Horror",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Foreign",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Rehabilitation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Achromatic",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Dragons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tsundere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Twins",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 86,
-          "studios": {
-            "nodes": [
-              {
-                "name": "BUG FILMS"
-              }
-            ]
-          },
-          "description": "<p>In a world where everyone takes wonders like magic spells and dragons for granted, Coco is a girl with a simple dream: she wants to be a witch. But everybody knows magicians are born, not made, and Coco was not born with a gift for magic. Resigned to her un-magical life, Coco is about to give up on her dream to become a witch … until the day she meets Qifrey, a mysterious, traveling magician. After secretly seeing Qifrey perform magic in a way she’s never seen before, Coco soon learns what everybody “knows” might not be the truth, and discovers that her magical dream may not be as far away as it may seem... <br><br />\n<br><br />\n(Source: Kodansha USA) <br><br></p>\n<p><i>Note: Tongari Boushi no Atelier episode 2 was streamed a week in advance on Crunchyroll, ABEMA, and Netflix, alongside episode 1. Streaming is one week ahead of the TV broadcast.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/tongari_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://tongari-anime.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00258001/"
-            },
-            {
-              "site": "Netflix",
-              "url": "https://www.netflix.com/title/82741721"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@tongari_anime"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/@tongari_anime"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Herkesin büyüler ve ejderhalar gibi harikaları olduğu gibi kabul ettiği bir dünyada Coco, basit bir hayali olan bir kızdır: cadı olmak istiyor. Ancak herkes sihirbazların doğduğunu, yaratılmadığını ve Coco'nun sihir yeteneğiyle doğmadığını biliyor. Büyülü olmayan hayatına boyun eğen Coco, cadı olma hayalinden vazgeçmek üzeredir... ta ki gizemli, gezgin bir sihirbaz olan Qifrey ile tanışana kadar. Qifrey'in daha önce hiç görmediği bir şekilde büyü yaptığını gizlice gören Coco, çok geçmeden herkesin \"bildiği\" şeyin gerçek olmayabileceğini öğrenir ve büyülü hayalinin göründüğü kadar uzakta olmayabileceğini keşfeder... <br><br>(Kaynak: Kodansha ABD) <br><br>Not: Tongari Boushi no Atelier 2. bölüm, 1. bölümün yanı sıra Crunchyroll, ABEMA ve Netflix'te bir hafta önceden yayınlandı. Yayın, TV yayınından bir hafta öncedir."
-        },
-        {
           "id": 189046,
           "title": {
             "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
@@ -391,7 +203,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Re:Zero kara Hajimeru Isekai Seikatsu'nun dördüncü sezonu.<br><br>Acı çeken müttefiklerini kurtarmak isteyen Subaru, Ülker Gözetleme Kulesi'ndeki Bilge'yi bulmak için ölümcül bir çölle karşı karşıya kalır.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Lucca Comics & Games, 1. bölümün ön gösterimini 8 Temmuz 2026'daki Japon televizyon yayınından önce 1 Kasım 2025'te yaptı."
+          "descriptionTr": "Re:Zero kara Hajimeru Isekai Seikatsu'nun dördüncü sezonu.<br><br>Acı çeken müttefiklerini kurtarmak isteyen Subaru, Ülker Gözetleme Kulesi'ndeki Bilge'yi bulmak için ölümcül bir çölle karşı karşıya kalır.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Lucca Comics & Games, 1. bölümün ön gösterimini 1 Kasım 2025'te, 8 Temmuz 2026'daki Japon televizyon yayınından önce yaptı."
         },
         {
           "id": 195600,
@@ -1286,7 +1098,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yüzyıllar boyunca ölümcül sanatlar, Üstatlar olarak bilinen kişiler tarafından mükemmelleştirildi.<br><br>Bunlar arasında Beş Büyük Ailenin Zehir Ustaları en korkunç güce ve nüfuza sahiptir.<br><br>Zehir Ustaları'nın Gero Ailesi'nin varisi Hikaru Gero, tüm hayatını aşktan veya evlilikten çok uzakta, yeraltı dünyasında geçirmiştir.<br><br>Ancak Gero Ailesi reisi, Hikaru'nun kız kardeşinin soyunu korumak için gerekirse zorla bir varis doğurması gerektiğine karar verince Hikaru, onu ne pahasına olursa olsun korumaya karar verir.<br><br>İşte tam o sırada Hikaru, son işinin hedefi haline gelen parlak bir evlilik dolandırıcısı olan Mei Kinosaki ile karşılaşır.<br><br>Ailenin veraset sorununu çözmenin ve kız kardeşini korumanın tek yolunun evlilik olduğunu anlayan Hikaru, düşünmeden Mei'den bir gelin bulma konusunda yardım ister.<br><br>(Kaynak: EMOTION Etiket Kanalı)"
+          "descriptionTr": "Yüzyıllar boyunca ölümcül sanatlar, Üstatlar olarak bilinen kişiler tarafından mükemmelleştirildi.<br><br>Bunlar arasında Beş Büyük Ailenin Zehir Ustaları en korkunç güce ve nüfuza sahiptir.<br><br>Zehir Ustaları'nın Gero Ailesi'nin varisi Hikaru Gero, tüm hayatını aşktan veya evlilikten çok uzakta, yeraltı dünyasında geçirmiştir.<br><br>Ancak Gero Ailesi reisi, Hikaru'nun kız kardeşinin soyunu korumak için bir varis doğurması gerektiğine karar verince -gerekirse güç kullanarak- Hikaru onu ne pahasına olursa olsun korumaya karar verir.<br><br>İşte tam o sırada Hikaru, son işinin hedefi haline gelen parlak bir evlilik dolandırıcısı olan Mei Kinosaki ile karşılaşır.<br><br>Ailenin veraset sorununu çözmenin ve kız kardeşini korumanın tek yolunun evlilik olduğunu anlayan Hikaru, düşünmeden Mei'den bir gelin bulma konusunda yardım ister.<br><br>(Kaynak: EMOTION Etiket Kanalı)"
         },
         {
           "id": 199221,
@@ -1802,7 +1614,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Batı'nın en azılı şövalyesi Serafina, barbarlar tarafından yakalandığında işkence görmeyi bekliyordu. Bunun yerine evlenme teklifi aldı! Yeminli düşmanıyla evlenmek kesinlikle hayır! Ancak düğününü kaçıran kişinin kültürünü ve çok güzel yüzünü gördükten sonra, kılıcını bir düğün duvağıyla değiştirmek isteyebilir. Düşmanlardan belki de sevgililere uzanan nihai hikayeye hazır olun.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Batı'nın en azılı şövalyesi Serafina, barbarlar tarafından yakalandığında işkence görmeyi bekliyordu. Bunun yerine evlenme teklifi aldı! Yeminli düşmanıyla evlenmek kesinlikle hayır! Ancak düğünü kaçıran kişinin kültürünü ve çok güzel yüzünü gördükten sonra, kılıcını düğün duvağıyla değiştirmek isteyebilir. Düşmanlardan belki de sevgililere uzanan nihai hikayeye hazır olun.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 194393,
@@ -1898,133 +1710,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Çocukluk arkadaşları Yukiya ve Miku, duyguları dışında her şeyi paylaşırlar. Altıncı sınıftan beri bir “aşk oyunu” oynuyorlar: Sırayla “Seni seviyorum” diyorlar ve kim ilk önce telaşlanırsa o kaybediyor. Artık lisedeyken kalpleri her zamankinden daha yakın ama sonunda itiraf edecek cesareti bulabilecekler mi?<br><br>(Kaynak: Crunchyroll)"
-        },
-        {
-          "id": 197824,
-          "title": {
-            "romaji": "Isekai Nonbiri Nouka 2",
-            "english": "Farming Life in Another World 2",
-            "native": "異世界のんびり農家２"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 6
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197824-k9Uyef8g49hB.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197824-k9Uyef8g49hB.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197824-rS7XjJQ0CZs2.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1782135000,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Fantasy",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Agriculture",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kingdom Management",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Angels",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Vampire",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Elf",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kemonomimi",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Maids",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dragons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medicine",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Family Life",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 73,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Zero-G"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Isekai Nonbiri Nouka</i>.<br />\n<br><br></p>\n<p><i>Note: World premiere of Episode 1 before the Japanese television premiere occurred at ANIMONIUM in Bangkok February 8, 2026</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/nonbiri_nouka"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://nonbiri-nouka2.com/"
-            },
-            {
-              "site": "HIDIVE",
-              "url": "https://www.hidive.com/season/35229"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2342017"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Isekai Nonbiri Nouka'nın ikinci sezonu.<br><br>Not: 8 Şubat 2026'da Bangkok'taki ANIMONIUM'da Japon televizyon galasından önce Bölüm 1'in dünya prömiyeri yapıldı."
         },
         {
           "id": 194317,
@@ -2326,8 +2011,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1782140400,
-            "episode": 12
+            "airingAt": 1782745200,
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -3038,132 +2723,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.<br><br>Bir soyluyla yaşadığı felaketle sonuçlanan karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra sıkı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi, her türlü değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!<br><br>(Kaynak: J-Novel Kulübü)"
-        },
-        {
-          "id": 189987,
-          "title": {
-            "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
-            "english": "The Klutzy Class Monitor and the Girl with the Short Skirt",
-            "native": "ポンコツ風紀委員とスカート丈が不適切なJKの話"
-          },
-          "synonyms": [
-            "The Story Between a Dumb Prefect and a High School Girl with an Inappropriate Skirt Length",
-            "PonSuka",
-            "ポンスカ",
-            "Бесполезный дежурный и школьница со слишком короткой юбкой"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 6
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189987-CkTDPfD7vu2Y.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189987-CkTDPfD7vu2Y.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189987-0UGf5F7zWNvv.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1782138240,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Slapstick",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tsundere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gyaru",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Surreal Comedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Hip-hop Music",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Otaku Culture",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 75,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Zero-G"
-              }
-            ]
-          },
-          "description": "<p>Sakuradaimon is the school's prefect. A prefect is a student who is authorized to enforce discipline. As a prefect, he's supposed to be a role model to other students, but unfortunately he's not perfect. Kohinata is one of the people who Sakuradaimon has tried to discipline into wearing appropriate school attire, but she has thusfar been disobedient.<br><br />\n<br><br />\nAnd so this is a story of the two interacting with one another.</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://ponsuka.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/ponsuka_anime"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371923/the-klutzy-class-monitor-and-the-girl-with-the-short-skirt"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2361551"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Sakuradaimon okulun müdürüdür. Vali, disiplini uygulama yetkisine sahip bir öğrencidir. Bir sınıf başkanı olarak diğer öğrencilere rol model olması gerekiyor ama ne yazık ki mükemmel değil. Kohinata, Sakuradaimon'un uygun okul kıyafetleri giymesi konusunda disipline etmeye çalıştığı kişilerden biridir, ancak şu ana kadar itaatsiz olmuştur.<br><br>Ve bu, ikisinin birbirleriyle etkileşime girdiği bir hikaye."
+          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.<br><br>Bir soyluyla yaşadığı felaketle sonuçlanan karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra sıkı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi her türden değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!<br><br>(Kaynak: J-Novel Kulübü)"
         },
         {
           "id": 179950,
@@ -3295,7 +2855,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 60,
+          "averageScore": 59,
           "studios": {
             "nodes": [
               {
@@ -3710,7 +3270,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu gücendirirseniz, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlıdır ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacaktır... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetmiştir.<br><br>(Kaynak: HİDİV)"
+          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu gücendirirseniz, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlı ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacak... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetti.<br><br>(Kaynak: HİDİV)"
         },
         {
           "id": 195268,
@@ -4851,7 +4411,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Awajima Opera Okulu'nda Japonya'nın dört bir yanından kızlar sahnede bir yer kazanmak için çabalıyor. Wakana müzikal tiyatroya olan aşkıyla hareket ederken Kinue sessiz bir disiplinle çalışıyor. Burslu öğrenci Emi herkesin dikkatini çekiyor, ama özellikle de hayranlık ve karşılaştırma konusunda zorluk çeken Keiko'nun. Değişen bakış açıları sayesinde iç içe geçen günleri, hırsı, dostluğu ve kendini keşfetmeyi keşfediyor.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Awajima Opera Okulu'nda Japonya'nın dört bir yanından kızlar sahnede bir yer kazanmak için çabalıyor. Wakana müzikal tiyatroya olan aşkıyla hareket ederken Kinue sessiz bir disiplinle çalışıyor. Burslu öğrenci Emi herkesin dikkatini çeker; ama özellikle de hayranlık ve karşılaştırma konusunda zorluk çeken Keiko'nun. Değişen bakış açıları sayesinde iç içe geçen günleri, hırsı, dostluğu ve kendini keşfetmeyi keşfediyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 202985,
@@ -4950,7 +4510,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Peki artık oda arkadaşlarına sahip olmanın anlamı bu mu? 24 yaşındaki ofis çalışanı Rinko, yalnız yaşıyor ve gizlice bir otaku. Bir gün dairesi duvardaki bir \"delik\" aracılığıyla iki komşu odaya bağlanır. Soldaki odada Rinko'ya aşırı tatlı davranan taze yüzlü ama gizemli bir adam var. Sağdaki oda, şiddet eğilimi olan ve benzer şekilde gizemli bir adam tarafından işgal ediliyor... Ama durun! \"Ben...sanırım onu ​​tanıyorum!\" Rinko'nun tek yalnızlık kaynağı olan dairesi altüst olmuştur. Artık her gün yürek hoplatan sürprizlerle dolu!<br><br>(Kaynak: Manga Plaza)"
+          "descriptionTr": "Peki artık oda arkadaşlarına sahip olmanın anlamı bu mu? 24 yaşındaki ofis çalışanı Rinko, yalnız yaşıyor ve gizlice bir otaku. Bir gün dairesi duvardaki bir \"delik\" aracılığıyla iki komşu odaya bağlanır. Soldaki odada Rinko'ya aşırı tatlı davranan taze yüzlü ama gizemli bir adam var. Sağdaki oda, şiddet eğilimi olan ve benzer şekilde gizemli bir adam tarafından işgal ediliyor... Ama bekleyin! \"Ben...sanırım onu ​​tanıyorum!\" Rinko'nun tek yalnızlık kaynağı olan dairesi altüst olmuştur. Artık her gün yürek hoplatan sürprizlerle dolu!<br><br>(Kaynak: Manga Plaza)"
         },
         {
           "id": 158036,
@@ -5162,70 +4722,6 @@
           "descriptionTr": "Seido beyzbol kulübü, son derece hararetli bir beyzbol maçı için bahar davetine gidiyor!<br><br>(Kaynak: Crunchyroll)"
         },
         {
-          "id": 210234,
-          "title": {
-            "romaji": "Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru",
-            "english": "Monster Eater",
-            "native": "魔物喰らいの冒険者 ~俺だけ魔物を喰らって強くなる~"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 3
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210234-MZaMjdbBzEHz.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210234-MZaMjdbBzEHz.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": null,
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Dungeon",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Flash",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 43,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Imagica Infos"
-              },
-              {
-                "name": "Imageworks Studio"
-              }
-            ]
-          },
-          "description": "<p>Rude, an E-rank adventurer. His only skill, &quot;Status Ailment Nullification,&quot; is a niche ability considered useful only for gathering medicinal herbs in miasma-choked dungeons. With virtually zero combat prowess, his fellow adventurers mock him with the nickname &quot;Miasma Scavenger.&quot; In a desperate bid to change his life, Rude ventures into a new dungeon—only to be betrayed by his party and left for dead. With his supplies gone and his life fading, he makes a forbidden choice: to consume the flesh of a monster. So begins the tale of Rude’s &quot;Monster Devouring&quot; adventure, where he gains new skills by simply consuming his foes!<br />\n<br><br><br />\n(Source: Ani-One Asia)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://animationid.com/mamonogurai/"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JghnDOX7F9BXqUL8PRP1Q56"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Rude, E Seviye bir maceracı. Onun tek becerisi olan \"Durum Hastalığını İptal Etme\", yalnızca miasmayla dolu zindanlarda şifalı bitkiler toplamak için yararlı olduğu düşünülen bir niş yetenektir. Neredeyse sıfır savaş becerisine sahip olan maceracı arkadaşları, \"Miasma Çöpçü\" takma adıyla onunla dalga geçiyor. Hayatını değiştirmek için umutsuz bir girişimde bulunan Rude, yeni bir zindana girme riskini alır ancak partisi tarafından ihanete uğrar ve ölüme terk edilir. Erzakları tükenip hayatı tükenirken yasak bir seçim yapar: Bir canavarın etini tüketmek. Böylece Rude'un sadece düşmanlarını tüketerek yeni beceriler kazandığı \"Canavar Yiyen\" macerasının hikayesi başlıyor!<br><br>(Kaynak: Ani-One Asya)"
-        },
-        {
           "id": 169228,
           "title": {
             "romaji": "Hokuto no Ken: FIST OF THE NORTH STAR",
@@ -5405,7 +4901,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Dünyaca ünlü şarap eleştirmeni Yutaka Kanzaki, arkasında 12 milyar yen değerinde bir şarap koleksiyonu bırakarak vefat etti. Vasiyetinde, koleksiyonunun, seçtiği on iki şarabın menşeini ve yılını belirleyebilecek olan “Oniki Havari”ye ve onlardan bile üstün olan “Tanrının Damlaları”na verileceği belirtiliyor. <br><br>Ödül için, Yutaka'nın şarap konusunda birinci sınıf bir eğitim almış ancak babasına isyan eden ve bir damla bile içmemiş oğlu Shizuku ile Yutaka'nın yakın zamanda oğlu olarak evlat edindiği genç karizmatik şarap eleştirmeni Issei Tomine yarışıyor. <br><br>Şarap nedir? Ebeveyn ve çocuk nedir? Hayat nedir?<br><br>Efsanevi \"Tanrının Damlaları\"nı çevreleyen karmaşık ve hoş kokulu savaş başlamak üzere... <br><br>(Kaynak: Pony Kanyonu)"
+          "descriptionTr": "Dünyaca ünlü şarap eleştirmeni Yutaka Kanzaki, arkasında 12 milyar yen değerinde bir şarap koleksiyonu bırakarak vefat etti. Vasiyetinde, koleksiyonunun, seçtiği on iki şarabın menşeini ve yılını belirleyebilecek olan “Oniki Havari”ye ve onlardan bile üstün olan “Tanrının Damlaları”na verileceği belirtiliyor. <br><br>Ödül için, Yutaka'nın şarap konusunda birinci sınıf bir eğitim almış ancak babasına isyan eden ve bir damla bile içmemiş oğlu Shizuku ile Yutaka'nın yakın zamanda oğlu olarak evlat edindiği genç karizmatik şarap eleştirmeni Issei Tomine yarışıyor. <br><br>Şarap nedir? Ebeveyn ve çocuk nedir? Hayat nedir?<br><br>Efsanevi “Tanrının Damlaları”nı çevreleyen karmaşık ve hoş kokulu savaş başlamak üzere… <br><br>(Kaynak: Pony Kanyonu)"
         },
         {
           "id": 177508,
@@ -5953,6 +5449,63 @@
           "descriptionTr": "Evliliklerinin ışıltısının tadını çıkaran yeni evliler Yuuto ve Sae, mutlu yeni evlilik hayatlarının tadını çıkarıyor gibi görünüyorlardı; ta ki aniden Yuuto daha fazla ayağa kalkamayana kadar. Nedeni? Cinsel tercihleri ​​büyük göğüsler ve haremlerdi. Bunu öğrendikten sonra karısı Sae ne yapması gerektiğini düşündü ve sonunda arkadaşı Emi'den yardım istedi. Eşinin onayladığı bu üçlü seks konusunda tereddütlü olmasına rağmen, Yuuto'nun harem sevdalısı fetişi, Sae'ninkiyle rekabet eden büyük göğüslü kıvrımlara sahip olan Emi ile karşılaştığında patlar...!?<br><br>(Kaynak: Lune-soft, çevrildi)"
         },
         {
+          "id": 212319,
+          "title": {
+            "romaji": "Nikke Nichi! Non Non Zenshou Kichi",
+            "english": "NIKKE Outpost: Off-Duty Tales",
+            "native": "にけにち！のんのん前哨基地"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 5,
+            "day": 22
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212319-y1qSwLdqI2Cv.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212319-y1qSwLdqI2Cv.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": null,
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Sci-Fi",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Cute Girls Doing Cute Things",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Post-Apocalyptic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 64,
+          "studios": {
+            "nodes": []
+          },
+          "description": "<p>Commander, there's no need to sortie today.<br><br />\nNo emergency missions. No roaring gunfire.<br><br />\nAt this moment in the Outpost, all that remains are the Nikkes' everyday moments, laughter, and little unexpected happenings.<br><br>(Source: NIKKE's English Twitter account)</p>",
+          "externalLinks": [
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/@NIKKEJAPAN/"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PL_Aa3W3E5aCF8v29AGTSRenP-0WzEUjaH"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Komutan, bugün sıralamaya gerek yok.<br><br>Acil durum görevi yok. Kükreyen silah sesi yok.<br><br>Şu anda Karakol'da geriye Nikkes'in gündelik anları, kahkahaları ve beklenmedik küçük olaylar kalıyor.<br><br>(Kaynak: NIKKE'nin İngilizce Twitter hesabı)"
+        },
+        {
           "id": 206523,
           "title": {
             "romaji": "Onegai AiPri",
@@ -6042,61 +5595,286 @@
           "descriptionTr": "Pretty Serisi serisinin en son girişi ve AiPri serisinde yeni bir bölüm.<br><br>Not: İlişkiler geçicidir ve daha fazla bilgi açıklandığında güncellenecektir."
         },
         {
-          "id": 212319,
+          "id": 205772,
           "title": {
-            "romaji": "Nikke Nichi! Non Non Zenshou Kichi",
-            "english": "NIKKE Outpost: Off-Duty Tales",
-            "native": "にけにち！のんのん前哨基地"
+            "romaji": "Candy Caries",
+            "english": null,
+            "native": "キャンディーカリエス"
           },
           "synonyms": [],
           "startDate": {
             "year": 2026,
-            "month": 5,
-            "day": 22
+            "month": 4,
+            "day": 15
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212319-y1qSwLdqI2Cv.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212319-y1qSwLdqI2Cv.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205772-kb2YOaXFfPAB.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205772-kb2YOaXFfPAB.png"
           },
-          "bannerImage": null,
-          "nextAiringEpisode": null,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/205772-fJwBre4r2a53.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1782312960,
+            "episode": 11
+          },
           "isAdult": false,
           "genres": [
-            "Comedy",
-            "Sci-Fi",
-            "Slice of Life"
+            "Comedy"
           ],
           "tags": [
             {
-              "name": "Cute Girls Doing Cute Things",
+              "name": "Stop Motion",
               "isMediaSpoiler": false
             },
             {
-              "name": "Post-Apocalyptic",
+              "name": "Mixed Media",
               "isMediaSpoiler": false
             },
             {
               "name": "Primarily Female Cast",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Surreal Comedy",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 55,
+          "studios": {
+            "nodes": [
+              {
+                "name": "WIT STUDIO"
+              }
+            ]
+          },
+          "description": "<p>Ame is a child who loves sweets, and the tooth decay that lives in her mouth called Caries. Caries lives a carefree life inside Ame's mouth and even calls her &quot;Mama&quot;, and Ame's body is always at Caries' mercy.<br />\n<br><br><br />\n(Source: Anime News Network, edited)</p>",
+          "externalLinks": [
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/candycaries/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/candycaries"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@candy_caries"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://www.candycaries.com/"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/@candy_caries"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Ame, tatlıları ve ağzında çürük denilen diş çürüğünü seven bir çocuktur. Caries, Ame'in ağzında tasasız bir hayat yaşıyor ve hatta ona \"Anne\" diyor ve Ame'nin vücudu her zaman Caries'in insafına kalıyor.<br><br>(Kaynak: Anime Haber Ağı, düzenlendi)"
+        },
+        {
+          "id": 209981,
+          "title": {
+            "romaji": "Heart Mark Oome.",
+            "english": null,
+            "native": "はーとまーく多め。"
+          },
+          "synonyms": [
+            "Lotsa Hearts",
+            "Plenty of Heart Marks."
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 5,
+            "day": 29
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209981-rXlkRNX1unMb.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209981-rXlkRNX1unMb.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": null,
+          "isAdult": true,
+          "genres": [
+            "Hentai"
+          ],
+          "tags": [
+            {
+              "name": "Inseki",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gyaru",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Bisexual",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Incest",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 63,
           "studios": {
+            "nodes": [
+              {
+                "name": "T-REX"
+              }
+            ]
+          },
+          "description": "<p>His step-sister is an erotic manga artist. Reika usually relies on her step-brother, Yuu, for support while she works hard on her manga manuscripts, but once she finishes a manuscript, she can’t control her desires and transforms into a total slut! With her body aroused from drawing too many erotic scenes, she gives in to her instincts, unleashes her desires, and pounces on Yuu without hesitation! Today, just like every other day, she’s determined to milk him dry, shoving herself into every orifice she can find! There’s no resisting her step-sister’s relentless sexual assault…!<br />\n<br><br><br />\n(Source: Lune-soft, translated and edited)</p>",
+          "externalLinks": [],
+          "isMyList": false,
+          "descriptionTr": "Üvey kız kardeşi erotik bir manga sanatçısıdır. Reika, manga taslakları üzerinde sıkı çalışırken genellikle üvey kardeşi Yuu'nun desteğine güvenir, ancak bir taslağı bitirdiğinde arzularını kontrol edemez ve tam bir sürtüğe dönüşür! Çok fazla erotik sahne çizmekten uyanan vücuduyla içgüdülerine teslim oluyor, arzularını serbest bırakıyor ve tereddüt etmeden Yuu'ya saldırıyor! Bugün, her gün olduğu gibi, bulabildiği her deliğe kendini sokarak onu kurutan sağmaya kararlı! Üvey kız kardeşinin amansız cinsel saldırısına direnmek mümkün değil…!<br><br>(Kaynak: Lune-soft, çevrildi ve düzenlendi)"
+        },
+        {
+          "id": 202895,
+          "title": {
+            "romaji": "Otaku no Boku ga Ichigun Gal to Tsukiaeru Made no Hanashi",
+            "english": null,
+            "native": "オタクの僕が一軍ギャルと付き合えるまでの話"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 29
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202895-tyPbaoibtuEA.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202895-tyPbaoibtuEA.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": null,
+          "isAdult": true,
+          "genres": [
+            "Hentai"
+          ],
+          "tags": [
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gyaru",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Fellatio",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anal Sex",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Femdom",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Virginity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Large Breasts",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Mating Press",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 58,
+          "studios": {
             "nodes": []
           },
-          "description": "<p>Commander, there's no need to sortie today.<br><br />\nNo emergency missions. No roaring gunfire.<br><br />\nAt this moment in the Outpost, all that remains are the Nikkes' everyday moments, laughter, and little unexpected happenings.<br><br>(Source: NIKKE's English Twitter account)</p>",
+          "description": "<p>The protagonist, Tomohiko Suzuki, secretly harbors feelings for Ruka Ayase, a popular girl in his class. Determined to get even a little closer to Ayase, Suzuki decides to take action. He tries going to school with a hairstyle he’s not used to, but his classmates’ reactions aren’t very positive… However, he manages to strike up a conversation with some of the top-tier gals who show interest in him!? And to his surprise, they even start calling him by the nickname <i>“Chom”</i>! Taking this day as a starting point, Chom begins talking with Ayase’s group and works hard to become friends with them. Then one day, he runs into Ayase as she’s heading home. <i>“Chom, are you free? Then come over to my place—tell me some funny stories.”</i> Unexpectedly invited to her house… When Ayase leaned in and asked, <i>“Hey, Chom, do you have a girlfriend?”</i> he couldn’t hold back… <i>“Sure, show me your dick. I’ll jerk you off ♡.”</i> An unexpected turn of events!?!?<br />\n<br><br><br />\n(Source: Fanza, translated)</p>",
+          "externalLinks": [],
+          "isMyList": false,
+          "descriptionTr": "Başrol oyuncusu Tomohiko Suzuki, sınıfında popüler bir kız olan Ruka Ayase'ye karşı gizlice hisler besliyor. Ayase'ye biraz daha yaklaşmaya kararlı olan Suzuki, harekete geçmeye karar verir. Alışkın olmadığı bir saç modeliyle okula gitmeye çalışıyor ancak sınıf arkadaşlarının tepkileri pek olumlu değil… Ancak kendisine ilgi gösteren üst düzey kızlardan bazılarıyla sohbet başlatmayı başarıyor!? Ve onu şaşırtacak şekilde, ona \"Chom\" lakabıyla hitap etmeye bile başladılar! Bu günü başlangıç ​​noktası olarak alan Chom, Ayase'nin grubuyla konuşmaya başlar ve onlarla arkadaş olmak için yoğun çaba harcar. Sonra bir gün eve giderken Ayase ile karşılaşır. \"Chom, boş musun? O zaman evime gel, bana komik hikayeler anlat.\" Beklenmedik bir şekilde evine davet edildi… Ayase eğilip “Hey Chom, kız arkadaşın var mı?” diye sordu. kendini tutamadı... \"Tabii ki, bana sikini göster. Seni 31 çekerim ♡.\" Beklenmedik bir gelişme!?!?<br><br>(Kaynak: Fanza, tercüme)"
+        },
+        {
+          "id": 204269,
+          "title": {
+            "romaji": "Odekake Kozame Season 2",
+            "english": "Little Shark's Day Out Season 2",
+            "native": "おでかけ子ザメ シーズン2"
+          },
+          "synonyms": [
+            "A Little Shark Going Out. Season 2",
+            "Little Shark's Outings Season 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 12
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204269-fTR4iyVjTHiC.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204269-fTR4iyVjTHiC.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1782597600,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Animals",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Animal Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Iyashikei",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "ENGI"
+              }
+            ]
+          },
+          "description": "<p>Second season of <i>Odekake Kozame</i>.</p>",
           "externalLinks": [
             {
               "site": "YouTube",
-              "url": "https://www.youtube.com/@NIKKEJAPAN/"
+              "url": "https://www.youtube.com/@odekake-kozame"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://odekake-kozame.com/"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@kozame_info"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/kozame_info"
             },
             {
               "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PL_Aa3W3E5aCF8v29AGTSRenP-0WzEUjaH"
+              "url": "https://www.youtube.com/playlist?list=PLjrUB63ikczNcRItB8koEfoBfA7sjCZ-k"
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Komutan, bugün sıralamaya gerek yok.<br><br>Acil durum görevi yok. Kükreyen silah sesi yok.<br><br>Şu anda Karakol'da geriye Nikkes'in gündelik anları, kahkahaları ve beklenmedik küçük olaylar kalıyor.<br><br>(Kaynak: NIKKE'nin İngilizce Twitter hesabı)"
+          "descriptionTr": "Odekake Kozame'nin ikinci sezonu."
         }
       ]
     }
