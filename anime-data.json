@@ -200,6 +200,14 @@
             {
               "site": "YouTube",
               "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3RN7t6wesJqlUkSUN6FHKF"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/ReZEROFR"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/@Rezero_official"
             }
           ],
           "isMyList": true,
@@ -684,7 +692,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e'nin dördüncü sezonu.<br><br>Ayanokouji ve sınıf arkadaşları İleri Yetiştirme Lisesi'ndeki ikinci yıllarına başlarken, onları yeni sınavlar ve oldukça benzersiz birinci sınıf öğrencilerinden oluşan yeni bir grupla karşılarlar. Birbirlerini hızlı bir şekilde tanımaları gerekecek, çünkü ilk özel sınav birinci sınıfları ikinci sınıflarla yazılı bir sınavda eşleştiriyor; yalnızca ikinci sınıflar takımlarının kötü performans göstermesi durumunda okuldan atılma tehlikesiyle karşı karşıya kalacak! Daha da kötüsü mü? Görünüşe göre yeni birinci sınıflardan biri de Beyaz Oda'dan. Ayanokouji bu gizli düşmanın kimliğini ortaya çıkarırken sınır dışı edilmekten kurtulabilecek mi?<br><br>(Kaynak: Yedi Deniz)"
+          "descriptionTr": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e'nin dördüncü sezonu.<br><br>Ayanokouji ve sınıf arkadaşları İleri Yetiştirme Lisesi'ndeki ikinci yıllarına başlarken, onları yeni sınavlar ve oldukça benzersiz birinci sınıf öğrencilerinden oluşan yeni bir grupla karşılarlar. Birbirlerini hızlı bir şekilde tanımaları gerekecek, çünkü ilk özel sınav birinci sınıfları ikinci sınıflarla yazılı bir sınavda eşleştiriyor; takımları kötü performans gösterirse yalnızca ikinci sınıflar okuldan atılmayla karşı karşıya kalacak! Daha da kötüsü mü? Görünüşe göre yeni birinci sınıflardan biri de Beyaz Oda'dan. Ayanokouji bu gizli düşmanın kimliğini ortaya çıkarırken sınır dışı edilmekten kurtulabilecek mi?<br><br>(Kaynak: Yedi Deniz)"
         },
         {
           "id": 182300,
@@ -822,113 +830,6 @@
           "descriptionTr": "Tsue to Tsurugi no Wistoria'nın ikinci sezonu.<br><br>Büyü akademisinde sihir kullanamayan başarısız bir öğrenci olan Will, çocukluk arkadaşı Elfaria'ya verdiği bir sözü yerine getirmek için büyücülerin en üst kademesi olan Magia Vander'a katılmayı hedefliyor. Asa yerine kılıç kullanan yetenekleri akademide yavaş yavaş tanınmaktadır. Lihanna ve yılın diğer başarılı öğrencileriyle birlikte üstlendiği tüm öğrencilerden oluşan uygulamalı zindan eğitimi sırasında gizemli bir büyücü tarafından pusuya düşürülürler. Saldırıdan hep birlikte zar zor kurtulsalar da çıkış sınavıyla karşı karşıya kalırlar. Will kulede kendisini bekleyen kıza ulaşabilecek mi?<br><br>(Kaynak: Resmi Site)"
         },
         {
-          "id": 169580,
-          "title": {
-            "romaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
-            "english": "I Made Friends with the Second Prettiest Girl in My Class",
-            "native": "クラスで２番目に可愛い女の子と友だちになった"
-          },
-          "synonyms": [
-            "I Became Friends with the Second Cutest Girl in My Class",
-            "Kuranika",
-            "クラにか"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 7
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169580-nXxpmqu6UVux.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169580-RUdWWw0j74HH.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1782225000,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Otaku Culture",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Estranged Family",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Chibi",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Video Games",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Love Triangle",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 80,
-          "studios": {
-            "nodes": [
-              {
-                "name": "CONNECT"
-              }
-            ]
-          },
-          "description": "<p>Maki Maehara, the class outcast, finally makes his first friend: Umi Asanagi, the second-prettiest girl in class and the center of everyone’s attention. He’s convinced she’s out of his league, but as their unlikely friendship grows, Maki starts to wonder…could there be more than just friendship between them?<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/2ndinclass/"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kuranika.asmik-ace.co.jp/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371673"
-            }
-          ],
-          "isMyList": true,
-          "descriptionTr": "Sınıfın dışladığı Maki Maehara sonunda ilk arkadaşını edinir: Sınıfın en güzel ikinci kızı ve herkesin ilgi odağı olan Umi Asanagi. Onun kendi liginin dışında olduğuna inanıyor ama beklenmedik arkadaşlıkları büyüdükçe Maki merak etmeye başlıyor: Aralarında arkadaşlıktan daha fazlası olabilir mi?<br><br>(Kaynak: Crunchyroll)"
-        },
-        {
           "id": 199547,
           "title": {
             "romaji": "MARRIAGETOXIN",
@@ -950,8 +851,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199547-7230SVo56b42.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1782223200,
-            "episode": 12
+            "airingAt": 1782828000,
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -1639,8 +1540,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194393-FmUDMgF0apUJ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1782223200,
-            "episode": 11
+            "airingAt": 1782828000,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -2727,7 +2628,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.<br><br>Bir soyluyla yaşadığı felaketle sonuçlanan karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra sıkı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi her türden değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!<br><br>(Kaynak: J-Novel Kulübü)"
+          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.<br><br>Bir soyluyla yaşadığı felaketle sonuçlanan karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra katı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi her türden değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!<br><br>(Kaynak: J-Novel Kulübü)"
         },
         {
           "id": 179950,
@@ -2925,11 +2826,11 @@
           ],
           "tags": [
             {
-              "name": "Female Protagonist",
+              "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Female Cast",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -3274,7 +3175,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu gücendirirseniz, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlı ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacak... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetti.<br><br>(Kaynak: HİDİV)"
+          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu kızdırırsanız, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlı ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacak... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetti.<br><br>(Kaynak: HİDİV)"
         },
         {
           "id": 195268,
@@ -3298,10 +3199,7 @@
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195268-HkEv0z9iTCJK.jpg"
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195268-dsEz7gM76ykF.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1782219600,
-            "episode": 12
-          },
+          "nextAiringEpisode": null,
           "isAdult": false,
           "genres": [
             "Comedy",
@@ -3933,8 +3831,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1782225000,
-            "episode": 12
+            "airingAt": 1782829800,
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -4227,7 +4125,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 62,
+          "averageScore": 63,
           "studios": {
             "nodes": [
               {
@@ -4514,7 +4412,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Peki artık oda arkadaşlarına sahip olmanın anlamı bu mu? 24 yaşındaki ofis çalışanı Rinko, yalnız yaşıyor ve gizlice bir otaku. Bir gün dairesi duvardaki bir \"delik\" aracılığıyla iki komşu odaya bağlanır. Soldaki odada Rinko'ya aşırı tatlı davranan taze yüzlü ama gizemli bir adam var. Sağdaki oda, şiddet eğilimi olan ve benzer şekilde gizemli bir adam tarafından işgal ediliyor... Ama bekleyin! \"Ben...sanırım onu ​​tanıyorum!\" Rinko'nun tek yalnızlık kaynağı olan dairesi altüst olmuştur. Artık her gün yürek hoplatan sürprizlerle dolu!<br><br>(Kaynak: Manga Plaza)"
+          "descriptionTr": "Peki artık oda arkadaşlarına sahip olmanın anlamı bu mu? 24 yaşındaki ofis çalışanı Rinko, yalnız yaşıyor ve gizlice bir otaku. Bir gün dairesi duvardaki bir \"delik\" aracılığıyla iki komşu odaya bağlanır. Soldaki odada Rinko'ya aşırı tatlı davranan taze yüzlü ama gizemli bir adam var. Sağdaki oda, şiddet eğilimi olan ve benzer şekilde gizemli bir adam tarafından işgal ediliyor... Ama durun! \"Ben...sanırım onu ​​tanıyorum!\" Rinko'nun tek yalnızlık kaynağı olan dairesi altüst olmuştur. Artık her gün yürek hoplatan sürprizlerle dolu!<br><br>(Kaynak: Manga Plaza)"
         },
         {
           "id": 158036,
@@ -4905,7 +4803,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Dünyaca ünlü şarap eleştirmeni Yutaka Kanzaki, arkasında 12 milyar yen değerinde bir şarap koleksiyonu bırakarak vefat etti. Vasiyetinde, koleksiyonunun, seçtiği on iki şarabın menşeini ve yılını belirleyebilecek olan “Oniki Havari”ye ve onlardan bile üstün olan “Tanrının Damlaları”na verileceği belirtiliyor. <br><br>Ödül için, Yutaka'nın şarap konusunda birinci sınıf bir eğitim almış ancak babasına isyan eden ve bir damla bile içmemiş oğlu Shizuku ile Yutaka'nın yakın zamanda oğlu olarak evlat edindiği genç karizmatik şarap eleştirmeni Issei Tomine yarışıyor. <br><br>Şarap nedir? Ebeveyn ve çocuk nedir? Hayat nedir?<br><br>Efsanevi “Tanrının Damlaları”nı çevreleyen karmaşık ve hoş kokulu savaş başlamak üzere… <br><br>(Kaynak: Pony Kanyonu)"
+          "descriptionTr": "Dünyaca ünlü şarap eleştirmeni Yutaka Kanzaki, arkasında 12 milyar yen değerinde bir şarap koleksiyonu bırakarak vefat etti. Vasiyetinde, koleksiyonunun, seçtiği on iki şarabın menşeini ve yılını belirleyebilecek olan “On İki Havari”ye ve onlardan bile üstün olan “Tanrının Damlaları”na verileceği belirtiliyor. <br><br>Ödül için, Yutaka'nın şarap konusunda birinci sınıf bir eğitim almış ancak babasına isyan eden ve bir damla bile içmemiş oğlu Shizuku ile Yutaka'nın yakın zamanda oğlu olarak evlat edindiği genç karizmatik şarap eleştirmeni Issei Tomine yarışıyor. <br><br>Şarap nedir? Ebeveyn ve çocuk nedir? Hayat nedir?<br><br>Efsanevi “Tanrının Damlaları”nı çevreleyen karmaşık ve hoş kokulu savaş başlamak üzere… <br><br>(Kaynak: Pony Kanyonu)"
         },
         {
           "id": 177508,
@@ -5116,7 +5014,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 57,
+          "averageScore": 58,
           "studios": {
             "nodes": [
               {
@@ -5141,93 +5039,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Rahat Rilakkuma ile günlük yaşam rahat bir dokunuşa kavuşuyor. Dostluğun, değişimin ve küçük sevinçlerin nazik anları ortaya çıkıyor ve sıradan anları, her seferinde yumuşak, rahatlatıcı bir güne, sessizce büyülü bir şeye dönüştürüyor.<br><br>Kalbinizin daha hafif ve daha hafif hissetmesini sağlayacak bir an. Nerede olursanız olun veya ne yapıyor olursanız olun Rilakkuma yanınızda olacaktır. Heyecan verici yeni bir hikaye başlıyor! Tembelliği zahmetsiz gösteren rahat ayı Rilakkuma'nın stressiz dünyasını deneyimleyin!<br><br>(Kaynak: Crunchyroll, Rilakkuma Anime Sitesi, tercüme)"
-        },
-        {
-          "id": 207675,
-          "title": {
-            "romaji": "Hyakki Yakou Shou",
-            "english": "Hyakki Yakoushou",
-            "native": "百鬼夜行抄"
-          },
-          "synonyms": [
-            "Selected Pandemonium",
-            "Tales of a Hundred Ghosts Traveling by the Night",
-            "Hyakkiyakou Shou",
-            "Beyond Twilight",
-            "Le Cortège des cent démons",
-            "La Corte dei Cento Demoni",
-            "บันทึกขบวนร้อยอสูรแห่งรัตติกาล"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 7
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207675-h3TZK82jG5aD.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207675-h3TZK82jG5aD.png"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1782219300,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Horror",
-            "Mystery",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "Youkai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Flash",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Josei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ghost",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 44,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Imagica Infos"
-              },
-              {
-                "name": "Imageworks Studio"
-              }
-            ]
-          },
-          "description": "<p>Ritsu inherited his sixth sense from his grandfather, along with a demon guardian named Blue Storm. Strange things just seem to happen around these two, and it's left to them to get to the bottom of all these mysterious events. Each story is independent but features recurring characters you'll come to know and appreciate as they, each in their own way, try to deal with things 'not of this world'.<br />\n<br><br><br />\n(Source: MU)</p>",
-          "externalLinks": [
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgbFVxH93w5flYikcz7V3YM"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/animehyakki_PR"
-            },
-            {
-              "site": "Prime Video",
-              "url": "https://www.primevideo.com/detail/0M5TD1X03KDPFOAB178702QXF4"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Ritsu, altıncı hissini ve Mavi Fırtına adlı iblis koruyucusunu büyükbabasından miras aldı. Bu ikilinin etrafında tuhaf şeyler oluyor gibi görünüyor ve tüm bu gizemli olayların kökenine inmek onlara kalıyor. Her hikaye bağımsızdır ancak her biri kendi yöntemiyle 'bu dünyaya ait olmayan' şeylerle başa çıkmaya çalışırken tanıyacağınız ve takdir edeceğiniz tekrar eden karakterler içerir.<br><br>(Kaynak: MÜ)"
         },
         {
           "id": 176636,
@@ -5450,7 +5261,7 @@
           "description": "<p>Yuuto and Sae, newlyweds basking in the glow of their marriage, seemed to be enjoying blissful newlywed life—until suddenly, Yuuto couldn't get it up anymore. The reason? His sexual preferences were for big breasts and harems. After learning this, his wife Sae agonized over what to do before finally asking her friend Emi for help. Though hesitant about this wife-approved threesome, Yuuto's harem-loving fetish explodes when faced with Emi—who boasts busty curves rivaling Sae's...!?<br />\n<br><br><br />\n(Source: Lune-soft, translated)</p>",
           "externalLinks": [],
           "isMyList": false,
-          "descriptionTr": "Evliliklerinin ışıltısının tadını çıkaran yeni evliler Yuuto ve Sae, mutlu yeni evlilik hayatının tadını çıkarıyor gibi görünüyorlardı - ta ki aniden Yuuto daha fazla ayağa kalkamayana kadar. Nedeni? Cinsel tercihleri ​​büyük göğüsler ve haremlerdi. Bunu öğrendikten sonra karısı Sae ne yapması gerektiğini düşündü ve sonunda arkadaşı Emi'den yardım istedi. Eşinin onayladığı bu üçlü seks konusunda tereddütlü olmasına rağmen, Yuuto'nun harem sevdalısı fetişi, Sae'ninkiyle rekabet eden büyük göğüslü kıvrımlara sahip olan Emi ile karşılaştığında patlar...!?<br><br>(Kaynak: Lune-soft, çevrildi)"
+          "descriptionTr": "Evliliklerinin ışıltısının tadını çıkaran yeni evliler Yuuto ve Sae, mutlu yeni evlilik hayatlarının tadını çıkarıyor gibi görünüyorlardı; ta ki aniden Yuuto daha fazla ayağa kalkamayana kadar. Nedeni? Cinsel tercihleri ​​büyük göğüsler ve haremlerdi. Bunu öğrendikten sonra karısı Sae ne yapması gerektiğini düşündü ve sonunda arkadaşı Emi'den yardım istedi. Eşinin onayladığı bu üçlü seks konusunda tereddütlü olmasına rağmen, Yuuto'nun harem sevdalısı fetişi, Sae'ninkiyle rekabet eden büyük göğüslü kıvrımlara sahip olan Emi ile karşılaştığında patlar...!?<br><br>(Kaynak: Lune-soft, çevrildi)"
         },
         {
           "id": 212319,
@@ -5507,7 +5318,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Komutan, bugün sıralamaya gerek yok.<br><br>Acil durum görevi yok. Kükreyen silah sesi yok.<br><br>Şu anda Karakol'da geriye Nikkes'in gündelik anları, kahkahaları ve beklenmedik küçük olaylar kalıyor.<br><br>(Kaynak: NIKKE'nin İngilizce Twitter hesabı)"
+          "descriptionTr": "Komutan, bugün sıralamaya gerek yok.<br><br>Acil durum görevi yok. Kükreyen silah sesi yok.<br><br>Şu anda Karakol'da geriye kalan tek şey Nikkes'in gündelik anları, kahkahaları ve beklenmedik küçük olaylardır.<br><br>(Kaynak: NIKKE'nin İngilizce Twitter hesabı)"
         },
         {
           "id": 206523,
@@ -5735,7 +5546,7 @@
           "description": "<p>His step-sister is an erotic manga artist. Reika usually relies on her step-brother, Yuu, for support while she works hard on her manga manuscripts, but once she finishes a manuscript, she can’t control her desires and transforms into a total slut! With her body aroused from drawing too many erotic scenes, she gives in to her instincts, unleashes her desires, and pounces on Yuu without hesitation! Today, just like every other day, she’s determined to milk him dry, shoving herself into every orifice she can find! There’s no resisting her step-sister’s relentless sexual assault…!<br />\n<br><br><br />\n(Source: Lune-soft, translated and edited)</p>",
           "externalLinks": [],
           "isMyList": false,
-          "descriptionTr": "Üvey kız kardeşi erotik bir manga sanatçısıdır. Reika, manga taslakları üzerinde sıkı çalışırken genellikle üvey kardeşi Yuu'nun desteğine güvenir, ancak bir taslağı bitirdiğinde arzularını kontrol edemez ve tam bir sürtüğe dönüşür! Çok fazla erotik sahne çizmekten uyanan vücuduyla içgüdülerine teslim oluyor, arzularını serbest bırakıyor ve tereddüt etmeden Yuu'ya saldırıyor! Bugün, her gün olduğu gibi, bulabildiği her deliğe kendini sokarak onu kurutan sağmaya kararlı! Üvey kız kardeşinin amansız cinsel saldırısına direnmek mümkün değil…!<br><br>(Kaynak: Lune-soft, çevrildi ve düzenlendi)"
+          "descriptionTr": "Üvey kız kardeşi erotik bir manga sanatçısıdır. Reika, manga taslakları üzerinde sıkı çalışırken genellikle üvey kardeşi Yuu'nun desteğine güvenir, ancak bir taslağı bitirdiğinde arzularını kontrol edemez ve tam bir sürtüğe dönüşür! Çok fazla erotik sahne çizmekten uyanan vücuduyla içgüdülerine teslim oluyor, arzularını serbest bırakıyor ve tereddüt etmeden Yuu'ya saldırıyor! Bugün, her gün olduğu gibi, bulabildiği her deliğe kendini sokarak onu kurutan sağmaya kararlı! Üvey kız kardeşinin amansız cinsel saldırısına direnmek yok…!<br><br>(Kaynak: Lune-soft, çevrildi ve düzenlendi)"
         },
         {
           "id": 202895,
@@ -5879,6 +5690,151 @@
           ],
           "isMyList": false,
           "descriptionTr": "Odekake Kozame'nin ikinci sezonu."
+        },
+        {
+          "id": 206840,
+          "title": {
+            "romaji": "Todo no Tsumari",
+            "english": null,
+            "native": "とどの妻り"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 24
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206840-WSrKIJA0GFci.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206840-WSrKIJA0GFci.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1782399600,
+            "episode": 2
+          },
+          "isAdult": true,
+          "genres": [
+            "Hentai"
+          ],
+          "tags": [
+            {
+              "name": "Fellatio",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Public Sex",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nakadashi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Rape",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Large Breasts",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 51,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Nur"
+              }
+            ]
+          },
+          "description": "<p>Despite all my hard work, that guy... Mother Misako had fallen asleep, face-down on the living room table. The screen of her working laptop illuminated her voluptuous form in the darkness. Her ample curves, slipping off the table and swaying, were being kneaded by the hands of her beloved son, Majime...<br />\n<br><br><br />\nThese weren't feelings for a mother... Every time Majime became conscious of Misako, he was tormented by anguish. The secret his aunt Reika had taught him... As a mother, a wife, a female teacher, Misako poured her heart into her daily duties. She wanted to save her. The reality that suddenly descended upon him. The moment he heard that fact, the sound of the shackles binding his boiling son's rod snapped...<br />\n<br><br><br />\n(Source: Getchu, translated)</p>",
+          "externalLinks": [],
+          "isMyList": false,
+          "descriptionTr": "Bütün çabalarıma rağmen o adam... Misako Ana oturma odasındaki masanın üzerinde yüzükoyun uyuyakalmıştı. Çalışan dizüstü bilgisayarının ekranı karanlıkta onun şehvetli formunu aydınlatıyordu. Masadan kayan ve sallanan geniş kıvrımları, sevgili oğlu Majime'nin ellerinde yoğruluyordu...<br><br>Bunlar bir anneye göre duygular değildi... Majime, Misako'nun farkına vardığı her seferde acıdan kıvranıyordu. Teyzesi Reika'nın ona öğrettiği sır... Misako bir anne, bir eş, bir kadın öğretmen olarak günlük görevlerine yüreğini döktü. Onu kurtarmak istedi. Aniden üzerine çöken gerçeklik. Bu gerçeği duyduğu an, kaynayan oğlunun asasını bağlayan prangaların sesi koptu...<br><br>(Kaynak: Getchu, çevrildi)"
+        },
+        {
+          "id": 209982,
+          "title": {
+            "romaji": "Paihame Kazoku",
+            "english": null,
+            "native": "パイハメ家族"
+          },
+          "synonyms": [
+            "Titfuck Family"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 5,
+            "day": 29
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209982-4qVPmKV8LmXS.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209982-4qVPmKV8LmXS.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": null,
+          "isAdult": true,
+          "genres": [
+            "Hentai"
+          ],
+          "tags": [
+            {
+              "name": "Large Breasts",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Boobjob",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Mating Press",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nakadashi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ahegao",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Asphyxiation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Otaku Culture",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "MILF",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "DILF",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Handjob",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Oyakodon",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 49,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Ryuu M's"
+              }
+            ]
+          },
+          "description": "<p>Mizuka, desperate for some pocket money, pretended to be working a part-time job again today, hoping to make some cash by putting her massive breasts to work. But the man who appeared before her was a creepy old guy with an obsession for huge breasts. Just as she was acting all nonchalant, thinking she’d rake in a fortune just by showing off her boobs, Mizuka suddenly found her massive breasts being groped. Her body reacted to the intensity, and she began to lose all her strength. Excited by the thought of “fucking her tits,” the man thrust his cock into her chest…!?<br />\n<br><br><br />\n(Source: Lune-soft, translated)</p>",
+          "externalLinks": [],
+          "isMyList": false,
+          "descriptionTr": "Biraz cep harçlığı sıkıntısı çeken Mizuka, iri göğüslerini çalıştırarak biraz para kazanmayı umarak bugün yine yarı zamanlı bir işte çalışıyormuş gibi davrandı. Ama karşısına çıkan adam, büyük göğüslere takıntısı olan, ürkütücü, yaşlı bir adamdı. Tam kayıtsız davranıp sadece göğüslerini göstererek bir servet kazanacağını düşünürken, Mizuka aniden devasa göğüslerinin el yordamıyla elle tutulduğunu fark etti. Vücudu yoğunluğa tepki verdi ve tüm gücünü kaybetmeye başladı. \"Göğüslerini becerme\" düşüncesiyle heyecanlanan adam, aletini kadının göğsüne doğru itti…!?<br><br>(Kaynak: Lune-soft, çevrildi)"
         }
       ]
     }
