@@ -211,7 +211,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Re:Zero kara Hajimeru Isekai Seikatsu'nun dördüncü sezonu.<br><br>Acı çeken müttefiklerini kurtarmak isteyen Subaru, Ülker Gözetleme Kulesi'ndeki Bilge'yi bulmak için ölümcül bir çölle karşı karşıya kalır.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Lucca Comics & Games, 1. bölümün ön gösterimini 8 Temmuz 2026'daki Japon televizyon yayınından önce 1 Kasım 2025'te yaptı."
+          "descriptionTr": "Re:Zero kara Hajimeru Isekai Seikatsu'nun dördüncü sezonu.<br><br>Acı çeken müttefiklerini kurtarmak isteyen Subaru, Ülker Gözetleme Kulesi'ndeki Bilge'yi bulmak için ölümcül bir çölle karşı karşıya kalır.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Lucca Comics & Games, 1. bölümün ön gösterimini 1 Kasım 2025'te, 8 Temmuz 2026'daki Japon televizyon yayınından önce yaptı."
         },
         {
           "id": 195600,
@@ -525,10 +525,7 @@
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png"
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180745-Iicz1F6Kuj4e.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1782304200,
-            "episode": 16
-          },
+          "nextAiringEpisode": null,
           "isAdult": false,
           "genres": [
             "Drama",
@@ -692,7 +689,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e'nin dördüncü sezonu.<br><br>Ayanokouji ve sınıf arkadaşları İleri Yetiştirme Lisesi'ndeki ikinci yıllarına başlarken, onları yeni sınavlar ve oldukça benzersiz birinci sınıf öğrencilerinden oluşan yeni bir grupla karşılarlar. Birbirlerini hızlı bir şekilde tanımaları gerekecek, çünkü ilk özel sınav birinci sınıfları ikinci sınıflarla yazılı bir sınavda eşleştiriyor; yalnızca ikinci sınıflar takımlarının kötü performans göstermesi durumunda okuldan atılma tehlikesiyle karşı karşıya kalacak! Daha da kötüsü mü? Görünüşe göre yeni birinci sınıflardan biri de Beyaz Oda'dan. Ayanokouji bu gizli düşmanın kimliğini ortaya çıkarırken sınır dışı edilmekten kurtulabilecek mi?<br><br>(Kaynak: Yedi Deniz)"
+          "descriptionTr": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e'nin dördüncü sezonu.<br><br>Ayanokouji ve sınıf arkadaşları İleri Yetiştirme Lisesi'ndeki ikinci yıllarına başlarken, onları yeni sınavlar ve oldukça benzersiz birinci sınıf öğrencilerinden oluşan yeni bir grupla karşılarlar. Birbirlerini hızlı bir şekilde tanımaları gerekecek, çünkü ilk özel sınav birinci sınıfları ikinci sınıflarla yazılı bir sınavda eşleştiriyor; takımları kötü performans gösterirse yalnızca ikinci sınıflar okuldan atılmayla karşı karşıya kalacak! Daha da kötüsü mü? Görünüşe göre yeni birinci sınıflardan biri de Beyaz Oda'dan. Ayanokouji bu gizli düşmanın kimliğini ortaya çıkarırken sınır dışı edilmekten kurtulabilecek mi?<br><br>(Kaynak: Yedi Deniz)"
         },
         {
           "id": 182300,
@@ -1519,7 +1516,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Batı'nın en azılı şövalyesi Serafina, barbarlar tarafından yakalandığında işkence görmeyi bekliyordu. Bunun yerine evlenme teklifi aldı! Yeminli düşmanıyla evlenmek kesinlikle hayır! Ancak düğününü kaçıran kişinin kültürünü ve çok güzel yüzünü gördükten sonra, kılıcını bir düğün duvağıyla değiştirmek isteyebilir. Düşmanlardan belki de sevgililere uzanan nihai hikayeye hazır olun.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Batı'nın en azılı şövalyesi Serafina, barbarlar tarafından yakalandığında işkence görmeyi bekliyordu. Bunun yerine evlenme teklifi aldı! Yeminli düşmanıyla evlenmek kesinlikle hayır! Ancak düğünü kaçıran kişinin kültürünü ve çok güzel yüzünü gördükten sonra, kılıcını düğün duvağıyla değiştirmek isteyebilir. Düşmanlardan belki de sevgililere uzanan nihai hikayeye hazır olun.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 194393,
@@ -2396,11 +2393,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Shounen",
+              "name": "Isekai",
               "isMediaSpoiler": false
             },
             {
-              "name": "Isekai",
+              "name": "Shounen",
               "isMediaSpoiler": false
             },
             {
@@ -2424,6 +2421,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Musical Theater",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Found Family",
               "isMediaSpoiler": false
             },
@@ -2433,10 +2434,6 @@
             },
             {
               "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Musical Theater",
               "isMediaSpoiler": false
             }
           ],
@@ -2628,7 +2625,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.<br><br>Bir soyluyla yaşadığı felaketle sonuçlanan karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra sıkı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi, her türlü değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!<br><br>(Kaynak: J-Novel Kulübü)"
+          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.<br><br>Bir soyluyla yaşadığı felaketle sonuçlanan karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra katı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi her türden değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!<br><br>(Kaynak: J-Novel Kulübü)"
         },
         {
           "id": 179950,
@@ -2942,7 +2939,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yeni üniversite hayatı, yeni yurt arkadaşları... ve yepyeni bir içki dünyası! Botan Kamiina, sessiz yurt lideri Ibuki Tonami'yi tek başına içki içerken fark ettikten sonra alkolünden ilk yudumunu alıyor. Botan, shochu'dan viskiye kadar içki içmenin keyfini arkadaşlarıyla paylaşırken, Ibuki yavaş yavaş bazı zevklerin paylaşıldığında daha iyi olduğunu öğrenir.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Yeni üniversite hayatı, yeni yurt arkadaşları... ve yepyeni bir içki dünyası! Botan Kamiina, sessiz yurt lideri Ibuki Tonami'yi tek başına içki içerken fark ettikten sonra ilk alkol yudumunu alıyor. Botan, shochu'dan viskiye kadar içki içmenin keyfini arkadaşlarıyla paylaşırken, Ibuki yavaş yavaş bazı zevklerin paylaşıldığında daha iyi olduğunu öğrenir.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 182578,
@@ -2951,9 +2948,7 @@
             "english": "Mission: Yozakura Family Season 2",
             "native": "夜桜さんちの大作戦 第2期"
           },
-          "synonyms": [
-            "Mission: Yozakura Family Season 2"
-          ],
+          "synonyms": [],
           "startDate": {
             "year": 2026,
             "month": 4,
@@ -3175,7 +3170,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu gücendirirseniz, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlıdır ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacaktır... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetmiştir.<br><br>(Kaynak: HİDİV)"
+          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu kızdırırsanız, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlı ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacak... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetti.<br><br>(Kaynak: HİDİV)"
         },
         {
           "id": 195268,
@@ -3428,112 +3423,6 @@
           "descriptionTr": "Spica Başak çırak bir cadıdır ancak herhangi bir sihir kullanamaz. Hayallerindeki akademiye girebilmek için ustası olacak birine ihtiyacı var ama ne parası ne de hiçbir bağlantısı var. Aniden önünde sihir kullanabilen, konuşan gizemli bir kara kedi belirir!! Spica sihir öğrenmek istiyor, kara kedi ise lanetinin kırılmasını istiyor; hedefler aynı yolda. Böylece gizli bir usta-çırak ilişkisi doğdu! Ama laneti bozmanın anahtarı onu öpmek…?! Sakar bir cadı ve kara bir kedinin öğretileri; sihir akademisi fantezisi burada başlıyor!!<br><br>(Kaynak: K Manga)"
         },
         {
-          "id": 199029,
-          "title": {
-            "romaji": "Kanojo, Okarishimasu 5th Season",
-            "english": "Rent-a-Girlfriend Season 5",
-            "native": "彼女、お借りします 第5期"
-          },
-          "synonyms": [
-            "かのかり 5",
-            "KanoKari 5"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199029-8eMkhHlD62Ik.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199029-8eMkhHlD62Ik.png"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1782306000,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Fake Relationship",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Prostitution",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Netorase",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Surreal Comedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Parody",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Love Triangle",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Psychosexual",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 57,
-          "studios": {
-            "nodes": [
-              {
-                "name": "TMS Entertainment"
-              }
-            ]
-          },
-          "description": "<p>The fifth season of <i>Kanojo, Okarishimasu</i>.<br />\n<br><br><br />\n<i>Note: Kanojo, Okarishimasu 5th Season was streamed 2 days in advance of the TV broadcast on DMM TV beginning April 8, 2026. Regular broadcasting began on April 11, 2026.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/kanokari_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kanokari-official.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/G6QWV3976/rent-a-girlfriend"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Kanojo, Okarishimasu'nun Beşinci Sezonu.<br><br>Not: Kanojo, Okarishimasu 5. Sezonu 8 Nisan'da başlayacak olan DMM TV'deki yayından 2 gün önce yayınlanmıştır."
-        },
-        {
           "id": 196012,
           "title": {
             "romaji": "MAO",
@@ -3663,7 +3552,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Geçmişi ve bugünü birbirine bağlayan bir lanet.<br><br>1900'lerin başlarında Japonya'nın Taisho döneminde yaşayan genç bir mistik olan Mao, hayatını değiştiren bir lanete maruz kaldıktan sonra dokuz yüz uzun yıl boyunca yaşamaya devam eden gizemli bir onmyojidir. Gelecekten gelmiş gibi görünen ortaokul öğrencisi Nanoka Kiba ile tanıştığında dünyası daha da tuhaf bir hal alır. Nanoka, hassas yıllarına rağmen, küçük bir çocukken anne ve babasını tüyler ürpertici bir kazada kaybetmesiyle yaşadığı travmatik deneyimin damgasını vurduğu garip bir hayat yaşamıştır. Ancak Nanoka o uğursuz alışveriş merkezine dönmeye karar verdiğinde başka bir zamana ve yere taşınır; doğaüstü ayakaşilerin kendisinden çok önce geliştiği bir dünyaya. Orada Mao ile tanışır. Mao'nun ani ve tuhaf sorusu Nanoka'nın kendisini ve meraklı hayatını tamamen yeni bir ışıkta görmesine neden olur. Artık farklı dünyalardan gelen iki gezgin, hayatlarını etkileyen karanlık güçlerle mücadele ederken birleşiyor.<br><br>(Kaynak: VIZ Media, Hulu, düzenlendi)"
+          "descriptionTr": "Geçmişi ve bugünü birbirine bağlayan bir lanet.<br><br>1900'lerin başlarında Japonya'nın Taisho döneminde yaşayan genç bir mistik olan Mao, hayatını değiştiren bir lanete maruz kaldıktan sonra dokuz yüz uzun yıl boyunca yaşamaya devam eden gizemli bir onmyojidir. Gelecekten gelmiş gibi görünen ortaokul öğrencisi Nanoka Kiba ile tanıştığında dünyası daha da tuhaf bir hal alır. Nanoka, hassas yıllarına rağmen, küçük bir çocukken anne ve babasını tüyler ürpertici bir kazada kaybetmesiyle yaşadığı travmatik deneyimin damgasını vurduğu garip bir hayat yaşamıştır. Ancak Nanoka o uğursuz alışveriş merkezine dönmeye karar verdiğinde başka bir zamana ve yere taşınır; doğaüstü ayakaşilerin kendisinden çok önce geliştiği bir dünyaya. Orada Mao ile tanışır ve Mao'nun ani ve tuhaf sorusu Nanoka'nın kendisini ve meraklı hayatını tamamen yeni bir ışıkta görmesine neden olur. Artık farklı dünyalardan gelen iki gezgin, hayatlarını etkileyen karanlık güçlerle mücadele ederken birleşiyor.<br><br>(Kaynak: VIZ Media, Hulu, düzenlendi)"
         },
         {
           "id": 186744,
@@ -3730,6 +3619,10 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Super Power",
               "isMediaSpoiler": false
             },
@@ -3743,10 +3636,6 @@
             },
             {
               "name": "Acting",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
             },
             {
@@ -3791,114 +3680,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Kendini iyi hissetmediğinde, sınav olduğunda, okula gitmek istemediğinde... Onun yerini ben alıyorum. Ben onun kopyasıyım. Başka bir amacım yok. Ama aşık olduğumda bu değişti. Aşık olduğum çocuğun ben olduğumu anlaması için saçlarımı topuz yapıyorum. Okulu atlıyoruz ve yarın ve sonrasında her gün tekrar buluşacağımıza söz veriyoruz. Ben onun kopyasıyım. Benimle ilgili her şey ödünç alınmış ve boş ama kalbim benim.<br><br>(Kaynak: Crunchyroll)"
-        },
-        {
-          "id": 198939,
-          "title": {
-            "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
-            "english": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3",
-            "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う 3rd Season"
-          },
-          "synonyms": [
-            "Jihanki 3",
-            "自販機 3",
-            "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 1
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198939-95aqzBr0Lzcv.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198939-95aqzBr0Lzcv.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1782306000,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Dungeon",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Travel",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Anthropomorphism",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coastal",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Language Barrier",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Food",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Economics",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 64,
-          "studios": {
-            "nodes": [
-              {
-                "name": "AXsiZ"
-              },
-              {
-                "name": "Studio Gokumi"
-              }
-            ]
-          },
-          "description": "<p>The third season of <i>Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://jihanki-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/jihanki_anime"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GVDHX8504/reborn-as-a-vending-machine-i-now-wander-the-dungeon"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou'nun üçüncü sezonu."
         },
         {
           "id": 196144,
@@ -4017,7 +3798,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "\"Yukio... Bir arkadaş edineceğim.\" Tetsuo adında utangaç bir çocuk. Sahip olduğu tek şey Yukio adında dev bir robottu. Uzaydan gelen galaktik canavarlara karşı mücadelede “kurtarıcı” oldular. Son savaşın ardından Tetsuo, on yıl aradan sonra ilk kez Dünya'ya döner ve şaşırtıcı bir dünyaya tanık olur. Bu, tüm arazinin kar ve buzla kaplandığı, ölümcül bir dünyaya dönüştüğü donmuş bir Dünya (kartopu Dünyası olarak adlandırılır)! İnsan ırkına ne oldu? Peki Tetsuo, Yukio'ya verdiği sözü yerine getirebilecek mi?<br><br>(Kaynak: Shogakukan, çevrildi)"
+          "descriptionTr": "\"Yukio... Bir arkadaş edineceğim.\" Tetsuo adında utangaç bir çocuk. Sahip olduğu tek şey Yukio adında dev bir robottu. Uzaydan gelen galaktik canavarlara karşı mücadelede “kurtarıcı” oldular. Son savaşın ardından Tetsuo, on yıl aradan sonra ilk kez Dünya'ya döner ve şaşırtıcı bir dünyaya tanık olur. Bu, tüm arazinin kar ve buzla kaplandığı, ölümcül bir dünyaya dönüştüğü donmuş bir Dünya (Kartopu Dünyası olarak adlandırılır)! İnsan ırkına ne oldu? Peki Tetsuo, Yukio'ya verdiği sözü yerine getirebilecek mi?<br><br>(Kaynak: Shogakukan, çevrildi)"
         },
         {
           "id": 177501,
@@ -4568,7 +4349,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Dünyaca ünlü şarap eleştirmeni Yutaka Kanzaki, arkasında 12 milyar yen değerinde bir şarap koleksiyonu bırakarak vefat etti. Vasiyetinde, koleksiyonunun, seçtiği on iki şarabın menşeini ve yılını belirleyebilecek olan “Oniki Havari”ye ve onlardan bile üstün olan “Tanrının Damlaları”na verileceği belirtiliyor. <br><br>Ödül için, Yutaka'nın şarap konusunda birinci sınıf bir eğitim almış ancak babasına isyan eden ve bir damla bile içmemiş oğlu Shizuku ile Yutaka'nın yakın zamanda oğlu olarak evlat edindiği genç karizmatik şarap eleştirmeni Issei Tomine yarışıyor. <br><br>Şarap nedir? Ebeveyn ve çocuk nedir? Hayat nedir?<br><br>Efsanevi \"Tanrının Damlaları\"nı çevreleyen karmaşık ve hoş kokulu savaş başlamak üzere... <br><br>(Kaynak: Pony Kanyonu)"
+          "descriptionTr": "Dünyaca ünlü şarap eleştirmeni Yutaka Kanzaki, arkasında 12 milyar yen değerinde bir şarap koleksiyonu bırakarak vefat etti. Vasiyetinde, koleksiyonunun, seçtiği on iki şarabın menşeini ve yılını belirleyebilecek olan “On İki Havari”ye ve onlardan bile üstün olan “Tanrının Damlaları”na verileceği belirtiliyor. <br><br>Ödül için, Yutaka'nın şarap konusunda birinci sınıf bir eğitim almış ancak babasına isyan eden ve bir damla bile içmemiş oğlu Shizuku ile Yutaka'nın yakın zamanda oğlu olarak evlat edindiği genç karizmatik şarap eleştirmeni Issei Tomine yarışıyor. <br><br>Şarap nedir? Ebeveyn ve çocuk nedir? Hayat nedir?<br><br>Efsanevi “Tanrının Damlaları”nı çevreleyen karmaşık ve hoş kokulu savaş başlamak üzere… <br><br>(Kaynak: Pony Kanyonu)"
         },
         {
           "id": 177508,
@@ -4921,7 +4702,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 39,
+          "averageScore": 40,
           "studios": {
             "nodes": [
               {
@@ -5067,7 +4848,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 64,
+          "averageScore": 63,
           "studios": {
             "nodes": []
           },
@@ -5083,7 +4864,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Komutan, bugün sıralamaya gerek yok.<br><br>Acil durum görevi yok. Kükreyen silah sesi yok.<br><br>Şu anda Karakol'da geriye Nikkes'in gündelik anları, kahkahaları ve beklenmedik küçük olaylar kalıyor.<br><br>(Kaynak: NIKKE'nin İngilizce Twitter hesabı)"
+          "descriptionTr": "Komutan, bugün sıralamaya gerek yok.<br><br>Acil durum görevi yok. Kükreyen silah sesi yok.<br><br>Şu anda Karakol'da geriye kalan tek şey Nikkes'in gündelik anları, kahkahaları ve beklenmedik küçük olaylardır.<br><br>(Kaynak: NIKKE'nin İngilizce Twitter hesabı)"
         },
         {
           "id": 206523,
@@ -5250,7 +5031,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Ame, tatlıları ve ağzında çürük denilen diş çürüğünü seven bir çocuktur. Caries, Ame'in ağzında kaygısız bir hayat yaşıyor ve hatta ona \"Anne\" diyor ve Ame'nin vücudu her zaman Caries'in insafına kalıyor.<br><br>(Kaynak: Anime Haber Ağı, düzenlendi)"
+          "descriptionTr": "Ame, tatlıları ve ağzında çürük denilen diş çürüğünü seven bir çocuktur. Caries, Ame'in ağzında tasasız bir hayat yaşıyor ve hatta ona \"Anne\" diyor ve Ame'nin vücudu her zaman Caries'in insafına kalıyor.<br><br>(Kaynak: Anime Haber Ağı, düzenlendi)"
         },
         {
           "id": 209981,
@@ -5300,7 +5081,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 63,
+          "averageScore": 64,
           "studios": {
             "nodes": [
               {
@@ -5515,7 +5296,7 @@
           "description": "<p>Despite all my hard work, that guy... Mother Misako had fallen asleep, face-down on the living room table. The screen of her working laptop illuminated her voluptuous form in the darkness. Her ample curves, slipping off the table and swaying, were being kneaded by the hands of her beloved son, Majime...<br />\n<br><br><br />\nThese weren't feelings for a mother... Every time Majime became conscious of Misako, he was tormented by anguish. The secret his aunt Reika had taught him... As a mother, a wife, a female teacher, Misako poured her heart into her daily duties. She wanted to save her. The reality that suddenly descended upon him. The moment he heard that fact, the sound of the shackles binding his boiling son's rod snapped...<br />\n<br><br><br />\n(Source: Getchu, translated)</p>",
           "externalLinks": [],
           "isMyList": false,
-          "descriptionTr": "Bütün çabalarıma rağmen o adam... Misako Ana oturma odasındaki masanın üzerinde yüzükoyun uyuyakalmıştı. Çalışan dizüstü bilgisayarının ekranı karanlıkta onun şehvetli formunu aydınlatıyordu. Masadan kayan ve sallanan geniş kıvrımları, sevgili oğlu Majime'nin ellerinde yoğruluyordu...<br><br>Bunlar bir anneye özgü duygular değildi... Majime, Misako'nun farkına vardığı her seferde acıdan kıvranıyordu. Teyzesi Reika'nın ona öğrettiği sır... Misako, bir anne, bir eş, bir kadın öğretmen olarak günlük görevlerine yüreğini döktü. Onu kurtarmak istedi. Aniden üzerine çöken gerçeklik. Bu gerçeği duyduğu an, kaynayan oğlunun asasını bağlayan prangaların sesi koptu...<br><br>(Kaynak: Getchu, çevrildi)"
+          "descriptionTr": "Bütün çabalarıma rağmen o adam... Misako Ana oturma odasındaki masanın üzerinde yüzükoyun uyuyakalmıştı. Çalışan dizüstü bilgisayarının ekranı karanlıkta onun şehvetli formunu aydınlatıyordu. Masadan kayan ve sallanan geniş kıvrımları, sevgili oğlu Majime'nin ellerinde yoğruluyordu...<br><br>Bunlar bir anneye göre duygular değildi... Majime, Misako'nun farkına vardığı her seferde acıdan kıvranıyordu. Teyzesi Reika'nın ona öğrettiği sır... Misako bir anne, bir eş, bir kadın öğretmen olarak günlük görevlerine yüreğini döktü. Onu kurtarmak istedi. Aniden üzerine çöken gerçeklik. Bu gerçeği duyduğu an, kaynayan oğlunun asasını bağlayan prangaların sesi koptu...<br><br>(Kaynak: Getchu, çevrildi)"
         },
         {
           "id": 209982,
@@ -5588,7 +5369,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 49,
+          "averageScore": 50,
           "studios": {
             "nodes": [
               {
@@ -5599,7 +5380,7 @@
           "description": "<p>Mizuka, desperate for some pocket money, pretended to be working a part-time job again today, hoping to make some cash by putting her massive breasts to work. But the man who appeared before her was a creepy old guy with an obsession for huge breasts. Just as she was acting all nonchalant, thinking she’d rake in a fortune just by showing off her boobs, Mizuka suddenly found her massive breasts being groped. Her body reacted to the intensity, and she began to lose all her strength. Excited by the thought of “fucking her tits,” the man thrust his cock into her chest…!?<br />\n<br><br><br />\n(Source: Lune-soft, translated)</p>",
           "externalLinks": [],
           "isMyList": false,
-          "descriptionTr": "Biraz cep harçlığı için çaresiz kalan Mizuka, devasa göğüslerini çalıştırarak biraz para kazanmayı umarak bugün yine yarı zamanlı bir işte çalışıyormuş gibi davrandı. Ama karşısına çıkan adam, büyük göğüslere takıntısı olan, ürkütücü, yaşlı bir adamdı. Tam kayıtsız davranıp sadece göğüslerini göstererek bir servet kazanacağını düşünürken, Mizuka aniden devasa göğüslerinin el yordamıyla elle tutulduğunu fark etti. Vücudu yoğunluğa tepki verdi ve tüm gücünü kaybetmeye başladı. \"Göğüslerini becerme\" düşüncesiyle heyecanlanan adam, aletini kadının göğsüne doğru itti…!?<br><br>(Kaynak: Lune-soft, çevrildi)"
+          "descriptionTr": "Biraz cep harçlığı sıkıntısı çeken Mizuka, iri göğüslerini çalıştırarak biraz para kazanmayı umarak bugün yine yarı zamanlı bir işte çalışıyormuş gibi davrandı. Ama karşısına çıkan adam, büyük göğüslere takıntısı olan, ürkütücü, yaşlı bir adamdı. Tam kayıtsız davranıp sadece göğüslerini göstererek bir servet kazanacağını düşünürken, Mizuka aniden devasa göğüslerinin el yordamıyla elle tutulduğunu fark etti. Vücudu yoğunluğa tepki verdi ve tüm gücünü kaybetmeye başladı. \"Göğüslerini becerme\" düşüncesiyle heyecanlanan adam, aletini kadının göğsüne doğru itti…!?<br><br>(Kaynak: Lune-soft, çevrildi)"
         },
         {
           "id": 208361,
@@ -5625,7 +5406,7 @@
             "Hentai"
           ],
           "tags": [],
-          "averageScore": null,
+          "averageScore": 53,
           "studios": {
             "nodes": []
           },
@@ -5672,6 +5453,121 @@
           "externalLinks": [],
           "isMyList": false,
           "descriptionTr": "1. Bölüm<br><br>Tonari no Elf Mama (bölüm 1)<br><br>Elfler ve insanlar arasında dostluk anlaşması imzalanalı birkaç yıl oldu... ve dairemin bitişiğinde Sophia ve Lilia adında bir elf annesi ve kızı yaşıyor. Elf komşularımın hazırladığı yemeği yedikten sonra garip, huzursuz bir his hissettim ve anormal derecede tahrik oldum. Tam o sırada Sophia ziyarete geldi ve memleketinden gelen bir bitkiyi yanlışlıkla yanlış miktarda kullandığını açıkladı. Güçlü bir afrodizyak etkisi olduğunu, eğer hemen boşalmazsam üreme fonksiyonlarımda kalıcı hasar görebileceğimi söyledi. Sophia özür mahiyetinde bana yardım etmeyi teklif etti.<br><br>Tonari no Elf Mama (bölüm 2)<br><br>Eve geldiğimde Lilia kapıda beni bekliyordu. Ben küvette sırılsıklam olurken, Lilia tamamen çıplak bir şekilde içeri girdi ve tuvaletimi yapmama yardım etmeyi teklif etti. Olayların ani gidişatı karşısında şaşkına dönmüştüm ama Lilia benimle oynadı ve çok geçmeden ikimiz coşku içinde kıvranmaya, ahlaksız, şehvetli formlarımızı açığa çıkarmaya başladık! Tam o sırada dışarıda olması gereken Sophia eve geldi. Kaotik bir sahneye dönüşmesi gerekirdi ama bunun yerine anne ve kız tamamen insan erkeğinin sikine kapılmışlardı!!<br><br>2. Bölüm<br><br>Tonari Süper Kahraman Değildir ♡<br><br>Yeni komşum ev hanımı Mari Mayama (Kızlık soyadı: Mari Iihoshi) kendini tanıtmak için yanıma geldi ve geçmişe dair anılar bir anda canlandı. O, 13 yıl önce idolleştirdiğim, küçük bir tokusatsu kadın kahraman dizisinde rol alan Milkaiser'dı, \"Aşk Savaşçısı\". Ona büyük bir hayranı olduğumu söylediğimde o zamanki kostümünü giydi. Onu böyle görünce aşırı dürüst aletim tepki gösterdi ve gerçek Milkaiser tarafından cezalandırıldım; bu da suç örgütü Death Geek'in yeniden dirilişine yol açtı!!<br><br>Boku'dan Tomo Mama no Sefure Keiyaku'ya<br><br>Keita, her zaman hayranlık duyduğu arkadaşının annesini ziyaret etmek için her türlü bahaneyi bulur. Güzel, kıvrımlı bir poposu ve büyük, çekici göğüsleri olan çarpıcı bir vücudu var!! Bacaklarını yavaşça açıp külotunu odada sadece ikisinin ortaya çıkardığında, aleti sertleşiyor. Sanki neler olup bittiğini tam olarak biliyormuş gibi, yanına oturuyor ve onu sıkıca sıkıyor. Adım adım onu ​​götürüyor ve her hareketinde kendini ona teslim ederken gelmenin hazzına uyanıyor. Birbirine mükemmel uyum sağlayan ikili, birbirlerinin sikiş arkadaşı olmak için gizli bir anlaşma yapar...<br><br>(Kaynak: Mediabank, tercüme)"
+        },
+        {
+          "id": 208264,
+          "title": {
+            "romaji": "Muchuu no Tou",
+            "english": null,
+            "native": "霧中ノ塔"
+          },
+          "synonyms": [
+            "Shrouded in Mist"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 5,
+            "day": 29
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208264-suCmiuMBZfBy.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208264-suCmiuMBZfBy.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1787842800,
+            "episode": 2
+          },
+          "isAdult": true,
+          "genres": [
+            "Hentai"
+          ],
+          "tags": [],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Majin petit"
+              }
+            ]
+          },
+          "description": "<p>Based on the erotic doujin game by Shiganai Atelier (シガナイアトリエ).</p>",
+          "externalLinks": [],
+          "isMyList": false,
+          "descriptionTr": "Shiganai Atelier'in erotik doujin oyununa dayanmaktadır."
+        },
+        {
+          "id": 209541,
+          "title": {
+            "romaji": "PetitCure: Precure Fairies Season 3",
+            "english": null,
+            "native": "ぷちきゅあ～Precure Fairies～ シーズン3"
+          },
+          "synonyms": [
+            "PuchiCure 3"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 3,
+            "day": 26
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209541-p9YKR3vE0Fx6.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209541-p9YKR3vE0Fx6.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1782379800,
+            "episode": 14
+          },
+          "isAdult": false,
+          "genres": [
+            "Fantasy",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Fairy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Chibi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Animals",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Animal Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "No Dialogue",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "IKIF+"
+              }
+            ]
+          },
+          "description": "<p>In Season 3, in addition to the familiar Mysterious Amusement Park and Candy Paradise, many new locations—including a lively performance stage—will make their debut!<br><br><br />\nFurthermore, joining the ranks of our active heroes like PetitCure Mofurun and PetitCure Pollun, new friends such as PetitCure Purirun and PetitCure Meroron will also be appearing!<br><br><br />\nEverything is even cuter when you're with a friend! ♪<br><br><br />\nPlease look forward to more heartwarming and humorous stories that will leave you feeling cozy and healed by all the cute PetitCure. ♡<br><br></p>\n<p>(Source: Official Website)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://www.toei-anim.co.jp/petitcure/"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/@petitcure"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "3. Sezonda, tanıdık Gizemli Eğlence Parkı ve Şeker Cenneti'ne ek olarak, canlı bir performans sahnesi de dahil olmak üzere pek çok yeni mekan görücüye çıkacak!<br><br>Ayrıca PetitCure Mofurun ve PetitCure Pollun gibi aktif kahramanlarımızın arasına PetitCure Purirun ve PetitCure Meroron gibi yeni arkadaşlar da katılacak!<br><br>Bir arkadaşınızla birlikteyken her şey daha da tatlı! ♪<br><br>Lütfen tüm sevimli PetitCure tarafından kendinizi rahat ve iyileşmiş hissetmenizi sağlayacak daha iç açıcı ve esprili hikayeleri sabırsızlıkla bekleyin. ♡<br><br>(Kaynak: Resmi İnternet Sitesi)"
         }
       ]
     }
