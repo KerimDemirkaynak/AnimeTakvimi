@@ -573,6 +573,10 @@
             {
               "name": "Dungeon",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 82,
@@ -809,142 +813,6 @@
           "descriptionTr": "Yüzyıllar boyunca ölümcül sanatlar, Üstatlar olarak bilinen kişiler tarafından mükemmelleştirildi.<br><br>Bunlar arasında Beş Büyük Ailenin Zehir Ustaları en korkunç güce ve nüfuza sahiptir.<br><br>Zehir Ustaları'nın Gero Ailesi'nin varisi Hikaru Gero, tüm hayatını aşktan veya evlilikten çok uzakta, yeraltı dünyasında geçirmiştir.<br><br>Ancak Gero Ailesi reisi, Hikaru'nun kız kardeşinin soyunu korumak için gerekirse zorla bir varis doğurması gerektiğine karar verince Hikaru, onu ne pahasına olursa olsun korumaya karar verir.<br><br>İşte tam o sırada Hikaru, son işinin hedefi haline gelen parlak bir evlilik dolandırıcısı olan Mei Kinosaki ile karşılaşır.<br><br>Ailenin veraset sorununu çözmenin ve kız kardeşini korumanın tek yolunun evlilik olduğunu anlayan Hikaru, düşünmeden Mei'den bir gelin bulma konusunda yardım ister.<br><br>(Kaynak: EMOTION Etiket Kanalı)"
         },
         {
-          "id": 199221,
-          "title": {
-            "romaji": "Dr. STONE: SCIENCE FUTURE Part 3",
-            "english": "Dr. STONE SCIENCE FUTURE Cour 3",
-            "native": "Dr.STONE SCIENCE FUTURE 3クール"
-          },
-          "synonyms": [
-            "Dr.STONE Season 4 Part 3",
-            "ドクターストーン"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 2
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199221-TReDQMNhslHu.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199221-TReDQMNhslHu.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199221-b3W0FfJd4zMy.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1782392400,
-            "episode": 13
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Sci-Fi"
-          ],
-          "tags": [
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Post-Apocalyptic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Space",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Foreign",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Travel",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Lost Civilization",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Survival",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Aliens",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Coastal",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Educational",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ships",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Robots",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 82,
-          "studios": {
-            "nodes": [
-              {
-                "name": "TMS Entertainment"
-              }
-            ]
-          },
-          "description": "<p>The third and final cour of the fourth season of <i>Dr.STONE</i>.</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/stone_anime_off"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://dr-stone.jp/"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/dr.stone.anime.official"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://tiktok.com/@STONE_anime_off"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/1dffgf4eftx"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jj4AHW3_HqDp39-puRHVfNA"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2123789"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Dr.STONE'un dördüncü sezonunun üçüncü ve son kürü."
-        },
-        {
           "id": 186497,
           "title": {
             "romaji": "Koori no Jouheki",
@@ -1060,142 +928,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Sosyal açıdan beceriksiz olan Higawa Koyuki, kendisi ve diğer insanlar arasında bir duvar tutuyor. Lisede zamanını yalnız geçiriyor, ta ki bir nedenden dolayı aralarındaki mesafeyi kapatmaya çalışan Amamiya Minato ile tanışana kadar?!<br><br>Yalnız Koyuki, popüler Miki, sınırları olmayan Minato ve nazik basketbolcu Youta. Bu, dört karmaşık ve kafası karışmış gencin ve onların karışık hayatlarının hikayesi!<br><br>(Kaynak: Margaret, çevrildi)"
-        },
-        {
-          "id": 182483,
-          "title": {
-            "romaji": "Hime Kishi wa Barbaroi no Yome",
-            "english": "The Warrior Princess and the Barbaric King",
-            "native": "姫騎士は蛮族の嫁"
-          },
-          "synonyms": [
-            "The Barbarian’s Bride",
-            "The Bride of Barbaroi",
-            "Himekishi wa Barbaroi no Yome",
-            "バルよめ",
-            "BaruYome",
-            "Принцесса-рыцарь — невеста варвара"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 9
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182483-La7chs6htDWr.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182483-La7chs6htDWr.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182483-Nzix9ntq3CVj.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1782390600,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Foreign",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Gap",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "War",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Lost Civilization",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Elf",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Prison",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dragons",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Fairy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Religion",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Conspiracy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Robots",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 67,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Jumondou"
-              }
-            ]
-          },
-          "description": "<p>Serafina, the West’s fiercest knight, expected torture when captured by barbarians. Instead, she got a marriage proposal! Marrying her sworn enemy is a hard no! But after seeing her wedding captor’s culture and very pretty face, she may be tempted to swap her sword for a wedding veil. Get ready for the ultimate enemies-to-maybe-lovers arc.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://himekishi-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/himekishi_anime"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00362253/the-warrior-princess-and-the-barbaric-king"
-            }
-          ],
-          "isMyList": true,
-          "descriptionTr": "Batı'nın en azılı şövalyesi Serafina, barbarlar tarafından yakalandığında işkence görmeyi bekliyordu. Bunun yerine evlenme teklifi aldı! Yeminli düşmanıyla evlenmek kesinlikle hayır! Ancak düğünü kaçıran kişinin kültürünü ve çok güzel yüzünü gördükten sonra, kılıcını düğün duvağıyla değiştirmek isteyebilir. Düşmanlardan belki de sevgililere uzanan nihai hikayeye hazır olun.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 194393,
@@ -1460,120 +1192,6 @@
           "descriptionTr": "Baharın Temsilcisi Hinagiku Kayo kaçırıldığında baharın kendisi ortadan kaybolur ve dünyayı bitmek bilmeyen bir kışa sürükler. Vazgeçmeyi reddeden sadık muhafızı Sakura Himedaka, onu yıllarca arar. Hinagiku aniden geri döndüğünde ikili, kaybedilen sezonu geri getirmek, onları parçalayan geçmişle yüzleşmek ve kaybetmeyi reddettikleri sıcaklığı yeniden geri kazanmak için yola çıkar.<br><br>(Kaynak: Crunchyroll)"
         },
         {
-          "id": 197754,
-          "title": {
-            "romaji": "LIAR GAME",
-            "english": "LIAR GAME",
-            "native": "LIAR GAME"
-          },
-          "synonyms": [
-            " ライアーゲーム",
-            "Игра лжецов"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 7
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1782745200,
-            "episode": 13
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Psychological"
-          ],
-          "tags": [
-            {
-              "name": "Gambling",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Death Game",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Conspiracy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Transgender",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Bullying",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Cult",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 60,
-          "studios": {
-            "nodes": [
-              {
-                "name": "MADHOUSE"
-              }
-            ]
-          },
-          "description": "<p>Wishing she would live up to the ideal, Kanzaki Nao's father named her thusly for “honesty”. Nao has more than lived up to her father's wishes--even exceeding them and earning the label of &quot;a foolishly honest girl&quot;. This makes Nao the least qualified candidate for the high stakes 'Liar Game', where winning requires deceiving the opponent out of their money and losing means receiving massive debt. However, that doesn't stop a box containing a hundred million yen in cash and a card informing her of her participation in the game from arriving at her doorstep, nor does it stop her from being promptly tricked out of the entire sum of money. Upon hearing that a genius swindler, responsible for the bankruptcy of a major corporation, is being released from jail, Nao goes to the swindler, Shinichi Akiyama, to enlist his help. With that, the two are drawn into the dark, greed-filled, and deceptive world of the Liar Game.</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://www.liargame-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/liargame_anime/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371851/liar-game"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://www.liargame-anime.com/en/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/liargame_en"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "İdealine uygun yaşamasını dileyen Kanzaki Nao'nun babası, ona \"dürüstlük\" adını verdi. Nao, babasının isteklerini fazlasıyla yerine getirmiş, hatta onları aşmış ve \"aptalca dürüst bir kız\" etiketini kazanmıştır. Bu, Nao'yu, kazanmanın rakibin parasını almak için kandırmayı gerektirdiği ve kaybetmenin ise büyük miktarda borç almak anlamına geldiği yüksek riskli 'Yalancı Oyunu' için en az nitelikli aday haline getiriyor. Ancak bu, içinde yüz milyon yen nakit bulunan bir kutunun ve oyuna katıldığını bildiren bir kartın kapısının önüne gelmesini engellemediği gibi, kandırılarak tüm paranın anında alınmasını da engellemez. Büyük bir şirketin iflasından sorumlu olan dahi bir dolandırıcının hapisten çıktığını duyan Nao, yardım almak için dolandırıcı Shinichi Akiyama'ya gider. Bununla birlikte ikili, Yalancı Oyununun karanlık, açgözlülük dolu ve aldatıcı dünyasına çekilir."
-        },
-        {
           "id": 198113,
           "title": {
             "romaji": "Kill Ao",
@@ -1731,6 +1349,120 @@
           ],
           "isMyList": false,
           "descriptionTr": "Juuzou Oogami, ne kadar imkansız olursa olsun hiçbir görevde başarısız olmayan efsanevi bir tetikçidir. Bir gün güçlü bir organizasyonu yok ettikten sonra gizemli bir eşekarısı tarafından sokulur ve yere yığılır. 39 yaşındaki korkunç suikastçı uyandığında 13 yaşında bir çocuğa dönüşmüştür!<br><br>Daha ne olduğunu anlayamadan patronu yeni bir emir verir: \"O bedenin içinde bir ortaokula sızın.\"<br><br>Onu bekleyen ise renkli sınıf arkadaşları, gençlik kaosu ve yaklaşmakta olan tehlikelerle dolu beklenmedik bir okul hayatıdır. Juuzou bir gün orijinal formuna dönebilecek mi? Yoksa ona yaklaşan suikastçılar onun ikinci hayatına daha başlamadan son mu verecek?<br><br>(Kaynak: Resmi Site)"
+        },
+        {
+          "id": 197754,
+          "title": {
+            "romaji": "LIAR GAME",
+            "english": "LIAR GAME",
+            "native": "LIAR GAME"
+          },
+          "synonyms": [
+            " ライアーゲーム",
+            "Игра лжецов"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 7
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1782745200,
+            "episode": 13
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama",
+            "Psychological"
+          ],
+          "tags": [
+            {
+              "name": "Gambling",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Death Game",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Transgender",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Conspiracy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Bullying",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Cult",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 60,
+          "studios": {
+            "nodes": [
+              {
+                "name": "MADHOUSE"
+              }
+            ]
+          },
+          "description": "<p>Wishing she would live up to the ideal, Kanzaki Nao's father named her thusly for “honesty”. Nao has more than lived up to her father's wishes--even exceeding them and earning the label of &quot;a foolishly honest girl&quot;. This makes Nao the least qualified candidate for the high stakes 'Liar Game', where winning requires deceiving the opponent out of their money and losing means receiving massive debt. However, that doesn't stop a box containing a hundred million yen in cash and a card informing her of her participation in the game from arriving at her doorstep, nor does it stop her from being promptly tricked out of the entire sum of money. Upon hearing that a genius swindler, responsible for the bankruptcy of a major corporation, is being released from jail, Nao goes to the swindler, Shinichi Akiyama, to enlist his help. With that, the two are drawn into the dark, greed-filled, and deceptive world of the Liar Game.</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://www.liargame-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/liargame_anime/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371851/liar-game"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://www.liargame-anime.com/en/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/liargame_en"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "İdealine uygun yaşamasını dileyen Kanzaki Nao'nun babası, ona \"dürüstlük\" adını verdi. Nao, babasının isteklerini fazlasıyla yerine getirmiş, hatta onları aşmış ve \"aptalca dürüst bir kız\" etiketini kazanmıştır. Bu, Nao'yu, kazanmanın rakibin parasını almak için kandırmayı gerektirdiği ve kaybetmenin ise büyük miktarda borç almak anlamına geldiği yüksek riskli 'Yalancı Oyunu' için en az nitelikli aday haline getiriyor. Ancak bu, içinde yüz milyon yen nakit bulunan bir kutunun ve oyuna katıldığını bildiren bir kartın kapısının önüne gelmesini engellemediği gibi, kandırılarak tüm paranın anında alınmasını da engellemez. Büyük bir şirketin iflasından sorumlu olan dahi bir dolandırıcının hapisten çıktığını duyan Nao, yardım almak için dolandırıcı Shinichi Akiyama'ya gider. Bununla birlikte ikili, Yalancı Oyununun karanlık, açgözlülük dolu ve aldatıcı dünyasına çekilir."
         },
         {
           "id": 202102,
@@ -3177,11 +2909,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Full CGI",
+              "name": "Kaiju",
               "isMediaSpoiler": false
             },
             {
-              "name": "Kaiju",
+              "name": "Snowscape",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Full CGI",
               "isMediaSpoiler": false
             },
             {
@@ -3197,19 +2933,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Snowscape",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Aliens",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Space",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
               "isMediaSpoiler": false
             },
             {
@@ -3218,6 +2942,14 @@
             },
             {
               "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Space",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
               "isMediaSpoiler": false
             },
             {
@@ -3289,16 +3021,16 @@
           ],
           "tags": [
             {
+              "name": "Achronological Order",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
             {
               "name": "Primarily Female Cast",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Achronological Order",
-              "isMediaSpoiler": true
             },
             {
               "name": "School",
@@ -3507,7 +3239,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 55,
+          "averageScore": 56,
           "studios": {
             "nodes": [
               {
@@ -3826,10 +3558,7 @@
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177508-Ajz9UrU5SsQ0.jpg"
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177508-AAws5SPLJL2S.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1782394200,
-            "episode": 12
-          },
+          "nextAiringEpisode": null,
           "isAdult": false,
           "genres": [
             "Comedy",
@@ -4972,8 +4701,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1782379800,
-            "episode": 14
+            "airingAt": 1782984600,
+            "episode": 15
           },
           "isAdult": false,
           "genres": [
@@ -5200,6 +4929,101 @@
               "url": "https://x.com/nezumikun_anime"
             }
           ],
+          "isMyList": false
+        },
+        {
+          "id": 212557,
+          "title": {
+            "romaji": "Looney Tunes Gokko",
+            "english": null,
+            "native": "るーにー・てゅーんずごっこ"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 30
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212557-g92cX8cdkTrh.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212557-g92cX8cdkTrh.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/212557-GGmcQYJIFnAB.jpg",
+          "nextAiringEpisode": null,
+          "isAdult": false,
+          "genres": [
+            "Comedy"
+          ],
+          "tags": [
+            {
+              "name": "Primarily Animal Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Animals",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "No Dialogue",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Slapstick",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anthropomorphism",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Fanworks"
+              },
+              {
+                "name": "Studio Nanahoshi"
+              }
+            ]
+          },
+          "description": "",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/looneytunes_jp"
+            }
+          ],
+          "isMyList": false
+        },
+        {
+          "id": 201910,
+          "title": {
+            "romaji": "Oshiri Dandy the Young",
+            "english": null,
+            "native": "おしりダンディ ザ・ヤング"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201910-yulAeyMQbbvw.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201910-yulAeyMQbbvw.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": null,
+          "isAdult": false,
+          "genres": [],
+          "tags": [],
+          "averageScore": null,
+          "studios": {
+            "nodes": []
+          },
+          "description": "",
+          "externalLinks": [],
           "isMyList": false
         }
       ]
