@@ -427,6 +427,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Henshin",
               "isMediaSpoiler": false
             },
@@ -439,20 +443,16 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Femboy",
               "isMediaSpoiler": false
             },
             {
               "name": "Guns",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
             },
             {
               "name": "Archery",
@@ -496,200 +496,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Tensei Shitara Slime Datta Ken'in dördüncü sezonu.<br><br>İblis Lordu Rimuru'nun insanlarla canavarlar arasında bir ittifak kurma hayali gerçekleşmeye bir adım daha yaklaşıyor. Tempest gelişmeye devam ederken Granville Rozzo ve torunu Maribel Rozzo, insanlığı yöneterek koruma planları konusunda İblis Lordu Rimuru ile çatışır. Bu arada El Dorado'da İblis Lordu Leon kendi hedefleri doğrultusunda çalışmaktadır. Yeni bir Kahramanın uyanışı yaklaşıyor!<br><br>(Kaynak: Crunchyroll Haberleri)"
-        },
-        {
-          "id": 180745,
-          "title": {
-            "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki",
-            "english": "Classroom of the Elite 4th Season: Second Year, First Semester",
-            "native": "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期"
-          },
-          "synonyms": [
-            "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e: 2-nensei-hen",
-            "ようこそ実力至上主義の教室へ ２年生編",
-            "Classroom of the Elite: Year 2",
-            "Classroom of the Elite Season 4",
-            "ようこそ実力至上主義の教室へ 4th Season 2年生1学期",
-            "Classroom of the Elite 2nd Year",
-            "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ซีซั่น 4 ภาค ปี 2 เทอม 1",
-            "Youjitsu",
-            "You-Zitsu"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 1
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180745-OEZaBeEdWozn.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180745-Iicz1F6Kuj4e.jpg",
-          "nextAiringEpisode": null,
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Psychological"
-          ],
-          "tags": [
-            {
-              "name": "Boarding School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Survival",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Fugitive",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Battle Royale",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Criminal Organization",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Blackmail",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Martial Arts",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Anti-Hero",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Memory Manipulation",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Bullying",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Philosophy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Conspiracy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Suicide",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Amnesia",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Delinquents",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Revenge",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Athletics",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Disability",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Camping",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Love Triangle",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Wilderness",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Time Skip",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 78,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Lerche"
-              }
-            ]
-          },
-          "description": "<p>The fourth season of <i>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</i>.<br><br><br />\nAs Ayanokouji and his classmates begin their second year at the Advanced Nurturing High School, they’re greeted by a fresh gauntlet of exams and a fresh batch of rather unique first-year students. They’ll have to get to know each other quickly, because the first special exam pairs the first-years with the second-years on a written test—with only the second-years facing expulsion if their team performs poorly! Worse yet? It seems one of the new first-years is also from the White Room. Can Ayanokouji avoid expulsion while sussing out the identity of this hidden foe?<br />\n<br><br><br />\n(Source: Seven Seas)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/youkosozitsu"
-            },
-            {
-              "site": "Official Site",
-              "url": "http://you-zitsu.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GRVN8MNQY/classroom-of-the-elite"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/1edtask2t9x"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/media/2342498"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3d2XXHoyqobEAMz2g0nBc0"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e'nin dördüncü sezonu.<br><br>Ayanokouji ve sınıf arkadaşları İleri Yetiştirme Lisesi'ndeki ikinci yıllarına başlarken, onları yeni sınavlar ve oldukça benzersiz birinci sınıf öğrencilerinden oluşan yeni bir grupla karşılarlar. Birbirlerini hızlı bir şekilde tanımaları gerekecek, çünkü ilk özel sınav birinci sınıfları ikinci sınıflarla yazılı bir sınavda eşleştiriyor; takımları kötü performans gösterirse yalnızca ikinci sınıflar okuldan atılmayla karşı karşıya kalacak! Daha da kötüsü mü? Görünüşe göre yeni birinci sınıflardan biri de Beyaz Oda'dan. Ayanokouji bu gizli düşmanın kimliğini ortaya çıkarırken sınır dışı edilmekten kurtulabilecek mi?<br><br>(Kaynak: Yedi Deniz)"
         },
         {
           "id": 182300,
@@ -1139,133 +945,6 @@
           "descriptionTr": "Dr.STONE'un dördüncü sezonunun üçüncü ve son kürü."
         },
         {
-          "id": 199588,
-          "title": {
-            "romaji": "Otaku ni Yasashii Gal wa Inai!?",
-            "english": "Gals Can't Be Kind to Otaku!?",
-            "native": "オタクに優しいギャルはいない!?"
-          },
-          "synonyms": [
-            "OtaGal",
-            "オタギャル",
-            "OtaGyaru"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199588-M2vtWicvqNbU.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199588-M2vtWicvqNbU.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199588-I4HoR4YjnpqD.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1782312300,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Gyaru",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Otaku Culture",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Love Triangle",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Video Games",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Basketball",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Baseball",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Table Tennis",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 76,
-          "studios": {
-            "nodes": [
-              {
-                "name": "TMS Entertainment"
-              }
-            ]
-          },
-          "description": "<p>Meet Takuya Seo, an otaku who sits behind the popular gals in class, Ijichi and Amane. Since they're people from different &quot;castes,&quot; you wouldn't expect them to have much in common. But when their worlds collide over a borrowed eraser, Takuya slips up about his favorite anime, and Amane...is rather quick to correct him. She says she's not a fan, but her familiarity with the series suggests otherwise. Could she be...a fellow geek?!<br />\n<br><br><br />\n(Source: Yen Press)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://otagal.jp/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/OtaGal_official"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371662/gals-cant-be-kind-to-otaku"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/channel/UCoqLO21EpMJdhABGFJOPn0g"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@otagyal_official"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Sınıfın popüler kızları Ijichi ve Amane'nin arkasında oturan otaku Takuya Seo ile tanışın. Farklı \"kastlardan\" insanlar oldukları için pek fazla ortak noktaya sahip olmalarını bekleyemezsiniz. Ancak ödünç alınan bir silgi yüzünden dünyaları çatışınca Takuya en sevdiği anime hakkında hata yapar ve Amane... onu hemen düzeltir. Hayran olmadığını söylüyor ancak diziye olan aşinalığı aksini gösteriyor. O...bir inek arkadaşı olabilir mi?!<br><br>(Kaynak: Yen Press)"
-        },
-        {
           "id": 186497,
           "title": {
             "romaji": "Koori no Jouheki",
@@ -1612,117 +1291,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Çocukluk arkadaşları Yukiya ve Miku, duyguları dışında her şeyi paylaşırlar. Altıncı sınıftan beri bir “aşk oyunu” oynuyorlar: Sırayla “Seni seviyorum” diyorlar ve kim ilk önce telaşlanırsa o kaybediyor. Artık lisedeyken kalpleri her zamankinden daha yakın ama sonunda itiraf edecek cesareti bulabilecekler mi?<br><br>(Kaynak: Crunchyroll)"
-        },
-        {
-          "id": 194317,
-          "title": {
-            "romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
-            "english": "The Beginning After the End Season 2",
-            "native": "最強の王様、二度目の人生は 何をする? 第2期"
-          },
-          "synonyms": [
-            "TBATE S2",
-            "Начало после конца 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 1
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194317-M7t2ymBDHqyW.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194317-M7t2ymBDHqyW.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1782311400,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dragons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Elf",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dungeon",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Class Struggle",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 58,
-          "studios": {
-            "nodes": [
-              {
-                "name": "studio A-CAT"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?</i><br />\n<br><br><br />\nArthur faces one last mission with Jasmine, but the quest unleashes a tragedy no one saw coming.<br />\n<br><br><br />\n(Source: Crunchyoll News)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/saikyo2dome"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://saikyo2dome-tbate.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/G24H1NWKE/the-beginning-after-the-end"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2341767"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru'nun ikinci sezonu mu?<br><br>Arthur, Jasmine'le birlikte son bir görevle karşı karşıyadır ancak bu görev, kimsenin geleceğini tahmin etmediği bir trajediyi ortaya çıkarır.<br><br>(Kaynak: Crunchyoll Haberleri)"
         },
         {
           "id": 190143,
@@ -2385,10 +1953,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Magic",
               "isMediaSpoiler": false
             },
@@ -2397,7 +1961,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
             },
             {
@@ -2409,19 +1981,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Band",
+              "name": "Musical Theater",
               "isMediaSpoiler": false
             },
             {
-              "name": "Musical Theater",
+              "name": "Band",
               "isMediaSpoiler": false
             },
             {
@@ -3082,6 +2650,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Heterosexual",
               "isMediaSpoiler": false
             },
@@ -3098,6 +2670,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Cosplay",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Age Gap",
               "isMediaSpoiler": false
             },
@@ -3106,28 +2682,8 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cosplay",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Gyaru",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Bisexual",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
             },
             {
               "name": "Kuudere",
@@ -3136,6 +2692,18 @@
             {
               "name": "Primarily Female Cast",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Bisexual",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
             },
             {
               "name": "Crossdressing",
@@ -3171,119 +2739,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu kızdırırsanız, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlı ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacak... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetti.<br><br>(Kaynak: HİDİV)"
-        },
-        {
-          "id": 195268,
-          "title": {
-            "romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2",
-            "english": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
-            "native": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2"
-          },
-          "synonyms": [
-            "LasTame 2",
-            "ラス為 2",
-            "โศกนาฏกรรมของตัวร้ายสุดแกร่งอย่างราชินีลาสบอสจะขอถวายตัวเพื่อปวงชน ซีซั่น 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 7
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195268-HkEv0z9iTCJK.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195268-HkEv0z9iTCJK.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195268-dsEz7gM76ykF.jpg",
-          "nextAiringEpisode": null,
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Villainess",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ojou-sama",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Family Life",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Skip",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 69,
-          "studios": {
-            "nodes": [
-              {
-                "name": "OLM"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/lastame_pr"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://lastame.com/"
-            },
-            {
-              "site": "HIDIVE",
-              "url": "https://www.hidive.com/season/35231"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1gxoIoRFrIlzxe5FM1yZfe"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/upxd1s2it9"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Higeki no Genkyou'dan Naru Saikyou Gedou'ya Last Boss Joou wa Tami no Tame ni Tsukushimasu'nun ikinci sezonu."
         },
         {
           "id": 196974,
@@ -4974,8 +4429,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/205772-fJwBre4r2a53.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1782312960,
-            "episode": 11
+            "airingAt": 1782917760,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -5568,6 +5023,184 @@
           ],
           "isMyList": false,
           "descriptionTr": "3. Sezonda, tanıdık Gizemli Eğlence Parkı ve Şeker Cenneti'ne ek olarak, canlı bir performans sahnesi de dahil olmak üzere pek çok yeni mekan görücüye çıkacak!<br><br>Ayrıca PetitCure Mofurun ve PetitCure Pollun gibi aktif kahramanlarımızın arasına PetitCure Purirun ve PetitCure Meroron gibi yeni arkadaşlar da katılacak!<br><br>Bir arkadaşınızla birlikteyken her şey daha da tatlı! ♪<br><br>Lütfen tüm sevimli PetitCure tarafından kendinizi rahat ve iyileşmiş hissetmenizi sağlayacak daha iç açıcı ve esprili hikayeleri sabırsızlıkla bekleyin. ♡<br><br>(Kaynak: Resmi İnternet Sitesi)"
+        },
+        {
+          "id": 210116,
+          "title": {
+            "romaji": "Kare no Shiranai Himitsu wo Irete. The Animation",
+            "english": null,
+            "native": "彼の知らない秘密を入れて。 The Animation"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 6,
+            "day": 26
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210116-CRuoaXeZO5qU.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210116-CRuoaXeZO5qU.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1782399600,
+            "episode": 1
+          },
+          "isAdult": true,
+          "genres": [
+            "Hentai"
+          ],
+          "tags": [],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Shion"
+              }
+            ]
+          },
+          "description": "<p>It had been two months since they started dating, but Yui and Naoya still weren’t used to being a couple. Just then, a man passing by called out to them. <i>“Yui-chan?”</i> At that moment, Yui was speechless. Standing there was the man who had been her first. Before they started dating, driven by curiosity about sex, Yui had slept with him. The man threatens to reveal her past actions to her boyfriend. And so, once again, Yui finds herself harboring a secret she can't tell her boyfriend…<br />\n<br><br><br />\n(Source: PinkPineapple, translated)</p>",
+          "externalLinks": [],
+          "isMyList": false,
+          "descriptionTr": "Çıkmaya başlayalı iki ay olmuştu ama Yui ve Naoya hâlâ çift olmaya alışamamışlardı. Tam o sırada yoldan geçen bir adam onlara seslendi. “Yui-chan?” O anda Yui'nin dili tutulmuştu. Orada, onun ilki olan adam duruyordu. Onlar çıkmaya başlamadan önce seks merakı nedeniyle Yui onunla yatmıştı. Adam, geçmişteki eylemlerini erkek arkadaşına açıklamakla tehdit eder. Ve böylece Yui bir kez daha kendini erkek arkadaşına söyleyemediği bir sırrın içinde bulur...<br><br>(Kaynak: PinkPineapple, çevrildi)"
+        },
+        {
+          "id": 211557,
+          "title": {
+            "romaji": "Furachi",
+            "english": null,
+            "native": "フラチ"
+          },
+          "synonyms": [
+            "Outrageous",
+            "Unforgivable"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 6,
+            "day": 26
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211557-PN1R4dpTOekY.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211557-PN1R4dpTOekY.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1782399600,
+            "episode": 1
+          },
+          "isAdult": true,
+          "genres": [
+            "Hentai"
+          ],
+          "tags": [],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "T-REX"
+              }
+            ]
+          },
+          "description": "<p><i>“I never imagined things would turn out like this…”</I> Kai, who ended up spending an intimate night with a woman living in the apartment building next door, reflects on his actions. Taking advantage of the fact that a room in the neighboring building happened to be completely visible, he began spending his days soothing himself by watching Ikenaga—who was exposing her vulnerable self—through his lens. But one morning, he accidentally called out to her! From that moment on, a relationship with the woman he’d been spying on began to develop…?<br />\n<br><br><br />\n(Source: Lune-soft, translated)</p>",
+          "externalLinks": [],
+          "isMyList": false,
+          "descriptionTr": "“İşlerin bu şekilde sonuçlanacağını hiç düşünmemiştim…” Yan apartmanda yaşayan bir kadınla samimi bir gece geçiren Kai, yaptıklarını düşünüyor. Komşu binadaki bir odanın tamamen görünür olması gerçeğinden yararlanarak günlerini, savunmasız benliğini açığa çıkaran Ikenaga'yı merceğinden izleyerek kendini sakinleştirmeye başladı. Ama bir sabah yanlışlıkla ona seslendi! O andan itibaren gözetlediği kadınla bir ilişki gelişmeye başladı…?<br><br>(Kaynak: Lune-soft, çevrildi)"
+        },
+        {
+          "id": 209873,
+          "title": {
+            "romaji": "Hamehara",
+            "english": null,
+            "native": "ハメハラ"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 6,
+            "day": 26
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209873-bKlttpEcD4oL.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209873-bKlttpEcD4oL.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1782399600,
+            "episode": 1
+          },
+          "isAdult": true,
+          "genres": [
+            "Hentai"
+          ],
+          "tags": [],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Nur"
+              }
+            ]
+          },
+          "description": "<p><i>“That's sexual harassment! I've told you that before! I'll sue you!”</i> Ayaka Mizukami, a member of the company's compliance committee, immediately calls out Yuya Takahashi on the distance between him and Chitose Takano as they chat amiably. She warns him that even if he meant no harm, it looks inappropriate. In a company that places a high priority on compliance, she takes action despite knowing she’ll make enemies… and sure enough, she did… Ayaka summons Yuya for a harassment training session. Alone with him in the conference room, Ayuka explains matter-of-factly, not suspecting for a moment that he might fight back. She rants one-sidedly, condemning Yuya’s behavior… <i>“So, does this count as sexual harassment?”</i> Yuya defiantly retorts, grabbing Ayuka’s disproportionately voluptuous and massive breasts as he asks, <i>“How about this?” “Is this sexual harassment too?”</i> Yuya presses forward, groping every inch of her stunned, frozen body. Ayuka struggles frantically to resist, but her efforts... were far too feeble.<br />\n<br><br><br />\n(Source: Getchu, translated)</p>",
+          "externalLinks": [],
+          "isMyList": false,
+          "descriptionTr": "\"Bu cinsel tacizdir! Bunu size daha önce de söyledim! Sizi dava edeceğim!\" Şirketin uyumluluk komitesinin bir üyesi olan Ayaka Mizukami, dostane bir şekilde sohbet ederken hemen Yuya Takahashi ile Chitose Takano arasındaki mesafeyi dile getiriyor. Zarar vermek istemese bile bunun uygunsuz göründüğü konusunda onu uyarıyor. Uyum konusuna yüksek öncelik veren bir şirkette, düşman edineceğini bilmesine rağmen harekete geçer... ve kesinlikle öyle de yaptı... Ayaka, Yuya'yı taciz eğitimi için çağırır. Konferans odasında onunla yalnız kalan Ayuka, karşılık verebileceğinden bir an bile şüphelenmeden, gerçekçi bir şekilde açıklıyor. Tek taraflı bağırarak Yuya'nın davranışını kınadı... \"Peki bu cinsel taciz sayılır mı?\" Yuya meydan okurcasına karşılık veriyor ve Ayuka'nın orantısız derecede şehvetli ve iri göğüslerini yakalayarak \"Buna ne dersin?\" diye soruyor. “Bu da mı cinsel taciz?” Yuya, şaşkın, donmuş vücudunun her santimini el yordamıyla ileri doğru bastırıyor. Ayuka direnmek için çılgınca çabalıyor ama çabaları... çok zayıftı.<br><br>(Kaynak: Getchu, çevrildi)"
+        },
+        {
+          "id": 198411,
+          "title": {
+            "romaji": "Nezumi-kun no Chokki (TV)",
+            "english": null,
+            "native": "ねずみくんのチョッキ (TV)"
+          },
+          "synonyms": [
+            "Little Mouse's Red Vest"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198411-FuPLk3KBEoFH.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198411-FuPLk3KBEoFH.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1782520200,
+            "episode": 13
+          },
+          "isAdult": false,
+          "genres": [
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Kids",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Creadom8"
+              }
+            ]
+          },
+          "description": "",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://www.poplar.co.jp/pr/anime-nezumikun/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/nezumikun_anime"
+            }
+          ],
+          "isMyList": false
         }
       ]
     }
