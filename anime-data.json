@@ -367,8 +367,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1782482400,
-            "episode": 12
+            "airingAt": 1783087200,
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -903,7 +903,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 79,
+          "averageScore": 80,
           "studios": {
             "nodes": [
               {
@@ -2056,9 +2056,13 @@
             {
               "name": "Body Horror",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
             }
           ],
-          "averageScore": 59,
+          "averageScore": 60,
           "studios": {
             "nodes": [
               {
@@ -3579,7 +3583,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 40,
+          "averageScore": 39,
           "studios": {
             "nodes": [
               {
@@ -4274,7 +4278,10 @@
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208361-4uMcLF44TJmM.png"
           },
           "bannerImage": null,
-          "nextAiringEpisode": null,
+          "nextAiringEpisode": {
+            "airingAt": 1789657200,
+            "episode": 2
+          },
           "isAdult": true,
           "genres": [
             "Hentai"
@@ -4371,79 +4378,6 @@
           "descriptionTr": "Shiganai Atelier'in erotik doujin oyununa dayanmaktadır."
         },
         {
-          "id": 209541,
-          "title": {
-            "romaji": "PetitCure: Precure Fairies Season 3",
-            "english": null,
-            "native": "ぷちきゅあ～Precure Fairies～ シーズン3"
-          },
-          "synonyms": [
-            "PuchiCure 3"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 3,
-            "day": 26
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209541-p9YKR3vE0Fx6.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209541-p9YKR3vE0Fx6.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1782984600,
-            "episode": 15
-          },
-          "isAdult": false,
-          "genres": [
-            "Fantasy",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Fairy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Chibi",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Animals",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Animal Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "No Dialogue",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "IKIF+"
-              }
-            ]
-          },
-          "description": "<p>In Season 3, in addition to the familiar Mysterious Amusement Park and Candy Paradise, many new locations—including a lively performance stage—will make their debut!<br><br><br />\nFurthermore, joining the ranks of our active heroes like PetitCure Mofurun and PetitCure Pollun, new friends such as PetitCure Purirun and PetitCure Meroron will also be appearing!<br><br><br />\nEverything is even cuter when you're with a friend! ♪<br><br><br />\nPlease look forward to more heartwarming and humorous stories that will leave you feeling cozy and healed by all the cute PetitCure. ♡<br><br></p>\n<p>(Source: Official Website)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://www.toei-anim.co.jp/petitcure/"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/@petitcure"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "3. Sezonda, tanıdık Gizemli Eğlence Parkı ve Şeker Cenneti'ne ek olarak, canlı bir performans sahnesi de dahil olmak üzere pek çok yeni mekan görücüye çıkacak!<br><br>Ayrıca PetitCure Mofurun ve PetitCure Pollun gibi aktif kahramanlarımızın arasına PetitCure Purirun ve PetitCure Meroron gibi yeni arkadaşlar da katılacak!<br><br>Bir arkadaşınızla birlikteyken her şey daha da tatlı! ♪<br><br>Lütfen tüm sevimli PetitCure tarafından kendinizi rahat ve iyileşmiş hissetmenizi sağlayacak daha iç açıcı ve esprili hikayeleri sabırsızlıkla bekleyin. ♡<br><br>(Kaynak: Resmi İnternet Sitesi)"
-        },
-        {
           "id": 210116,
           "title": {
             "romaji": "Kare no Shiranai Himitsu wo Irete. The Animation",
@@ -4519,6 +4453,79 @@
           "externalLinks": [],
           "isMyList": false,
           "descriptionTr": "“İşlerin bu şekilde sonuçlanacağını hiç düşünmemiştim…” Yan apartmanda yaşayan bir kadınla samimi bir gece geçiren Kai, yaptıklarını düşünüyor. Komşu binadaki bir odanın tamamen görünür olmasından yararlanarak günlerini, savunmasız benliğini açığa çıkaran Ikenaga'yı merceğinden izleyerek kendini sakinleştirmeye başladı. Ama bir sabah yanlışlıkla ona seslendi! O andan itibaren gözetlediği kadınla bir ilişki gelişmeye başladı…?<br><br>(Kaynak: Lune-soft, çevrildi)"
+        },
+        {
+          "id": 209541,
+          "title": {
+            "romaji": "PetitCure: Precure Fairies Season 3",
+            "english": null,
+            "native": "ぷちきゅあ～Precure Fairies～ シーズン3"
+          },
+          "synonyms": [
+            "PuchiCure 3"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 3,
+            "day": 26
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209541-p9YKR3vE0Fx6.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209541-p9YKR3vE0Fx6.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1782984600,
+            "episode": 15
+          },
+          "isAdult": false,
+          "genres": [
+            "Fantasy",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Fairy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Chibi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Animals",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Animal Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "No Dialogue",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "IKIF+"
+              }
+            ]
+          },
+          "description": "<p>In Season 3, in addition to the familiar Mysterious Amusement Park and Candy Paradise, many new locations—including a lively performance stage—will make their debut!<br><br><br />\nFurthermore, joining the ranks of our active heroes like PetitCure Mofurun and PetitCure Pollun, new friends such as PetitCure Purirun and PetitCure Meroron will also be appearing!<br><br><br />\nEverything is even cuter when you're with a friend! ♪<br><br><br />\nPlease look forward to more heartwarming and humorous stories that will leave you feeling cozy and healed by all the cute PetitCure. ♡<br><br></p>\n<p>(Source: Official Website)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://www.toei-anim.co.jp/petitcure/"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/@petitcure"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "3. Sezonda, tanıdık Gizemli Eğlence Parkı ve Şeker Cenneti'ne ek olarak, canlı bir performans sahnesi de dahil olmak üzere pek çok yeni mekan görücüye çıkacak!<br><br>Ayrıca PetitCure Mofurun ve PetitCure Pollun gibi aktif kahramanlarımızın arasına PetitCure Purirun ve PetitCure Meroron gibi yeni arkadaşlar da katılacak!<br><br>Bir arkadaşınızla birlikteyken her şey daha da tatlı! ♪<br><br>Lütfen tüm sevimli PetitCure tarafından kendinizi rahat ve iyileşmiş hissetmenizi sağlayacak daha iç açıcı ve esprili hikayeleri sabırsızlıkla bekleyin. ♡<br><br>(Kaynak: Resmi İnternet Sitesi)"
         },
         {
           "id": 209873,
