@@ -211,7 +211,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Re:Zero kara Hajimeru Isekai Seikatsu'nun dördüncü sezonu.<br><br>Acı çeken müttefiklerini kurtarmak isteyen Subaru, Ülker Gözetleme Kulesi'ndeki Bilge'yi bulmak için ölümcül bir çölle karşı karşıya kalır.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Lucca Comics & Games, 1. bölümün ön gösterimini 1 Kasım 2025'te, 8 Temmuz 2026'daki Japon televizyon yayınından önce yaptı."
+          "descriptionTr": "Re:Zero kara Hajimeru Isekai Seikatsu'nun dördüncü sezonu.<br><br>Acı çeken müttefiklerini kurtarmak isteyen Subaru, Ülker Gözetleme Kulesi'ndeki Bilge'yi bulmak için ölümcül bir çölle karşı karşıya kalır.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Lucca Comics & Games, 1. bölümün ön gösterimini 8 Temmuz 2026'daki Japon televizyon yayınından önce 1 Kasım 2025'te yaptı."
         },
         {
           "id": 195600,
@@ -835,8 +835,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186497-naXtQFMHJaR1.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1782399360,
-            "episode": 13
+            "airingAt": 1783004160,
+            "episode": 14
           },
           "isAdult": false,
           "genres": [
@@ -871,11 +871,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Shoujo",
+              "name": "Coming of Age",
               "isMediaSpoiler": false
             },
             {
-              "name": "Coming of Age",
+              "name": "Shoujo",
               "isMediaSpoiler": false
             },
             {
@@ -1601,6 +1601,10 @@
             {
               "name": "Crime",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Cyberpunk",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 67,
@@ -1925,7 +1929,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.<br><br>Bir soyluyla yaşadığı felaketle sonuçlanan karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra katı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi her türden değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!<br><br>(Kaynak: J-Novel Kulübü)"
+          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.<br><br>Bir soyluyla yaşadığı talihsiz karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra sıkı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi, her türlü değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!<br><br>(Kaynak: J-Novel Kulübü)"
         },
         {
           "id": 179950,
@@ -1950,10 +1954,7 @@
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179950-g95odyBfYEbU.jpg"
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179950-j8dYIqYi8KLC.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1782401400,
-            "episode": 13
-          },
+          "nextAiringEpisode": null,
           "isAdult": false,
           "genres": [
             "Action",
@@ -2239,7 +2240,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yeni üniversite hayatı, yeni yurt arkadaşları... ve yepyeni bir içki dünyası! Botan Kamiina, sessiz yurt lideri Ibuki Tonami'yi tek başına içki içerken fark ettikten sonra ilk alkol yudumunu alıyor. Botan, shochu'dan viskiye kadar içki içmenin keyfini arkadaşlarıyla paylaşırken, Ibuki yavaş yavaş bazı zevklerin paylaşıldığında daha iyi olduğunu öğrenir.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Yeni üniversite hayatı, yeni yurt arkadaşları... ve yepyeni bir içki dünyası! Botan Kamiina, sessiz yurt lideri Ibuki Tonami'yi tek başına içki içerken fark ettikten sonra alkolünden ilk yudumunu alıyor. Botan, shochu'dan viskiye kadar içki içmenin keyfini arkadaşlarıyla paylaşırken, Ibuki yavaş yavaş bazı zevklerin paylaşıldığında daha iyi olduğunu öğrenir.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 182578,
@@ -2470,7 +2471,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu kızdırırsanız, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlı ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacak... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetti.<br><br>(Kaynak: HİDİV)"
+          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu gücendirirseniz, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlıdır ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacaktır... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetmiştir.<br><br>(Kaynak: HİDİV)"
         },
         {
           "id": 196974,
@@ -2985,167 +2986,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "\"Yukio... Bir arkadaş edineceğim.\" Tetsuo adında utangaç bir çocuk. Sahip olduğu tek şey Yukio adında dev bir robottu. Uzaydan gelen galaktik canavarlara karşı mücadelede “kurtarıcı” oldular. Son savaşın ardından Tetsuo, on yıl aradan sonra ilk kez Dünya'ya döner ve şaşırtıcı bir dünyaya tanık olur. Bu, tüm arazinin kar ve buzla kaplandığı, ölümcül bir dünyaya dönüştüğü donmuş bir Dünya (Kartopu Dünyası olarak adlandırılır)! İnsan ırkına ne oldu? Peki Tetsuo, Yukio'ya verdiği sözü yerine getirebilecek mi?<br><br>(Kaynak: Shogakukan, çevrildi)"
-        },
-        {
-          "id": 177501,
-          "title": {
-            "romaji": "Awajima Hyakkei",
-            "english": "A Hundred Scenes of AWAJIMA",
-            "native": "淡島百景"
-          },
-          "synonyms": [
-            "Scenes from Awajima",
-            "หนึ่งร้อยทิวทัศน์แห่งอาวาจิมะ",
-            "Сто видов Авадзимы"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 10
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177501-lLkxUFVZ8uAj.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177501-lLkxUFVZ8uAj.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177501-oucV5vhyzxjb.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1782405900,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Music",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Achronological Order",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Josei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Boarding School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Episodic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Acting",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Musical Theater",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Bullying",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Family Life",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Writing",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Dancing",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Religion",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Suicide",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Time Skip",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Meta",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 67,
-          "studios": {
-            "nodes": [
-              {
-                "name": "MADHOUSE"
-              }
-            ]
-          },
-          "description": "<p>At Awajima Opera School, girls from across Japan strive to earn a place on stage. Wakana is driven by her love of musical theater, while Kinue studies with quiet discipline. Scholarship student Emi draws attention from all—but especially from Keiko, who struggles with admiration and comparison. Through shifting perspectives, their intertwined days explore ambition, friendship, and self-discovery.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://awajima-anime.com"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/awajima_anime"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00374363/a-hundred-scenes-of-awajima"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JjWZOD_IeD4sSKU4icerKBZ"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Awajima Opera Okulu'nda Japonya'nın dört bir yanından kızlar sahnede bir yer kazanmak için çabalıyor. Wakana müzikal tiyatroya olan aşkıyla hareket ederken Kinue sessiz bir disiplinle çalışıyor. Burslu öğrenci Emi herkesin dikkatini çeker; ama özellikle de hayranlık ve karşılaştırma konusunda zorluk çeken Keiko'nun. Değişen bakış açıları sayesinde iç içe geçen günleri, hırsı, dostluğu ve kendini keşfetmeyi keşfediyor.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "\"Yukio... Bir arkadaş edineceğim.\" Tetsuo adında utangaç bir çocuk. Sahip olduğu tek şey Yukio adında dev bir robottu. Uzaydan gelen galaktik canavarlara karşı mücadelede “kurtarıcı” oldular. Son savaşın ardından Tetsuo, on yıl aradan sonra ilk kez Dünya'ya döner ve şaşırtıcı bir dünyaya tanık olur. Bu, tüm arazinin kar ve buzla kaplandığı, ölümcül bir dünyaya dönüştüğü donmuş bir Dünya (kartopu Dünyası olarak adlandırılır)! İnsan ırkına ne oldu? Peki Tetsuo, Yukio'ya verdiği sözü yerine getirebilecek mi?<br><br>(Kaynak: Shogakukan, çevrildi)"
         },
         {
           "id": 158036,
@@ -3536,102 +3377,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Dünyaca ünlü şarap eleştirmeni Yutaka Kanzaki, arkasında 12 milyar yen değerinde bir şarap koleksiyonu bırakarak vefat etti. Vasiyetinde, koleksiyonunun, seçtiği on iki şarabın menşeini ve yılını belirleyebilecek olan “On İki Havari”ye ve onlardan bile üstün olan “Tanrının Damlaları”na verileceği belirtiliyor. <br><br>Ödül için, Yutaka'nın şarap konusunda birinci sınıf bir eğitim almış ancak babasına isyan eden ve bir damla bile içmemiş oğlu Shizuku ile Yutaka'nın yakın zamanda oğlu olarak evlat edindiği genç karizmatik şarap eleştirmeni Issei Tomine yarışıyor. <br><br>Şarap nedir? Ebeveyn ve çocuk nedir? Hayat nedir?<br><br>Efsanevi “Tanrının Damlaları”nı çevreleyen karmaşık ve hoş kokulu savaş başlamak üzere… <br><br>(Kaynak: Pony Kanyonu)"
-        },
-        {
-          "id": 177508,
-          "title": {
-            "romaji": "Kujima Utaeba Ie Hororo",
-            "english": "Kujima: Why Sing, When You Can Warble?",
-            "native": "クジマ歌えば家ほろろ"
-          },
-          "synonyms": [
-            "ยามเมื่อคุจิมะขับขาน"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 9
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177508-Ajz9UrU5SsQ0.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177508-Ajz9UrU5SsQ0.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177508-AAws5SPLJL2S.jpg",
-          "nextAiringEpisode": null,
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Fantasy",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Animals",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Surreal Comedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Anthropomorphism",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Family Life",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Food",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Hikikomori",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 57,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Studio Hibari"
-              }
-            ]
-          },
-          "description": "<p>In the fall of his first year of junior high school, Arata Kouda encountered a strange thing----. In this home comedy, a mysterious creature named “Kujima” brings new life to the Konohda family, where the atmosphere is slightly tense due to the concern for the eldest son, a ronin student who is preparing for the entrance examinations! By the way, the creature, who calls himself Kujima, speaks normal language and eats the same food as humans (or insects). Did he come from outer space, or did he...!<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/kujima_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kujima-anime.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371849/kujima-why-sing-when-you-can-warble"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jgh7HSGQ8_OD4-vXd6pcrbq"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Arata Kouda, ortaokulun ilk yılının sonbaharında tuhaf bir şeyle karşılaştı ----. Bu ev komedisinde, giriş sınavlarına hazırlanan ronin öğrencisi en büyük oğul için duyulan endişe nedeniyle atmosferin biraz gergin olduğu Konohda ailesine \"Kujima\" adındaki gizemli bir yaratık, yeni bir hayat getiriyor! Bu arada kendisine Kujima adını veren yaratık normal bir dil konuşuyor ve insanlarla (veya böceklerle) aynı yemeği yiyor. Uzaydan mı geldi, yoksa...!<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Dünyaca ünlü şarap eleştirmeni Yutaka Kanzaki, arkasında 12 milyar yen değerinde bir şarap koleksiyonu bırakarak vefat etti. Vasiyetinde, koleksiyonunun, seçtiği on iki şarabın menşeini ve yılını belirleyebilecek olan “Oniki Havari”ye ve onlardan bile üstün olan “Tanrının Damlaları”na verileceği belirtiliyor. <br><br>Ödül için, Yutaka'nın şarap konusunda birinci sınıf bir eğitim almış ancak babasına isyan eden ve bir damla bile içmemiş oğlu Shizuku ile Yutaka'nın yakın zamanda oğlu olarak evlat edindiği genç karizmatik şarap eleştirmeni Issei Tomine yarışıyor. <br><br>Şarap nedir? Ebeveyn ve çocuk nedir? Hayat nedir?<br><br>Efsanevi \"Tanrının Damlaları\"nı çevreleyen karmaşık ve hoş kokulu savaş başlamak üzere... <br><br>(Kaynak: Pony Kanyonu)"
         },
         {
           "id": 210687,
@@ -3769,59 +3515,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Rahat Rilakkuma ile günlük yaşam rahat bir dokunuşa kavuşuyor. Dostluğun, değişimin ve küçük sevinçlerin nazik anları ortaya çıkıyor ve sıradan anları, her seferinde yumuşak, rahatlatıcı bir güne, sessizce büyülü bir şeye dönüştürüyor.<br><br>Kalbinizin daha hafif ve daha hafif hissetmesini sağlayacak bir an. Nerede olursanız olun veya ne yapıyor olursanız olun Rilakkuma yanınızda olacaktır. Heyecan verici yeni bir hikaye başlıyor! Tembelliği zahmetsiz gösteren rahat ayı Rilakkuma'nın stressiz dünyasını deneyimleyin!<br><br>(Kaynak: Crunchyroll, Rilakkuma Anime Sitesi, tercüme)"
-        },
-        {
-          "id": 176636,
-          "title": {
-            "romaji": "Shin Keroro Gunsou Movie: Fukkatsushite Sokkou Chikyuu Metsubou no Kiki de Arimasu! ",
-            "english": null,
-            "native": "新劇場版 ケロロ軍曹 復活して速攻地球滅亡の危機であります！"
-          },
-          "synonyms": [
-            "Sgt. Frog Movie",
-            "劇場版 ケロロ軍曹"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 6,
-            "day": 26
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176636-zPyFoYfFYZLo.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176636-zPyFoYfFYZLo.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1782399600,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Sci-Fi"
-          ],
-          "tags": [],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Bandai Namco Pictures"
-              }
-            ]
-          },
-          "description": "<p>The Keroro Platoon, living their lazy days as if invasion were nothing. Then one day, they face a series of bizarre phenomena erupting across the nation. Feeling a sense of crisis, the Keroro Platoon rises up, staking their pride as invaders! What is the meaning of the mysterious symbols they encounter wherever they go. The largest-scale battle in the history of &quot;Sgt.Frog&quot; begins in the Reiwa era!<br><br></p>\n<p>(Source: Crunchyroll News, edited)<br />\n<br><br><br />\n<i>Note: Relations are provisional and will be updated when more info is announced.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/keroro_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://www.bn-pictures.co.jp/keroro-anime/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Keroro Müfrezesi tembel günlerini sanki işgal hiçbir şeymiş gibi yaşıyor. Sonra bir gün, ülke çapında patlak veren bir dizi tuhaf olayla karşı karşıya kalırlar. Bir kriz duygusu hisseden Keroro Müfrezesi, işgalci olmanın gururunu riske atarak ayağa kalkıyor! Gittikleri her yerde karşılaştıkları gizemli sembollerin anlamı nedir? \"Çavuş Kurbağa\" tarihinin en büyük ölçekli savaşı Reiwa döneminde başlıyor!<br><br>(Kaynak: Crunchyroll News, düzenlendi)<br><br>Not: İlişkiler geçicidir ve daha fazla bilgi açıklandığında güncellenecektir."
         },
         {
           "id": 209940,
@@ -4048,7 +3741,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Komutan, bugün sıralamaya gerek yok.<br><br>Acil durum görevi yok. Kükreyen silah sesi yok.<br><br>Şu anda Karakol'da geriye kalan tek şey Nikkes'in gündelik anları, kahkahaları ve beklenmedik küçük olaylardır.<br><br>(Kaynak: NIKKE'nin İngilizce Twitter hesabı)"
+          "descriptionTr": "Komutan, bugün sıralamaya gerek yok.<br><br>Acil durum görevi yok. Kükreyen silah sesi yok.<br><br>Şu anda Karakol'da geriye Nikkes'in gündelik anları, kahkahaları ve beklenmedik küçük olaylar kalıyor.<br><br>(Kaynak: NIKKE'nin İngilizce Twitter hesabı)"
         },
         {
           "id": 206523,
@@ -4215,7 +3908,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Ame, tatlıları ve ağzında çürük denilen diş çürüğünü seven bir çocuktur. Caries, Ame'in ağzında tasasız bir hayat yaşıyor ve hatta ona \"Anne\" diyor ve Ame'nin vücudu her zaman Caries'in insafına kalıyor.<br><br>(Kaynak: Anime Haber Ağı, düzenlendi)"
+          "descriptionTr": "Ame, tatlıları ve ağzında çürük denilen diş çürüğünü seven bir çocuktur. Caries, Ame'in ağzında kaygısız bir hayat yaşıyor ve hatta ona \"Anne\" diyor ve Ame'nin vücudu her zaman Caries'in insafına kalıyor.<br><br>(Kaynak: Anime Haber Ağı, düzenlendi)"
         },
         {
           "id": 209981,
@@ -4276,7 +3969,7 @@
           "description": "<p>His step-sister is an erotic manga artist. Reika usually relies on her step-brother, Yuu, for support while she works hard on her manga manuscripts, but once she finishes a manuscript, she can’t control her desires and transforms into a total slut! With her body aroused from drawing too many erotic scenes, she gives in to her instincts, unleashes her desires, and pounces on Yuu without hesitation! Today, just like every other day, she’s determined to milk him dry, shoving herself into every orifice she can find! There’s no resisting her step-sister’s relentless sexual assault…!<br />\n<br><br><br />\n(Source: Lune-soft, translated and edited)</p>",
           "externalLinks": [],
           "isMyList": false,
-          "descriptionTr": "Üvey kız kardeşi erotik bir manga sanatçısıdır. Reika, manga taslakları üzerinde sıkı çalışırken genellikle üvey kardeşi Yuu'nun desteğine güvenir, ancak bir taslağı bitirdiğinde arzularını kontrol edemez ve tam bir sürtüğe dönüşür! Çok fazla erotik sahne çizmekten uyanan vücuduyla içgüdülerine teslim oluyor, arzularını serbest bırakıyor ve tereddüt etmeden Yuu'ya saldırıyor! Bugün, her gün olduğu gibi, bulabildiği her deliğe kendini sokarak onu kurutan sağmaya kararlı! Üvey kız kardeşinin amansız cinsel saldırısına direnmek yok…!<br><br>(Kaynak: Lune-soft, çevrildi ve düzenlendi)"
+          "descriptionTr": "Üvey kız kardeşi erotik bir manga sanatçısıdır. Reika, manga taslakları üzerinde sıkı çalışırken genellikle üvey kardeşi Yuu'nun desteğine güvenir, ancak bir taslağı bitirdiğinde arzularını kontrol edemez ve tam bir sürtüğe dönüşür! Çok fazla erotik sahne çizmekten uyanan vücuduyla içgüdülerine teslim oluyor, arzularını serbest bırakıyor ve tereddüt etmeden Yuu'ya saldırıyor! Bugün, her gün olduğu gibi, bulabildiği her deliğe kendini sokarak onu kurutan sağmaya kararlı! Üvey kız kardeşinin amansız cinsel saldırısına direnmek mümkün değil…!<br><br>(Kaynak: Lune-soft, çevrildi ve düzenlendi)"
         },
         {
           "id": 202895,
@@ -4439,10 +4132,7 @@
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206840-WSrKIJA0GFci.png"
           },
           "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1782399600,
-            "episode": 2
-          },
+          "nextAiringEpisode": null,
           "isAdult": true,
           "genres": [
             "Hentai"
@@ -4480,7 +4170,7 @@
           "description": "<p>Despite all my hard work, that guy... Mother Misako had fallen asleep, face-down on the living room table. The screen of her working laptop illuminated her voluptuous form in the darkness. Her ample curves, slipping off the table and swaying, were being kneaded by the hands of her beloved son, Majime...<br />\n<br><br><br />\nThese weren't feelings for a mother... Every time Majime became conscious of Misako, he was tormented by anguish. The secret his aunt Reika had taught him... As a mother, a wife, a female teacher, Misako poured her heart into her daily duties. She wanted to save her. The reality that suddenly descended upon him. The moment he heard that fact, the sound of the shackles binding his boiling son's rod snapped...<br />\n<br><br><br />\n(Source: Getchu, translated)</p>",
           "externalLinks": [],
           "isMyList": false,
-          "descriptionTr": "Bütün çabalarıma rağmen o adam... Misako Ana oturma odasındaki masanın üzerinde yüzükoyun uyuyakalmıştı. Çalışan dizüstü bilgisayarının ekranı karanlıkta onun şehvetli formunu aydınlatıyordu. Masadan kayan ve sallanan geniş kıvrımları, sevgili oğlu Majime'nin ellerinde yoğruluyordu...<br><br>Bunlar bir anneye göre duygular değildi... Majime, Misako'nun farkına vardığı her seferde acıdan kıvranıyordu. Teyzesi Reika'nın ona öğrettiği sır... Misako bir anne, bir eş, bir kadın öğretmen olarak günlük görevlerine yüreğini döktü. Onu kurtarmak istedi. Aniden üzerine çöken gerçeklik. Bu gerçeği duyduğu an, kaynayan oğlunun asasını bağlayan prangaların sesi koptu...<br><br>(Kaynak: Getchu, çevrildi)"
+          "descriptionTr": "Bütün çabalarıma rağmen o adam... Misako Ana oturma odasındaki masanın üzerinde yüzükoyun uyuyakalmıştı. Çalışan dizüstü bilgisayarının ekranı karanlıkta onun şehvetli formunu aydınlatıyordu. Masadan kayan ve sallanan geniş kıvrımları, sevgili oğlu Majime'nin ellerinde yoğruluyordu...<br><br>Bunlar bir anneye özgü duygular değildi... Majime, Misako'nun farkına vardığı her seferde acıdan kıvranıyordu. Teyzesi Reika'nın ona öğrettiği sır... Misako, bir anne, bir eş, bir kadın öğretmen olarak günlük görevlerine yüreğini döktü. Onu kurtarmak istedi. Aniden üzerine çöken gerçeklik. Bu gerçeği duyduğu an, kaynayan oğlunun asasını bağlayan prangaların sesi koptu...<br><br>(Kaynak: Getchu, tercüme)"
         },
         {
           "id": 209982,
@@ -4564,7 +4254,7 @@
           "description": "<p>Mizuka, desperate for some pocket money, pretended to be working a part-time job again today, hoping to make some cash by putting her massive breasts to work. But the man who appeared before her was a creepy old guy with an obsession for huge breasts. Just as she was acting all nonchalant, thinking she’d rake in a fortune just by showing off her boobs, Mizuka suddenly found her massive breasts being groped. Her body reacted to the intensity, and she began to lose all her strength. Excited by the thought of “fucking her tits,” the man thrust his cock into her chest…!?<br />\n<br><br><br />\n(Source: Lune-soft, translated)</p>",
           "externalLinks": [],
           "isMyList": false,
-          "descriptionTr": "Biraz cep harçlığı sıkıntısı çeken Mizuka, iri göğüslerini çalıştırarak biraz para kazanmayı umarak bugün yine yarı zamanlı bir işte çalışıyormuş gibi davrandı. Ama karşısına çıkan adam, büyük göğüslere takıntısı olan, ürkütücü, yaşlı bir adamdı. Tam kayıtsız davranıp sadece göğüslerini göstererek bir servet kazanacağını düşünürken, Mizuka aniden devasa göğüslerinin el yordamıyla elle tutulduğunu fark etti. Vücudu yoğunluğa tepki verdi ve tüm gücünü kaybetmeye başladı. \"Göğüslerini becerme\" düşüncesiyle heyecanlanan adam, aletini kadının göğsüne doğru itti…!?<br><br>(Kaynak: Lune-soft, çevrildi)"
+          "descriptionTr": "Biraz cep harçlığı için çaresiz kalan Mizuka, devasa göğüslerini çalıştırarak biraz para kazanmayı umarak bugün yine yarı zamanlı bir işte çalışıyormuş gibi davrandı. Ama karşısına çıkan adam, büyük göğüslere takıntısı olan, ürkütücü, yaşlı bir adamdı. Tam kayıtsız davranıp sadece göğüslerini göstererek bir servet kazanacağını düşünürken, Mizuka aniden devasa göğüslerinin el yordamıyla elle tutulduğunu fark etti. Vücudu yoğunluğa tepki verdi ve tüm gücünü kaybetmeye başladı. \"Göğüslerini becerme\" düşüncesiyle heyecanlanan adam, aletini kadının göğsüne doğru itti…!?<br><br>(Kaynak: Lune-soft, çevrildi)"
         },
         {
           "id": 208361,
@@ -4771,10 +4461,7 @@
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210116-CRuoaXeZO5qU.png"
           },
           "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1782399600,
-            "episode": 1
-          },
+          "nextAiringEpisode": null,
           "isAdult": true,
           "genres": [
             "Hentai"
@@ -4814,10 +4501,7 @@
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211557-PN1R4dpTOekY.png"
           },
           "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1782399600,
-            "episode": 1
-          },
+          "nextAiringEpisode": null,
           "isAdult": true,
           "genres": [
             "Hentai"
@@ -4834,7 +4518,7 @@
           "description": "<p><i>“I never imagined things would turn out like this…”</I> Kai, who ended up spending an intimate night with a woman living in the apartment building next door, reflects on his actions. Taking advantage of the fact that a room in the neighboring building happened to be completely visible, he began spending his days soothing himself by watching Ikenaga—who was exposing her vulnerable self—through his lens. But one morning, he accidentally called out to her! From that moment on, a relationship with the woman he’d been spying on began to develop…?<br />\n<br><br><br />\n(Source: Lune-soft, translated)</p>",
           "externalLinks": [],
           "isMyList": false,
-          "descriptionTr": "“İşlerin bu şekilde sonuçlanacağını hiç düşünmemiştim…” Yan apartmanda yaşayan bir kadınla samimi bir gece geçiren Kai, yaptıklarını düşünüyor. Komşu binadaki bir odanın tamamen görünür olması gerçeğinden yararlanarak günlerini, savunmasız benliğini açığa çıkaran Ikenaga'yı merceğinden izleyerek kendini sakinleştirmeye başladı. Ama bir sabah yanlışlıkla ona seslendi! O andan itibaren gözetlediği kadınla bir ilişki gelişmeye başladı…?<br><br>(Kaynak: Lune-soft, çevrildi)"
+          "descriptionTr": "“İşlerin bu şekilde sonuçlanacağını hiç düşünmemiştim…” Yan apartmanda yaşayan bir kadınla samimi bir gece geçiren Kai, yaptıklarını düşünüyor. Komşu binadaki bir odanın tamamen görünür olmasından yararlanarak günlerini, savunmasız benliğini açığa çıkaran Ikenaga'yı merceğinden izleyerek kendini sakinleştirmeye başladı. Ama bir sabah yanlışlıkla ona seslendi! O andan itibaren gözetlediği kadınla bir ilişki gelişmeye başladı…?<br><br>(Kaynak: Lune-soft, çevrildi)"
         },
         {
           "id": 209873,
@@ -4855,8 +4539,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1782399600,
-            "episode": 1
+            "airingAt": 1790262000,
+            "episode": 2
           },
           "isAdult": true,
           "genres": [
@@ -4874,7 +4558,7 @@
           "description": "<p><i>“That's sexual harassment! I've told you that before! I'll sue you!”</i> Ayaka Mizukami, a member of the company's compliance committee, immediately calls out Yuya Takahashi on the distance between him and Chitose Takano as they chat amiably. She warns him that even if he meant no harm, it looks inappropriate. In a company that places a high priority on compliance, she takes action despite knowing she’ll make enemies… and sure enough, she did… Ayaka summons Yuya for a harassment training session. Alone with him in the conference room, Ayuka explains matter-of-factly, not suspecting for a moment that he might fight back. She rants one-sidedly, condemning Yuya’s behavior… <i>“So, does this count as sexual harassment?”</i> Yuya defiantly retorts, grabbing Ayuka’s disproportionately voluptuous and massive breasts as he asks, <i>“How about this?” “Is this sexual harassment too?”</i> Yuya presses forward, groping every inch of her stunned, frozen body. Ayuka struggles frantically to resist, but her efforts... were far too feeble.<br />\n<br><br><br />\n(Source: Getchu, translated)</p>",
           "externalLinks": [],
           "isMyList": false,
-          "descriptionTr": "\"Bu cinsel tacizdir! Bunu size daha önce de söyledim! Sizi dava edeceğim!\" Şirketin uyumluluk komitesinin bir üyesi olan Ayaka Mizukami, dostane bir şekilde sohbet ederken hemen Yuya Takahashi ile Chitose Takano arasındaki mesafeyi dile getiriyor. Zarar vermek istemese bile bunun uygunsuz göründüğü konusunda onu uyarıyor. Uyum konusuna yüksek öncelik veren bir şirkette, düşman edineceğini bilmesine rağmen harekete geçer... ve kesinlikle öyle de yaptı... Ayaka, Yuya'yı taciz eğitimi için çağırır. Konferans odasında onunla yalnız kalan Ayuka, karşılık verebileceğinden bir an bile şüphelenmeden, gerçekçi bir şekilde açıklıyor. Tek taraflı bağırarak Yuya'nın davranışını kınadı... \"Peki bu cinsel taciz sayılır mı?\" Yuya meydan okurcasına karşılık veriyor ve Ayuka'nın orantısız derecede şehvetli ve iri göğüslerini yakalayarak \"Buna ne dersin?\" diye soruyor. “Bu da mı cinsel taciz?” Yuya, şaşkın, donmuş vücudunun her santimini el yordamıyla ileri doğru bastırıyor. Ayuka direnmek için çılgınca çabalıyor ama çabaları... çok zayıftı.<br><br>(Kaynak: Getchu, çevrildi)"
+          "descriptionTr": "\"Bu cinsel tacizdir! Bunu size daha önce de söyledim! Sizi dava edeceğim!\" Şirketin uyumluluk komitesinin bir üyesi olan Ayaka Mizukami, dostane bir şekilde sohbet ederken hemen Yuya Takahashi ile Chitose Takano arasındaki mesafeyi dile getiriyor. Zarar vermek istemese bile bunun uygunsuz göründüğü konusunda onu uyarıyor. Uyuma büyük önem veren bir şirkette, düşman edineceğini bilmesine rağmen harekete geçer... ve kesinlikle öyle de yaptı... Ayaka, Yuya'yı taciz eğitimi için çağırır. Konferans odasında onunla yalnız kalan Ayuka, karşılık verebileceğinden bir an bile şüphelenmeden, gerçekçi bir şekilde açıklıyor. Tek taraflı bağırarak Yuya'nın davranışını kınadı... \"Peki bu cinsel taciz sayılır mı?\" Yuya meydan okurcasına karşılık veriyor ve Ayuka'nın orantısız derecede şehvetli ve iri göğüslerini yakalayarak \"Buna ne dersin?\" diye soruyor. “Bu da mı cinsel taciz?” Yuya, şaşkın, donmuş vücudunun her santimini el yordamıyla ileri doğru bastırıyor. Ayuka direnmek için çılgınca çabalıyor ama çabaları... çok zayıftı.<br><br>(Kaynak: Getchu, tercüme)"
         },
         {
           "id": 198411,
@@ -5025,6 +4709,200 @@
           "description": "",
           "externalLinks": [],
           "isMyList": false
+        },
+        {
+          "id": 202386,
+          "title": {
+            "romaji": "Shou 3 Ashibe QQ Goma-chan",
+            "english": null,
+            "native": "小3アシベ QQゴマちゃん"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 12
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202386-wjFf8ubM1XZR.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202386-wjFf8ubM1XZR.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1782597600,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "tags": [],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "DLE"
+              }
+            ]
+          },
+          "description": "",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/qq_gomachan"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://qq-gomachan.com/"
+            }
+          ],
+          "isMyList": false
+        },
+        {
+          "id": 212309,
+          "title": {
+            "romaji": "Transformers: Wild King W",
+            "english": null,
+            "native": "トランスフォーマー ワイルドキングW"
+          },
+          "synonyms": [
+            "Transformers: Wild King Double",
+            "トランスフォーマー ワイルドキングダブル"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 5,
+            "day": 20
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212309-gDqt6qz1RPEL.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212309-gDqt6qz1RPEL.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1784077200,
+            "episode": 4
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "tags": [
+            {
+              "name": "Full CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Robot",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shapeshifting",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Infinity Vision"
+              },
+              {
+                "name": "Type ZERO"
+              }
+            ]
+          },
+          "description": "<p>A sequel to <i>Transformers: Wild King</i>.</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://tf.takaratomy.co.jp/tf_wild_king_w/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/TF_pr"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Transformers: Wild King'in devamı."
+        },
+        {
+          "id": 206950,
+          "title": {
+            "romaji": "Kumarba Season 3",
+            "english": null,
+            "native": "クマーバシーズン3"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 4,
+            "day": 12
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206950-pNm7O5inBKBX.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206950-pNm7O5inBKBX.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1782597600,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Comedy"
+          ],
+          "tags": [
+            {
+              "name": "Kids",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Animals",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Animal Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anthropomorphism",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Akatsuki Media Studio"
+              }
+            ]
+          },
+          "description": "<p>Third season of <i>Kumarba</i>.</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/kumarbakids"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://kumarba.com/pages/tv-anime"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLOqdHQnAd3sEUSuRg7l4SIfAo3G3Mmbgx"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Kumarba'nın üçüncü sezonu."
         }
       ]
     }
