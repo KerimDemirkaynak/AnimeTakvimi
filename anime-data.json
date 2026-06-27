@@ -758,12 +758,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Boys' Love",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Yuri",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Boys' Love",
+              "isMediaSpoiler": true
             },
             {
               "name": "Tomboy",
@@ -1670,8 +1670,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184492-JsZazzn4Acqf.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1782552360,
-            "episode": 13
+            "airingAt": 1783157160,
+            "episode": 14
           },
           "isAdult": false,
           "genres": [
@@ -1810,8 +1810,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171110-lgtmKokpevUM.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1782549000,
-            "episode": 12
+            "airingAt": 1783758600,
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -2032,137 +2032,6 @@
           "descriptionTr": "Yozakura-san Chi no Daisakusen'in ikinci sezonu."
         },
         {
-          "id": 185211,
-          "title": {
-            "romaji": "Yowa Yowa Sensei",
-            "english": "Yowayowa Sensei",
-            "native": "よわよわ先生"
-          },
-          "synonyms": [
-            "YowaYowa Teacher",
-            "คุณครูมาดหลอน หัวใจอ่อนแอ"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 11
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185211-ewfgT5Cn99k0.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185211-ewfgT5Cn99k0.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185211-2wkjFD6tz7l3.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1782563400,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Ecchi",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Teacher",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Large Breasts",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cosplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Gap",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gyaru",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kuudere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Bisexual",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Crossdressing",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 62,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Brain's Base"
-              }
-            ]
-          },
-          "description": "<p>High school homeroom teacher Hiyori Hiwamura is known as the “Scary Teacher,” and if you offend her, she’ll put a curse on you! Or at least that’s what everyone believes. She’s secretly a total softy who’s deeply misunderstood, and once you see her sweet side, she’ll put a different kind of spell on you... Unfortunately, one of her students, Akihito Abikura, has accidentally discovered her secret.<br />\n<br><br><br />\n(Source: HIDIVE)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/yowayowa_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://www.yowayowasensei-anime.com/"
-            },
-            {
-              "site": "HIDIVE",
-              "url": "https://www.hidive.com/season/35232"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgXUB10c8pdjrn7SUPo4IdI"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Lise sınıf öğretmeni Hiyori Hiwamura, \"Korkunç Öğretmen\" olarak bilinir ve onu gücendirirseniz, size lanet okur! Ya da en azından herkesin inandığı şey budur. O, derinden yanlış anlaşılan, tam bir yumuşak başlıdır ve onun tatlı tarafını gördüğünüzde, size farklı türde bir büyü yapacaktır... Ne yazık ki öğrencilerinden biri olan Akihito Abikura, tesadüfen onun sırrını keşfetmiştir.<br><br>(Kaynak: HİDİV)"
-        },
-        {
           "id": 196974,
           "title": {
             "romaji": "Kuroneko to Majo no Kyoushitsu",
@@ -2381,7 +2250,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 66,
+          "averageScore": 65,
           "studios": {
             "nodes": [
               {
@@ -3201,7 +3070,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 63,
+          "averageScore": 62,
           "studios": {
             "nodes": []
           },
