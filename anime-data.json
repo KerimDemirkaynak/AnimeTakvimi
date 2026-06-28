@@ -1025,332 +1025,6 @@
           "descriptionTr": "Çocukluk arkadaşları Yukiya ve Miku, duyguları dışında her şeyi paylaşırlar. Altıncı sınıftan beri bir “aşk oyunu” oynuyorlar: Sırayla “Seni seviyorum” diyorlar ve kim ilk önce telaşlanırsa o kaybediyor. Artık lisedeyken kalpleri her zamankinden daha yakın ama sonunda itiraf edecek cesareti bulabilecekler mi?<br><br>(Kaynak: Crunchyroll)"
         },
         {
-          "id": 190143,
-          "title": {
-            "romaji": "Shunkashuutou Daikousha: Haru no Mai",
-            "english": "Agents of the Four Seasons: Dance of Spring",
-            "native": "春夏秋冬代行者 春の舞"
-          },
-          "synonyms": [
-            "Agents of the Four Seasons: Dance of Spring",
-            "4 Seasons",
-            "Utusan Empat Musim: Tarian Musim Semi",
-            "Gli Agenti delle Quattro Stagioni: La Danza della Primavera",
-            "ลำนำรักผู้พิทักษ์ฤดูกาล ภาควสันตลีลา",
-            "Sứ giả bốn mùa: Vũ Điệu Mùa Xuân"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 3,
-            "day": 29
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190143-IqqbkMAF0GOo.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190143-IqqbkMAF0GOo.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190143-0Ffw9Tb9Sjdo.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1782572400,
-            "episode": 14
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Environmental",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Mythology",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shoujo",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Rehabilitation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Disability",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dissociative Identities",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Torture",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gods",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Gap",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Politics",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Suicide",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Achromatic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Crime",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Twins",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Guns",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Terrorism",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 75,
-          "studios": {
-            "nodes": [
-              {
-                "name": "WIT STUDIO"
-              }
-            ]
-          },
-          "description": "<p>When the Agent of Spring, Hinagiku Kayo, is abducted, spring itself vanishes—plunging the world into unending winter. Refusing to give up, her devoted guard, Sakura Himedaka, searches for her for years. When Hinagiku suddenly returns, the two set out to restore the lost season, face the past that tore them apart, and reclaim the warmth they refuse to lose again.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://4seasons-anime.com"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/4seasons_anime"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371636/agents-of-the-four-seasons-dance-of-spring"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/26yez547xm5"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2342908"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Baharın Temsilcisi Hinagiku Kayo kaçırıldığında baharın kendisi ortadan kaybolur ve dünyayı bitmek bilmeyen bir kışa sürükler. Vazgeçmeyi reddeden sadık muhafızı Sakura Himedaka, onu yıllarca arar. Hinagiku aniden geri döndüğünde ikili, kaybedilen sezonu geri getirmek, onları parçalayan geçmişle yüzleşmek ve kaybetmeyi reddettikleri sıcaklığı yeniden geri kazanmak için yola çıkar.<br><br>(Kaynak: Crunchyroll)"
-        },
-        {
-          "id": 198113,
-          "title": {
-            "romaji": "Kill Ao",
-            "english": "KILL BLUE",
-            "native": "キルアオ"
-          },
-          "synonyms": [
-            "Kill Blue",
-            "คิลบลู",
-            "Убивая юность"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 11
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198113-NRa47idWSlnx.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-5hYeMXL2zilW.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1782568800,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Comedy"
-          ],
-          "tags": [
-            {
-              "name": "Guns",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Regression",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Assassins",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School Club",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Surreal Comedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Child Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kuudere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Rehabilitation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Crime",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Fake Relationship",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Dissociative Identities",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Arranged Marriage",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Criminal Organization",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Football",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Crossdressing",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Age Gap",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 73,
-          "studios": {
-            "nodes": [
-              {
-                "name": "CUE"
-              }
-            ]
-          },
-          "description": "<p>Juuzou Oogami is a legendary hitman who has never failed an assignment, no matter how impossible. One day, after wiping out a powerful organization, he is stung by a mysterious wasp and collapses. When he wakes up, the fearsome 39-year-old assassin has been transformed into a 13-year-old boy!<br><br></p>\n<p>Before he can even process what happened, his boss delivers a new order: “In that body, infiltrate a middle school.”<br><br></p>\n<p>What awaits him is an unexpected school life filled with colorful classmates, youthful chaos, and looming danger. Can Juuzou ever return to his original form? Or will the assassins closing in on him end his second life before it even begins!?<br><br><br />\n(Source: Official Site)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://kill-blue.jp/"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@killblue_official"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/KILLBLUE_PR"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371896/kill-blue"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2343894"
-            },
-            {
-              "site": "Viki",
-              "url": "https://www.viki.com/tv/41501c-kill-blue"
-            },
-            {
-              "site": "Netflix",
-              "url": "https://www.netflix.com/title/82757009"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Juuzou Oogami, ne kadar imkansız olursa olsun hiçbir görevde başarısız olmayan efsanevi bir tetikçidir. Bir gün güçlü bir organizasyonu yok ettikten sonra gizemli bir eşekarısı tarafından sokulur ve yere yığılır. 39 yaşındaki korkunç suikastçı uyandığında 13 yaşında bir çocuğa dönüşmüştür!<br><br>Daha ne olduğunu anlayamadan patronu yeni bir emir verir: \"O bedenin içinde bir ortaokula sızın.\"<br><br>Onu bekleyen ise renkli sınıf arkadaşları, gençlik kaosu ve yaklaşmakta olan tehlikelerle dolu beklenmedik bir okul hayatıdır. Juuzou bir gün orijinal formuna dönebilecek mi? Yoksa ona yaklaşan suikastçılar onun ikinci hayatına daha başlamadan son mu verecek?<br><br>(Kaynak: Resmi Site)"
-        },
-        {
           "id": 197754,
           "title": {
             "romaji": "LIAR GAME",
@@ -1463,191 +1137,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "İdealine uygun yaşamasını dileyen Kanzaki Nao'nun babası, ona \"dürüstlük\" adını verdi. Nao, babasının isteklerini fazlasıyla yerine getirmiş, hatta onları aşmış ve \"aptalca dürüst bir kız\" etiketini kazanmıştır. Bu, Nao'yu, kazanmanın rakibin parasını almak için kandırmayı gerektirdiği ve kaybetmenin ise büyük miktarda borç almak anlamına geldiği yüksek riskli 'Yalancı Oyunu' için en az nitelikli aday haline getiriyor. Ancak bu, içinde yüz milyon yen nakit bulunan bir kutunun ve oyuna katıldığını bildiren bir kartın kapısının önüne gelmesini engellemediği gibi, kandırılarak tüm paranın anında alınmasını da engellemez. Büyük bir şirketin iflasından sorumlu olan dahi bir dolandırıcının hapisten çıktığını duyan Nao, yardım almak için dolandırıcı Shinichi Akiyama'ya gider. Bununla birlikte ikili, Yalancı Oyununun karanlık, açgözlülük dolu ve aldatıcı dünyasına çekilir."
-        },
-        {
-          "id": 202102,
-          "title": {
-            "romaji": "NEEDY GIRL OVERDOSE",
-            "english": "NEEDY GIRL OVERDOSE",
-            "native": "NEEDY GIRL OVERDOSE"
-          },
-          "synonyms": [
-            "ニーディガール オーバードーズ",
-            "NEEDY STREAMER OVERLOAD",
-            "NEEDY GIRL OVERDOSE -OVERTURE-"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202102-7qDmTI7eT5xF.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202102-7qDmTI7eT5xF.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202102-RBgWbaATyuDt.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1782574200,
-            "episode": 13
-          },
-          "isAdult": false,
-          "genres": [
-            "Adventure",
-            "Drama",
-            "Psychological",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Denpa",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Philosophy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Otaku Culture",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Drugs",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Idol",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Body Image",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "VTuber",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Suicide",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Mixed Media",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Rape",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Psychosexual",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Work",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Bullying",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Yandere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Disability",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Video Games",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Masturbation",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Tomboy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Crime",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Cyberpunk",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 67,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Yostar Pictures"
-              }
-            ]
-          },
-          "description": "<p>OMGkawaiiAngel, affectionately known as &quot;KAngel&quot;, is the top streamer girl with 10 million subscribers, and not a day goes by without seeing her in action. Whether online, on TV, or at a live show, she is always surrounded by her cheering fans.<br />\n<br><br><br />\nStriving to catch up with KAngel's popularity is a three-girl streaming unit called Karamazov.<br />\n<br><br><br />\nAnd far removed from the world of these streamers is Kache, a girl who lives with her freeloader boyfriend while working at a theme cafe.<br />\n<br><br><br />\nThe story of the &quot;Internet Angel&quot; who captivated the world, woven by a girl who shines like a star and girls who reach for that brilliance, and the story of &quot;you&quot; on the other side of the screen, begins here.<br />\n<br><br><br />\n(Source: Official Site)<br />\n<br><br><br />\n<i>Note: Prior to broadcasting, &quot;NEEDY GIRL OVERDOSE -OVERTURE-&quot; — a theatrical pre-screening of the first 3 episodes rearranged and edited together— debuted in Japan on March 6, 2026.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/needygirl_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://needygirl-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/needyanime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://needygirl-anime.com/en/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371863/needy-girl-overdose"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@needygirl_anime"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/needy.anime/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Sevgiyle \"KAngel\" olarak bilinen OMGkawaiiAngel, 10 milyon abonesiyle en iyi yayıncı kızlardan biri ve onu çalışırken görmeden bir gün geçmiyor. İster internette, ister televizyonda, ister canlı bir şovda olsun, etrafı her zaman tezahürat yapan hayranlarıyla çevrilidir.<br><br>Karamazov adında üç kızdan oluşan bir yayın birimi, KAngel'in popülaritesini yakalamaya çalışıyor.<br><br>Ve bu yayıncıların dünyasından çok uzakta olan Kache, bir temalı kafede çalışırken beleşçi erkek arkadaşıyla birlikte yaşayan bir kızdır.<br><br>Yıldız gibi parlayan bir kız ve o parlaklığa ulaşan kızların ördüğü dünyayı büyüleyen \"İnternet Meleği\" ile ekranın diğer tarafındaki \"sen\"in hikayesi burada başlıyor.<br><br>(Kaynak: Resmi Site)<br><br>Not: Yayınlanmadan önce, yeniden düzenlenen ve kurgulanan ilk 3 bölümün teatral ön gösterimi olan \"NEEDY GIRL OVERDOSE -OVERTURE-\" 6 Mart 2026'da Japonya'da gösterime girdi."
         },
         {
           "id": 184492,
@@ -1929,7 +1418,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.<br><br>Bir soyluyla yaşadığı talihsiz karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra sıkı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi, her türlü değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!<br><br>(Kaynak: J-Novel Kulübü)"
+          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.<br><br>Bir soyluyla yaşadığı felaketle sonuçlanan karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra katı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi, her türlü değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!<br><br>(Kaynak: J-Novel Kulübü)"
         },
         {
           "id": 182578,
@@ -2190,8 +1679,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1782571560,
-            "episode": 13
+            "airingAt": 1783176360,
+            "episode": 14
           },
           "isAdult": false,
           "genres": [
@@ -2421,7 +1910,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kendini iyi hissetmediğinde, sınav olduğunda, okula gitmek istemediğinde... Onun yerini ben alıyorum. Ben onun kopyasıyım. Başka bir amacım yok. Ama aşık olduğumda bu değişti. Aşık olduğum çocuğun ben olduğumu anlaması için saçlarımı topuz yapıyorum. Okulu atlıyoruz ve yarın ve sonrasında her gün tekrar buluşacağımıza söz veriyoruz. Ben onun kopyasıyım. Benimle ilgili her şey ödünç alınmış ve boş ama kalbim benim.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Kendini iyi hissetmediğinde, sınav olduğunda, okula gitmek istemediğinde... Onun yerini ben alıyorum. Ben onun kopyasıyım. Başka bir amacım yok. Ama aşık olduğumda bu değişti. Aşık olduğum çocuk benim olduğumu anlasın diye saçlarımı topluyorum. Okulu atlıyoruz ve yarın ve sonrasında her gün tekrar buluşacağımıza söz veriyoruz. Ben onun kopyasıyım. Benimle ilgili her şey ödünç alınmış ve boş ama kalbim benim.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 158036,
@@ -3086,7 +2575,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Komutan, bugün sıralamaya gerek yok.<br><br>Acil durum görevi yok. Kükreyen silah sesi yok.<br><br>Şu anda Karakol'da geriye Nikkes'in gündelik anları, kahkahaları ve beklenmedik küçük olaylar kalıyor.<br><br>(Kaynak: NIKKE'nin İngilizce Twitter hesabı)"
+          "descriptionTr": "Komutan, bugün sıralamaya gerek yok.<br><br>Acil durum görevi yok. Kükreyen silah sesi yok.<br><br>Şu anda Karakol'da geriye kalan tek şey Nikkes'in gündelik anları, kahkahaları ve beklenmedik küçük olaylardır.<br><br>(Kaynak: NIKKE'nin İngilizce Twitter hesabı)"
         },
         {
           "id": 206523,
@@ -3107,8 +2596,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1782606600,
-            "episode": 13
+            "airingAt": 1783211400,
+            "episode": 14
           },
           "isAdult": false,
           "genres": [
@@ -3253,7 +2742,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Ame, tatlıları ve ağzında çürük denilen diş çürüğünü seven bir çocuktur. Caries, Ame'in ağzında kaygısız bir hayat yaşıyor ve hatta ona \"Anne\" diyor ve Ame'nin vücudu her zaman Caries'in insafına kalıyor.<br><br>(Kaynak: Anime Haber Ağı, düzenlendi)"
+          "descriptionTr": "Ame, tatlıları ve ağzında çürük denilen diş çürüğünü seven bir çocuktur. Caries, Ame'in ağzında tasasız bir hayat yaşıyor ve hatta ona \"Anne\" diyor ve Ame'nin vücudu her zaman Caries'in insafına kalıyor.<br><br>(Kaynak: Anime Haber Ağı, düzenlendi)"
         },
         {
           "id": 209981,
@@ -3404,8 +2893,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1782597600,
-            "episode": 12
+            "airingAt": 1783202400,
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -3515,7 +3004,7 @@
           "description": "<p>Despite all my hard work, that guy... Mother Misako had fallen asleep, face-down on the living room table. The screen of her working laptop illuminated her voluptuous form in the darkness. Her ample curves, slipping off the table and swaying, were being kneaded by the hands of her beloved son, Majime...<br />\n<br><br><br />\nThese weren't feelings for a mother... Every time Majime became conscious of Misako, he was tormented by anguish. The secret his aunt Reika had taught him... As a mother, a wife, a female teacher, Misako poured her heart into her daily duties. She wanted to save her. The reality that suddenly descended upon him. The moment he heard that fact, the sound of the shackles binding his boiling son's rod snapped...<br />\n<br><br><br />\n(Source: Getchu, translated)</p>",
           "externalLinks": [],
           "isMyList": false,
-          "descriptionTr": "Bütün çabalarıma rağmen o adam... Misako Ana oturma odasındaki masanın üzerinde yüzükoyun uyuyakalmıştı. Çalışan dizüstü bilgisayarının ekranı karanlıkta onun şehvetli formunu aydınlatıyordu. Masadan kayan ve sallanan geniş kıvrımları, sevgili oğlu Majime'nin ellerinde yoğruluyordu...<br><br>Bunlar bir anneye özgü duygular değildi... Majime, Misako'nun farkına vardığı her seferde acıdan kıvranıyordu. Teyzesi Reika'nın ona öğrettiği sır... Misako, bir anne, bir eş, bir kadın öğretmen olarak günlük görevlerine yüreğini döktü. Onu kurtarmak istedi. Aniden üzerine çöken gerçeklik. Bu gerçeği duyduğu an, kaynayan oğlunun asasını bağlayan prangaların sesi koptu...<br><br>(Kaynak: Getchu, tercüme)"
+          "descriptionTr": "Bütün çabalarıma rağmen o adam... Misako Ana oturma odasındaki masanın üzerinde yüzükoyun uyuyakalmıştı. Çalışan dizüstü bilgisayarının ekranı karanlıkta onun şehvetli formunu aydınlatıyordu. Masadan kayan ve sallanan geniş kıvrımları, sevgili oğlu Majime'nin ellerinde yoğruluyordu...<br><br>Bunlar bir anneye özgü duygular değildi... Majime, Misako'nun farkına vardığı her seferinde acıdan kıvranıyordu. Teyzesi Reika'nın ona öğrettiği sır... Misako bir anne, bir eş, bir kadın öğretmen olarak günlük görevlerine yüreğini döktü. Onu kurtarmak istedi. Aniden üzerine çöken gerçeklik. Bu gerçeği duyduğu an, kaynayan oğlunun asasını bağlayan prangaların sesi koptu...<br><br>(Kaynak: Getchu, çevrildi)"
         },
         {
           "id": 209982,
@@ -3674,7 +3163,7 @@
           "description": "<p><b>Episode 1</b><br><br />\n<br><br />\n<i>Tonari no Elf Mama (part 1)</i><br><br />\nIt’s been a few years since the treaty of friendship was signed between the elves and humans… and next door to my apartment live an elf mother and daughter named Sophia and Lilia. After eating a meal prepared by my elven neighbors, I felt a strange, restless sensation and became abnormally aroused. Just then, Sophia came to visit and explained that she had mistakenly used the wrong amount of a herb from her homeland. She said it had a powerful aphrodisiac effect, and if I didn’t ejaculate immediately, I might suffer permanent damage to my reproductive functions. As an apology, Sophia offered to help me relieve myself.<br><br />\n<br><br />\n<i>Tonari no Elf Mama (part 2)</i><br><br />\nWhen I got home, Lilia was waiting for me at the door. As I was soaking in the tub, Lilia walked in completely naked and offered to help me relieve myself. I was taken aback by the sudden turn of events, but Lilia toyed with me, and soon the two of us were writhing in ecstasy, exposing our lewd, lustful forms! Just then, Sophia, who was supposed to be out, came home. It should have turned into a chaotic scene, but instead, mother and daughter were completely absorbed in the human male’s cock!!<br><br />\n<br><br />\n<b>Episode 2</b><br><br />\n<br><br />\n<i>Tonari no Super Heroine ♡</i><br><br />\nMy new neighbor, housewife Mari Mayama (Maiden name: Mari Iihoshi), came over to introduce herself, and memories of the past came flooding back in an instant. She was Milkaiser, the “Love Warrior” I’d idolized 13 years ago, who had starred in a minor tokusatsu heroine series. When I told her I was a huge fan, she changed into her costume from back then. Seeing her like that, my overly honest dick reacted, and I was punished by the real Milkaiser—leading to the resurrection of the criminal syndicate Death Geek!!<br><br />\n<br><br />\n<i>Boku to Tomo Mama no Sefure Keiyaku</i><br><br />\nKeita finds any excuse he can to visit his friend’s mom, whom he’s always admired. She has a beautiful, curvy butt and a stunning body with big, alluring breasts!! When she slowly spreads her legs and exposes her panties in the room just the two of them, his cock goes rock hard. As if she knew exactly what was going on, she sits down next to him and gives it a firm squeeze. She takes him step by step, and as he surrenders himself to her every move, he awakens to the pleasure of coming. The two, who are a perfect match, strike a secret arrangement to be each other’s fuck buddies...<br><br />\n<br><br />\n(Source: Mediabank, translated)</p>",
           "externalLinks": [],
           "isMyList": false,
-          "descriptionTr": "1. Bölüm<br><br>Tonari no Elf Mama (bölüm 1)<br><br>Elfler ve insanlar arasında dostluk anlaşması imzalanalı birkaç yıl oldu... ve dairemin bitişiğinde Sophia ve Lilia adında bir elf annesi ve kızı yaşıyor. Elf komşularımın hazırladığı yemeği yedikten sonra garip, huzursuz bir his hissettim ve anormal derecede tahrik oldum. Tam o sırada Sophia ziyarete geldi ve memleketinden gelen bir bitkiyi yanlışlıkla yanlış miktarda kullandığını açıkladı. Güçlü bir afrodizyak etkisi olduğunu, eğer hemen boşalmazsam üreme fonksiyonlarımda kalıcı hasar görebileceğimi söyledi. Sophia özür mahiyetinde bana yardım etmeyi teklif etti.<br><br>Tonari no Elf Mama (bölüm 2)<br><br>Eve geldiğimde Lilia kapıda beni bekliyordu. Ben küvette sırılsıklam olurken, Lilia tamamen çıplak bir şekilde içeri girdi ve tuvaletimi yapmama yardım etmeyi teklif etti. Olayların ani gidişatı karşısında şaşkına dönmüştüm ama Lilia benimle oynadı ve çok geçmeden ikimiz coşku içinde kıvranmaya, ahlaksız, şehvetli formlarımızı açığa çıkarmaya başladık! Tam o sırada dışarıda olması gereken Sophia eve geldi. Kaotik bir sahneye dönüşmesi gerekirdi ama bunun yerine anne ve kız tamamen insan erkeğinin sikine kapılmışlardı!!<br><br>2. Bölüm<br><br>Tonari Süper Kahraman Değildir ♡<br><br>Yeni komşum ev hanımı Mari Mayama (Kızlık soyadı: Mari Iihoshi) kendini tanıtmak için yanıma geldi ve geçmişe dair anılar bir anda canlandı. O, 13 yıl önce idolleştirdiğim, küçük bir tokusatsu kadın kahraman dizisinde rol alan Milkaiser'dı, \"Aşk Savaşçısı\". Ona büyük bir hayranı olduğumu söylediğimde o zamanki kostümünü giydi. Onu böyle görünce aşırı dürüst aletim tepki gösterdi ve gerçek Milkaiser tarafından cezalandırıldım; bu da suç örgütü Death Geek'in yeniden dirilişine yol açtı!!<br><br>Boku'dan Tomo Mama no Sefure Keiyaku'ya<br><br>Keita, her zaman hayranlık duyduğu arkadaşının annesini ziyaret etmek için her türlü bahaneyi bulur. Güzel, kıvrımlı bir poposu ve büyük, çekici göğüsleri olan çarpıcı bir vücudu var!! Bacaklarını yavaşça açıp külotunu odada sadece ikisinin ortaya çıkardığında, aleti sertleşiyor. Sanki neler olup bittiğini tam olarak biliyormuş gibi, yanına oturuyor ve onu sıkıca sıkıyor. Adım adım onu ​​götürüyor ve her hareketinde kendini ona teslim ederken gelmenin hazzına uyanıyor. Birbirine mükemmel uyum sağlayan ikili, birbirlerinin sikiş arkadaşı olmak için gizli bir anlaşma yapar...<br><br>(Kaynak: Mediabank, tercüme)"
+          "descriptionTr": "1. Bölüm<br><br>Tonari no Elf Mama (bölüm 1)<br><br>Elfler ve insanlar arasında dostluk anlaşması imzalanalı birkaç yıl oldu... ve dairemin bitişiğinde Sophia ve Lilia adında bir elf annesi ve kızı yaşıyor. Elf komşularımın hazırladığı yemeği yedikten sonra garip, huzursuz bir his hissettim ve anormal derecede tahrik oldum. Tam o sırada Sophia ziyarete geldi ve memleketinden gelen bir bitkiyi yanlışlıkla yanlış miktarda kullandığını açıkladı. Güçlü bir afrodizyak etkisi olduğunu, eğer hemen boşalmazsam üreme fonksiyonlarımda kalıcı hasar görebileceğimi söyledi. Sophia özür mahiyetinde bana yardım etmeyi teklif etti.<br><br>Tonari no Elf Mama (bölüm 2)<br><br>Eve geldiğimde Lilia kapıda beni bekliyordu. Ben küvette sırılsıklam olurken, Lilia tamamen çıplak bir şekilde içeri girdi ve tuvaletimi yapmama yardım etmeyi teklif etti. Olayların ani gidişatı karşısında şaşkına dönmüştüm ama Lilia benimle oynadı ve çok geçmeden ikimiz coşku içinde kıvranmaya, ahlaksız, şehvetli formlarımızı açığa çıkarmaya başladık! Tam o sırada dışarıda olması gereken Sophia eve geldi. Kaotik bir sahneye dönüşmesi gerekirdi ama bunun yerine anne ve kız tamamen insan erkeğinin sikine kapılmışlardı!!<br><br>2. Bölüm<br><br>Tonari Süper Kahraman Değildir ♡<br><br>Yeni komşum ev hanımı Mari Mayama (Kızlık soyadı: Mari Iihoshi) kendini tanıtmak için yanıma geldi ve geçmişe dair anılar bir anda canlandı. O Milkaiser'di, 13 yıl önce idolleştirdiğim, küçük bir tokusatsu kadın kahraman dizisinde rol alan \"Aşk Savaşçısı\". Ona büyük bir hayranı olduğumu söylediğimde o zamanki kostümünü giydi. Onu böyle görünce aşırı dürüst aletim tepki gösterdi ve gerçek Milkaiser tarafından cezalandırıldım; bu da suç örgütü Death Geek'in yeniden dirilişine yol açtı!!<br><br>Boku'dan Tomo Mama no Sefure Keiyaku'ya<br><br>Keita, her zaman hayranlık duyduğu arkadaşının annesini ziyaret etmek için her türlü bahaneyi bulur. Güzel, kıvrımlı bir poposu ve büyük, çekici göğüsleri olan çarpıcı bir vücudu var!! Bacaklarını yavaşça açıp külotunu odada sadece ikisinin ortaya çıkardığında, aleti sertleşiyor. Sanki neler olup bittiğini tam olarak biliyormuş gibi, yanına oturuyor ve onu sıkıca sıkıyor. Adım adım onu ​​götürüyor ve her hareketinde kendini ona teslim ederken gelmenin hazzına uyanıyor. Birbirine mükemmel uyum sağlayan ikili, birbirlerinin sikiş arkadaşı olmak için gizli bir anlaşma yapar...<br><br>(Kaynak: Mediabank, tercüme)"
         },
         {
           "id": 208264,
@@ -3756,46 +3245,6 @@
           "descriptionTr": "Çıkmaya başlayalı iki ay olmuştu ama Yui ve Naoya hâlâ çift olmaya alışamamışlardı. Tam o sırada yoldan geçen bir adam onlara seslendi. “Yui-chan?” O anda Yui'nin dili tutulmuştu. Orada, onun ilki olan adam duruyordu. Onlar çıkmaya başlamadan önce seks merakı nedeniyle Yui onunla yatmıştı. Adam, geçmişteki eylemlerini erkek arkadaşına açıklamakla tehdit eder. Ve böylece Yui bir kez daha kendini erkek arkadaşına söyleyemediği bir sırrın içinde bulur...<br><br>(Kaynak: PinkPineapple, çevrildi)"
         },
         {
-          "id": 211557,
-          "title": {
-            "romaji": "Furachi",
-            "english": null,
-            "native": "フラチ"
-          },
-          "synonyms": [
-            "Outrageous",
-            "Unforgivable"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 6,
-            "day": 26
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211557-PN1R4dpTOekY.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211557-PN1R4dpTOekY.png"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": null,
-          "isAdult": true,
-          "genres": [
-            "Hentai"
-          ],
-          "tags": [],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "T-REX"
-              }
-            ]
-          },
-          "description": "<p><i>“I never imagined things would turn out like this…”</I> Kai, who ended up spending an intimate night with a woman living in the apartment building next door, reflects on his actions. Taking advantage of the fact that a room in the neighboring building happened to be completely visible, he began spending his days soothing himself by watching Ikenaga—who was exposing her vulnerable self—through his lens. But one morning, he accidentally called out to her! From that moment on, a relationship with the woman he’d been spying on began to develop…?<br />\n<br><br><br />\n(Source: Lune-soft, translated)</p>",
-          "externalLinks": [],
-          "isMyList": false,
-          "descriptionTr": "“İşlerin bu şekilde sonuçlanacağını hiç düşünmemiştim…” Yan apartmanda yaşayan bir kadınla samimi bir gece geçiren Kai, yaptıklarını düşünüyor. Komşu binadaki bir odanın tamamen görünür olmasından yararlanarak günlerini, savunmasız benliğini açığa çıkaran Ikenaga'yı merceğinden izleyerek kendini sakinleştirmeye başladı. Ama bir sabah yanlışlıkla ona seslendi! O andan itibaren gözetlediği kadınla bir ilişki gelişmeye başladı…?<br><br>(Kaynak: Lune-soft, çevrildi)"
-        },
-        {
           "id": 209541,
           "title": {
             "romaji": "PetitCure: Precure Fairies Season 3",
@@ -3869,6 +3318,46 @@
           "descriptionTr": "3. Sezonda, tanıdık Gizemli Eğlence Parkı ve Şeker Cenneti'ne ek olarak, canlı bir performans sahnesi de dahil olmak üzere pek çok yeni mekan görücüye çıkacak!<br><br>Ayrıca PetitCure Mofurun ve PetitCure Pollun gibi aktif kahramanlarımızın arasına PetitCure Purirun ve PetitCure Meroron gibi yeni arkadaşlar da katılacak!<br><br>Bir arkadaşınızla birlikteyken her şey daha da tatlı! ♪<br><br>Lütfen tüm sevimli PetitCure tarafından kendinizi rahat ve iyileşmiş hissetmenizi sağlayacak daha iç açıcı ve esprili hikayeleri sabırsızlıkla bekleyin. ♡<br><br>(Kaynak: Resmi İnternet Sitesi)"
         },
         {
+          "id": 211557,
+          "title": {
+            "romaji": "Furachi",
+            "english": null,
+            "native": "フラチ"
+          },
+          "synonyms": [
+            "Outrageous",
+            "Unforgivable"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 6,
+            "day": 26
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211557-PN1R4dpTOekY.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211557-PN1R4dpTOekY.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": null,
+          "isAdult": true,
+          "genres": [
+            "Hentai"
+          ],
+          "tags": [],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "T-REX"
+              }
+            ]
+          },
+          "description": "<p><i>“I never imagined things would turn out like this…”</I> Kai, who ended up spending an intimate night with a woman living in the apartment building next door, reflects on his actions. Taking advantage of the fact that a room in the neighboring building happened to be completely visible, he began spending his days soothing himself by watching Ikenaga—who was exposing her vulnerable self—through his lens. But one morning, he accidentally called out to her! From that moment on, a relationship with the woman he’d been spying on began to develop…?<br />\n<br><br><br />\n(Source: Lune-soft, translated)</p>",
+          "externalLinks": [],
+          "isMyList": false,
+          "descriptionTr": "“İşlerin bu şekilde sonuçlanacağını hiç düşünmemiştim…” Yan apartmanda yaşayan bir kadınla samimi bir gece geçiren Kai, yaptıklarını düşünüyor. Komşu binadaki bir odanın tamamen görünür olmasından yararlanarak günlerini, savunmasız benliğini açığa çıkaran Ikenaga'yı merceğinden izleyerek kendini sakinleştirmeye başladı. Ama bir sabah yanlışlıkla ona seslendi! O andan itibaren gözetlediği kadınla bir ilişki gelişmeye başladı…?<br><br>(Kaynak: Lune-soft, çevrildi)"
+        },
+        {
           "id": 209873,
           "title": {
             "romaji": "Hamehara",
@@ -3906,59 +3395,7 @@
           "description": "<p><i>“That's sexual harassment! I've told you that before! I'll sue you!”</i> Ayaka Mizukami, a member of the company's compliance committee, immediately calls out Yuya Takahashi on the distance between him and Chitose Takano as they chat amiably. She warns him that even if he meant no harm, it looks inappropriate. In a company that places a high priority on compliance, she takes action despite knowing she’ll make enemies… and sure enough, she did… Ayaka summons Yuya for a harassment training session. Alone with him in the conference room, Ayuka explains matter-of-factly, not suspecting for a moment that he might fight back. She rants one-sidedly, condemning Yuya’s behavior… <i>“So, does this count as sexual harassment?”</i> Yuya defiantly retorts, grabbing Ayuka’s disproportionately voluptuous and massive breasts as he asks, <i>“How about this?” “Is this sexual harassment too?”</i> Yuya presses forward, groping every inch of her stunned, frozen body. Ayuka struggles frantically to resist, but her efforts... were far too feeble.<br />\n<br><br><br />\n(Source: Getchu, translated)</p>",
           "externalLinks": [],
           "isMyList": false,
-          "descriptionTr": "\"Bu cinsel tacizdir! Bunu size daha önce de söyledim! Sizi dava edeceğim!\" Şirketin uyumluluk komitesinin bir üyesi olan Ayaka Mizukami, dostane bir şekilde sohbet ederken hemen Yuya Takahashi ile Chitose Takano arasındaki mesafeyi dile getiriyor. Zarar vermek istemese bile bunun uygunsuz göründüğü konusunda onu uyarıyor. Uyuma büyük önem veren bir şirkette, düşman edineceğini bilmesine rağmen harekete geçer... ve kesinlikle öyle de yaptı... Ayaka, Yuya'yı taciz eğitimi için çağırır. Konferans odasında onunla yalnız kalan Ayuka, karşılık verebileceğinden bir an bile şüphelenmeden, gerçekçi bir şekilde açıklıyor. Tek taraflı bağırarak Yuya'nın davranışını kınadı... \"Peki bu cinsel taciz sayılır mı?\" Yuya meydan okurcasına karşılık veriyor ve Ayuka'nın orantısız derecede şehvetli ve iri göğüslerini yakalayarak \"Buna ne dersin?\" diye soruyor. “Bu da mı cinsel taciz?” Yuya, şaşkın, donmuş vücudunun her santimini el yordamıyla ileri doğru bastırıyor. Ayuka direnmek için çılgınca çabalıyor ama çabaları... çok zayıftı.<br><br>(Kaynak: Getchu, tercüme)"
-        },
-        {
-          "id": 198411,
-          "title": {
-            "romaji": "Nezumi-kun no Chokki (TV)",
-            "english": null,
-            "native": "ねずみくんのチョッキ (TV)"
-          },
-          "synonyms": [
-            "Little Mouse's Red Vest"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198411-FuPLk3KBEoFH.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198411-FuPLk3KBEoFH.png"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": null,
-          "isAdult": false,
-          "genres": [
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Kids",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Creadom8"
-              }
-            ]
-          },
-          "description": "",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://www.poplar.co.jp/pr/anime-nezumikun/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/nezumikun_anime"
-            }
-          ],
-          "isMyList": false
+          "descriptionTr": "\"Bu cinsel tacizdir! Bunu size daha önce de söyledim! Sizi dava edeceğim!\" Şirketin uyumluluk komitesinin bir üyesi olan Ayaka Mizukami, dostane bir şekilde sohbet ederken hemen Yuya Takahashi ile Chitose Takano arasındaki mesafeyi dile getiriyor. Zarar vermek istemese bile bunun uygunsuz göründüğü konusunda onu uyarıyor. Uyum konusuna yüksek öncelik veren bir şirkette, düşman edineceğini bilmesine rağmen harekete geçer... ve kesinlikle öyle de yaptı... Ayaka, Yuya'yı taciz eğitimi için çağırır. Konferans odasında onunla yalnız kalan Ayuka, karşılık verebileceğinden bir an bile şüphelenmeden, gerçekçi bir şekilde açıklıyor. Tek taraflı bağırarak Yuya'nın davranışını kınadı... \"Peki bu cinsel taciz sayılır mı?\" Yuya meydan okurcasına karşılık veriyor ve Ayuka'nın orantısız derecede şehvetli ve iri göğüslerini yakalayarak \"Buna ne dersin?\" diye soruyor. “Bu da mı cinsel taciz?” Yuya, şaşkın, donmuş vücudunun her santimini el yordamıyla ileri doğru bastırıyor. Ayuka direnmek için çılgınca çabalıyor ama çabaları... çok zayıftı.<br><br>(Kaynak: Getchu, çevrildi)"
         },
         {
           "id": 212557,
@@ -4074,8 +3511,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1782597600,
-            "episode": 12
+            "airingAt": 1783202400,
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -4192,10 +3629,7 @@
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206950-pNm7O5inBKBX.png"
           },
           "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1782597600,
-            "episode": 12
-          },
+          "nextAiringEpisode": null,
           "isAdult": false,
           "genres": [
             "Action",
