@@ -211,7 +211,7 @@
             }
           ],
           "isMyList": true,
-          "descriptionTr": "Re:Zero kara Hajimeru Isekai Seikatsu'nun dördüncü sezonu.<br><br>Acı çeken müttefiklerini kurtarmak isteyen Subaru, Ülker Gözetleme Kulesi'ndeki Bilge'yi bulmak için ölümcül bir çölle karşı karşıya kalır.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Lucca Comics & Games, 1. bölümün ön gösterimini 8 Temmuz 2026'daki Japon televizyon yayınından önce 1 Kasım 2025'te yaptı."
+          "descriptionTr": "Re:Zero kara Hajimeru Isekai Seikatsu'nun dördüncü sezonu.<br><br>Acı çeken müttefiklerini kurtarmak isteyen Subaru, Ülker Gözetleme Kulesi'ndeki Bilge'yi bulmak için ölümcül bir çölle karşı karşıya kalır.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Lucca Comics & Games, 1. bölümün ön gösterimini 1 Kasım 2025'te, 8 Temmuz 2026'daki Japon televizyon yayınından önce yaptı."
         },
         {
           "id": 195600,
@@ -496,145 +496,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Tensei Shitara Slime Datta Ken'in dördüncü sezonu.<br><br>İblis Lordu Rimuru'nun insanlarla canavarlar arasında bir ittifak kurma hayali gerçekleşmeye bir adım daha yaklaşıyor. Tempest gelişmeye devam ederken Granville Rozzo ve torunu Maribel Rozzo, insanlığı yöneterek koruma planları konusunda İblis Lordu Rimuru ile çatışır. Bu arada El Dorado'da İblis Lordu Leon kendi hedefleri doğrultusunda çalışmaktadır. Yeni bir Kahramanın uyanışı yaklaşıyor!<br><br>(Kaynak: Crunchyroll Haberleri)"
-        },
-        {
-          "id": 182300,
-          "title": {
-            "romaji": "Tsue to Tsurugi no Wistoria Season 2",
-            "english": "Wistoria: Wand and Sword Season 2",
-            "native": "杖と剣のウィストリア Season2"
-          },
-          "synonyms": [
-            "ตำนานดาบและคทาแห่งวิสตอเรีย ซีซั่น 2",
-            "Tongkat Sihir dan Pedang Wistoria Season 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 12
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182300-IYkq5KrkQq1V.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182300-IYkq5KrkQq1V.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182300-d1znfWKzn1bT.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1782631800,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Drama",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Elf",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Henshin",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dungeon",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 82,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Actas"
-              },
-              {
-                "name": "Bandai Namco Pictures"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Tsue to Tsurugi no Wistoria</i>.<br><br><br />\nWill, a washout student at a magical academy who is unable to use magic, is aiming to join the top tier of mages, the Magia Vander, to fulfill a promise to his childhood friend, Elfaria. Wielding a sword instead of a wand, his abilities are slowly recognized within the academy. During the all-student praxis dungeon training he undertakes with Lihanna and the other top students of his year, they are ambushed by a mysterious mage. Though they barely manage to survive the attack together, they go on to face the exit exam. Can Will reach the girl waiting for him in the tower?<br><br><br />\n(Source: Official Site)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://wistoria-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/Wistoria_PR"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@wistoria_pr"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GW4HM7WK9/wistoria-wand-and-sword"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/Wistoria_EN"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://wistoria-anime-en.com/"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl37QJE0NTvUiONsuDJH6IMD"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2342649"
-            },
-            {
-              "site": "Netflix",
-              "url": "https://www.netflix.com/title/81900358"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/yzy3wofgnt"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Tsue to Tsurugi no Wistoria'nın ikinci sezonu.<br><br>Büyü akademisinde sihir kullanamayan başarısız bir öğrenci olan Will, çocukluk arkadaşı Elfaria'ya verdiği bir sözü yerine getirmek için büyücülerin en üst kademesi olan Magia Vander'a katılmayı hedefliyor. Asa yerine kılıç kullanan yetenekleri akademide yavaş yavaş tanınmaktadır. Lihanna ve yılın diğer başarılı öğrencileriyle birlikte üstlendiği tüm öğrencilerden oluşan uygulamalı zindan eğitimi sırasında gizemli bir büyücü tarafından pusuya düşürülürler. Saldırıdan hep birlikte zar zor kurtulsalar da çıkış sınavıyla karşı karşıya kalırlar. Will kulede kendisini bekleyen kıza ulaşabilecek mi?<br><br>(Kaynak: Resmi Site)"
         },
         {
           "id": 199547,
@@ -1418,107 +1279,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.<br><br>Bir soyluyla yaşadığı felaketle sonuçlanan karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra katı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi, her türlü değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!<br><br>(Kaynak: J-Novel Kulübü)"
-        },
-        {
-          "id": 182578,
-          "title": {
-            "romaji": "Yozakura-san Chi no Daisakusen 2nd Season",
-            "english": "Mission: Yozakura Family Season 2",
-            "native": "夜桜さんちの大作戦 第2期"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 12
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182578-Te8W0EwesgrS.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182578-Te8W0EwesgrS.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182578-p3J3Cs24qe9J.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1782633600,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Espionage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Body Horror",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Family Life",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 75,
-          "studios": {
-            "nodes": [
-              {
-                "name": "SILVER LINK."
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Yozakura-san Chi no Daisakusen</i>.</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://mission-yozakura-family.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/OfficialHitsuji"
-            },
-            {
-              "site": "Disney Plus",
-              "url": "https://www.disneyplus.com/browse/entity-ac689bea-f955-4d95-8693-7b87b5a309cb"
-            },
-            {
-              "site": "Hulu",
-              "url": "https://www.hulu.com/series/mission-yozakura-family-ac689bea-f955-4d95-8693-7b87b5a309cb"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Yozakura-san Chi no Daisakusen'in ikinci sezonu."
+          "descriptionTr": "Honzuki no Gekokujou'nun 3. Bölümünün anime uyarlaması.<br><br>Bir soyluyla yaşadığı felaketle sonuçlanan karşılaşmanın ardından Myne, sonunda ailesine ve aşağı şehirdeki arkadaşlarına veda etmeye karar verir, adını \"Rozemyne\" olarak değiştirir ve Ehrenfest'in arşidükünün evlatlık kızı olarak yeni hayatına başlar. Bununla birlikte, Yüksek Piskopos ve başrahip olarak görevlerinin yanı sıra sıkı görgü kuralları ve büyü eğitiminden de geçirildiği için, soylu toplumda bir baş asil olarak geçirdiği günler acımasızdır. Bütün bunlar yedi yaşındaki zayıf bir kız için çok fazlaydı... Ya da Başrahip ona ödül olarak tapınağın kitap odasının anahtarlarını teklif etmeseydi öyle olurdu. Eğer bunları eline alabilseydi her türden değerli kitabı okuyabilirdi! Adı değişmiş olabilir ama Rozemyne ​​yepyeni bir dünyaya adım atarken kitaplara olan tutkusu aynı kalıyor! Baskı endüstrisi büyüdükçe ayrıntılı ortam da genişler. İşte her yerdeki kitap severler için bu bibliyo-fantezi'nin 3. Bölümü başlıyor!<br><br>(Kaynak: J-Novel Kulübü)"
         },
         {
           "id": 196974,
@@ -1787,7 +1548,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Geçmişi ve bugünü birbirine bağlayan bir lanet.<br><br>1900'lerin başlarında Japonya'nın Taisho döneminde yaşayan genç bir mistik olan Mao, hayatını değiştiren bir lanete maruz kaldıktan sonra dokuz yüz uzun yıl boyunca yaşamaya devam eden gizemli bir onmyojidir. Gelecekten gelmiş gibi görünen ortaokul öğrencisi Nanoka Kiba ile tanıştığında dünyası daha da tuhaf bir hal alır. Nanoka, hassas yıllarına rağmen, küçük bir çocukken anne ve babasını tüyler ürpertici bir kazada kaybetmesiyle yaşadığı travmatik deneyimin damgasını vurduğu garip bir hayat yaşamıştır. Ancak Nanoka o uğursuz alışveriş merkezine dönmeye karar verdiğinde başka bir zamana ve yere taşınır; doğaüstü ayakaşilerin kendisinden çok önce geliştiği bir dünyaya. Orada Mao ile tanışır ve Mao'nun ani ve tuhaf sorusu Nanoka'nın kendisini ve meraklı hayatını tamamen yeni bir ışıkta görmesine neden olur. Artık farklı dünyalardan gelen iki gezgin, hayatlarını etkileyen karanlık güçlerle mücadele ederken birleşiyor.<br><br>(Kaynak: VIZ Media, Hulu, düzenlendi)"
+          "descriptionTr": "Geçmişi ve bugünü birbirine bağlayan bir lanet.<br><br>1900'lerin başlarında Japonya'nın Taisho döneminde yaşayan genç bir mistik olan Mao, hayatını değiştiren bir lanete maruz kaldıktan sonra dokuz yüz uzun yıl boyunca yaşamaya devam eden gizemli bir onmyojidir. Gelecekten gelmiş gibi görünen ortaokul öğrencisi Nanoka Kiba ile tanıştığında dünyası daha da tuhaf bir hal alır. Nanoka, hassas yıllarına rağmen, küçük bir çocukken anne ve babasını tüyler ürpertici bir kazada kaybetmesiyle yaşadığı travmatik deneyimin damgasını vurduğu garip bir hayat yaşamıştır. Ancak Nanoka o uğursuz alışveriş merkezine dönmeye karar verdiğinde başka bir zamana ve yere taşınır; doğaüstü ayakaşilerin kendisinden çok önce geliştiği bir dünyaya. Orada Mao ile tanışır. Mao'nun ani ve tuhaf sorusu Nanoka'nın kendisini ve meraklı hayatını tamamen yeni bir ışıkta görmesine neden olur. Artık farklı dünyalardan gelen iki gezgin, hayatlarını etkileyen karanlık güçlerle mücadele ederken birleşiyor.<br><br>(Kaynak: VIZ Media, Hulu, düzenlendi)"
         },
         {
           "id": 186744,
@@ -1910,7 +1671,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kendini iyi hissetmediğinde, sınav olduğunda, okula gitmek istemediğinde... Onun yerini ben alıyorum. Ben onun kopyasıyım. Başka bir amacım yok. Ama aşık olduğumda bu değişti. Aşık olduğum çocuk benim olduğumu anlasın diye saçlarımı topluyorum. Okulu atlıyoruz ve yarın ve sonrasında her gün tekrar buluşacağımıza söz veriyoruz. Ben onun kopyasıyım. Benimle ilgili her şey ödünç alınmış ve boş ama kalbim benim.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Kendini iyi hissetmediğinde, sınav olduğunda, okula gitmek istemediğinde... Onun yerini ben alıyorum. Ben onun kopyasıyım. Başka bir amacım yok. Ama aşık olduğumda bu değişti. Aşık olduğum çocuğun ben olduğumu anlaması için saçlarımı topuz yapıyorum. Okulu atlıyoruz ve yarın ve sonrasında her gün tekrar buluşacağımıza söz veriyoruz. Ben onun kopyasıyım. Benimle ilgili her şey ödünç alınmış ve boş ama kalbim benim.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 158036,
@@ -2032,94 +1793,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Lise orta noktasına ulaşırken, sanat okulunda tasarım eğitimi almayı hayal eden Koichi Asakura'nın planları müze duvarındaki patlayıcı grafitilerle sarsılır. Sanatçı, geçmiş bir olaydan sonra yeteneğini gömen solak bir kız olan Eren Yamagishi'dir. Sanatın bir araya getirdiği Koichi, tasarımın peşine düşerken Eren resme geri döner ancak korku, hırs ve eski yara izleri yollarını tehdit eder.<br><br>(Kaynak: Crunchyroll)"
-        },
-        {
-          "id": 177634,
-          "title": {
-            "romaji": "Diamond no Ace act II: Second Season",
-            "english": "Ace of the Diamond act II -Second Season-",
-            "native": "ダイヤのA actII -Second Season-"
-          },
-          "synonyms": [
-            "Ace of the Diamond act II Season 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 4,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177634-jYdKdbPOwWhR.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177634-jYdKdbPOwWhR.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177634-bU4CFWC8Q4dt.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1782635400,
-            "episode": 13
-          },
-          "isAdult": false,
-          "genres": [
-            "Sports"
-          ],
-          "tags": [
-            {
-              "name": "Baseball",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Male Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School Club",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Boarding School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 78,
-          "studios": {
-            "nodes": [
-              {
-                "name": "OLM"
-              }
-            ]
-          },
-          "description": "<p>The Seido baseball club heads to the spring invitational for an ultimate, heated baseball game!<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/diaace_official"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://diaace.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GYX0MZ58R/ace-of-the-diamond"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Seido beyzbol kulübü, son derece hararetli bir beyzbol maçı için bahar davetine gidiyor!<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 202508,
@@ -2742,7 +2415,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Ame, tatlıları ve ağzında çürük denilen diş çürüğünü seven bir çocuktur. Caries, Ame'in ağzında tasasız bir hayat yaşıyor ve hatta ona \"Anne\" diyor ve Ame'nin vücudu her zaman Caries'in insafına kalıyor.<br><br>(Kaynak: Anime Haber Ağı, düzenlendi)"
+          "descriptionTr": "Ame, tatlıları ve ağzında çürük denilen diş çürüğünü seven bir çocuktur. Caries, Ame'in ağzında kaygısız bir hayat yaşıyor ve hatta ona \"Anne\" diyor ve Ame'nin vücudu her zaman Caries'in insafına kalıyor.<br><br>(Kaynak: Anime Haber Ağı, düzenlendi)"
         },
         {
           "id": 209981,
@@ -3004,7 +2677,7 @@
           "description": "<p>Despite all my hard work, that guy... Mother Misako had fallen asleep, face-down on the living room table. The screen of her working laptop illuminated her voluptuous form in the darkness. Her ample curves, slipping off the table and swaying, were being kneaded by the hands of her beloved son, Majime...<br />\n<br><br><br />\nThese weren't feelings for a mother... Every time Majime became conscious of Misako, he was tormented by anguish. The secret his aunt Reika had taught him... As a mother, a wife, a female teacher, Misako poured her heart into her daily duties. She wanted to save her. The reality that suddenly descended upon him. The moment he heard that fact, the sound of the shackles binding his boiling son's rod snapped...<br />\n<br><br><br />\n(Source: Getchu, translated)</p>",
           "externalLinks": [],
           "isMyList": false,
-          "descriptionTr": "Bütün çabalarıma rağmen o adam... Misako Ana oturma odasındaki masanın üzerinde yüzükoyun uyuyakalmıştı. Çalışan dizüstü bilgisayarının ekranı karanlıkta onun şehvetli formunu aydınlatıyordu. Masadan kayan ve sallanan geniş kıvrımları, sevgili oğlu Majime'nin ellerinde yoğruluyordu...<br><br>Bunlar bir anneye özgü duygular değildi... Majime, Misako'nun farkına vardığı her seferinde acıdan kıvranıyordu. Teyzesi Reika'nın ona öğrettiği sır... Misako bir anne, bir eş, bir kadın öğretmen olarak günlük görevlerine yüreğini döktü. Onu kurtarmak istedi. Aniden üzerine çöken gerçeklik. Bu gerçeği duyduğu an, kaynayan oğlunun asasını bağlayan prangaların sesi koptu...<br><br>(Kaynak: Getchu, çevrildi)"
+          "descriptionTr": "Bütün çabalarıma rağmen o adam... Misako Ana oturma odasındaki masanın üzerinde yüzükoyun uyuyakalmıştı. Çalışan dizüstü bilgisayarının ekranı karanlıkta onun şehvetli formunu aydınlatıyordu. Masadan kayan ve sallanan geniş kıvrımları, sevgili oğlu Majime'nin ellerinde yoğruluyordu...<br><br>Bunlar bir anneye özgü duygular değildi... Majime, Misako'nun farkına vardığı her seferde acıdan kıvranıyordu. Teyzesi Reika'nın ona öğrettiği sır... Misako, bir anne, bir eş, bir kadın öğretmen olarak günlük görevlerine yüreğini döktü. Onu kurtarmak istedi. Aniden üzerine çöken gerçeklik. Bu gerçeği duyduğu an, kaynayan oğlunun asasını bağlayan prangaların sesi koptu...<br><br>(Kaynak: Getchu, çevrildi)"
         },
         {
           "id": 209982,
@@ -3163,7 +2836,7 @@
           "description": "<p><b>Episode 1</b><br><br />\n<br><br />\n<i>Tonari no Elf Mama (part 1)</i><br><br />\nIt’s been a few years since the treaty of friendship was signed between the elves and humans… and next door to my apartment live an elf mother and daughter named Sophia and Lilia. After eating a meal prepared by my elven neighbors, I felt a strange, restless sensation and became abnormally aroused. Just then, Sophia came to visit and explained that she had mistakenly used the wrong amount of a herb from her homeland. She said it had a powerful aphrodisiac effect, and if I didn’t ejaculate immediately, I might suffer permanent damage to my reproductive functions. As an apology, Sophia offered to help me relieve myself.<br><br />\n<br><br />\n<i>Tonari no Elf Mama (part 2)</i><br><br />\nWhen I got home, Lilia was waiting for me at the door. As I was soaking in the tub, Lilia walked in completely naked and offered to help me relieve myself. I was taken aback by the sudden turn of events, but Lilia toyed with me, and soon the two of us were writhing in ecstasy, exposing our lewd, lustful forms! Just then, Sophia, who was supposed to be out, came home. It should have turned into a chaotic scene, but instead, mother and daughter were completely absorbed in the human male’s cock!!<br><br />\n<br><br />\n<b>Episode 2</b><br><br />\n<br><br />\n<i>Tonari no Super Heroine ♡</i><br><br />\nMy new neighbor, housewife Mari Mayama (Maiden name: Mari Iihoshi), came over to introduce herself, and memories of the past came flooding back in an instant. She was Milkaiser, the “Love Warrior” I’d idolized 13 years ago, who had starred in a minor tokusatsu heroine series. When I told her I was a huge fan, she changed into her costume from back then. Seeing her like that, my overly honest dick reacted, and I was punished by the real Milkaiser—leading to the resurrection of the criminal syndicate Death Geek!!<br><br />\n<br><br />\n<i>Boku to Tomo Mama no Sefure Keiyaku</i><br><br />\nKeita finds any excuse he can to visit his friend’s mom, whom he’s always admired. She has a beautiful, curvy butt and a stunning body with big, alluring breasts!! When she slowly spreads her legs and exposes her panties in the room just the two of them, his cock goes rock hard. As if she knew exactly what was going on, she sits down next to him and gives it a firm squeeze. She takes him step by step, and as he surrenders himself to her every move, he awakens to the pleasure of coming. The two, who are a perfect match, strike a secret arrangement to be each other’s fuck buddies...<br><br />\n<br><br />\n(Source: Mediabank, translated)</p>",
           "externalLinks": [],
           "isMyList": false,
-          "descriptionTr": "1. Bölüm<br><br>Tonari no Elf Mama (bölüm 1)<br><br>Elfler ve insanlar arasında dostluk anlaşması imzalanalı birkaç yıl oldu... ve dairemin bitişiğinde Sophia ve Lilia adında bir elf annesi ve kızı yaşıyor. Elf komşularımın hazırladığı yemeği yedikten sonra garip, huzursuz bir his hissettim ve anormal derecede tahrik oldum. Tam o sırada Sophia ziyarete geldi ve memleketinden gelen bir bitkiyi yanlışlıkla yanlış miktarda kullandığını açıkladı. Güçlü bir afrodizyak etkisi olduğunu, eğer hemen boşalmazsam üreme fonksiyonlarımda kalıcı hasar görebileceğimi söyledi. Sophia özür mahiyetinde bana yardım etmeyi teklif etti.<br><br>Tonari no Elf Mama (bölüm 2)<br><br>Eve geldiğimde Lilia kapıda beni bekliyordu. Ben küvette sırılsıklam olurken, Lilia tamamen çıplak bir şekilde içeri girdi ve tuvaletimi yapmama yardım etmeyi teklif etti. Olayların ani gidişatı karşısında şaşkına dönmüştüm ama Lilia benimle oynadı ve çok geçmeden ikimiz coşku içinde kıvranmaya, ahlaksız, şehvetli formlarımızı açığa çıkarmaya başladık! Tam o sırada dışarıda olması gereken Sophia eve geldi. Kaotik bir sahneye dönüşmesi gerekirdi ama bunun yerine anne ve kız tamamen insan erkeğinin sikine kapılmışlardı!!<br><br>2. Bölüm<br><br>Tonari Süper Kahraman Değildir ♡<br><br>Yeni komşum ev hanımı Mari Mayama (Kızlık soyadı: Mari Iihoshi) kendini tanıtmak için yanıma geldi ve geçmişe dair anılar bir anda canlandı. O Milkaiser'di, 13 yıl önce idolleştirdiğim, küçük bir tokusatsu kadın kahraman dizisinde rol alan \"Aşk Savaşçısı\". Ona büyük bir hayranı olduğumu söylediğimde o zamanki kostümünü giydi. Onu böyle görünce aşırı dürüst aletim tepki gösterdi ve gerçek Milkaiser tarafından cezalandırıldım; bu da suç örgütü Death Geek'in yeniden dirilişine yol açtı!!<br><br>Boku'dan Tomo Mama no Sefure Keiyaku'ya<br><br>Keita, her zaman hayranlık duyduğu arkadaşının annesini ziyaret etmek için her türlü bahaneyi bulur. Güzel, kıvrımlı bir poposu ve büyük, çekici göğüsleri olan çarpıcı bir vücudu var!! Bacaklarını yavaşça açıp külotunu odada sadece ikisinin ortaya çıkardığında, aleti sertleşiyor. Sanki neler olup bittiğini tam olarak biliyormuş gibi, yanına oturuyor ve onu sıkıca sıkıyor. Adım adım onu ​​götürüyor ve her hareketinde kendini ona teslim ederken gelmenin hazzına uyanıyor. Birbirine mükemmel uyum sağlayan ikili, birbirlerinin sikiş arkadaşı olmak için gizli bir anlaşma yapar...<br><br>(Kaynak: Mediabank, tercüme)"
+          "descriptionTr": "1. Bölüm<br><br>Tonari no Elf Mama (bölüm 1)<br><br>Elfler ve insanlar arasında dostluk anlaşması imzalanalı birkaç yıl oldu... ve dairemin bitişiğinde Sophia ve Lilia adında bir elf annesi ve kızı yaşıyor. Elf komşularımın hazırladığı yemeği yedikten sonra garip, huzursuz bir his hissettim ve anormal derecede tahrik oldum. Tam o sırada Sophia ziyarete geldi ve memleketinden gelen bir bitkiyi yanlışlıkla yanlış miktarda kullandığını açıkladı. Güçlü bir afrodizyak etkisi olduğunu, eğer hemen boşalmazsam üreme fonksiyonlarımda kalıcı hasar görebileceğimi söyledi. Sophia özür mahiyetinde bana yardım etmeyi teklif etti.<br><br>Tonari no Elf Mama (bölüm 2)<br><br>Eve geldiğimde Lilia kapıda beni bekliyordu. Ben küvette sırılsıklam olurken, Lilia tamamen çıplak bir şekilde içeri girdi ve tuvaletimi yapmama yardım etmeyi teklif etti. Olayların ani gidişatı karşısında şaşkına dönmüştüm ama Lilia benimle oynadı ve çok geçmeden ikimiz coşku içinde kıvranmaya, ahlaksız, şehvetli formlarımızı açığa çıkarmaya başladık! Tam o sırada dışarıda olması gereken Sophia eve geldi. Kaotik bir sahneye dönüşmesi gerekirdi ama bunun yerine anne ve kız tamamen insan erkeğinin sikine kapılmışlardı!!<br><br>2. Bölüm<br><br>Tonari Süper Kahraman Değildir ♡<br><br>Yeni komşum ev hanımı Mari Mayama (Kızlık soyadı: Mari Iihoshi) kendini tanıtmak için yanıma geldi ve geçmişe dair anılar bir anda canlandı. O, 13 yıl önce idolleştirdiğim, küçük bir tokusatsu kadın kahraman dizisinde rol alan Milkaiser'dı, \"Aşk Savaşçısı\". Ona büyük bir hayranı olduğumu söylediğimde o zamanki kostümünü giydi. Onu böyle görünce aşırı dürüst aletim tepki gösterdi ve gerçek Milkaiser tarafından cezalandırıldım; bu da suç örgütü Death Geek'in yeniden dirilişine yol açtı!!<br><br>Boku'dan Tomo Mama no Sefure Keiyaku'ya<br><br>Keita, her zaman hayranlık duyduğu arkadaşının annesini ziyaret etmek için her türlü bahaneyi bulur. Güzel, kıvrımlı bir poposu ve büyük, çekici göğüsleri olan çarpıcı bir vücudu var!! Bacaklarını yavaşça açıp külotunu odada sadece ikisinin ortaya çıkardığında, aleti sertleşiyor. Sanki neler olup bittiğini tam olarak biliyormuş gibi, yanına oturuyor ve onu sıkıca sıkıyor. Adım adım onu ​​götürüyor ve her hareketinde kendini ona teslim ederken gelmenin hazzına uyanıyor. Birbirine mükemmel uyum sağlayan ikili, birbirlerinin sikiş arkadaşı olmak için gizli bir anlaşma yapar...<br><br>(Kaynak: Mediabank, tercüme)"
         },
         {
           "id": 208264,
@@ -3206,6 +2879,46 @@
           "externalLinks": [],
           "isMyList": false,
           "descriptionTr": "Shiganai Atelier'in erotik doujin oyununa dayanmaktadır."
+        },
+        {
+          "id": 211557,
+          "title": {
+            "romaji": "Furachi",
+            "english": null,
+            "native": "フラチ"
+          },
+          "synonyms": [
+            "Outrageous",
+            "Unforgivable"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 6,
+            "day": 26
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211557-PN1R4dpTOekY.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211557-PN1R4dpTOekY.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": null,
+          "isAdult": true,
+          "genres": [
+            "Hentai"
+          ],
+          "tags": [],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "T-REX"
+              }
+            ]
+          },
+          "description": "<p><i>“I never imagined things would turn out like this…”</I> Kai, who ended up spending an intimate night with a woman living in the apartment building next door, reflects on his actions. Taking advantage of the fact that a room in the neighboring building happened to be completely visible, he began spending his days soothing himself by watching Ikenaga—who was exposing her vulnerable self—through his lens. But one morning, he accidentally called out to her! From that moment on, a relationship with the woman he’d been spying on began to develop…?<br />\n<br><br><br />\n(Source: Lune-soft, translated)</p>",
+          "externalLinks": [],
+          "isMyList": false,
+          "descriptionTr": "“İşlerin bu şekilde sonuçlanacağını hiç düşünmemiştim…” Yan apartmanda yaşayan bir kadınla samimi bir gece geçiren Kai, yaptıklarını düşünüyor. Komşu binadaki bir odanın tamamen görünür olmasından yararlanarak günlerini, savunmasız benliğini açığa çıkaran Ikenaga'yı merceğinden izleyerek kendini sakinleştirmeye başladı. Ama bir sabah yanlışlıkla ona seslendi! O andan itibaren gözetlediği kadınla bir ilişki gelişmeye başladı…?<br><br>(Kaynak: Lune-soft, çevrildi)"
         },
         {
           "id": 210116,
@@ -3316,46 +3029,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "3. Sezonda, tanıdık Gizemli Eğlence Parkı ve Şeker Cenneti'ne ek olarak, canlı bir performans sahnesi de dahil olmak üzere pek çok yeni mekan görücüye çıkacak!<br><br>Ayrıca PetitCure Mofurun ve PetitCure Pollun gibi aktif kahramanlarımızın arasına PetitCure Purirun ve PetitCure Meroron gibi yeni arkadaşlar da katılacak!<br><br>Bir arkadaşınızla birlikteyken her şey daha da tatlı! ♪<br><br>Lütfen tüm sevimli PetitCure tarafından kendinizi rahat ve iyileşmiş hissetmenizi sağlayacak daha iç açıcı ve esprili hikayeleri sabırsızlıkla bekleyin. ♡<br><br>(Kaynak: Resmi İnternet Sitesi)"
-        },
-        {
-          "id": 211557,
-          "title": {
-            "romaji": "Furachi",
-            "english": null,
-            "native": "フラチ"
-          },
-          "synonyms": [
-            "Outrageous",
-            "Unforgivable"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 6,
-            "day": 26
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211557-PN1R4dpTOekY.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211557-PN1R4dpTOekY.png"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": null,
-          "isAdult": true,
-          "genres": [
-            "Hentai"
-          ],
-          "tags": [],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "T-REX"
-              }
-            ]
-          },
-          "description": "<p><i>“I never imagined things would turn out like this…”</I> Kai, who ended up spending an intimate night with a woman living in the apartment building next door, reflects on his actions. Taking advantage of the fact that a room in the neighboring building happened to be completely visible, he began spending his days soothing himself by watching Ikenaga—who was exposing her vulnerable self—through his lens. But one morning, he accidentally called out to her! From that moment on, a relationship with the woman he’d been spying on began to develop…?<br />\n<br><br><br />\n(Source: Lune-soft, translated)</p>",
-          "externalLinks": [],
-          "isMyList": false,
-          "descriptionTr": "“İşlerin bu şekilde sonuçlanacağını hiç düşünmemiştim…” Yan apartmanda yaşayan bir kadınla samimi bir gece geçiren Kai, yaptıklarını düşünüyor. Komşu binadaki bir odanın tamamen görünür olmasından yararlanarak günlerini, savunmasız benliğini açığa çıkaran Ikenaga'yı merceğinden izleyerek kendini sakinleştirmeye başladı. Ama bir sabah yanlışlıkla ona seslendi! O andan itibaren gözetlediği kadınla bir ilişki gelişmeye başladı…?<br><br>(Kaynak: Lune-soft, çevrildi)"
         },
         {
           "id": 209873,
