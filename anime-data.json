@@ -907,8 +907,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1782745200,
-            "episode": 13
+            "airingAt": 1783350000,
+            "episode": 14
           },
           "isAdult": false,
           "genres": [
@@ -2005,7 +2005,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 58,
+          "averageScore": 59,
           "studios": {
             "nodes": [
               {
@@ -2192,7 +2192,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 68,
+          "averageScore": 69,
           "studios": {
             "nodes": [
               {
@@ -2477,7 +2477,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 64,
+          "averageScore": 65,
           "studios": {
             "nodes": [
               {
@@ -2802,7 +2802,7 @@
             "Hentai"
           ],
           "tags": [],
-          "averageScore": 53,
+          "averageScore": 52,
           "studios": {
             "nodes": []
           },
@@ -2851,48 +2851,6 @@
           "descriptionTr": "1. Bölüm<br><br>Tonari no Elf Mama (bölüm 1)<br><br>Elfler ve insanlar arasında dostluk anlaşması imzalanalı birkaç yıl oldu... ve dairemin bitişiğinde Sophia ve Lilia adında bir elf annesi ve kızı yaşıyor. Elf komşularımın hazırladığı yemeği yedikten sonra garip, huzursuz bir his hissettim ve anormal derecede tahrik oldum. Tam o sırada Sophia ziyarete geldi ve memleketinden gelen bir bitkiyi yanlışlıkla yanlış miktarda kullandığını açıkladı. Güçlü bir afrodizyak etkisi olduğunu, eğer hemen boşalmazsam üreme fonksiyonlarımda kalıcı hasar görebileceğimi söyledi. Sophia özür mahiyetinde bana yardım etmeyi teklif etti.<br><br>Tonari no Elf Mama (bölüm 2)<br><br>Eve geldiğimde Lilia kapıda beni bekliyordu. Ben küvette sırılsıklam olurken, Lilia tamamen çıplak bir şekilde içeri girdi ve tuvaletimi yapmama yardım etmeyi teklif etti. Olayların ani gidişatı karşısında şaşkına dönmüştüm ama Lilia benimle oynadı ve çok geçmeden ikimiz coşku içinde kıvranmaya, ahlaksız, şehvetli formlarımızı açığa çıkarmaya başladık! Tam o sırada dışarıda olması gereken Sophia eve geldi. Kaotik bir sahneye dönüşmesi gerekirdi ama bunun yerine anne ve kız tamamen insan erkeğinin sikine kapılmışlardı!!<br><br>2. Bölüm<br><br>Tonari Süper Kahraman Değildir ♡<br><br>Yeni komşum ev hanımı Mari Mayama (Kızlık soyadı: Mari Iihoshi) kendini tanıtmak için yanıma geldi ve geçmişe dair anılar bir anda canlandı. O, 13 yıl önce idolleştirdiğim, küçük bir tokusatsu kadın kahraman dizisinde rol alan Milkaiser'dı, \"Aşk Savaşçısı\". Ona büyük bir hayranı olduğumu söylediğimde o zamanki kostümünü giydi. Onu böyle görünce aşırı dürüst aletim tepki gösterdi ve gerçek Milkaiser tarafından cezalandırıldım; bu da suç örgütü Death Geek'in yeniden dirilişine yol açtı!!<br><br>Boku'dan Tomo Mama no Sefure Keiyaku'ya<br><br>Keita, her zaman hayranlık duyduğu arkadaşının annesini ziyaret etmek için her türlü bahaneyi bulur. Güzel, kıvrımlı bir poposu ve büyük, çekici göğüsleri olan çarpıcı bir vücudu var!! Bacaklarını yavaşça açıp külotunu odada sadece ikisinin ortaya çıkardığında, aleti sertleşiyor. Sanki neler olup bittiğini tam olarak biliyormuş gibi, yanına oturuyor ve onu sıkıca sıkıyor. Adım adım onu ​​götürüyor ve her hareketinde kendini ona teslim ederken gelmenin hazzına uyanıyor. Birbirine mükemmel uyum sağlayan ikili, birbirlerinin sikiş arkadaşı olmak için gizli bir anlaşma yapar...<br><br>(Kaynak: Mediabank, tercüme)"
         },
         {
-          "id": 208264,
-          "title": {
-            "romaji": "Muchuu no Tou",
-            "english": null,
-            "native": "霧中ノ塔"
-          },
-          "synonyms": [
-            "Shrouded in Mist"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 5,
-            "day": 29
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208264-suCmiuMBZfBy.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208264-suCmiuMBZfBy.png"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1787842800,
-            "episode": 2
-          },
-          "isAdult": true,
-          "genres": [
-            "Hentai"
-          ],
-          "tags": [],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Majin petit"
-              }
-            ]
-          },
-          "description": "<p>Based on the erotic doujin game by Shiganai Atelier (シガナイアトリエ).</p>",
-          "externalLinks": [],
-          "isMyList": false,
-          "descriptionTr": "Shiganai Atelier'in erotik doujin oyununa dayanmaktadır."
-        },
-        {
           "id": 211557,
           "title": {
             "romaji": "Furachi",
@@ -2933,24 +2891,29 @@
           "descriptionTr": "“İşlerin bu şekilde sonuçlanacağını hiç düşünmemiştim…” Yan apartmanda yaşayan bir kadınla samimi bir gece geçiren Kai, yaptıklarını düşünüyor. Komşu binadaki bir odanın tamamen görünür olmasından yararlanarak günlerini, savunmasız benliğini açığa çıkaran Ikenaga'yı merceğinden izleyerek kendini sakinleştirmeye başladı. Ama bir sabah yanlışlıkla ona seslendi! O andan itibaren gözetlediği kadınla bir ilişki gelişmeye başladı…?<br><br>(Kaynak: Lune-soft, çevrildi)"
         },
         {
-          "id": 210116,
+          "id": 208264,
           "title": {
-            "romaji": "Kare no Shiranai Himitsu wo Irete. The Animation",
+            "romaji": "Muchuu no Tou",
             "english": null,
-            "native": "彼の知らない秘密を入れて。 The Animation"
+            "native": "霧中ノ塔"
           },
-          "synonyms": [],
+          "synonyms": [
+            "Shrouded in Mist"
+          ],
           "startDate": {
             "year": 2026,
-            "month": 6,
-            "day": 26
+            "month": 5,
+            "day": 29
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210116-CRuoaXeZO5qU.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210116-CRuoaXeZO5qU.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208264-suCmiuMBZfBy.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208264-suCmiuMBZfBy.png"
           },
           "bannerImage": null,
-          "nextAiringEpisode": null,
+          "nextAiringEpisode": {
+            "airingAt": 1787842800,
+            "episode": 2
+          },
           "isAdult": true,
           "genres": [
             "Hentai"
@@ -2960,14 +2923,14 @@
           "studios": {
             "nodes": [
               {
-                "name": "Shion"
+                "name": "Majin petit"
               }
             ]
           },
-          "description": "<p>It had been two months since they started dating, but Yui and Naoya still weren’t used to being a couple. Just then, a man passing by called out to them. <i>“Yui-chan?”</i> At that moment, Yui was speechless. Standing there was the man who had been her first. Before they started dating, driven by curiosity about sex, Yui had slept with him. The man threatens to reveal her past actions to her boyfriend. And so, once again, Yui finds herself harboring a secret she can't tell her boyfriend…<br />\n<br><br><br />\n(Source: PinkPineapple, translated)</p>",
+          "description": "<p>Based on the erotic doujin game by Shiganai Atelier (シガナイアトリエ).<br />\n<br><br><br />\nThe four suns that bestow blessings upon the world. When one of them vanished, the people mourned deeply. Naia, an aerial explorer who ventures across the skies, and Mano, an automaton, set out to investigate the Tower in the Mist—the place where the sun was said to have fallen—but they were caught in a storm, and their airship malfunctioned. While repairing it inside the tower, they decided to search for the sun.</p>\n<p><I>“Well then, I’m off to investigate right away!”</i></p>\n<p>However, the interior of the tower was an eerie space—a complex labyrinth teeming with countless monsters. To make matters worse, a ghost appeared, and Naia was captured. The ghost was controlled by Mary, a girl with a mysterious past. Though she seems somewhat carefree, she appears to show absolutely no mercy to intruders in the tower…</p>\n<p>A tanned, energetic girl raised in the tropics and a fair-skinned, soft-skinned automaton (mechanical doll). The erotic adventure drama woven by this black-and-white, mismatched duo is about to begin!!<br />\n<br><br><br />\n(Source: Getchu, translated)</p>",
           "externalLinks": [],
           "isMyList": false,
-          "descriptionTr": "Çıkmaya başlayalı iki ay olmuştu ama Yui ve Naoya hâlâ çift olmaya alışamamışlardı. Tam o sırada yoldan geçen bir adam onlara seslendi. “Yui-chan?” O anda Yui'nin dili tutulmuştu. Orada, onun ilki olan adam duruyordu. Onlar çıkmaya başlamadan önce seks merakı nedeniyle Yui onunla yatmıştı. Adam, geçmişteki eylemlerini erkek arkadaşına açıklamakla tehdit eder. Ve böylece Yui bir kez daha kendini erkek arkadaşına söyleyemediği bir sırrın içinde bulur...<br><br>(Kaynak: PinkPineapple, çevrildi)"
+          "descriptionTr": "Shiganai Atelier'in (シガナイアトリエ) erotik doujin oyununa dayanmaktadır.<br><br>Dünyaya bereket veren dört güneş. Bunlardan biri ortadan kaybolduğunda halk derin bir yas tuttu. Gökyüzünde gezinen hava kaşifi Naia ve bir otomat olan Mano, Sisteki Kule'yi (güneşin düştüğü söylenen yer) araştırmak için yola çıktılar, ancak bir fırtınaya yakalandılar ve zeplinleri arızalandı. Kulenin içinde tamir ederken güneşi aramaya karar verdiler.<br><br>“Peki o zaman hemen araştırmaya gidiyorum!”<br><br>Ancak kulenin içi ürkütücü bir alandı; sayısız canavarla dolu karmaşık bir labirent. Daha da kötüsü bir hayalet ortaya çıktı ve Naia yakalandı. Hayalet, gizemli bir geçmişe sahip bir kız olan Mary tarafından kontrol ediliyordu. Her ne kadar biraz kaygısız görünse de, kuleye giren davetsiz misafirlere kesinlikle hiç merhamet göstermiyor gibi görünüyor...<br><br>Tropik bölgelerde büyümüş, bronz tenli, enerjik bir kız ve açık tenli, yumuşak tenli bir otomat (mekanik oyuncak bebek). Bu siyah-beyaz, uyumsuz ikilinin ördüğü erotik macera draması başlamak üzere!!<br><br>(Kaynak: Getchu, çevrildi)"
         },
         {
           "id": 209541,
@@ -3041,6 +3004,43 @@
           ],
           "isMyList": false,
           "descriptionTr": "3. Sezonda, tanıdık Gizemli Eğlence Parkı ve Şeker Cenneti'ne ek olarak, canlı bir performans sahnesi de dahil olmak üzere pek çok yeni mekan görücüye çıkacak!<br><br>Ayrıca PetitCure Mofurun ve PetitCure Pollun gibi aktif kahramanlarımızın arasına PetitCure Purirun ve PetitCure Meroron gibi yeni arkadaşlar da katılacak!<br><br>Bir arkadaşınızla birlikteyken her şey daha da tatlı! ♪<br><br>Lütfen tüm sevimli PetitCure tarafından kendinizi rahat ve iyileşmiş hissetmenizi sağlayacak daha iç açıcı ve esprili hikayeleri sabırsızlıkla bekleyin. ♡<br><br>(Kaynak: Resmi İnternet Sitesi)"
+        },
+        {
+          "id": 210116,
+          "title": {
+            "romaji": "Kare no Shiranai Himitsu wo Irete. The Animation",
+            "english": null,
+            "native": "彼の知らない秘密を入れて。 The Animation"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 6,
+            "day": 26
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210116-CRuoaXeZO5qU.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210116-CRuoaXeZO5qU.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": null,
+          "isAdult": true,
+          "genres": [
+            "Hentai"
+          ],
+          "tags": [],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Shion"
+              }
+            ]
+          },
+          "description": "<p>It had been two months since they started dating, but Yui and Naoya still weren’t used to being a couple. Just then, a man passing by called out to them. <i>“Yui-chan?”</i> At that moment, Yui was speechless. Standing there was the man who had been her first. Before they started dating, driven by curiosity about sex, Yui had slept with him. The man threatens to reveal her past actions to her boyfriend. And so, once again, Yui finds herself harboring a secret she can't tell her boyfriend…<br />\n<br><br><br />\n(Source: PinkPineapple, translated)</p>",
+          "externalLinks": [],
+          "isMyList": false,
+          "descriptionTr": "Çıkmaya başlayalı iki ay olmuştu ama Yui ve Naoya hâlâ çift olmaya alışamamışlardı. Tam o sırada yoldan geçen bir adam onlara seslendi. “Yui-chan?” O anda Yui'nin dili tutulmuştu. Orada, onun ilki olan adam duruyordu. Onlar çıkmaya başlamadan önce seks merakı nedeniyle Yui onunla yatmıştı. Adam, geçmişteki eylemlerini erkek arkadaşına açıklamakla tehdit eder. Ve böylece Yui bir kez daha kendini erkek arkadaşına söyleyemediği bir sırrın içinde bulur...<br><br>(Kaynak: PinkPineapple, çevrildi)"
         },
         {
           "id": 209873,
