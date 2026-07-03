@@ -17,7 +17,7 @@
           "startDate": {
             "year": 2026,
             "month": 7,
-            "day": 6
+            "day": 4
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
@@ -25,7 +25,7 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178789-9nHWmoRLlcLu.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1783263600,
+            "airingAt": 1783162800,
             "episode": 1
           },
           "isAdult": false,
@@ -529,7 +529,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "BLEACH'in dördüncü ve son bölümü: Sennen Kessen-hen. <br><br>Soul Reaper'lar ve Quincy'ler arasındaki Bin Yıllık Kan Savaşı'nın sonunda yıkım ufukta beliriyor... Soul King'in ölümü Üç Dünyanın çöküşünü yansıtırken, çarpıklıklar ve yıkım alametleri tüm diyarlarda görünmeye başlıyor.<br><br>Wahr Welt'te On Üç Saray Muhafız Birliği ile Kraliyet Muhafızları arasında şiddetli çatışmalar yaşanıyor. Ichigo, Uryuu'nun gerçek niyetini öğrenir ve birbirlerine güvenen arkadaşlar olarak dünyayı birlikte koruma kararlılığını tazeler. Yhwach kendi yeteneğini bile aştı, Yüce...<br><br>Üç Dünya'nın hayatta kalması için verilen şiddetli savaş sona yaklaşıyor. Felaket kaosunun ötesinde, bizi bekleyen ne var; umutsuzluk mu yoksa umut mu?<br><br>(Kaynak: VIZ Media, düzenlendi)"
+          "descriptionTr": "BLEACH'in dördüncü ve son bölümü: Sennen Kessen-hen. <br><br>Soul Reaper'lar ve Quincy'ler arasındaki Bin Yıllık Kan Savaşı'nın sonunda yıkım ufukta beliriyor... Soul King'in ölümü Üç Dünyanın çöküşünü yansıtırken, çarpıtmalar ve yıkım alametleri tüm diyarlarda görünmeye başlıyor.<br><br>Wahr Welt'te On Üç Saray Muhafız Birliği ile Kraliyet Muhafızları arasında şiddetli çatışmalar yaşanıyor. Ichigo, Uryuu'nun gerçek niyetini öğrenir ve birbirlerine güvenen arkadaşlar olarak dünyayı birlikte koruma kararlılığını tazeler. Yhwach kendi yeteneğini bile aştı, Yüce...<br><br>Üç Dünya'nın hayatta kalması için verilen şiddetli savaş sona yaklaşıyor. Felaket kaosunun ötesinde, bizi bekleyen ne var; umutsuzluk mu yoksa umut mu?<br><br>(Kaynak: VIZ Media, düzenlendi)"
         },
         {
           "id": 133007,
@@ -1447,8 +1447,8 @@
             "day": 8
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-aBGjk68756e4.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194829-aBGjk68756e4.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-bZKwhfo60EuF.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194829-bZKwhfo60EuF.jpg"
           },
           "bannerImage": null,
           "nextAiringEpisode": {
@@ -1725,7 +1725,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Her ne kadar kaba ve yıpranmış gibi görünse de, konu iletişim kurabildiği tüylü yaratıklara gelince Jiro Azuma'nın şefkatli tarafı ortaya çıkıyor. Ancak Jiro'nun hayvanlara karşı zaafı, şüpheli bir başıboş kedinin onunla kaynaşması ve ona olağanüstü bir güç vermesiyle birlikte onu insanlığın güçlü Japon ruhları olan mononoke'ye karşı gizli savaşının içine sürüklediğinde başını büyük belaya sokar.<br><br>(Kaynak: VIZ Medya)"
+          "descriptionTr": "Her ne kadar kaba ve yıpranmış gibi görünse de, konu iletişim kurabildiği tüylü yaratıklara gelince Jiro Azuma'nın şefkatli tarafı ortaya çıkıyor. Ancak Jiro'nun hayvanlara karşı zayıf noktası, şüpheli bir başıboş kedinin onunla kaynaşması ve ona olağanüstü bir güç vermesiyle birlikte onu insanlığın güçlü Japon ruhları olan mononoke'ye karşı gizli savaşının içine sürüklediğinde başını büyük belaya sokar.<br><br>(Kaynak: VIZ Medya)"
         },
         {
           "id": 208044,
@@ -1749,8 +1749,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1783004400,
-            "episode": 2
+            "airingAt": 1783609200,
+            "episode": 3
           },
           "isAdult": false,
           "genres": [
@@ -1776,6 +1776,10 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Estranged Family",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Magic",
               "isMediaSpoiler": false
             },
@@ -1793,6 +1797,14 @@
             },
             {
               "name": "Dragons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Medieval",
               "isMediaSpoiler": false
             }
           ],
@@ -1844,8 +1856,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1783005960,
-            "episode": 1
+            "airingAt": 1783610760,
+            "episode": 2
           },
           "isAdult": false,
           "genres": [
@@ -1870,7 +1882,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
               "isMediaSpoiler": false
             }
           ],
@@ -2011,8 +2035,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207141-MvHAS2YVfJzL.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1783006200,
-            "episode": 1
+            "airingAt": 1783611000,
+            "episode": 2
           },
           "isAdult": false,
           "genres": [
@@ -2021,15 +2045,7 @@
           ],
           "tags": [
             {
-              "name": "Nekomimi",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Drugs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -2037,7 +2053,27 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nekomimi",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Hikikomori",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Survival",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
               "isMediaSpoiler": false
             },
             {
@@ -2045,7 +2081,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Hikikomori",
+              "name": "Masturbation",
               "isMediaSpoiler": false
             },
             {
@@ -2085,11 +2121,15 @@
             },
             {
               "site": "OceanVeil",
-              "url": "https://oceanveil.net/anime_titles/"
+              "url": "https://oceanveil.net/anime_titles/461"
             },
             {
               "site": "OceanVeil",
-              "url": "https://oceanveil.net/anime_titles/"
+              "url": "https://oceanveil.net/anime_titles/462"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://youtube.com/playlist?list=PLeab-nOhLGOw&si=BpJWffksrl6gmKCi"
             }
           ],
           "isMyList": false,
@@ -2229,7 +2269,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Annesini ve vatanını kaybeden Sitara'nın çaresizliği, bilginin gücüyle kararlılığa dönüşür. Akademisyenlerden oluşan bir aile onu yanına alıp eğitimini derinleştirdiğinde yeni olasılıklar ortaya çıkar. Bu arada Cengiz Han'ın Moğol İmparatorluğu, Sitara'nın yeni evine yaklaşarak ulusları fethediyor. İmparatorluğun Dördüncü Prensi onu esir aldıktan sonra intikam ateşi alevlenir.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Annesini ve vatanını kaybeden Sitara'nın çaresizliği, bilginin gücüyle kararlılığa dönüşür. Akademisyenlerden oluşan bir aile onu yanına alıp eğitimini derinleştirdiğinde yeni olasılıklar ortaya çıkar. Bu arada Cengiz Han'ın Moğol İmparatorluğu, Sitara'nın yeni evine yaklaşarak ulusları fethediyor. İmparatorluğun Dördüncü Prensi onu esir alınca intikam ateşi alevlenir.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 197715,
@@ -2414,7 +2454,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Mitsuki Aya'nın seçkin Kuromi Kız Akademisi'nde tek bir hedefi vardır: okulun kusursuz \"Beyaz Zambak\"ı Yorue Mio gibi zarif bir genç bayan olmak. Ancak Aya yanlışlıkla onu dövüş oyunları oynarken yakalayınca Mio'ya dair imajı paramparça olur? Zarif Mio'nun aslında sıkı bir oyuncu olduğu ve Aya ile düello yapmak istediği ortaya çıktı! Savaş (ve onların dostluğu) başlar.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Mitsuki Aya'nın seçkin Kuromi Kız Akademisi'nde tek bir hedefi vardır: okulun kusursuz \"Beyaz Zambak\"ı Yorue Mio gibi zarif bir genç bayan olmak. Ama Aya yanlışlıkla onu dövüş oyunları oynarken yakalayınca Mio'ya dair imajı paramparça oluyor? Zarif Mio'nun aslında sıkı bir oyuncu olduğu ve Aya ile düello yapmak istediği ortaya çıktı! Savaş (ve onların dostluğu) başlar.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 209983,
@@ -2578,7 +2618,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Beş Klan'ın bakireleri Veliaht Prens'in kalbi için savaşırken kıskanç Keigetsu, sevgili Reirin'le beden değiştirmek için yasak büyüyü kullanır. Yeni vücudunun kötü sağlık durumu onu ölümün eşiğine getirdiğinden, yer değiştirmek Keigetsu'nun mutluluğunu garanti etmez. Bu arada, artık küçümsenmiş bir serseri yüzüne bürünen Reirin, tehlikeli bir duruşmada Keigetsu'nun suçlarına cevap vermek zorundadır.<br><br>Beklenmedik ikili giderek birbirlerinin hayatlarına karışıyor ve sarayın güler yüzlü yüzeyinin altında gelişen karanlık komploları keşfettikten sonra hayatta kalmak için birlikte çalışmaları gerekecek. Gölgelerde gizlenen ölümcül tehditlerle yüzleşmek için Reirin'in yeni kimliğini benimsemesi ve mahkemenin beceriksiz kötülüğüne ilişkin beklentilerine meydan okuması gerekiyor.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Beş Klan'ın bakireleri Veliaht Prens'in kalbi için savaşırken kıskanç Keigetsu, sevgili Reirin'le beden değiştirmek için yasak büyüyü kullanır. Yeni vücudunun kötü sağlık durumu onu ölümün eşiğine getirdiğinden yer değiştirmek Keigetsu'nun mutluluğunu garanti etmez. Bu arada, artık küçümsenmiş bir serseri yüzüne bürünen Reirin, tehlikeli bir duruşmada Keigetsu'nun suçlarının hesabını vermek zorundadır.<br><br>Beklenmedik ikili giderek birbirlerinin hayatlarına karışıyor ve sarayın güler yüzlü yüzeyinin altında gelişen karanlık komploları keşfettikten sonra hayatta kalmak için birlikte çalışmaları gerekecek. Gölgelerde gizlenen ölümcül tehditlerle yüzleşmek için Reirin'in yeni kimliğini benimsemesi ve mahkemenin beceriksiz kötülüğüne ilişkin beklentilerine meydan okuması gerekiyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 206521,
@@ -2620,11 +2660,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Musical Theater",
+              "name": "Acting",
               "isMediaSpoiler": false
             },
             {
-              "name": "Acting",
+              "name": "Musical Theater",
               "isMediaSpoiler": false
             },
             {
@@ -2632,11 +2672,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Seinen",
+              "name": "Biographical",
               "isMediaSpoiler": false
             },
             {
-              "name": "Biographical",
+              "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
@@ -2845,7 +2885,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Çocukluk arkadaşımla tekrar karşılaştım, çok güzel ve masum bir kız olmuştu.<br><br>\"Uzun zaman oldu Hayato.\"<br><br>\"Haruki, öyle mi?\"<br><br>Eskiden çocukluk arkadaşımla kırsalda çamurda oynardık ve onu tekrar gördüğümde o zamanlar olduğunu sandığım şımarık gençten eser yoktu. Ancak Hayato'nun önünde üzerindeki paltoyu attı ve o zamanki gibi kaba bir tepki verdi. Seninle benim aramdaki mesafe değişmedi.<br><br>(Kaynak: Shousetsuka ni Narou, tercüme)"
+          "descriptionTr": "Çocukluk arkadaşımla tekrar karşılaştım, çok güzel ve masum bir kız olmuştu.<br><br>\"Uzun zaman oldu Hayato.\"<br><br>\"Haruki, öyle mi?\"<br><br>Eskiden çocukluk arkadaşımla kırsalda çamurda oynardık ve onu tekrar gördüğümde o zamanlar olduğunu sandığım şımarık gençten eser kalmamıştı. Ancak Hayato'nun önünde üzerindeki paltoyu attı ve o zamanki gibi kaba bir tepki verdi. Seninle benim aramdaki mesafe değişmedi.<br><br>(Kaynak: Shousetsuka ni Narou, tercüme)"
         },
         {
           "id": 177637,
@@ -3051,8 +3091,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204466-cpbNGN9qHrGP.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1783009680,
-            "episode": 1
+            "airingAt": 1783614480,
+            "episode": 2
           },
           "isAdult": false,
           "genres": [
@@ -3062,11 +3102,11 @@
           ],
           "tags": [
             {
-              "name": "Heterosexual",
+              "name": "Kaiju",
               "isMediaSpoiler": false
             },
             {
-              "name": "Kaiju",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -3082,11 +3122,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Tokusatsu",
+              "name": "Henshin",
               "isMediaSpoiler": false
             },
             {
-              "name": "Henshin",
+              "name": "Coming of Age",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Body Image",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tokusatsu",
               "isMediaSpoiler": false
             },
             {
@@ -3098,15 +3146,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
               "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
               "isMediaSpoiler": false
             }
           ],
@@ -3131,6 +3179,10 @@
             {
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/GT00378081/kaiju-girl-caramelise"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl38hoyHQ6-C5HAQ9lJ5jkdG"
             }
           ],
           "isMyList": false,
@@ -3252,6 +3304,30 @@
             },
             {
               "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kemonomimi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Skip",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Regression",
               "isMediaSpoiler": false
             }
           ],
@@ -3586,7 +3662,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kayıp krallığın Prensesi Safir. \"Nergal\" olarak bilinen felaket nedeniyle memleketi Silverland'deki her şeyden mahrum kalan sanatçı, umutsuzluğun en derin noktasında Goldland'e geldi. Geçmişinin ağırlığını taşırken insanların nezaketinde bir umut ışığı bulmaya başladı. Ancak onun huzurlu günlük yaşamıyla alay edercesine, \"Nergal\" felaketi bir kez daha karşımıza çıkar. Vatanını küle çeviren çaresizlik, şimdi bu toprakların ışığını da çalmakla tehdit ediyor.<br><br>\"Benim için artık kayıp yok. Kimse için artık kayıp yok.\" <br><br>Genç kız, üzüntü korkusunu bir kenara bırakarak kılıcını alır. <br>Bu, kurdelesini bağlayıp kadere meydan okumaya karar veren bir kahramanın hikayesidir. <br><br>(Kaynak: THE RIBBON HERO Resmi Sitesi)<br><br> Not: Bu anime Osamu Tezuka'nın \"Princess Knight\" adlı mangasından esinlenilmiştir."
+          "descriptionTr": "Kayıp krallığın Prensesi Safir. \"Nergal\" olarak bilinen felaket nedeniyle memleketi Silverland'deki her şeyden mahrum kalan o, umutsuzluğun en derin noktasında Goldland'e geldi. Geçmişinin ağırlığını taşırken insanların nezaketinde bir umut ışığı bulmaya başladı. Ancak onun huzurlu günlük yaşamıyla alay edercesine, \"Nergal\" felaketi bir kez daha karşımıza çıkar. Vatanını küle çeviren çaresizlik, şimdi bu toprakların ışığını da çalmakla tehdit ediyor.<br><br>\"Benim için artık kayıp yok. Kimse için artık kayıp yok.\" <br><br>Genç kız, üzüntü korkusunu bir kenara bırakarak kılıcını alır. <br>Bu, kurdelesini bağlayıp kadere meydan okumaya karar veren bir kahramanın hikayesidir. <br><br>(Kaynak: THE RIBBON HERO Resmi Sitesi)<br><br> Not: Bu anime Osamu Tezuka'nın \"Princess Knight\" adlı mangasından esinlenilmiştir."
         },
         {
           "id": 196219,
@@ -3737,7 +3813,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "ONE PIECE romanı HEROINES adlı roman serisinden uyarlanan, tek bölümlü “bölüm: NAMI” anime uyarlamasına kavuşuyor.<br><br>Ayaklarını acıtan bir çift ayakkabı satın alan Nami, mağazaya tatminsiz bir şekilde döner.<br><br>Orada tasarımcı Lebno ile tanışır ve Lebno ona şöyle der: \"Sana sıfırdan yepyeni bir çift yapacağım ama sadece benim modelim olursan.\"<br><br>Ayakkabılar zanaatkar Miucha tarafından üretiliyor ve beklenmedik ve şık bir karşılaşmaya yol açıyor.<br><br>(Kaynak: Toei Animasyonu)"
+          "descriptionTr": "ONE PIECE romanı HEROINES adlı roman serisinden uyarlanan, tek bölümlü “bölüm: NAMI” anime uyarlamasına kavuşuyor.<br><br>Ayaklarını acıtan bir çift ayakkabı satın alan Nami, mağazaya tatminsiz bir şekilde döner.<br><br>Orada tasarımcı Lebno ile tanışır ve Lebno ona şöyle der: \"Sana sıfırdan yepyeni bir çift yapacağım, ama sadece benim modelim olursan.\"<br><br>Ayakkabılar, zanaatkar Miucha tarafından üretiliyor ve beklenmedik ve şık bir karşılaşmaya yol açıyor.<br><br>(Kaynak: Toei Animasyonu)"
         },
         {
           "id": 209961,
@@ -3808,7 +3884,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Shibou Yuugi de Meshi wo Kuu'nun teatral devamı.<br><br>Bu çılgın bir dünyanın hikayesi.  <br><br>Oyuncu adı: Yuuki. Mesleği: Ölümcül oyunlarda profesyonel. <br><br>\"Otuz Oyun Duvarı\" olarak bilinen ve oyuncuların hayatta kalma oranını büyük ölçüde azaltan uğursuzluğun üstesinden gelen Yuuki, yolculuğuna devam ediyor. Ölümün her zaman yakın olduğu bir oyun. Daha sonra okyanusun ortasındaki uzak bir adaya saldırır. Sekiz oyuncu orada toplandı. Bunların arasında Yuuki'nin tanıdığı tecrübeli gaziler de var. Oyunun adı \"Bulutlu Plaj\". Duvarın ötesinde yalnızca duvarı aşanlar kalır. Bugün bir kez daha ölümcül oyunlar oynayarak geçimini sağlıyor. <br><br> (Kaynak: Resmi Site, tercüme)"
+          "descriptionTr": "Shibou Yuugi de Meshi wo Kuu'nun teatral devamı.<br><br>Bu çılgın bir dünyanın hikayesi.  <br><br>Oyuncu adı: Yuuki. Mesleği: Ölümcül oyunlarda profesyonel. <br><br>\"Otuz Oyun Duvarı\" olarak bilinen ve oyuncuların hayatta kalma oranını büyük ölçüde azaltan uğursuzluğun üstesinden gelen Yuuki, yolculuğuna devam ediyor. Ölümün her zaman yakın olduğu bir oyun. Daha sonra okyanusun ortasındaki uzak bir adaya saldırıyor. Sekiz oyuncu orada toplandı. Bunların arasında Yuuki'nin tanıdığı tecrübeli gaziler de var. Oyunun adı \"Bulutlu Plaj\". Duvarın ötesinde yalnızca duvarı aşanlar kalır. Bugün bir kez daha ölümcül oyunlar oynayarak geçimini sağlıyor. <br><br> (Kaynak: Resmi Site, tercüme)"
         },
         {
           "id": 169582,
@@ -3886,7 +3962,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Adrasia İmparatorluğu'nun yedinci İmparatorluk Prensi Arnold, ikiz kardeşinin dahi olması ve tüm insanlar tarafından saygı duyulması nedeniyle halk arasında \"YARISIZ PRENS\" olarak anılır. Ancak gizli bir kimliği var: GÜMÜŞ, kıtadaki tek SS seviyeli beş maceracıdan biri. Küçük kardeşi Leo tahtı hedeflemeye karar verdiğinde Arnold, kardeşine destek olmak için perde arkasında işleri yürütmeye başlar. Beklenmedik bir şekilde en güzel bayan onun asistanı olur. En güçlü prensin gizli mücadelesi başlıyor!<br><br>(Kaynak: Kadokawa)"
+          "descriptionTr": "Adrasia İmparatorluğu'nun yedinci İmparatorluk Prensi Arnold, ikiz kardeşinin dahi olması ve tüm insanlar tarafından saygı duyulması nedeniyle halk arasında \"YASIZ PRENS\" olarak anılır. Ancak gizli bir kimliği var: GÜMÜŞ, kıtadaki tek SS seviyeli beş maceracıdan biri. Küçük kardeşi Leo tahtı hedeflemeye karar verdiğinde Arnold, kardeşine destek olmak için perde arkasında işleri yürütmeye başlar. Beklenmedik bir şekilde en güzel bayan onun asistanı olur. En güçlü prensin gizli mücadelesi başlıyor!<br><br>(Kaynak: Kadokawa)"
         },
         {
           "id": 198409,
@@ -4040,6 +4116,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Rural",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Transgender",
               "isMediaSpoiler": false
             }
@@ -4068,7 +4148,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Dias onlarca yıldır süren savaşın ardından nihayet evine döner. Bir kahraman olarak selamlandı ve hemen kendi alanıyla ödüllendirildi... bu alanın boş ovalardan pek de fazlası olmadığı ortaya çıktı. Nüfus: sıfır. Şimdiye kadar yalnızca savaşı bilen Dias, kendini çaresiz durumda bulur. Görebildiği kadarıyla çimenden başka bir şey yokken, bırakın topraklarını gelişen, müreffeh bir egemenliğe dönüştürmek şöyle dursun, nasıl hayatta kalacak?<br><br>Neyse ki Dias'a, Alna adındaki boynuzlu bir kız, ona ovalarda göründüğünden çok daha fazlası olduğunu göstermek üzere!<br><br>(Kaynak: J-Novel Kulübü)<br><br>Not: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama, 3 Temmuz 2026'dan itibaren Prime Video'da TV yayınının bir haftalık akışını yayınlıyor. Normal yayın 10 Temmuz 2026'da başlıyor."
+          "descriptionTr": "Dias onlarca yıldır süren savaşın ardından nihayet evine döner. Bir kahraman olarak selamlandı ve hemen kendi alanıyla ödüllendirildi... ki bu alanın boş ovalardan pek de fazlası olmadığı ortaya çıktı. Nüfus: sıfır. Şimdiye kadar yalnızca savaşı bilen Dias, kendini çaresiz durumda bulur. Görebildiği kadarıyla çimenden başka bir şey yokken, bırakın topraklarını gelişen, müreffeh bir egemenliğe dönüştürmek şöyle dursun, nasıl hayatta kalacak?<br><br>Neyse ki Dias'a, Alna adındaki boynuzlu bir kız, ona ovalarda göründüğünden çok daha fazlası olduğunu göstermek üzere!<br><br>(Kaynak: J-Novel Kulübü)<br><br>Not: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama, 3 Temmuz 2026'dan itibaren Prime Video'da TV yayınının bir haftalık akışını yayınlıyor. Normal yayın 10 Temmuz 2026'da başlıyor."
         },
         {
           "id": 199066,
@@ -4154,7 +4234,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bir zamanlar Şeytan Kral olan şimdi NEET'e kapanmış bir kişi olan Ryuusei Narukami'nin ikinci hayatı hiç de huzurlu değil! Bir zamanlar onu mağlup eden kahraman Meteor Hanaori aniden normal bir liseli kız olarak geri döndüğünde dünyası kaosa sürüklenir. Değişmeye kararlı olan Ryuusei, öğretmen olarak topluma yeniden girer ve sonunda okulunda öğretmenlik yapmaya başlar! Heyecan verici buluşmaları geçmişi yeniden alevlendirir ve beklenmedik bir aşkın fitilini ateşler!<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Bir zamanlar Şeytan Kral olan şimdi NEET'e kapanmış bir kişi olan Ryuusei Narukami'nin ikinci hayatı hiç de huzurlu değil! Bir zamanlar onu mağlup eden kahraman Meteor Hanaori aniden normal bir liseli kız olarak geri döndüğünde dünyası kaosa sürüklenir. Değişmeye kararlı olan Ryuusei, öğretmen olarak topluma yeniden girer ve sonunda kendi okulunda öğretmenlik yapar! Heyecan verici buluşmaları geçmişi yeniden alevlendirir ve beklenmedik bir aşkın fitilini ateşler!<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 199408,
@@ -4619,7 +4699,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Japon tarzı bir ayakaşi Cinderella hikayesi! \"Bunca zamandır aradığım gelin sensin.\" Ayakaşiler ve insanlar uyum içinde bir arada yaşarlar. Üstün yeteneklere ve güzel görünüme sahip olan ayakaşiler, bazen insan kadınları arasında kendilerine eş bularak onları \"gelinleri\" haline getirirler. Gelin, refah getirmesi karşılığında ayakaşiden mutlak sevgi alır. Yuzu sürekli olarak şeytan tilkinin gelini olan kız kardeşiyle karşılaştırılıyor ve ailesi tarafından her gün kızıyor. Bir gün Yuzu artık hiçbir şeye dayanamadığında, köprüde karşısına bir adam çıkar. Bu adam Yuzu'nun gördüğü en güzel adam... ve ona karısı mı diyor?! \"Sessiz ol ve sana sarılmama izin ver.\" En güçlü, \"soğuk kalpli\" ayakaşi, Yuzu için kalbini mi döküyor?!<br><br>(Kaynak: MangaPlaza)"
+          "descriptionTr": "Japon tarzı bir ayakaşi Cinderella hikayesi! \"Bunca zamandır aradığım gelin sensin.\" Ayakaşiler ve insanlar uyum içinde bir arada yaşarlar. Üstün yeteneklere ve güzel görünüme sahip olan ayakaşiler, bazen insan kadınları arasında kendilerine eş bularak onları \"gelinleri\" haline getirirler. Gelin, refah getirmesi karşılığında ayakaşiden mutlak sevgi alır. Yuzu sürekli olarak şeytan tilkinin gelini olan kız kardeşiyle karşılaştırılıyor ve ailesi tarafından her gün kızıyor. Bir gün Yuzu artık hiçbir şeye dayanamadığında, köprüde karşısına bir adam çıkar. Bu adam Yuzu'nun şimdiye kadar gördüğü en güzel adam... ve ona karısı mı diyor?! \"Sessiz ol ve sana sarılmama izin ver.\" En güçlü, \"soğuk kalpli\" ayakaşi, Yuzu için kalbini mi döküyor?!<br><br>(Kaynak: MangaPlaza)"
         },
         {
           "id": 208754,
