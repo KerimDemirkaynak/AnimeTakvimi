@@ -62,15 +62,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Polyamorous",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
               "isMediaSpoiler": false
             },
             {
@@ -78,7 +70,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Polyamorous",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Coming of Age",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Snowscape",
               "isMediaSpoiler": false
             },
             {
@@ -86,11 +90,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Revenge",
+              "name": "Time Loop",
               "isMediaSpoiler": true
             },
             {
-              "name": "Time Loop",
+              "name": "Revenge",
               "isMediaSpoiler": true
             },
             {
@@ -106,6 +110,10 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Politics",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Time Manipulation",
               "isMediaSpoiler": true
             },
@@ -114,11 +122,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Elf",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Elf",
+              "name": "Kemonomimi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Maids",
               "isMediaSpoiler": false
             },
             {
@@ -126,15 +142,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Politics",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Disability",
               "isMediaSpoiler": false
             },
             {
-              "name": "Maids",
+              "name": "College",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Delinquents",
               "isMediaSpoiler": false
             },
             {
@@ -146,20 +162,8 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Kemonomimi",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "College",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Desert",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Delinquents",
-              "isMediaSpoiler": false
             }
           ],
           "averageScore": 86,
@@ -546,7 +550,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "BLEACH'in dördüncü ve son bölümü: Sennen Kessen-hen. <br><br>Soul Reaper'lar ve Quincy'ler arasındaki Bin Yıllık Kan Savaşı'nın sonunda yıkım ufukta beliriyor... Soul King'in ölümü Üç Dünyanın çöküşünü yansıtırken, çarpıklıklar ve yıkım alametleri tüm diyarlarda görünmeye başlıyor.<br><br>Wahr Welt'te On Üç Saray Muhafız Birliği ile Kraliyet Muhafızları arasında şiddetli çatışmalar yaşanıyor. Ichigo, Uryuu'nun gerçek niyetini öğrenir ve birbirlerine güvenen arkadaşlar olarak dünyayı birlikte koruma kararlılığını tazeler. Yhwach kendi yeteneğini bile aştı, Yüce...<br><br>Üç Dünya'nın hayatta kalması için verilen şiddetli savaş sona yaklaşıyor. Felaket kaosunun ötesinde, bizi bekleyen ne var; umutsuzluk mu yoksa umut mu?<br><br>(Kaynak: VIZ Media, düzenlendi)"
+          "descriptionTr": "BLEACH'in dördüncü ve son bölümü: Sennen Kessen-hen. <br><br>Soul Reaper'lar ve Quincy'ler arasındaki Bin Yıllık Kan Savaşı'nın sonunda yıkım ufukta beliriyor... Soul King'in ölümü Üç Dünyanın çöküşünü yansıtırken, çarpıtmalar ve yıkım alametleri tüm diyarlarda görünmeye başlıyor.<br><br>Wahr Welt'te On Üç Saray Muhafız Birliği ile Kraliyet Muhafızları arasında şiddetli çatışmalar yaşanıyor. Ichigo, Uryuu'nun gerçek niyetini öğrenir ve birbirlerine güvenen arkadaşlar olarak dünyayı birlikte koruma kararlılığını tazeler. Yhwach kendi yeteneğini bile aştı, Yüce...<br><br>Üç Dünya'nın hayatta kalması için verilen şiddetli savaş sona yaklaşıyor. Felaket kaosunun ötesinde, bizi bekleyen ne var; umutsuzluk mu yoksa umut mu?<br><br>(Kaynak: VIZ Media, düzenlendi)"
         },
         {
           "id": 133007,
@@ -1028,13 +1032,13 @@
             "day": 5
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-ORmCjr9wDgbM.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-ORmCjr9wDgbM.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-IF43hFJPPv2Y.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png"
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103303-K73aVOqkCPqL.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1783260000,
-            "episode": 1
+            "airingAt": 1783864800,
+            "episode": 2
           },
           "isAdult": false,
           "genres": [
@@ -1047,15 +1051,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Historical",
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -1064,6 +1072,14 @@
             },
             {
               "name": "Advertisement",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "War",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Software Development",
               "isMediaSpoiler": false
             }
           ],
@@ -1361,19 +1377,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Nekomimi",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Kemonomimi",
+              "name": "Nekomimi",
               "isMediaSpoiler": false
             },
             {
-              "name": "Episodic",
+              "name": "Kemonomimi",
               "isMediaSpoiler": false
             },
             {
@@ -1385,27 +1397,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Survival",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Hikikomori",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Scat",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Masturbation",
+              "name": "Episodic",
               "isMediaSpoiler": false
             },
             {
@@ -1413,7 +1405,39 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Masturbation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Scat",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Survival",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Hikikomori",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
               "isMediaSpoiler": false
             }
           ],
@@ -1714,7 +1738,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yıl 2029. Yakın gelecekte Japonya'da, gezegeni kaplayan geniş bir şirket ağıyla, içinden elektronlar ve ışık saçılarak dünyanın son derece bilgi yoğunluklu hale geldiği yer. Ancak ulus devlet ve etnik gruplar hâlâ varlığını sürdürüyor.  <br><br> Tam vücutlu bir cyborg olan Motoko Kusanagi, Batou'nun da aralarında bulunduğu seçkin bir savaş birimine liderlik ediyor. Kusanagi, ekibine komuta ederken, ortaya çıkan tehditlere karşı önleyici saldırı yapacak özel bir görev gücü oluşturulmasını öngörüyor. Bu arada benzer bir birim kurmayı planlayan İçişleri Bakanlığı'ndan Daisuke Aramaki, Kusanagi ve ekibini işe aldı. Birlikte, \"Kabuk Takımı\" olarak bilinen saldırı taktiksel birimi olan Kamu Güvenliği Bölüm 9 olarak operasyonlara başlarlar. Karmaşık siber suçlar ve uluslararası komplolarla karşı karşıya kalırken, araştırmalarının ufkunda \"Kukla Ustası\" olarak bilinen gizemli, kimliği belirsiz bir hackerın varlığı ortaya çıkıyor. <br><br> Kusanagi'yi nasıl bir kader bekliyor? Peki Puppet Master'ın gerçek amacı nedir? Siberpunk aksiyonunda yeni bir dönem başlıyor.  <br><br>(Kaynak: 攻殻機動隊 THE GHOST IN THE SHELL Sitesi)"
+          "descriptionTr": "Yıl 2029. Yakın gelecekte Japonya'da, gezegeni kaplayan geniş bir şirket ağıyla, içinden elektronlar ve ışık saçılarak dünyanın son derece bilgi yoğunluklu hale geldiği yer. Ancak ulus devlet ve etnik gruplar hâlâ varlığını sürdürüyor.  <br><br> Tam vücutlu bir cyborg olan Motoko Kusanagi, Batou'nun da aralarında bulunduğu seçkin bir savaş birimine liderlik ediyor. Kusanagi, ekibine komuta ederken, ortaya çıkan tehditlere karşı önleyici saldırı yapacak özel bir görev gücü oluşturulmasını öngörüyor. Bu arada benzer bir birim kurmayı planlayan İçişleri Bakanlığı'ndan Daisuke Aramaki, Kusanagi ve ekibini işe aldı. Birlikte, \"Kabuk Takımı\" olarak bilinen saldırı taktiksel birimi olan Kamu Güvenliği Bölüm 9 olarak operasyonlara başlarlar. Karmaşık siber suçlar ve uluslararası komplolarla karşı karşıya kalırken, soruşturmalarının ufkunda \"Kukla Ustası\" olarak bilinen gizemli, kimliği belirsiz bir hackerın varlığı ortaya çıkıyor. <br><br> Kusanagi'yi nasıl bir kader bekliyor? Peki Puppet Master'ın gerçek amacı nedir? Siberpunk aksiyonunda yeni bir dönem başlıyor.  <br><br>(Kaynak: 攻殻機動隊 THE GHOST IN THE SHELL Sitesi)"
         },
         {
           "id": 199111,
@@ -2080,8 +2104,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1783258200,
-            "episode": 1
+            "airingAt": 1783863000,
+            "episode": 2
           },
           "isAdult": false,
           "genres": [
@@ -2120,6 +2144,30 @@
             },
             {
               "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Surreal Comedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tsundere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kuudere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Gap",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Maids",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Incest",
               "isMediaSpoiler": false
             }
           ],
@@ -2244,7 +2292,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Earthclear'da herkes sabit bir rolde doğar ve köylüler en zayıf olanlardır. Çoğu asla 5. Seviyenin üzerine çıkamaz; Seviye...999 olan Kouji Kagami hariç?! Bir canavar avında Şeytan Kral'ın kızı Alice ile tanışır ve imkansız bir hayali paylaştıklarını keşfeder: insanlarla şeytanların bir arada yaşaması. Çatışmaya mahkum bir dünyada, kadere meydan okumak ve kuralları yıkmak için savaşa giriyorlar.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Earthclear'da herkes sabit bir rolde doğar ve köylüler en zayıf olanlardır. Çoğu asla 5. Seviyenin üzerine çıkamaz — Seviye...999 olan Kouji Kagami hariç?! Bir canavar avında Şeytan Kral'ın kızı Alice ile tanışır ve imkansız bir hayali paylaştıklarını keşfeder: insanlarla şeytanların bir arada yaşaması. Çatışmaya mahkum bir dünyada, kadere meydan okumak ve kuralları yıkmak için savaşa giriyorlar.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 209983,
@@ -2358,6 +2406,10 @@
           ],
           "tags": [
             {
+              "name": "Tragedy",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
@@ -2366,11 +2418,15 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Royal Affairs",
               "isMediaSpoiler": false
             },
             {
-              "name": "Historical",
+              "name": "Foreign",
               "isMediaSpoiler": false
             },
             {
@@ -2378,7 +2434,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Foreign",
+              "name": "Slavery",
               "isMediaSpoiler": false
             },
             {
@@ -2388,10 +2444,6 @@
             {
               "name": "Politics",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
             },
             {
               "name": "War",
@@ -2410,7 +2462,7 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Slavery",
+              "name": "Religion",
               "isMediaSpoiler": false
             },
             {
@@ -2426,18 +2478,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Religion",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Class Struggle",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Biographical",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Desert",
               "isMediaSpoiler": false
             },
@@ -2447,6 +2487,14 @@
             },
             {
               "name": "Travel",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Class Struggle",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Biographical",
               "isMediaSpoiler": false
             },
             {
@@ -2490,7 +2538,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Annesini ve vatanını kaybeden Sitara'nın çaresizliği, bilginin gücüyle kararlılığa dönüşür. Akademisyenlerden oluşan bir aile onu yanına alıp eğitimini derinleştirdiğinde yeni olasılıklar ortaya çıkar. Bu arada Cengiz Han'ın Moğol İmparatorluğu, Sitara'nın yeni evine yaklaşarak ulusları fethediyor. İmparatorluğun Dördüncü Prensi onu esir aldıktan sonra intikam ateşi tutuşur.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Annesini ve vatanını kaybeden Sitara'nın çaresizliği, bilginin gücüyle kararlılığa dönüşür. Akademisyenlerden oluşan bir aile onu yanına alıp eğitimini derinleştirdiğinde yeni olasılıklar ortaya çıkar. Bu arada Cengiz Han'ın Moğol İmparatorluğu, Sitara'nın yeni evine yaklaşarak ulusları fethediyor. İmparatorluğun Dördüncü Prensi onu esir alınca intikam ateşi alevlenir.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 199748,
@@ -2597,7 +2645,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kahramanın grubundaki S seviye bir büyücü olan Luck, arkadaşlarını kurtarmak için Şeytan Kral'a karşı son bir duruş sergiliyor. Nihayet zaferle geri döndüğünde üzerinden on yıl geçmiştir ve dünya onu savaşta ölen efsanevi bir kahraman olarak övmektedir. Önceki hayatına geri dönemeyen Luck, kimliğini gizler ve onsuz devam eden bir dünyada geleceğini şekillendiren F sınıfı bir maceracı olan \"Lock\" olarak yeniden başlar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita, 3 Temmuz 2026'dan itibaren Prime Video'daki TV yayınından 3 gün önce yayınlanıyor. Normal yayın 6 Temmuz 2026'da başlıyor."
+          "descriptionTr": "Kahramanın grubundaki S seviye büyücü Luck, arkadaşlarını kurtarmak için Şeytan Kral'a karşı son bir direniş gösterir. Nihayet zaferle geri döndüğünde üzerinden on yıl geçmiştir ve dünya onu savaşta ölen efsanevi bir kahraman olarak övmektedir. Önceki hayatına geri dönemeyen Luck, kimliğini gizler ve onsuz devam eden bir dünyada geleceğini şekillendiren F sınıfı bir maceracı olan \"Lock\" olarak yeniden başlar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita, 3 Temmuz 2026'dan itibaren Prime Video'daki TV yayınından 3 gün önce yayınlanıyor. Normal yayın 6 Temmuz 2026'da başlıyor."
         },
         {
           "id": 182616,
@@ -2735,10 +2783,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Kaiju",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
@@ -2751,11 +2795,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
+              "name": "Kaiju",
               "isMediaSpoiler": false
             },
             {
-              "name": "Tokusatsu",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -2763,19 +2807,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
+              "name": "Tokusatsu",
               "isMediaSpoiler": false
             },
             {
@@ -2784,6 +2816,22 @@
             },
             {
               "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
               "isMediaSpoiler": false
             },
             {
@@ -3028,7 +3076,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "14. yüzyıl Japonya'sında gezici bir tiyatro grubunda oyunculuk ve dansla dolu bir hayata doğan 12 yaşındaki Oniyasha'nın tek bir sorunu var; bunların hiçbirinin amacını bilmiyor. \"Neden buraya sağ ayak yerine sol ayakla basmak zorundayım? Neden bir performans iyi, diğeri ise kötü? Neden insanlar dans ediyor?\" Her şey tamamen keyfi görünüyor, ta ki köhne bir barakada tesadüfen karşılaşması, onu sanat biçiminde devrim yapma ve gelecek Japon kültürünün çoğunu etkileme yoluna sokana kadar. Dünyanın hayatta kalan en eski tiyatro sanatı olan modern Noh tiyatrosunun kurucusu Zeami Motokiyo'nun (Oniyasha) erken yaşamının kurgusal bir anlatımı olan bu reşit olmuş sanatçının yolculuğu, Japonya'nın kültürel ve sosyal açıdan en canlı dönemlerinden birinde, zamanının çok ilerisinde bir adamı canlı bir şekilde hayata geçiriyor.<br><br>(Kaynak: Kodansha Comics)<br><br>Not: Dünya Dans Ediyor, 29 Haziran 2026'dan itibaren Prime Video ve HIDIVE'daki TV yayınından 3 gün önce yayınlanıyor. Normal yayın 2 Temmuz 2026'da başlıyor."
+          "descriptionTr": "14. yüzyıl Japonya'sında gezici bir tiyatro grubunda oyunculuk ve dansla dolu bir hayata doğan 12 yaşındaki Oniyasha'nın tek bir sorunu var; bunların hiçbirinin ne anlama geldiğini bilmiyor. \"Neden buraya sağ ayak yerine sol ayakla basmak zorundayım? Neden bir performans iyi, diğeri ise kötü? Neden insanlar dans ediyor?\" Her şey tamamen keyfi görünüyor, ta ki köhne bir barakada tesadüfen karşılaşması, onu sanat biçiminde devrim yapma ve gelecek Japon kültürünün çoğunu etkileme yoluna sokana kadar. Dünyanın hayatta kalan en eski tiyatro sanatı olan modern Noh tiyatrosunun kurucusu Zeami Motokiyo'nun (Oniyasha) erken yaşamının kurgusal bir anlatımı olan bu reşit olmuş sanatçının yolculuğu, Japonya'nın kültürel ve sosyal açıdan en canlı dönemlerinden birinde, zamanının çok ilerisinde bir adamı canlı bir şekilde hayata geçiriyor.<br><br>(Kaynak: Kodansha Comics)<br><br>Not: Dünya Dans Ediyor, 29 Haziran 2026'dan itibaren Prime Video ve HIDIVE'daki TV yayınından 3 gün önce yayınlanıyor. Normal yayın 2 Temmuz 2026'da başlıyor."
         },
         {
           "id": 128757,
@@ -3230,7 +3278,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Beş Klan'ın bakireleri Veliaht Prens'in kalbi için savaşırken kıskanç Keigetsu, sevgili Reirin'le beden değiştirmek için yasak büyüyü kullanır. Yeni vücudunun kötü sağlık durumu onu ölümün eşiğine getirdiğinden yer değiştirmek Keigetsu'nun mutluluğunu garanti etmez. Bu arada, artık küçümsenmiş bir serseri yüzüne bürünen Reirin, tehlikeli bir duruşmada Keigetsu'nun suçlarının hesabını vermek zorundadır.<br><br>Beklenmedik ikili giderek birbirlerinin hayatlarına karışıyor ve sarayın güler yüzlü yüzeyinin altında gelişen karanlık komploları keşfettikten sonra hayatta kalmak için birlikte çalışmaları gerekecek. Gölgelerde gizlenen ölümcül tehditlerle yüzleşmek için Reirin'in yeni kimliğini benimsemesi ve mahkemenin beceriksiz kötülüğüne ilişkin beklentilerine meydan okuması gerekiyor.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Beş Klan'ın bakireleri Veliaht Prens'in kalbi için savaşırken kıskanç Keigetsu, sevgili Reirin'le beden değiştirmek için yasak büyüyü kullanır. Yeni vücudunun kötü sağlık durumu onu ölümün eşiğine getirdiğinden, yer değiştirmek Keigetsu'nun mutluluğunu garanti etmez. Bu arada, artık küçümsenmiş bir serseri yüzüne bürünen Reirin, tehlikeli bir duruşmada Keigetsu'nun suçlarına cevap vermek zorundadır.<br><br>Beklenmedik ikili giderek birbirlerinin hayatlarına karışıyor ve sarayın güler yüzlü yüzeyinin altında gelişen karanlık komploları keşfettikten sonra hayatta kalmak için birlikte çalışmaları gerekecek. Gölgelerde gizlenen ölümcül tehditlerle yüzleşmek için Reirin'in yeni kimliğini benimsemesi ve mahkemenin beceriksiz kötülüğüne ilişkin beklentilerine meydan okuması gerekiyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 196218,
@@ -3274,7 +3322,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Agriculture",
+              "name": "Kingdom Management",
               "isMediaSpoiler": false
             },
             {
@@ -3282,11 +3330,27 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Agriculture",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Anthropomorphism",
               "isMediaSpoiler": false
             },
             {
-              "name": "Kingdom Management",
+              "name": "Family Life",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Wilderness",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Rural",
               "isMediaSpoiler": false
             },
             {
@@ -3294,7 +3358,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Family Life",
+              "name": "Age Gap",
               "isMediaSpoiler": false
             },
             {
@@ -3306,23 +3370,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Transgender",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Wilderness",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Gap",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Rural",
               "isMediaSpoiler": false
             }
           ],
@@ -3354,7 +3402,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Dias onlarca yıldır süren savaşın ardından nihayet evine döner. Bir kahraman olarak selamlandı ve hemen kendi alanıyla ödüllendirildi... bu alanın boş ovalardan pek de fazlası olmadığı ortaya çıktı. Nüfus: sıfır. Şimdiye kadar yalnızca savaşı bilen Dias, kendini çaresiz durumda bulur. Görebildiği kadarıyla çimenden başka bir şey yokken, bırakın topraklarını gelişen, müreffeh bir egemenliğe dönüştürmek şöyle dursun, nasıl hayatta kalacak?<br><br>Neyse ki Dias'a, Alna adındaki boynuzlu bir kız, ona ovalarda göründüğünden çok daha fazlası olduğunu göstermek üzere!<br><br>(Kaynak: J-Novel Kulübü)<br><br>Not: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama, 3 Temmuz 2026'dan itibaren Prime Video'da TV yayınının bir haftalık akışını yayınlıyor. Normal yayın 10 Temmuz 2026'da başlıyor."
+          "descriptionTr": "Dias onlarca yıldır süren savaşın ardından nihayet evine döner. Bir kahraman olarak selamlandı ve hemen kendi alanıyla ödüllendirildi... ki bu alanın boş ovalardan pek de fazlası olmadığı ortaya çıktı. Nüfus: sıfır. Şimdiye kadar yalnızca savaşı bilen Dias, kendini çaresiz durumda bulur. Görebildiği kadarıyla çimenden başka bir şey yokken, bırakın topraklarını gelişen, müreffeh bir egemenliğe dönüştürmek şöyle dursun, nasıl hayatta kalacak?<br><br>Neyse ki Dias'a, Alna adındaki boynuzlu bir kız, ona ovalarda göründüğünden çok daha fazlası olduğunu göstermek üzere!<br><br>(Kaynak: J-Novel Kulübü)<br><br>Not: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama, 3 Temmuz 2026'dan itibaren Prime Video'da TV yayınının bir hafta öncesinden yayınlanıyor. Normal yayın 10 Temmuz 2026'da başlıyor."
         },
         {
           "id": 192800,
@@ -3658,7 +3706,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Hikaye, ormanda bir anne kedi tarafından büyütülen, ateş püskürten, insanlardan nefret eden bir ejderhayı konu alıyor. Sevgiyle \"Wing Amca\" olarak anılan ejderha, biri insan prensle maceraya çıkan, diğeri şehirde yaşayan ve insanları hobi olarak izleyen pek çok meraklı kediyi gözetliyor ve yol boyunca yavaş yavaş insanlara ısınıyor.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Her bölüm ABEMA ve dAnimeStore'da 1 hafta erken yayınlandı. Orijinal TV yayını 4 Temmuz 2026'da başladı."
+          "descriptionTr": "Hikaye, ormanda bir anne kedi tarafından büyütülen, ateş püskürten, insanlardan nefret eden bir ejderhayı konu alıyor. Sevgiyle \"Wing Amca\" olarak anılan ejderha, biri insan prensle maceraya çıkan, diğeri şehirde yaşayan ve insanları hobi olarak izleyen pek çok meraklı kediye göz kulak oluyor ve yol boyunca yavaş yavaş insanlara ısınıyor.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Her bölüm ABEMA ve dAnimeStore'da 1 hafta erken yayınlandı. Orijinal TV yayını 4 Temmuz 2026'da başladı."
         },
         {
           "id": 177637,
@@ -3682,8 +3730,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177637-2Ok4Pq0SpvHp.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1783265400,
-            "episode": 1
+            "airingAt": 1783870200,
+            "episode": 2
           },
           "isAdult": false,
           "genres": [
@@ -3692,15 +3740,11 @@
           ],
           "tags": [
             {
-              "name": "Mermaid",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Fairy Tale",
               "isMediaSpoiler": false
             },
             {
-              "name": "Coastal",
+              "name": "Mermaid",
               "isMediaSpoiler": false
             },
             {
@@ -3708,15 +3752,51 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Coastal",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Female Cast",
+              "name": "Interspecies",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Skip",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Curses",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shapeshifting",
               "isMediaSpoiler": false
             },
             {
               "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Witch",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Royal Affairs",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             }
           ],
@@ -3744,7 +3824,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bir zamanlar Lara adında bir deniz kızı prensesi, insan bir prense aşık olur. Onunla birlikte olabilmek için insan olabilmek için bir cadı iksiri kullandı ama bu büyünün bir bedeli vardı: Eğer gerçek aşkı bulamazsa, sonsuza dek deniz köpüğünün içinde kaybolacaktı. Şimdi, 200 yıl sonra Lara, Biwa Gölü'nde hayat ve aşk için son bir şansla uyanır.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Bir zamanlar Lara adında bir deniz kızı prensesi, insan bir prense aşık olur. Onunla birlikte olabilmek için insan olabilmek için bir cadı iksiri kullandı ama bu büyünün bir bedeli vardı: Eğer gerçek aşkı bulamazsa, sonsuza kadar deniz köpüğünün içinde kaybolacaktı. Şimdi, 200 yıl sonra Lara, Biwa Gölü'nde hayat ve aşk için son bir şansla uyanır.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 202269,
@@ -3822,7 +3902,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Tokyo'da bir Nisan gecesi, havai fişek gösterisi için henüz çok erken olan üniversite öğrencisi Kakeru Sorano, Koharu Fuyutsuki adında bir kadınla tanışır. O, kalabalığın arasından sıyrılan, çok gülen ve Kakeru'nun kendi içe dönüklüğüyle keskin bir tezat oluşturan bir sıcaklık yayan güzel bir kız. Ancak Kakeru'nun ilk başta bilmediği bir şey vardı; göremiyordu.<br><br>Kakeru'nun aksine Koharu, körlüğüne rağmen hiçbir şeyden vazgeçmedi. Her gün üniversiteye gidiyor, kulüplere ilgi gösteriyor, arkadaşlar ediniyor ve bir gün havai fişek fırlatmanın hayalini kuruyor. Kakeru onları göremeyince nedenini merak ediyor... ama belki de bunun bir önemi yoktur. Ve belki her zaman yanında olan kız için de ilerlemeye başlayabilir.<br><br>(Kaynak: Yen Press)"
+          "descriptionTr": "Tokyo'da bir Nisan gecesi, havai fişek patlatmak için henüz çok erken olan üniversite öğrencisi Kakeru Sorano, Koharu Fuyutsuki adında bir kadınla tanışır. O, kalabalığın arasından sıyrılan, çok gülen ve Kakeru'nun kendi içedönüklüğüyle keskin bir tezat oluşturan bir sıcaklık yayan güzel bir kız. Ancak Kakeru'nun ilk başta bilmediği bir şey vardı; göremiyordu.<br><br>Kakeru'nun aksine Koharu, körlüğüne rağmen hiçbir şeyden vazgeçmedi. Her gün üniversiteye gidiyor, kulüplere ilgi gösteriyor, arkadaşlar ediniyor ve bir gün havai fişek fırlatmanın hayalini kuruyor. Kakeru onları göremeyince nedenini merak ediyor... ama belki de bunun bir önemi yoktur. Ve belki her zaman yanında olan kız için de ilerlemeye başlayabilir.<br><br>(Kaynak: Yen Press)"
         },
         {
           "id": 196219,
@@ -4082,80 +4162,6 @@
           "descriptionTr": "Kayıp krallığın Prensesi Safir. \"Nergal\" olarak bilinen felaket nedeniyle memleketi Silverland'deki her şeyden mahrum kalan sanatçı, umutsuzluğun en derin noktasında Goldland'e geldi. Geçmişinin ağırlığını taşırken insanların nezaketinde bir umut ışığı bulmaya başladı. Ancak onun huzurlu günlük yaşamıyla alay edercesine, \"Nergal\" felaketi bir kez daha karşımıza çıkar. Vatanını küle çeviren çaresizlik, şimdi bu toprakların ışığını da çalmakla tehdit ediyor.<br><br>\"Benim için artık kayıp yok. Kimse için artık kayıp yok.\" <br><br>Genç kız, üzüntü korkusunu bir kenara bırakarak kılıcını alır. <br>Bu, kurdelesini bağlayıp kadere meydan okumaya karar veren bir kahramanın hikayesidir. <br><br>(Kaynak: THE RIBBON HERO Resmi Sitesi)<br><br> Not: Bu anime Osamu Tezuka'nın \"Princess Knight\" adlı mangasından esinlenilmiştir."
         },
         {
-          "id": 197178,
-          "title": {
-            "romaji": "ONE PIECE HEROINES",
-            "english": "ONE PIECE HEROINES",
-            "native": "ONE PIECE HEROINES"
-          },
-          "synonyms": [
-            "ONE PIECE HEROINES episode: NAMI"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197178-Ui8PY9HQbNgu.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197178-Ui8PY9HQbNgu.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197178-kVx0Zt3P0MvD.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1783260900,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [],
-          "tags": [
-            {
-              "name": "Pirates",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Josei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Fashion",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Toei Animation"
-              }
-            ]
-          },
-          "description": "<p>Based on the novel series <i>ONE PIECE novel HEROINES</i>, one chapter, “episode : NAMI” is getting an anime adaptation.<br />\n<br><br><br />\nAfter buying a pair of shoes that end up hurting her feet, Nami returns to the shop feeling dissatisfied.<br />\nThere, she meets Lebno, the designer, who tells her, “I’ll make you a brand-new pair from scratch—but only if you’ll be my model.”<br />\nThe shoes are crafted by the artisan Miucha, leading to an unexpected and stylish encounter.<br />\n<br><br><br />\n(Source: Toei Animation)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/OPcom_info"
-            },
-            {
-              "site": "Netflix",
-              "url": "https://www.netflix.com/us/title/82904737"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "ONE PIECE romanı HEROINES adlı roman serisinden uyarlanan, tek bölümlü “bölüm: NAMI” anime uyarlamasına kavuşuyor.<br><br>Ayaklarını acıtan bir çift ayakkabı satın alan Nami, mağazaya tatminsiz bir şekilde döner.<br><br>Orada tasarımcı Lebno ile tanışır ve Lebno ona şöyle der: \"Sana sıfırdan yepyeni bir çift yapacağım ama sadece benim modelim olursan.\"<br><br>Ayakkabılar zanaatkar Miucha tarafından üretiliyor ve beklenmedik ve şık bir karşılaşmaya yol açıyor.<br><br>(Kaynak: Toei Animasyonu)"
-        },
-        {
           "id": 209961,
           "title": {
             "romaji": "Shibou Yuugi de Meshi wo Kuu. 44:CLOUDY BEACH",
@@ -4316,7 +4322,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bu şeytan çıkarma OMFFFFFFFFF!!!! Shizuka, \"sadece\" hayaletleri gören, sıradan bir liseli kız olduğunu iddia ediyor. Ruhları kendine çekme konusundaki eşsiz yeteneğini kullanarak ünlü medyum Kamui'nin asistanı olarak çalışıyor. Kamui ezici bir ruhsal güce sahip olmasına rağmen, onun şeytan çıkarma yöntemleri emsalsiz...?! Doğaüstü rahatsızlıkların sürüklediği Shizuka, huzuru bulabilecek mi? \"Yüce\" şeytan çıkarma ayininin perdesi kalkıyor!! Aman Tanrım!<br><br>(Kaynak: OceanVeil)"
+          "descriptionTr": "Bu şeytan çıkarma OMFFFFFFFFF!!!! Shizuka, \"sadece\" hayaletleri gören, sıradan bir liseli kız olduğunu iddia ediyor. Ruhları kendine çekme konusundaki eşsiz yeteneğini kullanarak ünlü medyum Kamui'nin asistanı olarak çalışıyor. Kamui ezici bir ruhsal güce sahip olmasına rağmen, şeytan çıkarma yöntemleri eşi benzeri görülmemiş...?! Doğaüstü rahatsızlıkların sürüklediği Shizuka, huzuru bulabilecek mi? \"Yüce\" şeytan çıkarma ayininin perdesi kalkıyor!! Aman Tanrım!<br><br>(Kaynak: OceanVeil)"
         },
         {
           "id": 169582,
@@ -4430,11 +4436,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Medieval",
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Female Harem",
               "isMediaSpoiler": false
             }
           ],
@@ -4548,7 +4558,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bir zamanlar Şeytan Kral olan şimdi NEET'e kapanmış bir kişi olan Ryuusei Narukami'nin ikinci hayatı hiç de huzurlu değil! Bir zamanlar onu mağlup eden kahraman Meteor Hanaori aniden normal bir liseli kız olarak geri döndüğünde dünyası kaosa sürüklenir. Değişmeye kararlı olan Ryuusei, öğretmen olarak topluma yeniden girer ve sonunda kendi okulunda öğretmenlik yapar! Heyecan verici buluşmaları geçmişi yeniden alevlendirir ve beklenmedik bir aşkın fitilini ateşler!<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Bir zamanlar Şeytan Kral olan şimdi NEET'e kapanmış bir kişi olan Ryuusei Narukami'nin ikinci hayatı hiç de huzurlu değil! Bir zamanlar onu mağlup eden kahraman Meteor Hanaori aniden normal bir liseli kız olarak geri döndüğünde dünyası kaosa sürüklenir. Değişmeye kararlı olan Ryuusei, öğretmen olarak topluma yeniden girer ve sonunda okulunda öğretmenlik yapmaya başlar! Heyecan verici buluşmaları geçmişi yeniden alevlendirir ve beklenmedik bir aşkın fitilini ateşler!<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 203880,
@@ -4664,7 +4674,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bulutlar gökyüzünü karartıyor ve yağmur tabakaları dağ ormanını hain bir labirent haline getiriyor... Heyelan dikenli telleri ezer ve \"GİRİLMEZ\" tabelasını gömer... İki genç kardeş ait olmadıkları karanlık bir dünyaya doğru yola çıkarlar ve uzun, korkunç bir gölge onları karşılamak için yükselir... Neyse, işte Dara-san'la böyle tanıştık! Biraz korkutucu görünebilir ama onu tanıyana kadar bekleyin!<br><br>\"Bakın, ben bir talihsizlik tanrısıyım, tamam mı!? Siz çocuklar benim tuhaf yüzüm yüzünden çıldırmayacak mısınız!?\"<br><br>(Kaynak: Yen Press)"
+          "descriptionTr": "Bulutlar gökyüzünü karartıyor ve yağmur tabakaları dağ ormanını hain bir labirent haline getiriyor... Heyelan dikenli telleri ezer ve \"GİRİLMEZ\" tabelasını gömer... İki genç kardeş ait olmadıkları karanlık bir dünyaya doğru yola çıkarlar ve uzun, korkunç bir gölge onları karşılamak için yükselir... Neyse, işte Dara-san'la böyle tanıştık! Biraz korkutucu görünebilir ama onu tanıyana kadar bekleyin!<br><br>\"Bakın, ben bir talihsizlik tanrısıyım, tamam mı!? Siz çocuklar benim garip yüzüm yüzünden çıldırmayacak mısınız!?\"<br><br>(Kaynak: Yen Press)"
         },
         {
           "id": 194219,
@@ -4793,11 +4803,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Revenge",
+              "name": "Villainess",
               "isMediaSpoiler": false
             },
             {
-              "name": "Villainess",
+              "name": "Revenge",
               "isMediaSpoiler": false
             },
             {
@@ -4837,7 +4847,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Nüfuzlu başbakanın kızı Elizabeth Leiston, Haldoria Krallığı'nın gelecekteki kraliçesi olma yolundaki kusursuz bir hanımefendi. Ancak nişanlısının halka açık bir şekilde nişanlarını iptal ettiğini gösteren bir gösteri yapmasıyla hayatı aniden en kötüye dönüşür. Kısa süre sonra onu hapse atar ve onun hakkında kötü söylentiler yaymaya başlar. Elizabeth'in, sadık hizmetçisi Mireille'den aldığı cesaret ve içindeki öfke, hedeflerini yeniden gözden geçirmek için ihtiyacı olan tek şey. Kendisine saygı duymayan bir ülkeyi ayaklar altına almak varken neden kendini ona adamaya devam etsin ki? Yaptığı son şey olsa bile, kendisine haksızlık edenlerin intikamını alacak ve lanet krallığı yıkacak! Şans eseri, Elizabeth tehlikede olan bir genç kız değil ve kullanmaktan çekinmeyeceği yedi güçlü büyü kitabına sahip. Hazır olun çünkü bu acımasız kadının kana ihtiyacı var!<br><br>(Kaynak: J-Novel Kulübü)"
+          "descriptionTr": "Nüfuzlu başbakanın kızı Elizabeth Leiston, Haldoria Krallığı'nın gelecekteki kraliçesi olma yolundaki kusursuz bir hanımefendi. Ancak nişanlısının halka açık bir şekilde nişanlarını iptal ettiğini gösteren bir gösteri yapmasıyla hayatı aniden kötüye gider. Kısa süre sonra onu hapse atar ve onun hakkında kötü söylentiler yaymaya başlar. Elizabeth'in, sadık hizmetçisi Mireille'den aldığı cesaret ve içindeki öfke, hedeflerini yeniden gözden geçirmek için ihtiyacı olan tek şey. Kendisine saygı duymayan bir ülkeyi ayaklar altına almak varken neden kendini ona adamaya devam etsin ki? Yaptığı son şey olsa bile, kendisine haksızlık edenlerin intikamını alacak ve lanet krallığı yıkacak! Şans eseri, Elizabeth tehlikede olan bir genç kız değil ve kullanmaktan çekinmeyeceği yedi güçlü büyü kitabına sahip. Hazır olun çünkü bu acımasız kadının kana ihtiyacı var!<br><br>(Kaynak: J-Novel Kulübü)"
         },
         {
           "id": 185875,
@@ -4905,10 +4915,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Coastal",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Post-Apocalyptic",
               "isMediaSpoiler": false
             },
@@ -4922,6 +4928,18 @@
             },
             {
               "name": "Military",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coastal",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
               "isMediaSpoiler": false
             }
           ],
@@ -4950,6 +4968,93 @@
           ],
           "isMyList": false,
           "descriptionTr": "Otuz yıl önce, bilinmeyen \"istilacı yabancı türlerin\" aniden ortaya çıkmasıyla dünya neredeyse yok olmuştu.<br><br>İnsanlar ve bu \"istilacı türler\" yaşam alanı için rekabet etmeye devam ediyor ve insanlığın güvenliği şu anda zar zor güvence altına alınmış olsa da, dünya her an yok olabilir. Ölüm ve yıkım korkusu içinde yaşayan insanlar, adeta gözlerini tehlikeden ve felaketten uzaklaştırmaya çalışır gibi günlük yaşamlarını sürdürürler.<br><br>Bu dünyada, Birleşmiş Milletler Tehlikeli Türleri Araştırma Ajansı \"EXCEEDS\", istilacı türlerin neden olduğu krizleri ve felaketleri önlemek için çalışmalara başladı.<br><br>Hikaye Uzak Doğu'daki ada ülkesi \"Mizuho\"da başlıyor. Shina Hisase, uzak bir adada yaşayan genç bir istilacı tür yok etme avcısıdır. Ailesinden geriye kalan tek kişi olan küçük kız kardeşi Setsuna ile huzur içinde yaşamak isteyen Shina'nın başına nasıl bir olay gelecektir?<br><br>Not: İlk bölüm, standart 24 dakikalık bölümün aksine ~48 dakikalık bir çalışma süresiyle yayınlandı."
+        },
+        {
+          "id": 108992,
+          "title": {
+            "romaji": "Mebius Dust",
+            "english": "MEBIUS DUST",
+            "native": "メビウス・ダスト"
+          },
+          "synonyms": [
+            "Project Anima",
+            "Mobius Dust",
+            "Möbius Dust"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 9
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108992-skuOsfmLmMd2.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108992-skuOsfmLmMd2.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1783607400,
+            "episode": 1
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Vampire",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Terrorism",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kids",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Police",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Class Struggle",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Doga Kobo"
+              }
+            ]
+          },
+          "description": "<p>On February 29, 2000, a group of Möbius meteorites fell down to earth. These meteorites brought new material called Möbius Dust, which dissolves in air and can cause miracles. The day the Möbius meteorites fell was dubbed 2.29, and the economic disparity in Japan increased dramatically after that day. A group of people fed up with the wealth inequality fought back with acts of terrorism. The police established a special group to fight against the terrorists and a school to train members for that group.<br />\n<br></br><br />\n(Sources: Comic Natalie, Live Chart)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://mebiusdust.asmik-ace.co.jp/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/ANIMA_info"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "29 Şubat 2000'de bir grup Möbius göktaşı Dünya'ya düştü. Bu meteorlar, Möbius Tozu adı verilen, havada çözünen ve mucizeler yaratabilen yeni bir malzemeyi beraberinde getirdi. Möbius göktaşlarının düştüğü güne 2,29 adı verildi ve Japonya'daki ekonomik eşitsizlik o günden sonra dramatik bir şekilde arttı. Varlık eşitsizliğinden bıkan bir grup insan terör eylemleriyle karşılık verdi. Polis, teröristlerle mücadele için özel bir grup ve bu gruba üye yetiştirmek üzere bir okul kurdu.<br><br>(Kaynaklar: Comic Natalie, Canlı Grafik)"
         },
         {
           "id": 198709,
@@ -5045,91 +5150,85 @@
           "descriptionTr": "Casusların her ülkede perde arkasında hareket ettiği bir çağda Chloe, benzersiz kılık değiştirme becerileri ve dövüş sanatlarındaki yetenekleri sayesinde en zor görevleri bile başarıyla yerine getirerek günlerini geçiriyor. Patronunun ihanetinin ardından aniden ortadan kaybolur; Chloe, komşu Ashberry krallığında sıradan bir vatandaş olan Victoria olarak hayatını yeniden düzenleyerek \"normal\" bir hayat için çabalamayı planlamaktadır. Ancak Victoria'nın huzurlu hayatı, birçok insanla ilişki kurmaya başlamasıyla aniden kesintiye uğrar. Bu yeni diyarda, casusluk günlerinden edindiği deneyimler ve yetenekler, beklediğinden çok daha fazla işe yaradı! Öte yandan ikinci prens ve diğerleri, Victoria'nın gücüyle ilgilenir ve gölgeler, birçok yüzü olan kadının üzerine kapanır...<br><br>(Kaynak: Yen Press)"
         },
         {
-          "id": 108992,
+          "id": 208225,
           "title": {
-            "romaji": "Mebius Dust",
-            "english": "MEBIUS DUST",
-            "native": "メビウス・ダスト"
+            "romaji": "\"Kimi wo Aisuru Ki wa nai\" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu",
+            "english": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
+            "native": "「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます"
           },
           "synonyms": [
-            "Project Anima",
-            "Mobius Dust",
-            "Möbius Dust"
+            "きみ愛",
+            "KimiAi"
           ],
           "startDate": {
             "year": 2026,
             "month": 7,
-            "day": 9
+            "day": 5
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108992-skuOsfmLmMd2.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108992-skuOsfmLmMd2.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208225-HJbCC0Z4xRp3.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208225-HJbCC0Z4xRp3.jpg"
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1783607400,
-            "episode": 1
+            "airingAt": 1783787400,
+            "episode": 2
           },
           "isAdult": false,
           "genres": [
-            "Action",
-            "Supernatural"
+            "Fantasy",
+            "Romance"
           ],
           "tags": [
             {
-              "name": "Vampire",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
-              "name": "Terrorism",
+              "name": "Shoujo",
               "isMediaSpoiler": false
             },
             {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kids",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Police",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Class Struggle",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": null,
+          "averageScore": 58,
           "studios": {
             "nodes": [
               {
-                "name": "Doga Kobo"
+                "name": "Zero-G"
+              },
+              {
+                "name": "Grass"
               }
             ]
           },
-          "description": "<p>On February 29, 2000, a group of Möbius meteorites fell down to earth. These meteorites brought new material called Möbius Dust, which dissolves in air and can cause miracles. The day the Möbius meteorites fell was dubbed 2.29, and the economic disparity in Japan increased dramatically after that day. A group of people fed up with the wealth inequality fought back with acts of terrorism. The police established a special group to fight against the terrorists and a school to train members for that group.<br />\n<br></br><br />\n(Sources: Comic Natalie, Live Chart)</p>",
+          "description": "<p>Elsa, the daughter of a fallen aristocrat, receives news. It was a marriage proposal from Julius, a very elite nobleman. Elsa is wondering,&quot; Why would such a distinguished man marry me&quot;? But after the wedding, Julius, who had been kind and gentle up to that point, changed completely! In a cold voice, he tells her,&quot; I have no intention of loving you&quot;.<br />\n<br><br><br />\n(Source: MangaPlaza)</p>",
           "externalLinks": [
             {
-              "site": "Official Site",
-              "url": "https://mebiusdust.asmik-ace.co.jp/"
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@kimiai_official"
             },
             {
               "site": "Twitter",
-              "url": "https://x.com/ANIMA_info"
+              "url": "https://x.com/kimiai_official"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://kimiai-anime.com/"
+            },
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/kimiai_official/"
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/"
+              "url": "https://www.crunchyroll.com/series/GT00378118/the-dukes-son-claims-he-wont-love-me-but-showers-me-with-adoration"
             }
           ],
           "isMyList": false,
-          "descriptionTr": "29 Şubat 2000'de bir grup Möbius göktaşı Dünya'ya düştü. Bu meteorlar, Möbius Tozu adı verilen, havada çözünen ve mucizeler yaratabilen yeni bir malzemeyi beraberinde getirdi. Möbius göktaşlarının düştüğü güne 2.29 adı verildi ve Japonya'daki ekonomik eşitsizlik o günden sonra dramatik bir şekilde arttı. Varlık eşitsizliğinden bıkan bir grup insan terör eylemleriyle karşılık verdi. Polis, teröristlerle mücadele için özel bir grup ve bu gruba üye yetiştirmek üzere bir okul kurdu.<br><br>(Kaynaklar: Comic Natalie, Canlı Grafik)"
+          "descriptionTr": "Düşmüş bir aristokratın kızı Elsa, bir haber alır. Bu, çok seçkin bir soylu olan Julius'un evlenme teklifiydi. Elsa \"Bu kadar seçkin bir adam neden benimle evlensin?\" diye merak ediyor. Ancak düğünden sonra o ana kadar nazik ve nazik olan Julius tamamen değişti! Soğuk bir sesle \"Seni sevmeye hiç niyetim yok\" diyor.<br><br>(Kaynak: MangaPlaza)"
         }
       ]
     }
