@@ -783,74 +783,52 @@
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com"
+              "url": "https://www.crunchyroll.com/series/GT00374354/i-want-to-love-you-till-your-dying-day"
             }
           ],
           "isMyList": false,
           "descriptionTr": "Sheena'nın yaşadığı gizemli yetimhanede ölüm, buranın sakinleri için yeni bir şey değil; artık kendi aileleri olmayan, savaş silahı olarak yetiştirilen, gözlerini bile kırpmadan öldürmeyi ve başkalarının canını almayı öğreten kızlara. Etrafında büyüyen çatışmanın sona ermesinden başka bir şey istemeyen Sheena dışında herkes. Oda arkadaşının öldüğü gece Sheena, etrafını saran kargaşaya rağmen gülümseyen, kanlar içinde tuhaf bir kızla tanışır. Ertesi gün kız, Sheena'nın sınıfına yeni bir öğrenci olarak görünür ve kendisini Mimi olarak tanıtır. Başlangıçta bir okul efsanesi olduğu düşünülen bu yetimhanenin koridorlarında, artık Mimi'nin onların gizli silahı, ölmeyen bir ölümsüz olduğu fısıltıları dolaşıyor. Daha sonra Mimi, Sheena'nın yeni oda arkadaşı olarak atandığında, Sheena'nın dünyası, ölümü seven ve memnuniyetle karşılayan biriyle yaşamaya başladığında, Sheena'nın tek istediği bunu durdurmak olduğunda daha da karmaşık hale gelir…<br><br>(Kaynak: Kodansha ABD)"
         },
         {
-          "id": 159309,
+          "id": 210031,
           "title": {
-            "romaji": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2",
-            "english": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
-            "native": "乙女ゲー世界はモブに厳しい世界です2"
+            "romaji": "Seihantai na Kimi to Boku 2nd Season",
+            "english": "You and I Are Polar Opposites Season 2",
+            "native": "正反対な君と僕 第2期"
           },
-          "synonyms": [
-            "mobseka 2",
-            "ชีวิตตัวประกอบอย่างตูช่างอยู่ยาก เมื่ออยู่ในโลกเกมจีบหนุ่ม ภาค 2",
-            "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
-            "Otomege 2",
-            "モブせか 2"
-          ],
+          "synonyms": [],
           "startDate": {
             "year": 2026,
             "month": 7,
-            "day": 8
+            "day": 5
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159309-wRfh9O1odrDJ.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159309-wRfh9O1odrDJ.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210031-TppgcHZh46LY.jpg"
           },
-          "bannerImage": null,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210031-M4bt0rAmWk5Q.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1783521000,
-            "episode": 1
+            "airingAt": 1783843200,
+            "episode": 2
           },
           "isAdult": false,
           "genres": [
-            "Action",
-            "Fantasy",
-            "Mecha",
-            "Romance"
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Slice of Life"
           ],
           "tags": [
             {
-              "name": "Isekai",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
-              "name": "Reincarnation",
+              "name": "Iyashikei",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Parody",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Anti-Hero",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
+              "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
             {
@@ -858,39 +836,176 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
+              "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Robots",
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": null,
+          "averageScore": 81,
           "studios": {
             "nodes": [
               {
-                "name": "ENGI"
+                "name": "Lapin Track"
               }
             ]
           },
-          "description": "<p>The second season of <i>Otomege Sekai wa Mob ni Kibishii Sekai desu</i>.</p>",
+          "description": "<p>The second season of <i>Seihantai na Kimi to Boku</i>.</p>",
           "externalLinks": [
             {
-              "site": "Twitter",
-              "url": "https://twitter.com/mobseka_anime"
+              "site": "Official Site",
+              "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/"
             },
             {
-              "site": "Official Site",
-              "url": "https://mobseka.com/"
+              "site": "Twitter",
+              "url": "https://x.com/seihantai_x"
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/G0XHWM0D3/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs"
+              "url": "https://www.crunchyroll.com/series/GT00365624/you-and-i-are-polar-opposites"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/en/"
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Otomege Sekai wa Mob ni Kibishii Sekai desu'nun ikinci sezonu."
+          "descriptionTr": "Seihantai na Kimi'nin Boku'ya ikinci sezonu."
+        },
+        {
+          "id": 103303,
+          "title": {
+            "romaji": "Nijusseiki Denki Mokuroku: Eureka・Evrika",
+            "english": "Sparks of Tomorrow",
+            "native": "二十世紀電氣目録-ユーレカ・エヴリカ-"
+          },
+          "synonyms": [
+            "20th Century Electricity Catalogue",
+            "Twentieth Century Electrical Records",
+            "A Luz do Futuro",
+            "Destellos del mañana",
+            "Étincelles de Demain"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-IF43hFJPPv2Y.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103303-K73aVOqkCPqL.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1783864800,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Adventure",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Steampunk",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Arranged Marriage",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Advertisement",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "War",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Software Development",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 73,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Kyoto Animation"
+              }
+            ]
+          },
+          "description": "<p>The novel takes place in the summer of 1907, the 40th year of the Meiji era. 15-year-old Inako Momokawa lives in the Fushimi area of Kyoto, and is the second daughter of a sake brewer. Nothing she does ever comes out right, and she receives a scolding from her father every day. Her only relief is the trust she places in her prayers to the gods. One day while at Fushimi Inari shrine, she meets a freewheeling young man named Kihachi Sakamoto. He rejects the gods, and boasts of the incoming age of electricity. <br><br></p>\n<p>The topic of marriage suddenly comes up in Inako's household. Her father is one-sidedly making all the decisions for her, and Inako is about to give up hope. It is then that Kihachi draws out Inako's true feelings of wanting to run away from her family. The only way to stop her marriage is to find an unusual book called the &quot;Electricity Catalog.&quot; The book is a prediction book about electricity that Kihachi wrote when he was a child, but his older brother Seiroku took the book, and its current whereabouts are unknown. Inako and Kihachi together go in search of the book across Kyoto and Shiga prefectures.<br><br></p>\n<p>(Source: Anime News Network)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "http://www.kyotoanimation.co.jp/books/20thdenmoku/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/denkimokuroku"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://denkimokuroku.jp/"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://denkimokuroku.jp/en/"
+            },
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/denkimokuroku"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@denkimokuroku_"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://www.threads.com/@denkimokuroku"
+            },
+            {
+              "site": "Bluesky",
+              "url": "https://bsky.app/profile/sparks-of-tmr.bsky.social"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/Sparks_of_Tmr"
+            },
+            {
+              "site": "Netflix",
+              "url": "https://www.netflix.com/title/81698957"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Roman, Meiji döneminin 40. yılı olan 1907 yılının yazında geçiyor. 15 yaşındaki Inako Momokawa, Kyoto'nun Fushimi bölgesinde yaşıyor ve bir sake bira üreticisinin ikinci kızı. Yaptığı hiçbir şey doğru sonuç vermiyor ve her gün babasından azar alıyor. Tek tesellisi, dualarında tanrılara duyduğu güvendir. Bir gün Fushimi Inari tapınağındayken Kihachi Sakamoto adında başıboş bir gençle tanışır. Tanrıları reddediyor ve yaklaşmakta olan elektrik çağıyla övünüyor. <br><br>Inako'nun evinde aniden evlilik konusu gündeme gelir. Babası onun adına tüm kararları tek taraflı olarak veriyor ve Inako umudunu kaybetmek üzere. İşte o zaman Kihachi, Inako'nun ailesinden kaçmak istediğine dair gerçek duygularını ortaya çıkarır. Evliliğini durdurmanın tek yolu \"Elektrik Kataloğu\" adlı alışılmadık bir kitap bulmaktır. Kitap, Kihachi'nin çocukken yazdığı elektrikle ilgili bir tahmin kitabıdır ancak kitabı ağabeyi Seiroku almıştır ve şu anda nerede olduğu bilinmemektedir. Inako ve Kihachi birlikte kitabı aramaya Kyoto ve Shiga eyaletlerine giderler.<br><br>(Kaynak: Anime Haber Ağı)"
         },
         {
           "id": 185542,
@@ -974,7 +1089,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 70,
+          "averageScore": 69,
           "studios": {
             "nodes": [
               {
@@ -1011,336 +1126,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu'nun ikinci sezonu."
-        },
-        {
-          "id": 103303,
-          "title": {
-            "romaji": "Nijusseiki Denki Mokuroku: Eureka・Evrika",
-            "english": "Sparks of Tomorrow",
-            "native": "二十世紀電氣目録-ユーレカ・エヴリカ-"
-          },
-          "synonyms": [
-            "20th Century Electricity Catalogue",
-            "Twentieth Century Electrical Records",
-            "A Luz do Futuro",
-            "Destellos del mañana",
-            "Étincelles de Demain"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-IF43hFJPPv2Y.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103303-K73aVOqkCPqL.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1783864800,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Adventure",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Steampunk",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Arranged Marriage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Advertisement",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "War",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Software Development",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Kyoto Animation"
-              }
-            ]
-          },
-          "description": "<p>The novel takes place in the summer of 1907, the 40th year of the Meiji era. 15-year-old Inako Momokawa lives in the Fushimi area of Kyoto, and is the second daughter of a sake brewer. Nothing she does ever comes out right, and she receives a scolding from her father every day. Her only relief is the trust she places in her prayers to the gods. One day while at Fushimi Inari shrine, she meets a freewheeling young man named Kihachi Sakamoto. He rejects the gods, and boasts of the incoming age of electricity. <br><br></p>\n<p>The topic of marriage suddenly comes up in Inako's household. Her father is one-sidedly making all the decisions for her, and Inako is about to give up hope. It is then that Kihachi draws out Inako's true feelings of wanting to run away from her family. The only way to stop her marriage is to find an unusual book called the &quot;Electricity Catalog.&quot; The book is a prediction book about electricity that Kihachi wrote when he was a child, but his older brother Seiroku took the book, and its current whereabouts are unknown. Inako and Kihachi together go in search of the book across Kyoto and Shiga prefectures.<br><br></p>\n<p>(Source: Anime News Network)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "http://www.kyotoanimation.co.jp/books/20thdenmoku/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/denkimokuroku"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://denkimokuroku.jp/"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://denkimokuroku.jp/en/"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/denkimokuroku"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@denkimokuroku_"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://www.threads.com/@denkimokuroku"
-            },
-            {
-              "site": "Bluesky",
-              "url": "https://bsky.app/profile/sparks-of-tmr.bsky.social"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/Sparks_of_Tmr"
-            },
-            {
-              "site": "Netflix",
-              "url": "https://www.netflix.com/title/81698957"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Roman, Meiji döneminin 40. yılı olan 1907 yılının yazında geçiyor. 15 yaşındaki Inako Momokawa, Kyoto'nun Fushimi bölgesinde yaşıyor ve bir sake bira üreticisinin ikinci kızı. Yaptığı hiçbir şey doğru sonuç vermiyor ve her gün babasından azar alıyor. Tek tesellisi, dualarında tanrılara duyduğu güvendir. Bir gün Fushimi Inari tapınağındayken Kihachi Sakamoto adında başıboş bir gençle tanışır. Tanrıları reddediyor ve yaklaşmakta olan elektrik çağıyla övünüyor. <br><br>Inako'nun evinde aniden evlilik konusu gündeme gelir. Babası onun adına tüm kararları tek taraflı olarak veriyor ve Inako umudunu kaybetmek üzere. İşte o zaman Kihachi, Inako'nun ailesinden kaçmak istediğine dair gerçek duygularını ortaya çıkarır. Evliliğini durdurmanın tek yolu \"Elektrik Kataloğu\" adlı alışılmadık bir kitap bulmaktır. Kitap, Kihachi'nin çocukken yazdığı elektrikle ilgili bir tahmin kitabıdır ancak kitabı ağabeyi Seiroku almıştır ve şu anda nerede olduğu bilinmemektedir. Inako ve Kihachi birlikte kitabı aramaya Kyoto ve Shiga eyaletlerine giderler.<br><br>(Kaynak: Anime Haber Ağı)"
-        },
-        {
-          "id": 210031,
-          "title": {
-            "romaji": "Seihantai na Kimi to Boku 2nd Season",
-            "english": "You and I Are Polar Opposites Season 2",
-            "native": "正反対な君と僕 第2期"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210031-TppgcHZh46LY.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210031-M4bt0rAmWk5Q.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1783843200,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Romance",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 73,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Lapin Track"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Seihantai na Kimi to Boku</i>.</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/seihantai_x"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00365624/you-and-i-are-polar-opposites"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/en/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Seihantai na Kimi'nin Boku'ya ikinci sezonu."
-        },
-        {
-          "id": 180136,
-          "title": {
-            "romaji": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
-            "english": "The Exiled Heavy Knight Knows How to Game the System",
-            "native": "追放された転生重騎士はゲーム知識で無双する"
-          },
-          "synonyms": [
-            "The Exiled Reincarnated Heavy Knight Is Unrivaled in Game Knowledge",
-            "Juukishi",
-            "Kesatria Kelas Berat Tereinkarnasi yang Diasingkan Jadi Tanpa Tanding Dengan Pengetahuan Gimnya",
-            "เกิดใหม่เป็นอัศวินเกราะหนักผู้ถูกขับไล่แต่ใช้ความรู้จากเกมจนไร้เทียมทาน"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 3
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180136-gtMTCRlOD4OE.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1783610760,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Class Struggle",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dungeon",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Meta",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 68,
-          "studios": {
-            "nodes": [
-              {
-                "name": "GoHands"
-              }
-            ]
-          },
-          "description": "<p>Born into a prestigious family of master swordsmen, Elymas Edvaughn’s future shatters when he awakens the so-called “defective” Heavy Knight class. Disowned and cast out, he regains memories of another life—and realizes this world mirrors a VR game he once mastered. Armed with knowledge no one else possesses, he sets out to rewrite his fate and prove the strength of the “weakest” class.<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://sh-anime.shochiku.co.jp/jukishi-anime/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/jukishi_anime"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378018/the-exiled-heavy-knight-knows-how-to-game-the-system"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3yq1oZEC8iNCwgMsg0NmIZ"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/media/2411725"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/a5a0t3nwm1"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Usta kılıç ustalarından oluşan prestijli bir ailede doğan Elymas Edvaughn'un geleceği, sözde \"kusurlu\" Ağır Şövalye sınıfını uyandırdığında paramparça olur. Reddedilmiş ve dışlanmış, başka bir hayata dair anılarını yeniden kazanır ve bu dünyanın, bir zamanlar ustalaştığı bir VR oyununu yansıttığını fark eder. Kimsenin sahip olmadığı bilgilerle donanmış olarak kaderini yeniden yazmaya ve \"en zayıf\" sınıfın gücünü kanıtlamaya koyulur.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 207141,
@@ -1545,15 +1330,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban",
+              "name": "Animals",
               "isMediaSpoiler": false
             },
             {
-              "name": "Animals",
+              "name": "Urban",
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 70,
+          "averageScore": 71,
           "studios": {
             "nodes": [
               {
@@ -1606,6 +1391,229 @@
           ],
           "isMyList": false,
           "descriptionTr": "Jirou Azuma sıradan bir lise öğrencisi değil. Ninjaların soyundan gelen ve şinobilerin kadim savaşçı sanatı konusunda eğitim almış olan Jirou, aynı zamanda hayvanlarla da konuşabiliyor. Ragou adında yaralı bir kediyle gizemli bir karşılaşmanın ardından Jirou, kedinin aslında efsanevi Kıyametin Kara Yıldızı olduğunu keşfeder! Casusluk Bürosu'nun da katıldığı ekip, Ragou'nun güçlerini kullanmak için pusuda bekleyen mononoke sürüleriyle savaşır.<br><br>(Kaynak: Crunchyroll)"
+        },
+        {
+          "id": 159309,
+          "title": {
+            "romaji": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2",
+            "english": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
+            "native": "乙女ゲー世界はモブに厳しい世界です2"
+          },
+          "synonyms": [
+            "mobseka 2",
+            "ชีวิตตัวประกอบอย่างตูช่างอยู่ยาก เมื่ออยู่ในโลกเกมจีบหนุ่ม ภาค 2",
+            "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
+            "Otomege 2",
+            "モブせか 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 8
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159309-wRfh9O1odrDJ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159309-wRfh9O1odrDJ.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1783521000,
+            "episode": 1
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Mecha",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Parody",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anti-Hero",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Robots",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Video Games",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "ENGI"
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Otomege Sekai wa Mob ni Kibishii Sekai desu</i>.</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/mobseka_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://mobseka.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/G0XHWM0D3/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2413722"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Otomege Sekai wa Mob ni Kibishii Sekai desu'nun ikinci sezonu."
+        },
+        {
+          "id": 180136,
+          "title": {
+            "romaji": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
+            "english": "The Exiled Heavy Knight Knows How to Game the System",
+            "native": "追放された転生重騎士はゲーム知識で無双する"
+          },
+          "synonyms": [
+            "The Exiled Reincarnated Heavy Knight Is Unrivaled in Game Knowledge",
+            "Juukishi",
+            "Kesatria Kelas Berat Tereinkarnasi yang Diasingkan Jadi Tanpa Tanding Dengan Pengetahuan Gimnya",
+            "เกิดใหม่เป็นอัศวินเกราะหนักผู้ถูกขับไล่แต่ใช้ความรู้จากเกมจนไร้เทียมทาน"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 3
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180136-gtMTCRlOD4OE.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1783610760,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Class Struggle",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Dungeon",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Meta",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 68,
+          "studios": {
+            "nodes": [
+              {
+                "name": "GoHands"
+              }
+            ]
+          },
+          "description": "<p>Born into a prestigious family of master swordsmen, Elymas Edvaughn’s future shatters when he awakens the so-called “defective” Heavy Knight class. Disowned and cast out, he regains memories of another life—and realizes this world mirrors a VR game he once mastered. Armed with knowledge no one else possesses, he sets out to rewrite his fate and prove the strength of the “weakest” class.<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://sh-anime.shochiku.co.jp/jukishi-anime/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/jukishi_anime"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378018/the-exiled-heavy-knight-knows-how-to-game-the-system"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3yq1oZEC8iNCwgMsg0NmIZ"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/media/2411725"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/a5a0t3nwm1"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Usta kılıç ustalarından oluşan prestijli bir ailede doğan Elymas Edvaughn'un geleceği, sözde \"kusurlu\" Ağır Şövalye sınıfını uyandırdığında paramparça olur. Reddedilmiş ve dışlanmış, başka bir hayata dair anılarını yeniden kazanır ve bu dünyanın, bir zamanlar ustalaştığı bir VR oyununu yansıttığını fark eder. Kimsenin sahip olmadığı bilgilerle donanmış olarak kaderini yeniden yazmaya ve \"en zayıf\" sınıfın gücünü kanıtlamaya koyulur.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 177699,
@@ -1686,6 +1694,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Politics",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Crime",
               "isMediaSpoiler": false
             },
@@ -1694,7 +1706,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Politics",
+              "name": "Yuri",
               "isMediaSpoiler": false
             }
           ],
@@ -1730,7 +1742,7 @@
             },
             {
               "site": "Amazon Prime Video",
-              "url": "https://www.amazon.com/dp/"
+              "url": "https://www.amazon.com/dp/B0GZD2WNFF"
             },
             {
               "site": "Official Site",
@@ -1738,7 +1750,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yıl 2029. Yakın gelecekte Japonya'da, gezegeni kaplayan geniş bir şirket ağıyla, içinden elektronlar ve ışık saçılarak dünyanın son derece bilgi yoğunluklu hale geldiği yer. Ancak ulus devlet ve etnik gruplar hâlâ varlığını sürdürüyor.  <br><br> Tam vücutlu bir cyborg olan Motoko Kusanagi, Batou'nun da aralarında bulunduğu seçkin bir savaş birimine liderlik ediyor. Kusanagi, ekibine komuta ederken, ortaya çıkan tehditlere karşı önleyici saldırı yapacak özel bir görev gücü oluşturulmasını öngörüyor. Bu arada benzer bir birim kurmayı planlayan İçişleri Bakanlığı'ndan Daisuke Aramaki, Kusanagi ve ekibini işe aldı. Birlikte, \"Kabuk Takımı\" olarak bilinen saldırı taktiksel birimi olan Kamu Güvenliği Bölüm 9 olarak operasyonlara başlarlar. Karmaşık siber suçlar ve uluslararası komplolarla karşı karşıya kalırken, soruşturmalarının ufkunda \"Kukla Ustası\" olarak bilinen gizemli, kimliği belirsiz bir hackerın varlığı ortaya çıkıyor. <br><br> Kusanagi'yi nasıl bir kader bekliyor? Peki Puppet Master'ın gerçek amacı nedir? Siberpunk aksiyonunda yeni bir dönem başlıyor.  <br><br>(Kaynak: 攻殻機動隊 THE GHOST IN THE SHELL Sitesi)"
+          "descriptionTr": "Yıl 2029. Yakın gelecekte Japonya'da, gezegeni kaplayan geniş bir şirket ağıyla, içinden elektronlar ve ışık saçılarak dünyanın son derece bilgi yoğunluklu hale geldiği yer. Ancak ulus devlet ve etnik gruplar hâlâ varlığını sürdürüyor.  <br><br> Tam vücutlu bir cyborg olan Motoko Kusanagi, Batou'nun da aralarında bulunduğu seçkin bir savaş birimine liderlik ediyor. Kusanagi, ekibine komuta ederken, ortaya çıkan tehditlere karşı önleyici saldırı yapacak özel bir görev gücü oluşturulmasını öngörüyor. Bu arada benzer bir birim kurmayı planlayan İçişleri Bakanlığı'ndan Daisuke Aramaki, Kusanagi ve ekibini işe aldı. Birlikte, \"Kabuk Takımı\" olarak bilinen saldırı taktiksel birimi olan Kamu Güvenliği Bölüm 9 olarak operasyonlara başlarlar. Karmaşık siber suçlar ve uluslararası komplolarla karşı karşıya kalırken, araştırmalarının ufkunda \"Kukla Ustası\" olarak bilinen gizemli, kimliği belirsiz bir hackerın varlığı ortaya çıkıyor. <br><br> Kusanagi'yi nasıl bir kader bekliyor? Peki Puppet Master'ın gerçek amacı nedir? Siberpunk aksiyonunda yeni bir dönem başlıyor.  <br><br>(Kaynak: 攻殻機動隊 THE GHOST IN THE SHELL Sitesi)"
         },
         {
           "id": 199111,
@@ -1759,8 +1771,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199111-Z8y9awn2Zb6v.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1783350000,
-            "episode": 1
+            "airingAt": 1783954800,
+            "episode": 2
           },
           "isAdult": false,
           "genres": [
@@ -1769,6 +1781,90 @@
             "Sports"
           ],
           "tags": [
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Fake Relationship",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Scuba Diving",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "College",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Otaku Culture",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School Club",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coastal",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Sadism",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Slapstick",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Femdom",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Tsundere",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Family Life",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Bar",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Outdoor Activities",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Incest",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Large Breasts",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Flat Chest",
+              "isMediaSpoiler": false
+            },
             {
               "name": "Foreign",
               "isMediaSpoiler": false
@@ -1806,6 +1902,10 @@
             {
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/GNVHKN94W/grand-blue-dreaming"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2414407"
             }
           ],
           "isMyList": false,
@@ -1919,171 +2019,6 @@
           "descriptionTr": "Ephtal, modern Dünya'dan gelen bir insan olarak reenkarne olur. Sihrin gerçek olduğu bu yeni dünyada, hayatının tamamını sihir arayışına adamaya karar verir. Ancak tüm çabalarına rağmen büyü konusunda kesinlikle yeteneksiz olduğunu keşfeder ve acı içinde son nefesini verir... Ancak bu onun için henüz son değildir! 400 yıl sonra aynı isim olan Ephtal'i taşıyarak yeniden reenkarne olur. Bilgisini ve gücünü koruyarak kararlılığını çalar ve gözünü bir kez daha büyünün zirvesine diker!<br><br>(Kaynak: Comikey)<br><br>Not: Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, 26 Haziran 2026'dan itibaren dAnimeStore, ABEMA, U-NEXT ve Anime Hodai'deki TV yayınından bir hafta önce yayınlanıyor. Düzenli yayın 2 Temmuz 2026'da başlıyor."
         },
         {
-          "id": 198946,
-          "title": {
-            "romaji": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
-            "english": "Clevatess Season 2",
-            "native": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-"
-          },
-          "synonyms": [
-            "クレバテスⅡ-魔獣の王と偽りの勇者伝承- 第2期",
-            "Clevatess II: Majuu no Ou to Akago to Kabane no Yuusha 2nd Season"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198946-IGXmbqBEYRYD.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198946-IGXmbqBEYRYD.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1783515600,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Drama",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Lay-duce"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Clevatess: Majuu no Ou to Akago to Kabane no Yuusha</i>.</p>",
-          "externalLinks": [
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/G8DHV78ZM/clevatess"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://clevatess.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/clevatess_anime"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Clevetess'in ikinci sezonu: Majuu no Ou'dan Akago'ya, Kabane no Yuusha'ya."
-        },
-        {
-          "id": 194829,
-          "title": {
-            "romaji": "Katainaka no Ossan, Kensei ni Naru II",
-            "english": "From Old Country Bumpkin to Master Swordsman Season 2",
-            "native": "片田舎のおっさん、剣聖になるII"
-          },
-          "synonyms": [
-            "Katainaka no Ossan, Kensei ni Naru 2nd Season"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-bZKwhfo60EuF.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194829-bZKwhfo60EuF.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1783521900,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Teacher",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Hayabusa Film"
-              },
-              {
-                "name": "Passione"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Katainaka no Ossan, Kensei ni Naru</i>.</p>",
-          "externalLinks": [
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/bumpkin_anime/"
-            },
-            {
-              "site": "Bluesky",
-              "url": "https://bsky.app/profile/bumpkinanime.bsky.social"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@bumpkin.anime"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/ossan_kensei"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/bumpkin_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://ossan-kensei.com/"
-            },
-            {
-              "site": "Facebook",
-              "url": "https://www.facebook.com/profile.php?id=61571322047139"
-            },
-            {
-              "site": "Amazon Prime Video",
-              "url": "https://www.amazon.com/dp/B0D8Z7S2G4"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Katainaka no Ossan, Kensei ni Naru'nun ikinci sezonu."
-        },
-        {
           "id": 200637,
           "title": {
             "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season",
@@ -2171,7 +2106,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": null,
+          "averageScore": 80,
           "studios": {
             "nodes": [
               {
@@ -2196,10 +2131,187 @@
             {
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/GNVHKN933/the-100-girlfriends-who-really-really-really-really-really-love-you"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2091388"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl2ilZQ5Xv1xozab_cm90ugI"
             }
           ],
           "isMyList": false,
           "descriptionTr": "Kimi no Koto ga Dai Dai Dai Dai Dai Daisuki ve 100-nin no Kanojo'nun üçüncü sezonu."
+        },
+        {
+          "id": 198946,
+          "title": {
+            "romaji": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
+            "english": "Clevatess Season 2",
+            "native": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-"
+          },
+          "synonyms": [
+            "クレバテスⅡ-魔獣の王と偽りの勇者伝承- 第2期",
+            "Clevatess II: Majuu no Ou to Akago to Kabane no Yuusha 2nd Season"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 8
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198946-IGXmbqBEYRYD.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198946-IGXmbqBEYRYD.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1783515600,
+            "episode": 1
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Drama",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Lay-duce"
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Clevatess: Majuu no Ou to Akago to Kabane no Yuusha</i>.</p>",
+          "externalLinks": [
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/G8DHV78ZM/clevatess"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://clevatess.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/clevatess_anime"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2413934"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Clevetess'in ikinci sezonu: Majuu no Ou'dan Akago'ya, Kabane no Yuusha'ya."
+        },
+        {
+          "id": 194829,
+          "title": {
+            "romaji": "Katainaka no Ossan, Kensei ni Naru II",
+            "english": "From Old Country Bumpkin to Master Swordsman II",
+            "native": "片田舎のおっさん、剣聖になるII"
+          },
+          "synonyms": [
+            "Katainaka no Ossan, Kensei ni Naru 2nd Season"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 8
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-bZKwhfo60EuF.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194829-bZKwhfo60EuF.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1783521900,
+            "episode": 1
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Teacher",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Hayabusa Film"
+              },
+              {
+                "name": "Passione"
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Katainaka no Ossan, Kensei ni Naru</i>.</p>",
+          "externalLinks": [
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/bumpkin_anime/"
+            },
+            {
+              "site": "Bluesky",
+              "url": "https://bsky.app/profile/bumpkinanime.bsky.social"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@bumpkin.anime"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/ossan_kensei"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/bumpkin_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://ossan-kensei.com/"
+            },
+            {
+              "site": "Facebook",
+              "url": "https://www.facebook.com/profile.php?id=61571322047139"
+            },
+            {
+              "site": "Amazon Prime Video",
+              "url": "https://www.amazon.com/dp/B0H1QXXRG1"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Katainaka no Ossan, Kensei ni Naru'nun ikinci sezonu."
         },
         {
           "id": 197715,
@@ -2292,89 +2404,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Earthclear'da herkes sabit bir rolde doğar ve köylüler en zayıf olanlardır. Çoğu asla 5. Seviyenin üzerine çıkamaz — Seviye...999 olan Kouji Kagami hariç?! Bir canavar avında Şeytan Kral'ın kızı Alice ile tanışır ve imkansız bir hayali paylaştıklarını keşfeder: insanlarla şeytanların bir arada yaşaması. Çatışmaya mahkum bir dünyada, kadere meydan okumak ve kuralları yıkmak için savaşa giriyorlar.<br><br>(Kaynak: Crunchyroll)"
-        },
-        {
-          "id": 209983,
-          "title": {
-            "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
-            "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
-            "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season"
-          },
-          "synonyms": [
-            "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1783699200,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Child Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Creature Taming",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 70,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Yokohama Animation Lab"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Hell Mode</i>.</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://hellmode-anime.com"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/hellmode_anime"
-            },
-            {
-              "site": "HIDIVE",
-              "url": "https://www.hidive.com/season/36239"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/1a7r5ibbkjl"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Hell Mode'un ikinci sezonu."
+          "descriptionTr": "Earthclear'da herkes sabit bir rolde doğar ve köylüler en zayıf olanlardır. Çoğu asla 5. Seviyenin üzerine çıkamaz; Seviye...999 olan Kouji Kagami hariç?! Bir canavar avında Şeytan Kral'ın kızı Alice ile tanışır ve imkansız bir hayali paylaştıklarını keşfeder: insanlarla şeytanların bir arada yaşaması. Çatışmaya mahkum bir dünyada, kadere meydan okumak ve kuralları yıkmak için savaşa giriyorlar.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 190569,
@@ -2462,10 +2492,6 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Religion",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Coming of Age",
               "isMediaSpoiler": false
             },
@@ -2494,6 +2520,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Religion",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Biographical",
               "isMediaSpoiler": false
             },
@@ -2510,7 +2540,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 75,
+          "averageScore": 77,
           "studios": {
             "nodes": [
               {
@@ -2538,7 +2568,89 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Annesini ve vatanını kaybeden Sitara'nın çaresizliği, bilginin gücüyle kararlılığa dönüşür. Akademisyenlerden oluşan bir aile onu yanına alıp eğitimini derinleştirdiğinde yeni olasılıklar ortaya çıkar. Bu arada Cengiz Han'ın Moğol İmparatorluğu, Sitara'nın yeni evine yaklaşarak ulusları fethediyor. İmparatorluğun Dördüncü Prensi onu esir alınca intikam ateşi alevlenir.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Annesini ve vatanını kaybeden Sitara'nın çaresizliği, bilginin gücüyle kararlılığa dönüşür. Akademisyenlerden oluşan bir aile onu yanına alıp eğitimini derinleştirdiğinde yeni olasılıklar ortaya çıkar. Bu arada Cengiz Han'ın Moğol İmparatorluğu, Sitara'nın yeni evine yaklaşarak ulusları fethediyor. İmparatorluğun Dördüncü Prensi onu esir aldıktan sonra intikam ateşi tutuşur.<br><br>(Kaynak: Crunchyroll)"
+        },
+        {
+          "id": 209983,
+          "title": {
+            "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
+            "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+            "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season"
+          },
+          "synonyms": [
+            "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1783699200,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Child Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Creature Taming",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 71,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Yokohama Animation Lab"
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Hell Mode</i>.</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://hellmode-anime.com"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/hellmode_anime"
+            },
+            {
+              "site": "HIDIVE",
+              "url": "https://www.hidive.com/season/36239"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/1a7r5ibbkjl"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Hell Mode'un ikinci sezonu."
         },
         {
           "id": 199748,
@@ -2645,99 +2757,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kahramanın grubundaki S seviye büyücü Luck, arkadaşlarını kurtarmak için Şeytan Kral'a karşı son bir direniş gösterir. Nihayet zaferle geri döndüğünde üzerinden on yıl geçmiştir ve dünya onu savaşta ölen efsanevi bir kahraman olarak övmektedir. Önceki hayatına geri dönemeyen Luck, kimliğini gizler ve onsuz devam eden bir dünyada geleceğini şekillendiren F sınıfı bir maceracı olan \"Lock\" olarak yeniden başlar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita, 3 Temmuz 2026'dan itibaren Prime Video'daki TV yayınından 3 gün önce yayınlanıyor. Normal yayın 6 Temmuz 2026'da başlıyor."
-        },
-        {
-          "id": 182616,
-          "title": {
-            "romaji": "Nige Jouzu no Wakagimi 2nd Season",
-            "english": "The Elusive Samurai Season 2",
-            "native": "逃げ上手の若君 第二期"
-          },
-          "synonyms": [
-            "Nigewaka 2",
-            "นายน้อยจอมโกยก้าวสู่เส้นทางแห่งวีรบุรุษ",
-            "Héroe fugitivo",
-            "Беглый самурай"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 17
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182616-ZOCgArw9cgqI.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182616-ZOCgArw9cgqI.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182616-kmIqMEUsLYrO.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1784298600,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure"
-          ],
-          "tags": [
-            {
-              "name": "Samurai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "War",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Male Cast",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "CloverWorks"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Nige Jouzu no Wakagimi</i>.</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/nigewaka_anime"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/_elusivesamurai"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://nigewaka.run/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GQWH0M19X/the-elusive-samurai"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Nige Jouzu no Wakagimi'nin ikinci sezonu."
+          "descriptionTr": "Kahramanın grubundaki S seviye bir büyücü olan Luck, arkadaşlarını kurtarmak için Şeytan Kral'a karşı son bir duruş sergiliyor. Nihayet zaferle geri döndüğünde üzerinden on yıl geçmiştir ve dünya onu savaşta ölen efsanevi bir kahraman olarak övmektedir. Önceki hayatına geri dönemeyen Luck, kimliğini gizler ve onsuz devam eden bir dünyada geleceğini şekillendiren F sınıfı bir maceracı olan \"Lock\" olarak yeniden başlar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita, 3 Temmuz 2026'dan itibaren Prime Video'daki TV yayınından 3 gün önce yayınlanıyor. Normal yayın 6 Temmuz 2026'da başlıyor."
         },
         {
           "id": 204466,
@@ -2950,7 +2970,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 70,
+          "averageScore": 71,
           "studios": {
             "nodes": [
               {
@@ -2971,10 +2991,230 @@
             {
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/GT00378102/rich-girl-caretaker-im-secretly-the-caregiver-of-the-most-popular-girl-in-this-rich-kid-school"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2414293"
             }
           ],
           "isMyList": false,
           "descriptionTr": "Hinako Konohana mükemmel bir genç bayan; zarif, zarif ve kusursuz… ya da herkes öyle düşünüyor. Kapalı kapılar ardında temel işleri halledemeyen tam bir felaket! Sıradan öğrenci Itsuki Tomonari onun bakıcısı olduğunda, 7/24 hasar kontrolüne alınır ve onun \"mükemmel\" imajını korur. Tuhaf, aralıksız bir kaos var ama aşk gibi hissettiren bir şeye dönüşmeye başlıyor…<br><br>(Kaynak: Crunchyroll)"
+        },
+        {
+          "id": 182616,
+          "title": {
+            "romaji": "Nige Jouzu no Wakagimi 2nd Season",
+            "english": "The Elusive Samurai Season 2",
+            "native": "逃げ上手の若君 第二期"
+          },
+          "synonyms": [
+            "Nigewaka 2",
+            "นายน้อยจอมโกยก้าวสู่เส้นทางแห่งวีรบุรุษ",
+            "Héroe fugitivo",
+            "Беглый самурай"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 17
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182616-ZOCgArw9cgqI.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182616-ZOCgArw9cgqI.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182616-kmIqMEUsLYrO.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1784298600,
+            "episode": 1
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "tags": [
+            {
+              "name": "Samurai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "War",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Male Cast",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "CloverWorks"
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Nige Jouzu no Wakagimi</i>.</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/nigewaka_anime"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/_elusivesamurai"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://nigewaka.run/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GQWH0M19X/the-elusive-samurai"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Nige Jouzu no Wakagimi'nin ikinci sezonu."
+        },
+        {
+          "id": 196218,
+          "title": {
+            "romaji": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama",
+            "english": "The Frontier Lord Begins with Zero Subjects",
+            "native": "領民0人スタートの辺境領主様"
+          },
+          "synonyms": [
+            "The Frontier Lord Begins with Zero Subjects: Tales of Blue Dias and the Beastkin Alna",
+            "The Population of the Frontier Owner Stars with 0.",
+            "Penguasa Negeri Terluar Memulai dari 0 Rakyat",
+            "ได้เป็นถึงท่านเจ้าครอบครองดินแดน แต่ดันมีพลเมืองเริ่มต้นจากศูนย์ซะงั้น"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 3
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196218-UsdTTCrwpDIN.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196218-UsdTTCrwpDIN.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196218-lX0y9T76KQkC.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1783690200,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Cohabitation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kingdom Management",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Found Family",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Agriculture",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anthropomorphism",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Gap",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Family Life",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Wilderness",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Rural",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gender Bending",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Transgender",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 68,
+          "studios": {
+            "nodes": [
+              {
+                "name": "animation studio42"
+              }
+            ]
+          },
+          "description": "<p>Dias finally returns home after decades of war. He's hailed as a hero and promptly rewarded with his own domain...which turns out to be little more than empty plains. Population: zero. Dias, who has only ever known battle, finds himself at a loss. How is he supposed to survive, let alone cultivate his territory into a thriving, prosperous dominion when there's nothing but grass as far as can see?<br />\n<br><br><br />\nFortunately for Dias, a horned girl by the name of Alna is about to show him there's more to the plains than meets the eye!<br />\n<br><br><br />\n(Source: J-Novel Club)<br><br></p>\n<p><i>Note: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama is streaming a week advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting begins on July 10th, 2026.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/ryomin0_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://ryomin0-anime.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378124/the-frontier-lord-begins-with-zero-subjects"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/media/2413170"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Dias onlarca yıldır süren savaşın ardından nihayet evine döner. Bir kahraman olarak selamlandı ve hemen kendi alanıyla ödüllendirildi... bu alanın boş ovalardan pek de fazlası olmadığı ortaya çıktı. Nüfus: sıfır. Şimdiye kadar yalnızca savaşı bilen Dias, kendini çaresiz durumda bulur. Görebildiği kadarıyla çimenden başka bir şey yokken, bırakın topraklarını gelişen, müreffeh bir egemenliğe dönüştürmek şöyle dursun, nasıl hayatta kalacak?<br><br>Neyse ki Dias'a, Alna adındaki boynuzlu bir kız, ona ovalarda göründüğünden çok daha fazlası olduğunu göstermek üzere!<br><br>(Kaynak: J-Novel Kulübü)<br><br>Not: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama, 3 Temmuz 2026'dan itibaren Prime Video'da TV yayınının bir haftalık akışını yayınlıyor. Normal yayın 10 Temmuz 2026'da başlıyor."
         },
         {
           "id": 206521,
@@ -2995,8 +3235,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206521-zCIAGsiIkh6G.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1783342800,
-            "episode": 2
+            "airingAt": 1783947600,
+            "episode": 3
           },
           "isAdult": false,
           "genres": [
@@ -3038,6 +3278,14 @@
             {
               "name": "War",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Rape",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 70,
@@ -3076,7 +3324,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "14. yüzyıl Japonya'sında gezici bir tiyatro grubunda oyunculuk ve dansla dolu bir hayata doğan 12 yaşındaki Oniyasha'nın tek bir sorunu var; bunların hiçbirinin ne anlama geldiğini bilmiyor. \"Neden buraya sağ ayak yerine sol ayakla basmak zorundayım? Neden bir performans iyi, diğeri ise kötü? Neden insanlar dans ediyor?\" Her şey tamamen keyfi görünüyor, ta ki köhne bir barakada tesadüfen karşılaşması, onu sanat biçiminde devrim yapma ve gelecek Japon kültürünün çoğunu etkileme yoluna sokana kadar. Dünyanın hayatta kalan en eski tiyatro sanatı olan modern Noh tiyatrosunun kurucusu Zeami Motokiyo'nun (Oniyasha) erken yaşamının kurgusal bir anlatımı olan bu reşit olmuş sanatçının yolculuğu, Japonya'nın kültürel ve sosyal açıdan en canlı dönemlerinden birinde, zamanının çok ilerisinde bir adamı canlı bir şekilde hayata geçiriyor.<br><br>(Kaynak: Kodansha Comics)<br><br>Not: Dünya Dans Ediyor, 29 Haziran 2026'dan itibaren Prime Video ve HIDIVE'daki TV yayınından 3 gün önce yayınlanıyor. Normal yayın 2 Temmuz 2026'da başlıyor."
+          "descriptionTr": "14. yüzyıl Japonya'sında gezici bir tiyatro grubunda oyunculuk ve dansla dolu bir hayata doğan 12 yaşındaki Oniyasha'nın tek bir sorunu var; bunların hiçbirinin amacını bilmiyor. \"Neden buraya sağ ayak yerine sol ayakla basmak zorundayım? Neden bir performans iyi, diğeri ise kötü? Neden insanlar dans ediyor?\" Her şey tamamen keyfi görünüyor, ta ki köhne bir barakada tesadüfen karşılaşması, onu sanat biçiminde devrim yapma ve gelecek Japon kültürünün çoğunu etkileme yoluna sokana kadar. Dünyanın hayatta kalan en eski tiyatro sanatı olan modern Noh tiyatrosunun kurucusu Zeami Motokiyo'nun (Oniyasha) erken yaşamının kurgusal bir anlatımı olan bu reşit olmuş sanatçının yolculuğu, Japonya'nın kültürel ve sosyal açıdan en canlı dönemlerinden birinde, zamanının çok ilerisinde bir adamı canlı bir şekilde hayata geçiriyor.<br><br>(Kaynak: Kodansha Comics)<br><br>Not: Dünya Dans Ediyor, 29 Haziran 2026'dan itibaren Prime Video ve HIDIVE'daki TV yayınından 3 gün önce yayınlanıyor. Normal yayın 2 Temmuz 2026'da başlıyor."
         },
         {
           "id": 128757,
@@ -3275,134 +3523,132 @@
             {
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2414053"
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Beş Klan'ın bakireleri Veliaht Prens'in kalbi için savaşırken kıskanç Keigetsu, sevgili Reirin'le beden değiştirmek için yasak büyüyü kullanır. Yeni vücudunun kötü sağlık durumu onu ölümün eşiğine getirdiğinden, yer değiştirmek Keigetsu'nun mutluluğunu garanti etmez. Bu arada, artık küçümsenmiş bir serseri yüzüne bürünen Reirin, tehlikeli bir duruşmada Keigetsu'nun suçlarına cevap vermek zorundadır.<br><br>Beklenmedik ikili giderek birbirlerinin hayatlarına karışıyor ve sarayın güler yüzlü yüzeyinin altında gelişen karanlık komploları keşfettikten sonra hayatta kalmak için birlikte çalışmaları gerekecek. Gölgelerde gizlenen ölümcül tehditlerle yüzleşmek için Reirin'in yeni kimliğini benimsemesi ve mahkemenin beceriksiz kötülüğüne ilişkin beklentilerine meydan okuması gerekiyor.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Beş Klan'ın bakireleri Veliaht Prens'in kalbi için savaşırken kıskanç Keigetsu, sevgili Reirin'le beden değiştirmek için yasak büyüyü kullanır. Yeni vücudunun kötü sağlık durumu onu ölümün eşiğine getirdiğinden yer değiştirmek Keigetsu'nun mutluluğunu garanti etmez. Bu arada, artık küçümsenmiş bir serseri yüzüne bürünen Reirin, tehlikeli bir duruşmada Keigetsu'nun suçlarının hesabını vermek zorundadır.<br><br>Beklenmedik ikili giderek birbirlerinin hayatlarına karışıyor ve sarayın güler yüzlü yüzeyinin altında gelişen karanlık komploları keşfettikten sonra hayatta kalmak için birlikte çalışmaları gerekecek. Gölgelerde gizlenen ölümcül tehditlerle yüzleşmek için Reirin'in yeni kimliğini benimsemesi ve mahkemenin beceriksiz kötülüğüne ilişkin beklentilerine meydan okuması gerekiyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
-          "id": 196218,
+          "id": 177637,
           "title": {
-            "romaji": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama",
-            "english": "The Frontier Lord Begins with Zero Subjects",
-            "native": "領民0人スタートの辺境領主様"
+            "romaji": "Sayonara Lara",
+            "english": "Goodbye, Lara",
+            "native": "さよなら ララ"
           },
           "synonyms": [
-            "The Frontier Lord Begins with Zero Subjects: Tales of Blue Dias and the Beastkin Alna",
-            "The Population of the Frontier Owner Stars with 0.",
-            "Penguasa Negeri Terluar Memulai dari 0 Rakyat",
-            "ได้เป็นถึงท่านเจ้าครอบครองดินแดน แต่ดันมีพลเมืองเริ่มต้นจากศูนย์ซะงั้น"
+            "さよララ",
+            "SayoLara"
           ],
           "startDate": {
             "year": 2026,
             "month": 7,
-            "day": 3
+            "day": 6
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196218-UsdTTCrwpDIN.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196218-UsdTTCrwpDIN.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177637-8onaQWqKW1C3.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196218-lX0y9T76KQkC.jpg",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177637-2Ok4Pq0SpvHp.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1783690200,
+            "airingAt": 1783870200,
             "episode": 2
           },
           "isAdult": false,
           "genres": [
-            "Action",
-            "Comedy",
-            "Drama",
-            "Fantasy",
             "Romance",
-            "Slice of Life"
+            "Supernatural"
           ],
           "tags": [
             {
-              "name": "Cohabitation",
+              "name": "Fairy Tale",
               "isMediaSpoiler": false
             },
             {
-              "name": "Kingdom Management",
+              "name": "Mermaid",
               "isMediaSpoiler": false
             },
             {
-              "name": "Found Family",
+              "name": "Reincarnation",
               "isMediaSpoiler": false
             },
             {
-              "name": "Agriculture",
+              "name": "Interspecies",
               "isMediaSpoiler": false
             },
             {
-              "name": "Anthropomorphism",
+              "name": "Coastal",
               "isMediaSpoiler": false
             },
             {
-              "name": "Family Life",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Urban Fantasy",
               "isMediaSpoiler": false
             },
             {
-              "name": "Wilderness",
+              "name": "Time Skip",
               "isMediaSpoiler": false
             },
             {
-              "name": "Rural",
+              "name": "Curses",
               "isMediaSpoiler": false
             },
             {
-              "name": "Ensemble Cast",
+              "name": "Shapeshifting",
               "isMediaSpoiler": false
             },
             {
-              "name": "Age Gap",
+              "name": "Witch",
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
-              "name": "Gender Bending",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
-              "name": "Transgender",
+              "name": "Royal Affairs",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 67,
+          "averageScore": 73,
           "studios": {
             "nodes": [
               {
-                "name": "animation studio42"
+                "name": "Kinema Citrus"
               }
             ]
           },
-          "description": "<p>Dias finally returns home after decades of war. He's hailed as a hero and promptly rewarded with his own domain...which turns out to be little more than empty plains. Population: zero. Dias, who has only ever known battle, finds himself at a loss. How is he supposed to survive, let alone cultivate his territory into a thriving, prosperous dominion when there's nothing but grass as far as can see?<br />\n<br><br><br />\nFortunately for Dias, a horned girl by the name of Alna is about to show him there's more to the plains than meets the eye!<br />\n<br><br><br />\n(Source: J-Novel Club)<br><br></p>\n<p><i>Note: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama is streaming a week advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting begins on July 10th, 2026.</i></p>",
+          "description": "<p>Once upon a time, a mermaid princess named Lara fell in love with a human prince. To be with him, she used a witch’s potion to become human—but the magic came at a cost: If she failed to find true love, she would vanish into sea foam forever. Now, 200 years later, Lara awakens in Lake Biwa with one final chance at life and love.<br><br><br />\n(Source: Crunchyroll)</p>",
           "externalLinks": [
             {
-              "site": "Twitter",
-              "url": "https://x.com/ryomin0_anime"
+              "site": "Official Site",
+              "url": "https://goodbyelara.com/"
             },
             {
-              "site": "Official Site",
-              "url": "https://ryomin0-anime.com/"
+              "site": "Twitter",
+              "url": "https://x.com/Goodbye_Lara"
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378124/the-frontier-lord-begins-with-zero-subjects"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/media/2413170"
+              "url": "https://www.crunchyroll.com/series/GT00378059/goodbye-lara"
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Dias onlarca yıldır süren savaşın ardından nihayet evine döner. Bir kahraman olarak selamlandı ve hemen kendi alanıyla ödüllendirildi... ki bu alanın boş ovalardan pek de fazlası olmadığı ortaya çıktı. Nüfus: sıfır. Şimdiye kadar yalnızca savaşı bilen Dias, kendini çaresiz durumda bulur. Görebildiği kadarıyla çimenden başka bir şey yokken, bırakın topraklarını gelişen, müreffeh bir egemenliğe dönüştürmek şöyle dursun, nasıl hayatta kalacak?<br><br>Neyse ki Dias'a, Alna adındaki boynuzlu bir kız, ona ovalarda göründüğünden çok daha fazlası olduğunu göstermek üzere!<br><br>(Kaynak: J-Novel Kulübü)<br><br>Not: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama, 3 Temmuz 2026'dan itibaren Prime Video'da TV yayınının bir hafta öncesinden yayınlanıyor. Normal yayın 10 Temmuz 2026'da başlıyor."
+          "descriptionTr": "Bir zamanlar Lara adında bir deniz kızı prensesi, insan bir prense aşık olur. Onunla birlikte olabilmek için insan olabilmek için bir cadı iksiri kullandı ama bu büyünün bir bedeli vardı: Eğer gerçek aşkı bulamazsa, sonsuza dek deniz köpüğünün içinde kaybolacaktı. Şimdi, 200 yıl sonra Lara, Biwa Gölü'nde hayat ve aşk için son bir şansla uyanır.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 192800,
@@ -3525,8 +3771,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1783348200,
-            "episode": 1
+            "airingAt": 1783953000,
+            "episode": 2
           },
           "isAdult": false,
           "genres": [
@@ -3571,7 +3817,7 @@
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/"
+              "url": "https://www.crunchyroll.com/series/GT00378120/oh-boy-was-i-wrong-about-her"
             }
           ],
           "isMyList": false,
@@ -3672,9 +3918,13 @@
             {
               "name": "Ensemble Cast",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Iyashikei",
+              "isMediaSpoiler": false
             }
           ],
-          "averageScore": 71,
+          "averageScore": 72,
           "studios": {
             "nodes": [
               {
@@ -3706,125 +3956,91 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Hikaye, ormanda bir anne kedi tarafından büyütülen, ateş püskürten, insanlardan nefret eden bir ejderhayı konu alıyor. Sevgiyle \"Wing Amca\" olarak anılan ejderha, biri insan prensle maceraya çıkan, diğeri şehirde yaşayan ve insanları hobi olarak izleyen pek çok meraklı kediye göz kulak oluyor ve yol boyunca yavaş yavaş insanlara ısınıyor.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Her bölüm ABEMA ve dAnimeStore'da 1 hafta erken yayınlandı. Orijinal TV yayını 4 Temmuz 2026'da başladı."
+          "descriptionTr": "Hikaye, ormanda bir anne kedi tarafından büyütülen, ateş püskürten, insanlardan nefret eden bir ejderhayı konu alıyor. Sevgiyle \"Wing Amca\" olarak anılan ejderha, biri insan prensle maceraya çıkan, diğeri şehirde yaşayan ve insanları hobi olarak izleyen pek çok meraklı kediyi gözetliyor ve yol boyunca yavaş yavaş insanlara ısınıyor.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Her bölüm ABEMA ve dAnimeStore'da 1 hafta erken yayınlandı. Orijinal TV yayını 4 Temmuz 2026'da başladı."
         },
         {
-          "id": 177637,
+          "id": 198409,
           "title": {
-            "romaji": "Sayonara Lara",
-            "english": "Goodbye, Lara",
-            "native": "さよなら ララ"
+            "romaji": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
+            "english": "The World's Strongest Rearguard",
+            "native": "世界最強の後衛 ～迷宮国の新人探索者～"
           },
-          "synonyms": [
-            "さよララ",
-            "SayoLara"
-          ],
+          "synonyms": [],
           "startDate": {
             "year": 2026,
             "month": 7,
-            "day": 6
+            "day": 5
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177637-8onaQWqKW1C3.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198409-EiWJXfYnvfu4.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198409-EiWJXfYnvfu4.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177637-2Ok4Pq0SpvHp.jpg",
+          "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1783870200,
+            "airingAt": 1783861200,
             "episode": 2
           },
           "isAdult": false,
           "genres": [
-            "Romance",
-            "Supernatural"
+            "Action",
+            "Adventure",
+            "Fantasy"
           ],
           "tags": [
             {
-              "name": "Fairy Tale",
+              "name": "Isekai",
               "isMediaSpoiler": false
             },
             {
-              "name": "Mermaid",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Reincarnation",
+              "name": "Medieval",
               "isMediaSpoiler": false
             },
             {
-              "name": "Coastal",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Interspecies",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Skip",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Curses",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shapeshifting",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Witch",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
+              "name": "Female Harem",
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": null,
+          "averageScore": 59,
           "studios": {
             "nodes": [
               {
-                "name": "Kinema Citrus"
+                "name": "Maho Film"
               }
             ]
           },
-          "description": "<p>Once upon a time, a mermaid princess named Lara fell in love with a human prince. To be with him, she used a witch’s potion to become human—but the magic came at a cost: If she failed to find true love, she would vanish into sea foam forever. Now, 200 years later, Lara awakens in Lake Biwa with one final chance at life and love.<br><br><br />\n(Source: Crunchyroll)</p>",
+          "description": "<p>After a fatal accident, overworked office worker Arihito Atobe is reborn in the Labyrinth Country as a Seeker with the rare Rearguard class—an all-purpose support role that excels in attack, defense, and healing. Joined by a fierce demi-human mercenary and his former boss, Arihito dives into deadly dungeons and rises through the ranks. The adventure of the strongest support class begins!<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
           "externalLinks": [
             {
-              "site": "Official Site",
-              "url": "https://goodbyelara.com/"
+              "site": "Twitter",
+              "url": "https://x.com/Rearguard_PR"
             },
             {
-              "site": "Twitter",
-              "url": "https://x.com/Goodbye_Lara"
+              "site": "Official Site",
+              "url": "https://strongestrearguard-anime.com/"
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378059/goodbye-lara"
+              "url": "https://www.crunchyroll.com/series/GT00378122/the-worlds-strongest-rearguard"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2411817"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/25liakoq52p"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3IS1Ybw9xSItdpPhLKNhAM"
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bir zamanlar Lara adında bir deniz kızı prensesi, insan bir prense aşık olur. Onunla birlikte olabilmek için insan olabilmek için bir cadı iksiri kullandı ama bu büyünün bir bedeli vardı: Eğer gerçek aşkı bulamazsa, sonsuza kadar deniz köpüğünün içinde kaybolacaktı. Şimdi, 200 yıl sonra Lara, Biwa Gölü'nde hayat ve aşk için son bir şansla uyanır.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Ölümcül bir kazanın ardından aşırı çalışan ofis çalışanı Arihito Atobe, saldırı, savunma ve iyileştirmede üstün olan çok amaçlı bir destek rolü olan nadir Arka Koruma sınıfına sahip bir Arayıcı olarak Labirent Ülkesi'nde yeniden doğar. Vahşi bir yarı insan paralı asker ve eski patronunun da katıldığı Arihito, ölümcül zindanlara dalıyor ve rütbelerde yükseliyor. En güçlü destek sınıfının macerası başlıyor!<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 202269,
@@ -3848,8 +4064,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1783339200,
-            "episode": 1
+            "airingAt": 1783944000,
+            "episode": 2
           },
           "isAdult": false,
           "genres": [
@@ -3898,11 +4114,15 @@
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com"
+              "url": "https://www.crunchyroll.com/series/GT00378087/love-unseen-beneath-the-clear-night-sky"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2413250"
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Tokyo'da bir Nisan gecesi, havai fişek patlatmak için henüz çok erken olan üniversite öğrencisi Kakeru Sorano, Koharu Fuyutsuki adında bir kadınla tanışır. O, kalabalığın arasından sıyrılan, çok gülen ve Kakeru'nun kendi içedönüklüğüyle keskin bir tezat oluşturan bir sıcaklık yayan güzel bir kız. Ancak Kakeru'nun ilk başta bilmediği bir şey vardı; göremiyordu.<br><br>Kakeru'nun aksine Koharu, körlüğüne rağmen hiçbir şeyden vazgeçmedi. Her gün üniversiteye gidiyor, kulüplere ilgi gösteriyor, arkadaşlar ediniyor ve bir gün havai fişek fırlatmanın hayalini kuruyor. Kakeru onları göremeyince nedenini merak ediyor... ama belki de bunun bir önemi yoktur. Ve belki her zaman yanında olan kız için de ilerlemeye başlayabilir.<br><br>(Kaynak: Yen Press)"
+          "descriptionTr": "Tokyo'da bir Nisan gecesi, havai fişek gösterisi için henüz çok erken olan üniversite öğrencisi Kakeru Sorano, Koharu Fuyutsuki adında bir kadınla tanışır. O, kalabalığın arasından sıyrılan, çok gülen ve Kakeru'nun kendi içe dönüklüğüyle keskin bir tezat oluşturan bir sıcaklık yayan güzel bir kız. Ancak Kakeru'nun ilk başta bilmediği bir şey vardı; göremiyordu.<br><br>Kakeru'nun aksine Koharu, körlüğüne rağmen hiçbir şeyden vazgeçmedi. Her gün üniversiteye gidiyor, kulüplere ilgi gösteriyor, arkadaşlar ediniyor ve bir gün havai fişek fırlatmanın hayalini kuruyor. Kakeru onları göremeyince nedenini merak ediyor... ama belki de bunun bir önemi yoktur. Ve belki her zaman yanında olan kız için de ilerlemeye başlayabilir.<br><br>(Kaynak: Yen Press)"
         },
         {
           "id": 196219,
@@ -4162,77 +4382,6 @@
           "descriptionTr": "Kayıp krallığın Prensesi Safir. \"Nergal\" olarak bilinen felaket nedeniyle memleketi Silverland'deki her şeyden mahrum kalan sanatçı, umutsuzluğun en derin noktasında Goldland'e geldi. Geçmişinin ağırlığını taşırken insanların nezaketinde bir umut ışığı bulmaya başladı. Ancak onun huzurlu günlük yaşamıyla alay edercesine, \"Nergal\" felaketi bir kez daha karşımıza çıkar. Vatanını küle çeviren çaresizlik, şimdi bu toprakların ışığını da çalmakla tehdit ediyor.<br><br>\"Benim için artık kayıp yok. Kimse için artık kayıp yok.\" <br><br>Genç kız, üzüntü korkusunu bir kenara bırakarak kılıcını alır. <br>Bu, kurdelesini bağlayıp kadere meydan okumaya karar veren bir kahramanın hikayesidir. <br><br>(Kaynak: THE RIBBON HERO Resmi Sitesi)<br><br> Not: Bu anime Osamu Tezuka'nın \"Princess Knight\" adlı mangasından esinlenilmiştir."
         },
         {
-          "id": 209961,
-          "title": {
-            "romaji": "Shibou Yuugi de Meshi wo Kuu. 44:CLOUDY BEACH",
-            "english": null,
-            "native": "死亡遊戯で飯を食う。44:CLOUDY BEACH"
-          },
-          "synonyms": [
-            "SHIBOYUGI: Playing Death Games to Put Food on the Table - 44: CLOUDY BEACH"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 10
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209961-EKMAWTp299Kt.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209961-EKMAWTp299Kt.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1783609200,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Drama",
-            "Mystery",
-            "Thriller"
-          ],
-          "tags": [
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Death Game",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coastal",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Studio DEEN"
-              }
-            ]
-          },
-          "description": "<p>Theatrical follow-up to <i>Shibou Yuugi de Meshi wo Kuu.</i><br />\n<br><br><br />\nThis is the story of a certain insane world.  <br><br><br />\nPlayer name: Yuuki. Occupation: Professional in deadly games. <br><br><br />\nOvercoming the jinx known as the &quot;Thirty Game Wall,&quot; which drastically reduces the survival rate of players, Yuuki continues her journey. A game where death is always close at hand. Next, she takes on a remote island in the middle of the ocean. Eight players have gathered there. Among them are seasoned veterans whom Yuuki knows. The game is &quot;Cloudy Beach.&quot; Beyond the wall, only those who have crossed the wall remain. Today, once again, she makes a living playing deadly games. <br><br> (Source: Official Site, translated)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/shibouyugi_"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://shiboyugi-anime.com/theater/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Shibou Yuugi de Meshi wo Kuu'nun teatral devamı.<br><br>Bu çılgın bir dünyanın hikayesi.  <br><br>Oyuncu adı: Yuuki. Mesleği: Ölümcül oyunlarda profesyonel. <br><br>\"Otuz Oyun Duvarı\" olarak bilinen ve oyuncuların hayatta kalma oranını büyük ölçüde azaltan uğursuzluğun üstesinden gelen Yuuki, yolculuğuna devam ediyor. Ölümün her zaman yakın olduğu bir oyun. Daha sonra okyanusun ortasındaki uzak bir adaya saldırır. Sekiz oyuncu orada toplandı. Bunların arasında Yuuki'nin tanıdığı tecrübeli gaziler de var. Oyunun adı \"Bulutlu Plaj\". Duvarın ötesinde yalnızca duvarı aşanlar kalır. Bugün bir kez daha ölümcül oyunlar oynayarak geçimini sağlıyor. <br><br> (Kaynak: Resmi Site, tercüme)"
-        },
-        {
           "id": 207674,
           "title": {
             "romaji": "Ushiro no Shoumen Kamui-san",
@@ -4322,7 +4471,172 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bu şeytan çıkarma OMFFFFFFFFF!!!! Shizuka, \"sadece\" hayaletleri gören, sıradan bir liseli kız olduğunu iddia ediyor. Ruhları kendine çekme konusundaki eşsiz yeteneğini kullanarak ünlü medyum Kamui'nin asistanı olarak çalışıyor. Kamui ezici bir ruhsal güce sahip olmasına rağmen, şeytan çıkarma yöntemleri eşi benzeri görülmemiş...?! Doğaüstü rahatsızlıkların sürüklediği Shizuka, huzuru bulabilecek mi? \"Yüce\" şeytan çıkarma ayininin perdesi kalkıyor!! Aman Tanrım!<br><br>(Kaynak: OceanVeil)"
+          "descriptionTr": "Bu şeytan çıkarma OMFFFFFFFFF!!!! Shizuka, \"sadece\" hayaletleri gören, sıradan bir liseli kız olduğunu iddia ediyor. Ruhları kendine çekme konusundaki eşsiz yeteneğini kullanarak ünlü medyum Kamui'nin asistanı olarak çalışıyor. Kamui ezici bir ruhsal güce sahip olmasına rağmen, onun şeytan çıkarma yöntemleri emsalsiz...?! Doğaüstü rahatsızlıkların sürüklediği Shizuka, huzuru bulabilecek mi? \"Yüce\" şeytan çıkarma ayininin perdesi kalkıyor!! Aman Tanrım!<br><br>(Kaynak: OceanVeil)"
+        },
+        {
+          "id": 194219,
+          "title": {
+            "romaji": "Oni no Hanayome",
+            "english": "The Ogre's Bride",
+            "native": "鬼の花嫁"
+          },
+          "synonyms": [
+            "OniHana"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194219-qf7L0SfVi6nc.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194219-qf7L0SfVi6nc.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1783783800,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama",
+            "Fantasy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shoujo",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Demons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Youkai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Fairy Tale",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Arranged Marriage",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 65,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Colored Pencil Animation Japan"
+              }
+            ]
+          },
+          "description": "<p>A Japanese-style ayakashi Cinderella story! <i>&quot;You're the bride I've been searching for all this time.&quot;</i> The ayakashi and humans coexist in harmony. The ayakashi, having superior abilities and beautiful appearances, sometimes find their partner among human women, making them their &quot;bride&quot;. The bride, in exchange for bringing prosperity, receives absolute love from the ayakashi. Yuzu is constantly compared to her sister, a bride of a demon fox, and is resented by her family every day. One day, when Yuzu just couldn't take things anymore, a man appears before her on a bridge. This man is the most beautiful man Yuzu has ever seen... and he's calling her his wife?! <i>&quot;Just be quiet and let me hold you.&quot;</i> The most powerful, &quot;cold-hearted&quot; ayakashi is pouring his heart out for Yuzu?!<br><br><br />\n(Source: MangaPlaza)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/onihana_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://onihana-anime.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378121/the-ogres-bride"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Japon tarzı bir ayakaşi Cinderella hikayesi! \"Bunca zamandır aradığım gelin sensin.\" Ayakaşiler ve insanlar uyum içinde bir arada yaşarlar. Üstün yeteneklere ve güzel görünüme sahip olan ayakaşiler, bazen insan kadınları arasında kendilerine eş bularak onları \"gelinleri\" haline getirirler. Gelin, refah getirmesi karşılığında ayakaşiden mutlak sevgi alır. Yuzu sürekli olarak şeytan tilkinin gelini olan kız kardeşiyle karşılaştırılıyor ve ailesi tarafından her gün kızıyor. Bir gün Yuzu artık hiçbir şeye dayanamadığında, köprüde karşısına bir adam çıkar. Bu adam Yuzu'nun gördüğü en güzel adam... ve ona karısı mı diyor?! \"Sessiz ol ve sana sarılmama izin ver.\" En güçlü, \"soğuk kalpli\" ayakaşi, Yuzu için kalbini mi döküyor?!<br><br>(Kaynak: MangaPlaza)"
+        },
+        {
+          "id": 209961,
+          "title": {
+            "romaji": "Shibou Yuugi de Meshi wo Kuu. 44:CLOUDY BEACH",
+            "english": null,
+            "native": "死亡遊戯で飯を食う。44:CLOUDY BEACH"
+          },
+          "synonyms": [
+            "SHIBOYUGI: Playing Death Games to Put Food on the Table - 44: CLOUDY BEACH"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 10
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209961-EKMAWTp299Kt.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209961-EKMAWTp299Kt.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1783609200,
+            "episode": 1
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Drama",
+            "Mystery",
+            "Thriller"
+          ],
+          "tags": [
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Death Game",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coastal",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Studio DEEN"
+              }
+            ]
+          },
+          "description": "<p>Theatrical follow-up to <i>Shibou Yuugi de Meshi wo Kuu.</i><br />\n<br><br><br />\nThis is the story of a certain insane world.  <br><br><br />\nPlayer name: Yuuki. Occupation: Professional in deadly games. <br><br><br />\nOvercoming the jinx known as the &quot;Thirty Game Wall,&quot; which drastically reduces the survival rate of players, Yuuki continues her journey. A game where death is always close at hand. Next, she takes on a remote island in the middle of the ocean. Eight players have gathered there. Among them are seasoned veterans whom Yuuki knows. The game is &quot;Cloudy Beach.&quot; Beyond the wall, only those who have crossed the wall remain. Today, once again, she makes a living playing deadly games. <br><br> (Source: Official Site, translated)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/shibouyugi_"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://shiboyugi-anime.com/theater/"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Shibou Yuugi de Meshi wo Kuu'nun teatral devamı.<br><br>Bu çılgın bir dünyanın hikayesi.  <br><br>Oyuncu adı: Yuuki. Mesleği: Ölümcül oyunlarda profesyonel. <br><br>\"Otuz Oyun Duvarı\" olarak bilinen ve oyuncuların hayatta kalma oranını büyük ölçüde azaltan uğursuzluğun üstesinden gelen Yuuki, yolculuğuna devam ediyor. Ölümün her zaman yakın olduğu bir oyun. Daha sonra okyanusun ortasındaki uzak bir adaya saldırır. Sekiz oyuncu orada toplandı. Bunların arasında Yuuki'nin tanıdığı tecrübeli gaziler de var. Oyunun adı \"Bulutlu Plaj\". Duvarın ötesinde yalnızca duvarı aşanlar kalır. Bugün bir kez daha ölümcül oyunlar oynayarak geçimini sağlıyor. <br><br> (Kaynak: Resmi Site, tercüme)"
         },
         {
           "id": 169582,
@@ -4347,8 +4661,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1783339020,
-            "episode": 1
+            "airingAt": 1783943820,
+            "episode": 2
           },
           "isAdult": false,
           "genres": [
@@ -4384,7 +4698,7 @@
               }
             ]
           },
-          "description": "<p>Arnold, the seventh Imperial Prince of the Adrasia Empire, is called &quot;THE INSIPID PRINCE&quot; among people since his twin brother is genius and respected by all people. However, he has a secret identity -SILVER, one of the only five -SS-rank adventurers in the continent. When his younger brother Leo decides to aim for the throne, Arnold starts running things behind the scenes to support his brother. Unexpectedly the most beautiful lady becomes his assistant. The secret struggle of the strongest prince begins!<br />\n<br><br><br />\n(Source: Kadokawa)</p>",
+          "description": "<p>To the empire, Prince Arnold is one big joke, a completely inept prince outshone by his more talented twin, Leonard. But in secret, Arnold operates as Silver, one of only five magic-wielding SS-rank adventurers on the continent. As the bloody battle for the throne intensifies after the crown prince’s death, Arnold pulls the strings from the shadows to crown his twin emperor to his own advantage.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
           "externalLinks": [
             {
               "site": "Twitter",
@@ -4396,169 +4710,11 @@
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/"
+              "url": "https://www.crunchyroll.com/series/GT00378119/the-insipid-princes-furtive-grab-for-the-throne"
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Adrasia İmparatorluğu'nun yedinci İmparatorluk Prensi Arnold, ikiz kardeşinin dahi olması ve tüm insanlar tarafından saygı duyulması nedeniyle halk arasında \"YASIZ PRENS\" olarak anılır. Ancak gizli bir kimliği var: GÜMÜŞ, kıtadaki tek SS seviyeli beş maceracıdan biri. Küçük kardeşi Leo tahtı hedeflemeye karar verdiğinde Arnold, kardeşine destek olmak için perde arkasında işleri yürütmeye başlar. Beklenmedik bir şekilde en güzel bayan onun asistanı olur. En güçlü prensin gizli mücadelesi başlıyor!<br><br>(Kaynak: Kadokawa)"
-        },
-        {
-          "id": 198409,
-          "title": {
-            "romaji": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
-            "english": "The World's Strongest Rearguard",
-            "native": "世界最強の後衛 ～迷宮国の新人探索者～"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198409-EiWJXfYnvfu4.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198409-EiWJXfYnvfu4.png"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1783861200,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Maho Film"
-              }
-            ]
-          },
-          "description": "<p>After a fatal accident, overworked office worker Arihito Atobe is reborn in the Labyrinth Country as a Seeker with the rare Rearguard class—an all-purpose support role that excels in attack, defense, and healing. Joined by a fierce demi-human mercenary and his former boss, Arihito dives into deadly dungeons and rises through the ranks. The adventure of the strongest support class begins!<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/Rearguard_PR"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://strongestrearguard-anime.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378122/the-worlds-strongest-rearguard"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Ölümcül bir kazanın ardından aşırı çalışan ofis çalışanı Arihito Atobe, saldırı, savunma ve iyileştirmede üstün olan çok amaçlı bir destek rolü olan nadir Arka Koruma sınıfına sahip bir Arayıcı olarak Labirent Ülkesi'nde yeniden doğar. Vahşi bir yarı insan paralı asker ve eski patronunun da katıldığı Arihito, ölümcül zindanlara dalıyor ve rütbelerde yükseliyor. En güçlü destek sınıfının macerası başlıyor!<br><br>(Kaynak: Crunchyroll)"
-        },
-        {
-          "id": 199066,
-          "title": {
-            "romaji": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
-            "english": "Hanaori-san Still Wants to Fight in the Next Life",
-            "native": "花織さんは転生しても喧嘩がしたい"
-          },
-          "synonyms": [
-            "Hanaori-san Wants to Have A Fight Even If She Reincarnates"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 12
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199066-YXDVsguvFZMm.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199066-YXDVsguvFZMm.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1783789200,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "Reverse Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Gap",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "LIDENFILMS"
-              }
-            ]
-          },
-          "description": "<p>Once the Demon King, now a shut-in NEET—Ryuusei Narukami’s second life is anything but peaceful! When Meteor Hanaori, the Hero who once defeated him, suddenly returns as a normal high school girl, his world is thrown into chaos. Determined to change, Ryuusei reenters society as a teacher and ends up teaching at her school! Their explosive reunion reignites the past—and sparks an unexpected love!<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/hanaori_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://hanaorisan-anime.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378066/hanaori-san-still-wants-to-fight-in-the-next-life"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Bir zamanlar Şeytan Kral olan şimdi NEET'e kapanmış bir kişi olan Ryuusei Narukami'nin ikinci hayatı hiç de huzurlu değil! Bir zamanlar onu mağlup eden kahraman Meteor Hanaori aniden normal bir liseli kız olarak geri döndüğünde dünyası kaosa sürüklenir. Değişmeye kararlı olan Ryuusei, öğretmen olarak topluma yeniden girer ve sonunda okulunda öğretmenlik yapmaya başlar! Heyecan verici buluşmaları geçmişi yeniden alevlendirir ve beklenmedik bir aşkın fitilini ateşler!<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "İmparatorluk için Prens Arnold büyük bir şakadır; daha yetenekli ikizi Leonard tarafından gölgede bırakılan tamamen beceriksiz bir prens. Ancak Arnold gizlice, kıtadaki sihir kullanan beş SS rütbeli maceracıdan biri olan Silver olarak faaliyet göstermektedir. Veliaht prensin ölümünün ardından taht için verilen kanlı savaş yoğunlaşırken Arnold, ikiz imparatorunu kendi avantajına taçlandırmak için ipleri gölgelerin arasından çekiyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 203880,
@@ -4674,41 +4830,45 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bulutlar gökyüzünü karartıyor ve yağmur tabakaları dağ ormanını hain bir labirent haline getiriyor... Heyelan dikenli telleri ezer ve \"GİRİLMEZ\" tabelasını gömer... İki genç kardeş ait olmadıkları karanlık bir dünyaya doğru yola çıkarlar ve uzun, korkunç bir gölge onları karşılamak için yükselir... Neyse, işte Dara-san'la böyle tanıştık! Biraz korkutucu görünebilir ama onu tanıyana kadar bekleyin!<br><br>\"Bakın, ben bir talihsizlik tanrısıyım, tamam mı!? Siz çocuklar benim garip yüzüm yüzünden çıldırmayacak mısınız!?\"<br><br>(Kaynak: Yen Press)"
+          "descriptionTr": "Bulutlar gökyüzünü karartıyor ve yağmur tabakaları dağ ormanını hain bir labirent haline getiriyor... Heyelan dikenli telleri ezer ve \"GİRİLMEZ\" tabelasını gömer... İki genç kardeş ait olmadıkları karanlık bir dünyaya doğru yola çıkarlar ve uzun, korkunç bir gölge onları karşılamak için yükselir... Neyse, işte Dara-san'la böyle tanıştık! Biraz korkutucu görünebilir ama onu tanıyana kadar bekleyin!<br><br>\"Bakın, ben bir talihsizlik tanrısıyım, tamam mı!? Siz çocuklar benim tuhaf yüzüm yüzünden çıldırmayacak mısınız!?\"<br><br>(Kaynak: Yen Press)"
         },
         {
-          "id": 194219,
+          "id": 199066,
           "title": {
-            "romaji": "Oni no Hanayome",
-            "english": "The Ogre's Bride",
-            "native": "鬼の花嫁 "
+            "romaji": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
+            "english": "Hanaori-san Still Wants to Fight in the Next Life",
+            "native": "花織さんは転生しても喧嘩がしたい"
           },
           "synonyms": [
-            "OniHana"
+            "Hanaori-san Wants to Have A Fight Even If She Reincarnates"
           ],
           "startDate": {
             "year": 2026,
             "month": 7,
-            "day": 5
+            "day": 12
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194219-qf7L0SfVi6nc.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194219-qf7L0SfVi6nc.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199066-YXDVsguvFZMm.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199066-YXDVsguvFZMm.jpg"
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1783783800,
-            "episode": 2
+            "airingAt": 1783789200,
+            "episode": 1
           },
           "isAdult": false,
           "genres": [
-            "Drama",
-            "Fantasy",
-            "Romance"
+            "Comedy",
+            "Romance",
+            "Supernatural"
           ],
           "tags": [
             {
-              "name": "Shoujo",
+              "name": "Reverse Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Reincarnation",
               "isMediaSpoiler": false
             },
             {
@@ -4716,59 +4876,51 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Historical",
+              "name": "Age Gap",
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban Fantasy",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
-              "name": "Demons",
+              "name": "School",
               "isMediaSpoiler": false
             },
             {
-              "name": "Youkai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Fairy Tale",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Arranged Marriage",
+              "name": "Seinen",
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 62,
+          "averageScore": null,
           "studios": {
             "nodes": [
               {
-                "name": "Colored Pencil Animation Japan"
+                "name": "LIDENFILMS"
               }
             ]
           },
-          "description": "<p>A Japanese-style ayakashi Cinderella story! <i>&quot;You're the bride I've been searching for all this time.&quot;</i> The ayakashi and humans coexist in harmony. The ayakashi, having superior abilities and beautiful appearances, sometimes find their partner among human women, making them their &quot;bride&quot;. The bride, in exchange for bringing prosperity, receives absolute love from the ayakashi. Yuzu is constantly compared to her sister, a bride of a demon fox, and is resented by her family every day. One day, when Yuzu just couldn't take things anymore, a man appears before her on a bridge. This man is the most beautiful man Yuzu has ever seen... and he's calling her his wife?! <i>&quot;Just be quiet and let me hold you.&quot;</i> The most powerful, &quot;cold-hearted&quot; ayakashi is pouring his heart out for Yuzu?!<br><br><br />\n(Source: MangaPlaza)</p>",
+          "description": "<p>Once the Demon King, now a shut-in NEET—Ryuusei Narukami’s second life is anything but peaceful! When Meteor Hanaori, the Hero who once defeated him, suddenly returns as a normal high school girl, his world is thrown into chaos. Determined to change, Ryuusei reenters society as a teacher and ends up teaching at her school! Their explosive reunion reignites the past—and sparks an unexpected love!<br><br><br />\n(Source: Crunchyroll)</p>",
           "externalLinks": [
             {
               "site": "Twitter",
-              "url": "https://x.com/onihana_anime"
+              "url": "https://x.com/hanaori_anime"
             },
             {
               "site": "Official Site",
-              "url": "https://onihana-anime.com/"
+              "url": "https://hanaorisan-anime.com/"
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378121/the-ogres-bride"
+              "url": "https://www.crunchyroll.com/series/GT00378066/hanaori-san-still-wants-to-fight-in-the-next-life"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2413807"
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Japon tarzı bir ayakaşi Cinderella hikayesi! \"Bunca zamandır aradığım gelin sensin.\" Ayakaşiler ve insanlar uyum içinde bir arada yaşarlar. Üstün yeteneklere ve güzel görünüme sahip olan ayakaşiler, bazen insan kadınları arasında kendilerine eş bularak onları \"gelinleri\" haline getirirler. Gelin, refah getirmesi karşılığında ayakaşiden mutlak sevgi alır. Yuzu sürekli olarak şeytan tilkinin gelini olan kız kardeşiyle karşılaştırılıyor ve ailesi tarafından her gün kızıyor. Bir gün Yuzu artık hiçbir şeye dayanamadığında, köprüde karşısına bir adam çıkar. Bu adam Yuzu'nun gördüğü en güzel adam... ve ona karısı mı diyor?! \"Sessiz ol ve sana sarılmama izin ver.\" En güçlü, \"soğuk kalpli\" ayakaşi, Yuzu için kalbini mi döküyor?!<br><br>(Kaynak: MangaPlaza)"
+          "descriptionTr": "Bir zamanlar Şeytan Kral olan şimdi NEET'e kapanmış bir kişi olan Ryuusei Narukami'nin ikinci hayatı hiç de huzurlu değil! Bir zamanlar onu mağlup eden kahraman Meteor Hanaori aniden normal bir liseli kız olarak geri döndüğünde dünyası kaosa sürüklenir. Değişmeye kararlı olan Ryuusei, öğretmen olarak topluma yeniden girer ve sonunda kendi okulunda öğretmenlik yapar! Heyecan verici buluşmaları geçmişi yeniden alevlendirir ve beklenmedik bir aşkın fitilini ateşler!<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 199408,
@@ -4789,8 +4941,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1783344600,
-            "episode": 1
+            "airingAt": 1783949400,
+            "episode": 2
           },
           "isAdult": false,
           "genres": [
@@ -4843,11 +4995,92 @@
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/"
+              "url": "https://www.crunchyroll.com/series/GT00379182/a-livid-ladys-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires"
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Nüfuzlu başbakanın kızı Elizabeth Leiston, Haldoria Krallığı'nın gelecekteki kraliçesi olma yolundaki kusursuz bir hanımefendi. Ancak nişanlısının halka açık bir şekilde nişanlarını iptal ettiğini gösteren bir gösteri yapmasıyla hayatı aniden kötüye gider. Kısa süre sonra onu hapse atar ve onun hakkında kötü söylentiler yaymaya başlar. Elizabeth'in, sadık hizmetçisi Mireille'den aldığı cesaret ve içindeki öfke, hedeflerini yeniden gözden geçirmek için ihtiyacı olan tek şey. Kendisine saygı duymayan bir ülkeyi ayaklar altına almak varken neden kendini ona adamaya devam etsin ki? Yaptığı son şey olsa bile, kendisine haksızlık edenlerin intikamını alacak ve lanet krallığı yıkacak! Şans eseri, Elizabeth tehlikede olan bir genç kız değil ve kullanmaktan çekinmeyeceği yedi güçlü büyü kitabına sahip. Hazır olun çünkü bu acımasız kadının kana ihtiyacı var!<br><br>(Kaynak: J-Novel Kulübü)"
+          "descriptionTr": "Nüfuzlu başbakanın kızı Elizabeth Leiston, Haldoria Krallığı'nın gelecekteki kraliçesi olma yolundaki kusursuz bir hanımefendi. Ancak nişanlısının halka açık bir şekilde nişanlarını iptal ettiğini gösteren bir gösteri yapmasıyla hayatı aniden en kötüye dönüşür. Kısa süre sonra onu hapse atar ve onun hakkında kötü söylentiler yaymaya başlar. Elizabeth'in, sadık hizmetçisi Mireille'den aldığı cesaret ve içindeki öfke, hedeflerini yeniden gözden geçirmek için ihtiyacı olan tek şey. Kendisine saygı duymayan bir ülkeyi ayaklar altına almak varken neden kendini ona adamaya devam etsin ki? Yaptığı son şey olsa bile, kendisine haksızlık edenlerin intikamını alacak ve lanet krallığı yıkacak! Şans eseri, Elizabeth tehlikede olan bir genç kız değil ve kullanmaktan çekinmeyeceği yedi güçlü büyü kitabına sahip. Hazır olun çünkü bu acımasız kadının kana ihtiyacı var!<br><br>(Kaynak: J-Novel Kulübü)"
+        },
+        {
+          "id": 208225,
+          "title": {
+            "romaji": "\"Kimi wo Aisuru Ki wa nai\" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu",
+            "english": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
+            "native": "「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます"
+          },
+          "synonyms": [
+            "きみ愛",
+            "KimiAi"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208225-HJbCC0Z4xRp3.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208225-HJbCC0Z4xRp3.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1783787400,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Fantasy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shoujo",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 60,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Zero-G"
+              },
+              {
+                "name": "Grass"
+              }
+            ]
+          },
+          "description": "<p>Elsa, the daughter of a fallen aristocrat, receives news. It was a marriage proposal from Julius, a very elite nobleman. Elsa is wondering,&quot; Why would such a distinguished man marry me&quot;? But after the wedding, Julius, who had been kind and gentle up to that point, changed completely! In a cold voice, he tells her,&quot; I have no intention of loving you&quot;.<br />\n<br><br><br />\n(Source: MangaPlaza)</p>",
+          "externalLinks": [
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@kimiai_official"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/kimiai_official"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://kimiai-anime.com/"
+            },
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/kimiai_official/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378118/the-dukes-son-claims-he-wont-love-me-but-showers-me-with-adoration"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Düşmüş bir aristokratın kızı Elsa, bir haber alır. Bu, çok seçkin bir soylu olan Julius'un evlenme teklifiydi. Elsa \"Bu kadar seçkin bir adam neden benimle evlensin?\" diye merak ediyor. Ancak düğünden sonra o ana kadar nazik ve nazik olan Julius tamamen değişti! Soğuk bir sesle ona \"Seni sevmeye hiç niyetim yok\" diyor.<br><br>(Kaynak: MangaPlaza)"
         },
         {
           "id": 185875,
@@ -4943,7 +5176,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 63,
+          "averageScore": 65,
           "studios": {
             "nodes": [
               {
@@ -4968,93 +5201,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Otuz yıl önce, bilinmeyen \"istilacı yabancı türlerin\" aniden ortaya çıkmasıyla dünya neredeyse yok olmuştu.<br><br>İnsanlar ve bu \"istilacı türler\" yaşam alanı için rekabet etmeye devam ediyor ve insanlığın güvenliği şu anda zar zor güvence altına alınmış olsa da, dünya her an yok olabilir. Ölüm ve yıkım korkusu içinde yaşayan insanlar, adeta gözlerini tehlikeden ve felaketten uzaklaştırmaya çalışır gibi günlük yaşamlarını sürdürürler.<br><br>Bu dünyada, Birleşmiş Milletler Tehlikeli Türleri Araştırma Ajansı \"EXCEEDS\", istilacı türlerin neden olduğu krizleri ve felaketleri önlemek için çalışmalara başladı.<br><br>Hikaye Uzak Doğu'daki ada ülkesi \"Mizuho\"da başlıyor. Shina Hisase, uzak bir adada yaşayan genç bir istilacı tür yok etme avcısıdır. Ailesinden geriye kalan tek kişi olan küçük kız kardeşi Setsuna ile huzur içinde yaşamak isteyen Shina'nın başına nasıl bir olay gelecektir?<br><br>Not: İlk bölüm, standart 24 dakikalık bölümün aksine ~48 dakikalık bir çalışma süresiyle yayınlandı."
-        },
-        {
-          "id": 108992,
-          "title": {
-            "romaji": "Mebius Dust",
-            "english": "MEBIUS DUST",
-            "native": "メビウス・ダスト"
-          },
-          "synonyms": [
-            "Project Anima",
-            "Mobius Dust",
-            "Möbius Dust"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 9
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108992-skuOsfmLmMd2.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108992-skuOsfmLmMd2.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1783607400,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "Vampire",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Terrorism",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kids",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Police",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Class Struggle",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Doga Kobo"
-              }
-            ]
-          },
-          "description": "<p>On February 29, 2000, a group of Möbius meteorites fell down to earth. These meteorites brought new material called Möbius Dust, which dissolves in air and can cause miracles. The day the Möbius meteorites fell was dubbed 2.29, and the economic disparity in Japan increased dramatically after that day. A group of people fed up with the wealth inequality fought back with acts of terrorism. The police established a special group to fight against the terrorists and a school to train members for that group.<br />\n<br></br><br />\n(Sources: Comic Natalie, Live Chart)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://mebiusdust.asmik-ace.co.jp/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/ANIMA_info"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "29 Şubat 2000'de bir grup Möbius göktaşı Dünya'ya düştü. Bu meteorlar, Möbius Tozu adı verilen, havada çözünen ve mucizeler yaratabilen yeni bir malzemeyi beraberinde getirdi. Möbius göktaşlarının düştüğü güne 2,29 adı verildi ve Japonya'daki ekonomik eşitsizlik o günden sonra dramatik bir şekilde arttı. Varlık eşitsizliğinden bıkan bir grup insan terör eylemleriyle karşılık verdi. Polis, teröristlerle mücadele için özel bir grup ve bu gruba üye yetiştirmek üzere bir okul kurdu.<br><br>(Kaynaklar: Comic Natalie, Canlı Grafik)"
         },
         {
           "id": 198709,
@@ -5143,92 +5289,98 @@
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/"
+              "url": "https://www.crunchyroll.com/series/GT00378126/victoria-of-many-faces"
             }
           ],
           "isMyList": false,
           "descriptionTr": "Casusların her ülkede perde arkasında hareket ettiği bir çağda Chloe, benzersiz kılık değiştirme becerileri ve dövüş sanatlarındaki yetenekleri sayesinde en zor görevleri bile başarıyla yerine getirerek günlerini geçiriyor. Patronunun ihanetinin ardından aniden ortadan kaybolur; Chloe, komşu Ashberry krallığında sıradan bir vatandaş olan Victoria olarak hayatını yeniden düzenleyerek \"normal\" bir hayat için çabalamayı planlamaktadır. Ancak Victoria'nın huzurlu hayatı, birçok insanla ilişki kurmaya başlamasıyla aniden kesintiye uğrar. Bu yeni diyarda, casusluk günlerinden edindiği deneyimler ve yetenekler, beklediğinden çok daha fazla işe yaradı! Öte yandan ikinci prens ve diğerleri, Victoria'nın gücüyle ilgilenir ve gölgeler, birçok yüzü olan kadının üzerine kapanır...<br><br>(Kaynak: Yen Press)"
         },
         {
-          "id": 208225,
+          "id": 108992,
           "title": {
-            "romaji": "\"Kimi wo Aisuru Ki wa nai\" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu",
-            "english": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
-            "native": "「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます"
+            "romaji": "Mebius Dust",
+            "english": "Mebius Dust",
+            "native": "メビウス・ダスト"
           },
           "synonyms": [
-            "きみ愛",
-            "KimiAi"
+            "Project Anima",
+            "Mobius Dust",
+            "Möbius Dust"
           ],
           "startDate": {
             "year": 2026,
             "month": 7,
-            "day": 5
+            "day": 9
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208225-HJbCC0Z4xRp3.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208225-HJbCC0Z4xRp3.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108992-skuOsfmLmMd2.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108992-skuOsfmLmMd2.jpg"
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1783787400,
-            "episode": 2
+            "airingAt": 1783607400,
+            "episode": 1
           },
           "isAdult": false,
           "genres": [
-            "Fantasy",
-            "Romance"
+            "Action",
+            "Supernatural"
           ],
           "tags": [
             {
-              "name": "Heterosexual",
+              "name": "Vampire",
               "isMediaSpoiler": false
             },
             {
-              "name": "Shoujo",
+              "name": "Terrorism",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kids",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Police",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Class Struggle",
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 58,
+          "averageScore": null,
           "studios": {
             "nodes": [
               {
-                "name": "Zero-G"
-              },
-              {
-                "name": "Grass"
+                "name": "Doga Kobo"
               }
             ]
           },
-          "description": "<p>Elsa, the daughter of a fallen aristocrat, receives news. It was a marriage proposal from Julius, a very elite nobleman. Elsa is wondering,&quot; Why would such a distinguished man marry me&quot;? But after the wedding, Julius, who had been kind and gentle up to that point, changed completely! In a cold voice, he tells her,&quot; I have no intention of loving you&quot;.<br />\n<br><br><br />\n(Source: MangaPlaza)</p>",
+          "description": "<p>On February 29, 2000, a group of Möbius meteorites fell down to earth. These meteorites brought new material called Möbius Dust, which dissolves in air and can cause miracles. The day the Möbius meteorites fell was dubbed 2.29, and the economic disparity in Japan increased dramatically after that day. A group of people fed up with the wealth inequality fought back with acts of terrorism. The police established a special group to fight against the terrorists and a school to train members for that group.<br />\n<br></br><br />\n(Sources: Comic Natalie, Live Chart)</p>",
           "externalLinks": [
             {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@kimiai_official"
+              "site": "Official Site",
+              "url": "https://mebiusdust.asmik-ace.co.jp/"
             },
             {
               "site": "Twitter",
-              "url": "https://x.com/kimiai_official"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kimiai-anime.com/"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/kimiai_official/"
+              "url": "https://x.com/ANIMA_info"
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378118/the-dukes-son-claims-he-wont-love-me-but-showers-me-with-adoration"
+              "url": "https://www.crunchyroll.com/series/GT00379439/mebius-dust"
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Düşmüş bir aristokratın kızı Elsa, bir haber alır. Bu, çok seçkin bir soylu olan Julius'un evlenme teklifiydi. Elsa \"Bu kadar seçkin bir adam neden benimle evlensin?\" diye merak ediyor. Ancak düğünden sonra o ana kadar nazik ve nazik olan Julius tamamen değişti! Soğuk bir sesle \"Seni sevmeye hiç niyetim yok\" diyor.<br><br>(Kaynak: MangaPlaza)"
+          "descriptionTr": "29 Şubat 2000'de bir grup Möbius göktaşı Dünya'ya düştü. Bu meteorlar, Möbius Tozu adı verilen, havada çözünen ve mucizeler yaratabilen yeni bir malzemeyi beraberinde getirdi. Möbius göktaşlarının düştüğü güne 2.29 adı verildi ve Japonya'daki ekonomik eşitsizlik o günden sonra dramatik bir şekilde arttı. Varlık eşitsizliğinden bıkan bir grup insan terör eylemleriyle karşılık verdi. Polis, teröristlerle mücadele için özel bir grup ve bu gruba üye yetiştirmek üzere bir okul kurdu.<br><br>(Kaynaklar: Comic Natalie, Canlı Grafik)"
         }
       ]
     }
