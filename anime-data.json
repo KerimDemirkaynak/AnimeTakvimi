@@ -798,15 +798,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Tragedy",
               "isMediaSpoiler": false
             },
             {
               "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
@@ -822,7 +822,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Gore",
               "isMediaSpoiler": false
             },
             {
@@ -830,7 +830,7 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Gore",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
@@ -842,15 +842,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Shoujo",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Dystopian",
               "isMediaSpoiler": false
             },
             {
               "name": "Boarding School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shoujo",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
               "isMediaSpoiler": false
             }
           ],
@@ -1124,7 +1128,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Jirou Azuma sıradan bir lise öğrencisi değil. Ninjaların soyundan gelen ve şinobilerin kadim savaşçı sanatı konusunda eğitim almış olan Jirou, aynı zamanda hayvanlarla da konuşabiliyor. Ragou adında yaralı bir kediyle gizemli bir karşılaşmanın ardından Jirou, kedinin aslında efsanevi Kıyametin Kara Yıldızı olduğunu keşfeder! Casusluk Bürosu'nun da katılımıyla, Ragou'nun güçlerinden yararlanmak için pusuda bekleyen mononoke sürüleriyle savaşırlar.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Jirou Azuma sıradan bir lise öğrencisi değil. Ninjaların soyundan gelen ve şinobilerin kadim savaşçı sanatı konusunda eğitim almış olan Jirou, aynı zamanda hayvanlarla da konuşabiliyor. Ragou adında yaralı bir kediyle gizemli bir karşılaşmanın ardından Jirou, kedinin aslında efsanevi Kıyametin Kara Yıldızı olduğunu keşfeder! Casusluk Bürosu'nun da katıldığı ekip, Ragou'nun güçlerini kullanmak için pusuda bekleyen mononoke sürüleriyle savaşır.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 207141,
@@ -1165,19 +1169,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Kemonomimi",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Nekomimi",
               "isMediaSpoiler": false
             },
             {
-              "name": "Surreal Comedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
+              "name": "Kemonomimi",
               "isMediaSpoiler": false
             },
             {
@@ -1189,6 +1185,22 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Surreal Comedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Rehabilitation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Satire",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
@@ -1197,7 +1209,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Nudity",
+              "name": "Survival",
               "isMediaSpoiler": false
             },
             {
@@ -1205,19 +1217,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Rehabilitation",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Hikikomori",
               "isMediaSpoiler": false
             },
             {
-              "name": "Survival",
+              "name": "Nudity",
               "isMediaSpoiler": false
             },
             {
               "name": "Masturbation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
@@ -1226,14 +1238,6 @@
             },
             {
               "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Satire",
               "isMediaSpoiler": false
             }
           ],
@@ -1836,7 +1840,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Artificial Intelligence",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Robots",
               "isMediaSpoiler": false
             },
             {
@@ -1852,11 +1864,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Robots",
+              "name": "Police",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Politics",
               "isMediaSpoiler": false
             },
             {
@@ -1868,19 +1880,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Politics",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Crime",
               "isMediaSpoiler": false
             },
             {
-              "name": "Police",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             }
           ],
@@ -1959,6 +1967,10 @@
           ],
           "tags": [
             {
+              "name": "Slapstick",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Female Harem",
               "isMediaSpoiler": false
             },
@@ -1972,10 +1984,6 @@
             },
             {
               "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Slapstick",
               "isMediaSpoiler": false
             },
             {
@@ -2012,6 +2020,10 @@
             },
             {
               "name": "Incest",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Meta",
               "isMediaSpoiler": false
             }
           ],
@@ -2392,15 +2404,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Foreign",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Educational",
               "isMediaSpoiler": false
             },
             {
               "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Foreign",
               "isMediaSpoiler": false
             },
             {
@@ -2470,6 +2482,10 @@
             {
               "name": "Terrorism",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Language Barrier",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 78,
@@ -2500,7 +2516,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Annesini ve vatanını kaybeden Sitara'nın çaresizliği, bilginin gücüyle kararlılığa dönüşür. Akademisyenlerden oluşan bir aile onu yanına alıp eğitimini derinleştirdiğinde yeni olasılıklar ortaya çıkar. Bu arada Cengiz Han'ın Moğol İmparatorluğu, Sitara'nın yeni evine yaklaşarak ulusları fethediyor. İmparatorluğun Dördüncü Prensi onu esir aldıktan sonra intikam ateşi alevlenir.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Annesini ve vatanını kaybeden Sitara'nın çaresizliği, bilginin gücüyle kararlılığa dönüşür. Akademisyenlerden oluşan bir aile onu yanına alıp eğitimini derinleştirdiğinde yeni olasılıklar ortaya çıkar. Bu arada Cengiz Han'ın Moğol İmparatorluğu, Sitara'nın yeni evine yaklaşarak ulusları fethediyor. İmparatorluğun Dördüncü Prensi onu esir alınca intikam ateşi alevlenir.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 197715,
@@ -2603,7 +2619,8 @@
             "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season"
           },
           "synonyms": [
-            "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2"
+            "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+            "HELL MODE ~อยากเล่นโหด ขอโหมดนรก~ ซีซั่น 2"
           ],
           "startDate": {
             "year": 2026,
@@ -2782,7 +2799,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kahramanın grubundaki S seviye bir büyücü olan Luck, arkadaşlarını kurtarmak için Şeytan Kral'a karşı son bir duruş sergiliyor. Nihayet zaferle geri döndüğünde üzerinden on yıl geçmiştir ve dünya onu savaşta ölen efsanevi bir kahraman olarak övmektedir. Önceki hayatına geri dönemeyen Luck, kimliğini gizler ve onsuz devam eden bir dünyada geleceğini şekillendiren F sınıfı bir maceracı olan \"Lock\" olarak yeniden başlar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita, 3 Temmuz 2026'dan itibaren Prime Video'daki TV yayınından 3 gün önce yayınlanıyor. Normal yayın 6 Temmuz 2026'da başlıyor."
+          "descriptionTr": "Kahramanın grubundaki S seviye büyücü Luck, arkadaşlarını kurtarmak için Şeytan Kral'a karşı son bir direniş gösterir. Nihayet zaferle geri döndüğünde üzerinden on yıl geçmiştir ve dünya onu savaşta ölen efsanevi bir kahraman olarak övmektedir. Önceki hayatına geri dönemeyen Luck, kimliğini gizler ve onsuz devam eden bir dünyada geleceğini şekillendiren F sınıfı bir maceracı olan \"Lock\" olarak yeniden başlar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita, 3 Temmuz 2026'dan itibaren Prime Video'daki TV yayınından 3 gün önce yayınlanıyor. Normal yayın 6 Temmuz 2026'da başlıyor."
         },
         {
           "id": 201514,
@@ -3149,6 +3166,10 @@
           ],
           "tags": [
             {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
@@ -3157,11 +3178,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Tomboy",
               "isMediaSpoiler": false
             },
             {
-              "name": "Tomboy",
+              "name": "School",
               "isMediaSpoiler": false
             },
             {
@@ -3169,7 +3190,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "School",
+              "name": "Coming of Age",
               "isMediaSpoiler": false
             },
             {
@@ -3178,10 +3199,6 @@
             },
             {
               "name": "College",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
               "isMediaSpoiler": false
             }
           ],
@@ -3333,7 +3350,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Dias onlarca yıldır süren savaşın ardından nihayet evine döner. Bir kahraman olarak selamlandı ve hemen kendi alanıyla ödüllendirildi... bu alanın boş ovalardan pek de fazlası olmadığı ortaya çıktı. Nüfus: sıfır. Şimdiye kadar yalnızca savaşı bilen Dias, kendini çaresiz durumda bulur. Görebildiği kadarıyla çimenden başka bir şey yokken, bırakın topraklarını gelişen, müreffeh bir egemenliğe dönüştürmek şöyle dursun, nasıl hayatta kalacak?<br><br>Neyse ki Dias'a, Alna adındaki boynuzlu bir kız, ona ovalarda göründüğünden çok daha fazlası olduğunu göstermek üzere!<br><br>(Kaynak: J-Novel Kulübü)<br><br>Not: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama, 3 Temmuz 2026'dan itibaren Prime Video'da TV yayınının bir hafta öncesinden yayınlanıyor. Normal yayın 10 Temmuz 2026'da başlıyor."
+          "descriptionTr": "Dias onlarca yıldır süren savaşın ardından nihayet evine döner. Bir kahraman olarak selamlandı ve hemen kendi alanıyla ödüllendirildi... ki bu alanın boş ovalardan pek de fazlası olmadığı ortaya çıktı. Nüfus: sıfır. Şimdiye kadar yalnızca savaşı bilen Dias, kendini çaresiz durumda bulur. Görebildiği kadarıyla çimenden başka bir şey yokken, bırakın topraklarını gelişen, müreffeh bir egemenliğe dönüştürmek şöyle dursun, nasıl hayatta kalacak?<br><br>Neyse ki Dias'a, Alna adındaki boynuzlu bir kız, ona ovalarda göründüğünden çok daha fazlası olduğunu göstermek üzere!<br><br>(Kaynak: J-Novel Kulübü)<br><br>Not: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama, 3 Temmuz 2026'dan itibaren Prime Video'da TV yayınının bir haftalık akışını yayınlıyor. Normal yayın 10 Temmuz 2026'da başlıyor."
         },
         {
           "id": 202269,
@@ -3384,6 +3401,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Tragedy",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Urban",
               "isMediaSpoiler": false
             },
@@ -3424,7 +3445,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Tokyo'da bir Nisan gecesi, havai fişek gösterisi için henüz çok erken olan üniversite öğrencisi Kakeru Sorano, Koharu Fuyutsuki adında bir kadınla tanışır. O, kalabalığın arasından sıyrılan, çok gülen ve Kakeru'nun kendi içe dönüklüğüyle keskin bir tezat oluşturan bir sıcaklık yayan güzel bir kız. Ancak Kakeru'nun ilk başta bilmediği bir şey vardı; göremiyordu.<br><br>Kakeru'nun aksine Koharu, körlüğüne rağmen hiçbir şeyden vazgeçmedi. Her gün üniversiteye gidiyor, kulüplere ilgi gösteriyor, arkadaşlar ediniyor ve bir gün havai fişek fırlatmanın hayalini kuruyor. Kakeru onları göremeyince nedenini merak ediyor... ama belki de bunun bir önemi yoktur. Ve belki her zaman yanında olan kız için de ilerlemeye başlayabilir.<br><br>(Kaynak: Yen Press)"
+          "descriptionTr": "Tokyo'da bir Nisan gecesi, havai fişek patlatmak için henüz çok erken olan üniversite öğrencisi Kakeru Sorano, Koharu Fuyutsuki adında bir kadınla tanışır. O, kalabalığın arasından sıyrılan, çok gülen ve Kakeru'nun kendi içedönüklüğüyle keskin bir tezat oluşturan bir sıcaklık yayan güzel bir kız. Ancak Kakeru'nun ilk başta bilmediği bir şey vardı; göremiyordu.<br><br>Kakeru'nun aksine Koharu, körlüğüne rağmen hiçbir şeyden vazgeçmedi. Her gün üniversiteye gidiyor, kulüplere ilgi gösteriyor, arkadaşlar ediniyor ve bir gün havai fişek fırlatmanın hayalini kuruyor. Kakeru onları göremeyince nedenini merak ediyor... ama belki de bunun bir önemi yoktur. Ve belki her zaman yanında olan kız için de ilerlemeye başlayabilir.<br><br>(Kaynak: Yen Press)"
         },
         {
           "id": 206521,
@@ -3656,7 +3677,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bir zamanlar Lara adında bir deniz kızı prensesi, insan bir prense aşık olur. Onunla birlikte olabilmek için insan olabilmek için bir cadı iksiri kullandı ama bu büyünün bir bedeli vardı: Eğer gerçek aşkı bulamazsa, sonsuza dek deniz köpüğünün içinde kaybolacaktı. Şimdi, 200 yıl sonra Lara, Biwa Gölü'nde hayat ve aşk için son bir şansla uyanır.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Bir zamanlar Lara adında bir deniz kızı prensesi, insan bir prense aşık olur. Onunla birlikte olabilmek için insan olabilmek için bir cadı iksiri kullandı ama bu büyünün bir bedeli vardı: Eğer gerçek aşkı bulamazsa, sonsuza kadar deniz köpüğünün içinde kaybolacaktı. Şimdi, 200 yıl sonra Lara, Biwa Gölü'nde hayat ve aşk için son bir şansla uyanır.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 128757,
@@ -3696,7 +3717,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
             {
@@ -3704,7 +3725,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Female Cast",
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "E-Sports",
               "isMediaSpoiler": false
             },
             {
@@ -3716,19 +3749,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "E-Sports",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Cute Girls Doing Cute Things",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Advertisement",
               "isMediaSpoiler": false
             },
             {
@@ -3862,7 +3887,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Beş Klan'ın bakireleri Veliaht Prens'in kalbi için savaşırken kıskanç Keigetsu, sevgili Reirin'le beden değiştirmek için yasak büyüyü kullanır. Yeni vücudunun kötü sağlık durumu onu ölümün eşiğine getirdiğinden yer değiştirmek Keigetsu'nun mutluluğunu garanti etmez. Bu arada, artık küçümsenmiş bir serseri yüzüne bürünen Reirin, tehlikeli bir duruşmada Keigetsu'nun suçlarının hesabını vermek zorundadır.<br><br>Beklenmedik ikili giderek birbirlerinin hayatlarına karışıyor ve sarayın güler yüzlü yüzeyinin altında gelişen karanlık komploları keşfettikten sonra hayatta kalmak için birlikte çalışmaları gerekecek. Gölgelerde gizlenen ölümcül tehditlerle yüzleşmek için Reirin'in yeni kimliğini benimsemesi ve mahkemenin beceriksiz kötülüğüne ilişkin beklentilerine meydan okuması gerekiyor.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Beş Klan'ın bakireleri Veliaht Prens'in kalbi için savaşırken kıskanç Keigetsu, sevgili Reirin'le beden değiştirmek için yasak büyüyü kullanır. Yeni vücudunun kötü sağlık durumu onu ölümün eşiğine getirdiğinden, yer değiştirmek Keigetsu'nun mutluluğunu garanti etmez. Bu arada, artık küçümsenmiş bir serseri yüzüne bürünen Reirin, tehlikeli bir duruşmada Keigetsu'nun suçlarına cevap vermek zorundadır.<br><br>Beklenmedik ikili giderek birbirlerinin hayatlarına karışıyor ve sarayın güler yüzlü yüzeyinin altında gelişen karanlık komploları keşfettikten sonra hayatta kalmak için birlikte çalışmaları gerekecek. Gölgelerde gizlenen ölümcül tehditlerle yüzleşmek için Reirin'in yeni kimliğini benimsemesi ve mahkemenin beceriksiz kötülüğüne ilişkin beklentilerine meydan okuması gerekiyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 198409,
@@ -3871,7 +3896,9 @@
             "english": "The World's Strongest Rearguard",
             "native": "世界最強の後衛 ～迷宮国の新人探索者～"
           },
-          "synonyms": [],
+          "synonyms": [
+            "กองหลังที่แกร่งที่สุดในโลก -นักสำรวจหน้าใหม่ ณ แดนเขาวงกต-"
+          ],
           "startDate": {
             "year": 2026,
             "month": 7,
@@ -4081,7 +4108,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Hikaye, ormanda bir anne kedi tarafından büyütülen, ateş püskürten, insanlardan nefret eden bir ejderhayı konu alıyor. Sevgiyle \"Wing Amca\" olarak anılan ejderha, biri insan prensle maceraya çıkan, diğeri şehirde yaşayan ve insanları hobi olarak izleyen pek çok meraklı kediye göz kulak oluyor ve yol boyunca yavaş yavaş insanlara ısınıyor.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Her bölüm ABEMA ve dAnimeStore'da 1 hafta erken yayınlandı. Orijinal TV yayını 4 Temmuz 2026'da başladı."
+          "descriptionTr": "Hikaye, ormanda bir anne kedi tarafından büyütülen, ateş püskürten, insanlardan nefret eden bir ejderhayı konu alıyor. Sevgiyle \"Wing Amca\" olarak anılan ejderha, biri insan prensle maceraya çıkan, diğeri şehirde yaşayan ve hobi olarak insanları izleyen pek çok meraklı kediyi gözetliyor ve bu yolda yavaş yavaş insanlara ısınıyor.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Her bölüm ABEMA ve dAnimeStore'da 1 hafta erken yayınlandı. Orijinal TV yayını 4 Temmuz 2026'da başladı."
         },
         {
           "id": 192800,
@@ -4180,7 +4207,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "“Dünyanın en harika hizmetçisi olacağım!” <br><br>Eteği siyah beyaz dalgalanan kız bağırdı. Adı Melodi. Reenkarnasyona uğramış eski bir Japon kızı, şimdi yeni hayatında hayalinin peşinden gidiyor ve Théolas krallığında fakir bir kontun ailesi için çok amaçlı bir hizmetçi olarak çalışıyor. Bunu yaptığında, ucuz çay bile lüks bir demlemeye dönüşüyor ve harap bir malikane hızla yenileniyor! Temizlik, servis, avcılık, Kendin Yap; hepsini ona ve onun güçlü büyüsüne bırakın. Melody'nin bilmediği, bu dünyanın aslında bir otome oyunu olduğu ve o, en güçlü ve yenilmez kahraman olan aziz olduğu! Ancak yine de bu gerçeğin farkında değil. Yakışıklı erkeklerle romantizm mi? İblis Lordu'nun saldırıları mı? İş önce gelir! Farkında olmadan kaderi paramparça eden, yanlış anlaşılan bir çalışma fantezisi!<br><br>(Kaynak: Seven Seas Entertainment)<br><br>Not: Kahraman mı? Seijo mu? Yani, Tüm İşler Hizmetçisi desu (Ko)! 24 Haziran 2026'dan itibaren dAnimeStore ve ABEMA'daki TV yayınından bir hafta önce yayınlanıyor. Düzenli yayın 1 Temmuz 2026'da başlıyor."
+          "descriptionTr": "“Dünyanın en harika hizmetçisi olacağım!” <br><br>Eteği siyah beyaz dalgalanan kız bağırdı. Adı Melodi. Reenkarnasyona uğramış eski bir Japon kızı, şimdi yeni hayatında hayalinin peşinden gidiyor ve Théolas krallığında fakir bir kontun ailesi için çok amaçlı bir hizmetçi olarak çalışıyor. Bunu yaptığında, ucuz çay bile lüks bir demlemeye dönüşüyor ve harap bir malikane hızla yenileniyor! Temizlik, servis, avcılık, Kendin Yap; hepsini ona ve onun güçlü büyüsüne bırakın. Melody'nin bilmediği, bu dünyanın aslında bir otome oyunu olduğu ve o, en güçlü ve yenilmez kadın kahraman olan aziz olduğu! Ancak yine de bu gerçeğin farkında değil. Yakışıklı erkeklerle aşk mı? İblis Lordu'nun saldırıları mı? İş önce gelir! Farkında olmadan kaderi paramparça eden, yanlış anlaşılan bir çalışma fantezisi!<br><br>(Kaynak: Seven Seas Entertainment)<br><br>Not: Kahraman mı? Seijo mu? Yani, Tüm İşler Hizmetçisi desu (Ko)! 24 Haziran 2026'dan itibaren dAnimeStore ve ABEMA'daki TV yayınından bir hafta önce yayınlanıyor. Düzenli yayın 1 Temmuz 2026'da başlıyor."
         },
         {
           "id": 169582,
@@ -4296,6 +4323,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Shoujo",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
@@ -4308,11 +4339,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Shoujo",
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
+              "name": "Royal Affairs",
               "isMediaSpoiler": false
             }
           ],
@@ -4607,7 +4638,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bu şeytan çıkarma OMFFFFFFFFF!!!! Shizuka, \"sadece\" hayaletleri gören, sıradan bir liseli kız olduğunu iddia ediyor. Ruhları kendine çekme konusundaki eşsiz yeteneğini kullanarak ünlü medyum Kamui'nin asistanı olarak çalışıyor. Kamui ezici bir ruhsal güce sahip olmasına rağmen, onun şeytan çıkarma yöntemleri emsalsiz...?! Doğaüstü rahatsızlıkların sürüklediği Shizuka, huzuru bulabilecek mi? \"Yüce\" şeytan çıkarma ayininin perdesi kalkıyor!! Aman Tanrım!<br><br>(Kaynak: OceanVeil)"
+          "descriptionTr": "Bu şeytan çıkarma OMFFFFFFFFF!!!! Shizuka, \"sadece\" hayaletleri gören, sıradan bir liseli kız olduğunu iddia ediyor. Ruhları kendine çekme konusundaki eşsiz yeteneğini kullanarak ünlü medyum Kamui'nin asistanı olarak çalışıyor. Kamui ezici bir ruhsal güce sahip olmasına rağmen, şeytan çıkarma yöntemleri eşi benzeri görülmemiş...?! Doğaüstü rahatsızlıkların sürüklediği Shizuka, huzuru bulabilecek mi? \"Yüce\" şeytan çıkarma ayininin perdesi kalkıyor!! Aman Tanrım!<br><br>(Kaynak: OceanVeil)"
         },
         {
           "id": 199408,
@@ -4690,7 +4721,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Nüfuzlu başbakanın kızı Elizabeth Leiston, Haldoria Krallığı'nın gelecekteki kraliçesi olma yolundaki kusursuz bir hanımefendi. Ancak nişanlısının halka açık bir şekilde nişanlarını iptal ettiğini gösteren bir gösteri yapmasıyla hayatı aniden en kötüye dönüşür. Kısa süre sonra onu hapse atar ve onun hakkında kötü söylentiler yaymaya başlar. Elizabeth'in, sadık hizmetçisi Mireille'den aldığı cesaret ve içindeki öfke, hedeflerini yeniden gözden geçirmek için ihtiyacı olan tek şey. Kendisine saygı duymayan bir ülkeyi ayaklar altına almak varken neden kendini ona adamaya devam etsin ki? Yaptığı son şey olsa bile, kendisine haksızlık edenlerin intikamını alacak ve lanet krallığı yıkacak! Şans eseri, Elizabeth tehlikede olan bir genç kız değil ve kullanmaktan çekinmeyeceği yedi güçlü büyü kitabına sahip. Hazır olun çünkü bu acımasız kadının kana ihtiyacı var!<br><br>(Kaynak: J-Novel Kulübü)"
+          "descriptionTr": "Nüfuzlu başbakanın kızı Elizabeth Leiston, Haldoria Krallığı'nın gelecekteki kraliçesi olma yolundaki kusursuz bir hanımefendi. Ancak nişanlısının halka açık bir şekilde nişanlarını iptal ettiğini gösteren bir gösteri yapmasıyla hayatı aniden kötüye gider. Kısa süre sonra onu hapse atar ve onun hakkında kötü söylentiler yaymaya başlar. Elizabeth'in, sadık hizmetçisi Mireille'den aldığı cesaret ve içindeki öfke, hedeflerini yeniden gözden geçirmek için ihtiyacı olan tek şey. Kendisine saygı duymayan bir ülkeyi ayaklar altına almak varken neden kendini ona adamaya devam etsin ki? Yaptığı son şey olsa bile, kendisine haksızlık edenlerin intikamını alacak ve lanet krallığı yıkacak! Şans eseri, Elizabeth tehlikede olan bir genç kız değil ve kullanmaktan çekinmeyeceği yedi güçlü büyü kitabına sahip. Hazır olun çünkü bu acımasız kadının kana ihtiyacı var!<br><br>(Kaynak: J-Novel Kulübü)"
         },
         {
           "id": 194219,
@@ -4724,11 +4755,15 @@
           ],
           "tags": [
             {
+              "name": "Shoujo",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
-              "name": "Shoujo",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -4740,7 +4775,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Fairy Tale",
               "isMediaSpoiler": false
             },
             {
@@ -4748,15 +4783,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Fairy Tale",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Arranged Marriage",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Historical",
               "isMediaSpoiler": false
             }
           ],
@@ -4784,7 +4815,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Japon tarzı bir ayakaşi Cinderella hikayesi! \"Bunca zamandır aradığım gelin sensin.\" Ayakaşiler ve insanlar uyum içinde bir arada yaşarlar. Üstün yeteneklere ve güzel görünüme sahip olan ayakaşiler, bazen insan kadınları arasında kendilerine eş bularak onları \"gelinleri\" haline getirirler. Gelin, refah getirmesi karşılığında ayakaşiden mutlak sevgi alır. Yuzu sürekli olarak şeytan tilkinin gelini olan kız kardeşiyle karşılaştırılıyor ve ailesi tarafından her gün kızıyor. Bir gün Yuzu artık hiçbir şeye dayanamadığında, köprüde karşısına bir adam çıkar. Bu adam Yuzu'nun şimdiye kadar gördüğü en güzel adam... ve ona karısı mı diyor?! \"Sessiz ol ve sana sarılmama izin ver.\" En güçlü, \"soğuk kalpli\" ayakaşi, Yuzu için kalbini mi döküyor?!<br><br>(Kaynak: MangaPlaza)"
+          "descriptionTr": "Japon tarzı bir ayakaşi Cinderella hikayesi! \"Bunca zamandır aradığım gelin sensin.\" Ayakaşiler ve insanlar uyum içinde bir arada yaşarlar. Üstün yeteneklere ve güzel görünüme sahip olan ayakaşiler, bazen insan kadınları arasında kendilerine eş bularak onları \"gelinleri\" haline getirirler. Gelin, refah getirmesi karşılığında ayakaşiden mutlak sevgi alır. Yuzu sürekli olarak şeytan tilkinin gelini olan kız kardeşiyle karşılaştırılıyor ve ailesi tarafından her gün kızıyor. Bir gün Yuzu artık hiçbir şeye dayanamadığında, köprüde karşısına bir adam çıkar. Bu adam Yuzu'nun gördüğü en güzel adam... ve ona karısı mı diyor?! \"Sessiz ol ve sana sarılmama izin ver.\" En güçlü, \"soğuk kalpli\" ayakaşi, Yuzu için kalbini mi döküyor?!<br><br>(Kaynak: MangaPlaza)"
         },
         {
           "id": 209961,
@@ -4971,7 +5002,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bulutlar gökyüzünü karartıyor ve yağmur tabakaları dağ ormanını hain bir labirent haline getiriyor... Heyelan dikenli telleri ezer ve \"GİRİLMEZ\" tabelasını gömer... İki genç kardeş ait olmadıkları karanlık bir dünyaya doğru yola çıkarlar ve uzun, korkunç bir gölge onları karşılamak için yükselir... Neyse, işte Dara-san'la böyle tanıştık! Biraz korkutucu görünebilir ama onu tanıyana kadar bekleyin!<br><br>\"Bakın, ben bir talihsizlik tanrısıyım, tamam mı!? Siz çocuklar benim tuhaf yüzüm yüzünden çıldırmayacak mısınız!?\"<br><br>(Kaynak: Yen Press)"
+          "descriptionTr": "Bulutlar gökyüzünü karartıyor ve yağmur tabakaları dağ ormanını hain bir labirent haline getiriyor... Heyelan dikenli telleri ezer ve \"GİRİLMEZ\" tabelasını gömer... İki genç kardeş ait olmadıkları karanlık bir dünyaya doğru yola çıkarlar ve uzun, korkunç bir gölge onları karşılamak için yükselir... Neyse, işte Dara-san'la böyle tanıştık! Biraz korkutucu görünebilir ama onu tanıyana kadar bekleyin!<br><br>\"Bakın, ben bir talihsizlik tanrısıyım, tamam mı!? Siz çocuklar benim garip yüzüm yüzünden çıldırmayacak mısınız!?\"<br><br>(Kaynak: Yen Press)"
         },
         {
           "id": 199066,
@@ -5142,7 +5173,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Düşmüş bir aristokratın kızı Elsa, bir haber alır. Bu, çok seçkin bir soylu olan Julius'un evlenme teklifiydi. Elsa \"Bu kadar seçkin bir adam neden benimle evlensin?\" diye merak ediyor. Ancak düğünden sonra o ana kadar nazik ve nazik olan Julius tamamen değişti! Soğuk bir sesle ona \"Seni sevmeye hiç niyetim yok\" diyor.<br><br>(Kaynak: MangaPlaza)"
+          "descriptionTr": "Düşmüş bir aristokratın kızı Elsa, bir haber alır. Bu, çok seçkin bir soylu olan Julius'un evlenme teklifiydi. Elsa \"Bu kadar seçkin bir adam neden benimle evlensin?\" diye merak ediyor. Ancak düğünden sonra o ana kadar nazik ve nazik olan Julius tamamen değişti! Soğuk bir sesle \"Seni sevmeye hiç niyetim yok\" diyor.<br><br>(Kaynak: MangaPlaza)"
         },
         {
           "id": 185875,
@@ -5235,6 +5266,10 @@
             },
             {
               "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
               "isMediaSpoiler": false
             }
           ],
@@ -5380,8 +5415,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1783436400,
-            "episode": 1
+            "airingAt": 1784041200,
+            "episode": 2
           },
           "isAdult": false,
           "genres": [
@@ -5391,6 +5426,10 @@
             "Romance"
           ],
           "tags": [
+            {
+              "name": "Found Family",
+              "isMediaSpoiler": false
+            },
             {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
@@ -5409,10 +5448,6 @@
             },
             {
               "name": "Josei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Found Family",
               "isMediaSpoiler": false
             },
             {
