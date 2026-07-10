@@ -232,8 +232,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196187-Z9dV6uotmKjM.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1783608960,
-            "episode": 1
+            "airingAt": 1784213760,
+            "episode": 2
           },
           "isAdult": false,
           "genres": [
@@ -277,6 +277,14 @@
             {
               "name": "Urban",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": null,
@@ -287,7 +295,7 @@
               }
             ]
           },
-          "description": "<p>At age forty-five, office worker Sasaki has had enough of the corporate grind. His only solace is smoking-and the friendly smile of supermarket cashier Yamada. When Sasaki can't find Yamada after a particularly trying day, a striking woman invites him to smoke with her. The despondent man thinks he's made a new smoking buddy in the cool, teasing Tayama, but Sasaki doesn't realize he already knows her!<br />\n<br><br><br />\n(Source: Square Enix)<br><br></p>\n<p><i>Note: Episodes 1-6 had an early release by ABEMA and Crunchyroll on June 3rd, 2026 in a mini-episode batch format that splits 6 episodes into 12, ahead of the TV broadcast which starts on July 9th, 2026.</i></p>",
+          "description": "<p>At age forty-five, office worker Sasaki has had enough of the corporate grind. His only solace is smoking-and the friendly smile of supermarket cashier Yamada. When Sasaki can't find Yamada after a particularly trying day, a striking woman invites him to smoke with her. The despondent man thinks he's made a new smoking buddy in the cool, teasing Tayama, but Sasaki doesn't realize he already knows her!<br />\n<br><br><br />\n(Source: Square Enix)<br><br></p>\n<p><i>Note: Episodes 1-6 had an early release by ABEMA and Crunchyroll on June 3rd, 2026 in a mini-episode batch format that splits 6 episodes into 12, ahead of the TV broadcast which started on July 9th, 2026.</i></p>",
           "externalLinks": [
             {
               "site": "Twitter",
@@ -303,7 +311,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kırk beş yaşındaki ofis çalışanı Sasaki, kurumsal eziyetten bıkmıştır. Tek tesellisi sigara içmek ve süpermarket kasiyeri Yamada'nın dost canlısı gülümsemesidir. Sasaki zorlu bir günün ardından Yamada'yı bulamayınca çarpıcı bir kadın onu kendisiyle sigara içmeye davet eder. Umutsuz adam, Tayama'yla dalga geçerek yeni bir sigara içme arkadaşı edindiğini sanıyor ama Sasaki onu zaten tanıdığının farkında değil!<br><br>(Kaynak: Square Enix)<br><br>Not: 1-6. Bölümler, 9 Temmuz 2026'da başlayacak TV yayınından önce, 6 bölümü 12'ye bölen mini bölüm toplu formatında ABEMA ve Crunchyroll tarafından 3 Haziran 2026'da erken yayınlandı."
+          "descriptionTr": "Kırk beş yaşındaki ofis çalışanı Sasaki, kurumsal eziyetten bıkmıştır. Tek tesellisi sigara içmek ve süpermarket kasiyeri Yamada'nın dost canlısı gülümsemesidir. Sasaki zorlu bir günün ardından Yamada'yı bulamayınca çarpıcı bir kadın onu kendisiyle sigara içmeye davet eder. Umutsuz adam, Tayama'yla dalga geçerek yeni bir sigara içme arkadaşı edindiğini sanıyor ama Sasaki onu zaten tanıdığının farkında değil!<br><br>(Kaynak: Square Enix)<br><br>Not: 1-6. Bölümler, 9 Temmuz 2026'da başlayan TV yayınından önce, 6 bölümü 12'ye bölen mini bölüm toplu formatında ABEMA ve Crunchyroll tarafından 3 Haziran 2026'da erken yayınlandı."
         },
         {
           "id": 135865,
@@ -1037,8 +1045,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207141-MvHAS2YVfJzL.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1783611000,
-            "episode": 2
+            "airingAt": 1784215800,
+            "episode": 3
           },
           "isAdult": false,
           "genres": [
@@ -1063,11 +1071,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Female Cast",
+              "name": "Episodic",
               "isMediaSpoiler": false
             },
             {
-              "name": "Episodic",
+              "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
             {
@@ -1083,11 +1091,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Satire",
+              "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Adult Cast",
+              "name": "Scat",
               "isMediaSpoiler": false
             },
             {
@@ -1099,10 +1107,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Scat",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Hikikomori",
               "isMediaSpoiler": false
             },
@@ -1111,15 +1115,23 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Masturbation",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
+              "name": "Satire",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Masturbation",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Watersports",
               "isMediaSpoiler": false
             },
             {
@@ -1562,8 +1574,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1783610760,
-            "episode": 2
+            "airingAt": 1784215560,
+            "episode": 3
           },
           "isAdult": false,
           "genres": [
@@ -2214,8 +2226,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1783609200,
-            "episode": 3
+            "airingAt": 1784214000,
+            "episode": 4
           },
           "isAdult": false,
           "genres": [
@@ -2281,7 +2293,7 @@
               }
             ]
           },
-          "description": "<p>Ephtal is reincarnated as a human, coming from modern Earth. In this new world where magic is real, he decides to devote the entirety of his life in the pursuit of magic. Despite his efforts, though, he discovers that he is absolutely talentless in magic, and breathed his last in anguish....But it isn't the end for him just yet! He reincarnates once again bearing the same name, Ephtal, 400 years later. Having retained his knowledge and power, he steals his resolve and once again sets his sights for the peak of magic!<br><br></p>\n<p>(Source: Comikey)<br><br></p>\n<p><i>Note: Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku is streaming a week in advance of the TV broadcast on dAnimeStore, ABEMA, U-NEXT, and Anime Hodai beginning June 26th, 2026. Regular broadcasting begins on July 2nd, 2026.</i></p>",
+          "description": "<p>Ephtal is reincarnated as a human, coming from modern Earth. In this new world where magic is real, he decides to devote the entirety of his life in the pursuit of magic. Despite his efforts, though, he discovers that he is absolutely talentless in magic, and breathed his last in anguish....But it isn't the end for him just yet! He reincarnates once again bearing the same name, Ephtal, 400 years later. Having retained his knowledge and power, he steals his resolve and once again sets his sights for the peak of magic!<br><br></p>\n<p>(Source: Comikey)<br><br></p>\n<p><i>Note: Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku is streaming a week in advance of the TV broadcast on dAnimeStore, ABEMA, U-NEXT, and Anime Hodai beginning June 26th, 2026. Regular broadcasting began on July 2nd, 2026.</i></p>",
           "externalLinks": [
             {
               "site": "Official Site",
@@ -2297,7 +2309,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Ephtal, modern Dünya'dan gelen bir insan olarak reenkarne olur. Sihrin gerçek olduğu bu yeni dünyada, hayatının tamamını sihir arayışına adamaya karar verir. Ancak tüm çabalarına rağmen büyü konusunda kesinlikle yeteneksiz olduğunu keşfeder ve acı içinde son nefesini verir... Ancak bu onun için henüz son değildir! 400 yıl sonra aynı isim olan Ephtal'i taşıyarak yeniden reenkarne olur. Bilgisini ve gücünü koruyarak kararlılığını çalar ve gözünü bir kez daha büyünün zirvesine diker!<br><br>(Kaynak: Comikey)<br><br>Not: Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku, 26 Haziran 2026'dan itibaren dAnimeStore, ABEMA, U-NEXT ve Anime Hodai'deki TV yayınından bir hafta önce yayınlanıyor. Düzenli yayın 2 Temmuz 2026'da başlıyor."
+          "descriptionTr": "Ephtal, modern Dünya'dan gelen bir insan olarak reenkarne olur. Sihrin gerçek olduğu bu yeni dünyada, hayatının tamamını sihir arayışına adamaya karar verir. Ancak tüm çabalarına rağmen büyü konusunda kesinlikle yeteneksiz olduğunu keşfeder ve acı içinde son nefesini verir... Ancak bu onun için henüz son değildir! 400 yıl sonra aynı isim olan Ephtal'i taşıyarak yeniden reenkarne olur. Bilgisini ve gücünü koruyarak kararlılığını çalar ve gözünü bir kez daha büyünün zirvesine diker!<br><br>(Kaynak: Comikey)<br><br>Not: Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku, 26 Haziran 2026'dan itibaren dAnimeStore, ABEMA, U-NEXT ve Anime Hodai'deki TV yayınından bir hafta önce yayınlanıyor. Düzenli yayın 2 Temmuz 2026'da başladı."
         },
         {
           "id": 194829,
@@ -2749,7 +2761,7 @@
               }
             ]
           },
-          "description": "<p>Luck, an S-rank mage in the hero’s party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as “Lock,” an F-rank adventurer forging a future in a world that moved on without him.<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br></p>\n<p><i>Note: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita is streaming 3 days in advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting begins on July 6th, 2026.</i></p>",
+          "description": "<p>Luck, an S-rank mage in the hero’s party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as “Lock,” an F-rank adventurer forging a future in a world that moved on without him.<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br></p>\n<p><i>Note: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita is streaming 3 days in advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 6th, 2026.</i></p>",
           "externalLinks": [
             {
               "site": "Official Site",
@@ -2769,7 +2781,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kahramanın grubundaki S seviye bir büyücü olan Luck, arkadaşlarını kurtarmak için Şeytan Kral'a karşı son bir duruş sergiliyor. Nihayet zaferle geri döndüğünde üzerinden on yıl geçmiştir ve dünya onu savaşta ölen efsanevi bir kahraman olarak övmektedir. Önceki hayatına geri dönemeyen Luck, kimliğini gizler ve onsuz devam eden bir dünyada geleceğini şekillendiren F sınıfı bir maceracı olan \"Lock\" olarak yeniden başlar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita, 3 Temmuz 2026'dan itibaren Prime Video'daki TV yayınından 3 gün önce yayınlanıyor. Normal yayın 6 Temmuz 2026'da başlıyor."
+          "descriptionTr": "Kahramanın grubundaki S seviye bir büyücü olan Luck, arkadaşlarını kurtarmak için Şeytan Kral'a karşı son bir duruş sergiliyor. Nihayet zaferle geri döndüğünde üzerinden on yıl geçmiştir ve dünya onu savaşta ölen efsanevi bir kahraman olarak övmektedir. Önceki hayatına geri dönemeyen Luck, kimliğini gizler ve onsuz devam eden bir dünyada geleceğini şekillendiren F sınıfı bir maceracı olan \"Lock\" olarak yeniden başlar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita, 3 Temmuz 2026'dan itibaren Prime Video'daki TV yayınından 3 gün önce yayınlanıyor. Düzenli yayın 6 Temmuz 2026'da başladı."
         },
         {
           "id": 201514,
@@ -2982,8 +2994,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204466-cpbNGN9qHrGP.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1783614480,
-            "episode": 2
+            "airingAt": 1784219280,
+            "episode": 3
           },
           "isAdult": false,
           "genres": [
@@ -3063,6 +3075,10 @@
             {
               "name": "Nudity",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Love Triangle",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 74,
@@ -3260,6 +3276,10 @@
             },
             {
               "name": "College",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Horticulture",
               "isMediaSpoiler": false
             }
           ],
@@ -3595,7 +3615,7 @@
               }
             ]
           },
-          "description": "<p>Dias finally returns home after decades of war. He's hailed as a hero and promptly rewarded with his own domain...which turns out to be little more than empty plains. Population: zero. Dias, who has only ever known battle, finds himself at a loss. How is he supposed to survive, let alone cultivate his territory into a thriving, prosperous dominion when there's nothing but grass as far as can see?<br />\n<br><br><br />\nFortunately for Dias, a horned girl by the name of Alna is about to show him there's more to the plains than meets the eye!<br />\n<br><br><br />\n(Source: J-Novel Club)<br><br></p>\n<p><i>Note: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama is streaming a week advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting begins on July 10th, 2026.</i></p>",
+          "description": "<p>Dias finally returns home after decades of war. He's hailed as a hero and promptly rewarded with his own domain...which turns out to be little more than empty plains. Population: zero. Dias, who has only ever known battle, finds himself at a loss. How is he supposed to survive, let alone cultivate his territory into a thriving, prosperous dominion when there's nothing but grass as far as can see?<br />\n<br><br><br />\nFortunately for Dias, a horned girl by the name of Alna is about to show him there's more to the plains than meets the eye!<br />\n<br><br><br />\n(Source: J-Novel Club)<br><br></p>\n<p><i>Note: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama is streaming a week advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 10th, 2026.</i></p>",
           "externalLinks": [
             {
               "site": "Twitter",
@@ -3615,7 +3635,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Dias onlarca yıldır süren savaşın ardından nihayet evine döner. Bir kahraman olarak selamlandı ve hemen kendi alanıyla ödüllendirildi... ki bu alanın boş ovalardan pek de fazlası olmadığı ortaya çıktı. Nüfus: sıfır. Şimdiye kadar yalnızca savaşı bilen Dias, kendini çaresiz durumda bulur. Görebildiği kadarıyla çimenden başka bir şey yokken, bırakın topraklarını gelişen, müreffeh bir egemenliğe dönüştürmek şöyle dursun, nasıl hayatta kalacak?<br><br>Neyse ki Dias'a, Alna adındaki boynuzlu bir kız, ona ovalarda göründüğünden çok daha fazlası olduğunu göstermek üzere!<br><br>(Kaynak: J-Novel Kulübü)<br><br>Not: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama, 3 Temmuz 2026'dan itibaren Prime Video'da TV yayınının bir haftalık akışını yayınlıyor. Normal yayın 10 Temmuz 2026'da başlıyor."
+          "descriptionTr": "Dias onlarca yıldır süren savaşın ardından nihayet evine döner. Bir kahraman olarak selamlandı ve hemen kendi alanıyla ödüllendirildi... ki bu alanın boş ovalardan pek de fazlası olmadığı ortaya çıktı. Nüfus: sıfır. Şimdiye kadar yalnızca savaşı bilen Dias, kendini çaresiz durumda bulur. Görebildiği kadarıyla çimenden başka bir şey yokken, bırakın topraklarını gelişen, müreffeh bir egemenliğe dönüştürmek şöyle dursun, nasıl hayatta kalacak?<br><br>Neyse ki Dias'a, Alna adındaki boynuzlu bir kız, ona ovalarda göründüğünden çok daha fazlası olduğunu göstermek üzere!<br><br>(Kaynak: J-Novel Kulübü)<br><br>Not: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama, 3 Temmuz 2026'dan itibaren Prime Video'da TV yayınının bir haftalık akışını yayınlıyor. Düzenli yayın 10 Temmuz 2026'da başladı."
         },
         {
           "id": 177637,
@@ -3657,11 +3677,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Mermaid",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Mermaid",
               "isMediaSpoiler": false
             },
             {
@@ -3823,7 +3843,7 @@
               }
             ]
           },
-          "description": "<p>Born into a life of acting and dance with a traveling theater troupe in 14th-century Japan, 12-year old Oniyasha has one problem—he doesn't know what the point of any of it is. &quot;Why must I step with the left foot here instead of the right? Why is one performance good and another, bad? Why do people dance at all?&quot; It all seems perfectly arbitrary, until a chance encounter in a run-down shack sets him down a path to revolutionizing the art form and influencing much of Japanese culture to come. A fictionalized account of the early life of Zeami Motokiyo (Oniyasha), the founder of modern Noh theater—the world's oldest surviving theater art—this coming-of-age artist's journey vividly brings to life a man far ahead of his time during one of Japan's most culturally and socially vibrant eras.<br><br></p>\n<p>(Source: Kodansha Comics)<br><br></p>\n<p><i>Note: World Is Dancing is streaming 3 days in advance of the TV broadcast on Prime Video and HIDIVE beginning June 29th, 2026. Regular broadcasting begins on July 2nd, 2026.</i></p>",
+          "description": "<p>Born into a life of acting and dance with a traveling theater troupe in 14th-century Japan, 12-year old Oniyasha has one problem—he doesn't know what the point of any of it is. &quot;Why must I step with the left foot here instead of the right? Why is one performance good and another, bad? Why do people dance at all?&quot; It all seems perfectly arbitrary, until a chance encounter in a run-down shack sets him down a path to revolutionizing the art form and influencing much of Japanese culture to come. A fictionalized account of the early life of Zeami Motokiyo (Oniyasha), the founder of modern Noh theater—the world's oldest surviving theater art—this coming-of-age artist's journey vividly brings to life a man far ahead of his time during one of Japan's most culturally and socially vibrant eras.<br><br></p>\n<p>(Source: Kodansha Comics)<br><br></p>\n<p><i>Note: World Is Dancing is streaming 3 days in advance of the TV broadcast on Prime Video and HIDIVE beginning June 29th, 2026. Regular broadcasting began on July 2nd, 2026.</i></p>",
           "externalLinks": [
             {
               "site": "Official Site",
@@ -3851,7 +3871,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "14. yüzyıl Japonya'sında gezici bir tiyatro grubunda oyunculuk ve dansla dolu bir hayata doğan 12 yaşındaki Oniyasha'nın tek bir sorunu var; bunların hiçbirinin amacını bilmiyor. \"Neden buraya sağ ayak yerine sol ayakla basmak zorundayım? Neden bir performans iyi, diğeri ise kötü? Neden insanlar dans ediyor?\" Her şey tamamen keyfi görünüyor, ta ki köhne bir barakada tesadüfen karşılaşması, onu sanat biçiminde devrim yapma ve gelecek Japon kültürünün çoğunu etkileme yoluna sokana kadar. Dünyanın hayatta kalan en eski tiyatro sanatı olan modern Noh tiyatrosunun kurucusu Zeami Motokiyo'nun (Oniyasha) erken yaşamının kurgusal bir anlatımı olan bu reşit olmuş sanatçının yolculuğu, Japonya'nın kültürel ve sosyal açıdan en canlı dönemlerinden birinde, zamanının çok ilerisinde bir adamı canlı bir şekilde hayata geçiriyor.<br><br>(Kaynak: Kodansha Comics)<br><br>Not: Dünya Dans Ediyor, 29 Haziran 2026'dan itibaren Prime Video ve HIDIVE'daki TV yayınından 3 gün önce yayınlanıyor. Normal yayın 2 Temmuz 2026'da başlıyor."
+          "descriptionTr": "14. yüzyıl Japonya'sında gezici bir tiyatro grubunda oyunculuk ve dansla dolu bir hayata doğan 12 yaşındaki Oniyasha'nın tek bir sorunu var; bunların hiçbirinin amacını bilmiyor. \"Neden buraya sağ ayak yerine sol ayakla basmak zorundayım? Neden bir performans iyi, diğeri ise kötü? Neden insanlar dans ediyor?\" Her şey tamamen keyfi görünüyor, ta ki köhne bir barakada tesadüfen karşılaşması, onu sanat biçiminde devrim yapma ve gelecek Japon kültürünün çoğunu etkileme yoluna sokana kadar. Dünyanın hayatta kalan en eski tiyatro sanatı olan modern Noh tiyatrosunun kurucusu Zeami Motokiyo'nun (Oniyasha) erken yaşamının kurgusal bir anlatımı olan bu reşit olmuş sanatçının yolculuğu, Japonya'nın kültürel ve sosyal açıdan en canlı dönemlerinden birinde, zamanının çok ilerisinde bir adamı canlı bir şekilde hayata geçiriyor.<br><br>(Kaynak: Kodansha Comics)<br><br>Not: Dünya Dans Ediyor, 29 Haziran 2026'dan itibaren Prime Video ve HIDIVE'daki TV yayınından 3 gün önce yayınlanıyor. Düzenli yayın 2 Temmuz 2026'da başladı."
         },
         {
           "id": 198409,
@@ -4265,7 +4285,7 @@
               }
             ]
           },
-          "description": "<p>“I will become the world’s most wonderful maid!” <br><br><br />\nWith her skirt fluttering in black and white, the girl shouted. Her name is Melody. A reincarnated former Japanese girl, she now pursues her dream in her new life, working as an all-purpose maid for a poor count’s family in the kingdom of Théolas. When she makes it, even cheap tea turns into a luxury brew, and a dilapidated mansion is quickly restored to new! Cleaning, serving, hunting, DIY—leave it all to her and her powerful magic. Unbeknownst to Melody, this world is actually an otome game, and she is the most powerful and invincible heroine, the saint! Yet, she remains oblivious to this fact. Romance with handsome men? Attacks by the Demon Lord? Work comes first! A fantasy of misunderstood work that unknowingly shatters destiny!<br><br></p>\n<p>(Source: Seven Seas Entertainment)<br><br></p>\n<p><i>Note: Heroine? Seijo? Iie, All Works Maid desu (Ko)! is streaming a week in advance of the TV broadcast on dAnimeStore and ABEMA beginning June 24th, 2026. Regular broadcasting begins on July 1st, 2026.</i></p>",
+          "description": "<p>“I will become the world’s most wonderful maid!” <br><br><br />\nWith her skirt fluttering in black and white, the girl shouted. Her name is Melody. A reincarnated former Japanese girl, she now pursues her dream in her new life, working as an all-purpose maid for a poor count’s family in the kingdom of Théolas. When she makes it, even cheap tea turns into a luxury brew, and a dilapidated mansion is quickly restored to new! Cleaning, serving, hunting, DIY—leave it all to her and her powerful magic. Unbeknownst to Melody, this world is actually an otome game, and she is the most powerful and invincible heroine, the saint! Yet, she remains oblivious to this fact. Romance with handsome men? Attacks by the Demon Lord? Work comes first! A fantasy of misunderstood work that unknowingly shatters destiny!<br><br></p>\n<p>(Source: Seven Seas Entertainment)<br><br></p>\n<p><i>Note: Heroine? Seijo? Iie, All Works Maid desu (Ko)! is streaming a week in advance of the TV broadcast on dAnimeStore and ABEMA beginning June 24th, 2026. Regular broadcasting began on July 1st, 2026.</i></p>",
           "externalLinks": [
             {
               "site": "Twitter",
@@ -4281,7 +4301,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "“Dünyanın en harika hizmetçisi olacağım!” <br><br>Eteği siyah beyaz dalgalanan kız bağırdı. Adı Melodi. Reenkarnasyona uğramış eski bir Japon kızı, şimdi yeni hayatında hayalinin peşinden gidiyor ve Théolas krallığında fakir bir kontun ailesi için çok amaçlı bir hizmetçi olarak çalışıyor. Bunu yaptığında, ucuz çay bile lüks bir demlemeye dönüşüyor ve harap bir malikane hızla yenileniyor! Temizlik, servis, avcılık, Kendin Yap; hepsini ona ve onun güçlü büyüsüne bırakın. Melody'nin bilmediği, bu dünyanın aslında bir otome oyunu olduğu ve o, en güçlü ve yenilmez kahraman olan aziz olduğu! Ancak yine de bu gerçeğin farkında değil. Yakışıklı erkeklerle romantizm mi? İblis Lordu'nun saldırıları mı? İş önce gelir! Farkında olmadan kaderi paramparça eden, yanlış anlaşılan bir çalışma fantezisi!<br><br>(Kaynak: Seven Seas Entertainment)<br><br>Not: Kahraman mı? Seijo mu? Yani, Tüm İşler Hizmetçisi desu (Ko)! 24 Haziran 2026'dan itibaren dAnimeStore ve ABEMA'daki TV yayınından bir hafta önce yayınlanıyor. Düzenli yayın 1 Temmuz 2026'da başlıyor."
+          "descriptionTr": "“Dünyanın en harika hizmetçisi olacağım!” <br><br>Eteği siyah beyaz dalgalanan kız bağırdı. Adı Melodi. Reenkarnasyona uğramış eski bir Japon kızı, şimdi yeni hayatında hayalinin peşinden gidiyor ve Théolas krallığında fakir bir kontun ailesi için çok amaçlı bir hizmetçi olarak çalışıyor. Bunu yaptığında, ucuz çay bile lüks bir demlemeye dönüşüyor ve harap bir malikane hızla yenileniyor! Temizlik, servis, avcılık, Kendin Yap; hepsini ona ve onun güçlü büyüsüne bırakın. Melody'nin bilmediği, bu dünyanın aslında bir otome oyunu olduğu ve o, en güçlü ve yenilmez kahraman olan aziz olduğu! Ancak yine de bu gerçeğin farkında değil. Yakışıklı erkeklerle romantizm mi? İblis Lordu'nun saldırıları mı? İş önce gelir! Farkında olmadan kaderi paramparça eden, yanlış anlaşılan bir çalışma fantezisi!<br><br>(Kaynak: Seven Seas Entertainment)<br><br>Not: Kahraman mı? Seijo mu? Yani, Tüm İşler Hizmetçisi desu (Ko)! 24 Haziran 2026'dan itibaren dAnimeStore ve ABEMA'daki TV yayınından bir hafta önce yayınlanıyor. Düzenli yayın 1 Temmuz 2026'da başladı."
         },
         {
           "id": 169582,
@@ -4551,8 +4571,8 @@
             "day": 5
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194219-qf7L0SfVi6nc.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194219-qf7L0SfVi6nc.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b194219-56EhyK775lga.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b194219-56EhyK775lga.jpg"
           },
           "bannerImage": null,
           "nextAiringEpisode": {
@@ -4997,81 +5017,6 @@
           "descriptionTr": "Casusların her ülkede perde arkasında hareket ettiği bir çağda Chloe, benzersiz kılık değiştirme becerileri ve dövüş sanatlarındaki yetenekleri sayesinde en zor görevleri bile başarıyla yerine getirerek günlerini geçiriyor. Patronunun ihanetinin ardından aniden ortadan kaybolur; Chloe, komşu Ashberry krallığında sıradan bir vatandaş olan Victoria olarak hayatını yeniden düzenleyerek \"normal\" bir hayat için çabalamayı planlamaktadır. Ancak Victoria'nın huzurlu hayatı, birçok insanla ilişki kurmaya başlamasıyla aniden kesintiye uğrar. Bu yeni diyarda, casusluk günlerinden edindiği deneyimler ve yetenekler, beklediğinden çok daha fazla işe yaradı! Öte yandan ikinci prens ve diğerleri, Victoria'nın gücüyle ilgilenir ve gölgeler, birçok yüzü olan kadının üzerine kapanır...<br><br>(Kaynak: Yen Press)"
         },
         {
-          "id": 209961,
-          "title": {
-            "romaji": "Shibou Yuugi de Meshi wo Kuu. 44:CLOUDY BEACH",
-            "english": null,
-            "native": "死亡遊戯で飯を食う。44:CLOUDY BEACH"
-          },
-          "synonyms": [
-            "SHIBOYUGI: Playing Death Games to Put Food on the Table - 44: CLOUDY BEACH"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 10
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209961-EKMAWTp299Kt.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209961-EKMAWTp299Kt.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1783609200,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Drama",
-            "Mystery",
-            "Thriller"
-          ],
-          "tags": [
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Death Game",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coastal",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Studio DEEN"
-              }
-            ]
-          },
-          "description": "<p>Theatrical follow-up to <i>Shibou Yuugi de Meshi wo Kuu.</i><br />\n<br><br><br />\nThis is the story of a certain insane world.  <br><br><br />\nPlayer name: Yuuki. Occupation: Professional in deadly games. <br><br><br />\nOvercoming the jinx known as the &quot;Thirty Game Wall,&quot; which drastically reduces the survival rate of players, Yuuki continues her journey. A game where death is always close at hand. Next, she takes on a remote island in the middle of the ocean. Eight players have gathered there. Among them are seasoned veterans whom Yuuki knows. The game is &quot;Cloudy Beach.&quot; Beyond the wall, only those who have crossed the wall remain. Today, once again, she makes a living playing deadly games. <br><br> (Source: Official Site, translated)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/shibouyugi_"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://shiboyugi-anime.com/theater/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Shibou Yuugi de Meshi wo Kuu'nun teatral devamı.<br><br>Bu çılgın bir dünyanın hikayesi.  <br><br>Oyuncu adı: Yuuki. Mesleği: Ölümcül oyunlarda profesyonel. <br><br>\"Otuz Oyun Duvarı\" olarak bilinen ve oyuncuların hayatta kalma oranını büyük ölçüde azaltan uğursuzluğun üstesinden gelen Yuuki, yolculuğuna devam ediyor. Ölümün her zaman yakın olduğu bir oyun. Daha sonra okyanusun ortasındaki uzak bir adaya saldırıyor. Sekiz oyuncu orada toplandı. Bunların arasında Yuuki'nin tanıdığı tecrübeli gaziler de var. Oyunun adı \"Bulutlu Plaj\". Duvarın ötesinde yalnızca duvarı aşanlar kalır. Bugün bir kez daha ölümcül oyunlar oynayarak geçimini sağlıyor. <br><br> (Kaynak: Resmi Site, tercüme)"
-        },
-        {
           "id": 203880,
           "title": {
             "romaji": "Reiwa no Dara-san",
@@ -5109,6 +5054,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Monster Girl",
               "isMediaSpoiler": false
             },
@@ -5125,15 +5074,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Nudity",
+              "name": "Femboy",
               "isMediaSpoiler": false
             },
             {
               "name": "Shrine Maiden",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Femboy",
               "isMediaSpoiler": false
             },
             {
@@ -5155,6 +5100,10 @@
             {
               "name": "Gore",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Gap",
+              "isMediaSpoiler": true
             },
             {
               "name": "Seinen",
@@ -5602,6 +5551,134 @@
           ],
           "isMyList": false,
           "descriptionTr": "Düşmüş bir aristokratın kızı Elsa, bir haber alır. Bu, çok seçkin bir soylu olan Julius'un evlenme teklifiydi. Elsa \"Bu kadar seçkin bir adam neden benimle evlensin?\" diye merak ediyor. Ancak düğünden sonra o ana kadar nazik ve nazik olan Julius tamamen değişti! Soğuk bir sesle \"Seni sevmeye hiç niyetim yok\" diyor.<br><br>(Kaynak: MangaPlaza)"
+        },
+        {
+          "id": 185875,
+          "title": {
+            "romaji": "Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
+            "english": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
+            "native": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance"
+          },
+          "synonyms": [
+            "NANOHA EXGV"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185875-XMvDVlIUZODx.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185875-XMvDVlIUZODx.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185875-kHVsTIJKPVRJ.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1783785600,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Mahou Shoujo"
+          ],
+          "tags": [
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Henshin",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Demons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Post-Apocalyptic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Found Family",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Guns",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Military",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coastal",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 66,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Seven Arcs"
+              }
+            ]
+          },
+          "description": "<p>Thirty years ago, the world was nearly destroyed by the sudden appearance of unknown &quot;invasive alien species.&quot;<br />\n<br><br><br />\nHumans and these “invasive species” continue to vie for living space, and while humanity’s safety is currently barely secured, the world could be destroyed at any moment. Living in fear of death and destruction, people go about their daily lives as if trying to avert their eyes from danger and disaster.<br />\n<br><br><br />\nIn this world, the United Nations Hazardous Species Investigation Agency, &quot;EXCEEDS,&quot; has begun operations to ward off crises and disasters caused by invasive species.<br />\n<br><br><br />\nThe story begins on the island nation of &quot;Mizuho&quot; in the Far East. Shina Hisase is a young invasive species extermination hunter living on a remote island. What incident will befall Shina, who wishes only to live quietly with her younger sister Setsuna, her sole remaining family member?<br />\n<br><br><br />\n<i>Note: The first episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/exgv_official"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://nanoha.com/EXGV/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378090/magical-girl-lyrical-nanoha-exceeds-gun-blaze-vengeance"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Otuz yıl önce, bilinmeyen \"istilacı yabancı türlerin\" aniden ortaya çıkmasıyla dünya neredeyse yok olmuştu.<br><br>İnsanlar ve bu \"istilacı türler\" yaşam alanı için rekabet etmeye devam ediyor ve insanlığın güvenliği şu anda zar zor güvence altına alınmış olsa da, dünya her an yok olabilir. Ölüm ve yıkım korkusu içinde yaşayan insanlar, adeta gözlerini tehlikeden ve felaketten uzaklaştırmaya çalışır gibi günlük yaşamlarını sürdürürler.<br><br>Bu dünyada, Birleşmiş Milletler Tehlikeli Türleri Araştırma Ajansı \"EXCEEDS\", istilacı türlerin neden olduğu krizleri ve felaketleri önlemek için çalışmalara başladı.<br><br>Hikaye Uzak Doğu'daki ada ülkesi \"Mizuho\"da başlıyor. Shina Hisase, uzak bir adada yaşayan genç bir istilacı tür yok etme avcısıdır. Ailesinden geriye kalan tek kişi olan küçük kız kardeşi Setsuna ile huzur içinde yaşamak isteyen Shina'nın başına nasıl bir olay gelecektir?<br><br>Not: İlk bölüm, standart 24 dakikalık bölümün aksine ~48 dakikalık bir çalışma süresiyle yayınlandı."
         }
       ]
     }
