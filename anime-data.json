@@ -567,7 +567,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "BLEACH'in dördüncü ve son bölümü: Sennen Kessen-hen. <br><br>Soul Reaper'lar ve Quincy'ler arasındaki Bin Yıllık Kan Savaşı'nın sonunda yıkım ufukta beliriyor... Soul King'in ölümü Üç Dünyanın çöküşünü yansıtırken, çarpıklıklar ve yıkım alametleri tüm diyarlarda görünmeye başlıyor.<br><br>Wahr Welt'te On Üç Saray Muhafız Birliği ile Kraliyet Muhafızları arasında şiddetli çatışmalar yaşanıyor. Ichigo, Uryuu'nun gerçek niyetini öğrenir ve birbirlerine güvenen arkadaşlar olarak dünyayı birlikte koruma kararlılığını tazeler. Yhwach kendi yeteneğini bile aştı, Yüce...<br><br>Üç Dünya'nın hayatta kalması için verilen şiddetli savaş sona yaklaşıyor. Felaket kaosunun ötesinde, bizi bekleyen ne var; umutsuzluk mu yoksa umut mu?<br><br>(Kaynak: VIZ Media, düzenlendi)"
+          "descriptionTr": "BLEACH'in dördüncü ve son bölümü: Sennen Kessen-hen. <br><br>Soul Reaper'lar ve Quincy'ler arasındaki Bin Yıllık Kan Savaşı'nın sonunda yıkım ufukta beliriyor... Soul King'in ölümü Üç Dünyanın çöküşünü yansıtırken, çarpıtmalar ve yıkım alametleri tüm diyarlarda görünmeye başlıyor.<br><br>Wahr Welt'te On Üç Saray Muhafız Birliği ile Kraliyet Muhafızları arasında şiddetli çatışmalar yaşanıyor. Ichigo, Uryuu'nun gerçek niyetini öğrenir ve birbirlerine güvenen arkadaşlar olarak dünyayı birlikte koruma kararlılığını tazeler. Yhwach kendi yeteneğini bile aştı, Yüce...<br><br>Üç Dünya'nın hayatta kalması için verilen şiddetli savaş sona yaklaşıyor. Felaket kaosunun ötesinde, bizi bekleyen ne var; umutsuzluk mu yoksa umut mu?<br><br>(Kaynak: VIZ Media, düzenlendi)"
         },
         {
           "id": 133007,
@@ -729,6 +729,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Rehabilitation",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Kemonomimi",
               "isMediaSpoiler": false
             },
@@ -742,10 +746,6 @@
             },
             {
               "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Rehabilitation",
               "isMediaSpoiler": false
             },
             {
@@ -1072,7 +1072,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Sheena'nın yaşadığı gizemli yetimhanede ölüm, buranın sakinleri için yeni bir şey değil; artık kendi aileleri olmayan, savaş silahı olarak yetiştirilen, gözlerini bile kırpmadan öldürmeyi ve başkalarının canını almayı öğreten kızlara. Etrafında büyüyen çatışmanın sona ermesinden başka bir şey istemeyen Sheena dışında herkes. Oda arkadaşının öldüğü gece Sheena, etrafını saran kargaşaya rağmen gülümseyen, kanlar içinde tuhaf bir kızla tanışır. Ertesi gün kız, Sheena'nın sınıfına yeni bir öğrenci olarak görünür ve kendisini Mimi olarak tanıtır. Başlangıçta bir okul efsanesi olduğu düşünülen bu yetimhanenin koridorlarında, artık Mimi'nin onların gizli silahı, ölmeyen bir ölümsüz olduğu fısıltıları dolaşıyor. Mimi daha sonra Sheena'nın yeni oda arkadaşı olarak atandığında, Sheena'nın dünyası, ölümü seven ve memnuniyetle karşılayan biriyle yaşamaya başladığında, Sheena'nın tek istediği bunu durdurmak olduğunda daha da karmaşık hale gelir…<br><br>(Kaynak: Kodansha ABD)"
+          "descriptionTr": "Sheena'nın yaşadığı gizemli yetimhanede ölüm, buranın sakinleri için yeni bir şey değil; artık kendi aileleri olmayan, savaş silahı olarak yetiştirilen, gözlerini bile kırpmadan öldürmeyi ve başkalarının canını almayı öğreten kızlara. Etrafında büyüyen çatışmanın sona ermesinden başka bir şey istemeyen Sheena dışında herkes. Oda arkadaşının öldüğü gece Sheena, etrafını saran kargaşaya rağmen gülümseyen, kanlar içinde tuhaf bir kızla tanışır. Ertesi gün kız, Sheena'nın sınıfına yeni bir öğrenci olarak görünür ve kendisini Mimi olarak tanıtır. Başlangıçta bir okul efsanesi olduğu düşünülen bu yetimhanenin koridorlarında, artık Mimi'nin onların gizli silahı, ölmeyen bir ölümsüz olduğu fısıltıları dolaşıyor. Daha sonra Mimi, Sheena'nın yeni oda arkadaşı olarak atandığında, Sheena'nın dünyası, ölümü seven ve memnuniyetle karşılayan biriyle yaşamaya başladığında, Sheena'nın tek istediği bunu durdurmak olduğunda daha da karmaşık hale gelir…<br><br>(Kaynak: Kodansha ABD)"
         },
         {
           "id": 187538,
@@ -1095,8 +1095,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187538-287evzCezNl0.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1783774800,
-            "episode": 2
+            "airingAt": 1784379600,
+            "episode": 3
           },
           "isAdult": false,
           "genres": [
@@ -1739,11 +1739,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Adult Cast",
+              "name": "Guns",
               "isMediaSpoiler": false
             },
             {
-              "name": "Guns",
+              "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
@@ -1751,11 +1751,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Police",
+              "name": "Politics",
               "isMediaSpoiler": false
             },
             {
-              "name": "Politics",
+              "name": "Police",
               "isMediaSpoiler": false
             },
             {
@@ -1771,15 +1771,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Gore",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
               "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gore",
               "isMediaSpoiler": false
             }
           ],
@@ -1823,7 +1823,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yıl 2029. Yakın gelecekte Japonya'da, gezegeni kaplayan geniş bir şirket ağıyla, içinden elektronlar ve ışık saçılarak dünyanın son derece bilgi yoğunluklu hale geldiği yer. Ancak ulus devlet ve etnik gruplar hâlâ varlığını sürdürüyor.  <br><br> Tam vücutlu bir cyborg olan Motoko Kusanagi, Batou'nun da aralarında bulunduğu seçkin bir savaş birimine liderlik ediyor. Kusanagi, ekibine komuta ederken, ortaya çıkan tehditlere karşı önleyici saldırı yapacak özel bir görev gücü oluşturulmasını öngörüyor. Bu arada benzer bir birim kurmayı planlayan İçişleri Bakanlığı'ndan Daisuke Aramaki, Kusanagi ve ekibini işe aldı. Birlikte, \"Kabuk Takımı\" olarak bilinen saldırı taktiksel birimi olan Kamu Güvenliği Bölüm 9 olarak operasyonlara başlarlar. Karmaşık siber suçlar ve uluslararası komplolarla karşı karşıya kalırken, araştırmalarının ufkunda \"Kukla Ustası\" olarak bilinen gizemli, kimliği belirsiz bir hackerın varlığı ortaya çıkıyor. <br><br> Kusanagi'yi nasıl bir kader bekliyor? Peki Puppet Master'ın gerçek amacı nedir? Siberpunk aksiyonunda yeni bir dönem başlıyor.  <br><br>(Kaynak: 攻殻機動隊 THE GHOST IN THE SHELL Sitesi)"
+          "descriptionTr": "Yıl 2029. Yakın gelecekte Japonya'da, gezegeni kaplayan geniş bir şirket ağıyla, içinden elektronlar ve ışık saçılarak dünyanın son derece bilgi yoğunluklu hale geldiği yer. Ancak ulus devlet ve etnik gruplar hâlâ varlığını sürdürüyor.  <br><br> Tam vücutlu bir cyborg olan Motoko Kusanagi, Batou'nun da dahil olduğu seçkin bir savaş birimine liderlik ediyor. Kusanagi, ekibine komuta ederken, ortaya çıkan tehditlere karşı önleyici saldırı yapacak özel bir görev gücü oluşturulmasını öngörüyor. Bu arada benzer bir birim kurmayı planlayan İçişleri Bakanlığı'ndan Daisuke Aramaki, Kusanagi ve ekibini işe aldı. Birlikte, \"Kabuk Takımı\" olarak bilinen saldırı taktiksel birimi olan Kamu Güvenliği Bölüm 9 olarak operasyonlara başlarlar. Karmaşık siber suçlar ve uluslararası komplolarla karşı karşıya kalırken, araştırmalarının ufkunda \"Kukla Ustası\" olarak bilinen gizemli, kimliği belirsiz bir hackerın varlığı ortaya çıkıyor. <br><br> Kusanagi'yi nasıl bir kader bekliyor? Peki Puppet Master'ın gerçek amacı nedir? Siberpunk aksiyonunda yeni bir dönem başlıyor.  <br><br>(Kaynak: 攻殻機動隊 THE GHOST IN THE SHELL Sitesi)"
         },
         {
           "id": 199111,
@@ -2239,7 +2239,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 71,
+          "averageScore": 72,
           "studios": {
             "nodes": [
               {
@@ -2357,6 +2357,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Incest",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Surreal Comedy",
               "isMediaSpoiler": false
             },
@@ -2374,10 +2378,6 @@
             },
             {
               "name": "Maids",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Incest",
               "isMediaSpoiler": false
             }
           ],
@@ -2562,7 +2562,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 79,
+          "averageScore": 80,
           "studios": {
             "nodes": [
               {
@@ -2590,7 +2590,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Annesini ve vatanını kaybeden Sitara'nın çaresizliği, bilginin gücüyle kararlılığa dönüşür. Akademisyenlerden oluşan bir aile onu yanına alıp eğitimini derinleştirdiğinde yeni olasılıklar ortaya çıkar. Bu arada Cengiz Han'ın Moğol İmparatorluğu, Sitara'nın yeni evine yaklaşarak ulusları fethediyor. İmparatorluğun Dördüncü Prensi onu esir alınca intikam ateşi alevlenir.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Annesini ve vatanını kaybeden Sitara'nın çaresizliği, bilginin gücüyle kararlılığa dönüşür. Akademisyenlerden oluşan bir aile onu yanına alıp eğitimini derinleştirdiğinde yeni olasılıklar ortaya çıkar. Bu arada Cengiz Han'ın Moğol İmparatorluğu, Sitara'nın yeni evine yaklaşarak ulusları fethediyor. İmparatorluğun Dördüncü Prensi onu esir aldıktan sonra intikam ateşi alevlenir.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 197715,
@@ -2663,7 +2663,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 65,
+          "averageScore": 64,
           "studios": {
             "nodes": [
               {
@@ -2797,6 +2797,231 @@
           "descriptionTr": "Kahramanın grubundaki S seviye bir büyücü olan Luck, arkadaşlarını kurtarmak için Şeytan Kral'a karşı son bir duruş sergiliyor. Nihayet zaferle geri döndüğünde üzerinden on yıl geçmiştir ve dünya onu savaşta ölen efsanevi bir kahraman olarak övmektedir. Önceki hayatına geri dönemeyen Luck, kimliğini gizler ve onsuz devam eden bir dünyada geleceğini şekillendiren F sınıfı bir maceracı olan \"Lock\" olarak yeniden başlar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita, 3 Temmuz 2026'dan itibaren Prime Video'daki TV yayınından 3 gün önce yayınlanıyor. Düzenli yayın 6 Temmuz 2026'da başladı."
         },
         {
+          "id": 209983,
+          "title": {
+            "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
+            "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+            "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season"
+          },
+          "synonyms": [
+            "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+            "HELL MODE ~อยากเล่นโหด ขอโหมดนรก~ ซีซั่น 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1784304000,
+            "episode": 3
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Child Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Creature Taming",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 72,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Yokohama Animation Lab"
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Hell Mode</i>.</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://hellmode-anime.com"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/hellmode_anime"
+            },
+            {
+              "site": "HIDIVE",
+              "url": "https://www.hidive.com/season/36239"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/1a7r5ibbkjl"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Hell Mode'un ikinci sezonu."
+        },
+        {
+          "id": 204466,
+          "title": {
+            "romaji": "Otome Kaijuu Caramelise",
+            "english": "KAIJU GIRL CARAMELISE",
+            "native": "乙女怪獣キャラメリゼ"
+          },
+          "synonyms": [
+            "สาวน้อยไคจู คาราเมไลซ์"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 3
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204466-vXMvIs4VOoQd.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204466-vXMvIs4VOoQd.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204466-cpbNGN9qHrGP.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1784219280,
+            "episode": 3
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Shapeshifting",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Body Image",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Monster Girl",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kaiju",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Henshin",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tokusatsu",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tsundere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Love Triangle",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 75,
+          "studios": {
+            "nodes": [
+              {
+                "name": "LIDENFILMS"
+              }
+            ]
+          },
+          "description": "<p>Kuroe Akaishi just wants a normal high school life—but that’s impossible with a rare condition that turns her into a giant kaiju whenever her emotions spike! Things get even worse when she falls for Arata Minami, the most popular boy in class. Now every blush, heartbeat, and crush could trigger a monster transformation. Can Kuroe survive high school love before it destroys everything around her?!<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://otomekaiju.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/Otome_Kaiju"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378081/kaiju-girl-caramelise"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl38hoyHQ6-C5HAQ9lJ5jkdG"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/media/2411889"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Kuroe Akaishi'nin tek istediği normal bir lise hayatıdır; ancak duyguları yükseldiğinde onu dev bir kaiju'ya dönüştüren nadir bir durum nedeniyle bu imkansızdır! Sınıfın en popüler çocuğu Arata Minami'ye aşık olunca işler daha da kötüleşir. Artık her kızarma, kalp atışı ve ezilme bir canavar dönüşümünü tetikleyebilir. Kuroe, etrafındaki her şeyi mahvetmeden lise aşkından sağ çıkabilecek mi?!<br><br>(Kaynak: Crunchyroll)"
+        },
+        {
           "id": 201514,
           "title": {
             "romaji": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
@@ -2904,231 +3129,6 @@
           "descriptionTr": "Hinako Konohana mükemmel bir genç bayan; zarif, zarif ve kusursuz… ya da herkes öyle düşünüyor. Kapalı kapılar ardında temel işleri halledemeyen tam bir felaket! Sıradan öğrenci Itsuki Tomonari onun bakıcısı olduğunda, 7/24 hasar kontrolüne alınır ve onun \"mükemmel\" imajını korur. Tuhaf, aralıksız bir kaos var ama aşk gibi hissettiren bir şeye dönüşmeye başlıyor…<br><br>(Kaynak: Crunchyroll)"
         },
         {
-          "id": 204466,
-          "title": {
-            "romaji": "Otome Kaijuu Caramelise",
-            "english": "KAIJU GIRL CARAMELISE",
-            "native": "乙女怪獣キャラメリゼ"
-          },
-          "synonyms": [
-            "สาวน้อยไคจู คาราเมไลซ์"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 3
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204466-vXMvIs4VOoQd.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204466-vXMvIs4VOoQd.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204466-cpbNGN9qHrGP.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1784219280,
-            "episode": 3
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "Shapeshifting",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Body Image",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Monster Girl",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kaiju",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Henshin",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tokusatsu",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Tsundere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Love Triangle",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 75,
-          "studios": {
-            "nodes": [
-              {
-                "name": "LIDENFILMS"
-              }
-            ]
-          },
-          "description": "<p>Kuroe Akaishi just wants a normal high school life—but that’s impossible with a rare condition that turns her into a giant kaiju whenever her emotions spike! Things get even worse when she falls for Arata Minami, the most popular boy in class. Now every blush, heartbeat, and crush could trigger a monster transformation. Can Kuroe survive high school love before it destroys everything around her?!<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://otomekaiju.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/Otome_Kaiju"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378081/kaiju-girl-caramelise"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl38hoyHQ6-C5HAQ9lJ5jkdG"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/media/2411889"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Kuroe Akaishi'nin tek istediği normal bir lise hayatıdır; ancak duyguları yükseldiğinde onu dev bir kaiju'ya dönüştüren nadir bir durum nedeniyle bu imkansızdır! Sınıfın en popüler çocuğu Arata Minami'ye aşık olunca işler daha da kötüleşir. Artık her kızarma, kalp atışı ve ezilme bir canavar dönüşümünü tetikleyebilir. Kuroe, etrafındaki her şeyi mahvetmeden lise aşkından sağ çıkabilecek mi?!<br><br>(Kaynak: Crunchyroll)"
-        },
-        {
-          "id": 209983,
-          "title": {
-            "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
-            "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
-            "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season"
-          },
-          "synonyms": [
-            "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
-            "HELL MODE ~อยากเล่นโหด ขอโหมดนรก~ ซีซั่น 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1784304000,
-            "episode": 3
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Child Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Creature Taming",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 71,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Yokohama Animation Lab"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Hell Mode</i>.</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://hellmode-anime.com"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/hellmode_anime"
-            },
-            {
-              "site": "HIDIVE",
-              "url": "https://www.hidive.com/season/36239"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/1a7r5ibbkjl"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Hell Mode'un ikinci sezonu."
-        },
-        {
           "id": 202269,
           "title": {
             "romaji": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
@@ -3184,6 +3184,10 @@
             {
               "name": "Tragedy",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
             },
             {
               "name": "Coming of Age",
@@ -3323,6 +3327,118 @@
           "descriptionTr": "Çocukluğunda her zaman arkadaş olacağına dair söz verdikten yedi yıl sonra Hayato, eski erkeksi arkadaşı Haruki ile bir şehir lisesinde yeniden bir araya gelir - ancak şimdi Haruki her erkeğin hayalini kurduğu kıza dönüşmüştür! Haruki'nin görünüşü değişmiş olsa da Hayato hâlâ hatırladığı arkadaşıdır. Yıllar geçmesine rağmen verdikleri sözler ve hisler devam ediyor ve daha güçlü bir şeye doğru derinleşiyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
+          "id": 128757,
+          "title": {
+            "romaji": "Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai",
+            "english": "Young Ladies Don't Play Fighting Games",
+            "native": "対ありでした。 ～お嬢さまは格闘ゲームなんてしない～"
+          },
+          "synonyms": [
+            "GGWP.: Young Ladies Don't Play Fighting Games"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 7
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128757-Iqc6hTjEYIz4.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128757-Iqc6hTjEYIz4.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1784028600,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama"
+          ],
+          "tags": [
+            {
+              "name": "Video Games",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ojou-sama",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "E-Sports",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Advertisement",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Boarding School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cute Girls Doing Cute Things",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Otaku Culture",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 72,
+          "studios": {
+            "nodes": [
+              {
+                "name": "diomedéa"
+              }
+            ]
+          },
+          "description": "<p>Mitsuki Aya has one goal at the elite Kuromi Girls’ Academy: to become a refined young lady like the school’s flawless “White Lily,” Yorue Mio. But her image of Mio shatters when Aya accidentally catches her...playing fighting games?! Turns out, the elegant Mio is actually a hardcore gamer—and she wants to duel Aya! The battle (and their friendship) begins.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://taiari-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/taiari_anime"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00362362/young-ladies-dont-play-fighting-games"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Mitsuki Aya'nın seçkin Kuromi Kız Akademisi'nde tek bir hedefi vardır: okulun kusursuz \"Beyaz Zambak\"ı Yorue Mio gibi zarif bir genç bayan olmak. Ama Aya yanlışlıkla onu dövüş oyunları oynarken yakalayınca Mio'ya dair imajı paramparça oluyor? Zarif Mio'nun aslında sıkı bir oyuncu olduğu ve Aya ile düello yapmak istediği ortaya çıktı! Savaş (ve onların dostluğu) başlar.<br><br>(Kaynak: Crunchyroll)"
+        },
+        {
           "id": 182616,
           "title": {
             "romaji": "Nige Jouzu no Wakagimi 2nd Season",
@@ -3413,118 +3529,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Nige Jouzu no Wakagimi'nin ikinci sezonu."
-        },
-        {
-          "id": 128757,
-          "title": {
-            "romaji": "Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai",
-            "english": "Young Ladies Don't Play Fighting Games",
-            "native": "対ありでした。 ～お嬢さまは格闘ゲームなんてしない～"
-          },
-          "synonyms": [
-            "GGWP.: Young Ladies Don't Play Fighting Games"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 7
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128757-Iqc6hTjEYIz4.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128757-Iqc6hTjEYIz4.png"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1784028600,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama"
-          ],
-          "tags": [
-            {
-              "name": "Video Games",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ojou-sama",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "E-Sports",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Advertisement",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Boarding School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cute Girls Doing Cute Things",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Otaku Culture",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 72,
-          "studios": {
-            "nodes": [
-              {
-                "name": "diomedéa"
-              }
-            ]
-          },
-          "description": "<p>Mitsuki Aya has one goal at the elite Kuromi Girls’ Academy: to become a refined young lady like the school’s flawless “White Lily,” Yorue Mio. But her image of Mio shatters when Aya accidentally catches her...playing fighting games?! Turns out, the elegant Mio is actually a hardcore gamer—and she wants to duel Aya! The battle (and their friendship) begins.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://taiari-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/taiari_anime"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00362362/young-ladies-dont-play-fighting-games"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Mitsuki Aya'nın seçkin Kuromi Kız Akademisi'nde tek bir hedefi vardır: okulun kusursuz \"Beyaz Zambak\"ı Yorue Mio gibi zarif bir genç bayan olmak. Ancak Aya yanlışlıkla onu dövüş oyunları oynarken yakalayınca Mio'ya dair imajı paramparça olur? Zarif Mio'nun aslında sıkı bir oyuncu olduğu ve Aya ile düello yapmak istediği ortaya çıktı! Savaş (ve onların dostluğu) başlar.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 196218,
@@ -3620,7 +3624,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 68,
+          "averageScore": 67,
           "studios": {
             "nodes": [
               {
@@ -3973,6 +3977,141 @@
           "descriptionTr": "Ölümcül bir kazanın ardından aşırı çalışan ofis çalışanı Arihito Atobe, saldırı, savunma ve iyileştirmede üstün olan çok amaçlı bir destek rolü olan nadir Arka Koruma sınıfına sahip bir Arayıcı olarak Labirent Ülkesi'nde yeniden doğar. Vahşi bir yarı insan paralı asker ve eski patronunun da katıldığı Arihito, ölümcül zindanlara dalıyor ve rütbelerde yükseliyor. En güçlü destek sınıfının macerası başlıyor!<br><br>(Kaynak: Crunchyroll)"
         },
         {
+          "id": 186863,
+          "title": {
+            "romaji": "Neko to Ryuu",
+            "english": "The Cat and the Dragon",
+            "native": "猫と竜"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 6,
+            "day": 27
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186863-AO4efoB8HuzA.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186863-AO4efoB8HuzA.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186863-hRsC2yxvILTx.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1784376000,
+            "episode": 4
+          },
+          "isAdult": false,
+          "genres": [
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Dragons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Animals",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Found Family",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Skip",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Animal Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Iyashikei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anthropomorphism",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Royal Affairs",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shapeshifting",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Parenthood",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Family Life",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Orphan",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Witch",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Environmental",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 73,
+          "studios": {
+            "nodes": [
+              {
+                "name": "OLM"
+              }
+            ]
+          },
+          "description": "<p>The story follows a fire-breathing, human-hating dragon raised by a mother cat in a forest. The dragon, known affectionately as &quot;Uncle Wing,&quot; watches over the many curious cats — such as one that goes on an adventure with a human prince, and another that lives in the city and people-watches as a hobby — and gradually warms up to humans along the way.<br><br></p>\n<p>(Source: Crunchyroll News)<br><br><br />\n<i>Note: Each episode streamed 1 week early on ABEMA and dAnimeStore. The original TV broadcast started on July 4, 2026.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://nekoryuu-pr.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/NekoRyuu_PR"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378117/the-cat-and-the-dragon"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/the-cat-and-the-dragon-2026-1f14cq7kkxt"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLW7w7NrGJ9As"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Hikaye, ormanda bir anne kedi tarafından büyütülen, ateş püskürten, insanlardan nefret eden bir ejderhayı konu alıyor. Sevgiyle \"Wing Amca\" olarak anılan ejderha, biri insan prensle maceraya çıkan, diğeri şehirde yaşayan ve insanları hobi olarak izleyen pek çok meraklı kediye göz kulak oluyor ve yol boyunca yavaş yavaş insanlara ısınıyor.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Her bölüm ABEMA ve dAnimeStore'da 1 hafta erken yayınlandı. Orijinal TV yayını 4 Temmuz 2026'da başladı."
+        },
+        {
           "id": 188139,
           "title": {
             "romaji": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
@@ -4155,7 +4294,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 68,
+          "averageScore": 69,
           "studios": {
             "nodes": [
               {
@@ -4179,142 +4318,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "“Dünyanın en harika hizmetçisi olacağım!” <br><br>Eteği siyah beyaz dalgalanan kız bağırdı. Adı Melodi. Reenkarnasyona uğramış eski bir Japon kızı, şimdi yeni hayatında hayalinin peşinden gidiyor ve Théolas krallığında fakir bir kontun ailesi için çok amaçlı bir hizmetçi olarak çalışıyor. Bunu yaptığında, ucuz çay bile lüks bir demlemeye dönüşüyor ve harap bir malikane hızla yenileniyor! Temizlik, servis, avcılık, Kendin Yap; hepsini ona ve onun güçlü büyüsüne bırakın. Melody'nin bilmediği, bu dünyanın aslında bir otome oyunu olduğu ve o, en güçlü ve yenilmez kadın kahraman olan aziz olduğu! Ancak yine de bu gerçeğin farkında değil. Yakışıklı erkeklerle romantizm mi? İblis Lordu'nun saldırıları mı? İş önce gelir! Farkında olmadan kaderi paramparça eden, yanlış anlaşılan bir çalışma fantezisi!<br><br>(Kaynak: Seven Seas Entertainment)<br><br>Not: Kahraman mı? Seijo mu? Yani, Tüm İşler Hizmetçisi desu (Ko)! 24 Haziran 2026'dan itibaren dAnimeStore ve ABEMA'daki TV yayınından bir hafta önce yayınlanıyor. Düzenli yayın 1 Temmuz 2026'da başladı."
-        },
-        {
-          "id": 186863,
-          "title": {
-            "romaji": "Neko to Ryuu",
-            "english": "The Cat and the Dragon",
-            "native": "猫と竜"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 6,
-            "day": 27
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186863-AO4efoB8HuzA.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186863-AO4efoB8HuzA.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186863-hRsC2yxvILTx.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1783771200,
-            "episode": 3
-          },
-          "isAdult": false,
-          "genres": [
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Dragons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Animals",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Found Family",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Skip",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Animal Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Anthropomorphism",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shapeshifting",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Parenthood",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Family Life",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Orphan",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Witch",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Environmental",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 73,
-          "studios": {
-            "nodes": [
-              {
-                "name": "OLM"
-              }
-            ]
-          },
-          "description": "<p>The story follows a fire-breathing, human-hating dragon raised by a mother cat in a forest. The dragon, known affectionately as &quot;Uncle Wing,&quot; watches over the many curious cats — such as one that goes on an adventure with a human prince, and another that lives in the city and people-watches as a hobby — and gradually warms up to humans along the way.<br><br></p>\n<p>(Source: Crunchyroll News)<br><br><br />\n<i>Note: Each episode streamed 1 week early on ABEMA and dAnimeStore. The original TV broadcast started on July 4, 2026.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://nekoryuu-pr.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/NekoRyuu_PR"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378117/the-cat-and-the-dragon"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/the-cat-and-the-dragon-2026-1f14cq7kkxt"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLW7w7NrGJ9As"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Hikaye, ormanda bir anne kedi tarafından büyütülen, ateş püskürten, insanlardan nefret eden bir ejderhayı konu alıyor. Sevgiyle \"Wing Amca\" olarak anılan ejderha, biri insan prensle maceraya çıkan, diğeri şehirde yaşayan ve hobi olarak insanları izleyen pek çok meraklı kediyi gözetliyor ve bu yolda yavaş yavaş insanlara ısınıyor.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Her bölüm ABEMA ve dAnimeStore'da 1 hafta erken yayınlandı. Orijinal TV yayını 4 Temmuz 2026'da başladı."
+          "descriptionTr": "“Dünyanın en harika hizmetçisi olacağım!” <br><br>Eteği siyah beyaz dalgalanan kız bağırdı. Adı Melodi. Reenkarnasyona uğramış eski bir Japon kızı, şimdi yeni hayatında hayalinin peşinden gidiyor ve Théolas krallığında fakir bir kontun ailesi için çok amaçlı bir hizmetçi olarak çalışıyor. Bunu yaptığında, ucuz çay bile lüks bir demlemeye dönüşüyor ve harap bir malikane hızla yenileniyor! Temizlik, servis, avcılık, Kendin Yap; hepsini ona ve onun güçlü büyüsüne bırakın. Melody'nin bilmediği, bu dünyanın aslında bir otome oyunu olduğu ve o, en güçlü ve yenilmez kahraman olan aziz olduğu! Ancak yine de bu gerçeğin farkında değil. Yakışıklı erkeklerle romantizm mi? İblis Lordu'nun saldırıları mı? İş önce gelir! Farkında olmadan kaderi paramparça eden, yanlış anlaşılan bir çalışma fantezisi!<br><br>(Kaynak: Seven Seas Entertainment)<br><br>Not: Kahraman mı? Seijo mu? Yani, Tüm İşler Hizmetçisi desu (Ko)! 24 Haziran 2026'dan itibaren dAnimeStore ve ABEMA'daki TV yayınından bir hafta önce yayınlanıyor. Düzenli yayın 1 Temmuz 2026'da başladı."
         },
         {
           "id": 169582,
@@ -4514,11 +4518,11 @@
           ],
           "tags": [
             {
-              "name": "Female Protagonist",
+              "name": "Villainess",
               "isMediaSpoiler": false
             },
             {
-              "name": "Villainess",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -4566,7 +4570,107 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Nüfuzlu başbakanın kızı Elizabeth Leiston, Haldoria Krallığı'nın gelecekteki kraliçesi olma yolundaki mükemmel bir kadındır. Ancak nişanlısının halka açık bir şekilde nişanlarını iptal ettiğini gösteren bir gösteri yapmasıyla hayatı aniden kötüye gider. Kısa süre sonra onu hapse atar ve onun hakkında kötü söylentiler yaymaya başlar. Elizabeth'in, sadık hizmetçisi Mireille'den aldığı cesaret ve içindeki öfke, hedeflerini yeniden gözden geçirmek için ihtiyacı olan tek şey. Kendisine saygı duymayan bir ülkeyi ayaklar altına almak varken neden kendini ona adamaya devam etsin ki? Yaptığı son şey olsa bile, kendisine haksızlık edenlerin intikamını alacak ve lanet krallığı yıkacak! Şans eseri, Elizabeth tehlikede olan bir genç kız değil ve kullanmaktan çekinmeyeceği yedi güçlü büyü kitabına sahip. Hazır olun çünkü bu acımasız kadının kana ihtiyacı var!<br><br>(Kaynak: J-Novel Kulübü)"
+          "descriptionTr": "Nüfuzlu başbakanın kızı Elizabeth Leiston, Haldoria Krallığı'nın gelecekteki kraliçesi olma yolundaki kusursuz bir hanımefendi. Ancak nişanlısının halka açık bir şekilde nişanlarını iptal ettiğini gösteren bir gösteri yapmasıyla hayatı aniden kötüye gider. Kısa süre sonra onu hapse atar ve onun hakkında kötü söylentiler yaymaya başlar. Elizabeth'in, sadık hizmetçisi Mireille'den aldığı cesaret ve içindeki öfke, hedeflerini yeniden gözden geçirmek için ihtiyacı olan tek şey. Kendisine saygı duymayan bir ülkeyi ayaklar altına almak varken neden kendini ona adamaya devam etsin ki? Yaptığı son şey olsa bile, kendisine haksızlık edenlerin intikamını alacak ve lanet krallığı yıkacak! Şans eseri, Elizabeth tehlikede olan bir genç kız değil ve kullanmaktan çekinmeyeceği yedi güçlü büyü kitabına sahip. Hazır olun çünkü bu acımasız kadının kana ihtiyacı var!<br><br>(Kaynak: J-Novel Kulübü)"
+        },
+        {
+          "id": 207674,
+          "title": {
+            "romaji": "Ushiro no Shoumen Kamui-san",
+            "english": "KAMUI ---He's behind you",
+            "native": "うしろの正面カムイさん"
+          },
+          "synonyms": [
+            "Kamui-san Directly Behind You",
+            "從後面來的神威先生",
+            "คุณคามุยลุยหลังผี"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207674-BT8lFAwH1WrL.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207674-BT8lFAwH1WrL.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1784305800,
+            "episode": 3
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ghost",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Exorcism",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Public Sex",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ahegao",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Squirting",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 55,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Zero-G"
+              }
+            ]
+          },
+          "description": "<p>This exorcism is OMFFFFFFFFF!!!! Shizuka is a self-proclaimed ordinary high school girl who &quot;only&quot; sees ghosts. Using her unique ability to attract spirits, she works as an assistant to the famous psychic, Kamui. Though Kamui boasts overwhelming spiritual power, his exorcism methods are unprecedented...?! Will Shizuka, tossed about by supernatural disturbances, ever find peace? The curtain rises on &quot;supreme&quot; exorcism!! OMFFFFFFFFFG ALMIGHTY!!<br />\n<br><br><br />\n(Source: OceanVeil)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/anime_kamuisan"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://kamuisan.deregula.com/"
+            },
+            {
+              "site": "OceanVeil",
+              "url": "https://oceanveil.net/anime_titles/463"
+            },
+            {
+              "site": "OceanVeil",
+              "url": "https://oceanveil.net/anime_titles/464"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Bu şeytan çıkarma OMFFFFFFFFF!!!! Shizuka, \"sadece\" hayaletleri gören, sıradan bir liseli kız olduğunu iddia ediyor. Ruhları kendine çekme konusundaki eşsiz yeteneğini kullanarak ünlü medyum Kamui'nin asistanı olarak çalışıyor. Kamui ezici bir ruhsal güce sahip olmasına rağmen, onun şeytan çıkarma yöntemleri emsalsiz...?! Doğaüstü rahatsızlıkların sürüklediği Shizuka, huzuru bulabilecek mi? \"Yüce\" şeytan çıkarma ayininin perdesi kalkıyor!! Aman Tanrım!<br><br>(Kaynak: OceanVeil)"
         },
         {
           "id": 194219,
@@ -4661,172 +4765,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Japon tarzı bir ayakaşi Cinderella hikayesi! \"Bunca zamandır aradığım gelin sensin.\" Ayakaşiler ve insanlar uyum içinde bir arada yaşarlar. Üstün yeteneklere ve güzel görünüme sahip olan ayakaşiler, bazen insan kadınları arasında kendilerine eş bularak onları \"gelinleri\" haline getirirler. Gelin, refah getirmesi karşılığında ayakaşiden mutlak sevgi alır. Yuzu sürekli olarak şeytan tilkinin gelini olan kız kardeşiyle karşılaştırılıyor ve ailesi tarafından her gün kızıyor. Bir gün Yuzu artık hiçbir şeye dayanamadığında, köprüde karşısına bir adam çıkar. Bu adam Yuzu'nun şimdiye kadar gördüğü en güzel adam... ve ona karısı mı diyor?! \"Sessiz ol ve sana sarılmama izin ver.\" En güçlü, \"soğuk kalpli\" ayakaşi, Yuzu için kalbini mi döküyor?!<br><br>(Kaynak: MangaPlaza)"
-        },
-        {
-          "id": 207674,
-          "title": {
-            "romaji": "Ushiro no Shoumen Kamui-san",
-            "english": "KAMUI ---He's behind you",
-            "native": "うしろの正面カムイさん"
-          },
-          "synonyms": [
-            "Kamui-san Directly Behind You",
-            "從後面來的神威先生",
-            "คุณคามุยลุยหลังผี"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207674-BT8lFAwH1WrL.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207674-BT8lFAwH1WrL.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1784305800,
-            "episode": 3
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Ecchi",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ghost",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Exorcism",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Public Sex",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ahegao",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Squirting",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 56,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Zero-G"
-              }
-            ]
-          },
-          "description": "<p>This exorcism is OMFFFFFFFFF!!!! Shizuka is a self-proclaimed ordinary high school girl who &quot;only&quot; sees ghosts. Using her unique ability to attract spirits, she works as an assistant to the famous psychic, Kamui. Though Kamui boasts overwhelming spiritual power, his exorcism methods are unprecedented...?! Will Shizuka, tossed about by supernatural disturbances, ever find peace? The curtain rises on &quot;supreme&quot; exorcism!! OMFFFFFFFFFG ALMIGHTY!!<br />\n<br><br><br />\n(Source: OceanVeil)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/anime_kamuisan"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kamuisan.deregula.com/"
-            },
-            {
-              "site": "OceanVeil",
-              "url": "https://oceanveil.net/anime_titles/463"
-            },
-            {
-              "site": "OceanVeil",
-              "url": "https://oceanveil.net/anime_titles/464"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Bu şeytan çıkarma OMFFFFFFFFF!!!! Shizuka, \"sadece\" hayaletleri gören, sıradan bir liseli kız olduğunu iddia ediyor. Ruhları kendine çekme konusundaki eşsiz yeteneğini kullanarak ünlü medyum Kamui'nin asistanı olarak çalışıyor. Kamui ezici bir ruhsal güce sahip olmasına rağmen, şeytan çıkarma yöntemleri eşi benzeri görülmemiş...?! Doğaüstü rahatsızlıkların sürüklediği Shizuka, huzuru bulabilecek mi? \"Yüce\" şeytan çıkarma ayininin perdesi kalkıyor!! Aman Tanrım!<br><br>(Kaynak: OceanVeil)"
-        },
-        {
-          "id": 211711,
-          "title": {
-            "romaji": "Boku no Hero Academia: I am a hero too",
-            "english": null,
-            "native": "僕のヒーローアカデミア I am a hero too"
-          },
-          "synonyms": [
-            "My Hero Academia: I am a hero too Special"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 8,
-            "day": 3
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211711-Oy6R5cmGHLCL.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211711-Oy6R5cmGHLCL.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1785682800,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [],
-          "tags": [
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Superhero",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": []
-          },
-          "description": "<p>Following the broadcast of My Hero Academia Episode 170+1, the series' official website and accounts revealed that a new short anime adapting the &quot;I Am a Hero Too&quot; bonus chapter will tell the story of Eri as a high-schooler when it releases this summer.<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://heroaca.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/heroaca_anime/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "My Hero Academia Bölüm 170+1'in yayınlanmasının ardından serinin resmi web sitesi ve hesapları, \"Ben de bir kahramanım\" bonus bölümünü uyarlayan yeni bir kısa animenin bu yaz yayınlandığında Eri'nin bir lise öğrencisi olarak hikayesini anlatacağını ortaya çıkardı.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 211308,
@@ -4935,6 +4873,72 @@
           "descriptionTr": "Kayıp krallığın Prensesi Safir. \"Nergal\" olarak bilinen felaket nedeniyle memleketi Silverland'deki her şeyden mahrum kalan sanatçı, umutsuzluğun en derin noktasında Goldland'e geldi. Geçmişinin ağırlığını taşırken insanların nezaketinde bir umut ışığı bulmaya başladı. Ancak onun huzurlu günlük yaşamıyla alay edercesine, \"Nergal\" felaketi bir kez daha karşımıza çıkar. Vatanını küle çeviren çaresizlik, şimdi bu toprakların ışığını da çalmakla tehdit ediyor.<br><br>\"Benim için artık kayıp yok. Kimse için artık kayıp yok.\" <br><br>Genç kız, üzüntü korkusunu bir kenara bırakarak kılıcını alır. <br>Bu, kurdelesini bağlayıp kadere meydan okumaya karar veren bir kahramanın hikayesidir. <br><br>(Kaynak: THE RIBBON HERO Resmi Sitesi)<br><br> Not: Bu anime Osamu Tezuka'nın \"Princess Knight\" adlı mangasından esinlenilmiştir."
         },
         {
+          "id": 211711,
+          "title": {
+            "romaji": "Boku no Hero Academia: I am a hero too",
+            "english": null,
+            "native": "僕のヒーローアカデミア I am a hero too"
+          },
+          "synonyms": [
+            "My Hero Academia: I am a hero too Special"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 8,
+            "day": 3
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211711-Oy6R5cmGHLCL.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211711-Oy6R5cmGHLCL.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1785682800,
+            "episode": 1
+          },
+          "isAdult": false,
+          "genres": [],
+          "tags": [
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Superhero",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": []
+          },
+          "description": "<p>Following the broadcast of My Hero Academia Episode 170+1, the series' official website and accounts revealed that a new short anime adapting the &quot;I Am a Hero Too&quot; bonus chapter will tell the story of Eri as a high-schooler when it releases this summer.<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://heroaca.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/heroaca_anime/"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "My Hero Academia Bölüm 170+1'in yayınlanmasının ardından serinin resmi web sitesi ve hesapları, \"Ben de bir kahramanım\" bonus bölümünü uyarlayan yeni bir kısa animenin bu yaz yayınlandığında Eri'nin bir lise öğrencisi olarak hikayesini anlatacağını ortaya çıkardı.<br><br>(Kaynak: Crunchyroll)"
+        },
+        {
           "id": 198709,
           "title": {
             "romaji": "Tefuda ga Oome no Victoria",
@@ -5003,7 +5007,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 66,
+          "averageScore": 67,
           "studios": {
             "nodes": [
               {
@@ -5155,7 +5159,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bulutlar gökyüzünü karartıyor ve yağmur tabakaları dağ ormanını hain bir labirent haline getiriyor... Heyelan dikenli telleri ezer ve \"GİRİLMEZ\" tabelasını gömer... İki genç kardeş ait olmadıkları karanlık bir dünyaya doğru yola çıkarlar ve uzun, korkunç bir gölge onları karşılamak için yükselir... Neyse, işte Dara-san'la böyle tanıştık! Biraz korkutucu görünebilir ama onu tanıyana kadar bekleyin!<br><br>\"Bakın, ben bir talihsizlik tanrısıyım, tamam mı!? Siz çocuklar benim tuhaf yüzüm yüzünden çıldırmayacak mısınız!?\"<br><br>(Kaynak: Yen Press)"
+          "descriptionTr": "Bulutlar gökyüzünü karartıyor ve yağmur tabakaları dağ ormanını hain bir labirent haline getiriyor... Heyelan dikenli telleri ezer ve \"GİRİLMEZ\" tabelasını gömer... İki genç kardeş ait olmadıkları karanlık bir dünyaya doğru yola çıkarlar ve uzun, korkunç bir gölge onları karşılamak için yükselir... Neyse, işte Dara-san'la böyle tanıştık! Biraz korkutucu görünebilir ama onu tanıyana kadar bekleyin!<br><br>\"Bakın, ben bir talihsizlik tanrısıyım, tamam mı!? Siz çocuklar benim garip yüzüm yüzünden çıldırmayacak mısınız!?\"<br><br>(Kaynak: Yen Press)"
         },
         {
           "id": 209504,
@@ -5571,39 +5575,39 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Düşmüş bir aristokratın kızı Elsa, bir haber alır. Bu, çok seçkin bir soylu olan Julius'un evlenme teklifiydi. Elsa \"Bu kadar seçkin bir adam neden benimle evlensin?\" diye merak ediyor. Ancak düğünden sonra o ana kadar nazik ve nazik olan Julius tamamen değişti! Soğuk bir sesle ona \"Seni sevmeye hiç niyetim yok\" diyor.<br><br>(Kaynak: MangaPlaza)"
+          "descriptionTr": "Düşmüş bir aristokratın kızı Elsa, bir haber alır. Bu, çok seçkin bir soylu olan Julius'un evlenme teklifiydi. Elsa \"Bu kadar seçkin bir adam neden benimle evlensin?\" diye merak ediyor. Ancak düğünden sonra o ana kadar nazik ve nazik olan Julius tamamen değişti! Soğuk bir sesle \"Seni sevmeye hiç niyetim yok\" diyor.<br><br>(Kaynak: MangaPlaza)"
         },
         {
-          "id": 185875,
+          "id": 196356,
           "title": {
-            "romaji": "Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
-            "english": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
-            "native": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance"
+            "romaji": "Ibitte Konai Gibo to Gishi",
+            "english": "My Stepmother and Stepsisters Aren’t Wicked",
+            "native": "いびってこない義母と義姉"
           },
           "synonyms": [
-            "NANOHA EXGV"
+            "いびこな",
+            "IbiKona",
+            "My Mother-in-Law and Sister-in-Law Who Don't Bully Me",
+            "Keluarga Tiriku Manis dan Memanja"
           ],
           "startDate": {
             "year": 2026,
             "month": 7,
-            "day": 5
+            "day": 8
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185875-XMvDVlIUZODx.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185875-XMvDVlIUZODx.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196356-2TNt2b9tu0jm.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196356-2TNt2b9tu0jm.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185875-kHVsTIJKPVRJ.jpg",
+          "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1783785600,
+            "airingAt": 1784125800,
             "episode": 2
           },
           "isAdult": false,
           "genres": [
-            "Action",
             "Comedy",
-            "Drama",
-            "Fantasy",
-            "Mahou Shoujo"
+            "Slice of Life"
           ],
           "tags": [
             {
@@ -5611,11 +5615,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
+              "name": "Adoption",
               "isMediaSpoiler": false
             },
             {
-              "name": "Henshin",
+              "name": "Iyashikei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Historical",
               "isMediaSpoiler": false
             },
             {
@@ -5623,11 +5631,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Demons",
+              "name": "Family Life",
               "isMediaSpoiler": false
             },
             {
-              "name": "Gore",
+              "name": "Josei",
               "isMediaSpoiler": false
             },
             {
@@ -5635,71 +5643,47 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Super Power",
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
-              "name": "Post-Apocalyptic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Found Family",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Guns",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Military",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coastal",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
+              "name": "Parody",
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 66,
+          "averageScore": 63,
           "studios": {
             "nodes": [
               {
-                "name": "Seven Arcs"
+                "name": "NEWON"
               }
             ]
           },
-          "description": "<p>Thirty years ago, the world was nearly destroyed by the sudden appearance of unknown &quot;invasive alien species.&quot;<br />\n<br><br><br />\nHumans and these “invasive species” continue to vie for living space, and while humanity’s safety is currently barely secured, the world could be destroyed at any moment. Living in fear of death and destruction, people go about their daily lives as if trying to avert their eyes from danger and disaster.<br />\n<br><br><br />\nIn this world, the United Nations Hazardous Species Investigation Agency, &quot;EXCEEDS,&quot; has begun operations to ward off crises and disasters caused by invasive species.<br />\n<br><br><br />\nThe story begins on the island nation of &quot;Mizuho&quot; in the Far East. Shina Hisase is a young invasive species extermination hunter living on a remote island. What incident will befall Shina, who wishes only to live quietly with her younger sister Setsuna, her sole remaining family member?<br />\n<br><br><br />\n<i>Note: The first episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.</i></p>",
+          "description": "<p>Miya is the illegitimate child of a prominent family. When her mother dies and her father’s estate agrees to take her in, she’s convinced she knows what awaits her in her new home: a life of servitude and misery at the hands of her wicked stepmother and stepsisters. Yet when she finally meets the women she expects to treat her like dirt, they actually end up being…sweet?! A hilarious and heartfelt comedy that’s sure to put a smile on your face!<br />\n<br><br><br />\n(Source: Seven Seas Entertainment)</p>",
           "externalLinks": [
             {
-              "site": "Twitter",
-              "url": "https://x.com/exgv_official"
-            },
-            {
               "site": "Official Site",
-              "url": "https://nanoha.com/EXGV/"
+              "url": "https://ibikona-anime.com/"
             },
             {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378090/magical-girl-lyrical-nanoha-exceeds-gun-blaze-vengeance"
+              "site": "Twitter",
+              "url": "https://x.com/ibikona_anime"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/270mjzjqx0d"
+            },
+            {
+              "site": "Amazon Prime Video",
+              "url": "https://www.amazon.com/My-Stepmother-Stepsisters-Arent-Wicked/dp/B0GYPBM8WL"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLKx8CEsRVJts"
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Otuz yıl önce, bilinmeyen \"istilacı yabancı türlerin\" aniden ortaya çıkmasıyla dünya neredeyse yok olmuştu.<br><br>İnsanlar ve bu \"istilacı türler\" yaşam alanı için rekabet etmeye devam ediyor ve insanlığın güvenliği şu anda zar zor güvence altına alınmış olsa da, dünya her an yok olabilir. Ölüm ve yıkım korkusu içinde yaşayan insanlar, adeta gözlerini tehlikeden ve felaketten uzaklaştırmaya çalışır gibi günlük yaşamlarını sürdürürler.<br><br>Bu dünyada, Birleşmiş Milletler Tehlikeli Türleri Araştırma Ajansı \"EXCEEDS\", istilacı türlerin neden olduğu krizleri ve felaketleri önlemek için çalışmalara başladı.<br><br>Hikaye Uzak Doğu'daki ada ülkesi \"Mizuho\"da başlıyor. Shina Hisase, uzak bir adada yaşayan genç bir istilacı tür yok etme avcısıdır. Ailesinden geriye kalan tek kişi olan küçük kız kardeşi Setsuna ile huzur içinde yaşamak isteyen Shina'nın başına nasıl bir olay gelecektir?<br><br>Not: İlk bölüm, standart 24 dakikalık bölümün aksine ~48 dakikalık bir çalışma süresiyle yayınlandı."
+          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine ikna oldu: Kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir yaşam. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve içten bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
         }
       ]
     }
