@@ -38,19 +38,23 @@
           ],
           "tags": [
             {
+              "name": "Tragedy",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
             },
             {
               "name": "Isekai",
               "isMediaSpoiler": false
             },
             {
-              "name": "Reincarnation",
+              "name": "Polyamorous",
               "isMediaSpoiler": false
             },
             {
@@ -66,10 +70,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Polyamorous",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Coming of Age",
               "isMediaSpoiler": false
             },
@@ -82,15 +82,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Time Loop",
               "isMediaSpoiler": true
             },
             {
               "name": "Snowscape",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
               "isMediaSpoiler": false
             },
             {
@@ -1036,7 +1036,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 81,
+          "averageScore": 82,
           "studios": {
             "nodes": [
               {
@@ -1065,138 +1065,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Seihantai na Kimi'nin Boku'ya ikinci sezonu."
-        },
-        {
-          "id": 187260,
-          "title": {
-            "romaji": "Kimi ga Shinu made Koi wo Shitai",
-            "english": "I Want to Love You Till Your Dying Day",
-            "native": "きみが死ぬまで恋をしたい"
-          },
-          "synonyms": [
-            "きみ死ぬ",
-            "KimiShinu",
-            "Je veux t'aimer jusqu'à ta mort"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 7
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-WW5RBa5NINRP.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187260-WW5RBa5NINRP.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187260-HMkLPy3ZvzW1.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1784032200,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "War",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Military",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Body Horror",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Orphan",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Boarding School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dystopian",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Flat Chest",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shoujo",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 75,
-          "studios": {
-            "nodes": [
-              {
-                "name": "ROLL2"
-              }
-            ]
-          },
-          "description": "<p>At the mysterious orphanage where Sheena lives, death is nothing new to its residents—girls who no longer have families of their own, who are raised as weapons of war, taught to kill and take the lives of others without batting an eye. Everyone, that is, except Sheena, who wishes for nothing more than the growing conflict around her to end. On the night of her roommate's death, Sheena meets a strange girl covered in blood, who smiles despite the turmoil surrounding them. The next day, the girl appears as a new student in Sheena's class and introduces herself as Mimi. Initially thought to be a school myth, there are now whispers in the orphanage's halls that Mimi is their secret weapon—an immortal who cannot die. When Mimi is later assigned as Sheena's new roommate, Sheena's world grows even more complicated when she begins living with someone who loves and welcomes death, when all Sheena wants to do is stop it…<br />\n<br><br><br />\n(Source: Kodansha USA)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://kimishinu-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/anime_kimishinu"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00374354/i-want-to-love-you-till-your-dying-day"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Sheena'nın yaşadığı gizemli yetimhanede ölüm, buranın sakinleri için yeni bir şey değil; artık kendi aileleri olmayan, savaş silahı olarak yetiştirilen, gözlerini bile kırpmadan öldürmeyi ve başkalarının canını almayı öğreten kızlara. Etrafında büyüyen çatışmanın sona ermesinden başka bir şey istemeyen Sheena dışında herkes. Oda arkadaşının öldüğü gece Sheena, etrafını saran kargaşaya rağmen gülümseyen, kanlar içinde tuhaf bir kızla tanışır. Ertesi gün kız, Sheena'nın sınıfına yeni bir öğrenci olarak görünür ve kendisini Mimi olarak tanıtır. Başlangıçta bir okul efsanesi olduğu düşünülen bu yetimhanenin koridorlarında, artık Mimi'nin onların gizli silahı, ölmeyen bir ölümsüz olduğu fısıltıları dolaşıyor. Daha sonra Mimi, Sheena'nın yeni oda arkadaşı olarak atandığında, Sheena'nın dünyası, ölümü seven ve memnuniyetle karşılayan biriyle yaşamaya başladığında, Sheena'nın tek istediği bunu durdurmak olduğunda daha da karmaşık hale gelir…<br><br>(Kaynak: Kodansha ABD)"
         },
         {
           "id": 103303,
@@ -1242,6 +1110,26 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Tragedy",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Mixed Media",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Philosophy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Historical",
               "isMediaSpoiler": false
             },
@@ -1250,11 +1138,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
               "name": "Arranged Marriage",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gods",
               "isMediaSpoiler": false
             },
             {
@@ -1323,6 +1219,134 @@
           ],
           "isMyList": false,
           "descriptionTr": "Roman, Meiji döneminin 40. yılı olan 1907 yılının yazında geçiyor. 15 yaşındaki Inako Momokawa, Kyoto'nun Fushimi bölgesinde yaşıyor ve bir sake bira üreticisinin ikinci kızı. Yaptığı hiçbir şey doğru sonuç vermiyor ve her gün babasından azar alıyor. Tek tesellisi, dualarında tanrılara duyduğu güvendir. Bir gün Fushimi Inari tapınağındayken Kihachi Sakamoto adında başıboş bir gençle tanışır. Tanrıları reddediyor ve yaklaşmakta olan elektrik çağıyla övünüyor. <br><br>Inako'nun evinde aniden evlilik konusu gündeme gelir. Babası onun adına tüm kararları tek taraflı olarak veriyor ve Inako umudunu kaybetmek üzere. İşte o zaman Kihachi, Inako'nun ailesinden kaçmak istediğine dair gerçek duygularını ortaya çıkarır. Evliliğini durdurmanın tek yolu \"Elektrik Kataloğu\" adlı alışılmadık bir kitap bulmaktır. Kitap, Kihachi'nin çocukken yazdığı elektrikle ilgili bir tahmin kitabıdır ancak kitabı ağabeyi Seiroku almıştır ve şu anda nerede olduğu bilinmemektedir. Inako ve Kihachi birlikte kitabı aramaya Kyoto ve Shiga eyaletlerine giderler.<br><br>(Kaynak: Anime Haber Ağı)"
+        },
+        {
+          "id": 187260,
+          "title": {
+            "romaji": "Kimi ga Shinu made Koi wo Shitai",
+            "english": "I Want to Love You Till Your Dying Day",
+            "native": "きみが死ぬまで恋をしたい"
+          },
+          "synonyms": [
+            "きみ死ぬ",
+            "KimiShinu",
+            "Je veux t'aimer jusqu'à ta mort"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 7
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-WW5RBa5NINRP.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187260-WW5RBa5NINRP.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187260-HMkLPy3ZvzW1.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1784032200,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama",
+            "Fantasy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "War",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Military",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Body Horror",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Gore",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Orphan",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Boarding School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Dystopian",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shoujo",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 75,
+          "studios": {
+            "nodes": [
+              {
+                "name": "ROLL2"
+              }
+            ]
+          },
+          "description": "<p>At the mysterious orphanage where Sheena lives, death is nothing new to its residents—girls who no longer have families of their own, who are raised as weapons of war, taught to kill and take the lives of others without batting an eye. Everyone, that is, except Sheena, who wishes for nothing more than the growing conflict around her to end. On the night of her roommate's death, Sheena meets a strange girl covered in blood, who smiles despite the turmoil surrounding them. The next day, the girl appears as a new student in Sheena's class and introduces herself as Mimi. Initially thought to be a school myth, there are now whispers in the orphanage's halls that Mimi is their secret weapon—an immortal who cannot die. When Mimi is later assigned as Sheena's new roommate, Sheena's world grows even more complicated when she begins living with someone who loves and welcomes death, when all Sheena wants to do is stop it…<br />\n<br><br><br />\n(Source: Kodansha USA)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://kimishinu-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/anime_kimishinu"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00374354/i-want-to-love-you-till-your-dying-day"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Sheena'nın yaşadığı gizemli yetimhanede ölüm, buranın sakinleri için yeni bir şey değil; artık kendi aileleri olmayan, savaş silahı olarak yetiştirilen, gözlerini bile kırpmadan öldürmeyi ve başkalarının canını almayı öğreten kızlara. Etrafında büyüyen çatışmanın sona ermesinden başka bir şey istemeyen Sheena dışında herkes. Oda arkadaşının öldüğü gece Sheena, etrafını saran kargaşaya rağmen gülümseyen, kanlar içinde tuhaf bir kızla tanışır. Ertesi gün kız, Sheena'nın sınıfına yeni bir öğrenci olarak görünür ve kendisini Mimi olarak tanıtır. Başlangıçta bir okul efsanesi olduğu düşünülen bu yetimhanenin koridorlarında, artık Mimi'nin onların gizli silahı, ölmeyen bir ölümsüz olduğu fısıltıları dolaşıyor. Mimi daha sonra Sheena'nın yeni oda arkadaşı olarak atandığında, Sheena'nın dünyası, ölümü seven ve memnuniyetle karşılayan biriyle yaşamaya başladığında, Sheena'nın tek istediği bunu durdurmak olduğunda daha da karmaşık hale gelir…<br><br>(Kaynak: Kodansha ABD)"
         },
         {
           "id": 159309,
@@ -1394,10 +1418,6 @@
             },
             {
               "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Large Breasts",
               "isMediaSpoiler": false
             },
             {
@@ -1711,7 +1731,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yıl 2029. Yakın gelecekte Japonya'da, gezegeni kaplayan geniş bir şirket ağıyla, içinden elektronlar ve ışık saçılarak dünyanın son derece bilgi yoğunluklu hale geldiği yer. Ancak ulus devlet ve etnik gruplar hâlâ varlığını sürdürüyor.  <br><br> Tam vücutlu bir cyborg olan Motoko Kusanagi, Batou'nun da aralarında bulunduğu seçkin bir savaş birimine liderlik ediyor. Kusanagi, ekibine komuta ederken, ortaya çıkan tehditlere karşı önleyici saldırı yapacak özel bir görev gücü oluşturulmasını öngörüyor. Bu arada benzer bir birim kurmayı planlayan İçişleri Bakanlığı'ndan Daisuke Aramaki, Kusanagi ve ekibini işe aldı. Birlikte, \"Kabuk Takımı\" olarak bilinen saldırı taktiksel birimi olan Kamu Güvenliği Bölüm 9 olarak operasyonlara başlarlar. Karmaşık siber suçlar ve uluslararası komplolarla karşı karşıya kalırken, araştırmalarının ufkunda \"Kukla Ustası\" olarak bilinen gizemli, kimliği belirsiz bir hackerın varlığı ortaya çıkıyor. <br><br> Kusanagi'yi nasıl bir kader bekliyor? Peki Puppet Master'ın gerçek amacı nedir? Siberpunk aksiyonunda yeni bir dönem başlıyor.  <br><br>(Kaynak: 攻殻機動隊 THE GHOST IN THE SHELL Sitesi)"
+          "descriptionTr": "Yıl 2029. Yakın gelecekte Japonya'da, gezegeni kaplayan geniş bir şirket ağıyla, içinden elektronlar ve ışık saçılarak dünyanın son derece bilgi yoğunluklu hale geldiği yer. Ancak ulus devlet ve etnik gruplar hâlâ varlığını sürdürüyor.  <br><br> Tam vücutlu bir cyborg olan Motoko Kusanagi, Batou'nun da aralarında bulunduğu seçkin bir savaş birimine liderlik ediyor. Kusanagi, ekibine komuta ederken, ortaya çıkan tehditlere karşı önleyici saldırı yapacak özel bir görev gücü oluşturulmasını öngörüyor. Bu arada benzer bir birim kurmayı planlayan İçişleri Bakanlığı'ndan Daisuke Aramaki, Kusanagi ve ekibini işe aldı. Birlikte, \"Kabuk Takımı\" olarak bilinen saldırı taktiksel birimi olan Kamu Güvenliği Bölüm 9 olarak operasyonlara başlarlar. Karmaşık siber suçlar ve uluslararası komplolarla karşı karşıya kalırken, soruşturmalarının ufkunda \"Kukla Ustası\" olarak bilinen gizemli, kimliği belirsiz bir hackerın varlığı ortaya çıkıyor. <br><br> Kusanagi'yi nasıl bir kader bekliyor? Peki Puppet Master'ın gerçek amacı nedir? Siberpunk aksiyonunda yeni bir dönem başlıyor.  <br><br>(Kaynak: 攻殻機動隊 THE GHOST IN THE SHELL Sitesi)"
         },
         {
           "id": 185542,
@@ -1735,8 +1755,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1783947600,
-            "episode": 2
+            "airingAt": 1784552400,
+            "episode": 3
           },
           "isAdult": false,
           "genres": [
@@ -2050,14 +2070,6 @@
             },
             {
               "name": "Incest",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Large Breasts",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Flat Chest",
               "isMediaSpoiler": false
             }
           ],
@@ -2567,10 +2579,6 @@
             },
             {
               "name": "Terrorism",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Flat Chest",
               "isMediaSpoiler": false
             }
           ],
@@ -3164,8 +3172,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1783944000,
-            "episode": 2
+            "airingAt": 1784548800,
+            "episode": 3
           },
           "isAdult": false,
           "genres": [
@@ -3336,7 +3344,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Çocukluğunda her zaman arkadaş olacağına dair söz verdikten yedi yıl sonra Hayato, eski erkeksi arkadaşı Haruki ile bir şehir lisesinde yeniden bir araya gelir - ancak şimdi Haruki her erkeğin hayalini kurduğu kıza dönüşmüştür! Haruki'nin görünüşü değişmiş olsa da Hayato hâlâ hatırladığı arkadaşıdır. Yıllar geçmesine rağmen verdikleri sözler ve hisler devam ediyor ve daha güçlü bir şeye doğru derinleşiyor.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Çocukluğunda her zaman arkadaş olacağına dair söz verdikten yedi yıl sonra Hayato, eski erkeksi arkadaşı Haruki ile şehirdeki bir lisede yeniden bir araya gelir - ancak şimdi Haruki her erkeğin hayalini kurduğu kıza dönüşmüştür! Haruki'nin görünüşü değişmiş olsa da Hayato hâlâ hatırladığı arkadaşıdır. Yıllar geçmesine rağmen verdikleri sözler ve hisler devam ediyor ve daha güçlü bir şeye doğru derinleşiyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 196218,
@@ -3542,6 +3550,10 @@
             {
               "name": "Otaku Culture",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 72,
@@ -3568,7 +3580,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Mitsuki Aya'nın seçkin Kuromi Kız Akademisi'nde tek bir hedefi vardır: okulun kusursuz \"Beyaz Zambak\"ı Yorue Mio gibi zarif bir genç bayan olmak. Ancak Aya yanlışlıkla onu dövüş oyunları oynarken yakalayınca Mio'ya dair imajı paramparça olur? Zarif Mio'nun aslında sıkı bir oyuncu olduğu ve Aya ile düello yapmak istediği ortaya çıktı! Savaş (ve onların dostluğu) başlar.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Mitsuki Aya'nın seçkin Kuromi Kız Akademisi'nde tek bir hedefi vardır: okulun kusursuz \"Beyaz Zambak\"ı Yorue Mio gibi zarif bir genç bayan olmak. Ama Aya yanlışlıkla onu dövüş oyunları oynarken yakalayınca Mio'ya dair imajı paramparça oluyor? Zarif Mio'nun aslında sıkı bir oyuncu olduğu ve Aya ile düello yapmak istediği ortaya çıktı! Savaş (ve onların dostluğu) başlar.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 182616,
@@ -3730,11 +3742,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Interspecies",
               "isMediaSpoiler": false
             },
             {
               "name": "Shapeshifting",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
@@ -3754,7 +3774,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 75,
+          "averageScore": 76,
           "studios": {
             "nodes": [
               {
@@ -3778,7 +3798,195 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bir zamanlar Lara adında bir deniz kızı prensesi, insan bir prense aşık olur. Onunla birlikte olabilmek için insan olabilmek için bir cadı iksiri kullandı ama bu büyünün bir bedeli vardı: Eğer gerçek aşkı bulamazsa, sonsuza dek deniz köpüğünün içinde kaybolacaktı. Şimdi, 200 yıl sonra Lara, Biwa Gölü'nde hayat ve aşk için son bir şansla uyanır.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Bir zamanlar Lara adında bir deniz kızı prensesi, insan bir prense aşık olur. Onunla birlikte olabilmek için insan olabilmek için bir cadı iksiri kullandı ama bu büyünün bir bedeli vardı: Eğer gerçek aşkı bulamazsa, sonsuza kadar deniz köpüğünün içinde kaybolacaktı. Şimdi, 200 yıl sonra Lara, Biwa Gölü'nde hayat ve aşk için son bir şansla uyanır.<br><br>(Kaynak: Crunchyroll)"
+        },
+        {
+          "id": 198409,
+          "title": {
+            "romaji": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
+            "english": "The World's Strongest Rearguard",
+            "native": "世界最強の後衛 ～迷宮国の新人探索者～"
+          },
+          "synonyms": [
+            "กองหลังที่แกร่งที่สุดในโลก -นักสำรวจหน้าใหม่ ณ แดนเขาวงกต-"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198409-EiWJXfYnvfu4.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198409-EiWJXfYnvfu4.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1784466000,
+            "episode": 3
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 58,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Maho Film"
+              }
+            ]
+          },
+          "description": "<p>After a fatal accident, overworked office worker Arihito Atobe is reborn in the Labyrinth Country as a Seeker with the rare Rearguard class—an all-purpose support role that excels in attack, defense, and healing. Joined by a fierce demi-human mercenary and his former boss, Arihito dives into deadly dungeons and rises through the ranks. The adventure of the strongest support class begins!<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/Rearguard_PR"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://strongestrearguard-anime.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378122/the-worlds-strongest-rearguard"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2411817"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/25liakoq52p"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3IS1Ybw9xSItdpPhLKNhAM"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Ölümcül bir kazanın ardından aşırı çalışan ofis çalışanı Arihito Atobe, saldırı, savunma ve iyileştirmede üstün olan çok amaçlı bir destek rolü olan nadir Arka Koruma sınıfına sahip bir Arayıcı olarak Labirent Ülkesi'nde yeniden doğar. Vahşi bir yarı insan paralı asker ve eski patronunun da katıldığı Arihito, ölümcül zindanlara dalıyor ve rütbelerde yükseliyor. En güçlü destek sınıfının macerası başlıyor!<br><br>(Kaynak: Crunchyroll)"
+        },
+        {
+          "id": 188139,
+          "title": {
+            "romaji": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
+            "english": "Though I Am an Inept Villainess",
+            "native": "ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~"
+          },
+          "synonyms": [
+            "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
+            "Futsutsuka"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 12
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188139-1qIJfWxym8FX.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188139-1qIJfWxym8FX.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1784472360,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Body Swapping",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Josei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Royal Affairs",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Foreign",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Villainess",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ancient China",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 71,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Doga Kobo"
+              }
+            ]
+          },
+          "description": "<p>As maidens from the Five Clans battle for the Crown Prince’s heart, jealous Keigetsu uses forbidden magic to swap bodies with the beloved Reirin. Switching places does not guarantee happiness for Keigetsu with her new body's ill health leaving her hanging on the verge of death. Meanwhile, Reirin, now wearing the face of a scorned outcast, must answer for Keigetsu’s crimes in a dangerous trial.<br />\n<br><br><br />\nThe unlikely pair become increasingly entangled in each other’s lives and they will need to work together to survive after discovering the dark conspiracies brewing beneath the palace's genial surface. To confront the deadly threats lurking in the shadows, Reirin must embrace her new identity and defy their expectations of the court's inept villainess.<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://futsutsuka.net/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/futsutsuka_PR"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371881/though-i-am-an-inept-villainess"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2414053"
+            },
+            {
+              "site": "Disney Plus",
+              "url": "https://www.disneyplus.com/browse/entity-79a3e335-2acc-408e-a942-1b0bac47d952"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Beş Klan'ın bakireleri Veliaht Prens'in kalbi için savaşırken kıskanç Keigetsu, sevgili Reirin'le beden değiştirmek için yasak büyüyü kullanır. Yeni vücudunun kötü sağlık durumu onu ölümün eşiğine getirdiğinden, yer değiştirmek Keigetsu'nun mutluluğunu garanti etmez. Bu arada, artık küçümsenmiş bir serseri yüzüne bürünen Reirin, tehlikeli bir duruşmada Keigetsu'nun suçlarına cevap vermek zorundadır.<br><br>Beklenmedik ikili giderek birbirlerinin hayatlarına karışıyor ve sarayın güler yüzlü yüzeyinin altında gelişen karanlık komploları keşfettikten sonra hayatta kalmak için birlikte çalışmaları gerekecek. Gölgelerde gizlenen ölümcül tehditlerle yüzleşmek için Reirin'in yeni kimliğini benimsemesi ve mahkemenin beceriksiz kötülüğüne ilişkin beklentilerine meydan okuması gerekiyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 206521,
@@ -3799,8 +4007,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206521-zCIAGsiIkh6G.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1783947600,
-            "episode": 3
+            "airingAt": 1784552400,
+            "episode": 4
           },
           "isAdult": false,
           "genres": [
@@ -3893,92 +4101,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "14. yüzyıl Japonya'sında gezici bir tiyatro grubunda oyunculuk ve dansla dolu bir hayata doğan 12 yaşındaki Oniyasha'nın tek bir sorunu var; bunların hiçbirinin amacını bilmiyor. \"Neden buraya sağ ayak yerine sol ayakla basmak zorundayım? Neden bir performans iyi, diğeri ise kötü? Neden insanlar dans ediyor?\" Her şey tamamen keyfi görünüyor, ta ki köhne bir barakada tesadüfen karşılaşması, onu sanat biçiminde devrim yapma ve gelecek Japon kültürünün çoğunu etkileme yoluna sokana kadar. Dünyanın hayatta kalan en eski tiyatro sanatı olan modern Noh tiyatrosunun kurucusu Zeami Motokiyo'nun (Oniyasha) erken yaşamının kurgusal bir anlatımı olan bu reşit olmuş sanatçının yolculuğu, Japonya'nın kültürel ve sosyal açıdan en canlı dönemlerinden birinde, zamanının çok ilerisinde bir adamı canlı bir şekilde hayata geçiriyor.<br><br>(Kaynak: Kodansha Comics)<br><br>Not: Dünya Dans Ediyor, 29 Haziran 2026'dan itibaren Prime Video ve HIDIVE'daki TV yayınından 3 gün önce yayınlanıyor. Düzenli yayın 2 Temmuz 2026'da başladı."
-        },
-        {
-          "id": 198409,
-          "title": {
-            "romaji": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
-            "english": "The World's Strongest Rearguard",
-            "native": "世界最強の後衛 ～迷宮国の新人探索者～"
-          },
-          "synonyms": [
-            "กองหลังที่แกร่งที่สุดในโลก -นักสำรวจหน้าใหม่ ณ แดนเขาวงกต-"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198409-EiWJXfYnvfu4.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198409-EiWJXfYnvfu4.png"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1784466000,
-            "episode": 3
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 59,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Maho Film"
-              }
-            ]
-          },
-          "description": "<p>After a fatal accident, overworked office worker Arihito Atobe is reborn in the Labyrinth Country as a Seeker with the rare Rearguard class—an all-purpose support role that excels in attack, defense, and healing. Joined by a fierce demi-human mercenary and his former boss, Arihito dives into deadly dungeons and rises through the ranks. The adventure of the strongest support class begins!<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/Rearguard_PR"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://strongestrearguard-anime.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378122/the-worlds-strongest-rearguard"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2411817"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/25liakoq52p"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3IS1Ybw9xSItdpPhLKNhAM"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Ölümcül bir kazanın ardından aşırı çalışan ofis çalışanı Arihito Atobe, saldırı, savunma ve iyileştirmede üstün olan çok amaçlı bir destek rolü olan nadir Arka Koruma sınıfına sahip bir Arayıcı olarak Labirent Ülkesi'nde yeniden doğar. Vahşi bir yarı insan paralı asker ve eski patronunun da katıldığı Arihito, ölümcül zindanlara dalıyor ve rütbelerde yükseliyor. En güçlü destek sınıfının macerası başlıyor!<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 186863,
@@ -4121,109 +4243,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Hikaye, ormanda bir anne kedi tarafından büyütülen, ateş püskürten, insanlardan nefret eden bir ejderhayı konu alıyor. Sevgiyle \"Wing Amca\" olarak anılan ejderha, biri insan prensle maceraya çıkan, diğeri şehirde yaşayan ve insanları hobi olarak izleyen pek çok meraklı kediye göz kulak oluyor ve yol boyunca yavaş yavaş insanlara ısınıyor.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Her bölüm ABEMA ve dAnimeStore'da 1 hafta erken yayınlandı. Orijinal TV yayını 4 Temmuz 2026'da başladı."
-        },
-        {
-          "id": 188139,
-          "title": {
-            "romaji": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
-            "english": "Though I Am an Inept Villainess",
-            "native": "ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~"
-          },
-          "synonyms": [
-            "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
-            "Futsutsuka"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 12
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188139-1qIJfWxym8FX.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188139-1qIJfWxym8FX.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1784472360,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Body Swapping",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Josei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Foreign",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Villainess",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ancient China",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Doga Kobo"
-              }
-            ]
-          },
-          "description": "<p>As maidens from the Five Clans battle for the Crown Prince’s heart, jealous Keigetsu uses forbidden magic to swap bodies with the beloved Reirin. Switching places does not guarantee happiness for Keigetsu with her new body's ill health leaving her hanging on the verge of death. Meanwhile, Reirin, now wearing the face of a scorned outcast, must answer for Keigetsu’s crimes in a dangerous trial.<br />\n<br><br><br />\nThe unlikely pair become increasingly entangled in each other’s lives and they will need to work together to survive after discovering the dark conspiracies brewing beneath the palace's genial surface. To confront the deadly threats lurking in the shadows, Reirin must embrace her new identity and defy their expectations of the court's inept villainess.<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://futsutsuka.net/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/futsutsuka_PR"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371881/though-i-am-an-inept-villainess"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2414053"
-            },
-            {
-              "site": "Disney Plus",
-              "url": "https://www.disneyplus.com/browse/entity-79a3e335-2acc-408e-a942-1b0bac47d952"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Beş Klan'ın bakireleri Veliaht Prens'in kalbi için savaşırken kıskanç Keigetsu, sevgili Reirin'le beden değiştirmek için yasak büyüyü kullanır. Yeni vücudunun kötü sağlık durumu onu ölümün eşiğine getirdiğinden yer değiştirmek Keigetsu'nun mutluluğunu garanti etmez. Bu arada, artık küçümsenmiş bir serseri yüzüne bürünen Reirin, tehlikeli bir duruşmada Keigetsu'nun suçlarının hesabını vermek zorundadır.<br><br>Beklenmedik ikili giderek birbirlerinin hayatlarına karışıyor ve sarayın güler yüzlü yüzeyinin altında gelişen karanlık komploları keşfettikten sonra hayatta kalmak için birlikte çalışmaları gerekecek. Gölgelerde gizlenen ölümcül tehditlerle yüzleşmek için Reirin'in yeni kimliğini benimsemesi ve mahkemenin beceriksiz kötülüğüne ilişkin beklentilerine meydan okuması gerekiyor.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Hikaye, ormanda bir anne kedi tarafından büyütülen, ateş püskürten, insanlardan nefret eden bir ejderhayı konu alıyor. Sevgiyle \"Wing Amca\" olarak anılan ejderha, biri insan prensle maceraya çıkan, diğeri şehirde yaşayan ve insanları hobi olarak izleyen pek çok meraklı kediyi gözetliyor ve yol boyunca yavaş yavaş insanlara ısınıyor.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Her bölüm ABEMA ve dAnimeStore'da 1 hafta erken yayınlandı. Orijinal TV yayını 4 Temmuz 2026'da başladı."
         },
         {
           "id": 192800,
@@ -4334,7 +4354,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "“Dünyanın en harika hizmetçisi olacağım!” <br><br>Eteği siyah beyaz dalgalanan kız bağırdı. Adı Melodi. Reenkarnasyona uğramış eski bir Japon kızı, şimdi yeni hayatında hayalinin peşinden gidiyor ve Théolas krallığında fakir bir kontun ailesi için çok amaçlı bir hizmetçi olarak çalışıyor. Bunu yaptığında, ucuz çay bile lüks bir demlemeye dönüşüyor ve harap bir malikane hızla yenileniyor! Temizlik, servis, avcılık, Kendin Yap; hepsini ona ve onun güçlü büyüsüne bırakın. Melody'nin bilmediği, bu dünyanın aslında bir otome oyunu olduğu ve o, en güçlü ve yenilmez kahraman olan aziz olduğu! Ancak yine de bu gerçeğin farkında değil. Yakışıklı erkeklerle aşk mı? İblis Lordu'nun saldırıları mı? İş önce gelir! Farkında olmadan kaderi paramparça eden, yanlış anlaşılan bir çalışma fantezisi!<br><br>(Kaynak: Seven Seas Entertainment)<br><br>Not: Kahraman mı? Seijo mu? Yani, Tüm İşler Hizmetçisi desu (Ko)! 24 Haziran 2026'dan itibaren dAnimeStore ve ABEMA'daki TV yayınından bir hafta önce yayınlanıyor. Düzenli yayın 1 Temmuz 2026'da başladı."
+          "descriptionTr": "“Dünyanın en harika hizmetçisi olacağım!” <br><br>Eteği siyah beyaz dalgalanan kız bağırdı. Adı Melodi. Reenkarnasyona uğramış eski bir Japon kızı, şimdi yeni hayatında hayalinin peşinden gidiyor ve Théolas krallığında fakir bir kontun ailesi için çok amaçlı bir hizmetçi olarak çalışıyor. Bunu yaptığında, ucuz çay bile lüks bir demlemeye dönüşüyor ve harap bir malikane hızla yenileniyor! Temizlik, servis, avcılık, Kendin Yap; hepsini ona ve onun güçlü büyüsüne bırakın. Melody'nin bilmediği, bu dünyanın aslında bir otome oyunu olduğu ve o, en güçlü ve yenilmez kadın kahraman olan aziz olduğu! Ancak yine de bu gerçeğin farkında değil. Yakışıklı erkeklerle aşk mı? İblis Lordu'nun saldırıları mı? İş önce gelir! Farkında olmadan kaderi paramparça eden, yanlış anlaşılan bir çalışma fantezisi!<br><br>(Kaynak: Seven Seas Entertainment)<br><br>Not: Kahraman mı? Seijo mu? Yani, Tüm İşler Hizmetçisi desu (Ko)! 24 Haziran 2026'dan itibaren dAnimeStore ve ABEMA'daki TV yayınından bir hafta önce yayınlanıyor. Düzenli yayın 1 Temmuz 2026'da başladı."
         },
         {
           "id": 169582,
@@ -4359,8 +4379,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1783943820,
-            "episode": 2
+            "airingAt": 1784548620,
+            "episode": 3
           },
           "isAdult": false,
           "genres": [
@@ -4524,8 +4544,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199408-ouNGkjrw0ohT.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1783949400,
-            "episode": 2
+            "airingAt": 1784554200,
+            "episode": 3
           },
           "isAdult": false,
           "genres": [
@@ -4586,7 +4606,195 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Nüfuzlu başbakanın kızı Elizabeth Leiston, Haldoria Krallığı'nın gelecekteki kraliçesi olma yolundaki mükemmel bir kadındır. Ancak nişanlısının halka açık bir şekilde nişanlarını iptal ettiğini gösteren bir gösteri yapmasıyla hayatı aniden kötüye gider. Kısa süre sonra onu hapse atar ve onun hakkında kötü söylentiler yaymaya başlar. Elizabeth'in, sadık hizmetçisi Mireille'den aldığı cesaret ve içindeki öfke, hedeflerini yeniden gözden geçirmek için ihtiyacı olan tek şey. Kendisine saygı duymayan bir ülkeyi ayaklar altına almak varken neden kendini ona adamaya devam etsin ki? Yaptığı son şey olsa bile, kendisine haksızlık edenlerin intikamını alacak ve lanet krallığı yıkacak! Şans eseri, Elizabeth tehlikede olan bir genç kız değil ve kullanmaktan çekinmeyeceği yedi güçlü büyü kitabına sahip. Hazır olun çünkü bu acımasız kadının kana ihtiyacı var!<br><br>(Kaynak: J-Novel Kulübü)"
+          "descriptionTr": "Nüfuzlu başbakanın kızı Elizabeth Leiston, Haldoria Krallığı'nın gelecekteki kraliçesi olma yolundaki kusursuz bir kadındır. Ancak nişanlısının halka açık bir şekilde nişanlarını iptal ettiğini gösteren bir gösteri yapmasıyla hayatı aniden kötüye gider. Kısa süre sonra onu hapse atar ve onun hakkında kötü söylentiler yaymaya başlar. Elizabeth'in, sadık hizmetçisi Mireille'den aldığı cesaret ve içindeki öfke, hedeflerini yeniden gözden geçirmek için ihtiyacı olan tek şey. Kendisine saygı duymayan bir ülkeyi ayaklar altına almak varken neden kendini ona adamaya devam etsin ki? Yaptığı son şey olsa bile, kendisine haksızlık edenlerin intikamını alacak ve lanet krallığı yıkacak! Şans eseri, Elizabeth tehlikede olan bir genç kız değil ve kullanmaktan çekinmeyeceği yedi güçlü büyü kitabına sahip. Hazır olun çünkü bu acımasız kadının kana ihtiyacı var!<br><br>(Kaynak: J-Novel Kulübü)"
+        },
+        {
+          "id": 194219,
+          "title": {
+            "romaji": "Oni no Hanayome",
+            "english": "The Ogre's Bride",
+            "native": "鬼の花嫁"
+          },
+          "synonyms": [
+            "OniHana"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b194219-56EhyK775lga.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b194219-56EhyK775lga.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1784388600,
+            "episode": 3
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama",
+            "Fantasy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Shoujo",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Demons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Youkai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Fairy Tale",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Arranged Marriage",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Historical",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 69,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Colored Pencil Animation Japan"
+              }
+            ]
+          },
+          "description": "<p>A Japanese-style ayakashi Cinderella story! <i>&quot;You're the bride I've been searching for all this time.&quot;</i> The ayakashi and humans coexist in harmony. The ayakashi, having superior abilities and beautiful appearances, sometimes find their partner among human women, making them their &quot;bride&quot;. The bride, in exchange for bringing prosperity, receives absolute love from the ayakashi. Yuzu is constantly compared to her sister, a bride of a demon fox, and is resented by her family every day. One day, when Yuzu just couldn't take things anymore, a man appears before her on a bridge. This man is the most beautiful man Yuzu has ever seen... and he's calling her his wife?! <i>&quot;Just be quiet and let me hold you.&quot;</i> The most powerful, &quot;cold-hearted&quot; ayakashi is pouring his heart out for Yuzu?!<br><br><br />\n(Source: MangaPlaza)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/onihana_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://onihana-anime.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378121/the-ogres-bride"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Japon tarzı bir ayakaşi Cinderella hikayesi! \"Bunca zamandır aradığım gelin sensin.\" Ayakaşiler ve insanlar uyum içinde bir arada yaşarlar. Üstün yeteneklere ve güzel görünüme sahip olan ayakaşiler, bazen insan kadınları arasında kendilerine eş bularak onları \"gelinleri\" haline getirirler. Gelin, refah getirmesi karşılığında ayakaşiden mutlak sevgi alır. Yuzu sürekli olarak şeytan tilkinin gelini olan kız kardeşiyle karşılaştırılıyor ve ailesi tarafından her gün kızıyor. Bir gün Yuzu artık hiçbir şeye dayanamadığında, köprüde karşısına bir adam çıkar. Bu adam Yuzu'nun gördüğü en güzel adam... ve ona karısı mı diyor?! \"Sessiz ol ve sana sarılmama izin ver.\" En güçlü, \"soğuk kalpli\" ayakaşi, Yuzu için kalbini mi döküyor?!<br><br>(Kaynak: MangaPlaza)"
+        },
+        {
+          "id": 199066,
+          "title": {
+            "romaji": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
+            "english": "Hanaori-san Still Wants to Fight in the Next Life",
+            "native": "花織さんは転生しても喧嘩がしたい"
+          },
+          "synonyms": [
+            "Hanaori-san Wants to Have A Fight Even If She Reincarnates"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 12
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199066-YXDVsguvFZMm.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199066-YXDVsguvFZMm.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1784394000,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Reverse Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Parody",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Gap",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Slapstick",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 66,
+          "studios": {
+            "nodes": [
+              {
+                "name": "LIDENFILMS"
+              }
+            ]
+          },
+          "description": "<p>Once the Demon King, now a shut-in NEET—Ryuusei Narukami’s second life is anything but peaceful! When Meteor Hanaori, the Hero who once defeated him, suddenly returns as a normal high school girl, his world is thrown into chaos. Determined to change, Ryuusei reenters society as a teacher and ends up teaching at her school! Their explosive reunion reignites the past—and sparks an unexpected love!<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/hanaori_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://hanaorisan-anime.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378066/hanaori-san-still-wants-to-fight-in-the-next-life"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2413807"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Bir zamanlar Şeytan Kral olan şimdi NEET'e kapanmış bir kişi olan Ryuusei Narukami'nin ikinci hayatı hiç de huzurlu değil! Bir zamanlar onu mağlup eden kahraman Meteor Hanaori aniden normal bir liseli kız olarak geri döndüğünde dünyası kaosa sürüklenir. Değişmeye kararlı olan Ryuusei, öğretmen olarak topluma yeniden girer ve sonunda okulunda öğretmenlik yapmaya başlar! Heyecan verici buluşmaları geçmişi yeniden alevlendirir ve beklenmedik bir aşkın fitilini ateşler!<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 207674,
@@ -4662,7 +4870,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 56,
+          "averageScore": 55,
           "studios": {
             "nodes": [
               {
@@ -4690,101 +4898,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bu şeytan çıkarma OMFFFFFFFFF!!!! Shizuka, \"sadece\" hayaletleri gören, kendini sıradan bir liseli kız olarak tanımlayan bir kişidir. Ruhları kendine çekme konusundaki eşsiz yeteneğini kullanarak ünlü medyum Kamui'nin asistanı olarak çalışıyor. Kamui ezici bir ruhsal güce sahip olmasına rağmen, şeytan çıkarma yöntemleri eşi benzeri görülmemiş...?! Doğaüstü rahatsızlıkların sürüklediği Shizuka, huzuru bulabilecek mi? \"Yüce\" şeytan çıkarma ayininin perdesi kalkıyor!! Aman Tanrım!<br><br>(Kaynak: OceanVeil)"
-        },
-        {
-          "id": 194219,
-          "title": {
-            "romaji": "Oni no Hanayome",
-            "english": "The Ogre's Bride",
-            "native": "鬼の花嫁"
-          },
-          "synonyms": [
-            "OniHana"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b194219-56EhyK775lga.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b194219-56EhyK775lga.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1784388600,
-            "episode": 3
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Shoujo",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Youkai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Fairy Tale",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Arranged Marriage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 68,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Colored Pencil Animation Japan"
-              }
-            ]
-          },
-          "description": "<p>A Japanese-style ayakashi Cinderella story! <i>&quot;You're the bride I've been searching for all this time.&quot;</i> The ayakashi and humans coexist in harmony. The ayakashi, having superior abilities and beautiful appearances, sometimes find their partner among human women, making them their &quot;bride&quot;. The bride, in exchange for bringing prosperity, receives absolute love from the ayakashi. Yuzu is constantly compared to her sister, a bride of a demon fox, and is resented by her family every day. One day, when Yuzu just couldn't take things anymore, a man appears before her on a bridge. This man is the most beautiful man Yuzu has ever seen... and he's calling her his wife?! <i>&quot;Just be quiet and let me hold you.&quot;</i> The most powerful, &quot;cold-hearted&quot; ayakashi is pouring his heart out for Yuzu?!<br><br><br />\n(Source: MangaPlaza)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/onihana_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://onihana-anime.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378121/the-ogres-bride"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Japon tarzı bir ayakaşi Cinderella hikayesi! \"Bunca zamandır aradığım gelin sensin.\" Ayakaşiler ve insanlar uyum içinde bir arada yaşarlar. Üstün yeteneklere ve güzel görünüme sahip olan ayakaşiler, bazen insan kadınları arasında kendilerine eş bularak onları \"gelinleri\" haline getirirler. Gelin, refah getirmesi karşılığında ayakaşiden mutlak sevgi alır. Yuzu sürekli olarak şeytan tilkinin gelini olan kız kardeşiyle karşılaştırılıyor ve ailesi tarafından her gün kızıyor. Bir gün Yuzu artık hiçbir şeye dayanamadığında, köprüde karşısına bir adam çıkar. Bu adam Yuzu'nun şimdiye kadar gördüğü en güzel adam... ve ona karısı mı diyor?! \"Sessiz ol ve sana sarılmama izin ver.\" En güçlü, \"soğuk kalpli\" ayakaşi, Yuzu için kalbini mi döküyor?!<br><br>(Kaynak: MangaPlaza)"
+          "descriptionTr": "Bu şeytan çıkarma OMFFFFFFFFF!!!! Shizuka, \"sadece\" hayaletleri gören, sıradan bir liseli kız olduğunu iddia ediyor. Ruhları kendine çekme konusundaki eşsiz yeteneğini kullanarak ünlü medyum Kamui'nin asistanı olarak çalışıyor. Kamui ezici bir ruhsal güce sahip olmasına rağmen, şeytan çıkarma yöntemleri eşi benzeri görülmemiş...?! Doğaüstü rahatsızlıkların sürüklediği Shizuka, huzuru bulabilecek mi? \"Yüce\" şeytan çıkarma ayininin perdesi kalkıyor!! Aman Tanrım!<br><br>(Kaynak: OceanVeil)"
         },
         {
           "id": 211308,
@@ -4961,100 +5075,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "My Hero Academia Bölüm 170+1'in yayınlanmasının ardından serinin resmi web sitesi ve hesapları, \"Ben de bir kahramanım\" bonus bölümünü uyarlayan yeni bir kısa animenin bu yaz yayınlandığında Eri'nin bir lise öğrencisi olarak hikayesini anlatacağını ortaya çıkardı.<br><br>(Kaynak: Crunchyroll)"
-        },
-        {
-          "id": 199066,
-          "title": {
-            "romaji": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
-            "english": "Hanaori-san Still Wants to Fight in the Next Life",
-            "native": "花織さんは転生しても喧嘩がしたい"
-          },
-          "synonyms": [
-            "Hanaori-san Wants to Have A Fight Even If She Reincarnates"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 12
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199066-YXDVsguvFZMm.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199066-YXDVsguvFZMm.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1784394000,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "Reverse Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Parody",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Gap",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Slapstick",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 66,
-          "studios": {
-            "nodes": [
-              {
-                "name": "LIDENFILMS"
-              }
-            ]
-          },
-          "description": "<p>Once the Demon King, now a shut-in NEET—Ryuusei Narukami’s second life is anything but peaceful! When Meteor Hanaori, the Hero who once defeated him, suddenly returns as a normal high school girl, his world is thrown into chaos. Determined to change, Ryuusei reenters society as a teacher and ends up teaching at her school! Their explosive reunion reignites the past—and sparks an unexpected love!<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/hanaori_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://hanaorisan-anime.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378066/hanaori-san-still-wants-to-fight-in-the-next-life"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2413807"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Bir zamanlar Şeytan Kral olan şimdi NEET'e kapanmış bir kişi olan Ryuusei Narukami'nin ikinci hayatı hiç de huzurlu değil! Bir zamanlar onu mağlup eden kahraman Meteor Hanaori aniden normal bir liseli kız olarak geri döndüğünde dünyası kaosa sürüklenir. Değişmeye kararlı olan Ryuusei, öğretmen olarak topluma yeniden girer ve sonunda okulunda öğretmenlik yapmaya başlar! Heyecan verici buluşmaları geçmişi yeniden alevlendirir ve beklenmedik bir aşkın fitilini ateşler!<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 198709,
@@ -5277,7 +5297,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bulutlar gökyüzünü karartıyor ve yağmur tabakaları dağ ormanını hain bir labirent haline getiriyor... Heyelan dikenli telleri ezer ve \"GİRİLMEZ\" tabelasını gömer... İki genç kardeş ait olmadıkları karanlık bir dünyaya doğru yola çıkarlar ve uzun, korkunç bir gölge onları karşılamak için yükselir... Neyse, işte Dara-san'la böyle tanıştık! Biraz korkutucu görünebilir ama onu tanıyana kadar bekleyin!<br><br>\"Bakın, ben bir talihsizlik tanrısıyım, tamam mı!? Siz çocuklar benim garip yüzüm yüzünden çıldırmayacak mısınız!?\"<br><br>(Kaynak: Yen Press)"
+          "descriptionTr": "Bulutlar gökyüzünü karartıyor ve yağmur tabakaları dağ ormanını hain bir labirent haline getiriyor... Heyelan dikenli tel çitleri ezer ve \"GİRİLMEZ\" tabelasını gömer... İki genç kardeş ait olmadıkları karanlık bir dünyaya doğru yola çıkarlar ve uzun, korkunç bir gölge onları karşılamak için yükselir... Neyse, işte Dara-san'la böyle tanıştık! Biraz korkutucu görünebilir ama onu tanıyana kadar bekleyin!<br><br>\"Bakın, ben bir talihsizlik tanrısıyım, tamam mı!? Siz çocuklar benim garip yüzüm yüzünden çıldırmayacak mısınız!?\"<br><br>(Kaynak: Yen Press)"
         },
         {
           "id": 209504,
@@ -5298,8 +5318,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1783951200,
-            "episode": 2
+            "airingAt": 1784556000,
+            "episode": 3
           },
           "isAdult": false,
           "genres": [
@@ -5346,7 +5366,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 61,
+          "averageScore": 62,
           "studios": {
             "nodes": [
               {
@@ -5424,7 +5444,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 61,
+          "averageScore": 62,
           "studios": {
             "nodes": [
               {
@@ -5459,7 +5479,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Düşmüş bir aristokratın kızı Elsa, bir haber alır. Bu, çok seçkin bir soylu olan Julius'un evlenme teklifiydi. Elsa \"Bu kadar seçkin bir adam neden benimle evlensin?\" diye merak ediyor. Ancak düğünden sonra o ana kadar nazik ve nazik olan Julius tamamen değişti! Soğuk bir sesle ona \"Seni sevmeye hiç niyetim yok\" diyor.<br><br>(Kaynak: MangaPlaza)"
+          "descriptionTr": "Düşmüş bir aristokratın kızı Elsa, bir haber alır. Bu, çok seçkin bir soylu olan Julius'un evlenme teklifiydi. Elsa \"Bu kadar seçkin bir adam neden benimle evlensin?\" diye merak ediyor. Ancak düğünden sonra o ana kadar nazik ve nazik olan Julius tamamen değişti! Soğuk bir sesle \"Seni sevmeye hiç niyetim yok\" diyor.<br><br>(Kaynak: MangaPlaza)"
         },
         {
           "id": 207809,
@@ -5711,7 +5731,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine ikna oldu: kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir hayat. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve içten bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
+          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine ikna oldu: kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir hayat. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve samimi bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
         }
       ]
     }
