@@ -54,15 +54,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Polyamorous",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Family Life",
               "isMediaSpoiler": false
             },
             {
               "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Polyamorous",
               "isMediaSpoiler": false
             },
             {
@@ -78,11 +78,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
+              "name": "Female Harem",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Harem",
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
@@ -142,6 +142,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Love Triangle",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Disability",
               "isMediaSpoiler": false
             },
@@ -151,10 +155,6 @@
             },
             {
               "name": "Delinquents",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Love Triangle",
               "isMediaSpoiler": false
             },
             {
@@ -789,19 +789,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Watersports",
               "isMediaSpoiler": false
             },
             {
               "name": "Delinquents",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             }
           ],
@@ -1346,7 +1338,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Sheena'nın yaşadığı gizemli yetimhanede ölüm, buranın sakinleri için yeni bir şey değil; artık kendi aileleri olmayan, savaş silahı olarak yetiştirilen, gözlerini bile kırpmadan öldürmeyi ve başkalarının canını almayı öğreten kızlara. Etrafında büyüyen çatışmanın sona ermesinden başka bir şey istemeyen Sheena dışında herkes. Oda arkadaşının öldüğü gece Sheena, etrafını saran kargaşaya rağmen gülümseyen, kanlar içinde tuhaf bir kızla tanışır. Ertesi gün kız, Sheena'nın sınıfına yeni bir öğrenci olarak görünür ve kendisini Mimi olarak tanıtır. Başlangıçta bir okul efsanesi olduğu düşünülen bu yetimhanenin koridorlarında, artık Mimi'nin onların gizli silahı, ölmeyen bir ölümsüz olduğu fısıltıları dolaşıyor. Mimi daha sonra Sheena'nın yeni oda arkadaşı olarak atandığında, Sheena'nın dünyası, ölümü seven ve memnuniyetle karşılayan biriyle yaşamaya başladığında, Sheena'nın tek istediği bunu durdurmak olduğunda daha da karmaşık hale gelir…<br><br>(Kaynak: Kodansha ABD)"
+          "descriptionTr": "Sheena'nın yaşadığı gizemli yetimhanede ölüm, buranın sakinleri için yeni bir şey değil; artık kendi aileleri olmayan, savaş silahı olarak yetiştirilen, gözlerini bile kırpmadan öldürmeyi ve başkalarının canını almayı öğreten kızlara. Etrafında büyüyen çatışmanın sona ermesinden başka bir şey istemeyen Sheena dışında herkes. Oda arkadaşının öldüğü gece Sheena, etrafını saran kargaşaya rağmen gülümseyen, kanlar içinde tuhaf bir kızla tanışır. Ertesi gün kız, Sheena'nın sınıfına yeni bir öğrenci olarak görünür ve kendisini Mimi olarak tanıtır. Başlangıçta bir okul efsanesi olduğu düşünülen bu yetimhanenin koridorlarında, artık Mimi'nin onların gizli silahı, ölmeyen bir ölümsüz olduğu fısıltıları dolaşıyor. Daha sonra Mimi, Sheena'nın yeni oda arkadaşı olarak atandığında, Sheena'nın dünyası, ölümü seven ve memnuniyetle karşılayan biriyle yaşamaya başladığında, Sheena'nın tek istediği bunu durdurmak olduğunda daha da karmaşık hale gelir…<br><br>(Kaynak: Kodansha ABD)"
         },
         {
           "id": 159309,
@@ -1431,6 +1423,10 @@
             {
               "name": "Video Games",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Yandere",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 69,
@@ -1731,7 +1727,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yıl 2029. Yakın gelecekte Japonya'da, gezegeni kaplayan geniş bir şirket ağıyla, içinden elektronlar ve ışık saçılarak dünyanın son derece bilgi yoğunluklu hale geldiği yer. Ancak ulus devlet ve etnik gruplar hâlâ varlığını sürdürüyor.  <br><br> Tam vücutlu bir cyborg olan Motoko Kusanagi, Batou'nun da aralarında bulunduğu seçkin bir savaş birimine liderlik ediyor. Kusanagi, ekibine komuta ederken, ortaya çıkan tehditlere karşı önleyici saldırı yapacak özel bir görev gücü oluşturulmasını öngörüyor. Bu arada benzer bir birim kurmayı planlayan İçişleri Bakanlığı'ndan Daisuke Aramaki, Kusanagi ve ekibini işe aldı. Birlikte, \"Kabuk Takımı\" olarak bilinen saldırı taktiksel birimi olan Kamu Güvenliği Bölüm 9 olarak operasyonlara başlarlar. Karmaşık siber suçlar ve uluslararası komplolarla karşı karşıya kalırken, soruşturmalarının ufkunda \"Kukla Ustası\" olarak bilinen gizemli, kimliği belirsiz bir hackerın varlığı ortaya çıkıyor. <br><br> Kusanagi'yi nasıl bir kader bekliyor? Peki Puppet Master'ın gerçek amacı nedir? Siberpunk aksiyonunda yeni bir dönem başlıyor.  <br><br>(Kaynak: 攻殻機動隊 THE GHOST IN THE SHELL Sitesi)"
+          "descriptionTr": "Yıl 2029. Yakın gelecekte Japonya'da, gezegeni kaplayan geniş bir şirket ağıyla, içinden elektronlar ve ışık saçılarak dünyanın son derece bilgi yoğunluklu hale geldiği yer. Ancak ulus devlet ve etnik gruplar hâlâ varlığını sürdürüyor.  <br><br> Tam vücutlu bir cyborg olan Motoko Kusanagi, Batou'nun da aralarında bulunduğu seçkin bir savaş birimine liderlik ediyor. Kusanagi, ekibine komuta ederken, ortaya çıkan tehditlere karşı önleyici saldırı yapacak özel bir görev gücü oluşturulmasını öngörüyor. Bu arada benzer bir birim kurmayı planlayan İçişleri Bakanlığı'ndan Daisuke Aramaki, Kusanagi ve ekibini işe aldı. Birlikte, \"Kabuk Takımı\" olarak bilinen saldırı taktiksel birimi olan Kamu Güvenliği Bölüm 9 olarak operasyonlara başlarlar. Karmaşık siber suçlar ve uluslararası komplolarla karşı karşıya kalırken, araştırmalarının ufkunda \"Kukla Ustası\" olarak bilinen gizemli, kimliği belirsiz bir hackerın varlığı ortaya çıkıyor. <br><br> Kusanagi'yi nasıl bir kader bekliyor? Peki Puppet Master'ın gerçek amacı nedir? Siberpunk aksiyonunda yeni bir dönem başlıyor.  <br><br>(Kaynak: 攻殻機動隊 THE GHOST IN THE SHELL Sitesi)"
         },
         {
           "id": 185542,
@@ -1974,8 +1970,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199111-Z8y9awn2Zb6v.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1783954800,
-            "episode": 2
+            "airingAt": 1784559600,
+            "episode": 3
           },
           "isAdult": false,
           "genres": [
@@ -2510,10 +2506,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Josei",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Slavery",
               "isMediaSpoiler": false
             },
@@ -2546,7 +2538,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Religion",
+              "name": "Josei",
               "isMediaSpoiler": false
             },
             {
@@ -2567,6 +2559,10 @@
             },
             {
               "name": "Philosophy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Religion",
               "isMediaSpoiler": false
             },
             {
@@ -3270,8 +3266,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1783953000,
-            "episode": 2
+            "airingAt": 1784557800,
+            "episode": 3
           },
           "isAdult": false,
           "genres": [
@@ -3344,7 +3340,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Çocukluğunda her zaman arkadaş olacağına dair söz verdikten yedi yıl sonra Hayato, eski erkeksi arkadaşı Haruki ile şehirdeki bir lisede yeniden bir araya gelir - ancak şimdi Haruki her erkeğin hayalini kurduğu kıza dönüşmüştür! Haruki'nin görünüşü değişmiş olsa da Hayato hâlâ hatırladığı arkadaşıdır. Yıllar geçmesine rağmen verdikleri sözler ve hisler devam ediyor ve daha güçlü bir şeye doğru derinleşiyor.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Çocukluğunda her zaman arkadaş olacağına dair söz verdikten yedi yıl sonra Hayato, eski erkeksi arkadaşı Haruki ile bir şehir lisesinde yeniden bir araya gelir - ancak şimdi Haruki her erkeğin hayalini kurduğu kıza dönüşmüştür! Haruki'nin görünüşü değişmiş olsa da Hayato hâlâ hatırladığı arkadaşıdır. Yıllar geçmesine rağmen verdikleri sözler ve hisler devam ediyor ve daha güçlü bir şeye doğru derinleşiyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 196218,
@@ -3384,11 +3380,11 @@
           ],
           "tags": [
             {
-              "name": "Cohabitation",
+              "name": "Kingdom Management",
               "isMediaSpoiler": false
             },
             {
-              "name": "Kingdom Management",
+              "name": "Cohabitation",
               "isMediaSpoiler": false
             },
             {
@@ -3580,7 +3576,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Mitsuki Aya'nın seçkin Kuromi Kız Akademisi'nde tek bir hedefi vardır: okulun kusursuz \"Beyaz Zambak\"ı Yorue Mio gibi zarif bir genç bayan olmak. Ama Aya yanlışlıkla onu dövüş oyunları oynarken yakalayınca Mio'ya dair imajı paramparça oluyor? Zarif Mio'nun aslında sıkı bir oyuncu olduğu ve Aya ile düello yapmak istediği ortaya çıktı! Savaş (ve onların dostluğu) başlar.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Mitsuki Aya'nın seçkin Kuromi Kız Akademisi'nde tek bir hedefi vardır: okulun kusursuz \"Beyaz Zambak\"ı Yorue Mio gibi zarif bir genç bayan olmak. Ancak Aya yanlışlıkla onu dövüş oyunları oynarken yakalayınca Mio'ya dair imajı paramparça olur? Zarif Mio'nun aslında sıkı bir oyuncu olduğu ve Aya ile düello yapmak istediği ortaya çıktı! Savaş (ve onların dostluğu) başlar.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 182616,
@@ -3738,11 +3734,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
@@ -3750,19 +3746,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Shapeshifting",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
+              "name": "Shapeshifting",
               "isMediaSpoiler": false
             },
             {
               "name": "Witch",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -3771,6 +3767,10 @@
             },
             {
               "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
               "isMediaSpoiler": false
             }
           ],
@@ -3798,7 +3798,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bir zamanlar Lara adında bir deniz kızı prensesi, insan bir prense aşık olur. Onunla birlikte olabilmek için insan olabilmek için bir cadı iksiri kullandı ama bu büyünün bir bedeli vardı: Eğer gerçek aşkı bulamazsa, sonsuza kadar deniz köpüğünün içinde kaybolacaktı. Şimdi, 200 yıl sonra Lara, Biwa Gölü'nde hayat ve aşk için son bir şansla uyanır.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Bir zamanlar Lara adında bir deniz kızı prensesi, insan bir prense aşık olur. Onunla birlikte olabilmek için insan olabilmek için bir cadı iksiri kullandı ama bu büyünün bir bedeli vardı: Eğer gerçek aşkı bulamazsa, sonsuza dek deniz köpüğünün içinde kaybolacaktı. Şimdi, 200 yıl sonra Lara, Biwa Gölü'nde hayat ve aşk için son bir şansla uyanır.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 198409,
@@ -3986,7 +3986,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Beş Klan'ın bakireleri Veliaht Prens'in kalbi için savaşırken kıskanç Keigetsu, sevgili Reirin'le beden değiştirmek için yasak büyüyü kullanır. Yeni vücudunun kötü sağlık durumu onu ölümün eşiğine getirdiğinden, yer değiştirmek Keigetsu'nun mutluluğunu garanti etmez. Bu arada, artık küçümsenmiş bir serseri yüzüne bürünen Reirin, tehlikeli bir duruşmada Keigetsu'nun suçlarına cevap vermek zorundadır.<br><br>Beklenmedik ikili giderek birbirlerinin hayatlarına karışıyor ve sarayın güler yüzlü yüzeyinin altında gelişen karanlık komploları keşfettikten sonra hayatta kalmak için birlikte çalışmaları gerekecek. Gölgelerde gizlenen ölümcül tehditlerle yüzleşmek için Reirin'in yeni kimliğini benimsemesi ve mahkemenin beceriksiz kötülüğüne ilişkin beklentilerine meydan okuması gerekiyor.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Beş Klan'ın bakireleri Veliaht Prens'in kalbi için savaşırken kıskanç Keigetsu, sevgili Reirin'le beden değiştirmek için yasak büyüyü kullanır. Yeni vücudunun kötü sağlık durumu onu ölümün eşiğine getirdiğinden yer değiştirmek Keigetsu'nun mutluluğunu garanti etmez. Bu arada, artık küçümsenmiş bir serseri yüzüne bürünen Reirin, tehlikeli bir duruşmada Keigetsu'nun suçlarının hesabını vermek zorundadır.<br><br>Beklenmedik ikili giderek birbirlerinin hayatlarına karışıyor ve sarayın güler yüzlü yüzeyinin altında gelişen karanlık komploları keşfettikten sonra hayatta kalmak için birlikte çalışmaları gerekecek. Gölgelerde gizlenen ölümcül tehditlerle yüzleşmek için Reirin'in yeni kimliğini benimsemesi ve mahkemenin beceriksiz kötülüğüne ilişkin beklentilerine meydan okuması gerekiyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 206521,
@@ -4243,7 +4243,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Hikaye, ormanda bir anne kedi tarafından büyütülen, ateş püskürten, insanlardan nefret eden bir ejderhayı konu alıyor. Sevgiyle \"Wing Amca\" olarak anılan ejderha, biri insan prensle maceraya çıkan, diğeri şehirde yaşayan ve insanları hobi olarak izleyen pek çok meraklı kediyi gözetliyor ve yol boyunca yavaş yavaş insanlara ısınıyor.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Her bölüm ABEMA ve dAnimeStore'da 1 hafta erken yayınlandı. Orijinal TV yayını 4 Temmuz 2026'da başladı."
+          "descriptionTr": "Hikaye, ormanda bir anne kedi tarafından büyütülen, ateş püskürten, insanlardan nefret eden bir ejderhayı konu alıyor. Sevgiyle \"Wing Amca\" olarak anılan ejderha, biri insan prensle maceraya çıkan, diğeri şehirde yaşayan ve insanları hobi olarak izleyen pek çok meraklı kediye göz kulak oluyor ve yol boyunca yavaş yavaş insanlara ısınıyor.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Her bölüm ABEMA ve dAnimeStore'da 1 hafta erken yayınlandı. Orijinal TV yayını 4 Temmuz 2026'da başladı."
         },
         {
           "id": 192800,
@@ -4606,7 +4606,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Nüfuzlu başbakanın kızı Elizabeth Leiston, Haldoria Krallığı'nın gelecekteki kraliçesi olma yolundaki kusursuz bir kadındır. Ancak nişanlısının halka açık bir şekilde nişanlarını iptal ettiğini gösteren bir gösteri yapmasıyla hayatı aniden kötüye gider. Kısa süre sonra onu hapse atar ve onun hakkında kötü söylentiler yaymaya başlar. Elizabeth'in, sadık hizmetçisi Mireille'den aldığı cesaret ve içindeki öfke, hedeflerini yeniden gözden geçirmek için ihtiyacı olan tek şey. Kendisine saygı duymayan bir ülkeyi ayaklar altına almak varken neden kendini ona adamaya devam etsin ki? Yaptığı son şey olsa bile, kendisine haksızlık edenlerin intikamını alacak ve lanet krallığı yıkacak! Şans eseri, Elizabeth tehlikede olan bir genç kız değil ve kullanmaktan çekinmeyeceği yedi güçlü büyü kitabına sahip. Hazır olun çünkü bu acımasız kadının kana ihtiyacı var!<br><br>(Kaynak: J-Novel Kulübü)"
+          "descriptionTr": "Nüfuzlu başbakanın kızı Elizabeth Leiston, Haldoria Krallığı'nın gelecekteki kraliçesi olma yolundaki kusursuz bir hanımefendi. Ancak nişanlısının halka açık bir şekilde nişanlarını iptal ettiğini gösteren bir gösteri yapmasıyla hayatı aniden kötüye gider. Kısa süre sonra onu hapse atar ve onun hakkında kötü söylentiler yaymaya başlar. Elizabeth'in, sadık hizmetçisi Mireille'den aldığı cesaret ve içindeki öfke, hedeflerini yeniden gözden geçirmek için ihtiyacı olan tek şey. Kendisine saygı duymayan bir ülkeyi ayaklar altına almak varken neden kendini ona adamaya devam etsin ki? Yaptığı son şey olsa bile, kendisine haksızlık edenlerin intikamını alacak ve lanet krallığı yıkacak! Şans eseri, Elizabeth tehlikede olan bir genç kız değil ve kullanmaktan çekinmeyeceği yedi güçlü büyü kitabına sahip. Hazır olun çünkü bu acımasız kadının kana ihtiyacı var!<br><br>(Kaynak: J-Novel Kulübü)"
         },
         {
           "id": 194219,
@@ -4700,7 +4700,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Japon tarzı bir ayakaşi Cinderella hikayesi! \"Bunca zamandır aradığım gelin sensin.\" Ayakaşiler ve insanlar uyum içinde bir arada yaşarlar. Üstün yeteneklere ve güzel görünüme sahip olan ayakaşiler, bazen insan kadınları arasında kendilerine eş bularak onları \"gelinleri\" haline getirirler. Gelin, refah getirmesi karşılığında ayakaşiden mutlak sevgi alır. Yuzu sürekli olarak şeytan tilkinin gelini olan kız kardeşiyle karşılaştırılıyor ve ailesi tarafından her gün kızıyor. Bir gün Yuzu artık hiçbir şeye dayanamadığında, köprüde karşısına bir adam çıkar. Bu adam Yuzu'nun gördüğü en güzel adam... ve ona karısı mı diyor?! \"Sessiz ol ve sana sarılmama izin ver.\" En güçlü, \"soğuk kalpli\" ayakaşi, Yuzu için kalbini mi döküyor?!<br><br>(Kaynak: MangaPlaza)"
+          "descriptionTr": "Japon tarzı bir ayakaşi Cinderella hikayesi! \"Bunca zamandır aradığım gelin sensin.\" Ayakaşiler ve insanlar uyum içinde bir arada yaşarlar. Üstün yeteneklere ve güzel görünüme sahip olan ayakaşiler, bazen insan kadınları arasında kendilerine eş bularak onları \"gelinleri\" haline getirirler. Gelin, refah getirmesi karşılığında ayakaşiden mutlak sevgi alır. Yuzu sürekli olarak şeytan tilkinin gelini olan kız kardeşiyle karşılaştırılıyor ve ailesi tarafından her gün kızıyor. Bir gün Yuzu artık hiçbir şeye dayanamadığında, köprüde karşısına bir adam çıkar. Bu adam Yuzu'nun şimdiye kadar gördüğü en güzel adam... ve ona karısı mı diyor?! \"Sessiz ol ve sana sarılmama izin ver.\" En güçlü, \"soğuk kalpli\" ayakaşi, Yuzu için kalbini mi döküyor?!<br><br>(Kaynak: MangaPlaza)"
         },
         {
           "id": 199066,
@@ -4898,7 +4898,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bu şeytan çıkarma OMFFFFFFFFF!!!! Shizuka, \"sadece\" hayaletleri gören, sıradan bir liseli kız olduğunu iddia ediyor. Ruhları kendine çekme konusundaki eşsiz yeteneğini kullanarak ünlü medyum Kamui'nin asistanı olarak çalışıyor. Kamui ezici bir ruhsal güce sahip olmasına rağmen, şeytan çıkarma yöntemleri eşi benzeri görülmemiş...?! Doğaüstü rahatsızlıkların sürüklediği Shizuka, huzuru bulabilecek mi? \"Yüce\" şeytan çıkarma ayininin perdesi kalkıyor!! Aman Tanrım!<br><br>(Kaynak: OceanVeil)"
+          "descriptionTr": "Bu şeytan çıkarma OMFFFFFFFFF!!!! Shizuka, \"sadece\" hayaletleri gören, sıradan bir liseli kız olduğunu iddia ediyor. Ruhları kendine çekme konusundaki eşsiz yeteneğini kullanarak ünlü medyum Kamui'nin asistanı olarak çalışıyor. Kamui ezici bir ruhsal güce sahip olmasına rağmen, onun şeytan çıkarma yöntemleri emsalsiz...?! Doğaüstü rahatsızlıkların sürüklediği Shizuka, huzuru bulabilecek mi? \"Yüce\" şeytan çıkarma ayininin perdesi kalkıyor!! Aman Tanrım!<br><br>(Kaynak: OceanVeil)"
         },
         {
           "id": 211308,
@@ -5297,7 +5297,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bulutlar gökyüzünü karartıyor ve yağmur tabakaları dağ ormanını hain bir labirent haline getiriyor... Heyelan dikenli tel çitleri ezer ve \"GİRİLMEZ\" tabelasını gömer... İki genç kardeş ait olmadıkları karanlık bir dünyaya doğru yola çıkarlar ve uzun, korkunç bir gölge onları karşılamak için yükselir... Neyse, işte Dara-san'la böyle tanıştık! Biraz korkutucu görünebilir ama onu tanıyana kadar bekleyin!<br><br>\"Bakın, ben bir talihsizlik tanrısıyım, tamam mı!? Siz çocuklar benim garip yüzüm yüzünden çıldırmayacak mısınız!?\"<br><br>(Kaynak: Yen Press)"
+          "descriptionTr": "Bulutlar gökyüzünü karartıyor ve yağmur tabakaları dağ ormanını hain bir labirent haline getiriyor... Heyelan dikenli telleri ezer ve \"GİRİLMEZ\" tabelasını gömer... İki genç kardeş ait olmadıkları karanlık bir dünyaya doğru yola çıkarlar ve uzun, korkunç bir gölge onları karşılamak için yükselir... Neyse, işte Dara-san'la böyle tanıştık! Biraz korkutucu görünebilir ama onu tanıyana kadar bekleyin!<br><br>\"Bakın, ben bir talihsizlik tanrısıyım, tamam mı!? Siz çocuklar benim garip yüzüm yüzünden çıldırmayacak mısınız!?\"<br><br>(Kaynak: Yen Press)"
         },
         {
           "id": 209504,
@@ -5330,15 +5330,19 @@
           ],
           "tags": [
             {
+              "name": "Josei",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Isekai",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Food",
               "isMediaSpoiler": false
             },
             {
-              "name": "Food",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -5358,11 +5362,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Josei",
+              "name": "Iyashikei",
               "isMediaSpoiler": false
             },
             {
-              "name": "Iyashikei",
+              "name": "Bisexual",
               "isMediaSpoiler": false
             }
           ],
@@ -5479,7 +5483,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Düşmüş bir aristokratın kızı Elsa, bir haber alır. Bu, çok seçkin bir soylu olan Julius'un evlenme teklifiydi. Elsa \"Bu kadar seçkin bir adam neden benimle evlensin?\" diye merak ediyor. Ancak düğünden sonra o ana kadar nazik ve nazik olan Julius tamamen değişti! Soğuk bir sesle \"Seni sevmeye hiç niyetim yok\" diyor.<br><br>(Kaynak: MangaPlaza)"
+          "descriptionTr": "Düşmüş bir aristokratın kızı Elsa, bir haber alır. Bu, çok seçkin bir soylu olan Julius'un evlenme teklifiydi. Elsa \"Bu kadar seçkin bir adam neden benimle evlensin?\" diye merak ediyor. Ancak düğünden sonra o ana kadar nazik ve nazik olan Julius tamamen değişti! Soğuk bir sesle ona \"Seni sevmeye hiç niyetim yok\" diyor.<br><br>(Kaynak: MangaPlaza)"
         },
         {
           "id": 207809,
@@ -5731,7 +5735,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine ikna oldu: kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir hayat. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve samimi bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
+          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine ikna oldu: kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir hayat. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve içten bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
         }
       ]
     }
