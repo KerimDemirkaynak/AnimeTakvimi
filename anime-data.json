@@ -233,8 +233,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196187-Z9dV6uotmKjM.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1784213760,
-            "episode": 2
+            "airingAt": 1784818560,
+            "episode": 3
           },
           "isAdult": false,
           "genres": [
@@ -256,10 +256,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Age Gap",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Konbini",
               "isMediaSpoiler": false
             },
@@ -268,7 +264,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Age Gap",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Iyashikei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Drugs",
               "isMediaSpoiler": false
             },
             {
@@ -703,8 +707,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207141-MvHAS2YVfJzL.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1784215800,
-            "episode": 3
+            "airingAt": 1784820600,
+            "episode": 4
           },
           "isAdult": false,
           "genres": [
@@ -733,10 +737,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Rehabilitation",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
@@ -749,6 +749,14 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Rehabilitation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Class Struggle",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
@@ -759,10 +767,6 @@
             {
               "name": "Satire",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Class Struggle",
-              "isMediaSpoiler": true
             },
             {
               "name": "Hikikomori",
@@ -789,11 +793,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Watersports",
+              "name": "Delinquents",
               "isMediaSpoiler": false
             },
             {
-              "name": "Delinquents",
+              "name": "Watersports",
               "isMediaSpoiler": false
             }
           ],
@@ -841,7 +845,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yani ciddi anlamda kötü sigara içme alışkanlığı olan bir kedi kızdır. O kadar çok sigara içiyor ki, dairesi kül kokuyor ve sigara izmaritleriyle ve daha birçok çöple dolu! Ne zaman bırakmayı denese, isteklere karşı zayıflıyor ve neredeyse anında pes ediyor. Hayatını düzene koyabilecek mi, yoksa sonsuza kadar sigara içen bir serseri olarak mı yaşamaya mahkumdur?<br><br>(Kaynak: Seven Seas Entertainment)"
+          "descriptionTr": "Yani ciddi anlamda kötü sigara içme alışkanlığı olan bir kedi kızdır. O kadar çok sigara içiyor ki, dairesi kül kokuyor ve sigara izmaritleri ve daha bir sürü çöple dolu! Ne zaman bırakmayı denese, isteklere karşı zayıflıyor ve neredeyse anında pes ediyor. Hayatını düzene koyabilecek mi, yoksa sonsuza kadar sigara içen bir serseri olarak mı yaşamaya mahkumdur?<br><br>(Kaynak: Seven Seas Entertainment)"
         },
         {
           "id": 187538,
@@ -1104,11 +1108,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
+              "name": "Tragedy",
               "isMediaSpoiler": false
             },
             {
-              "name": "Tragedy",
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
@@ -1483,8 +1487,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1784215560,
-            "episode": 3
+            "airingAt": 1784820360,
+            "episode": 4
           },
           "isAdult": false,
           "genres": [
@@ -1667,10 +1671,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Politics",
               "isMediaSpoiler": false
             },
@@ -1679,11 +1679,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Nudity",
               "isMediaSpoiler": false
             },
             {
               "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Episodic",
               "isMediaSpoiler": false
             }
           ],
@@ -2219,8 +2227,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1784214000,
-            "episode": 4
+            "airingAt": 1784818800,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -3123,8 +3131,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204466-cpbNGN9qHrGP.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1784219280,
-            "episode": 3
+            "airingAt": 1784824080,
+            "episode": 4
           },
           "isAdult": false,
           "genres": [
@@ -3650,11 +3658,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Interspecies",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Interspecies",
               "isMediaSpoiler": false
             },
             {
@@ -4065,6 +4073,10 @@
             },
             {
               "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Male Cast",
               "isMediaSpoiler": false
             }
           ],
@@ -5755,7 +5767,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine ikna oldu: kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir yaşam. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve içten bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
+          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine ikna oldu: Kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir yaşam. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve içten bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
         }
       ]
     }
