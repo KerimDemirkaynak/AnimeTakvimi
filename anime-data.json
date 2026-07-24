@@ -134,11 +134,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Maids",
+              "name": "Age Gap",
               "isMediaSpoiler": false
             },
             {
-              "name": "Age Gap",
+              "name": "Maids",
               "isMediaSpoiler": false
             },
             {
@@ -233,8 +233,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196187-Z9dV6uotmKjM.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1784818560,
-            "episode": 3
+            "airingAt": 1785423360,
+            "episode": 4
           },
           "isAdult": false,
           "genres": [
@@ -320,7 +320,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Sasaki, sigaralar ve en sevdiği süpermarketin katibi Yamada'nın neşeli hizmeti ve gülümsemesiyle ayakta kalan, kurumsal hayatın içinde sürüklenen çok çalışan bir maaşlı adamdır. Ancak meşakkatli bir vardiyanın ardından bir gece geç gelir ve Yamada'yı görünürde bulamaz. Sigara içebilecek bir yer kalmadığından morali bozuldu, ta ki piercingli genç bir kadın ona seslenene kadar: \"Burada sigara içebilirsin.\"<br><br>(Kaynak: Crunchyroll)<br><br>Not: 1-6. Bölümler, 9 Temmuz 2026'da başlayan TV yayınından önce, 6 bölümü 12'ye bölen mini bölüm toplu formatında ABEMA ve Crunchyroll tarafından 3 Haziran 2026'da erken yayınlandı."
+          "descriptionTr": "Sasaki, sigaralar ve en sevdiği süpermarketin katibi Yamada'nın güler yüzlü hizmeti ve gülümsemesiyle ayakta kalan, kurumsal hayatın içinde sürüklenen çok çalışan bir maaşlı adamdır. Ancak meşakkatli bir vardiyanın ardından bir gece geç gelir ve Yamada'yı görünürde bulamaz. Sigara içebilecek bir yer kalmadığından morali bozuldu, ta ki piercingli genç bir kadın ona seslenene kadar: \"Burada sigara içebilirsin.\"<br><br>(Kaynak: Crunchyroll)<br><br>Not: 1-6. Bölümler, 9 Temmuz 2026'da başlayan TV yayınından önce, 6 bölümü 12'ye bölen mini bölüm toplu formatında ABEMA ve Crunchyroll tarafından 3 Haziran 2026'da erken yayınlandı."
         },
         {
           "id": 135865,
@@ -595,8 +595,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207141-MvHAS2YVfJzL.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1784820600,
-            "episode": 4
+            "airingAt": 1785425400,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -1231,23 +1231,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Mixed Media",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Philosophy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
             },
             {
@@ -1255,11 +1239,31 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Mixed Media",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Historical",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Tragedy",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Arranged Marriage",
               "isMediaSpoiler": false
             },
             {
@@ -1271,7 +1275,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Arranged Marriage",
+              "name": "War",
               "isMediaSpoiler": false
             },
             {
@@ -1279,19 +1283,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "War",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Educational",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Advertisement",
               "isMediaSpoiler": false
             },
             {
-              "name": "Software Development",
+              "name": "Educational",
               "isMediaSpoiler": false
             }
           ],
@@ -1373,8 +1369,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1784820360,
-            "episode": 4
+            "airingAt": 1785425160,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -1391,11 +1387,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Reincarnation",
               "isMediaSpoiler": false
             },
             {
-              "name": "Reincarnation",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -1407,11 +1403,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
+              "name": "Swordplay",
               "isMediaSpoiler": false
             },
             {
-              "name": "Swordplay",
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
@@ -1996,8 +1992,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1784818800,
-            "episode": 5
+            "airingAt": 1785423600,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -2079,7 +2075,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Büyük bilge Ephtal, büyünün zirvesine ulaşamayınca çaresizlik içinde ölür; ancak 400 yıl sonra, tüm anıları ve gücü bozulmadan yeniden doğar! Büyünün çürüdüğü ve eski büyülere mucize muamelesi yapıldığı bir dünyada Ephtal, gerçek büyücülük sanatını geri almak için prestijli bir büyü akademisine hücum eder. Onun gücü dünyayı sarsarken, uzun zamandır unutulmuş efsaneler de uyanmaya başlıyor!<br><br>(Kaynak: Crunchyroll)<br><br>Not: Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku, 26 Haziran 2026'dan itibaren dAnimeStore, ABEMA, U-NEXT ve Anime Hodai'deki TV yayınından bir hafta önce yayınlanıyor. Düzenli yayın 2 Temmuz 2026'da başladı."
+          "descriptionTr": "Büyük bilge Ephtal, büyünün zirvesine ulaşamayınca umutsuzluk içinde ölür; ancak 400 yıl sonra, tüm anıları ve gücü bozulmadan yeniden doğar! Büyünün çürüdüğü ve eski büyülere mucize muamelesi yapıldığı bir dünyada Ephtal, gerçek büyücülük sanatını geri almak için prestijli bir büyü akademisine hücum eder. Onun gücü dünyayı sarsarken, uzun zamandır unutulmuş efsaneler de uyanmaya başlıyor!<br><br>(Kaynak: Crunchyroll)<br><br>Not: Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku, 26 Haziran 2026'dan itibaren dAnimeStore, ABEMA, U-NEXT ve Anime Hodai'deki TV yayınından bir hafta önce yayınlanıyor. Düzenli yayın 2 Temmuz 2026'da başladı."
         },
         {
           "id": 194829,
@@ -3070,7 +3066,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Tokyo'da bir Nisan gecesi, havai fişek gösterisi için henüz çok erken olan üniversite öğrencisi Kakeru Sorano, Koharu Fuyutsuki adında bir kadınla tanışır. O, kalabalığın arasından sıyrılan, çok gülen ve Kakeru'nun kendi içe dönüklüğüyle keskin bir tezat oluşturan bir sıcaklık yayan güzel bir kız. Ancak Kakeru'nun ilk başta bilmediği bir şey vardı; göremiyordu.<br><br>Kakeru'nun aksine Koharu, körlüğüne rağmen hiçbir şeyden vazgeçmedi. Her gün üniversiteye gidiyor, kulüplere ilgi gösteriyor, arkadaşlar ediniyor ve bir gün havai fişek fırlatmanın hayalini kuruyor. Kakeru onları göremeyince nedenini merak ediyor... ama belki de bunun bir önemi yoktur. Ve belki her zaman yanında olan kız için de ilerlemeye başlayabilir.<br><br>(Kaynak: Yen Press)"
+          "descriptionTr": "Tokyo'da bir Nisan gecesi, havai fişek patlatmak için henüz çok erken olan üniversite öğrencisi Kakeru Sorano, Koharu Fuyutsuki adında bir kadınla tanışır. O, kalabalığın arasından sıyrılan, çok gülen ve Kakeru'nun kendi içedönüklüğüyle keskin bir tezat oluşturan bir sıcaklık yayan güzel bir kız. Ancak Kakeru'nun ilk başta bilmediği bir şey vardı; göremiyordu.<br><br>Kakeru'nun aksine Koharu, körlüğüne rağmen hiçbir şeyden vazgeçmedi. Her gün üniversiteye gidiyor, kulüplere ilgi gösteriyor, arkadaşlar ediniyor ve bir gün havai fişek fırlatmanın hayalini kuruyor. Kakeru onları göremeyince nedenini merak ediyor... ama belki de bunun bir önemi yoktur. Ve belki her zaman yanında olan kız için de ilerlemeye başlayabilir.<br><br>(Kaynak: Yen Press)"
         },
         {
           "id": 204466,
@@ -3093,8 +3089,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204466-cpbNGN9qHrGP.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1784824080,
-            "episode": 4
+            "airingAt": 1785428880,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -3177,6 +3173,10 @@
             },
             {
               "name": "Love Triangle",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Bullying",
               "isMediaSpoiler": false
             }
           ],
@@ -3674,10 +3674,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Urban Fantasy",
               "isMediaSpoiler": false
             },
@@ -3686,7 +3682,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Bisexual",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
@@ -3698,15 +3694,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Boxing",
               "isMediaSpoiler": false
             },
             {
               "name": "Shapeshifting",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Bisexual",
               "isMediaSpoiler": false
             },
             {
@@ -3762,7 +3762,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bir zamanlar Lara adında bir deniz kızı prensesi, insan bir prense aşık olur. Onunla birlikte olabilmek için insan olabilmek için bir cadı iksiri kullandı ama bu büyünün bir bedeli vardı: Eğer gerçek aşkı bulamazsa, sonsuza dek deniz köpüğünün içinde kaybolacaktı. Şimdi, 200 yıl sonra Lara, Biwa Gölü'nde hayat ve aşk için son bir şansla uyanır.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Bir zamanlar Lara adında bir deniz kızı prensesi, insan bir prense aşık olur. Onunla birlikte olabilmek için insan olabilmek için bir cadı iksiri kullandı ama bu büyünün bir bedeli vardı: Eğer gerçek aşkı bulamazsa, sonsuza kadar deniz köpüğünün içinde kaybolacaktı. Şimdi, 200 yıl sonra Lara, Biwa Gölü'nde hayat ve aşk için son bir şansla uyanır.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 128757,
@@ -3802,15 +3802,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ojou-sama",
               "isMediaSpoiler": false
             },
             {
@@ -3818,15 +3810,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
@@ -3834,7 +3818,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Ojou-sama",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Cute Girls Doing Cute Things",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
               "isMediaSpoiler": false
             },
             {
@@ -4120,10 +4116,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Acting",
               "isMediaSpoiler": false
             },
@@ -4132,11 +4124,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
+              "name": "Biographical",
               "isMediaSpoiler": false
             },
             {
@@ -4144,7 +4132,11 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Biographical",
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
@@ -4165,6 +4157,10 @@
             },
             {
               "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -4437,7 +4433,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Hikaye, ormanda bir anne kedi tarafından büyütülen, ateş püskürten, insanlardan nefret eden bir ejderhayı konu alıyor. Sevgiyle \"Wing Amca\" olarak anılan ejderha, biri insan prensle maceraya çıkan, diğeri şehirde yaşayan ve hobi olarak insanları izleyen pek çok meraklı kediyi gözetliyor ve bu yolda yavaş yavaş insanlara ısınıyor.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Her bölüm ABEMA ve dAnimeStore'da 1 hafta erken yayınlandı. Orijinal TV yayını 4 Temmuz 2026'da başladı."
+          "descriptionTr": "Hikaye, ormanda bir anne kedi tarafından büyütülen, ateş püskürten, insanlardan nefret eden bir ejderhayı konu alıyor. Sevgiyle \"Wing Amca\" olarak anılan ejderha, biri insan prensle maceraya çıkan, diğeri şehirde yaşayan ve insanları hobi olarak izleyen pek çok meraklı kediyi gözetliyor ve yol boyunca yavaş yavaş insanlara ısınıyor.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Her bölüm ABEMA ve dAnimeStore'da 1 hafta erken yayınlandı. Orijinal TV yayını 4 Temmuz 2026'da başladı."
         },
         {
           "id": 192800,
@@ -4944,7 +4940,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Japon tarzı bir ayakaşi Cinderella hikayesi! \"Bunca zamandır aradığım gelin sensin.\" Ayakaşiler ve insanlar uyum içinde bir arada yaşarlar. Üstün yeteneklere ve güzel görünüme sahip olan ayakaşiler, bazen insan kadınları arasında kendilerine eş bularak onları \"gelinleri\" haline getirirler. Gelin, refah getirmesi karşılığında ayakaşiden mutlak sevgi alır. Yuzu sürekli olarak şeytan tilkinin gelini olan kız kardeşiyle karşılaştırılıyor ve ailesi tarafından her gün kızıyor. Bir gün Yuzu artık hiçbir şeye dayanamadığında, köprüde karşısına bir adam çıkar. Bu adam Yuzu'nun şimdiye kadar gördüğü en güzel adam... ve ona karısı mı diyor?! \"Sessiz ol ve sana sarılmama izin ver.\" En güçlü, \"soğuk kalpli\" ayakaşi, Yuzu için kalbini mi döküyor?!<br><br>(Kaynak: MangaPlaza)"
+          "descriptionTr": "Japon tarzı bir ayakaşi Cinderella hikayesi! \"Bunca zamandır aradığım gelin sensin.\" Ayakaşiler ve insanlar uyum içinde bir arada yaşarlar. Üstün yeteneklere ve güzel görünüme sahip olan ayakaşiler, bazen insan kadınları arasında kendilerine eş bularak onları \"gelinleri\" haline getirirler. Gelin, refah getirmesi karşılığında ayakaşiden mutlak sevgi alır. Yuzu sürekli olarak şeytan tilkinin gelini olan kız kardeşiyle karşılaştırılıyor ve ailesi tarafından her gün kızıyor. Bir gün Yuzu artık hiçbir şeye dayanamadığında, köprüde karşısına bir adam çıkar. Bu adam Yuzu'nun gördüğü en güzel adam... ve ona karısı mı diyor?! \"Sessiz ol ve sana sarılmama izin ver.\" En güçlü, \"soğuk kalpli\" ayakaşi, Yuzu için kalbini mi döküyor?!<br><br>(Kaynak: MangaPlaza)"
         },
         {
           "id": 207674,
@@ -5048,7 +5044,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bu şeytan çıkarma OMFFFFFFFFF!!!! Shizuka, \"sadece\" hayaletleri gören, sıradan bir liseli kız olduğunu iddia ediyor. Ruhları kendine çekme konusundaki eşsiz yeteneğini kullanarak ünlü medyum Kamui'nin asistanı olarak çalışıyor. Kamui ezici bir ruhsal güce sahip olmasına rağmen, şeytan çıkarma yöntemleri eşi benzeri görülmemiş...?! Doğaüstü rahatsızlıkların sürüklediği Shizuka, huzuru bulabilecek mi? \"Yüce\" şeytan çıkarma ayininin perdesi kalkıyor!! Aman Tanrım!<br><br>(Kaynak: OceanVeil)"
+          "descriptionTr": "Bu şeytan çıkarma OMFFFFFFFFF!!!! Shizuka, \"sadece\" hayaletleri gören, kendini sıradan bir liseli kız olarak tanımlayan bir kişidir. Ruhları kendine çekme konusundaki eşsiz yeteneğini kullanarak ünlü medyum Kamui'nin asistanı olarak çalışıyor. Kamui ezici bir ruhsal güce sahip olmasına rağmen, şeytan çıkarma yöntemleri eşi benzeri görülmemiş...?! Doğaüstü rahatsızlıkların sürüklediği Shizuka, huzuru bulabilecek mi? \"Yüce\" şeytan çıkarma ayininin perdesi kalkıyor!! Aman Tanrım!<br><br>(Kaynak: OceanVeil)"
         },
         {
           "id": 198709,
@@ -5474,6 +5470,10 @@
           ],
           "tags": [
             {
+              "name": "Monster Girl",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Youkai",
               "isMediaSpoiler": false
             },
@@ -5482,15 +5482,11 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Shrine Maiden",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Tomboy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Monster Girl",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gods",
               "isMediaSpoiler": false
             },
             {
@@ -5498,15 +5494,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Femboy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shrine Maiden",
               "isMediaSpoiler": false
             },
             {
@@ -5514,11 +5502,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Rural",
+              "name": "Nudity",
               "isMediaSpoiler": false
             },
             {
               "name": "Mythology",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Rural",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gods",
               "isMediaSpoiler": false
             },
             {
@@ -5562,7 +5558,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bulutlar gökyüzünü karartıyor ve yağmur tabakaları dağ ormanını hain bir labirent haline getiriyor... Heyelan dikenli telleri ezer ve \"GİRİLMEZ\" tabelasını gömer... İki genç kardeş ait olmadıkları karanlık bir dünyaya doğru yola çıkarlar ve uzun, korkunç bir gölge onları karşılamak için yükselir... Neyse, işte Dara-san'la böyle tanıştık! Biraz korkutucu görünebilir ama onu tanıyana kadar bekleyin!<br><br>\"Bakın, ben bir talihsizlik tanrısıyım, tamam mı!? Siz çocuklar benim garip yüzüm yüzünden çıldırmayacak mısınız!?\"<br><br>(Kaynak: Yen Press)"
+          "descriptionTr": "Bulutlar gökyüzünü karartıyor ve yağmur tabakaları dağ ormanını hain bir labirent haline getiriyor... Heyelan dikenli telleri ezer ve \"GİRİLMEZ\" tabelasını gömer... İki genç kardeş ait olmadıkları karanlık bir dünyaya doğru yola çıkarlar ve uzun, korkunç bir gölge onları karşılamak için yükselir... Neyse, işte Dara-san'la böyle tanıştık! Biraz korkutucu görünebilir ama onu tanıyana kadar bekleyin!<br><br>\"Bakın, ben bir talihsizlik tanrısıyım, tamam mı!? Siz çocuklar benim tuhaf yüzüm yüzünden çıldırmayacak mısınız!?\"<br><br>(Kaynak: Yen Press)"
         },
         {
           "id": 208225,
@@ -5643,7 +5639,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Düşmüş bir aristokratın kızı Elsa, bir haber alır. Bu, çok seçkin bir soylu olan Julius'un evlenme teklifiydi. Elsa \"Bu kadar seçkin bir adam neden benimle evlensin?\" diye merak ediyor. Ancak düğünden sonra o ana kadar nazik ve nazik olan Julius tamamen değişti! Soğuk bir sesle \"Seni sevmeye hiç niyetim yok\" diyor.<br><br>(Kaynak: MangaPlaza)"
+          "descriptionTr": "Düşmüş bir aristokratın kızı Elsa, bir haber alır. Bu, çok seçkin bir soylu olan Julius'un evlenme teklifiydi. Elsa \"Bu kadar seçkin bir adam neden benimle evlensin?\" diye merak ediyor. Ancak düğünden sonra o ana kadar nazik ve nazik olan Julius tamamen değişti! Soğuk bir sesle ona \"Seni sevmeye hiç niyetim yok\" diyor.<br><br>(Kaynak: MangaPlaza)"
         },
         {
           "id": 196356,
@@ -5751,7 +5747,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine ikna oldu: Kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir yaşam. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve içten bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
+          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine ikna oldu: Kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir yaşam. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve samimi bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
         },
         {
           "id": 207809,
