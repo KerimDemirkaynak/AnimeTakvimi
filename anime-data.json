@@ -26,8 +26,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178789-9nHWmoRLlcLu.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785078000,
-            "episode": 5
+            "airingAt": 1785682800,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -62,10 +62,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Coming of Age",
               "isMediaSpoiler": false
             },
@@ -74,15 +70,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Medieval",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Harem",
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
+              "name": "Female Harem",
               "isMediaSpoiler": false
             },
             {
@@ -126,10 +126,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Kemonomimi",
               "isMediaSpoiler": false
             },
@@ -139,6 +135,10 @@
             },
             {
               "name": "Maids",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
@@ -225,7 +225,7 @@
           "startDate": {
             "year": 2026,
             "month": 7,
-            "day": 9
+            "day": 10
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196187-0dgFi2CPp3xn.jpg",
@@ -300,7 +300,7 @@
               }
             ]
           },
-          "description": "<p>Sasaki is an overworked salaryman drifting through the corporate grind, sustained by cigarettes and the cheerful service and smile of Yamada, the clerk at his favorite supermarket. But one night after a grueling shift, he arrives late to find Yamada nowhere to be seen. With nowhere left to smoke, his spirits sink—until a pierced young woman calls out to him: “You can smoke here.”<br />\n<br><br><br />\n(Source: Crunchyroll)<br><br></p>\n<p><i>Note: Episodes 1-6 had an early release by ABEMA and Crunchyroll on June 3rd, 2026 in a mini-episode batch format that splits 6 episodes into 12, ahead of the TV broadcast which started on July 9th, 2026.</i></p>",
+          "description": "<p>Sasaki is an overworked salaryman drifting through the corporate grind, sustained by cigarettes and the cheerful service and smile of Yamada, the clerk at his favorite supermarket. But one night after a grueling shift, he arrives late to find Yamada nowhere to be seen. With nowhere left to smoke, his spirits sink—until a pierced young woman calls out to him: “You can smoke here.”<br />\n<br><br><br />\n(Source: Crunchyroll)<br><br></p>\n<p><i>Note: Episodes 1-6 had an early release by ABEMA and Crunchyroll on June 3rd, 2026 in a mini-episode batch format that splits 6 episodes into 12, ahead of the TV broadcast which started on July 10th, 2026.</i></p>",
           "externalLinks": [
             {
               "site": "Twitter",
@@ -320,7 +320,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Sasaki, sigaralar ve en sevdiği süpermarketin katibi Yamada'nın neşeli hizmeti ve gülümsemesiyle ayakta kalan, kurumsal hayatın içinde sürüklenen çok çalışan bir maaşlı adamdır. Ancak meşakkatli bir vardiyanın ardından bir gece geç gelir ve Yamada'yı görünürde bulamaz. Sigara içebilecek bir yer kalmadığından morali bozuldu, ta ki piercingli genç bir kadın ona \"Burada sigara içebilirsin\" diye seslenene kadar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: 1-6. Bölümler, 9 Temmuz 2026'da başlayan TV yayınından önce, 6 bölümü 12'ye bölen mini bölüm toplu formatında ABEMA ve Crunchyroll tarafından 3 Haziran 2026'da erken yayınlandı."
+          "descriptionTr": "Sasaki, sigaralar ve en sevdiği süpermarketin katibi Yamada'nın neşeli hizmeti ve gülümsemesiyle ayakta kalan, kurumsal hayatın içinde sürüklenen çok çalışan bir maaşlı adamdır. Ancak meşakkatli bir vardiyanın ardından bir gece geç gelir ve Yamada'yı görünürde bulamaz. Sigara içebilecek bir yer kalmadığından morali bozuldu, ta ki piercingli genç bir kadın ona \"Burada sigara içebilirsin\" diye seslenene kadar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: 1-6. Bölümler, 10 Temmuz 2026'da başlayan TV yayınından önce, 6 bölümü 12'ye bölen mini bölüm toplu formatında ABEMA ve Crunchyroll tarafından 3 Haziran 2026'da erken yayınlandı."
         },
         {
           "id": 135865,
@@ -741,7 +741,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yani ciddi anlamda kötü sigara içme alışkanlığı olan bir kedi kızdır. O kadar çok sigara içiyor ki, dairesi kül kokuyor ve sigara izmaritleri ve daha bir sürü çöple dolu! Ne zaman bırakmayı denese, isteklere karşı zayıflıyor ve neredeyse anında pes ediyor. Hayatını düzene koyabilecek mi, yoksa sonsuza kadar sigara içen bir serseri olarak mı yaşamaya mahkumdur?<br><br>(Kaynak: Seven Seas Entertainment)"
+          "descriptionTr": "Yani ciddi anlamda kötü sigara içme alışkanlığı olan bir kedi kızdır. O kadar çok sigara içiyor ki, dairesi kül kokuyor ve sigara izmaritleriyle ve daha birçok çöple dolu! Ne zaman bırakmayı denese, isteklere karşı zayıflıyor ve neredeyse anında pes ediyor. Hayatını düzene koyabilecek mi, yoksa sonsuza kadar sigara içen bir serseri olarak mı yaşamaya mahkumdur?<br><br>(Kaynak: Seven Seas Entertainment)"
         },
         {
           "id": 187538,
@@ -873,7 +873,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Jirou Azuma sıradan bir lise öğrencisi değil. Ninjaların soyundan gelen ve şinobilerin kadim savaşçı sanatı konusunda eğitim almış olan Jirou, aynı zamanda hayvanlarla da konuşabiliyor. Ragou adında yaralı bir kediyle gizemli bir karşılaşmanın ardından Jirou, kedinin aslında efsanevi Kıyametin Kara Yıldızı olduğunu keşfeder! Casusluk Bürosu'nun da katılımıyla, Ragou'nun güçlerinden yararlanmak için pusuda bekleyen mononoke sürüleriyle savaşırlar.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Jirou Azuma sıradan bir lise öğrencisi değil. Ninjaların soyundan gelen ve şinobilerin kadim savaşçı sanatı konusunda eğitim almış olan Jirou, aynı zamanda hayvanlarla da konuşabiliyor. Ragou adında yaralı bir kediyle gizemli bir karşılaşmanın ardından Jirou, kedinin aslında efsanevi Kıyametin Kara Yıldızı olduğunu keşfeder! Casusluk Bürosu'nun da katıldığı ekip, Ragou'nun güçlerini kullanmak için pusuda bekleyen mononoke sürüleriyle savaşır.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 133007,
@@ -1045,11 +1045,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Shounen",
               "isMediaSpoiler": false
             },
             {
-              "name": "Shounen",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             }
           ],
@@ -1341,7 +1341,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Sheena'nın yaşadığı gizemli yetimhanede ölüm, buranın sakinleri için yeni bir şey değil; artık kendi aileleri olmayan, savaş silahı olarak yetiştirilen, gözlerini bile kırpmadan öldürmeyi ve başkalarının canını almayı öğreten kızlara. Etrafında büyüyen çatışmanın sona ermesinden başka bir şey istemeyen Sheena dışında herkes. Oda arkadaşının öldüğü gece Sheena, etrafını saran kargaşaya rağmen gülümseyen, kanlar içinde tuhaf bir kızla tanışır. Ertesi gün kız, Sheena'nın sınıfına yeni bir öğrenci olarak görünür ve kendisini Mimi olarak tanıtır. Başlangıçta bir okul efsanesi olduğu düşünülen bu yetimhanenin koridorlarında, artık Mimi'nin onların gizli silahı, ölmeyen bir ölümsüz olduğu fısıltıları dolaşıyor. Daha sonra Mimi, Sheena'nın yeni oda arkadaşı olarak atandığında, Sheena'nın dünyası, ölümü seven ve memnuniyetle karşılayan biriyle yaşamaya başladığında, Sheena'nın tek istediği bunu durdurmak olduğunda daha da karmaşık hale gelir…<br><br>(Kaynak: Kodansha ABD)"
+          "descriptionTr": "Sheena'nın yaşadığı gizemli yetimhanede ölüm, buranın sakinleri için yeni bir şey değil; artık kendi aileleri olmayan, savaş silahı olarak yetiştirilen, gözlerini bile kırpmadan öldürmeyi ve başkalarının canını almayı öğreten kızlara. Etrafında büyüyen çatışmanın sona ermesinden başka bir şey istemeyen Sheena dışında herkes. Oda arkadaşının öldüğü gece Sheena, etrafını saran kargaşaya rağmen gülümseyen, kanlar içinde tuhaf bir kızla tanışır. Ertesi gün kız, Sheena'nın sınıfına yeni bir öğrenci olarak görünür ve kendisini Mimi olarak tanıtır. Başlangıçta bir okul efsanesi olduğu düşünülse de, artık yetimhanenin koridorlarında Mimi'nin onların gizli silahı, ölmeyen bir ölümsüz olduğu fısıltıları dolaşıyor. Daha sonra Mimi, Sheena'nın yeni oda arkadaşı olarak atandığında, Sheena'nın dünyası, ölümü seven ve memnuniyetle karşılayan biriyle yaşamaya başladığında, Sheena'nın tek istediği bunu durdurmak olduğunda daha da karmaşık hale gelir…<br><br>(Kaynak: Kodansha ABD)"
         },
         {
           "id": 103303,
@@ -1369,8 +1369,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103303-K73aVOqkCPqL.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785074400,
-            "episode": 4
+            "airingAt": 1785679200,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -1387,10 +1387,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
@@ -1399,7 +1395,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Teen Cast",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -1408,6 +1404,14 @@
             },
             {
               "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Educational",
               "isMediaSpoiler": false
             },
             {
@@ -1437,13 +1441,9 @@
             {
               "name": "Advertisement",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Educational",
-              "isMediaSpoiler": false
             }
           ],
-          "averageScore": 75,
+          "averageScore": 76,
           "studios": {
             "nodes": [
               {
@@ -1708,15 +1708,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Bisexual",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
@@ -1724,7 +1716,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Bisexual",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Episodic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             }
           ],
@@ -1768,7 +1772,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yıl 2029. Yakın gelecekte Japonya'da, gezegeni kapsayan geniş bir şirket ağıyla, içinden elektronlar ve ışık saçılarak dünyanın son derece bilgi yoğunluklu hale geldiği yer. Ancak ulus devlet ve etnik gruplar hâlâ varlığını sürdürüyor.  <br><br> Tam vücutlu bir cyborg olan Motoko Kusanagi, Batou'nun da aralarında bulunduğu seçkin bir savaş birimine liderlik ediyor. Kusanagi, ekibine komuta ederken, ortaya çıkan tehditlere karşı önleyici saldırı yapacak özel bir görev gücü oluşturulmasını öngörüyor. Bu arada benzer bir birim kurmayı planlayan İçişleri Bakanlığı'ndan Daisuke Aramaki, Kusanagi ve ekibini işe aldı. Birlikte, \"Kabuk Takımı\" olarak bilinen saldırı taktiksel birimi olan Kamu Güvenliği Bölüm 9 olarak operasyonlara başlarlar. Karmaşık siber suçlar ve uluslararası komplolarla karşı karşıya kalırken, araştırmalarının ufkunda \"Kukla Ustası\" olarak bilinen gizemli, kimliği belirsiz bir hackerın varlığı ortaya çıkıyor. <br><br> Kusanagi'yi nasıl bir kader bekliyor? Peki Puppet Master'ın gerçek amacı nedir? Siberpunk aksiyonunda yeni bir dönem başlıyor.  <br><br>(Kaynak: 攻殻機動隊 THE GHOST IN THE SHELL Sitesi)"
+          "descriptionTr": "Yıl 2029. Yakın gelecekte Japonya'da, gezegeni kaplayan geniş bir şirket ağıyla, içinden elektronlar ve ışık saçılarak dünyanın son derece bilgi yoğunluklu hale geldiği yer. Ancak ulus devlet ve etnik gruplar hâlâ varlığını sürdürüyor.  <br><br> Tam vücutlu bir cyborg olan Motoko Kusanagi, Batou'nun da aralarında bulunduğu seçkin bir savaş birimine liderlik ediyor. Kusanagi, ekibine komuta ederken, ortaya çıkan tehditlere karşı önleyici saldırı yapacak özel bir görev gücü oluşturulmasını öngörüyor. Bu arada benzer bir birim kurmayı planlayan İçişleri Bakanlığı'ndan Daisuke Aramaki, Kusanagi ve ekibini işe aldı. Birlikte, \"Kabuk Takımı\" olarak bilinen saldırı taktiksel birimi olan Kamu Güvenliği Bölüm 9 olarak operasyonlara başlarlar. Karmaşık siber suçlar ve uluslararası komplolarla karşı karşıya kalırken, soruşturmalarının ufkunda \"Kukla Ustası\" olarak bilinen gizemli, kimliği belirsiz bir hackerın varlığı ortaya çıkıyor. <br><br> Kusanagi'yi nasıl bir kader bekliyor? Peki Puppet Master'ın gerçek amacı nedir? Siberpunk aksiyonunda yeni bir dönem başlıyor.  <br><br>(Kaynak: 攻殻機動隊 THE GHOST IN THE SHELL Sitesi)"
         },
         {
           "id": 185542,
@@ -1999,7 +2003,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Büyük bilge Ephtal, büyünün zirvesine ulaşamayınca çaresizlik içinde ölür; ancak 400 yıl sonra, tüm anıları ve gücü bozulmadan yeniden doğar! Büyünün çürüdüğü ve eski büyülere mucize muamelesi yapıldığı bir dünyada Ephtal, gerçek büyücülük sanatını geri almak için prestijli bir büyü akademisine hücum eder. Onun gücü dünyayı sarsarken, uzun zamandır unutulmuş efsaneler de uyanmaya başlıyor!<br><br>(Kaynak: Crunchyroll)<br><br>Not: Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku, 26 Haziran 2026'dan itibaren dAnimeStore, ABEMA, U-NEXT ve Anime Hodai'deki TV yayınından bir hafta önce yayınlanıyor. Düzenli yayın 2 Temmuz 2026'da başladı."
+          "descriptionTr": "Büyük bilge Ephtal, büyünün zirvesine ulaşamayınca umutsuzluk içinde ölür; ancak 400 yıl sonra, tüm anıları ve gücü bozulmadan yeniden doğar! Büyünün çürüdüğü ve eski büyülere mucize muamelesi yapıldığı bir dünyada Ephtal, gerçek büyücülük sanatını geri almak için prestijli bir büyü akademisine hücum eder. Onun gücü dünyayı sarsarken, uzun zamandır unutulmuş efsaneler de uyanmaya başlıyor!<br><br>(Kaynak: Crunchyroll)<br><br>Not: Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku, 26 Haziran 2026'dan itibaren dAnimeStore, ABEMA, U-NEXT ve Anime Hodai'deki TV yayınından bir hafta önce yayınlanıyor. Düzenli yayın 2 Temmuz 2026'da başladı."
         },
         {
           "id": 198946,
@@ -2476,10 +2480,6 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Desert",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Orphan",
               "isMediaSpoiler": false
             },
@@ -2489,6 +2489,10 @@
             },
             {
               "name": "Philosophy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Desert",
               "isMediaSpoiler": false
             },
             {
@@ -2560,8 +2564,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200637-q9mehOFbbCgT.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785072600,
-            "episode": 4
+            "airingAt": 1785677400,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -2599,6 +2603,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Surreal Comedy",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
@@ -2608,10 +2616,6 @@
             },
             {
               "name": "Incest",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Surreal Comedy",
               "isMediaSpoiler": false
             },
             {
@@ -2628,6 +2632,10 @@
             },
             {
               "name": "Kuudere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Parody",
               "isMediaSpoiler": false
             }
           ],
@@ -2885,7 +2893,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kahramanın grubundaki S seviye bir büyücü olan Luck, arkadaşlarını kurtarmak için Şeytan Kral'a karşı son bir duruş sergiliyor. Nihayet zaferle geri döndüğünde üzerinden on yıl geçmiştir ve dünya onu savaşta ölen efsanevi bir kahraman olarak övmektedir. Önceki hayatına geri dönemeyen Luck, kimliğini gizler ve onsuz devam eden bir dünyada geleceğini şekillendiren F sınıfı bir maceracı olan \"Lock\" olarak yeniden başlar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita, 3 Temmuz 2026'dan itibaren Prime Video'daki TV yayınından 3 gün önce yayınlanıyor. Düzenli yayın 6 Temmuz 2026'da başladı."
+          "descriptionTr": "Kahramanın grubundaki S seviye büyücü Luck, arkadaşlarını kurtarmak için Şeytan Kral'a karşı son bir direniş gösterir. Nihayet zaferle geri döndüğünde üzerinden on yıl geçmiştir ve dünya onu savaşta ölen efsanevi bir kahraman olarak övmektedir. Önceki hayatına geri dönemeyen Luck, kimliğini gizler ve onsuz devam eden bir dünyada geleceğini şekillendiren F sınıfı bir maceracı olan \"Lock\" olarak yeniden başlar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita, 3 Temmuz 2026'dan itibaren Prime Video'daki TV yayınından 3 gün önce yayınlanıyor. Düzenli yayın 6 Temmuz 2026'da başladı."
         },
         {
           "id": 197715,
@@ -3236,7 +3244,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Tokyo'da bir Nisan gecesi, havai fişek patlatmak için henüz çok erken olan üniversite öğrencisi Kakeru Sorano, Koharu Fuyutsuki adında bir kadınla tanışır. O, kalabalığın arasından sıyrılan, çok gülen ve Kakeru'nun kendi içe dönüklüğüyle keskin bir tezat oluşturan bir sıcaklık yayan güzel bir kız. Ancak Kakeru'nun ilk başta bilmediği bir şey vardı; göremiyordu.<br><br>Kakeru'nun aksine Koharu, körlüğüne rağmen hiçbir şeyden vazgeçmedi. Her gün üniversiteye gidiyor, kulüplere ilgi gösteriyor, arkadaşlar ediniyor ve bir gün havai fişek fırlatmanın hayalini kuruyor. Kakeru onları göremeyince nedenini merak ediyor... ama belki de bunun bir önemi yoktur. Ve belki her zaman yanında olan kız için de ilerlemeye başlayabilir.<br><br>(Kaynak: Yen Press)"
+          "descriptionTr": "Tokyo'da bir Nisan gecesi, havai fişek gösterisi için henüz çok erken olan üniversite öğrencisi Kakeru Sorano, Koharu Fuyutsuki adında bir kadınla tanışır. O, kalabalığın arasından sıyrılan, çok gülen ve Kakeru'nun kendi içe dönüklüğüyle keskin bir tezat oluşturan bir sıcaklık yayan güzel bir kız. Ancak Kakeru'nun ilk başta bilmediği bir şey vardı; göremiyordu.<br><br>Kakeru'nun aksine Koharu, körlüğüne rağmen hiçbir şeyden vazgeçmedi. Her gün üniversiteye gidiyor, kulüplere ilgi gösteriyor, arkadaşlar ediniyor ve bir gün havai fişek fırlatmanın hayalini kuruyor. Kakeru onları göremeyince nedenini merak ediyor... ama belki de bunun bir önemi yoktur. Ve belki her zaman yanında olan kız için de ilerlemeye başlayabilir.<br><br>(Kaynak: Yen Press)"
         },
         {
           "id": 209983,
@@ -3417,7 +3425,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Çocukluğunda her zaman arkadaş olacağına dair söz verdikten yedi yıl sonra Hayato, eski erkeksi arkadaşı Haruki ile bir şehir lisesinde yeniden bir araya gelir - ancak şimdi Haruki her erkeğin hayalini kurduğu kıza dönüşmüştür! Haruki'nin görünüşü değişmiş olsa da Hayato hâlâ hatırladığı arkadaşıdır. Yıllar geçmesine rağmen verdikleri sözler ve hisler devam ediyor ve daha güçlü bir şeye doğru derinleşiyor.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Çocukluğunda her zaman arkadaş olacağına dair söz verdikten yedi yıl sonra Hayato, eski erkeksi arkadaşı Haruki ile şehirdeki bir lisede yeniden bir araya gelir - ancak şimdi Haruki her erkeğin hayalini kurduğu kıza dönüşmüştür! Haruki'nin görünüşü değişmiş olsa da Hayato hâlâ hatırladığı arkadaşıdır. Yıllar geçmesine rağmen verdikleri sözler ve hisler devam ediyor ve daha güçlü bir şeye doğru derinleşiyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 188139,
@@ -3442,8 +3450,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188139-bxOal1Q2Ehlr.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785077160,
-            "episode": 3
+            "airingAt": 1785681960,
+            "episode": 4
           },
           "isAdult": false,
           "genres": [
@@ -3464,15 +3472,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Royal Affairs",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Ancient China",
               "isMediaSpoiler": false
             },
             {
               "name": "Historical",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Royal Affairs",
               "isMediaSpoiler": false
             },
             {
@@ -3672,8 +3680,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177637-2Ok4Pq0SpvHp.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785079800,
-            "episode": 4
+            "airingAt": 1785684600,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -3734,15 +3742,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Bisexual",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Witch",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Royal Affairs",
               "isMediaSpoiler": false
             },
             {
@@ -3750,7 +3754,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Royal Affairs",
+              "name": "Bisexual",
               "isMediaSpoiler": false
             },
             {
@@ -3902,7 +3906,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Mitsuki Aya'nın seçkin Kuromi Kız Akademisi'nde tek bir hedefi vardır: okulun kusursuz \"Beyaz Zambak\"ı Yorue Mio gibi zarif bir genç bayan olmak. Ancak Aya yanlışlıkla onu dövüş oyunları oynarken yakalayınca Mio'ya dair imajı paramparça olur? Zarif Mio'nun aslında sıkı bir oyuncu olduğu ve Aya ile düello yapmak istediği ortaya çıktı! Savaş (ve onların dostluğu) başlar.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Mitsuki Aya'nın seçkin Kuromi Kız Akademisi'nde tek bir hedefi vardır: okulun kusursuz \"Beyaz Zambak\"ı Yorue Mio gibi zarif bir genç bayan olmak. Ama Aya yanlışlıkla onu dövüş oyunları oynarken yakalayınca Mio'ya dair imajı paramparça oluyor? Zarif Mio'nun aslında sıkı bir oyuncu olduğu ve Aya ile düello yapmak istediği ortaya çıktı! Savaş (ve onların dostluğu) başlar.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 182616,
@@ -4062,15 +4066,15 @@
           ],
           "tags": [
             {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Isekai",
               "isMediaSpoiler": false
             },
             {
               "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
               "isMediaSpoiler": false
             },
             {
@@ -4248,7 +4252,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "14. yüzyıl Japonya'sında gezici bir tiyatro grubunda oyunculuk ve dansla dolu bir hayata doğan 12 yaşındaki Oniyasha'nın tek bir sorunu var; bunların hiçbirinin amacını bilmiyor. \"Neden buraya sağ ayak yerine sol ayakla basmak zorundayım? Neden bir performans iyi, diğeri kötü? Neden insanlar dans ediyor?\" Her şey tamamen keyfi görünüyor, ta ki köhne bir barakada tesadüfen karşılaşması, onu sanat biçiminde devrim yapma ve gelecek Japon kültürünün çoğunu etkileme yoluna sokana kadar. Dünyanın hayatta kalan en eski tiyatro sanatı olan modern Noh tiyatrosunun kurucusu Zeami Motokiyo'nun (Oniyasha) erken yaşamının kurgusal bir anlatımı olan bu reşit olmuş sanatçının yolculuğu, Japonya'nın kültürel ve sosyal açıdan en canlı dönemlerinden birinde, zamanının çok ilerisinde bir adamı canlı bir şekilde hayata geçiriyor.<br><br>(Kaynak: Kodansha Comics)<br><br>Not: Dünya Dans Ediyor, 29 Haziran 2026'dan itibaren Prime Video ve HIDIVE'daki TV yayınından 3 gün önce yayınlanıyor. Düzenli yayın 2 Temmuz 2026'da başladı."
+          "descriptionTr": "14. yüzyıl Japonya'sında gezici bir tiyatro grubunda oyunculuk ve dansla dolu bir hayata doğan 12 yaşındaki Oniyasha'nın tek bir sorunu var; bunların hiçbirinin amacını bilmiyor. \"Neden buraya sağ ayak yerine sol ayakla basmak zorundayım? Neden bir performans iyi, diğeri ise kötü? Neden insanlar dans ediyor?\" Her şey tamamen keyfi görünüyor, ta ki köhne bir barakada tesadüfen karşılaşması, onu sanat biçiminde devrim yapma ve gelecek Japon kültürünün çoğunu etkileme yoluna sokana kadar. Dünyanın hayatta kalan en eski tiyatro sanatı olan modern Noh tiyatrosunun kurucusu Zeami Motokiyo'nun (Oniyasha) erken yaşamının kurgusal bir anlatımı olan bu reşit olmuş sanatçının yolculuğu, Japonya'nın kültürel ve sosyal açıdan en canlı dönemlerinden birinde, zamanının çok ilerisinde bir adamı canlı bir şekilde hayata geçiriyor.<br><br>(Kaynak: Kodansha Comics)<br><br>Not: Dünya Dans Ediyor, 29 Haziran 2026'dan itibaren Prime Video ve HIDIVE'daki TV yayınından 3 gün önce yayınlanıyor. Düzenli yayın 2 Temmuz 2026'da başladı."
         },
         {
           "id": 186863,
@@ -4588,7 +4592,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "“Dünyanın en harika hizmetçisi olacağım!” <br><br>Eteği siyah beyaz dalgalanan kız bağırdı. Adı Melodi. Reenkarnasyona uğramış eski bir Japon kızı, şimdi yeni hayatında hayalinin peşinden gidiyor ve Théolas krallığında fakir bir kontun ailesi için çok amaçlı bir hizmetçi olarak çalışıyor. Bunu yaptığında, ucuz çay bile lüks bir demlemeye dönüşüyor ve harap bir malikane hızla yenileniyor! Temizlik, servis, avcılık, Kendin Yap; hepsini ona ve onun güçlü büyüsüne bırakın. Melody'nin bilmediği, bu dünyanın aslında bir otome oyunu olduğu ve o, en güçlü ve yenilmez kadın kahraman olan aziz olduğu! Ancak yine de bu gerçeğin farkında değil. Yakışıklı erkeklerle aşk mı? İblis Lordu'nun saldırıları mı? İş önce gelir! Farkında olmadan kaderi paramparça eden, yanlış anlaşılan bir çalışma fantezisi!<br><br>(Kaynak: Seven Seas Entertainment)<br><br>Not: Kahraman mı? Seijo mu? Yani, Tüm İşler Hizmetçisi desu (Ko)! 24 Haziran 2026'dan itibaren dAnimeStore ve ABEMA'daki TV yayınından bir hafta önce yayınlanıyor. Düzenli yayın 1 Temmuz 2026'da başladı."
+          "descriptionTr": "“Dünyanın en harika hizmetçisi olacağım!” <br><br>Eteği siyah beyaz dalgalanan kız bağırdı. Adı Melodi. Reenkarnasyona uğramış eski bir Japon kızı, şimdi yeni hayatında hayalinin peşinden gidiyor ve Théolas krallığında fakir bir kontun ailesi için çok amaçlı bir hizmetçi olarak çalışıyor. Bunu yaptığında, ucuz çay bile lüks bir demlemeye dönüşüyor ve harap bir malikane hızla yenileniyor! Temizlik, servis, avcılık, Kendin Yap; hepsini ona ve onun güçlü büyüsüne bırakın. Melody'nin bilmediği, bu dünyanın aslında bir otome oyunu olduğu ve o, en güçlü ve yenilmez kadın kahraman olan aziz olduğu! Ancak yine de bu gerçeğin farkında değil. Yakışıklı erkeklerle romantizm mi? İblis Lordu'nun saldırıları mı? İş önce gelir! Farkında olmadan kaderi paramparça eden, yanlış anlaşılan bir çalışma fantezisi!<br><br>(Kaynak: Seven Seas Entertainment)<br><br>Not: Kahraman mı? Seijo mu? Yani, Tüm İşler Hizmetçisi desu (Ko)! 24 Haziran 2026'dan itibaren dAnimeStore ve ABEMA'daki TV yayınından bir hafta önce yayınlanıyor. Düzenli yayın 1 Temmuz 2026'da başladı."
         },
         {
           "id": 199066,
@@ -4984,7 +4988,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Japon tarzı bir ayakaşi Cinderella hikayesi! \"Bunca zamandır aradığım gelin sensin.\" Ayakaşiler ve insanlar uyum içinde bir arada yaşarlar. Üstün yeteneklere ve güzel görünüme sahip olan ayakaşiler, bazen insan kadınları arasında kendilerine eş bularak onları \"gelinleri\" haline getirirler. Gelin, refah getirmesi karşılığında ayakaşiden mutlak sevgi alır. Yuzu sürekli olarak şeytan tilkinin gelini olan kız kardeşiyle karşılaştırılıyor ve ailesi tarafından her gün kızıyor. Bir gün Yuzu artık dayanamadığı bir anda köprüde karşısına bir adam çıkar. Bu adam Yuzu'nun şimdiye kadar gördüğü en güzel adam... ve ona karısı mı diyor?! \"Sessiz ol ve sana sarılmama izin ver.\" En güçlü, \"soğuk kalpli\" ayakaşi, Yuzu için kalbini mi döküyor?!<br><br>(Kaynak: MangaPlaza)"
+          "descriptionTr": "Japon tarzı bir ayakaşi Cinderella hikayesi! \"Bunca zamandır aradığım gelin sensin.\" Ayakaşiler ve insanlar uyum içinde bir arada yaşarlar. Üstün yeteneklere ve güzel görünüme sahip olan ayakaşiler, bazen insan kadınları arasında kendilerine eş bularak onları \"gelinleri\" haline getirirler. Gelin, refah getirmesi karşılığında ayakaşiden mutlak sevgi alır. Yuzu sürekli olarak şeytan tilkinin gelini olan kız kardeşiyle karşılaştırılıyor ve ailesi tarafından her gün kızıyor. Bir gün Yuzu artık hiçbir şeye dayanamadığında, köprüde karşısına bir adam çıkar. Bu adam Yuzu'nun gördüğü en güzel adam... ve ona karısı mı diyor?! \"Sessiz ol ve sana sarılmama izin ver.\" En güçlü, \"soğuk kalpli\" ayakashi, Yuzu için kalbini mi döküyor?!<br><br>(Kaynak: MangaPlaza)"
         },
         {
           "id": 207674,
@@ -5306,7 +5310,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Otuzlu yaşlarında bir bakıcı olan Rin Takanashi, bir aziz olarak çağrılmasına rağmen usulsüz bir şekilde \"çöp\" olarak atıldı.<br><br>Bununla birlikte, doğayı ve kampla ilgili her şeyi seven biri olarak, özel bir beceri olan \"Hayatta Kalma\"nın yanı sıra başka bir benzersiz beceriyle de kutsanmıştı! Böylece sürükleyici bir hikaye başlıyor: Rin, yol boyunca edindiği arkadaşlarıyla birlikte bu paralel dünyayı rahatça keşfederken ve gurme mutfağının tadını doyasıya çıkarırken, ter, gözyaşı ve doyumsuz açlıkla dolu bir hikaye...<br><br>Ya da hikayenin öyle gitmesi gerekirdi ama görünen o ki yolları beklenmedik bir yöne gidiyor...?"
+          "descriptionTr": "Otuzlu yaşlarında bir bakıcı olan Rin Takanashi, bir aziz olarak çağrılmasına rağmen usulsüz bir şekilde \"çöp\" olarak atıldı.<br><br>Bununla birlikte, doğayı ve kampla ilgili her şeyi seven biri olarak, özel bir beceri olan \"Hayatta Kalma\"nın yanı sıra başka bir benzersiz beceriyle de kutsanmıştı! Böylece sürükleyici bir hikaye başlıyor: Rin, yol boyunca edindiği arkadaşlarıyla birlikte bu paralel dünyayı yavaşça keşfederken ve gurme mutfağının tadını doyasıya çıkarırken, ter, gözyaşı ve doyumsuz açlıkla dolu bir hikaye...<br><br>Ya da hikayenin öyle gitmesi gerekirdi ama görünen o ki yolları beklenmedik bir yöne gidiyor...?"
         },
         {
           "id": 211308,
@@ -5590,7 +5594,7 @@
               }
             ]
           },
-          "description": "<p>Clouds blacken the sky and sheets of rain turn the mountain forest into a treacherous maze... A landslide crushes a razor wire fence, and buries a &quot;NO TRESPASSING&quot; sign... Two young siblings wander into a dark world where they do not belong, and a long, horrid shadow rears up to meet them- Anyway, so that's how we met Dara-san! She might look kinda scary, but just wait until you get to know her!<br><br></p>\n<p>&quot;Look, I'm a god of misfortune, okay!? Aren't you kids gonna freak out about my grotesque visage!?&quot;<br><br></p>\n<p>(Source: Yen Press)</p>",
+          "description": "<p>After venturing into a restricted, treacherous mountain forest, siblings Hinata and Kaoru meet a terrifying serpent god and become besties! Despite her initially scary appearance, the self-named “god of misfortune” is awkward, lonely, and surprisingly easy to talk to. This is the tale of an unexpected friendship, and the many comedic, heartfelt adventures that ensue.<br><br></p>\n<p>(Source: Crunchyroll)</p>",
           "externalLinks": [
             {
               "site": "Official Site",
@@ -5606,7 +5610,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bulutlar gökyüzünü karartıyor ve yağmur tabakaları dağ ormanını hain bir labirent haline getiriyor... Heyelan dikenli telleri ezer ve \"GİRİLMEZ\" tabelasını gömer... İki genç kardeş ait olmadıkları karanlık bir dünyaya doğru yola çıkarlar ve uzun, korkunç bir gölge onları karşılamak için yükselir... Neyse, işte Dara-san'la böyle tanıştık! Biraz korkutucu görünebilir ama onu tanıyana kadar bekleyin!<br><br>\"Bakın, ben bir talihsizlik tanrısıyım, tamam mı!? Siz çocuklar benim tuhaf yüzüm yüzünden çıldırmayacak mısınız!?\"<br><br>(Kaynak: Yen Press)"
+          "descriptionTr": "Kısıtlı ve tehlikeli bir dağ ormanına girme cesaretini gösteren Hinata ve Kaoru kardeşler, korkunç bir yılan tanrıyla tanışır ve kanka olurlar! Başlangıçta korkutucu görünümüne rağmen, kendi adını taşıyan \"talihsizlik tanrısı\" garip, yalnız ve şaşırtıcı derecede konuşması kolay bir insandır. Bu, beklenmedik bir dostluğun ve ardından gelen birçok komik, samimi maceranın hikayesidir.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 208225,
@@ -5699,7 +5703,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Düşmüş bir aristokratın kızı Elsa, bir haber alır. Bu, çok seçkin bir soylu olan Julius'un evlenme teklifiydi. Elsa \"Bu kadar seçkin bir adam neden benimle evlensin?\" diye merak ediyor. Ancak düğünden sonra o ana kadar nazik ve nazik olan Julius tamamen değişti! Soğuk bir sesle ona \"Seni sevmeye hiç niyetim yok\" diyor.<br><br>(Kaynak: MangaPlaza)"
+          "descriptionTr": "Düşmüş bir aristokratın kızı Elsa, bir haber alır. Bu, çok seçkin bir soylu olan Julius'un evlenme teklifiydi. Elsa \"Bu kadar seçkin bir adam neden benimle evlensin?\" diye merak ediyor. Ancak düğünden sonra o ana kadar nazik ve nazik olan Julius tamamen değişti! Soğuk bir sesle \"Seni sevmeye hiç niyetim yok\" diyor.<br><br>(Kaynak: MangaPlaza)"
         },
         {
           "id": 196356,
@@ -5807,7 +5811,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine ikna oldu: Kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir yaşam. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve samimi bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
+          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine ikna oldu: kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir hayat. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve içten bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
         },
         {
           "id": 207809,
