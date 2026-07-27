@@ -1391,10 +1391,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Mixed Media",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Heterosexual",
               "isMediaSpoiler": false
             },
@@ -1403,7 +1399,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Tragedy",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Mixed Media",
               "isMediaSpoiler": false
             },
             {
@@ -1415,10 +1419,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Arranged Marriage",
               "isMediaSpoiler": false
             },
@@ -1427,11 +1427,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Adult Cast",
+              "name": "War",
               "isMediaSpoiler": false
             },
             {
-              "name": "War",
+              "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
@@ -1796,8 +1796,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185542-v15vqOvUWSF5.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785157200,
-            "episode": 4
+            "airingAt": 1785762000,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -2412,10 +2412,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Educational",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Revenge",
               "isMediaSpoiler": true
             },
@@ -2437,6 +2433,10 @@
             },
             {
               "name": "Slavery",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Educational",
               "isMediaSpoiler": false
             },
             {
@@ -2492,7 +2492,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Desert",
+              "name": "Language Barrier",
               "isMediaSpoiler": false
             },
             {
@@ -2500,11 +2500,11 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Terrorism",
+              "name": "Desert",
               "isMediaSpoiler": false
             },
             {
-              "name": "Language Barrier",
+              "name": "Terrorism",
               "isMediaSpoiler": false
             },
             {
@@ -2615,6 +2615,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Parody",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Incest",
               "isMediaSpoiler": false
             },
@@ -2632,10 +2636,6 @@
             },
             {
               "name": "Kuudere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Parody",
               "isMediaSpoiler": false
             }
           ],
@@ -3174,8 +3174,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202269-u0PTTsiKwrVL.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785153600,
-            "episode": 4
+            "airingAt": 1785758400,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -3500,7 +3500,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 73,
+          "averageScore": 74,
           "studios": {
             "nodes": [
               {
@@ -3596,11 +3596,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Rural",
+              "name": "Agriculture",
               "isMediaSpoiler": false
             },
             {
-              "name": "Agriculture",
+              "name": "Rural",
               "isMediaSpoiler": false
             },
             {
@@ -3706,10 +3706,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Time Skip",
               "isMediaSpoiler": false
             },
@@ -3719,6 +3715,10 @@
             },
             {
               "name": "Curses",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Reincarnation",
               "isMediaSpoiler": false
             },
             {
@@ -3758,15 +3758,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Reverse Isekai",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
               "isMediaSpoiler": false
             },
             {
@@ -3843,6 +3835,10 @@
             },
             {
               "name": "E-Sports",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
@@ -4082,7 +4078,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 58,
+          "averageScore": 57,
           "studios": {
             "nodes": [
               {
@@ -4139,8 +4135,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206521-zCIAGsiIkh6G.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785157200,
-            "episode": 5
+            "airingAt": 1785762000,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -4424,8 +4420,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1785153420,
-            "episode": 4
+            "airingAt": 1785758220,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -4457,7 +4453,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 61,
+          "averageScore": 60,
           "studios": {
             "nodes": [
               {
@@ -4726,8 +4722,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199408-ouNGkjrw0ohT.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785159000,
-            "episode": 4
+            "airingAt": 1785763800,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -5226,8 +5222,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1785160800,
-            "episode": 4
+            "airingAt": 1785765600,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -5779,7 +5775,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 63,
+          "averageScore": 64,
           "studios": {
             "nodes": [
               {
