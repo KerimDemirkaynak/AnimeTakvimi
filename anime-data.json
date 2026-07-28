@@ -320,7 +320,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Sasaki, sigaralar ve en sevdiği süpermarketin katibi Yamada'nın neşeli hizmeti ve gülümsemesiyle ayakta kalan, kurumsal hayatın içinde sürüklenen çok çalışan bir maaşlı adamdır. Ancak meşakkatli bir vardiyanın ardından bir gece geç gelir ve Yamada'yı görünürde bulamaz. Sigara içebilecek bir yer kalmadığından morali bozuldu, ta ki piercingli genç bir kadın ona \"Burada sigara içebilirsin\" diye seslenene kadar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: 1-6. Bölümler, 10 Temmuz 2026'da başlayan TV yayınından önce, 6 bölümü 12'ye bölen mini bölüm toplu formatında ABEMA ve Crunchyroll tarafından 3 Haziran 2026'da erken yayınlandı."
+          "descriptionTr": "Sasaki, sigaralar ve en sevdiği süpermarketin katibi Yamada'nın neşeli hizmeti ve gülümsemesiyle ayakta kalan, kurumsal hayatın içinde sürüklenen çok çalışan bir maaşlı adamdır. Ancak meşakkatli bir vardiyanın ardından bir gece geç gelir ve Yamada'yı görünürde bulamaz. Sigara içebilecek bir yer kalmadığından morali bozuldu, ta ki piercingli genç bir kadın ona seslenene kadar: \"Burada sigara içebilirsin.\"<br><br>(Kaynak: Crunchyroll)<br><br>Not: 1-6. Bölümler, 10 Temmuz 2026'da başlayan TV yayınından önce, 6 bölümü 12'ye bölen mini bölüm toplu formatında ABEMA ve Crunchyroll tarafından 3 Haziran 2026'da erken yayınlandı."
         },
         {
           "id": 135865,
@@ -587,7 +587,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "BLEACH'in dördüncü ve son bölümü: Sennen Kessen-hen. <br><br>Soul Reaper'lar ve Quincy'ler arasındaki Bin Yıllık Kan Savaşı'nın sonunda yıkım ufukta beliriyor... Soul King'in ölümü Üç Dünyanın çöküşünü yansıtırken, çarpıtmalar ve yıkım alametleri tüm diyarlarda görünmeye başlıyor.<br><br>Wahr Welt'te On Üç Saray Muhafız Birliği ile Kraliyet Muhafızları arasında şiddetli çatışmalar yaşanıyor. Ichigo, Uryuu'nun gerçek niyetini öğrenir ve birbirlerine güvenen arkadaşlar olarak dünyayı birlikte koruma kararlılığını tazeler. Yhwach kendi yeteneğini bile aştı, Yüce...<br><br>Üç Dünya'nın hayatta kalması için verilen şiddetli savaş sona yaklaşıyor. Felaket kaosunun ötesinde, bizi bekleyen ne var; umutsuzluk mu yoksa umut mu?<br><br>(Kaynak: VIZ Media, düzenlendi)"
+          "descriptionTr": "BLEACH'in dördüncü ve son bölümü: Sennen Kessen-hen. <br><br>Soul Reaper'lar ve Quincy'ler arasındaki Bin Yıllık Kan Savaşı'nın sonunda yıkım ufukta beliriyor... Soul King'in ölümü Üç Dünyanın çöküşünü yansıtırken, çarpıklıklar ve yıkım alametleri tüm diyarlarda görünmeye başlıyor.<br><br>Wahr Welt'te On Üç Saray Muhafız Birliği ile Kraliyet Muhafızları arasında şiddetli çatışmalar yaşanıyor. Ichigo, Uryuu'nun gerçek niyetini öğrenir ve birbirlerine güvenen arkadaşlar olarak dünyayı birlikte koruma kararlılığını tazeler. Yhwach kendi yeteneğini bile aştı, Yüce...<br><br>Üç Dünya'nın hayatta kalması için verilen şiddetli savaş sona yaklaşıyor. Felaket kaosunun ötesinde, bizi bekleyen ne var; umutsuzluk mu yoksa umut mu?<br><br>(Kaynak: VIZ Media, düzenlendi)"
         },
         {
           "id": 207141,
@@ -699,6 +699,14 @@
             {
               "name": "Heterosexual",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Cute Girls Doing Cute Things",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Mahjong",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 67,
@@ -745,7 +753,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yani ciddi anlamda kötü sigara içme alışkanlığı olan bir kedi kızdır. O kadar çok sigara içiyor ki, dairesi kül kokuyor ve sigara izmaritleri ve daha bir sürü çöple dolu! Ne zaman bırakmayı denese, isteklere karşı zayıflıyor ve neredeyse anında pes ediyor. Hayatını düzene koyabilecek mi, yoksa sonsuza kadar sigara içen bir serseri olarak mı yaşamaya mahkumdur?<br><br>(Kaynak: Seven Seas Entertainment)"
+          "descriptionTr": "Yani ciddi anlamda kötü sigara içme alışkanlığı olan bir kedi kızdır. O kadar çok sigara içiyor ki, dairesi kül kokuyor ve sigara izmaritleriyle ve daha birçok çöple dolu! Ne zaman bırakmayı denese, isteklere karşı zayıflıyor ve neredeyse anında pes ediyor. Hayatını düzene koyabilecek mi, yoksa sonsuza kadar sigara içen bir serseri olarak mı yaşamaya mahkumdur?<br><br>(Kaynak: Seven Seas Entertainment)"
         },
         {
           "id": 187538,
@@ -801,6 +809,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Demons",
               "isMediaSpoiler": false
             },
@@ -818,10 +830,6 @@
             },
             {
               "name": "Espionage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
               "isMediaSpoiler": false
             }
           ],
@@ -1238,8 +1246,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187260-HMkLPy3ZvzW1.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785241800,
-            "episode": 4
+            "airingAt": 1785846600,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -1337,7 +1345,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Sheena'nın yaşadığı gizemli yetimhanede ölüm, buranın sakinleri için yeni bir şey değil; artık kendi aileleri olmayan, savaş silahı olarak yetiştirilen, gözlerini bile kırpmadan öldürmeyi ve başkalarının canını almayı öğreten kızlara. Etrafında büyüyen çatışmanın sona ermesinden başka bir şey istemeyen Sheena dışında herkes. Oda arkadaşının öldüğü gece Sheena, etrafını saran kargaşaya rağmen gülümseyen, kanlar içinde tuhaf bir kızla tanışır. Ertesi gün kız, Sheena'nın sınıfına yeni bir öğrenci olarak görünür ve kendisini Mimi olarak tanıtır. Başlangıçta bir okul efsanesi olduğu düşünülen bu yetimhanenin koridorlarında, artık Mimi'nin onların gizli silahı, ölmeyen bir ölümsüz olduğu fısıltıları dolaşıyor. Daha sonra Mimi, Sheena'nın yeni oda arkadaşı olarak atandığında, Sheena'nın dünyası, ölümü seven ve memnuniyetle karşılayan biriyle yaşamaya başladığında, Sheena'nın tek istediği bunu durdurmak olduğunda daha da karmaşık hale gelir…<br><br>(Kaynak: Kodansha ABD)"
+          "descriptionTr": "Sheena'nın yaşadığı gizemli yetimhanede ölüm, buranın sakinleri için yeni bir şey değil; artık kendi aileleri olmayan, savaş silahı olarak yetiştirilen, gözlerini bile kırpmadan öldürmeyi ve başkalarının canını almayı öğreten kızlara. Etrafında büyüyen çatışmanın sona ermesinden başka bir şey istemeyen Sheena dışında herkes. Oda arkadaşının öldüğü gece Sheena, etrafını saran kargaşaya rağmen gülümseyen, kanlar içinde tuhaf bir kızla tanışır. Ertesi gün kız, Sheena'nın sınıfına yeni bir öğrenci olarak görünür ve kendisini Mimi olarak tanıtır. Başlangıçta bir okul efsanesi olduğu düşünülse de, artık yetimhanenin koridorlarında Mimi'nin onların gizli silahı, ölmeyen bir ölümsüz olduğu fısıltıları dolaşıyor. Daha sonra Mimi, Sheena'nın yeni oda arkadaşı olarak atandığında, Sheena'nın dünyası, ölümü seven ve memnuniyetle karşılayan biriyle yaşamaya başladığında, Sheena'nın tek istediği bunu durdurmak olduğunda daha da karmaşık hale gelir…<br><br>(Kaynak: Kodansha ABD)"
         },
         {
           "id": 103303,
@@ -1609,8 +1617,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177699-5kDbvDBhtSE3.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785247200,
-            "episode": 4
+            "airingAt": 1785852000,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -1736,7 +1744,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yıl 2029. Yakın gelecekte Japonya'da, gezegeni kapsayan geniş bir şirket ağıyla, içinden elektronlar ve ışık nabız gibi atarak dünyanın son derece bilgi yoğunluklu hale geldiği yer. Ancak ulus devlet ve etnik gruplar hâlâ varlığını sürdürüyor.  <br><br> Tam vücutlu bir cyborg olan Motoko Kusanagi, Batou'nun da aralarında bulunduğu seçkin bir savaş birimine liderlik ediyor. Kusanagi, ekibine komuta ederken, ortaya çıkan tehditlere karşı önleyici saldırı yapacak özel bir görev gücü oluşturulmasını öngörüyor. Bu arada benzer bir birim kurmayı planlayan İçişleri Bakanlığı'ndan Daisuke Aramaki, Kusanagi ve ekibini işe aldı. Birlikte, \"Kabuk Takımı\" olarak bilinen saldırı taktiksel birimi olan Kamu Güvenliği Bölüm 9 olarak operasyonlara başlarlar. Karmaşık siber suçlar ve uluslararası komplolarla karşı karşıya kalırken, araştırmalarının ufkunda \"Kukla Ustası\" olarak bilinen gizemli, kimliği belirsiz bir hackerın varlığı ortaya çıkıyor. <br><br> Kusanagi'yi nasıl bir kader bekliyor? Peki Puppet Master'ın gerçek amacı nedir? Siberpunk aksiyonunda yeni bir dönem başlıyor.  <br><br>(Kaynak: 攻殻機動隊 THE GHOST IN THE SHELL Sitesi)"
+          "descriptionTr": "Yıl 2029. Yakın gelecekte Japonya'da, gezegeni kapsayan geniş bir şirket ağıyla, içinden elektronlar ve ışık saçılarak dünyanın son derece bilgi yoğunluklu hale geldiği yer. Ancak ulus devlet ve etnik gruplar hâlâ varlığını sürdürüyor.  <br><br> Tam vücutlu bir cyborg olan Motoko Kusanagi, Batou'nun da aralarında bulunduğu seçkin bir savaş birimine liderlik ediyor. Kusanagi, ekibine komuta ederken, ortaya çıkan tehditlere karşı önleyici saldırı yapacak özel bir görev gücü oluşturulmasını öngörüyor. Bu arada benzer bir birim kurmayı planlayan İçişleri Bakanlığı'ndan Daisuke Aramaki, Kusanagi ve ekibini işe aldı. Birlikte, \"Kabuk Takımı\" olarak bilinen saldırı taktiksel birimi olan Kamu Güvenliği Bölüm 9 olarak operasyonlara başlarlar. Karmaşık siber suçlar ve uluslararası komplolarla karşı karşıya kalırken, araştırmalarının ufkunda \"Kukla Ustası\" olarak bilinen gizemli, kimliği belirsiz bir hackerın varlığı ortaya çıkıyor. <br><br> Kusanagi'yi nasıl bir kader bekliyor? Peki Puppet Master'ın gerçek amacı nedir? Siberpunk aksiyonunda yeni bir dönem başlıyor.  <br><br>(Kaynak: 攻殻機動隊 THE GHOST IN THE SHELL Sitesi)"
         },
         {
           "id": 185542,
@@ -1967,7 +1975,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Büyük bilge Ephtal, büyünün zirvesine ulaşamayınca çaresizlik içinde ölür; ancak 400 yıl sonra, tüm anıları ve gücü bozulmadan yeniden doğar! Büyünün çürüdüğü ve eski büyülere mucize muamelesi yapıldığı bir dünyada Ephtal, gerçek büyücülük sanatını geri almak için prestijli bir büyü akademisine hücum eder. Onun gücü dünyayı sarsarken, uzun zamandır unutulmuş efsaneler de uyanmaya başlıyor!<br><br>(Kaynak: Crunchyroll)<br><br>Not: Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku, 26 Haziran 2026'dan itibaren dAnimeStore, ABEMA, U-NEXT ve Anime Hodai'deki TV yayınından bir hafta önce yayınlanıyor. Düzenli yayın 2 Temmuz 2026'da başladı."
+          "descriptionTr": "Büyük bilge Ephtal, büyünün zirvesine ulaşamayınca umutsuzluk içinde ölür; ancak 400 yıl sonra, tüm anıları ve gücü bozulmadan yeniden doğar! Büyünün çürüdüğü ve eski büyülere mucize muamelesi yapıldığı bir dünyada Ephtal, gerçek büyücülük sanatını geri almak için prestijli bir büyü akademisine hücum eder. Onun gücü dünyayı sarsarken, uzun zamandır unutulmuş efsaneler de uyanmaya başlıyor!<br><br>(Kaynak: Crunchyroll)<br><br>Not: Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku, 26 Haziran 2026'dan itibaren dAnimeStore, ABEMA, U-NEXT ve Anime Hodai'deki TV yayınından bir hafta önce yayınlanıyor. Düzenli yayın 2 Temmuz 2026'da başladı."
         },
         {
           "id": 198946,
@@ -2294,6 +2302,10 @@
             {
               "name": "Yuri",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 82,
@@ -2492,7 +2504,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Annesini ve vatanını kaybeden Sitara'nın çaresizliği, bilginin gücüyle kararlılığa dönüşür. Akademisyenlerden oluşan bir aile onu yanına alıp eğitimini derinleştirdiğinde yeni olasılıklar ortaya çıkar. Bu arada Cengiz Han'ın Moğol İmparatorluğu, Sitara'nın yeni evine yaklaşarak ulusları fethediyor. İmparatorluğun Dördüncü Prensi onu esir aldıktan sonra intikam ateşi alevlenir.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Annesini ve vatanını kaybeden Sitara'nın çaresizliği, bilginin gücüyle kararlılığa dönüşür. Akademisyenlerden oluşan bir aile onu yanına alıp eğitimini derinleştirdiğinde yeni olasılıklar ortaya çıkar. Bu arada Cengiz Han'ın Moğol İmparatorluğu, Sitara'nın yeni evine yaklaşarak ulusları fethediyor. İmparatorluğun Dördüncü Prensi onu esir alınca intikam ateşi alevlenir.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 200637,
@@ -2852,6 +2864,102 @@
           "descriptionTr": "Kahramanın grubundaki S seviye bir büyücü olan Luck, arkadaşlarını kurtarmak için Şeytan Kral'a karşı son bir duruş sergiliyor. Nihayet zaferle geri döndüğünde üzerinden on yıl geçmiştir ve dünya onu savaşta ölen efsanevi bir kahraman olarak övmektedir. Önceki hayatına geri dönemeyen Luck, kimliğini gizler ve onsuz devam eden bir dünyada geleceğini şekillendiren F sınıfı bir maceracı olan \"Lock\" olarak yeniden başlar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita, 3 Temmuz 2026'dan itibaren Prime Video'daki TV yayınından 3 gün önce yayınlanıyor. Düzenli yayın 6 Temmuz 2026'da başladı."
         },
         {
+          "id": 202269,
+          "title": {
+            "romaji": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+            "english": "Love Unseen Beneath the Clear Night Sky",
+            "native": "透明な夜に駆ける君と、目に見えない恋をした。"
+          },
+          "synonyms": [
+            "かけ恋",
+            "Kakekoi",
+            "Un amour invisible",
+            "รักที่มองไม่เห็น ด้วยตา กับเธอในค่ำคืนที่แสนจะเลือนราง"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 6
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202269-7KNj8s2fSsJJ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202269-7KNj8s2fSsJJ.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202269-u0PTTsiKwrVL.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1785758400,
+            "episode": 5
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Disability",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "College",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 77,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Makaria"
+              }
+            ]
+          },
+          "description": "<p>Kakeru Sorano, a quiet university freshman who avoids others, meets Koharu Fuyutsuki, a blind girl who faces the world with quiet brightness. When she says, “I want to see fireworks someday,” something in Kakeru shifts. As they grow closer through small moments and shared loneliness, he searches for a way to make her wish come true.<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/anime_kakekoi/"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://sh-anime.shochiku.co.jp/kakekoi/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378087/love-unseen-beneath-the-clear-night-sky"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2413250"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLTsUhR_H9p7U"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Başkalarından kaçan sessiz bir üniversite birinci sınıf öğrencisi Kakeru Sorano, dünyaya sessiz bir parlaklıkla bakan kör bir kız olan Koharu Fuyutsuki ile tanışır. \"Bir gün havai fişek görmek istiyorum\" dediğinde Kakeru'da bir şeyler değişir. Küçük anlar ve paylaştıkları yalnızlık sayesinde yakınlaştıkça, onun arzusunu gerçekleştirmenin bir yolunu arar.<br><br>(Kaynak: Crunchyroll)"
+        },
+        {
           "id": 197715,
           "title": {
             "romaji": "LV999 no Murabito",
@@ -3072,7 +3180,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 75,
+          "averageScore": 76,
           "studios": {
             "nodes": [
               {
@@ -3105,102 +3213,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Kuroe Akaishi'nin tek istediği normal bir lise hayatıdır; ancak duyguları yükseldiğinde onu dev bir kaiju'ya dönüştüren nadir bir durum nedeniyle bu imkansızdır! Sınıfın en popüler çocuğu Arata Minami'ye aşık olunca işler daha da kötüleşir. Artık her kızarma, kalp atışı ve ezilme bir canavar dönüşümünü tetikleyebilir. Kuroe, etrafındaki her şeyi mahvetmeden lise aşkından sağ çıkabilecek mi?!<br><br>(Kaynak: Crunchyroll)"
-        },
-        {
-          "id": 202269,
-          "title": {
-            "romaji": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
-            "english": "Love Unseen Beneath the Clear Night Sky",
-            "native": "透明な夜に駆ける君と、目に見えない恋をした。"
-          },
-          "synonyms": [
-            "かけ恋",
-            "Kakekoi",
-            "Un amour invisible",
-            "รักที่มองไม่เห็น ด้วยตา กับเธอในค่ำคืนที่แสนจะเลือนราง"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 6
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202269-7KNj8s2fSsJJ.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202269-7KNj8s2fSsJJ.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202269-u0PTTsiKwrVL.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1785758400,
-            "episode": 5
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Disability",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "College",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 77,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Makaria"
-              }
-            ]
-          },
-          "description": "<p>Kakeru Sorano, a quiet university freshman who avoids others, meets Koharu Fuyutsuki, a blind girl who faces the world with quiet brightness. When she says, “I want to see fireworks someday,” something in Kakeru shifts. As they grow closer through small moments and shared loneliness, he searches for a way to make her wish come true.<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/anime_kakekoi/"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://sh-anime.shochiku.co.jp/kakekoi/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378087/love-unseen-beneath-the-clear-night-sky"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2413250"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLTsUhR_H9p7U"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Başkalarından kaçan sessiz bir üniversite birinci sınıf öğrencisi Kakeru Sorano, dünyaya sessiz bir parlaklıkla bakan kör bir kız olan Koharu Fuyutsuki ile tanışır. \"Bir gün havai fişek görmek istiyorum\" dediğinde Kakeru'da bir şeyler değişir. Küçük anlar ve paylaştıkları yalnızlık sayesinde yakınlaştıkça, onun arzusunu gerçekleştirmenin bir yolunu arar.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 209983,
@@ -3456,7 +3468,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 74,
+          "averageScore": 75,
           "studios": {
             "nodes": [
               {
@@ -3496,7 +3508,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Beş Klan'ın bakireleri Veliaht Prens'in kalbi için savaşırken kıskanç Keigetsu, sevgili Reirin'le beden değiştirmek için yasak büyüyü kullanır. Yeni vücudunun kötü sağlık durumu onu ölümün eşiğine getirdiğinden yer değiştirmek Keigetsu'nun mutluluğunu garanti etmez. Bu arada, artık küçümsenmiş bir serseri yüzüne bürünen Reirin, tehlikeli bir duruşmada Keigetsu'nun suçlarına cevap vermek zorundadır.<br><br>Beklenmedik ikili giderek birbirlerinin hayatlarına karışıyor ve sarayın güler yüzlü yüzeyinin altında gelişen karanlık komploları keşfettikten sonra hayatta kalmak için birlikte çalışmaları gerekecek. Gölgelerde gizlenen ölümcül tehditlerle yüzleşmek için Reirin'in yeni kimliğini benimsemesi ve mahkemenin beceriksiz kötülüğüne ilişkin beklentilerine meydan okuması gerekiyor.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Beş Klan'ın bakireleri Veliaht Prens'in kalbi için savaşırken kıskanç Keigetsu, sevgili Reirin'le beden değiştirmek için yasak büyüyü kullanır. Yeni vücudunun kötü sağlık durumu onu ölümün eşiğine getirdiğinden yer değiştirmek Keigetsu'nun mutluluğunu garanti etmez. Bu arada, artık küçümsenmiş bir serseri yüzüne bürünen Reirin, tehlikeli bir duruşmada Keigetsu'nun suçlarının hesabını vermek zorundadır.<br><br>Beklenmedik ikili giderek birbirlerinin hayatlarına karışıyor ve sarayın güler yüzlü yüzeyinin altında gelişen karanlık komploları keşfettikten sonra hayatta kalmak için birlikte çalışmaları gerekecek. Gölgelerde gizlenen ölümcül tehditlerle yüzleşmek için Reirin'in yeni kimliğini benimsemesi ve mahkemenin beceriksiz kötülüğüne ilişkin beklentilerine meydan okuması gerekiyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 196218,
@@ -3769,8 +3781,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/128757-kBnCRYXdyw58.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785238200,
-            "episode": 4
+            "airingAt": 1785843000,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -3858,7 +3870,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Mitsuki Aya'nın seçkin Kuromi Kız Akademisi'nde tek bir hedefi vardır: okulun kusursuz \"Beyaz Zambak\"ı Yorue Mio gibi zarif bir genç bayan olmak. Ancak Aya yanlışlıkla onu dövüş oyunları oynarken yakalayınca Mio'ya dair imajı paramparça olur? Zarif Mio'nun aslında sıkı bir oyuncu olduğu ve Aya ile düello yapmak istediği ortaya çıktı! Savaş (ve onların dostluğu) başlar.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Mitsuki Aya'nın seçkin Kuromi Kız Akademisi'nde tek bir hedefi vardır: okulun kusursuz \"Beyaz Zambak\"ı Yorue Mio gibi zarif bir genç bayan olmak. Ama Aya yanlışlıkla onu dövüş oyunları oynarken yakalayınca Mio'ya dair imajı paramparça oluyor? Zarif Mio'nun aslında sıkı bir oyuncu olduğu ve Aya ile düello yapmak istediği ortaya çıktı! Savaş (ve onların dostluğu) başlar.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 182616,
@@ -3952,7 +3964,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 74,
+          "averageScore": 75,
           "studios": {
             "nodes": [
               {
@@ -4204,7 +4216,89 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "14. yüzyıl Japonya'sında gezici bir tiyatro grubunda oyunculuk ve dansla dolu bir hayata doğan 12 yaşındaki Oniyasha'nın tek bir sorunu var; bunların hiçbirinin amacını bilmiyor. \"Neden buraya sağ ayak yerine sol ayakla basmak zorundayım? Neden bir performans iyi, diğeri kötü? Neden insanlar dans ediyor?\" Her şey tamamen keyfi görünüyor, ta ki köhne bir barakada tesadüfen karşılaşması, onu sanat biçiminde devrim yapma ve gelecek Japon kültürünün çoğunu etkileme yoluna sokana kadar. Dünyanın hayatta kalan en eski tiyatro sanatı olan modern Noh tiyatrosunun kurucusu Zeami Motokiyo'nun (Oniyasha) erken yaşamının kurgusal bir anlatımı olan bu reşit olmuş sanatçının yolculuğu, Japonya'nın kültürel ve sosyal açıdan en canlı dönemlerinden birinde, zamanının çok ilerisinde bir adamı canlı bir şekilde hayata geçiriyor.<br><br>(Kaynak: Kodansha Comics)<br><br>Not: Dünya Dans Ediyor, 29 Haziran 2026'dan itibaren Prime Video ve HIDIVE'daki TV yayınından 3 gün önce yayınlanıyor. Düzenli yayın 2 Temmuz 2026'da başladı."
+          "descriptionTr": "14. yüzyıl Japonya'sında gezici bir tiyatro grubunda oyunculuk ve dansla dolu bir hayata doğan 12 yaşındaki Oniyasha'nın tek bir sorunu var; bunların hiçbirinin amacını bilmiyor. \"Neden buraya sağ ayak yerine sol ayakla basmak zorundayım? Neden bir performans iyi, diğeri ise kötü? Neden insanlar dans ediyor?\" Her şey tamamen keyfi görünüyor, ta ki köhne bir barakada tesadüfen karşılaşması, onu sanat biçiminde devrim yapma ve gelecek Japon kültürünün çoğunu etkileme yoluna sokana kadar. Dünyanın hayatta kalan en eski tiyatro sanatı olan modern Noh tiyatrosunun kurucusu Zeami Motokiyo'nun (Oniyasha) erken yaşamının kurgusal bir anlatımı olan bu reşit olmuş sanatçının yolculuğu, Japonya'nın kültürel ve sosyal açıdan en canlı dönemlerinden birinde, zamanının çok ilerisinde bir adamı canlı bir şekilde hayata geçiriyor.<br><br>(Kaynak: Kodansha Comics)<br><br>Not: Dünya Dans Ediyor, 29 Haziran 2026'dan itibaren Prime Video ve HIDIVE'daki TV yayınından 3 gün önce yayınlanıyor. Düzenli yayın 2 Temmuz 2026'da başladı."
+        },
+        {
+          "id": 169582,
+          "title": {
+            "romaji": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru",
+            "english": "The Insipid Prince's Furtive Grab for the Throne",
+            "native": "最強出涸らし皇子の暗躍帝位争い 無能を演じるSSランク皇子は皇位継承戦を影から支配する"
+          },
+          "synonyms": [
+            "The Strongest Dull Prince Secret Battle for the Throne. ~I Don’t Care About the Throne but Since I Don’t Want to Die, I Think I Will Make My Little Brother the Emperor~",
+            "出涸らし皇子",
+            "Degarashi Ouji"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 6
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169582-quL8VMg45fcu.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169582-quL8VMg45fcu.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1785758220,
+            "episode": 5
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Royal Affairs",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Politics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kingdom Management",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 61,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Maho Film"
+              }
+            ]
+          },
+          "description": "<p>To the empire, Prince Arnold is one big joke, a completely inept prince outshone by his more talented twin, Leonard. But in secret, Arnold operates as Silver, one of only five magic-wielding SS-rank adventurers on the continent. As the bloody battle for the throne intensifies after the crown prince’s death, Arnold pulls the strings from the shadows to crown his twin emperor to his own advantage.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/sn_degarashi"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://degarashiouji.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378119/the-insipid-princes-furtive-grab-for-the-throne"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "İmparatorluk için Prens Arnold büyük bir şakadır; daha yetenekli ikizi Leonard tarafından gölgede bırakılan tamamen beceriksiz bir prens. Ancak Arnold gizlice, kıtadaki sihir kullanan beş SS rütbeli maceracıdan biri olan Silver olarak faaliyet göstermektedir. Veliaht prensin ölümünün ardından taht için verilen kanlı savaş yoğunlaşırken Arnold, ikiz imparatorunu kendi avantajına taçlandırmak için ipleri gölgelerin arasından çekiyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 186863,
@@ -4319,7 +4413,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 75,
+          "averageScore": 76,
           "studios": {
             "nodes": [
               {
@@ -4352,88 +4446,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Hikaye, ormanda bir anne kedi tarafından büyütülen, ateş püskürten, insanlardan nefret eden bir ejderhayı konu alıyor. Sevgiyle \"Wing Amca\" olarak anılan ejderha, biri insan prensle maceraya çıkan, diğeri şehirde yaşayan ve insanları hobi olarak izleyen pek çok meraklı kediye göz kulak oluyor ve yol boyunca yavaş yavaş insanlara ısınıyor.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Her bölüm ABEMA ve dAnimeStore'da 1 hafta erken yayınlandı. Orijinal TV yayını 4 Temmuz 2026'da başladı."
-        },
-        {
-          "id": 169582,
-          "title": {
-            "romaji": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru",
-            "english": "The Insipid Prince's Furtive Grab for the Throne",
-            "native": "最強出涸らし皇子の暗躍帝位争い 無能を演じるSSランク皇子は皇位継承戦を影から支配する"
-          },
-          "synonyms": [
-            "The Strongest Dull Prince Secret Battle for the Throne. ~I Don’t Care About the Throne but Since I Don’t Want to Die, I Think I Will Make My Little Brother the Emperor~",
-            "出涸らし皇子",
-            "Degarashi Ouji"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 6
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169582-quL8VMg45fcu.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169582-quL8VMg45fcu.png"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1785758220,
-            "episode": 5
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Drama",
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Politics",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kingdom Management",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 60,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Maho Film"
-              }
-            ]
-          },
-          "description": "<p>To the empire, Prince Arnold is one big joke, a completely inept prince outshone by his more talented twin, Leonard. But in secret, Arnold operates as Silver, one of only five magic-wielding SS-rank adventurers on the continent. As the bloody battle for the throne intensifies after the crown prince’s death, Arnold pulls the strings from the shadows to crown his twin emperor to his own advantage.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/sn_degarashi"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://degarashiouji.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378119/the-insipid-princes-furtive-grab-for-the-throne"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "İmparatorluk için Prens Arnold büyük bir şakadır; daha yetenekli ikizi Leonard tarafından gölgede bırakılan tamamen beceriksiz bir prens. Ancak Arnold gizlice, kıtadaki sihir kullanan beş SS rütbeli maceracıdan biri olan Silver olarak faaliyet göstermektedir. Veliaht prensin ölümünün ardından taht için verilen kanlı savaş yoğunlaşırken Arnold, ikiz imparatorunu kendi avantajına taçlandırmak için ipleri gölgelerin arasından çekiyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 192800,
@@ -4505,6 +4517,10 @@
             },
             {
               "name": "Shoujo",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Historical",
               "isMediaSpoiler": false
             },
             {
@@ -4724,6 +4740,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Slavery",
               "isMediaSpoiler": false
             },
@@ -4740,7 +4760,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 69,
+          "averageScore": 68,
           "studios": {
             "nodes": [
               {
@@ -4787,8 +4807,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196219-2F64WTRfqRU9.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785243600,
-            "episode": 5
+            "airingAt": 1785848400,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -4948,7 +4968,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Japon tarzı bir ayakaşi Cinderella hikayesi! \"Bunca zamandır aradığım gelin sensin.\" Ayakaşiler ve insanlar uyum içinde bir arada yaşarlar. Üstün yeteneklere ve güzel görünüme sahip olan ayakaşiler, bazen insan kadınları arasında kendilerine eş bularak onları \"gelinleri\" haline getirirler. Gelin, refah getirmesi karşılığında ayakaşiden mutlak sevgi alır. Yuzu sürekli olarak şeytan tilkinin gelini olan kız kardeşiyle karşılaştırılıyor ve ailesi tarafından her gün kızıyor. Bir gün Yuzu artık dayanamadığı bir anda köprüde karşısına bir adam çıkar. Bu adam Yuzu'nun şimdiye kadar gördüğü en güzel adam... ve ona karısı mı diyor?! \"Sessiz ol ve sana sarılmama izin ver.\" En güçlü, \"soğuk kalpli\" ayakaşi, Yuzu için kalbini mi döküyor?!<br><br>(Kaynak: MangaPlaza)"
+          "descriptionTr": "Japon tarzı bir ayakaşi Cinderella hikayesi! \"Bunca zamandır aradığım gelin sensin.\" Ayakaşiler ve insanlar uyum içinde bir arada yaşarlar. Üstün yeteneklere ve güzel görünüme sahip olan ayakaşiler, bazen insan kadınları arasında kendilerine eş bularak onları \"gelinleri\" haline getirirler. Gelin, refah getirmesi karşılığında ayakaşiden mutlak sevgi alır. Yuzu sürekli olarak şeytan tilkinin gelini olan kız kardeşiyle karşılaştırılıyor ve ailesi tarafından her gün kızıyor. Bir gün Yuzu artık hiçbir şeye dayanamadığında, köprüde karşısına bir adam çıkar. Bu adam Yuzu'nun gördüğü en güzel adam... ve ona karısı mı diyor?! \"Sessiz ol ve sana sarılmama izin ver.\" En güçlü, \"soğuk kalpli\" ayakaşi, Yuzu için kalbini mi döküyor?!<br><br>(Kaynak: MangaPlaza)"
         },
         {
           "id": 207674,
@@ -5024,7 +5044,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 57,
+          "averageScore": 56,
           "studios": {
             "nodes": [
               {
@@ -5376,7 +5396,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kayıp krallığın Prensesi Safir. \"Nergal\" olarak bilinen felaket nedeniyle memleketi Silverland'deki her şeyden mahrum kalan sanatçı, umutsuzluğun en derin noktasında Goldland'e geldi. Geçmişinin ağırlığını taşırken insanların nezaketinde bir umut ışığı bulmaya başladı. Ancak onun huzurlu günlük yaşamıyla alay edercesine, \"Nergal\" felaketi bir kez daha karşımıza çıkar. Vatanını küle çeviren çaresizlik, şimdi bu toprakların ışığını da çalmakla tehdit ediyor.<br><br>\"Benim için artık kayıp yok. Kimse için artık kayıp yok.\" <br><br>Genç kız, üzüntü korkusunu bir kenara bırakarak kılıcını alır. <br>Bu, kurdelesini bağlayıp kadere meydan okumaya karar veren bir kahramanın hikayesidir. <br><br>(Kaynak: THE RIBBON HERO Resmi Sitesi)<br><br> Not: Bu anime Osamu Tezuka'nın \"Princess Knight\" adlı mangasından esinlenilmiştir."
+          "descriptionTr": "Kayıp krallığın Prensesi Safir. \"Nergal\" olarak bilinen felaket nedeniyle memleketi Silverland'deki her şeyden mahrum kalan sanatçı, çaresizliğin en derin noktasında Goldland'e geldi. Geçmişinin ağırlığını taşırken insanların nezaketinde bir umut ışığı bulmaya başladı. Ancak onun huzurlu günlük yaşamıyla alay edercesine, \"Nergal\" felaketi bir kez daha karşımıza çıkar. Vatanını küle çeviren çaresizlik, şimdi bu toprakların ışığını da çalmakla tehdit ediyor.<br><br>\"Benim için artık kayıp yok. Kimse için artık kayıp yok.\" <br><br>Genç kız, üzüntü korkusunu bir kenara bırakarak kılıcını alır. <br>Bu, kurdelesini bağlayıp kadere meydan okumaya karar veren bir kahramanın hikayesidir. <br><br>(Kaynak: THE RIBBON HERO Resmi Sitesi)<br><br> Not: Bu anime Osamu Tezuka'nın \"Princess Knight\" adlı mangasından esinlenilmiştir."
         },
         {
           "id": 211711,
@@ -5663,7 +5683,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Düşmüş bir aristokratın kızı Elsa, bir haber alır. Bu, çok seçkin bir soylu olan Julius'un evlenme teklifiydi. Elsa \"Bu kadar seçkin bir adam neden benimle evlensin?\" diye merak ediyor. Ancak düğünden sonra o ana kadar nazik ve nazik olan Julius tamamen değişti! Soğuk bir sesle ona \"Seni sevmeye hiç niyetim yok\" diyor.<br><br>(Kaynak: MangaPlaza)"
+          "descriptionTr": "Düşmüş bir aristokratın kızı Elsa, bir haber alır. Bu, çok seçkin bir soylu olan Julius'un evlenme teklifiydi. Elsa \"Bu kadar seçkin bir adam neden benimle evlensin?\" diye merak ediyor. Ancak düğünden sonra o ana kadar nazik ve nazik olan Julius tamamen değişti! Soğuk bir sesle \"Seni sevmeye hiç niyetim yok\" diyor.<br><br>(Kaynak: MangaPlaza)"
         },
         {
           "id": 196356,
@@ -5779,7 +5799,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine ikna oldu: Kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir yaşam. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve samimi bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
+          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine inanır: kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir yaşam. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve samimi bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
         },
         {
           "id": 207809,
@@ -5895,7 +5915,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 59,
+          "averageScore": 60,
           "studios": {
             "nodes": [
               {
