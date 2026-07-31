@@ -833,7 +833,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 71,
+          "averageScore": 72,
           "studios": {
             "nodes": [
               {
@@ -886,6 +886,101 @@
           ],
           "isMyList": false,
           "descriptionTr": "Jirou Azuma sıradan bir lise öğrencisi değil. Ninjaların soyundan gelen ve şinobilerin kadim savaşçı sanatı konusunda eğitim almış olan Jirou, aynı zamanda hayvanlarla da konuşabiliyor. Ragou adında yaralı bir kediyle gizemli bir karşılaşmanın ardından Jirou, kedinin aslında efsanevi Kıyametin Kara Yıldızı olduğunu keşfeder! Casusluk Bürosu'nun da katıldığı ekip, Ragou'nun güçlerini kullanmak için pusuda bekleyen mononoke sürüleriyle savaşır.<br><br>(Kaynak: Crunchyroll)"
+        },
+        {
+          "id": 210031,
+          "title": {
+            "romaji": "Seihantai na Kimi to Boku 2nd Season",
+            "english": "You and I Are Polar Opposites Season 2",
+            "native": "正反対な君と僕 第2期"
+          },
+          "synonyms": [
+            "ลุ้นรักฉบับคู่ต่างขั้ว ซีซัน 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210031-TppgcHZh46LY.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210031-M4bt0rAmWk5Q.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1785657600,
+            "episode": 5
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Iyashikei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 81,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Lapin Track"
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Seihantai na Kimi to Boku</i>.</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/seihantai_x"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00365624/you-and-i-are-polar-opposites"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/en/"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Seihantai na Kimi'nin Boku'ya ikinci sezonu."
         },
         {
           "id": 133007,
@@ -999,101 +1094,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Mahou Shoujo Madoka☆Magica animesinin 10. yıl dönümü çevrimiçi etkinliği, serinin Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten adlı yeni bir anime filmi alacağını açıkladı. Film, Ekim 2013'te gösterime giren Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari filminin resmi devamı olacak. Yeni filmin görselindeki sloganda \"Şimdi hikayeye devam edelim.\" yazıyor.<br><br>(Kaynak: Anime Haber Ağı, düzenlendi)"
-        },
-        {
-          "id": 210031,
-          "title": {
-            "romaji": "Seihantai na Kimi to Boku 2nd Season",
-            "english": "You and I Are Polar Opposites Season 2",
-            "native": "正反対な君と僕 第2期"
-          },
-          "synonyms": [
-            "ลุ้นรักฉบับคู่ต่างขั้ว ซีซัน 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210031-TppgcHZh46LY.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210031-M4bt0rAmWk5Q.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1785657600,
-            "episode": 5
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Romance",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 81,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Lapin Track"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Seihantai na Kimi to Boku</i>.</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/seihantai_x"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00365624/you-and-i-are-polar-opposites"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/en/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Seihantai na Kimi'nin Boku'ya ikinci sezonu."
         },
         {
           "id": 180136,
@@ -1407,12 +1407,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": true
             },
             {
               "name": "Arranged Marriage",
@@ -2059,7 +2059,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 75,
+          "averageScore": 76,
           "studios": {
             "nodes": [
               {
@@ -2440,19 +2440,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Kingdom Management",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Class Struggle",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Biographical",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Travel",
               "isMediaSpoiler": false
             },
             {
@@ -2460,7 +2448,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Survival",
+              "name": "Class Struggle",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Orphan",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Travel",
               "isMediaSpoiler": false
             },
             {
@@ -2476,7 +2472,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Orphan",
+              "name": "Survival",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Philosophy",
               "isMediaSpoiler": false
             },
             {
@@ -2484,7 +2484,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Philosophy",
+              "name": "Kingdom Management",
               "isMediaSpoiler": false
             },
             {
@@ -2902,8 +2902,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1785504600,
-            "episode": 5
+            "airingAt": 1786109400,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -3566,8 +3566,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196218-lX0y9T76KQkC.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785504600,
-            "episode": 5
+            "airingAt": 1786109400,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -3764,6 +3764,14 @@
             {
               "name": "School Club",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Tomboy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Unrequited Love",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 76,
@@ -5187,7 +5195,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 70,
+          "averageScore": 71,
           "studios": {
             "nodes": [
               {
@@ -5630,6 +5638,122 @@
           "descriptionTr": "Kısıtlı ve tehlikeli bir dağ ormanına girme cesaretini gösteren Hinata ve Kaoru kardeşler, korkunç bir yılan tanrıyla tanışır ve kanka olurlar! Başlangıçta korkutucu görünümüne rağmen, kendi adını taşıyan \"talihsizlik tanrısı\" garip, yalnız ve şaşırtıcı derecede konuşması kolay bir insandır. Bu, beklenmedik bir dostluğun ve ardından gelen birçok komik, samimi maceranın hikayesidir.<br><br>(Kaynak: Crunchyroll)"
         },
         {
+          "id": 196356,
+          "title": {
+            "romaji": "Ibitte Konai Gibo to Gishi",
+            "english": "My Stepmother and Stepsisters Aren’t Wicked",
+            "native": "いびってこない義母と義姉"
+          },
+          "synonyms": [
+            "いびこな",
+            "IbiKona",
+            "My Mother-in-Law and Sister-in-Law Who Don't Bully Me",
+            "Keluarga Tiriku Manis dan Memanja"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 8
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196356-2TNt2b9tu0jm.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196356-2TNt2b9tu0jm.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196356-OUT2nMhW0IdS.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1785940200,
+            "episode": 5
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Adoption",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Iyashikei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Family Life",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Josei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cute Girls Doing Cute Things",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Parody",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 64,
+          "studios": {
+            "nodes": [
+              {
+                "name": "NEWON"
+              }
+            ]
+          },
+          "description": "<p>Miya is the illegitimate child of a prominent family. When her mother dies and her father’s estate agrees to take her in, she’s convinced she knows what awaits her in her new home: a life of servitude and misery at the hands of her wicked stepmother and stepsisters. Yet when she finally meets the women she expects to treat her like dirt, they actually end up being…sweet?! A hilarious and heartfelt comedy that’s sure to put a smile on your face!<br />\n<br><br><br />\n(Source: Seven Seas Entertainment)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://ibikona-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/ibikona_anime"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/270mjzjqx0d"
+            },
+            {
+              "site": "Amazon Prime Video",
+              "url": "https://www.amazon.com/My-Stepmother-Stepsisters-Arent-Wicked/dp/B0GYPBM8WL"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLKx8CEsRVJts"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLCTv3-IP7ow8"
+            },
+            {
+              "site": "Viki",
+              "url": "https://www.viki.com/tv/41626"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine inanır: kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir yaşam. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve samimi bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
+        },
+        {
           "id": 208225,
           "title": {
             "romaji": "\"Kimi wo Aisuru Ki wa nai\" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu",
@@ -5721,122 +5845,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Düşmüş bir aristokratın kızı Elsa, bir haber alır. Bu, çok seçkin bir soylu olan Julius'un evlenme teklifiydi. Elsa \"Bu kadar seçkin bir adam neden benimle evlensin?\" diye merak ediyor. Ancak düğünden sonra o ana kadar nazik ve nazik olan Julius tamamen değişti! Soğuk bir sesle \"Seni sevmeye hiç niyetim yok\" diyor.<br><br>(Kaynak: MangaPlaza)"
-        },
-        {
-          "id": 196356,
-          "title": {
-            "romaji": "Ibitte Konai Gibo to Gishi",
-            "english": "My Stepmother and Stepsisters Aren’t Wicked",
-            "native": "いびってこない義母と義姉"
-          },
-          "synonyms": [
-            "いびこな",
-            "IbiKona",
-            "My Mother-in-Law and Sister-in-Law Who Don't Bully Me",
-            "Keluarga Tiriku Manis dan Memanja"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196356-2TNt2b9tu0jm.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196356-2TNt2b9tu0jm.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196356-OUT2nMhW0IdS.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1785940200,
-            "episode": 5
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Adoption",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Family Life",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Josei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cute Girls Doing Cute Things",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Parody",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 63,
-          "studios": {
-            "nodes": [
-              {
-                "name": "NEWON"
-              }
-            ]
-          },
-          "description": "<p>Miya is the illegitimate child of a prominent family. When her mother dies and her father’s estate agrees to take her in, she’s convinced she knows what awaits her in her new home: a life of servitude and misery at the hands of her wicked stepmother and stepsisters. Yet when she finally meets the women she expects to treat her like dirt, they actually end up being…sweet?! A hilarious and heartfelt comedy that’s sure to put a smile on your face!<br />\n<br><br><br />\n(Source: Seven Seas Entertainment)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://ibikona-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/ibikona_anime"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/270mjzjqx0d"
-            },
-            {
-              "site": "Amazon Prime Video",
-              "url": "https://www.amazon.com/My-Stepmother-Stepsisters-Arent-Wicked/dp/B0GYPBM8WL"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLKx8CEsRVJts"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLCTv3-IP7ow8"
-            },
-            {
-              "site": "Viki",
-              "url": "https://www.viki.com/tv/41626"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine inanır: kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir yaşam. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve samimi bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
         },
         {
           "id": 207809,
