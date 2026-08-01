@@ -776,8 +776,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187538-287evzCezNl0.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785589200,
-            "episode": 5
+            "airingAt": 1786194000,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -886,6 +886,134 @@
           ],
           "isMyList": false,
           "descriptionTr": "Jirou Azuma sıradan bir lise öğrencisi değil. Ninjaların soyundan gelen ve şinobilerin kadim savaşçı sanatı konusunda eğitim almış olan Jirou, aynı zamanda hayvanlarla da konuşabiliyor. Ragou adında yaralı bir kediyle gizemli bir karşılaşmanın ardından Jirou, kedinin aslında efsanevi Kıyametin Kara Yıldızı olduğunu keşfeder! Casusluk Bürosu'nun da katıldığı ekip, Ragou'nun güçlerini kullanmak için pusuda bekleyen mononoke sürüleriyle savaşır.<br><br>(Kaynak: Crunchyroll)"
+        },
+        {
+          "id": 180136,
+          "title": {
+            "romaji": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
+            "english": "The Exiled Heavy Knight Knows How to Game the System",
+            "native": "追放された転生重騎士はゲーム知識で無双する"
+          },
+          "synonyms": [
+            "The Exiled Reincarnated Heavy Knight Is Unrivaled in Game Knowledge",
+            "Juukishi",
+            "Kesatria Kelas Berat Tereinkarnasi yang Diasingkan Jadi Tanpa Tanding Dengan Pengetahuan Gimnya",
+            "เกิดใหม่เป็นอัศวินเกราะหนักผู้ถูกขับไล่แต่ใช้ความรู้จากเกมจนไร้เทียมทาน"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 3
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180136-gtMTCRlOD4OE.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1786029960,
+            "episode": 6
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Class Struggle",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Dungeon",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Royal Affairs",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Estranged Family",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Survival",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Meta",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 67,
+          "studios": {
+            "nodes": [
+              {
+                "name": "GoHands"
+              }
+            ]
+          },
+          "description": "<p>Born into a prestigious family of master swordsmen, Elymas Edvaughn’s future shatters when he awakens the so-called “defective” Heavy Knight class. Disowned and cast out, he regains memories of another life—and realizes this world mirrors a VR game he once mastered. Armed with knowledge no one else possesses, he sets out to rewrite his fate and prove the strength of the “weakest” class.<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://sh-anime.shochiku.co.jp/jukishi-anime/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/jukishi_anime"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378018/the-exiled-heavy-knight-knows-how-to-game-the-system"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3yq1oZEC8iNCwgMsg0NmIZ"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/media/2411725"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/a5a0t3nwm1"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Usta kılıç ustalarından oluşan prestijli bir ailede doğan Elymas Edvaughn'un geleceği, sözde \"kusurlu\" Ağır Şövalye sınıfını uyandırdığında paramparça olur. Reddedilmiş ve dışlanmış, başka bir hayata dair anılarını yeniden kazanır ve bu dünyanın, bir zamanlar ustalaştığı bir VR oyununu yansıttığını fark eder. Kimsenin sahip olmadığı bilgilerle donanmış olarak kaderini yeniden yazmaya ve \"en zayıf\" sınıfın gücünü kanıtlamaya koyulur.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 210031,
@@ -1094,134 +1222,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Mahou Shoujo Madoka☆Magica animesinin 10. yıl dönümü çevrimiçi etkinliği, serinin Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten adlı yeni bir anime filmi alacağını açıkladı. Film, Ekim 2013'te gösterime giren Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari filminin resmi devamı olacak. Yeni filmin görselindeki sloganda \"Şimdi hikayeye devam edelim.\" yazıyor.<br><br>(Kaynak: Anime Haber Ağı, düzenlendi)"
-        },
-        {
-          "id": 180136,
-          "title": {
-            "romaji": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
-            "english": "The Exiled Heavy Knight Knows How to Game the System",
-            "native": "追放された転生重騎士はゲーム知識で無双する"
-          },
-          "synonyms": [
-            "The Exiled Reincarnated Heavy Knight Is Unrivaled in Game Knowledge",
-            "Juukishi",
-            "Kesatria Kelas Berat Tereinkarnasi yang Diasingkan Jadi Tanpa Tanding Dengan Pengetahuan Gimnya",
-            "เกิดใหม่เป็นอัศวินเกราะหนักผู้ถูกขับไล่แต่ใช้ความรู้จากเกมจนไร้เทียมทาน"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 3
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180136-gtMTCRlOD4OE.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1786029960,
-            "episode": 6
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Class Struggle",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dungeon",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Estranged Family",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Survival",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Meta",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 67,
-          "studios": {
-            "nodes": [
-              {
-                "name": "GoHands"
-              }
-            ]
-          },
-          "description": "<p>Born into a prestigious family of master swordsmen, Elymas Edvaughn’s future shatters when he awakens the so-called “defective” Heavy Knight class. Disowned and cast out, he regains memories of another life—and realizes this world mirrors a VR game he once mastered. Armed with knowledge no one else possesses, he sets out to rewrite his fate and prove the strength of the “weakest” class.<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://sh-anime.shochiku.co.jp/jukishi-anime/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/jukishi_anime"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378018/the-exiled-heavy-knight-knows-how-to-game-the-system"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3yq1oZEC8iNCwgMsg0NmIZ"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/media/2411725"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/a5a0t3nwm1"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Usta kılıç ustalarından oluşan prestijli bir ailede doğan Elymas Edvaughn'un geleceği, sözde \"kusurlu\" Ağır Şövalye sınıfını uyandırdığında paramparça olur. Reddedilmiş ve dışlanmış, başka bir hayata dair anılarını yeniden kazanır ve bu dünyanın, bir zamanlar ustalaştığı bir VR oyununu yansıttığını fark eder. Kimsenin sahip olmadığı bilgilerle donanmış olarak kaderini yeniden yazmaya ve \"en zayıf\" sınıfın gücünü kanıtlamaya koyulur.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 187260,
@@ -2428,11 +2428,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Royal Affairs",
+              "name": "War",
               "isMediaSpoiler": false
             },
             {
-              "name": "War",
+              "name": "Royal Affairs",
               "isMediaSpoiler": false
             },
             {
@@ -2452,11 +2452,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Coming of Age",
+              "name": "Class Struggle",
               "isMediaSpoiler": false
             },
             {
-              "name": "Class Struggle",
+              "name": "Coming of Age",
               "isMediaSpoiler": false
             },
             {
@@ -3216,11 +3216,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Love Triangle",
+              "name": "Bullying",
               "isMediaSpoiler": false
             },
             {
-              "name": "Bullying",
+              "name": "Love Triangle",
               "isMediaSpoiler": false
             }
           ],
@@ -3906,7 +3906,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 73,
+          "averageScore": 74,
           "studios": {
             "nodes": [
               {
@@ -4383,8 +4383,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186863-hRsC2yxvILTx.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785585600,
-            "episode": 6
+            "airingAt": 1786190400,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -4600,7 +4600,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 69,
+          "averageScore": 70,
           "studios": {
             "nodes": [
               {
@@ -5472,76 +5472,6 @@
           "descriptionTr": "Kayıp krallığın Prensesi Safir. \"Nergal\" olarak bilinen felaket nedeniyle memleketi Silverland'deki her şeyden mahrum kalan sanatçı, umutsuzluğun en derin noktasında Goldland'e geldi. Geçmişinin ağırlığını taşırken insanların nezaketinde bir umut ışığı bulmaya başladı. Ancak onun huzurlu günlük yaşamıyla alay edercesine, \"Nergal\" felaketi bir kez daha karşımıza çıkar. Vatanını küle çeviren çaresizlik, şimdi bu toprakların ışığını da çalmakla tehdit ediyor.<br><br>\"Benim için artık kayıp yok. Kimse için artık kayıp yok.\" <br><br>Genç kız, üzüntü korkusunu bir kenara bırakarak kılıcını alır. <br>Bu, kurdelesini bağlayıp kadere meydan okumaya karar veren bir kahramanın hikayesidir. <br><br>(Kaynak: THE RIBBON HERO Resmi Sitesi)<br><br> Not: Bu anime Osamu Tezuka'nın \"Princess Knight\" adlı mangasından esinlenilmiştir."
         },
         {
-          "id": 211711,
-          "title": {
-            "romaji": "Boku no Hero Academia: I am a hero too",
-            "english": null,
-            "native": "僕のヒーローアカデミア I am a hero too"
-          },
-          "synonyms": [
-            "My Hero Academia: I am a hero too Special"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 8,
-            "day": 3
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211711-Oy6R5cmGHLCL.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211711-Oy6R5cmGHLCL.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1785682800,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [],
-          "tags": [
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Superhero",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Skip",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": []
-          },
-          "description": "<p>Following the broadcast of My Hero Academia Episode 170+1, the series' official website and accounts revealed that a new short anime adapting the &quot;I Am a Hero Too&quot; bonus chapter will tell the story of Eri as a high-schooler when it releases this summer.<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://heroaca.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/heroaca_anime/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "My Hero Academia Bölüm 170+1'in yayınlanmasının ardından serinin resmi web sitesi ve hesapları, \"Ben de bir kahramanım\" bonus bölümünü uyarlayan yeni bir kısa animenin bu yaz yayınlandığında Eri'nin bir lise öğrencisi olarak hikayesini anlatacağını ortaya çıkardı.<br><br>(Kaynak: Crunchyroll)"
-        },
-        {
           "id": 203880,
           "title": {
             "romaji": "Reiwa no Dara-san",
@@ -5664,6 +5594,76 @@
           ],
           "isMyList": false,
           "descriptionTr": "Kısıtlı, tehlikeli bir dağ ormanına girme cesaretini gösteren Hinata ve Kaoru kardeşler, korkunç bir yılan tanrıyla tanışır ve kanka olurlar! Başlangıçta korkutucu görünümüne rağmen, kendi adını taşıyan \"talihsizlik tanrısı\" garip, yalnız ve şaşırtıcı derecede konuşması kolay bir insandır. Bu, beklenmedik bir dostluğun ve ardından gelen birçok komik, samimi maceranın hikayesidir.<br><br>(Kaynak: Crunchyroll)"
+        },
+        {
+          "id": 211711,
+          "title": {
+            "romaji": "Boku no Hero Academia: I am a hero too",
+            "english": null,
+            "native": "僕のヒーローアカデミア I am a hero too"
+          },
+          "synonyms": [
+            "My Hero Academia: I am a hero too Special"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 8,
+            "day": 3
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211711-Oy6R5cmGHLCL.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211711-Oy6R5cmGHLCL.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1785682800,
+            "episode": 1
+          },
+          "isAdult": false,
+          "genres": [],
+          "tags": [
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Superhero",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Skip",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": []
+          },
+          "description": "<p>Following the broadcast of My Hero Academia Episode 170+1, the series' official website and accounts revealed that a new short anime adapting the &quot;I Am a Hero Too&quot; bonus chapter will tell the story of Eri as a high-schooler when it releases this summer.<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://heroaca.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/heroaca_anime/"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "My Hero Academia Bölüm 170+1'in yayınlanmasının ardından serinin resmi web sitesi ve hesapları, \"Ben de bir kahramanım\" bonus bölümünü uyarlayan yeni bir kısa animenin bu yaz yayınlandığında Eri'nin bir lise öğrencisi olarak hikayesini anlatacağını ortaya çıkardı.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 196356,
@@ -5992,7 +5992,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 59,
+          "averageScore": 60,
           "studios": {
             "nodes": [
               {
