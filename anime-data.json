@@ -641,11 +641,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban",
+              "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Female Cast",
+              "name": "Urban",
               "isMediaSpoiler": false
             },
             {
@@ -944,11 +944,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Shounen",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Shounen",
               "isMediaSpoiler": false
             }
           ],
@@ -1293,15 +1293,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Body Horror",
               "isMediaSpoiler": true
             },
             {
               "name": "Gore",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
@@ -1317,11 +1317,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Shoujo",
+              "name": "CGI",
               "isMediaSpoiler": false
             },
             {
-              "name": "CGI",
+              "name": "Shoujo",
               "isMediaSpoiler": false
             }
           ],
@@ -1705,6 +1705,10 @@
             },
             {
               "name": "Bisexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
@@ -2328,6 +2332,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Heterosexual",
               "isMediaSpoiler": false
             }
@@ -2497,6 +2505,10 @@
             },
             {
               "name": "Desert",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
               "isMediaSpoiler": false
             }
           ],
@@ -2989,7 +3001,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kahramanın grubundaki S seviye büyücü Luck, arkadaşlarını kurtarmak için Şeytan Kral'a karşı son bir direniş gösterir. Nihayet zaferle geri döndüğünde üzerinden on yıl geçmiştir ve dünya onu savaşta ölen efsanevi bir kahraman olarak övmektedir. Önceki hayatına geri dönemeyen Luck, kimliğini gizler ve onsuz devam eden bir dünyada geleceğini şekillendiren F sınıfı bir maceracı olan \"Lock\" olarak yeniden başlar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita, 3 Temmuz 2026'dan itibaren Prime Video'daki TV yayınından 3 gün önce yayınlanıyor. Düzenli yayın 6 Temmuz 2026'da başladı."
+          "descriptionTr": "Kahramanın grubundaki S seviye bir büyücü olan Luck, arkadaşlarını kurtarmak için Şeytan Kral'a karşı son bir duruş sergiliyor. Nihayet zaferle geri döndüğünde üzerinden on yıl geçmiştir ve dünya onu savaşta ölen efsanevi bir kahraman olarak övmektedir. Önceki hayatına geri dönemeyen Luck, kimliğini gizler ve onsuz devam eden bir dünyada geleceğini şekillendiren F sınıfı bir maceracı olan \"Lock\" olarak yeniden başlar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita, 3 Temmuz 2026'dan itibaren Prime Video'daki TV yayınından 3 gün önce yayınlanıyor. Düzenli yayın 6 Temmuz 2026'da başladı."
         },
         {
           "id": 197715,
@@ -3298,11 +3310,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Time Skip",
+              "name": "Coming of Age",
               "isMediaSpoiler": false
             },
             {
-              "name": "Coming of Age",
+              "name": "Time Skip",
               "isMediaSpoiler": false
             },
             {
@@ -3366,8 +3378,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209983-dKykF3rBGfik.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785513600,
-            "episode": 5
+            "airingAt": 1786118400,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -3742,6 +3754,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Witch",
               "isMediaSpoiler": false
             },
@@ -3870,11 +3886,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "School",
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
-              "name": "Cute Girls Doing Cute Things",
+              "name": "School",
               "isMediaSpoiler": false
             },
             {
@@ -3914,7 +3930,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Mitsuki Aya'nın seçkin Kuromi Kız Akademisi'nde tek bir hedefi vardır: okulun kusursuz \"Beyaz Zambak\"ı Yorue Mio gibi zarif bir genç bayan olmak. Ama Aya yanlışlıkla onu dövüş oyunları oynarken yakalayınca Mio'ya dair imajı paramparça oluyor? Zarif Mio'nun aslında sıkı bir oyuncu olduğu ve Aya ile düello yapmak istediği ortaya çıktı! Savaş (ve onların dostluğu) başlar.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Mitsuki Aya'nın seçkin Kuromi Kız Akademisi'nde tek bir hedefi vardır: okulun kusursuz \"Beyaz Zambak\"ı Yorue Mio gibi zarif bir genç bayan olmak. Ancak Aya onu yanlışlıkla dövüş oyunları oynarken yakalayınca Mio'ya dair imajı paramparça olur? Zarif Mio'nun aslında sıkı bir oyuncu olduğu ve Aya ile düello yapmak istediği ortaya çıktı! Savaş (ve onların dostluğu) başlar.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 182616,
@@ -3942,8 +3958,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182616-kmIqMEUsLYrO.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785508200,
-            "episode": 3
+            "airingAt": 1786113000,
+            "episode": 4
           },
           "isAdult": false,
           "genres": [
@@ -4006,6 +4022,10 @@
             {
               "name": "Surreal Comedy",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Anachronism",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 75,
@@ -4520,15 +4540,15 @@
           ],
           "tags": [
             {
-              "name": "Maids",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
               "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Maids",
               "isMediaSpoiler": false
             },
             {
@@ -4556,11 +4576,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Slapstick",
+              "name": "Shoujo",
               "isMediaSpoiler": false
             },
             {
-              "name": "Shoujo",
+              "name": "Slapstick",
               "isMediaSpoiler": false
             },
             {
@@ -5037,8 +5057,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1785515400,
-            "episode": 5
+            "airingAt": 1786120200,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -5056,11 +5076,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Ghost",
+              "name": "Exorcism",
               "isMediaSpoiler": false
             },
             {
-              "name": "Exorcism",
+              "name": "Ghost",
               "isMediaSpoiler": false
             },
             {
@@ -5069,6 +5089,10 @@
             },
             {
               "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Youkai",
               "isMediaSpoiler": false
             },
             {
@@ -5085,6 +5109,10 @@
             },
             {
               "name": "Gyaru",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nekomimi",
               "isMediaSpoiler": false
             }
           ],
@@ -5635,7 +5663,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kısıtlı ve tehlikeli bir dağ ormanına girme cesaretini gösteren Hinata ve Kaoru kardeşler, korkunç bir yılan tanrıyla tanışır ve kanka olurlar! Başlangıçta korkutucu görünümüne rağmen, kendi adını taşıyan \"talihsizlik tanrısı\" garip, yalnız ve şaşırtıcı derecede konuşması kolay bir insandır. Bu, beklenmedik bir dostluğun ve ardından gelen birçok komik, samimi maceranın hikayesidir.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Kısıtlı, tehlikeli bir dağ ormanına girme cesaretini gösteren Hinata ve Kaoru kardeşler, korkunç bir yılan tanrıyla tanışır ve kanka olurlar! Başlangıçta korkutucu görünümüne rağmen, kendi adını taşıyan \"talihsizlik tanrısı\" garip, yalnız ve şaşırtıcı derecede konuşması kolay bir insandır. Bu, beklenmedik bir dostluğun ve ardından gelen birçok komik, samimi maceranın hikayesidir.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 196356,
@@ -5708,6 +5736,10 @@
             },
             {
               "name": "Parody",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Villainess",
               "isMediaSpoiler": false
             }
           ],
