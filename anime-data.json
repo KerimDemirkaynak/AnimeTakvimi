@@ -492,8 +492,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185874-IdGyh1EBG91I.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785592800,
-            "episode": 2
+            "airingAt": 1786197600,
+            "episode": 3
           },
           "isAdult": false,
           "genres": [
@@ -763,7 +763,8 @@
             "native": "BLACK TORCH"
           },
           "synonyms": [
-            "ブラックトーチ"
+            "ブラックトーチ",
+            "Tocha Negra"
           ],
           "startDate": {
             "year": 2026,
@@ -1068,11 +1069,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -1407,16 +1408,16 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Arranged Marriage",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
             },
             {
               "name": "Tragedy",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Arranged Marriage",
-              "isMediaSpoiler": false
             },
             {
               "name": "Urban",
@@ -2395,8 +2396,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190569-fQrApHKs9PIz.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785594600,
-            "episode": 6
+            "airingAt": 1786199400,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -2428,11 +2429,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "War",
+              "name": "Royal Affairs",
               "isMediaSpoiler": false
             },
             {
-              "name": "Royal Affairs",
+              "name": "War",
               "isMediaSpoiler": false
             },
             {
@@ -2683,7 +2684,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kimi no Koto ga Dai Dai Dai Dai Daisuki ve 100-nin no Kanojo'nun üçüncü sezonu."
+          "descriptionTr": "Kimi no Koto ga Dai Dai Dai Dai Dai Daisuki ve 100-nin no Kanojo'nun üçüncü sezonu."
         },
         {
           "id": 201514,
@@ -2708,8 +2709,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201514-8dAOB0Xw124G.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785605880,
-            "episode": 5
+            "airingAt": 1786210680,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -2726,19 +2727,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Ojou-sama",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "School",
               "isMediaSpoiler": false
             },
             {
-              "name": "Butler",
+              "name": "Ojou-sama",
               "isMediaSpoiler": false
             },
             {
               "name": "Arranged Marriage",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Butler",
               "isMediaSpoiler": false
             },
             {
@@ -4169,7 +4170,7 @@
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169582-quL8VMg45fcu.png",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169582-quL8VMg45fcu.png"
           },
-          "bannerImage": null,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169582-D5p5iRI5XqML.jpg",
           "nextAiringEpisode": {
             "airingAt": 1785758220,
             "episode": 5
@@ -4441,10 +4442,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Witch",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Parenthood",
               "isMediaSpoiler": false
             },
@@ -4454,6 +4451,10 @@
             },
             {
               "name": "Orphan",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Witch",
               "isMediaSpoiler": false
             },
             {
@@ -4648,8 +4649,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199066-nmAYnI6uChse.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785603600,
-            "episode": 4
+            "airingAt": 1786208400,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -4659,7 +4660,15 @@
           ],
           "tags": [
             {
+              "name": "Parody",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Reverse Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -4667,11 +4676,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Parody",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
+              "name": "Slapstick",
               "isMediaSpoiler": false
             },
             {
@@ -4683,8 +4688,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Slapstick",
-              "isMediaSpoiler": false
+              "name": "Magic",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": true
             },
             {
               "name": "Yuri",
@@ -4693,14 +4702,6 @@
             {
               "name": "Seinen",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": true
             },
             {
               "name": "Aliens",
@@ -4961,8 +4962,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194219-t8ID9kSIpXxf.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785598200,
-            "episode": 5
+            "airingAt": 1786203000,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -5501,11 +5502,11 @@
           ],
           "tags": [
             {
-              "name": "Monster Girl",
+              "name": "Youkai",
               "isMediaSpoiler": false
             },
             {
-              "name": "Youkai",
+              "name": "Monster Girl",
               "isMediaSpoiler": false
             },
             {
@@ -5807,8 +5808,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1785601800,
-            "episode": 5
+            "airingAt": 1786206600,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
