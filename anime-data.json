@@ -26,8 +26,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178789-9nHWmoRLlcLu.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785682800,
-            "episode": 6
+            "airingAt": 1786287600,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -62,11 +62,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Coming of Age",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
+              "name": "Coming of Age",
               "isMediaSpoiler": false
             },
             {
@@ -138,11 +138,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Adult Cast",
+              "name": "Love Triangle",
               "isMediaSpoiler": false
             },
             {
-              "name": "Love Triangle",
+              "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
@@ -1250,8 +1250,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103303-K73aVOqkCPqL.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785679200,
-            "episode": 5
+            "airingAt": 1786284000,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -1264,7 +1264,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Philosophy",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -1272,15 +1272,27 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Philosophy",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
+              "name": "Boys' Love",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
             },
             {
               "name": "Arranged Marriage",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
               "isMediaSpoiler": false
             },
             {
@@ -1290,10 +1302,6 @@
             {
               "name": "Tragedy",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
             }
           ],
           "averageScore": 76,
@@ -1396,11 +1404,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Female Cast",
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
+              "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
             {
@@ -1424,15 +1432,15 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
               "name": "Orphan",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
               "isMediaSpoiler": false
             },
             {
@@ -2565,8 +2573,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200637-q9mehOFbbCgT.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785677400,
-            "episode": 5
+            "airingAt": 1786282200,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -3100,12 +3108,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Nudity",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Tsundere",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": true
             },
             {
               "name": "Bullying",
@@ -3467,8 +3475,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188139-bxOal1Q2Ehlr.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785681960,
-            "episode": 4
+            "airingAt": 1786286760,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -3697,8 +3705,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177637-2Ok4Pq0SpvHp.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785684600,
-            "episode": 5
+            "airingAt": 1786289400,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -3707,15 +3715,11 @@
           ],
           "tags": [
             {
-              "name": "Fairy Tale",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coastal",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Fairy Tale",
               "isMediaSpoiler": false
             },
             {
@@ -3723,11 +3727,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Time Skip",
+              "name": "Coastal",
               "isMediaSpoiler": false
             },
             {
               "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Skip",
               "isMediaSpoiler": false
             },
             {
@@ -3736,10 +3748,6 @@
             },
             {
               "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
@@ -3759,10 +3767,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Witch",
               "isMediaSpoiler": false
             },
@@ -3776,6 +3780,10 @@
             },
             {
               "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
@@ -4112,6 +4120,10 @@
             },
             {
               "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
               "isMediaSpoiler": false
             }
           ],
@@ -5605,76 +5617,6 @@
           "descriptionTr": "Kısıtlı, tehlikeli bir dağ ormanına girme cesaretini gösteren Hinata ve Kaoru kardeşler, korkunç bir yılan tanrıyla tanışır ve kanka olurlar! Başlangıçta korkutucu görünümüne rağmen, kendi adını taşıyan \"talihsizlik tanrısı\" garip, yalnız ve şaşırtıcı derecede konuşması kolay bir insandır. Bu, beklenmedik bir dostluğun ve ardından gelen birçok komik, samimi maceranın hikayesidir.<br><br>(Kaynak: Crunchyroll)"
         },
         {
-          "id": 211711,
-          "title": {
-            "romaji": "Boku no Hero Academia: I am a hero too",
-            "english": null,
-            "native": "僕のヒーローアカデミア I am a hero too"
-          },
-          "synonyms": [
-            "My Hero Academia: I am a hero too Special"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 8,
-            "day": 3
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211711-Oy6R5cmGHLCL.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211711-Oy6R5cmGHLCL.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1785682800,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [],
-          "tags": [
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Superhero",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Skip",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": []
-          },
-          "description": "<p>Following the broadcast of My Hero Academia Episode 170+1, the series' official website and accounts revealed that a new short anime adapting the &quot;I Am a Hero Too&quot; bonus chapter will tell the story of Eri as a high-schooler when it releases this summer.<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://heroaca.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/heroaca_anime/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "My Hero Academia Bölüm 170+1'in yayınlanmasının ardından serinin resmi web sitesi ve hesapları, \"Ben de bir kahramanım\" bonus bölümünü uyarlayan yeni bir kısa animenin bu yaz yayınlandığında Eri'nin bir lise öğrencisi olarak hikayesini anlatacağını ortaya çıkardı.<br><br>(Kaynak: Crunchyroll)"
-        },
-        {
           "id": 196356,
           "title": {
             "romaji": "Ibitte Konai Gibo to Gishi",
@@ -6030,6 +5972,140 @@
           ],
           "isMyList": false,
           "descriptionTr": "Modern Japon genç Yuri, gizemli bir elin onu bir su birikintisinin altına sürüklemesinin ardından, M.Ö. 14. yüzyılın Hitit İmparatorluğu'nda uyanır. Taht için ölümcül bir mücadeleye sürüklenen o, suikastçılarla savaşmak, kraliyet komplolarını alt etmek ve savaş halindeki bir dünyada hayatta kalmak için Prens Kail'e katılır. Kahramanlıkları ona tanrıça İştar olarak ün kazandırırken Yuri, eski hayatı ile belirsiz bir gelecek arasında seçim yapmak zorunda kalır.<br><br>(Kaynak: Crunchyroll)"
+        },
+        {
+          "id": 188525,
+          "title": {
+            "romaji": "Kore Kaite Shine",
+            "english": "Draw This, Then Die!",
+            "native": "これ描いて死ね"
+          },
+          "synonyms": [
+            "Gambar Ini, Lalu Mati Sana!",
+            "วาดเรื่องนี้ก่อนแล้วค่อยตาย"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 3
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188525-uWhw4rQcqOyF.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188525-uWhw4rQcqOyF.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188525-Vnei12N4wZsM.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1786113000,
+            "episode": 6
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Drawing",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Writing",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Otaku Culture",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coastal",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Iyashikei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School Club",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Teacher",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cute Girls Doing Cute Things",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Rural",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 75,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Shin-Ei Animation"
+              }
+            ]
+          },
+          "description": "<p>First-year high school student Ai Yasumi lives on the island of Izu Oshima and loves reading manga. But after a certain turning point, she sets her sights on creating stories of her own! As she dives into the world of manga-making, Ai faces challenges, growth, and the excitement of chasing her creative dreams. Where will her creative journey take her?<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://www.vap.co.jp/korekaite-shine/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/korekaite_shine"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371656/draw-this-then-die"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@korekaite_shine"
+            },
+            {
+              "site": "Netflix",
+              "url": "https://www.netflix.com/title/81787975"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0BnHSDgsrzHcX29LmyNwQ1"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Lise birinci sınıf öğrencisi Ai Yasumi, Izu Oshima adasında yaşıyor ve manga okumayı seviyor. Ancak belli bir dönüm noktasından sonra gözünü kendi hikayelerini yaratmaya diker! Ai, manga yapma dünyasına dalarken zorluklarla, büyümeyle ve yaratıcı hayallerinin peşinden gitmenin heyecanıyla karşı karşıya kalır. Yaratıcı yolculuğu onu nereye götürecek?<br><br>(Kaynak: Crunchyroll)"
         }
       ]
     }
