@@ -58,10 +58,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Family Life",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Heterosexual",
               "isMediaSpoiler": false
             },
@@ -75,6 +71,10 @@
             },
             {
               "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Family Life",
               "isMediaSpoiler": false
             },
             {
@@ -1171,6 +1171,10 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Heterosexual",
               "isMediaSpoiler": false
             },
@@ -1847,6 +1851,10 @@
             {
               "name": "Travel",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Slavery",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 67,
@@ -2238,8 +2246,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199111-Z8y9awn2Zb6v.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785769200,
-            "episode": 5
+            "airingAt": 1786374000,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -2518,6 +2526,10 @@
             },
             {
               "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             }
           ],
@@ -3044,15 +3056,19 @@
           ],
           "tags": [
             {
-              "name": "Shapeshifting",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Body Image",
               "isMediaSpoiler": false
             },
             {
+              "name": "Shapeshifting",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
               "isMediaSpoiler": false
             },
             {
@@ -3061,10 +3077,6 @@
             },
             {
               "name": "Monster Girl",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
               "isMediaSpoiler": false
             },
             {
@@ -3735,19 +3747,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Time Skip",
               "isMediaSpoiler": false
             },
             {
-              "name": "Curses",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
               "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Curses",
               "isMediaSpoiler": false
             },
             {
@@ -4813,15 +4825,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Love Triangle",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Economics",
               "isMediaSpoiler": false
             },
             {
@@ -4829,19 +4833,23 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Economics",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Maids",
               "isMediaSpoiler": false
             },
             {
+              "name": "Gore",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Love Triangle",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Nun",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Slavery",
               "isMediaSpoiler": false
             },
             {
@@ -4853,7 +4861,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Gore",
+              "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Slavery",
               "isMediaSpoiler": false
             }
           ],
@@ -5639,7 +5651,8 @@
             "いびこな",
             "IbiKona",
             "My Mother-in-Law and Sister-in-Law Who Don't Bully Me",
-            "Keluarga Tiriku Manis dan Memanja"
+            "Keluarga Tiriku Manis dan Memanja",
+            "IbiKona: Mi Madrastra y Mis Hermanastras No Son Malvadas"
           ],
           "startDate": {
             "year": 2026,
@@ -6037,15 +6050,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "School Club",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Coastal",
               "isMediaSpoiler": false
             },
             {
               "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School Club",
               "isMediaSpoiler": false
             },
             {
@@ -6077,11 +6090,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Shounen",
+              "name": "Educational",
               "isMediaSpoiler": false
             },
             {
-              "name": "Educational",
+              "name": "Shounen",
               "isMediaSpoiler": false
             }
           ],
