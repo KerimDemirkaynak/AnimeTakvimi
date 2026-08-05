@@ -280,11 +280,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Office",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Office",
               "isMediaSpoiler": false
             },
             {
@@ -1408,15 +1408,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
             {
               "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
@@ -1432,16 +1432,16 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Body Horror",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
               "name": "Orphan",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Body Horror",
+              "isMediaSpoiler": true
             },
             {
               "name": "Gore",
@@ -1461,6 +1461,10 @@
             },
             {
               "name": "Shoujo",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
               "isMediaSpoiler": false
             }
           ],
@@ -2863,6 +2867,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Tragedy",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
@@ -2911,7 +2919,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Başkalarından kaçan sessiz bir üniversite birinci sınıf öğrencisi olan Kakeru Sorano, dünyaya sessiz bir parlaklıkla bakan kör bir kız olan Koharu Fuyutsuki ile tanışır. \"Bir gün havai fişek görmek istiyorum\" dediğinde Kakeru'da bir şeyler değişir. Küçük anlar ve paylaştıkları yalnızlık sayesinde yakınlaştıkça, onun arzusunu gerçekleştirmenin bir yolunu arar.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Başkalarından kaçan sessiz bir üniversite birinci sınıf öğrencisi Kakeru Sorano, dünyaya sessiz bir parlaklıkla bakan kör bir kız olan Koharu Fuyutsuki ile tanışır. \"Bir gün havai fişek görmek istiyorum\" dediğinde Kakeru'da bir şeyler değişir. Küçük anlar ve paylaştıkları yalnızlık sayesinde yakınlaştıkça, onun arzusunu gerçekleştirmenin bir yolunu arar.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 199748,
@@ -3022,7 +3030,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kahramanın grubundaki S seviye büyücü Luck, arkadaşlarını kurtarmak için Şeytan Kral'a karşı son bir direniş gösterir. Nihayet zaferle geri döndüğünde üzerinden on yıl geçmiştir ve dünya onu savaşta ölen efsanevi bir kahraman olarak övmektedir. Önceki hayatına geri dönemeyen Luck, kimliğini gizler ve onsuz devam eden bir dünyada geleceğini şekillendiren F sınıfı bir maceracı olan \"Lock\" olarak yeniden başlar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita, 3 Temmuz 2026'dan itibaren Prime Video'daki TV yayınından 3 gün önce yayınlanıyor. Düzenli yayın 6 Temmuz 2026'da başladı."
+          "descriptionTr": "Kahramanın grubundaki S seviye bir büyücü olan Luck, arkadaşlarını kurtarmak için Şeytan Kral'a karşı son bir duruş sergiliyor. Nihayet zaferle geri döndüğünde üzerinden on yıl geçmiştir ve dünya onu savaşta ölen efsanevi bir kahraman olarak övmektedir. Önceki hayatına geri dönemeyen Luck, kimliğini gizler ve onsuz devam eden bir dünyada geleceğini şekillendiren F sınıfı bir maceracı olan \"Lock\" olarak yeniden başlar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita, 3 Temmuz 2026'dan itibaren Prime Video'daki TV yayınından 3 gün önce yayınlanıyor. Düzenli yayın 6 Temmuz 2026'da başladı."
         },
         {
           "id": 204466,
@@ -3485,7 +3493,7 @@
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188139-1qIJfWxym8FX.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188139-1qIJfWxym8FX.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188139-bxOal1Q2Ehlr.jpg",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188139-PU5JsGJiiUnR.jpg",
           "nextAiringEpisode": {
             "airingAt": 1786286760,
             "episode": 5
@@ -4893,7 +4901,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Etkili bir başbakanın kızı Elizabeth Leiston, Haldoria Krallığı'nın gelecekteki kraliçesi olma yolundaki kusursuz bir kadındır. Ancak nişanlısının halka açık bir şekilde nişanlarını iptal ettiğini gösteren bir gösteri yapmasıyla hayatı aniden kötüye gider. Kısa süre sonra onu hapse atar ve onun hakkında kötü söylentiler yaymaya başlar. Elizabeth'in, sadık hizmetçisi Mireille'den aldığı cesaret ve içindeki öfke, hedeflerini yeniden gözden geçirmek için ihtiyacı olan tek şey. Kendisine saygı duymayan bir ülkeyi ayaklar altına almak varken neden kendini ona adamaya devam etsin ki? Yaptığı son şey olsa bile, kendisine haksızlık edenlerin intikamını alacak ve lanet krallığı yıkacak! Şans eseri, Elizabeth tehlikede olan bir genç kız değil ve kullanmaktan çekinmeyeceği yedi güçlü büyü kitabına sahip. Hazır olun çünkü bu acımasız kadının kana ihtiyacı var!<br><br>(Kaynak: J-Novel Kulübü)"
+          "descriptionTr": "Nüfuzlu başbakanın kızı Elizabeth Leiston, Haldoria Krallığı'nın gelecekteki kraliçesi olma yolundaki kusursuz bir hanımefendi. Ancak nişanlısının halka açık bir şekilde nişanlarını iptal ettiğini gösteren bir gösteri yapmasıyla hayatı aniden kötüye gider. Kısa süre sonra onu hapse atar ve onun hakkında kötü söylentiler yaymaya başlar. Elizabeth'in, sadık hizmetçisi Mireille'den aldığı cesaret ve içindeki öfke, hedeflerini yeniden gözden geçirmek için ihtiyacı olan tek şey. Kendisine saygı duymayan bir ülkeyi ayaklar altına almak varken neden kendini ona adamaya devam etsin ki? Yaptığı son şey olsa bile, kendisine haksızlık edenlerin intikamını alacak ve lanet krallığı yıkacak! Şans eseri, Elizabeth tehlikede olan bir genç kız değil ve kullanmaktan çekinmeyeceği yedi güçlü büyü kitabına sahip. Hazır olun çünkü bu acımasız kadının kana ihtiyacı var!<br><br>(Kaynak: J-Novel Kulübü)"
         },
         {
           "id": 196219,
@@ -5212,8 +5220,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198709-wyZYzcKM5itk.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785855600,
-            "episode": 5
+            "airingAt": 1786460400,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -5856,7 +5864,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine ikna oldu: Kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir yaşam. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve içten bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
+          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine inanır: kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir yaşam. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve samimi bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
         },
         {
           "id": 207809,
@@ -5879,8 +5887,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1785861300,
-            "episode": 5
+            "airingAt": 1786466100,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
