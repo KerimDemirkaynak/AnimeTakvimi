@@ -1594,11 +1594,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Bisexual",
               "isMediaSpoiler": false
             },
             {
-              "name": "Bisexual",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
@@ -1677,8 +1677,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1785940200,
-            "episode": 5
+            "airingAt": 1786545000,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -2144,8 +2144,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1785941160,
-            "episode": 5
+            "airingAt": 1786545960,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -3201,8 +3201,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197715-X8YkpOGY968a.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785942000,
-            "episode": 7
+            "airingAt": 1786546800,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -3639,11 +3639,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Time Skip",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Time Skip",
               "isMediaSpoiler": false
             },
             {
@@ -3895,6 +3895,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Advertisement",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
@@ -3903,7 +3907,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Advertisement",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
@@ -3916,10 +3920,6 @@
             },
             {
               "name": "Ojou-sama",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
@@ -4639,6 +4639,10 @@
             {
               "name": "Primarily Female Cast",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 67,
@@ -4728,11 +4732,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Cute Girls Doing Cute Things",
+              "name": "Iyashikei",
               "isMediaSpoiler": false
             },
             {
-              "name": "Iyashikei",
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
@@ -4744,20 +4748,20 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Yuri",
               "isMediaSpoiler": true
             },
             {
-              "name": "Parody",
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Historical",
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
+              "name": "Parody",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 70,
@@ -5677,8 +5681,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196356-OUT2nMhW0IdS.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1785940200,
-            "episode": 5
+            "airingAt": 1786545000,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -6090,11 +6094,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "School",
+              "name": "Rural",
               "isMediaSpoiler": false
             },
             {
-              "name": "Rural",
+              "name": "School",
               "isMediaSpoiler": false
             },
             {
