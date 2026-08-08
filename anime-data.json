@@ -2461,15 +2461,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Foreign",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Slavery",
               "isMediaSpoiler": false
             },
             {
+              "name": "Foreign",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Time Skip",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
               "isMediaSpoiler": false
             },
             {
@@ -2478,10 +2482,6 @@
             },
             {
               "name": "Class Struggle",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
               "isMediaSpoiler": false
             },
             {
@@ -2530,14 +2530,6 @@
             },
             {
               "name": "Desert",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             }
           ],
@@ -3006,7 +2998,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 65,
+          "averageScore": 64,
           "studios": {
             "nodes": [
               {
@@ -3446,7 +3438,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 71,
+          "averageScore": 72,
           "studios": {
             "nodes": [
               {
@@ -3590,6 +3582,122 @@
           ],
           "isMyList": false,
           "descriptionTr": "Beş Klan'ın bakireleri Veliaht Prens'in kalbi için savaşırken kıskanç Keigetsu, sevgili Reirin'le beden değiştirmek için yasak büyüyü kullanır. Yeni vücudunun kötü sağlık durumu onu ölümün eşiğine getirdiğinden, yer değiştirmek Keigetsu'nun mutluluğunu garanti etmez. Bu arada, artık küçümsenmiş bir serseri yüzüne bürünen Reirin, tehlikeli bir duruşmada Keigetsu'nun suçlarına cevap vermek zorundadır.<br><br>Beklenmedik ikili giderek birbirlerinin hayatlarına karışıyor ve sarayın güler yüzlü yüzeyinin altında gelişen karanlık komploları keşfettikten sonra hayatta kalmak için birlikte çalışmaları gerekecek. Gölgelerde gizlenen ölümcül tehditlerle yüzleşmek için Reirin, yeni kimliğini benimsemeli ve mahkemenin beceriksiz kötülüğüne ilişkin beklentilerine karşı gelmelidir.<br><br>(Kaynak: Crunchyroll)"
+        },
+        {
+          "id": 196218,
+          "title": {
+            "romaji": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama",
+            "english": "The Frontier Lord Begins with Zero Subjects",
+            "native": "領民0人スタートの辺境領主様"
+          },
+          "synonyms": [
+            "The Frontier Lord Begins with Zero Subjects: Tales of Blue Dias and the Beastkin Alna",
+            "The Population of the Frontier Owner Stars with 0.",
+            "Penguasa Negeri Terluar Memulai dari 0 Rakyat",
+            "ได้เป็นถึงท่านเจ้าครอบครองดินแดน แต่ดันมีพลเมืองเริ่มต้นจากศูนย์ซะงั้น"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 3
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196218-UsdTTCrwpDIN.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196218-UsdTTCrwpDIN.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196218-lX0y9T76KQkC.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1786714200,
+            "episode": 7
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Kingdom Management",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cohabitation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Found Family",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Gap",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Agriculture",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Rural",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Wilderness",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anthropomorphism",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Family Life",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gender Bending",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 67,
+          "studios": {
+            "nodes": [
+              {
+                "name": "animation studio42"
+              }
+            ]
+          },
+          "description": "<p>The war is over, and hero Dias is finally rewarded with land of his own—only to discover it's a barren frontier with no people, no villages, and no sign of civilization. With nothing but endless grassland ahead of him, Dias sets out to build a domain from the ground up. But after meeting Alna, a mysterious girl with a blue horn, his lonely frontier is about to spring to life.<br />\n<br><br><br />\n(Source: Crunchyroll)<br><br></p>\n<p><i>Note: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama is streaming a week advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 10th, 2026.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/ryomin0_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://ryomin0-anime.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378124/the-frontier-lord-begins-with-zero-subjects"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/media/2413170"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Savaş sona erdi ve kahraman Dias sonunda kendine ait bir toprakla ödüllendirildi; ancak buranın insansız, köysüz ve medeniyet belirtisi olmayan çorak bir sınır olduğunu keşfetti. Önünde uçsuz bucaksız bir çayırdan başka hiçbir şey kalmayan Dias, sıfırdan bir alan inşa etmeye koyulur. Ancak mavi boynuzlu gizemli kız Alna ile tanıştıktan sonra yalnızlık sınırı yeniden canlanmak üzeredir.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama, 3 Temmuz 2026'dan itibaren Prime Video'da TV yayınının bir haftalık akışını yayınlıyor. Düzenli yayın 10 Temmuz 2026'da başladı."
         },
         {
           "id": 177637,
@@ -3743,123 +3851,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bir zamanlar Lara adında bir deniz kızı prensesi, insan bir prense aşık olur. Onunla birlikte olabilmek için insan olabilmek için bir cadı iksiri kullandı ama bu büyünün bir bedeli vardı: Eğer gerçek aşkı bulamazsa, sonsuza kadar deniz köpüğünün içinde kaybolacaktı. Şimdi, 200 yıl sonra Lara, Biwa Gölü'nde hayat ve aşk için son bir şansla uyanır.<br><br>(Kaynak: Crunchyroll)"
-        },
-        {
-          "id": 196218,
-          "title": {
-            "romaji": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama",
-            "english": "The Frontier Lord Begins with Zero Subjects",
-            "native": "領民0人スタートの辺境領主様"
-          },
-          "synonyms": [
-            "The Frontier Lord Begins with Zero Subjects: Tales of Blue Dias and the Beastkin Alna",
-            "The Population of the Frontier Owner Stars with 0.",
-            "Penguasa Negeri Terluar Memulai dari 0 Rakyat",
-            "ได้เป็นถึงท่านเจ้าครอบครองดินแดน แต่ดันมีพลเมืองเริ่มต้นจากศูนย์ซะงั้น"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 3
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196218-UsdTTCrwpDIN.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196218-UsdTTCrwpDIN.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196218-lX0y9T76KQkC.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1786714200,
-            "episode": 7
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Drama",
-            "Fantasy",
-            "Romance",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Kingdom Management",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cohabitation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Found Family",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Gap",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Agriculture",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Rural",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Wilderness",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Anthropomorphism",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Family Life",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gender Bending",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 67,
-          "studios": {
-            "nodes": [
-              {
-                "name": "animation studio42"
-              }
-            ]
-          },
-          "description": "<p>The war is over, and hero Dias is finally rewarded with land of his own—only to discover it's a barren frontier with no people, no villages, and no sign of civilization. With nothing but endless grassland ahead of him, Dias sets out to build a domain from the ground up. But after meeting Alna, a mysterious girl with a blue horn, his lonely frontier is about to spring to life.<br />\n<br><br><br />\n(Source: Crunchyroll)<br><br></p>\n<p><i>Note: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama is streaming a week advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 10th, 2026.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/ryomin0_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://ryomin0-anime.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378124/the-frontier-lord-begins-with-zero-subjects"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/media/2413170"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Savaş sona erdi ve kahraman Dias sonunda kendine ait bir toprakla ödüllendirildi; ancak buranın insansız, köysüz ve medeniyet belirtisi olmayan çorak bir sınır olduğunu keşfetti. Önünde uçsuz bucaksız bir çayırdan başka hiçbir şey kalmayan Dias, sıfırdan bir alan inşa etmeye koyulur. Ancak mavi boynuzlu gizemli kız Alna ile tanıştıktan sonra yalnızlık sınırı yeniden canlanmak üzeredir.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama, 3 Temmuz 2026'dan itibaren Prime Video'da TV yayınının bir haftalık akışını yayınlıyor. Düzenli yayın 10 Temmuz 2026'da başladı."
+          "descriptionTr": "Bir zamanlar Lara adında bir deniz kızı prensesi, insan bir prense aşık olur. Onunla birlikte olabilmek için insan olabilmek için bir cadı iksiri kullandı ama bu büyünün bir bedeli vardı: Eğer gerçek aşkı bulamazsa, sonsuza dek deniz köpüğünün içinde kaybolacaktı. Şimdi, 200 yıl sonra Lara, Biwa Gölü'nde hayat ve aşk için son bir şansla uyanır.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 128757,
@@ -4073,7 +4065,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 76,
+          "averageScore": 75,
           "studios": {
             "nodes": [
               {
@@ -4298,8 +4290,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186863-hRsC2yxvILTx.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1786190400,
-            "episode": 7
+            "airingAt": 1786795200,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -4768,7 +4760,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 70,
+          "averageScore": 69,
           "studios": {
             "nodes": [
               {
@@ -4909,7 +4901,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Etkili bir başbakanın kızı Elizabeth Leiston, Haldoria Krallığı'nın gelecekteki kraliçesi olma yolundaki kusursuz bir kadındır. Ancak nişanlısının halka açık bir şekilde nişanlarını iptal ettiğini gösteren bir gösteri yapmasıyla hayatı aniden kötüye gider. Kısa süre sonra onu hapse atar ve onun hakkında kötü söylentiler yaymaya başlar. Elizabeth'in, sadık hizmetçisi Mireille'den aldığı cesaret ve içindeki öfke, hedeflerini yeniden gözden geçirmek için ihtiyacı olan tek şey. Kendisine saygı duymayan bir ülkeyi ayaklar altına almak varken neden kendini ona adamaya devam etsin ki? Yaptığı son şey olsa bile, kendisine haksızlık edenlerin intikamını alacak ve lanet krallığı yıkacak! Şans eseri, Elizabeth tehlikede olan bir genç kız değil ve kullanmaktan çekinmeyeceği yedi güçlü büyü kitabına sahip. Hazır olun çünkü bu acımasız kadının kana ihtiyacı var!<br><br>(Kaynak: J-Novel Kulübü)"
+          "descriptionTr": "Nüfuzlu başbakanın kızı Elizabeth Leiston, Haldoria Krallığı'nın gelecekteki kraliçesi olma yolundaki kusursuz bir hanımefendi. Ancak nişanlısının halka açık bir şekilde nişanlarını iptal ettiğini gösteren bir gösteri yapmasıyla hayatı aniden kötüye gider. Kısa süre sonra onu hapse atar ve onun hakkında kötü söylentiler yaymaya başlar. Elizabeth'in, sadık hizmetçisi Mireille'den aldığı cesaret ve içindeki öfke, hedeflerini yeniden gözden geçirmek için ihtiyacı olan tek şey. Kendisine saygı duymayan bir ülkeyi ayaklar altına almak varken neden kendini ona adamaya devam etsin ki? Yaptığı son şey olsa bile, kendisine haksızlık edenlerin intikamını alacak ve lanet krallığı yıkacak! Şans eseri, Elizabeth tehlikede olan bir genç kız değil ve kullanmaktan çekinmeyeceği yedi güçlü büyü kitabına sahip. Hazır olun çünkü bu acımasız kadının kana ihtiyacı var!<br><br>(Kaynak: J-Novel Kulübü)"
         },
         {
           "id": 196219,
@@ -5145,11 +5137,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Public Sex",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Public Sex",
               "isMediaSpoiler": false
             },
             {
@@ -5558,113 +5550,6 @@
           "descriptionTr": "Kısıtlı ve tehlikeli bir dağ ormanına girme cesaretini gösteren Hinata ve Kaoru kardeşler, korkunç bir yılan tanrıyla tanışır ve kanka olurlar! Başlangıçta korkutucu görünümüne rağmen, kendi adını taşıyan \"talihsizlik tanrısı\" garip, yalnız ve şaşırtıcı derecede konuşması kolay bir insandır. Bu, beklenmedik bir dostluğun ve ardından gelen birçok komik, samimi maceranın hikayesidir.<br><br>(Kaynak: Crunchyroll)"
         },
         {
-          "id": 211308,
-          "title": {
-            "romaji": "THE RIBBON HERO",
-            "english": "THE RIBBON HERO",
-            "native": "THE RIBBON HERO"
-          },
-          "synonyms": [
-            "リボンへーロー",
-            "La heroína del lazo"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 8,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b211308-88VZiAPkkXZV.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b211308-88VZiAPkkXZV.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/211308-4RLMAhvtMh68.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1786179660,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Fantasy",
-            "Mahou Shoujo"
-          ],
-          "tags": [
-            {
-              "name": "Shoujo",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Superhero",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Fairy Tale",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cyborg",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Crossdressing",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tomboy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "OUTLINE"
-              }
-            ]
-          },
-          "description": "<p>Princess Sapphire of the lost kingdom. Stripped of everything in her homeland, Silverland, by the calamity known as &quot;Nergal,&quot; she arrived in Goldland at the very depths of despair. While carrying the weight of her past, she began to find a glimmer of hope through the kindness of the people. Yet, as if mocking her peaceful daily life, the calamity &quot;Nergal&quot; appears once more. The same despair that reduced her homeland to ashes is now threatening to steal the light from this land as well.<br><br><br />\n<i>&quot;No more loss for me. No more loss for anyone.”</i> <br><br>Wiping way her fears of sorrow, the young girl takes up her sword. <br>This is the story of a hero who ties her ribbon and resolves to defy fate. <br><br></p>\n<p>(Source: THE RIBBON HERO Official Site)<br />\n<br><br></p>\n<p><i> Note: This anime is inspired by Osamu Tezuka's manga &quot;Princess Knight”.</p>",
-          "externalLinks": [
-            {
-              "site": "Netflix",
-              "url": "https://www.netflix.com/title/81493703"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://www.theribbonhero.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/the_ribbon_hero"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@the_ribbon_hero"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Kayıp krallığın Prensesi Safir. \"Nergal\" olarak bilinen felaket nedeniyle memleketi Silverland'deki her şeyden mahrum kalan sanatçı, umutsuzluğun en derin noktasında Goldland'e geldi. Geçmişinin ağırlığını taşırken insanların nezaketinde bir umut ışığı bulmaya başladı. Ancak onun huzurlu günlük yaşamıyla alay edercesine, \"Nergal\" felaketi bir kez daha karşımıza çıkar. Vatanını küle çeviren çaresizlik, şimdi bu toprakların ışığını da çalmakla tehdit ediyor.<br><br>\"Benim için artık kayıp yok. Kimse için artık kayıp yok.\" <br><br>Genç kız, üzüntü korkusunu bir kenara bırakarak kılıcını alır. <br>Bu, kurdelesini bağlayıp kadere meydan okumaya karar veren bir kahramanın hikayesidir. <br><br>(Kaynak: THE RIBBON HERO Resmi Sitesi)<br><br> Not: Bu anime Osamu Tezuka'nın \"Princess Knight\" adlı mangasından esinlenilmiştir."
-        },
-        {
           "id": 196356,
           "title": {
             "romaji": "Ibitte Konai Gibo to Gishi",
@@ -5783,7 +5668,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine ikna oldu: Kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir yaşam. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve samimi bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
+          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine inanır: kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir yaşam. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve içten bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
         },
         {
           "id": 208225,
@@ -6044,7 +5929,7 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188525-Vnei12N4wZsM.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1786717800,
+            "airingAt": 1787322600,
             "episode": 7
           },
           "isAdult": false,
@@ -6082,14 +5967,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Teacher",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
@@ -6099,10 +5976,6 @@
             },
             {
               "name": "Rural",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Educational",
               "isMediaSpoiler": false
             },
             {
@@ -6151,6 +6024,91 @@
           ],
           "isMyList": false,
           "descriptionTr": "Lise birinci sınıf öğrencisi Ai Yasumi, Izu Oshima adasında yaşıyor ve manga okumayı seviyor. Ancak belli bir dönüm noktasından sonra gözünü kendi hikayelerini yaratmaya diker! Ai, manga yapma dünyasına dalarken zorluklarla, büyümeyle ve yaratıcı hayallerinin peşinden gitmenin heyecanıyla karşı karşıya kalır. Yaratıcı yolculuğu onu nereye götürecek?<br><br>(Kaynak: Crunchyroll)"
+        },
+        {
+          "id": 204060,
+          "title": {
+            "romaji": "Tetsunabe no Jan!",
+            "english": "Iron Wok Jan!",
+            "native": "鉄鍋のジャン！"
+          },
+          "synonyms": [
+            "จอมโหดกระทะเหล็ก"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204060-bKhovD8jAlW8.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204060-bKhovD8jAlW8.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204060-3y19sqCToRaN.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1786264200,
+            "episode": 6
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Comedy"
+          ],
+          "tags": [
+            {
+              "name": "Food",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Restaurant",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Drugs",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Suicide",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Educational",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 69,
+          "studios": {
+            "nodes": [
+              {
+                "name": "TROYCA"
+              }
+            ]
+          },
+          "description": "<p>Jan Akiyama, a cocky arrogant teenager wants to fulfill his grandfathers wish of defeating his arch nemesis Mutsuju Gobancho. When he arrives at the Gobancho restaurant he meets his granddaughter Kiriko Gobancho. Their rivalry is easily compared to Jan's and Kiriko's grandfathers, for Jan believes cooking is about competition and Kiriko believes cooking is about heart.</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/tetsujan1995"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://tetsujan.com"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378075/"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Kendini beğenmiş kibirli bir genç olan Jan Akiyama, büyükbabasının baş düşmanı Mutsuju Gobancho'yu yenme arzusunu gerçekleştirmek istiyor. Gobancho restoranına vardığında torunu Kiriko Gobancho ile tanışır. Aralarındaki rekabet kolayca Jan'ın ve Kiriko'nun büyükbabalarıyla kıyaslanabilir; çünkü Jan yemek pişirmenin rekabetle ilgili olduğuna, Kiriko da yemek pişirmenin kalple ilgili olduğuna inanır."
         }
       ]
     }
