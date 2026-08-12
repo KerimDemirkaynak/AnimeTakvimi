@@ -65,11 +65,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Swordplay",
+              "name": "Family Life",
               "isMediaSpoiler": false
             },
             {
-              "name": "Family Life",
+              "name": "Swordplay",
               "isMediaSpoiler": false
             },
             {
@@ -1330,12 +1330,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Orphan",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Body Horror",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Orphan",
+              "isMediaSpoiler": false
             },
             {
               "name": "Gore",
@@ -1350,11 +1350,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "CGI",
+              "name": "Shoujo",
               "isMediaSpoiler": false
             },
             {
-              "name": "Shoujo",
+              "name": "CGI",
               "isMediaSpoiler": false
             },
             {
@@ -1526,8 +1526,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177699-5kDbvDBhtSE3.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1786456800,
-            "episode": 6
+            "airingAt": 1787061600,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -1605,11 +1605,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Gender Bending",
               "isMediaSpoiler": false
             },
             {
-              "name": "Episodic",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
@@ -1617,7 +1617,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Gender Bending",
+              "name": "Episodic",
               "isMediaSpoiler": false
             },
             {
@@ -1665,7 +1665,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yıl 2029. Yakın gelecekte Japonya'da, gezegeni kapsayan geniş bir şirket ağıyla, içinden elektronlar ve ışık saçılarak dünyanın son derece bilgi yoğunluklu hale geldiği yer. Ancak ulus devlet ve etnik gruplar hâlâ varlığını sürdürüyor.  <br><br> Tam vücutlu bir cyborg olan Motoko Kusanagi, Batou'nun da aralarında bulunduğu seçkin bir savaş birimine liderlik ediyor. Kusanagi, ekibine komuta ederken, ortaya çıkan tehditlere karşı önleyici saldırı yapacak özel bir görev gücü oluşturulmasını öngörüyor. Bu arada benzer bir birim kurmayı planlayan İçişleri Bakanlığı'ndan Daisuke Aramaki, Kusanagi ve ekibini işe aldı. Birlikte, \"Kabuk Takımı\" olarak bilinen saldırı taktiksel birimi olan Kamu Güvenliği Bölüm 9 olarak operasyonlara başlarlar. Karmaşık siber suçlar ve uluslararası komplolarla karşı karşıya kalırken, araştırmalarının ufkunda \"Kukla Ustası\" olarak bilinen gizemli, kimliği belirsiz bir hackerın varlığı ortaya çıkıyor. <br><br> Kusanagi'yi nasıl bir kader bekliyor? Peki Puppet Master'ın gerçek amacı nedir? Siberpunk aksiyonunda yeni bir dönem başlıyor.  <br><br>(Kaynak: 攻殻機動隊 THE GHOST IN THE SHELL Sitesi)"
+          "descriptionTr": "Yıl 2029. Yakın gelecekte Japonya'da, gezegeni kapsayan geniş bir şirket ağıyla, içinden elektronlar ve ışık saçılarak dünyanın son derece bilgi yoğun hale geldiği yer. Ancak ulus devlet ve etnik gruplar hâlâ varlığını sürdürüyor.  <br><br> Tam vücutlu bir cyborg olan Motoko Kusanagi, Batou'nun da aralarında bulunduğu seçkin bir savaş birimine liderlik ediyor. Kusanagi, ekibine komuta ederken, ortaya çıkan tehditlere karşı önleyici saldırı yapacak özel bir görev gücü oluşturulmasını öngörüyor. Bu arada benzer bir birim kurmayı planlayan İçişleri Bakanlığı'ndan Daisuke Aramaki, Kusanagi ve ekibini işe aldı. Birlikte, \"Kabuk Takımı\" olarak bilinen saldırı taktiksel birimi olan Kamu Güvenliği Bölüm 9 olarak operasyonlara başlarlar. Karmaşık siber suçlar ve uluslararası komplolarla karşı karşıya kalırken, araştırmalarının ufkunda \"Kukla Ustası\" olarak bilinen gizemli, kimliği belirsiz bir hackerın varlığı ortaya çıkıyor. <br><br> Kusanagi'yi nasıl bir kader bekliyor? Peki Puppet Master'ın gerçek amacı nedir? Siberpunk aksiyonunda yeni bir dönem başlıyor.  <br><br>(Kaynak: 攻殻機動隊 THE GHOST IN THE SHELL Sitesi)"
         },
         {
           "id": 159309,
@@ -2551,6 +2551,10 @@
             {
               "name": "Heterosexual",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Estranged Family",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 81,
@@ -2623,6 +2627,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Kuudere",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Ojou-sama",
               "isMediaSpoiler": false
             },
@@ -2663,7 +2671,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Kuudere",
+              "name": "Chibi",
               "isMediaSpoiler": false
             },
             {
@@ -3057,7 +3065,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kahramanın grubundaki S seviye bir büyücü olan Luck, arkadaşlarını kurtarmak için Şeytan Kral'a karşı son bir duruş sergiliyor. Nihayet zaferle geri döndüğünde üzerinden on yıl geçmiştir ve dünya onu savaşta ölen efsanevi bir kahraman olarak övmektedir. Önceki hayatına geri dönemeyen Luck, kimliğini gizler ve onsuz devam eden bir dünyada geleceğini şekillendiren F sınıfı bir maceracı olan \"Lock\" olarak yeniden başlar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita, 3 Temmuz 2026'dan itibaren Prime Video'daki TV yayınından 3 gün önce yayınlanıyor. Düzenli yayın 6 Temmuz 2026'da başladı."
+          "descriptionTr": "Kahramanın grubundaki S seviye büyücü Luck, arkadaşlarını kurtarmak için Şeytan Kral'a karşı son bir direniş gösterir. Nihayet zaferle geri döndüğünde üzerinden on yıl geçmiştir ve dünya onu savaşta ölen efsanevi bir kahraman olarak övmektedir. Önceki hayatına geri dönemeyen Luck, kimliğini gizler ve onsuz devam eden bir dünyada geleceğini şekillendiren F sınıfı bir maceracı olan \"Lock\" olarak yeniden başlar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita, 3 Temmuz 2026'dan itibaren Prime Video'daki TV yayınından 3 gün önce yayınlanıyor. Düzenli yayın 6 Temmuz 2026'da başladı."
         },
         {
           "id": 204466,
@@ -3305,7 +3313,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Çocukluğunda her zaman arkadaş olacağına dair söz verdikten yedi yıl sonra Hayato, eski erkeksi arkadaşı Haruki ile şehirdeki bir lisede yeniden bir araya gelir - ancak şimdi Haruki her erkeğin hayalini kurduğu kıza dönüşmüştür! Haruki'nin görünüşü değişmiş olsa da Hayato hâlâ hatırladığı arkadaşıdır. Yıllar geçmesine rağmen vaatleri ve duyguları devam ediyor ve daha güçlü bir şeye doğru derinleşiyor.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Çocukluğunda her zaman arkadaş olacağına dair söz verdikten yedi yıl sonra Hayato, eski erkeksi arkadaşı Haruki ile bir şehir lisesinde yeniden bir araya gelir - ancak şimdi Haruki her erkeğin hayalini kurduğu kıza dönüşmüştür! Haruki'nin görünüşü değişmiş olsa da Hayato hâlâ hatırladığı arkadaşıdır. Yıllar geçmesine rağmen verdikleri sözler ve hisler devam ediyor ve daha güçlü bir şeye doğru derinleşiyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 197715,
@@ -3674,19 +3682,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Curses",
               "isMediaSpoiler": false
             },
             {
-              "name": "Interspecies",
+              "name": "Reincarnation",
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Interspecies",
               "isMediaSpoiler": false
             },
             {
@@ -3695,6 +3699,14 @@
             },
             {
               "name": "Boxing",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -3714,10 +3726,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Transgender",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Bisexual",
               "isMediaSpoiler": false
             },
@@ -3726,19 +3734,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Unrequited Love",
+              "name": "Transgender",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "School Club",
-              "isMediaSpoiler": false
             },
             {
               "name": "Tomboy",
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
+              "name": "Unrequited Love",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "School Club",
               "isMediaSpoiler": false
             },
             {
@@ -3942,11 +3950,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
@@ -4455,7 +4463,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Hikaye, ormanda bir anne kedi tarafından büyütülen, ateş püskürten, insanlardan nefret eden bir ejderhayı konu alıyor. Sevgiyle \"Wing Amca\" olarak anılan ejderha, biri insan prensle maceraya çıkan, diğeri şehirde yaşayan ve hobi olarak insanları izleyen pek çok meraklı kediyi gözetliyor ve bu yolda yavaş yavaş insanlara ısınıyor.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Her bölüm ABEMA ve dAnimeStore'da 1 hafta erken yayınlandı. Orijinal TV yayını 4 Temmuz 2026'da başladı."
+          "descriptionTr": "Hikaye, ormanda bir anne kedi tarafından büyütülen, ateş püskürten, insanlardan nefret eden bir ejderhayı konu alıyor. Sevgiyle \"Wing Amca\" olarak anılan ejderha, biri insan prensle maceraya çıkan, diğeri şehirde yaşayan ve insanları hobi olarak izleyen pek çok meraklı kediye göz kulak oluyor ve yol boyunca yavaş yavaş insanlara ısınıyor.<br><br>(Kaynak: Crunchyroll Haberleri)<br><br>Not: Her bölüm ABEMA ve dAnimeStore'da 1 hafta erken yayınlandı. Orijinal TV yayını 4 Temmuz 2026'da başladı."
         },
         {
           "id": 206521,
@@ -5039,7 +5047,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Japon tarzı bir ayakaşi Cinderella hikayesi! \"Bunca zamandır aradığım gelin sensin.\" Ayakaşiler ve insanlar uyum içinde bir arada yaşarlar. Üstün yeteneklere ve güzel görünüme sahip olan ayakaşiler, bazen insan kadınları arasında kendilerine eş bularak onları \"gelinleri\" haline getirirler. Gelin, refah getirmesi karşılığında ayakaşiden mutlak sevgi alır. Yuzu sürekli olarak şeytan tilkinin gelini olan kız kardeşiyle karşılaştırılıyor ve ailesi tarafından her gün kızıyor. Bir gün Yuzu artık dayanamadığı bir anda köprüde karşısına bir adam çıkar. Bu adam Yuzu'nun gördüğü en güzel adam... ve ona karısı mı diyor?! \"Sessiz ol ve sana sarılmama izin ver.\" En güçlü, \"soğuk kalpli\" ayakashi, Yuzu için kalbini mi döküyor?!<br><br>(Kaynak: MangaPlaza)"
+          "descriptionTr": "Japon tarzı bir ayakaşi Cinderella hikayesi! \"Bunca zamandır aradığım gelin sensin.\" Ayakaşiler ve insanlar uyum içinde bir arada yaşarlar. Üstün yeteneklere ve güzel görünüme sahip olan ayakaşiler, bazen insan kadınları arasında kendilerine eş bularak onları \"gelinleri\" haline getirirler. Gelin, refah getirmesi karşılığında ayakaşiden mutlak sevgi alır. Yuzu sürekli olarak şeytan tilkinin gelini olan kız kardeşiyle karşılaştırılıyor ve ailesi tarafından her gün kızıyor. Bir gün Yuzu artık hiçbir şeye dayanamadığında, köprüde karşısına bir adam çıkar. Bu adam Yuzu'nun gördüğü en güzel adam... ve ona karısı mı diyor?! \"Sessiz ol ve sana sarılmama izin ver.\" En güçlü, \"soğuk kalpli\" ayakaşi, Yuzu için kalbini mi döküyor?!<br><br>(Kaynak: MangaPlaza)"
         },
         {
           "id": 196219,
@@ -5062,8 +5070,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196219-2F64WTRfqRU9.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1786453200,
-            "episode": 7
+            "airingAt": 1787058000,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -5263,8 +5271,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198709-wyZYzcKM5itk.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1786460400,
-            "episode": 6
+            "airingAt": 1787065200,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -5279,6 +5287,14 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Parenthood",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Josei",
               "isMediaSpoiler": false
             },
@@ -5287,11 +5303,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Parenthood",
+              "name": "Espionage",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Royal Affairs",
               "isMediaSpoiler": false
             },
             {
@@ -5305,14 +5321,6 @@
             {
               "name": "Tragedy",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Espionage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
             },
             {
               "name": "Rural",
@@ -5707,7 +5715,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine ikna oldu: Kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir yaşam. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve içten bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
+          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine inanır: kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir yaşam. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve içten bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
         },
         {
           "id": 208225,
@@ -5823,8 +5831,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1786466100,
-            "episode": 6
+            "airingAt": 1787070900,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -6022,16 +6030,16 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "LGBTQ+ Themes",
               "isMediaSpoiler": true
             },
             {
               "name": "Yuri",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 76,
