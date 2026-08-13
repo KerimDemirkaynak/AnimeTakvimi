@@ -165,7 +165,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 85,
+          "averageScore": 84,
           "studios": {
             "nodes": [
               {
@@ -1389,119 +1389,6 @@
           "descriptionTr": "Sheena'nın yaşadığı gizemli yetimhanede ölüm, buranın sakinleri için yeni bir şey değil; artık kendi aileleri olmayan, savaş silahı olarak yetiştirilen, gözlerini bile kırpmadan öldürmeyi ve başkalarının canını almayı öğreten kızlara. Etrafında büyüyen çatışmanın sona ermesinden başka bir şey istemeyen Sheena dışında herkes. Oda arkadaşının öldüğü gece Sheena, etrafını saran kargaşaya rağmen gülümseyen, kanlar içinde tuhaf bir kızla tanışır. Ertesi gün kız, Sheena'nın sınıfına yeni bir öğrenci olarak görünür ve kendisini Mimi olarak tanıtır. Başlangıçta bir okul efsanesi olduğu düşünülse de, artık yetimhanenin koridorlarında Mimi'nin onların gizli silahı, ölmeyen bir ölümsüz olduğu fısıltıları dolaşıyor. Daha sonra Mimi, Sheena'nın yeni oda arkadaşı olarak atandığında, Sheena'nın dünyası, ölümü seven ve memnuniyetle karşılayan biriyle yaşamaya başladığında, Sheena'nın tek istediği bunu durdurmak olduğunda daha da karmaşık hale gelir…<br><br>(Kaynak: Kodansha ABD)"
         },
         {
-          "id": 133007,
-          "title": {
-            "romaji": "Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten",
-            "english": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
-            "native": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉"
-          },
-          "synonyms": [
-            "Magical Girl Madoka Magica Movie 4",
-            "Puella Magi Madoka Magica Movie 4"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 8,
-            "day": 28
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133007-5gOUXDvzxy9S.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133007-5gOUXDvzxy9S.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/133007-NkSVqsR7CTgT.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1787842800,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [
-            "Mahou Shoujo"
-          ],
-          "tags": [
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Philosophy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Witch",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Manipulation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kuudere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Guns",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Curses",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Shaft"
-              }
-            ]
-          },
-          "description": "<p>The 10th anniversary online event for the <i>Mahou Shoujo Madoka☆Magica</i> anime revealed that the franchise is getting a new anime film titled <i>Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten</i>. The film will be an official sequel to the <i>Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari</i> film that opened in October 2013. The tagline on the new film's visual reads, <i>&quot;Now, let's continue the story.&quot;</i><br><br><br />\n(Source: Anime News Network, edited)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://www.madoka-magica.com/wr/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/madoka_magica"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://www.madokamagicausa.com"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/MadokaMagicaUSA"
-            },
-            {
-              "site": "Facebook",
-              "url": "https://www.facebook.com/MadokaMagicaUSA/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Mahou Shoujo Madoka☆Magica animesinin 10. yıl dönümü çevrimiçi etkinliği, serinin Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten adlı yeni bir anime filmi alacağını açıkladı. Film, Ekim 2013'te gösterime giren Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari filminin resmi devamı olacak. Yeni filmin görselindeki sloganda \"Şimdi hikayeye devam edelim.\" yazıyor.<br><br>(Kaynak: Anime Haber Ağı, düzenlendi)"
-        },
-        {
           "id": 177699,
           "title": {
             "romaji": "Koukaku Kidoutai: THE GHOST IN THE SHELL",
@@ -1666,6 +1553,119 @@
           ],
           "isMyList": false,
           "descriptionTr": "Yıl 2029. Yakın gelecekte Japonya'da, gezegeni kapsayan geniş bir şirket ağıyla, içinden elektronlar ve ışık saçılarak dünyanın son derece bilgi yoğunluklu hale geldiği yer. Ancak ulus devlet ve etnik gruplar hâlâ varlığını sürdürüyor.  <br><br> Tam vücutlu bir cyborg olan Motoko Kusanagi, Batou'nun da aralarında bulunduğu seçkin bir savaş birimine liderlik ediyor. Kusanagi, ekibine komuta ederken, ortaya çıkan tehditlere karşı önleyici saldırı yapacak özel bir görev gücü oluşturulmasını öngörüyor. Bu arada benzer bir birim kurmayı planlayan İçişleri Bakanlığı'ndan Daisuke Aramaki, Kusanagi ve ekibini işe aldı. Birlikte, \"Kabuk Takımı\" olarak bilinen saldırı taktiksel birimi olan Kamu Güvenliği Bölüm 9 olarak operasyonlara başlarlar. Karmaşık siber suçlar ve uluslararası komplolarla karşı karşıya kalırken, araştırmalarının ufkunda \"Kukla Ustası\" olarak bilinen gizemli, kimliği belirsiz bir hackerın varlığı ortaya çıkıyor. <br><br> Kusanagi'yi nasıl bir kader bekliyor? Peki Puppet Master'ın gerçek amacı nedir? Siberpunk aksiyonunda yeni bir dönem başlıyor.  <br><br>(Kaynak: 攻殻機動隊 THE GHOST IN THE SHELL Sitesi)"
+        },
+        {
+          "id": 133007,
+          "title": {
+            "romaji": "Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten",
+            "english": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+            "native": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉"
+          },
+          "synonyms": [
+            "Magical Girl Madoka Magica Movie 4",
+            "Puella Magi Madoka Magica Movie 4"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 8,
+            "day": 28
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133007-5gOUXDvzxy9S.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133007-5gOUXDvzxy9S.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/133007-NkSVqsR7CTgT.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1787842800,
+            "episode": 1
+          },
+          "isAdult": false,
+          "genres": [
+            "Mahou Shoujo"
+          ],
+          "tags": [
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Philosophy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Witch",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Manipulation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kuudere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Guns",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Curses",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Shaft"
+              }
+            ]
+          },
+          "description": "<p>The 10th anniversary online event for the <i>Mahou Shoujo Madoka☆Magica</i> anime revealed that the franchise is getting a new anime film titled <i>Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten</i>. The film will be an official sequel to the <i>Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari</i> film that opened in October 2013. The tagline on the new film's visual reads, <i>&quot;Now, let's continue the story.&quot;</i><br><br><br />\n(Source: Anime News Network, edited)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://www.madoka-magica.com/wr/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/madoka_magica"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://www.madokamagicausa.com"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/MadokaMagicaUSA"
+            },
+            {
+              "site": "Facebook",
+              "url": "https://www.facebook.com/MadokaMagicaUSA/"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Mahou Shoujo Madoka☆Magica animesinin 10. yıl dönümü çevrimiçi etkinliği, serinin Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten adlı yeni bir anime filmi alacağını açıkladı. Film, Ekim 2013'te gösterime giren Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari filminin resmi devamı olacak. Yeni filmin görselindeki sloganda \"Şimdi hikayeye devam edelim.\" yazıyor.<br><br>(Kaynak: Anime Haber Ağı, düzenlendi)"
         },
         {
           "id": 159309,
@@ -2918,7 +2918,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 80,
+          "averageScore": 79,
           "studios": {
             "nodes": [
               {
@@ -3898,7 +3898,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Savaş sona erdi ve kahraman Dias sonunda kendine ait bir toprakla ödüllendirildi; ancak buranın insansız, köysüz ve medeniyet belirtisi olmayan çorak bir sınır olduğunu keşfetti. Önünde uçsuz bucaksız bir çayırdan başka hiçbir şey kalmayan Dias, sıfırdan bir alan inşa etmeye koyulur. Ancak mavi boynuzlu gizemli kız Alna ile tanıştıktan sonra yalnızlık sınırı yeniden canlanmak üzeredir.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama, 3 Temmuz 2026'dan itibaren Prime Video'da TV yayınının bir haftalık akışını yayınlıyor. Düzenli yayın 10 Temmuz 2026'da başladı."
+          "descriptionTr": "Savaş sona erdi ve kahraman Dias nihayet kendine ait bir toprakla ödüllendirildi; ancak buranın insansız, köysüz ve medeniyet belirtisi olmayan çorak bir sınır olduğunu keşfetti. Önünde uçsuz bucaksız bir çayırdan başka hiçbir şey kalmayan Dias, sıfırdan bir alan inşa etmeye koyulur. Ancak mavi boynuzlu gizemli kız Alna ile tanıştıktan sonra yalnızlık sınırı yeniden canlanmak üzeredir.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama, 3 Temmuz 2026'dan itibaren Prime Video'da TV yayınının bir haftalık akışını yayınlıyor. Düzenli yayın 10 Temmuz 2026'da başladı."
         },
         {
           "id": 128757,
@@ -5047,7 +5047,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Japon tarzı bir ayakaşi Cinderella hikayesi! \"Bunca zamandır aradığım gelin sensin.\" Ayakaşiler ve insanlar uyum içinde bir arada yaşarlar. Üstün yeteneklere ve güzel görünüme sahip olan ayakaşiler, bazen insan kadınları arasında kendilerine eş bularak onları \"gelinleri\" haline getirirler. Gelin, refah getirmesi karşılığında ayakaşiden mutlak sevgi alır. Yuzu sürekli olarak şeytan tilkinin gelini olan kız kardeşiyle karşılaştırılıyor ve ailesi tarafından her gün kızıyor. Bir gün Yuzu artık dayanamadığı bir anda köprüde karşısına bir adam çıkar. Bu adam Yuzu'nun gördüğü en güzel adam... ve ona karısı mı diyor?! \"Sessiz ol ve sana sarılmama izin ver.\" En güçlü, \"soğuk kalpli\" ayakaşi, Yuzu için kalbini mi döküyor?!<br><br>(Kaynak: MangaPlaza)"
+          "descriptionTr": "Japon tarzı bir ayakaşi Cinderella hikayesi! \"Bunca zamandır aradığım gelin sensin.\" Ayakaşiler ve insanlar uyum içinde bir arada yaşarlar. Üstün yeteneklere ve güzel görünüme sahip olan ayakaşiler, bazen insan kadınları arasında kendilerine eş bularak onları \"gelinleri\" haline getirirler. Gelin, refah getirmesi karşılığında ayakaşiden mutlak sevgi alır. Yuzu sürekli olarak şeytan tilkinin gelini olan kız kardeşiyle karşılaştırılıyor ve ailesi tarafından her gün kızıyor. Bir gün Yuzu artık hiçbir şeye dayanamadığında, köprüde karşısına bir adam çıkar. Bu adam Yuzu'nun gördüğü en güzel adam... ve ona karısı mı diyor?! \"Sessiz ol ve sana sarılmama izin ver.\" En güçlü, \"soğuk kalpli\" ayakaşi, Yuzu için kalbini mi döküyor?!<br><br>(Kaynak: MangaPlaza)"
         },
         {
           "id": 196219,
@@ -5491,8 +5491,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1786624200,
-            "episode": 7
+            "airingAt": 1787229000,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
