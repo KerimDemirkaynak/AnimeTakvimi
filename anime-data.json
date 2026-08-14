@@ -377,19 +377,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Politics",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Age Regression",
               "isMediaSpoiler": false
             },
             {
-              "name": "Anti-Hero",
+              "name": "Guns",
               "isMediaSpoiler": false
             },
             {
-              "name": "Guns",
+              "name": "Politics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anti-Hero",
               "isMediaSpoiler": false
             },
             {
@@ -398,6 +398,10 @@
             },
             {
               "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Rural",
               "isMediaSpoiler": false
             },
             {
@@ -417,15 +421,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
+              "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Meta",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
               "isMediaSpoiler": false
             },
             {
@@ -2967,7 +2975,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kimi no Koto ga Dai Dai Dai Dai Daisuki ve 100-nin no Kanojo'nun üçüncü sezonu."
+          "descriptionTr": "Kimi no Koto ga Dai Dai Dai Dai Dai Daisuki ve 100-nin no Kanojo'nun üçüncü sezonu."
         },
         {
           "id": 199748,
@@ -3707,6 +3715,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Interspecies",
               "isMediaSpoiler": false
             },
@@ -3759,6 +3771,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Food",
               "isMediaSpoiler": false
             },
@@ -3791,7 +3807,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bir zamanlar Lara adında bir deniz kızı prensesi, insan bir prense aşık olur. Onunla birlikte olabilmek için insan olabilmek için bir cadı iksiri kullandı ama bu büyünün bir bedeli vardı: Eğer gerçek aşkı bulamazsa, sonsuza kadar deniz köpüğünün içinde kaybolacaktı. Şimdi, 200 yıl sonra Lara, Biwa Gölü'nde hayat ve aşk için son bir şansla uyanır.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Bir zamanlar Lara adında bir deniz kızı prensesi, insan bir prense aşık olur. Onunla birlikte olabilmek için insan olabilmek için bir cadı iksiri kullandı ama bu büyünün bir bedeli vardı: Eğer gerçek aşkı bulamazsa, sonsuza dek deniz köpüğünün içinde kaybolacaktı. Şimdi, 200 yıl sonra Lara, Biwa Gölü'nde hayat ve aşk için son bir şansla uyanır.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 196218,
@@ -3907,7 +3923,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Savaş sona erdi ve kahraman Dias sonunda kendine ait bir toprakla ödüllendirildi; ancak buranın insansız, köysüz ve medeniyet belirtisi olmayan çorak bir sınır olduğunu keşfetti. Önünde uçsuz bucaksız bir çayırdan başka hiçbir şey kalmayan Dias, sıfırdan bir alan inşa etmeye koyulur. Ancak mavi boynuzlu gizemli kız Alna ile tanıştıktan sonra yalnızlık sınırı yeniden canlanmak üzeredir.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama, 3 Temmuz 2026'dan itibaren Prime Video'da TV yayınının bir haftalık akışını yayınlıyor. Düzenli yayın 10 Temmuz 2026'da başladı."
+          "descriptionTr": "Savaş sona erdi ve kahraman Dias nihayet kendine ait bir toprakla ödüllendirildi; ancak buranın insansız, köysüz ve medeniyet belirtisi olmayan çorak bir sınır olduğunu keşfetti. Önünde uçsuz bucaksız bir çayırdan başka hiçbir şey kalmayan Dias, sıfırdan bir alan inşa etmeye koyulur. Ancak mavi boynuzlu gizemli kız Alna ile tanıştıktan sonra yalnızlık sınırı yeniden canlanmak üzeredir.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama, 3 Temmuz 2026'dan itibaren Prime Video'da TV yayınının bir haftalık akışını yayınlıyor. Düzenli yayın 10 Temmuz 2026'da başladı."
         },
         {
           "id": 128757,
@@ -3959,19 +3975,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
-              "name": "Boarding School",
+              "name": "Ojou-sama",
               "isMediaSpoiler": false
             },
             {
-              "name": "Ojou-sama",
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Boarding School",
               "isMediaSpoiler": false
             },
             {
@@ -4360,11 +4376,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Animals",
+              "name": "Found Family",
               "isMediaSpoiler": false
             },
             {
-              "name": "Found Family",
+              "name": "Animals",
               "isMediaSpoiler": false
             },
             {
@@ -4961,7 +4977,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Etkili bir başbakanın kızı Elizabeth Leiston, Haldoria Krallığı'nın gelecekteki kraliçesi olma yolundaki kusursuz bir kadındır. Ancak nişanlısının halka açık bir şekilde nişanlarını iptal ettiğini gösteren bir gösteri yapmasıyla hayatı aniden kötüye gider. Kısa süre sonra onu hapse atar ve onun hakkında kötü söylentiler yaymaya başlar. Elizabeth'in, sadık hizmetçisi Mireille'den aldığı cesaret ve içindeki öfke, hedeflerini yeniden gözden geçirmek için ihtiyacı olan tek şey. Kendisine saygı duymayan bir ülkeyi ayaklar altına almak varken neden kendini ona adamaya devam etsin ki? Yaptığı son şey olsa bile, kendisine haksızlık edenlerin intikamını alacak ve lanet krallığı yıkacak! Şans eseri, Elizabeth tehlikede olan bir genç kız değil ve kullanmaktan çekinmeyeceği yedi güçlü büyü kitabına sahip. Hazır olun çünkü bu acımasız kadının kana ihtiyacı var!<br><br>(Kaynak: J-Novel Kulübü)"
+          "descriptionTr": "Nüfuzlu başbakanın kızı Elizabeth Leiston, Haldoria Krallığı'nın gelecekteki kraliçesi olma yolundaki kusursuz bir hanımefendi. Ancak nişanlısının halka açık bir şekilde nişanlarını iptal ettiğini gösteren bir gösteri yapmasıyla hayatı aniden kötüye gider. Kısa süre sonra onu hapse atar ve onun hakkında kötü söylentiler yaymaya başlar. Elizabeth'in, sadık hizmetçisi Mireille'den aldığı cesaret ve içindeki öfke, hedeflerini yeniden gözden geçirmek için ihtiyacı olan tek şey. Kendisine saygı duymayan bir ülkeyi ayaklar altına almak varken neden kendini ona adamaya devam etsin ki? Yaptığı son şey olsa bile, kendisine haksızlık edenlerin intikamını alacak ve lanet krallığı yıkacak! Şans eseri, Elizabeth tehlikede olan bir genç kız değil ve kullanmaktan çekinmeyeceği yedi güçlü büyü kitabına sahip. Hazır olun çünkü bu acımasız kadının kana ihtiyacı var!<br><br>(Kaynak: J-Novel Kulübü)"
         },
         {
           "id": 194219,
@@ -5724,7 +5740,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine ikna oldu: Kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir yaşam. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve içten bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
+          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine inanır: kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir yaşam. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve samimi bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
         },
         {
           "id": 208225,
@@ -6149,7 +6165,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 69,
+          "averageScore": 70,
           "studios": {
             "nodes": [
               {
