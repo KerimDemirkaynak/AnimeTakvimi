@@ -712,15 +712,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Centaur",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
               "name": "Mahjong",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Centaur",
               "isMediaSpoiler": false
             }
           ],
@@ -1521,11 +1521,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Episodic",
               "isMediaSpoiler": false
             },
             {
-              "name": "Episodic",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
@@ -2975,7 +2975,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kimi no Koto ga Dai Dai Dai Dai Dai Daisuki ve 100-nin no Kanojo'nun üçüncü sezonu."
+          "descriptionTr": "Kimi no Koto ga Dai Dai Dai Dai Daisuki ve 100-nin no Kanojo'nun üçüncü sezonu."
         },
         {
           "id": 199748,
@@ -2999,8 +2999,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199748-H2JAicBqBq3b.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1786714200,
-            "episode": 7
+            "airingAt": 1787319000,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -3184,7 +3184,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Çocukluğunda her zaman arkadaş olacağına dair söz verdikten yedi yıl sonra Hayato, eski erkeksi arkadaşı Haruki ile bir şehir lisesinde yeniden bir araya gelir - ancak şimdi Haruki her erkeğin hayalini kurduğu kıza dönüşmüştür! Haruki'nin görünüşü değişmiş olsa da Hayato hâlâ hatırladığı arkadaşıdır. Yıllar geçmesine rağmen verdikleri sözler ve hisler devam ediyor ve daha güçlü bir şeye doğru derinleşiyor.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Çocukluğunda her zaman arkadaş olacağına dair söz verdikten yedi yıl sonra Hayato, eski erkeksi arkadaşı Haruki ile şehirdeki bir lisede yeniden bir araya gelir - ancak şimdi Haruki her erkeğin hayalini kurduğu kıza dönüşmüştür! Haruki'nin görünüşü değişmiş olsa da Hayato hâlâ hatırladığı arkadaşıdır. Yıllar geçmesine rağmen verdikleri sözler ve hisler devam ediyor ve daha güçlü bir şeye doğru derinleşiyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 204466,
@@ -3471,8 +3471,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209983-dKykF3rBGfik.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1786723200,
-            "episode": 7
+            "airingAt": 1787328000,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -3481,10 +3481,6 @@
             "Fantasy"
           ],
           "tags": [
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
             {
               "name": "Primarily Child Cast",
               "isMediaSpoiler": false
@@ -3499,6 +3495,10 @@
             },
             {
               "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
               "isMediaSpoiler": false
             }
           ],
@@ -3649,7 +3649,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Beş Klan'ın bakireleri Veliaht Prens'in kalbi için savaşırken kıskanç Keigetsu, sevgili Reirin'le beden değiştirmek için yasak büyüyü kullanır. Yeni vücudunun kötü sağlık durumu onu ölümün eşiğine getirdiğinden, yer değiştirmek Keigetsu'nun mutluluğunu garanti etmez. Bu arada, artık küçümsenmiş bir serseri yüzüne bürünen Reirin, tehlikeli bir duruşmada Keigetsu'nun suçlarına cevap vermek zorundadır.<br><br>Beklenmedik ikili giderek birbirlerinin hayatlarına karışıyor ve sarayın güler yüzlü yüzeyinin altında gelişen karanlık komploları keşfettikten sonra hayatta kalmak için birlikte çalışmaları gerekecek. Gölgelerde gizlenen ölümcül tehditlerle yüzleşmek için Reirin, yeni kimliğini benimsemeli ve mahkemenin beceriksiz kötülüğüne ilişkin beklentilerine karşı gelmelidir.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Beş Klan'ın bakireleri Veliaht Prens'in kalbi için savaşırken kıskanç Keigetsu, sevgili Reirin'le beden değiştirmek için yasak büyüyü kullanır. Yeni vücudunun kötü sağlık durumu onu ölümün eşiğine getirdiğinden, yer değiştirmek Keigetsu'nun mutluluğunu garanti etmez. Bu arada, artık küçümsenmiş bir serseri yüzüne bürünen Reirin, tehlikeli bir duruşmada Keigetsu'nun suçlarına cevap vermek zorundadır.<br><br>Beklenmedik ikili giderek birbirlerinin hayatlarına karışıyor ve sarayın güler yüzlü yüzeyinin altında gelişen karanlık komploları keşfettikten sonra hayatta kalmak için birlikte çalışmaları gerekecek. Gölgelerde gizlenen ölümcül tehditlerle yüzleşmek için Reirin'in yeni kimliğini benimsemesi ve mahkemenin beceriksiz kötülüğüne ilişkin beklentilerine meydan okuması gerekiyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 177637,
@@ -3715,10 +3715,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Interspecies",
               "isMediaSpoiler": false
             },
@@ -3728,6 +3724,10 @@
             },
             {
               "name": "Boxing",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
@@ -3807,7 +3807,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bir zamanlar Lara adında bir deniz kızı prensesi, insan bir prense aşık olur. Onunla birlikte olabilmek için insan olabilmek için bir cadı iksiri kullandı ama bu büyünün bir bedeli vardı: Eğer gerçek aşkı bulamazsa, sonsuza dek deniz köpüğünün içinde kaybolacaktı. Şimdi, 200 yıl sonra Lara, Biwa Gölü'nde hayat ve aşk için son bir şansla uyanır.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Bir zamanlar Lara adında bir deniz kızı prensesi, insan bir prense aşık olur. Onunla birlikte olabilmek için, insan olabilmek için bir cadı iksiri kullanmıştı ama sihrin bir bedeli vardı: Eğer gerçek aşkı bulamazsa, sonsuza dek deniz köpüğünün içinde kaybolacaktı. Şimdi, 200 yıl sonra Lara, Biwa Gölü'nde hayat ve aşk için son bir şansla uyanır.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 196218,
@@ -3833,8 +3833,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196218-lX0y9T76KQkC.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1786714200,
-            "episode": 7
+            "airingAt": 1787319000,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -3923,7 +3923,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Savaş sona erdi ve kahraman Dias nihayet kendine ait bir toprakla ödüllendirildi; ancak buranın insansız, köysüz ve medeniyet belirtisi olmayan çorak bir sınır olduğunu keşfetti. Önünde uçsuz bucaksız bir çayırdan başka hiçbir şey kalmayan Dias, sıfırdan bir alan inşa etmeye koyulur. Ancak mavi boynuzlu gizemli kız Alna ile tanıştıktan sonra yalnızlık sınırı yeniden canlanmak üzeredir.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama, 3 Temmuz 2026'dan itibaren Prime Video'da TV yayınının bir haftalık akışını yayınlıyor. Düzenli yayın 10 Temmuz 2026'da başladı."
+          "descriptionTr": "Savaş sona erdi ve kahraman Dias sonunda kendine ait bir toprakla ödüllendirildi; ancak buranın insansız, köysüz ve medeniyet belirtisi olmayan çorak bir sınır olduğunu keşfetti. Önünde uçsuz bucaksız bir çayırdan başka hiçbir şey kalmayan Dias, sıfırdan bir alan inşa etmeye koyulur. Ancak mavi boynuzlu gizemli kız Alna ile tanıştıktan sonra yalnızlık sınırı yeniden canlanmak üzeredir.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama, 3 Temmuz 2026'dan itibaren Prime Video'da TV yayınının bir haftalık akışını yayınlıyor. Düzenli yayın 10 Temmuz 2026'da başladı."
         },
         {
           "id": 128757,
@@ -4067,8 +4067,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182616-kmIqMEUsLYrO.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1786717800,
-            "episode": 5
+            "airingAt": 1787322600,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -5072,7 +5072,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Japon tarzı bir ayakaşi Cinderella hikayesi! \"Bunca zamandır aradığım gelin sensin.\" Ayakaşiler ve insanlar uyum içinde bir arada yaşarlar. Üstün yeteneklere ve güzel görünüme sahip olan ayakaşiler, bazen insan kadınları arasında kendilerine eş bularak onları \"gelinleri\" haline getirirler. Gelin, refah getirmesi karşılığında ayakaşiden mutlak sevgi alır. Yuzu sürekli olarak şeytan tilkinin gelini olan kız kardeşiyle karşılaştırılıyor ve ailesi tarafından her gün kızıyor. Bir gün Yuzu artık hiçbir şeye dayanamadığında, köprüde karşısına bir adam çıkar. Bu adam Yuzu'nun gördüğü en güzel adam... ve ona karısı mı diyor?! \"Sessiz ol ve sana sarılmama izin ver.\" En güçlü, \"soğuk kalpli\" ayakaşi, Yuzu için kalbini mi döküyor?!<br><br>(Kaynak: MangaPlaza)"
+          "descriptionTr": "Japon tarzı bir ayakaşi Cinderella hikayesi! \"Bunca zamandır aradığım gelin sensin.\" Ayakaşiler ve insanlar uyum içinde bir arada yaşarlar. Üstün yeteneklere ve güzel görünüme sahip olan ayakaşiler, bazen insan kadınları arasında kendilerine eş bularak onları \"gelinleri\" haline getirirler. Gelin, refah getirmesi karşılığında ayakaşiden mutlak sevgi alır. Yuzu sürekli olarak şeytan tilkinin gelini olan kız kardeşiyle karşılaştırılıyor ve ailesi tarafından her gün kızıyor. Bir gün Yuzu artık hiçbir şeye dayanamadığında, köprüde karşısına bir adam çıkar. Bu adam Yuzu'nun gördüğü en güzel adam... ve ona karısı mı diyor?! \"Sessiz ol ve sana sarılmama izin ver.\" En güçlü, \"soğuk kalpli\" ayakashi, Yuzu için kalbini mi döküyor?!<br><br>(Kaynak: MangaPlaza)"
         },
         {
           "id": 196219,
@@ -5186,8 +5186,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1786725000,
-            "episode": 7
+            "airingAt": 1787329800,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -5656,10 +5656,6 @@
           ],
           "tags": [
             {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Adoption",
               "isMediaSpoiler": false
             },
@@ -5668,7 +5664,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Historical",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -5684,15 +5680,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Tragedy",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
+              "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Parody",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tragedy",
               "isMediaSpoiler": false
             },
             {
@@ -5740,7 +5740,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine inanır: kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir yaşam. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve samimi bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
+          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine ikna oldu: Kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir yaşam. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve içten bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
         },
         {
           "id": 208225,
