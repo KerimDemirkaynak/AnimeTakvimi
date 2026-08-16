@@ -503,8 +503,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185874-IdGyh1EBG91I.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1786802400,
-            "episode": 4
+            "airingAt": 1787407200,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -792,8 +792,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187538-287evzCezNl0.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1786798800,
-            "episode": 7
+            "airingAt": 1787403600,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -2291,8 +2291,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190569-fQrApHKs9PIz.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1786804200,
-            "episode": 8
+            "airingAt": 1787409000,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -2634,8 +2634,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201514-8dAOB0Xw124G.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1786815480,
-            "episode": 7
+            "airingAt": 1787420280,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -3723,15 +3723,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Boxing",
               "isMediaSpoiler": false
             },
             {
               "name": "Shapeshifting",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
@@ -3923,7 +3923,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Savaş sona erdi ve kahraman Dias nihayet kendine ait bir toprakla ödüllendirildi; ancak buranın insansız, köysüz ve medeniyet belirtisi olmayan çorak bir sınır olduğunu keşfetti. Önünde uçsuz bucaksız bir çayırdan başka hiçbir şey kalmayan Dias, sıfırdan bir alan inşa etmeye koyulur. Ancak mavi boynuzlu gizemli kız Alna ile tanıştıktan sonra yalnızlık sınırı yeniden canlanmak üzeredir.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama, 3 Temmuz 2026'dan itibaren Prime Video'da TV yayınının bir haftalık akışını yayınlıyor. Düzenli yayın 10 Temmuz 2026'da başladı."
+          "descriptionTr": "Savaş sona erdi ve kahraman Dias sonunda kendine ait bir toprakla ödüllendirildi; ancak buranın insansız, köysüz ve medeniyet belirtisi olmayan çorak bir sınır olduğunu keşfetti. Önünde uçsuz bucaksız bir çayırdan başka hiçbir şey kalmayan Dias, sıfırdan bir alan inşa etmeye koyulur. Ancak mavi boynuzlu gizemli kız Alna ile tanıştıktan sonra yalnızlık sınırı yeniden canlanmak üzeredir.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama, 3 Temmuz 2026'dan itibaren Prime Video'da TV yayınının bir haftalık akışını yayınlıyor. Düzenli yayın 10 Temmuz 2026'da başladı."
         },
         {
           "id": 128757,
@@ -3963,10 +3963,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Advertisement",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
@@ -3979,11 +3975,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Ojou-sama",
+              "name": "Advertisement",
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Ojou-sama",
               "isMediaSpoiler": false
             },
             {
@@ -4512,8 +4508,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199066-nmAYnI6uChse.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1786813200,
-            "episode": 6
+            "airingAt": 1787418000,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -4567,11 +4563,11 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Yuri",
+              "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Female Cast",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
@@ -5001,8 +4997,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194219-t8ID9kSIpXxf.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1786807800,
-            "episode": 7
+            "airingAt": 1787412600,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -5764,8 +5760,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1786811400,
-            "episode": 7
+            "airingAt": 1787416200,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
