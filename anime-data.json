@@ -768,7 +768,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yani ciddi anlamda kötü sigara içme alışkanlığı olan bir kedi kızdır. O kadar çok sigara içiyor ki, dairesi kül kokuyor ve sigara izmaritleriyle ve daha birçok çöple dolu! Ne zaman bırakmayı denese, isteklere karşı zayıflıyor ve neredeyse anında pes ediyor. Hayatını düzene koyabilecek mi, yoksa sonsuza kadar sigara içen bir serseri olarak mı yaşamaya mahkumdur?<br><br>(Kaynak: Seven Seas Entertainment)"
+          "descriptionTr": "Yani ciddi anlamda kötü sigara içme alışkanlığı olan bir kedi kızdır. O kadar çok sigara içiyor ki, dairesi kül kokuyor ve sigara izmaritleri ve daha bir sürü çöple dolu! Ne zaman bırakmayı denese, isteklere karşı zayıflıyor ve neredeyse anında pes ediyor. Hayatını düzene koyabilecek mi, yoksa sonsuza kadar sigara içen bir serseri olarak mı yaşamaya mahkumdur?<br><br>(Kaynak: Seven Seas Entertainment)"
         },
         {
           "id": 187538,
@@ -1573,7 +1573,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yıl 2029. Yakın gelecekte Japonya'da, gezegeni kapsayan geniş bir şirket ağıyla, içinden elektronlar ve ışık saçılarak dünyanın son derece bilgi yoğun hale geldiği yer. Ancak ulus devlet ve etnik gruplar hâlâ varlığını sürdürüyor.  <br><br> Tam vücutlu bir cyborg olan Motoko Kusanagi, Batou'nun da aralarında bulunduğu seçkin bir savaş birimine liderlik ediyor. Kusanagi, ekibine komuta ederken, ortaya çıkan tehditlere karşı önleyici saldırı yapacak özel bir görev gücü oluşturulmasını öngörüyor. Bu arada benzer bir birim kurmayı planlayan İçişleri Bakanlığı'ndan Daisuke Aramaki, Kusanagi ve ekibini işe aldı. Birlikte, \"Kabuk Takımı\" olarak bilinen saldırı taktiksel birimi olan Kamu Güvenliği Bölüm 9 olarak operasyonlara başlarlar. Karmaşık siber suçlar ve uluslararası komplolarla karşı karşıya kalırken, araştırmalarının ufkunda \"Kukla Ustası\" olarak bilinen gizemli, kimliği belirsiz bir hackerın varlığı ortaya çıkıyor. <br><br> Kusanagi'yi nasıl bir kader bekliyor? Peki Puppet Master'ın gerçek amacı nedir? Siberpunk aksiyonunda yeni bir dönem başlıyor.  <br><br>(Kaynak: 攻殻機動隊 THE GHOST IN THE SHELL Sitesi)"
+          "descriptionTr": "Yıl 2029. Yakın gelecekte Japonya'da, gezegeni kapsayan geniş bir şirket ağıyla, içinden elektronlar ve ışık saçılarak dünyanın son derece bilgi yoğunluklu hale geldiği yer. Ancak ulus devlet ve etnik gruplar hâlâ varlığını sürdürüyor.  <br><br> Tam vücutlu bir cyborg olan Motoko Kusanagi, Batou'nun da aralarında bulunduğu seçkin bir savaş birimine liderlik ediyor. Kusanagi, ekibine komuta ederken, ortaya çıkan tehditlere karşı önleyici saldırı yapacak özel bir görev gücü oluşturulmasını öngörüyor. Bu arada benzer bir birim kurmayı planlayan İçişleri Bakanlığı'ndan Daisuke Aramaki, Kusanagi ve ekibini işe aldı. Birlikte, \"Kabuk Takımı\" olarak bilinen saldırı taktiksel birimi olan Kamu Güvenliği Bölüm 9 olarak operasyonlara başlarlar. Karmaşık siber suçlar ve uluslararası komplolarla karşı karşıya kalırken, araştırmalarının ufkunda \"Kukla Ustası\" olarak bilinen gizemli, kimliği belirsiz bir hackerın varlığı ortaya çıkıyor. <br><br> Kusanagi'yi nasıl bir kader bekliyor? Peki Puppet Master'ın gerçek amacı nedir? Siberpunk aksiyonunda yeni bir dönem başlıyor.  <br><br>(Kaynak: 攻殻機動隊 THE GHOST IN THE SHELL Sitesi)"
         },
         {
           "id": 159309,
@@ -1956,8 +1956,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185542-v15vqOvUWSF5.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1786971600,
-            "episode": 7
+            "airingAt": 1787576400,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -2591,8 +2591,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199111-Z8y9awn2Zb6v.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1786978800,
-            "episode": 7
+            "airingAt": 1787583600,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -2674,6 +2674,10 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
@@ -2695,10 +2699,6 @@
             },
             {
               "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -2916,11 +2916,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
+              "name": "Tsundere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kuudere",
               "isMediaSpoiler": false
             },
             {
@@ -2940,11 +2948,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Tsundere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kuudere",
+              "name": "Idol",
               "isMediaSpoiler": false
             }
           ],
@@ -3273,8 +3277,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169583-wB0yHc7e8Kjk.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1786977000,
-            "episode": 7
+            "airingAt": 1787581800,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -3347,7 +3351,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Çocukluğunda her zaman arkadaş olacağına dair söz verdikten yedi yıl sonra Hayato, eski erkeksi arkadaşı Haruki ile bir şehir lisesinde yeniden bir araya gelir - ancak şimdi Haruki her erkeğin hayalini kurduğu kıza dönüşmüştür! Haruki'nin görünüşü değişmiş olsa da Hayato hâlâ hatırladığı arkadaşıdır. Yıllar geçmesine rağmen verdikleri sözler ve hisler devam ediyor ve daha güçlü bir şeye doğru derinleşiyor.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Çocukluğunda her zaman arkadaş olacağına dair söz verdikten yedi yıl sonra Hayato, eski erkeksi arkadaşı Haruki ile şehirdeki bir lisede yeniden bir araya gelir - ancak şimdi Haruki her erkeğin hayalini kurduğu kıza dönüşmüştür! Haruki'nin görünüşü değişmiş olsa da Hayato hâlâ hatırladığı arkadaşıdır. Yıllar geçmesine rağmen verdikleri sözler ve hisler devam ediyor ve daha güçlü bir şeye doğru derinleşiyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 209983,
@@ -3658,7 +3662,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Beş Klan'ın bakireleri Veliaht Prens'in kalbi için savaşırken kıskanç Keigetsu, sevgili Reirin'le beden değiştirmek için yasak büyüyü kullanır. Yeni vücudunun kötü sağlık durumu onu ölümün eşiğine getirdiğinden, yer değiştirmek Keigetsu'nun mutluluğunu garanti etmez. Bu arada, artık küçümsenmiş bir serseri yüzüne bürünen Reirin, tehlikeli bir duruşmada Keigetsu'nun suçlarına cevap vermek zorundadır.<br><br>Beklenmedik ikili giderek birbirlerinin hayatlarına karışıyor ve sarayın güler yüzlü yüzeyinin altında gelişen karanlık komploları keşfettikten sonra hayatta kalmak için birlikte çalışmaları gerekecek. Gölgelerde gizlenen ölümcül tehditlerle yüzleşmek için Reirin, yeni kimliğini benimsemeli ve mahkemenin beceriksiz kötülüğüne ilişkin beklentilerine karşı gelmelidir.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Beş Klan'ın bakireleri Veliaht Prens'in kalbi için savaşırken kıskanç Keigetsu, sevgili Reirin'le beden değiştirmek için yasak büyüyü kullanır. Yeni vücudunun kötü sağlık durumu onu ölümün eşiğine getirdiğinden, yer değiştirmek Keigetsu'nun mutluluğunu garanti etmez. Bu arada, artık küçümsenmiş bir serseri yüzüne bürünen Reirin, tehlikeli bir duruşmada Keigetsu'nun suçlarına cevap vermek zorundadır.<br><br>Beklenmedik ikili giderek birbirlerinin hayatlarına karışıyor ve sarayın güler yüzlü yüzeyinin altında gelişen karanlık komploları keşfettikten sonra hayatta kalmak için birlikte çalışmaları gerekecek. Gölgelerde gizlenen ölümcül tehditlerle yüzleşmek için Reirin'in yeni kimliğini benimsemesi ve mahkemenin beceriksiz kötülüğüne ilişkin beklentilerine meydan okuması gerekiyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 177637,
@@ -3725,6 +3729,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Yuri",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Interspecies",
               "isMediaSpoiler": false
             },
@@ -3733,19 +3741,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
             },
             {
               "name": "Boxing",
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Shapeshifting",
               "isMediaSpoiler": false
             },
             {
-              "name": "Shapeshifting",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -3755,10 +3763,6 @@
             {
               "name": "Bisexual",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
             },
             {
               "name": "Royal Affairs",
@@ -3789,12 +3793,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Femboy",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Food",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Femboy",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 76,
@@ -4646,8 +4650,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206521-zCIAGsiIkh6G.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1786971600,
-            "episode": 8
+            "airingAt": 1787576400,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -4901,8 +4905,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199408-ouNGkjrw0ohT.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1786973400,
-            "episode": 7
+            "airingAt": 1787578200,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -4995,7 +4999,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Etkili bir başbakanın kızı Elizabeth Leiston, Haldoria Krallığı'nın gelecekteki kraliçesi olma yolundaki kusursuz bir kadındır. Ancak nişanlısının halka açık bir şekilde nişanlarını iptal ettiğini gösteren bir gösteri yapmasıyla hayatı aniden kötüye gider. Kısa süre sonra onu hapse atar ve onun hakkında kötü söylentiler yaymaya başlar. Elizabeth'in, sadık hizmetçisi Mireille'den aldığı cesaret ve içindeki öfke, hedeflerini yeniden gözden geçirmek için ihtiyacı olan tek şey. Kendisine saygı duymayan bir ülkeyi ayaklar altına almak varken neden kendini ona adamaya devam etsin ki? Yaptığı son şey olsa bile, kendisine haksızlık edenlerin intikamını alacak ve lanet krallığı yıkacak! Şans eseri, Elizabeth tehlikede olan bir genç kız değil ve kullanmaktan çekinmeyeceği yedi güçlü büyü kitabına sahip. Hazır olun çünkü bu acımasız kadının kana ihtiyacı var!<br><br>(Kaynak: J-Novel Kulübü)"
+          "descriptionTr": "Nüfuzlu başbakanın kızı Elizabeth Leiston, Haldoria Krallığı'nın gelecekteki kraliçesi olma yolundaki kusursuz bir hanımefendi. Ancak nişanlısının halka açık bir şekilde nişanlarını iptal ettiğini gösteren bir gösteri yapmasıyla hayatı aniden en kötüye dönüşür. Kısa süre sonra onu hapse atar ve onun hakkında kötü söylentiler yaymaya başlar. Elizabeth'in, sadık hizmetçisi Mireille'den aldığı cesaret ve içindeki öfke, hedeflerini yeniden gözden geçirmek için ihtiyacı olan tek şey. Kendisine saygı duymayan bir ülkeyi ayaklar altına almak varken neden kendini ona adamaya devam etsin ki? Yaptığı son şey olsa bile, kendisine haksızlık edenlerin intikamını alacak ve lanet krallığı yıkacak! Şans eseri, Elizabeth tehlikede olan bir genç kız değil ve kullanmaktan çekinmeyeceği yedi güçlü büyü kitabına sahip. Hazır olun çünkü bu acımasız kadının kana ihtiyacı var!<br><br>(Kaynak: J-Novel Kulübü)"
         },
         {
           "id": 194219,
@@ -5429,8 +5433,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1786975200,
-            "episode": 7
+            "airingAt": 1787580000,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -5641,7 +5645,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kısıtlı ve tehlikeli bir dağ ormanına girme cesaretini gösteren Hinata ve Kaoru kardeşler, korkunç bir yılan tanrıyla tanışır ve kanka olurlar! Başlangıçta korkutucu görünümüne rağmen, kendi adını taşıyan \"talihsizlik tanrısı\" garip, yalnız ve şaşırtıcı derecede konuşması kolay bir insandır. Bu, beklenmedik bir dostluğun ve ardından gelen birçok komik, samimi maceranın hikayesidir.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Kısıtlı, tehlikeli bir dağ ormanına girme cesaretini gösteren Hinata ve Kaoru kardeşler, korkunç bir yılan tanrıyla tanışır ve kanka olurlar! Başlangıçta korkutucu görünümüne rağmen, kendi adını taşıyan \"talihsizlik tanrısı\" garip, yalnız ve şaşırtıcı derecede konuşması kolay bir insandır. Bu, beklenmedik bir dostluğun ve ardından gelen birçok komik, samimi maceranın hikayesidir.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 196356,
@@ -5762,7 +5766,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine ikna oldu: Kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir hayat. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve samimi bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
+          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine ikna oldu: Kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir yaşam. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve samimi bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
         },
         {
           "id": 208225,
@@ -6082,12 +6086,12 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Yuri",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
             },
             {
               "name": "Shounen",
