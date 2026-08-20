@@ -397,11 +397,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
+              "name": "Rural",
               "isMediaSpoiler": false
             },
             {
-              "name": "Rural",
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
@@ -2216,15 +2216,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "School",
               "isMediaSpoiler": false
             },
             {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Regression",
               "isMediaSpoiler": false
             }
           ],
@@ -2276,6 +2280,114 @@
           ],
           "isMyList": false,
           "descriptionTr": "Katainaka no Ossan, Kensei ni Naru'nun ikinci sezonu."
+        },
+        {
+          "id": 202269,
+          "title": {
+            "romaji": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+            "english": "Love Unseen Beneath the Clear Night Sky",
+            "native": "透明な夜に駆ける君と、目に見えない恋をした。"
+          },
+          "synonyms": [
+            "かけ恋",
+            "Kakekoi",
+            "Un amour invisible",
+            "รักที่มองไม่เห็น ด้วยตา กับเธอในค่ำคืนที่แสนจะเลือนราง"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 6
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202269-7KNj8s2fSsJJ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202269-7KNj8s2fSsJJ.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202269-u0PTTsiKwrVL.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1787572800,
+            "episode": 8
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Disability",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "College",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Iyashikei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Amnesia",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 79,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Makaria"
+              }
+            ]
+          },
+          "description": "<p>Kakeru Sorano, a quiet university freshman who avoids others, meets Koharu Fuyutsuki, a blind girl who faces the world with quiet brightness. When she says, “I want to see fireworks someday,” something in Kakeru shifts. As they grow closer through small moments and shared loneliness, he searches for a way to make her wish come true.<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/anime_kakekoi/"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://sh-anime.shochiku.co.jp/kakekoi/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378087/love-unseen-beneath-the-clear-night-sky"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2413250"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLTsUhR_H9p7U"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Başkalarından kaçan sessiz bir üniversite birinci sınıf öğrencisi olan Kakeru Sorano, dünyaya sessiz bir parlaklıkla bakan kör bir kız olan Koharu Fuyutsuki ile tanışır. \"Bir gün havai fişek görmek istiyorum\" dediğinde Kakeru'da bir şeyler değişir. Küçük anlar ve paylaştıkları yalnızlık sayesinde yakınlaştıkça, onun arzusunu gerçekleştirmenin bir yolunu arar.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 190569,
@@ -2389,11 +2501,11 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Survival",
+              "name": "Religion",
               "isMediaSpoiler": false
             },
             {
-              "name": "Religion",
+              "name": "Survival",
               "isMediaSpoiler": false
             },
             {
@@ -2454,114 +2566,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Annesini ve vatanını kaybeden Sitara'nın çaresizliği, bilginin gücüyle kararlılığa dönüşür. Akademisyenlerden oluşan bir aile onu yanına alıp eğitimini derinleştirdiğinde yeni olasılıklar ortaya çıkar. Bu arada Cengiz Han'ın Moğol İmparatorluğu, Sitara'nın yeni evine yaklaşarak ulusları fethediyor. İmparatorluğun Dördüncü Prensi onu esir alınca intikam ateşi alevlenir.<br><br>(Kaynak: Crunchyroll)"
-        },
-        {
-          "id": 202269,
-          "title": {
-            "romaji": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
-            "english": "Love Unseen Beneath the Clear Night Sky",
-            "native": "透明な夜に駆ける君と、目に見えない恋をした。"
-          },
-          "synonyms": [
-            "かけ恋",
-            "Kakekoi",
-            "Un amour invisible",
-            "รักที่มองไม่เห็น ด้วยตา กับเธอในค่ำคืนที่แสนจะเลือนราง"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 6
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202269-7KNj8s2fSsJJ.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202269-7KNj8s2fSsJJ.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202269-u0PTTsiKwrVL.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1787572800,
-            "episode": 8
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Disability",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "College",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Amnesia",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 79,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Makaria"
-              }
-            ]
-          },
-          "description": "<p>Kakeru Sorano, a quiet university freshman who avoids others, meets Koharu Fuyutsuki, a blind girl who faces the world with quiet brightness. When she says, “I want to see fireworks someday,” something in Kakeru shifts. As they grow closer through small moments and shared loneliness, he searches for a way to make her wish come true.<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/anime_kakekoi/"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://sh-anime.shochiku.co.jp/kakekoi/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378087/love-unseen-beneath-the-clear-night-sky"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2413250"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLTsUhR_H9p7U"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Başkalarından kaçan sessiz bir üniversite birinci sınıf öğrencisi olan Kakeru Sorano, dünyaya sessiz bir parlaklıkla bakan kör bir kız olan Koharu Fuyutsuki ile tanışır. \"Bir gün havai fişek görmek istiyorum\" dediğinde Kakeru'da bir şeyler değişir. Küçük anlar ve paylaştıkları yalnızlık sayesinde yakınlaştıkça, onun arzusunu gerçekleştirmenin bir yolunu arar.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 201514,
@@ -3111,7 +3115,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kahramanın grubundaki S seviye bir büyücü olan Luck, arkadaşlarını kurtarmak için Şeytan Kral'a karşı son bir duruş sergiliyor. Nihayet zaferle geri döndüğünde üzerinden on yıl geçmiştir ve dünya onu savaşta ölen efsanevi bir kahraman olarak övmektedir. Önceki hayatına geri dönemeyen Luck, kimliğini gizler ve onsuz devam eden bir dünyada geleceğini şekillendiren F sınıfı bir maceracı olan \"Lock\" olarak yeniden başlar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita, 3 Temmuz 2026'dan itibaren Prime Video'daki TV yayınından 3 gün önce yayınlanıyor. Düzenli yayın 6 Temmuz 2026'da başladı."
+          "descriptionTr": "Kahramanın grubundaki S seviye büyücü Luck, arkadaşlarını kurtarmak için Şeytan Kral'a karşı son bir direniş gösterir. Nihayet zaferle geri döndüğünde üzerinden on yıl geçmiştir ve dünya onu savaşta ölen efsanevi bir kahraman olarak övmektedir. Önceki hayatına geri dönemeyen Luck, kimliğini gizler ve onsuz devam eden bir dünyada geleceğini şekillendiren F sınıfı bir maceracı olan \"Lock\" olarak yeniden başlar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita, 3 Temmuz 2026'dan itibaren Prime Video'daki TV yayınından 3 gün önce yayınlanıyor. Düzenli yayın 6 Temmuz 2026'da başladı."
         },
         {
           "id": 169583,
@@ -3741,12 +3745,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Interspecies",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
             },
             {
               "name": "Magic",
@@ -4402,7 +4406,7 @@
           ],
           "tags": [
             {
-              "name": "Dragons",
+              "name": "Found Family",
               "isMediaSpoiler": false
             },
             {
@@ -4410,7 +4414,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Found Family",
+              "name": "Dragons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Animal Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Medieval",
               "isMediaSpoiler": false
             },
             {
@@ -4418,7 +4430,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Animal Cast",
+              "name": "Iyashikei",
               "isMediaSpoiler": false
             },
             {
@@ -4430,23 +4442,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Anthropomorphism",
               "isMediaSpoiler": false
             },
             {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shapeshifting",
+              "name": "Environmental",
               "isMediaSpoiler": false
             },
             {
@@ -4458,7 +4458,23 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Wilderness",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Royal Affairs",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shapeshifting",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Orphan",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Survival",
               "isMediaSpoiler": false
             },
             {
@@ -4470,19 +4486,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Environmental",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Wilderness",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Survival",
               "isMediaSpoiler": false
             }
           ],
@@ -5442,7 +5446,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Casusların her ülkede perde arkasında hareket ettiği bir çağda Chloe, benzersiz kılık değiştirme becerileri ve dövüş sanatlarındaki yetenekleri sayesinde en zor görevleri bile başarıyla yerine getirerek günlerini geçiriyor. Patronunun ihanetinin ardından aniden ortadan kaybolur; Chloe, komşu Ashberry krallığında sıradan bir vatandaş olan Victoria olarak hayatını yeniden düzenleyerek \"normal\" bir yaşam için çabalamayı planlamaktadır. Ancak Victoria'nın huzurlu hayatı, birçok insanla ilişki kurmaya başlamasıyla aniden kesintiye uğrar. Bu yeni diyarda, casusluk günlerinden edindiği deneyimler ve yetenekler, beklediğinden çok daha fazla işe yaradı! Öte yandan ikinci prens ve diğerleri, Victoria'nın gücüyle ilgilenir ve gölgeler, birçok yüzü olan kadının üzerine kapanır...<br><br>(Kaynak: Yen Press)"
+          "descriptionTr": "Casusların her ülkede perde arkasında hareket ettiği bir çağda Chloe, benzersiz kılık değiştirme becerileri ve dövüş sanatlarındaki yetenekleri sayesinde en zor görevleri bile başarıyla yerine getirerek günlerini geçiriyor. Patronunun ihanetinin ardından aniden ortadan kaybolur; Chloe, komşu Ashberry krallığında sıradan bir vatandaş olan Victoria olarak hayatını yeniden düzenleyerek \"normal\" bir hayat için çabalamayı planlamaktadır. Ancak Victoria'nın huzurlu hayatı, birçok insanla ilişki kurmaya başlamasıyla aniden kesintiye uğrar. Bu yeni diyarda, casusluk günlerinden edindiği deneyimler ve yetenekler, beklediğinden çok daha fazla işe yaradı! Öte yandan ikinci prens ve diğerleri, Victoria'nın gücüyle ilgilenir ve gölgeler, birçok yüzü olan kadının üzerine kapanır...<br><br>(Kaynak: Yen Press)"
         },
         {
           "id": 209504,
@@ -5574,8 +5578,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1787229000,
-            "episode": 8
+            "airingAt": 1787833800,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -5651,6 +5655,10 @@
             {
               "name": "Seinen",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 64,
@@ -5718,6 +5726,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Ojou-sama",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Iyashikei",
               "isMediaSpoiler": false
             },
@@ -5734,10 +5746,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Josei",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
@@ -5746,7 +5754,23 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Josei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Episodic",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Maids",
               "isMediaSpoiler": false
             },
             {
@@ -5756,6 +5780,14 @@
             {
               "name": "Villainess",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 64,
