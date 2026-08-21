@@ -232,8 +232,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196187-Z9dV6uotmKjM.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787237760,
-            "episode": 7
+            "airingAt": 1787842560,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -626,12 +626,13 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207141-MvHAS2YVfJzL.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787239800,
-            "episode": 8
+            "airingAt": 1788449400,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
             "Comedy",
+            "Ecchi",
             "Slice of Life"
           ],
           "tags": [
@@ -931,8 +932,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1787239560,
-            "episode": 8
+            "airingAt": 1787844360,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -1182,6 +1183,10 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Yuri",
               "isMediaSpoiler": true
             },
@@ -1192,10 +1197,6 @@
             {
               "name": "Heterosexual",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
             },
             {
               "name": "Arranged Marriage",
@@ -1521,15 +1522,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Polyamorous",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
               "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Polyamorous",
               "isMediaSpoiler": false
             }
           ],
@@ -1841,8 +1842,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/208044-JtlSTlmp5SmP.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787238000,
-            "episode": 9
+            "airingAt": 1787842800,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -3004,7 +3005,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kimi no Koto ga Dai Dai Dai Dai Daisuki ve 100-nin no Kanojo'nun üçüncü sezonu."
+          "descriptionTr": "Kimi no Koto ga Dai Dai Dai Dai Dai Daisuki ve 100-nin no Kanojo'nun üçüncü sezonu."
         },
         {
           "id": 199748,
@@ -3115,7 +3116,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Kahramanın grubundaki S seviye büyücü Luck, arkadaşlarını kurtarmak için Şeytan Kral'a karşı son bir direniş gösterir. Nihayet zaferle geri döndüğünde üzerinden on yıl geçmiştir ve dünya onu savaşta ölen efsanevi bir kahraman olarak övmektedir. Önceki hayatına geri dönemeyen Luck, kimliğini gizler ve onsuz devam eden bir dünyada geleceğini şekillendiren F sınıfı bir maceracı olan \"Lock\" olarak yeniden başlar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita, 3 Temmuz 2026'dan itibaren Prime Video'daki TV yayınından 3 gün önce yayınlanıyor. Düzenli yayın 6 Temmuz 2026'da başladı."
+          "descriptionTr": "Kahramanın grubundaki S seviye bir büyücü olan Luck, arkadaşlarını kurtarmak için Şeytan Kral'a karşı son bir duruş sergiliyor. Nihayet zaferle geri döndüğünde üzerinden on yıl geçmiştir ve dünya onu savaşta ölen efsanevi bir kahraman olarak övmektedir. Önceki hayatına geri dönemeyen Luck, kimliğini gizler ve onsuz devam eden bir dünyada geleceğini şekillendiren F sınıfı bir maceracı olan \"Lock\" olarak yeniden başlar.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita, 3 Temmuz 2026'dan itibaren Prime Video'daki TV yayınından 3 gün önce yayınlanıyor. Düzenli yayın 6 Temmuz 2026'da başladı."
         },
         {
           "id": 169583,
@@ -3236,8 +3237,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204466-cpbNGN9qHrGP.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787243280,
-            "episode": 8
+            "airingAt": 1787848080,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -3769,15 +3770,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Bisexual",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "LGBTQ+ Themes",
               "isMediaSpoiler": true
             },
             {
               "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Bisexual",
               "isMediaSpoiler": false
             },
             {
@@ -4009,11 +4010,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Boarding School",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Boarding School",
               "isMediaSpoiler": false
             },
             {
@@ -5446,7 +5447,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Casusların her ülkede perde arkasında hareket ettiği bir çağda Chloe, benzersiz kılık değiştirme becerileri ve dövüş sanatlarındaki yetenekleri sayesinde en zor görevleri bile başarıyla yerine getirerek günlerini geçiriyor. Patronunun ihanetinin ardından aniden ortadan kaybolur; Chloe, komşu Ashberry krallığında sıradan bir vatandaş olan Victoria olarak hayatını yeniden düzenleyerek \"normal\" bir hayat için çabalamayı planlamaktadır. Ancak Victoria'nın huzurlu hayatı, birçok insanla ilişki kurmaya başlamasıyla aniden kesintiye uğrar. Bu yeni diyarda, casusluk günlerinden edindiği deneyimler ve yetenekler, beklediğinden çok daha fazla işe yaradı! Öte yandan ikinci prens ve diğerleri, Victoria'nın gücüyle ilgilenir ve gölgeler, birçok yüzü olan kadının üzerine kapanır...<br><br>(Kaynak: Yen Press)"
+          "descriptionTr": "Casusların her ülkede perde arkasında hareket ettiği bir çağda Chloe, benzersiz kılık değiştirme becerileri ve dövüş sanatlarındaki yetenekleri sayesinde en zor görevleri bile başarıyla yerine getirerek günlerini geçiriyor. Patronunun ihanetinin ardından aniden ortadan kaybolur; Chloe, komşu Ashberry krallığında sıradan bir vatandaş olan Victoria olarak hayatını yeniden düzenleyerek \"normal\" bir yaşam için çabalamayı planlamaktadır. Ancak Victoria'nın huzurlu hayatı, birçok insanla ilişki kurmaya başlamasıyla aniden kesintiye uğrar. Bu yeni diyarda, casusluk günlerinden edindiği deneyimler ve yetenekler, beklediğinden çok daha fazla işe yaradı! Öte yandan ikinci prens ve diğerleri, Victoria'nın gücüyle ilgilenir ve gölgeler, birçok yüzü olan kadının üzerine kapanır...<br><br>(Kaynak: Yen Press)"
         },
         {
           "id": 209504,
