@@ -709,11 +709,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Cute Girls Doing Cute Things",
+              "name": "Centaur",
               "isMediaSpoiler": false
             },
             {
-              "name": "Centaur",
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
@@ -758,10 +758,6 @@
             {
               "site": "OceanVeil",
               "url": "https://oceanveil.net/anime_titles/462"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://youtube.com/playlist?list=PLeab-nOhLGOw&si=BpJWffksrl6gmKCi"
             },
             {
               "site": "iQ",
@@ -1275,7 +1271,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Roman, Meiji döneminin 40. yılı olan 1907 yılının yazında geçiyor. 15 yaşındaki Inako Momokawa, Kyoto'nun Fushimi bölgesinde yaşıyor ve bir sake bira üreticisinin ikinci kızı. Yaptığı hiçbir şey doğru sonuç vermiyor ve her gün babasından azar alıyor. Tek tesellisi, dualarında tanrılara duyduğu güvendir. Bir gün Fushimi Inari tapınağındayken Kihachi Sakamoto adında başıboş bir gençle tanışır. Tanrıları reddediyor ve yaklaşmakta olan elektrik çağıyla övünüyor. <br><br>Inako'nun evinde aniden evlilik konusu gündeme gelir. Babası onun adına tüm kararları tek taraflı olarak veriyor ve Inako umudunu kaybetmek üzere. İşte o zaman Kihachi, Inako'nun ailesinden kaçmak istediğine dair gerçek duygularını ortaya çıkarır. Evliliğini durdurmanın tek yolu \"Elektrik Kataloğu\" adlı alışılmadık bir kitap bulmaktır. Kitap, Kihachi'nin çocukken yazdığı elektrikle ilgili bir tahmin kitabıdır ancak kitabı ağabeyi Seiroku almıştır ve şu anda nerede olduğu bilinmemektedir. Inako ve Kihachi birlikte kitabı aramaya Kyoto ve Shiga eyaletlerine giderler.<br><br>(Kaynak: Anime Haber Ağı)"
+          "descriptionTr": "Roman, Meiji döneminin 40. yılı olan 1907 yılının yazında geçiyor. 15 yaşındaki Inako Momokawa, Kyoto'nun Fushimi bölgesinde yaşıyor ve bir sake bira üreticisinin ikinci kızı. Yaptığı hiçbir şey doğru sonuç vermiyor ve her gün babasından azar alıyor. Tek tesellisi, dualarında tanrılara duyduğu güvendir. Bir gün Fushimi Inari tapınağındayken Kihachi Sakamoto adında başıboş bir genç adamla tanışır. Tanrıları reddediyor ve yaklaşmakta olan elektrik çağıyla övünüyor. <br><br>Inako'nun evinde aniden evlilik konusu gündeme gelir. Babası onun adına tüm kararları tek taraflı olarak veriyor ve Inako umudunu kaybetmek üzere. İşte o zaman Kihachi, Inako'nun ailesinden kaçmak istediğine dair gerçek duygularını ortaya çıkarır. Evliliğini durdurmanın tek yolu \"Elektrik Kataloğu\" adlı alışılmadık bir kitap bulmaktır. Kitap, Kihachi'nin çocukken yazdığı elektrikle ilgili bir tahmin kitabıdır ancak kitabı ağabeyi Seiroku almıştır ve şu anda nerede olduğu bilinmemektedir. Inako ve Kihachi birlikte kitabı aramaya Kyoto ve Shiga eyaletlerine giderler.<br><br>(Kaynak: Anime Haber Ağı)"
         },
         {
           "id": 187260,
@@ -1518,15 +1514,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Gender Bending",
               "isMediaSpoiler": false
             },
             {
               "name": "Polyamorous",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
@@ -3029,8 +3025,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199748-H2JAicBqBq3b.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787319000,
-            "episode": 8
+            "airingAt": 1787923800,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -3392,8 +3388,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209983-dKykF3rBGfik.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787328000,
-            "episode": 8
+            "airingAt": 1787932800,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -3750,16 +3746,16 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Magic",
               "isMediaSpoiler": false
             },
             {
               "name": "Boxing",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
             },
             {
               "name": "Shapeshifting",
@@ -3770,12 +3766,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Bisexual",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "LGBTQ+ Themes",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Bisexual",
+              "isMediaSpoiler": false
             },
             {
               "name": "Heterosexual",
@@ -3868,8 +3864,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196218-lX0y9T76KQkC.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787319000,
-            "episode": 8
+            "airingAt": 1787923800,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -4026,11 +4022,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Cute Girls Doing Cute Things",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
@@ -4192,8 +4188,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182616-kmIqMEUsLYrO.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787322600,
-            "episode": 6
+            "airingAt": 1787927400,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -4869,6 +4865,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Anti-Hero",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Nekomimi",
               "isMediaSpoiler": false
             },
@@ -4883,10 +4883,6 @@
             {
               "name": "Slavery",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Anti-Hero",
-              "isMediaSpoiler": true
             }
           ],
           "averageScore": 68,
@@ -4972,11 +4968,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Video Games",
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
-              "name": "Cute Girls Doing Cute Things",
+              "name": "Video Games",
               "isMediaSpoiler": false
             },
             {
@@ -5249,8 +5245,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207674-0bYvzXIq7Lq3.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787329800,
-            "episode": 8
+            "airingAt": 1787934600,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -5660,6 +5656,10 @@
             {
               "name": "Yuri",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 64,
@@ -5831,7 +5831,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine ikna oldu: Kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir yaşam. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve samimi bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
+          "descriptionTr": "Miya tanınmış bir ailenin gayri meşru çocuğudur. Annesi öldüğünde ve babasının mirası onu yanına almayı kabul ettiğinde, yeni evinde onu neyin beklediğini bildiğine ikna oldu: Kötü üvey annesi ve üvey kız kardeşlerinin elinde kölelik ve sefaletle dolu bir hayat. Ancak nihayet kendisine pislikmiş gibi davranmasını beklediği kadınlarla tanıştığında, sonunda onlar... tatlı mı oluyor?! Kesinlikle yüzünüzü gülümsetecek, komik ve içten bir komedi!<br><br>(Kaynak: Seven Seas Entertainment)"
         },
         {
           "id": 208225,
@@ -6097,8 +6097,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188525-Vnei12N4wZsM.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787322600,
-            "episode": 7
+            "airingAt": 1787927400,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
