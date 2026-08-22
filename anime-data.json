@@ -247,11 +247,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Adult Cast",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
+              "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
@@ -1407,6 +1407,129 @@
           "descriptionTr": "Sheena'nın yaşadığı gizemli yetimhanede ölüm, buranın sakinleri için yeni bir şey değil; artık kendi aileleri olmayan, savaş silahı olarak yetiştirilen, gözlerini bile kırpmadan öldürmeyi ve başkalarının canını almayı öğreten kızlara. Etrafında büyüyen çatışmanın sona ermesinden başka bir şey istemeyen Sheena dışında herkes. Oda arkadaşının öldüğü gece Sheena, etrafını saran kargaşaya rağmen gülümseyen, kanlar içinde tuhaf bir kızla tanışır. Ertesi gün kız, Sheena'nın sınıfına yeni bir öğrenci olarak görünür ve kendisini Mimi olarak tanıtır. Başlangıçta bir okul efsanesi olduğu düşünülse de, artık yetimhanenin koridorlarında Mimi'nin onların gizli silahı, ölmeyen bir ölümsüz olduğu fısıltıları dolaşıyor. Daha sonra Mimi, Sheena'nın yeni oda arkadaşı olarak atandığında, Sheena'nın dünyası, ölümü seven ve memnuniyetle karşılayan biriyle yaşamaya başladığında, Sheena'nın tek istediği bunu durdurmak olduğunda daha da karmaşık hale gelir…<br><br>(Kaynak: Kodansha ABD)"
         },
         {
+          "id": 159309,
+          "title": {
+            "romaji": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2",
+            "english": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
+            "native": "乙女ゲー世界はモブに厳しい世界です2"
+          },
+          "synonyms": [
+            "mobseka 2",
+            "ชีวิตตัวประกอบอย่างตูช่างอยู่ยาก เมื่ออยู่ในโลกเกมจีบหนุ่ม ภาค 2",
+            "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
+            "Otomege 2",
+            "モブせか 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 8
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159309-wRfh9O1odrDJ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159309-wRfh9O1odrDJ.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1787754600,
+            "episode": 8
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Mecha",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anti-Hero",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Parody",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Robots",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Video Games",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yandere",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Politics",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 68,
+          "studios": {
+            "nodes": [
+              {
+                "name": "ENGI"
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Otomege Sekai wa Mob ni Kibishii Sekai desu</i>.</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/mobseka_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://mobseka.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/G0XHWM0D3/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2413722"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Otomege Sekai wa Mob ni Kibishii Sekai desu'nun ikinci sezonu."
+        },
+        {
           "id": 177699,
           "title": {
             "romaji": "Koukaku Kidoutai: THE GHOST IN THE SHELL",
@@ -1571,129 +1694,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "Yıl 2029. Yakın gelecekte Japonya'da, gezegeni kapsayan geniş bir şirket ağıyla, içinden elektronlar ve ışık saçılarak dünyanın son derece bilgi yoğun hale geldiği yer. Ancak ulus devlet ve etnik gruplar hâlâ varlığını sürdürüyor.  <br><br> Tam vücutlu bir cyborg olan Motoko Kusanagi, Batou'nun da aralarında bulunduğu seçkin bir savaş birimine liderlik ediyor. Kusanagi, ekibine komuta ederken, ortaya çıkan tehditlere karşı önleyici saldırı yapacak özel bir görev gücü oluşturulmasını öngörüyor. Bu arada benzer bir birim kurmayı planlayan İçişleri Bakanlığı'ndan Daisuke Aramaki, Kusanagi ve ekibini işe aldı. Birlikte, \"Kabuk Takımı\" olarak bilinen saldırı taktiksel birimi olan Kamu Güvenliği Bölüm 9 olarak operasyonlara başlarlar. Karmaşık siber suçlar ve uluslararası komplolarla karşı karşıya kalırken, araştırmalarının ufkunda \"Kukla Ustası\" olarak bilinen gizemli, kimliği belirsiz bir hackerın varlığı ortaya çıkıyor. <br><br> Kusanagi'yi nasıl bir kader bekliyor? Peki Puppet Master'ın gerçek amacı nedir? Siberpunk aksiyonunda yeni bir dönem başlıyor.  <br><br>(Kaynak: 攻殻機動隊 THE GHOST IN THE SHELL Sitesi)"
-        },
-        {
-          "id": 159309,
-          "title": {
-            "romaji": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2",
-            "english": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
-            "native": "乙女ゲー世界はモブに厳しい世界です2"
-          },
-          "synonyms": [
-            "mobseka 2",
-            "ชีวิตตัวประกอบอย่างตูช่างอยู่ยาก เมื่ออยู่ในโลกเกมจีบหนุ่ม ภาค 2",
-            "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
-            "Otomege 2",
-            "モブせか 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159309-wRfh9O1odrDJ.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159309-wRfh9O1odrDJ.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1787754600,
-            "episode": 8
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Fantasy",
-            "Mecha",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Anti-Hero",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Parody",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Robots",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Video Games",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yandere",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Politics",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 68,
-          "studios": {
-            "nodes": [
-              {
-                "name": "ENGI"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Otomege Sekai wa Mob ni Kibishii Sekai desu</i>.</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/mobseka_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://mobseka.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/G0XHWM0D3/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2413722"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Otomege Sekai wa Mob ni Kibishii Sekai desu'nun ikinci sezonu."
         },
         {
           "id": 133007,
@@ -2332,11 +2332,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Iyashikei",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Iyashikei",
               "isMediaSpoiler": false
             },
             {
@@ -3084,7 +3084,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 64,
+          "averageScore": 63,
           "studios": {
             "nodes": [
               {
@@ -3611,15 +3611,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Villainess",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Historical",
               "isMediaSpoiler": false
             },
             {
               "name": "Foreign",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Villainess",
               "isMediaSpoiler": false
             },
             {
@@ -3806,11 +3806,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Femboy",
+              "name": "Food",
               "isMediaSpoiler": false
             },
             {
-              "name": "Food",
+              "name": "Femboy",
               "isMediaSpoiler": false
             }
           ],
@@ -4393,8 +4393,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186863-hRsC2yxvILTx.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787400000,
-            "episode": 9
+            "airingAt": 1788004800,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -5662,7 +5662,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 64,
+          "averageScore": 65,
           "studios": {
             "nodes": [
               {
@@ -5931,150 +5931,6 @@
           "descriptionTr": "Düşmüş bir aristokratın kızı Elsa, bir haber alır. Bu, çok seçkin bir soylu olan Julius'un evlenme teklifiydi. Elsa \"Bu kadar seçkin bir adam neden benimle evlensin?\" diye merak ediyor. Ancak düğünden sonra o ana kadar nazik ve nazik olan Julius tamamen değişti! Soğuk bir sesle \"Seni sevmeye hiç niyetim yok\" diyor.<br><br>(Kaynak: MangaPlaza)"
         },
         {
-          "id": 207809,
-          "title": {
-            "romaji": "Sora wa Akai Kawa no Hotori",
-            "english": "Red River",
-            "native": "天は赤い河のほとり"
-          },
-          "synonyms": [
-            "Anatolia Story"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207809-cpS7CAyjN7iP.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207809-cpS7CAyjN7iP.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1787675700,
-            "episode": 8
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Drama",
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Time Manipulation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shoujo",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Politics",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kingdom Management",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Survival",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Indigenous Cultures",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Foreign",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Torture",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Travel",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Language Barrier",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Desert",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tanned Skin",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 61,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Tatsunoko Production"
-              }
-            ]
-          },
-          "description": "<p>After a mysterious hand drags her beneath a puddle, modern Japanese teenager Yuri awakens in the Hittite Empire of the 14th century BCE. Thrust into a deadly struggle for the throne, she joins Prince Kail to battle assassins, outwit royal conspiracies, and survive a world at war. As her exploits earn her renown as the goddess Ishtar, Yuri must choose between her old life and an uncertain future.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://www.vap.co.jp/sorahaakaikawanohotori/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/tenkawa_anime"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@tenkawa_anime"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378099/red-river"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Modern Japon genç Yuri, gizemli bir elin onu bir su birikintisinin altına sürüklemesinin ardından, M.Ö. 14. yüzyılın Hitit İmparatorluğu'nda uyanır. Taht için ölümcül bir mücadeleye sürüklenen o, suikastçılarla savaşmak, kraliyet komplolarını alt etmek ve savaş halindeki bir dünyada hayatta kalmak için Prens Kail'e katılır. Kahramanlıkları ona tanrıça İştar olarak ün kazandırırken Yuri, eski hayatı ile belirsiz bir gelecek arasında seçim yapmak zorunda kalır.<br><br>(Kaynak: Crunchyroll)"
-        },
-        {
           "id": 188525,
           "title": {
             "romaji": "Kore Kaite Shine",
@@ -6200,6 +6056,150 @@
           ],
           "isMyList": false,
           "descriptionTr": "Lise birinci sınıf öğrencisi Ai Yasumi, Izu Oshima adasında yaşıyor ve manga okumayı seviyor. Ancak belli bir dönüm noktasından sonra gözünü kendi hikayelerini yaratmaya diker! Ai, manga yapma dünyasına dalarken zorluklarla, büyümeyle ve yaratıcı hayallerinin peşinden gitmenin heyecanıyla karşı karşıya kalır. Yaratıcı yolculuğu onu nereye götürecek?<br><br>(Kaynak: Crunchyroll)"
+        },
+        {
+          "id": 207809,
+          "title": {
+            "romaji": "Sora wa Akai Kawa no Hotori",
+            "english": "Red River",
+            "native": "天は赤い河のほとり"
+          },
+          "synonyms": [
+            "Anatolia Story"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 8
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207809-cpS7CAyjN7iP.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207809-cpS7CAyjN7iP.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1787675700,
+            "episode": 8
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Time Manipulation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shoujo",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Politics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Royal Affairs",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kingdom Management",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Survival",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Indigenous Cultures",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Foreign",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Torture",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Travel",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Language Barrier",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Desert",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tanned Skin",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 60,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Tatsunoko Production"
+              }
+            ]
+          },
+          "description": "<p>After a mysterious hand drags her beneath a puddle, modern Japanese teenager Yuri awakens in the Hittite Empire of the 14th century BCE. Thrust into a deadly struggle for the throne, she joins Prince Kail to battle assassins, outwit royal conspiracies, and survive a world at war. As her exploits earn her renown as the goddess Ishtar, Yuri must choose between her old life and an uncertain future.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://www.vap.co.jp/sorahaakaikawanohotori/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/tenkawa_anime"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@tenkawa_anime"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378099/red-river"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Modern Japon genç Yuri, gizemli bir elin onu bir su birikintisinin altına sürüklemesinin ardından, M.Ö. 14. yüzyılın Hitit İmparatorluğu'nda uyanır. Taht için ölümcül bir mücadeleye sürüklenen o, suikastçılarla savaşmak, kraliyet komplolarını alt etmek ve savaş halindeki bir dünyada hayatta kalmak için Prens Kail'e katılır. Kahramanlıkları ona tanrıça İştar olarak ün kazandırırken Yuri, eski hayatı ile belirsiz bir gelecek arasında seçim yapmak zorunda kalır.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 204060,
