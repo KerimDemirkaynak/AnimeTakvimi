@@ -562,7 +562,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 88,
+          "averageScore": 89,
           "studios": {
             "nodes": [
               {
@@ -725,7 +725,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 67,
+          "averageScore": 68,
           "studios": {
             "nodes": [
               {
@@ -1053,8 +1053,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210031-M4bt0rAmWk5Q.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787472000,
-            "episode": 8
+            "airingAt": 1788076800,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -1754,10 +1754,6 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Super Power",
               "isMediaSpoiler": false
             },
@@ -1768,6 +1764,10 @@
             {
               "name": "Time Manipulation",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
             },
             {
               "name": "Kuudere",
@@ -3386,7 +3386,7 @@
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209983-dKykF3rBGfik.jpg",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209983-fJysbFB72IM9.jpg",
           "nextAiringEpisode": {
             "airingAt": 1787932800,
             "episode": 9
@@ -3548,7 +3548,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 61,
+          "averageScore": 60,
           "studios": {
             "nodes": [
               {
@@ -3766,12 +3766,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Boxing",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
             },
             {
               "name": "Shapeshifting",
@@ -4391,6 +4391,137 @@
           "descriptionTr": "<p>To the empire, Prince Arnold is one big joke, a completely inept prince outshone by his more talented twin, Leonard. But in secret, Arnold operates as Silver, one of only five magic-wielding SS-rank adventurers on the continent. As the bloody battle for the throne intensifies after the crown prince’s death, Arnold pulls the strings from the shadows to crown his twin emperor to his own advantage.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
+          "id": 199066,
+          "title": {
+            "romaji": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
+            "english": "Hanaori-san Still Wants to Fight in the Next Life",
+            "native": "花織さんは転生しても喧嘩がしたい"
+          },
+          "synonyms": [
+            "Hanaori-san Wants to Have A Fight Even If She Reincarnates",
+            "คุณฮานาโอริ เกิดใหม่ครั้งนี้ก็ขอมีเรื่อง"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 12
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199066-YXDVsguvFZMm.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199066-YXDVsguvFZMm.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199066-nmAYnI6uChse.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1788022800,
+            "episode": 8
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Parody",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Reverse Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Gap",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Slapstick",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Episodic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Aliens",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Alternate Universe",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Henshin",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 68,
+          "studios": {
+            "nodes": [
+              {
+                "name": "LIDENFILMS"
+              }
+            ]
+          },
+          "description": "<p>Once the Demon King, now a shut-in NEET—Ryuusei Narukami’s second life is anything but peaceful! When Meteor Hanaori, the Hero who once defeated him, suddenly returns as a normal high school girl, his world is thrown into chaos. Determined to change, Ryuusei reenters society as a teacher and ends up teaching at her school! Their explosive reunion reignites the past—and sparks an unexpected love!<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/hanaori_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://hanaorisan-anime.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378066/hanaori-san-still-wants-to-fight-in-the-next-life"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2413807"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Once the Demon King, now a shut-in NEET—Ryuusei Narukami’s second life is anything but peaceful! When Meteor Hanaori, the Hero who once defeated him, suddenly returns as a normal high school girl, his world is thrown into chaos. Determined to change, Ryuusei reenters society as a teacher and ends up teaching at her school! Their explosive reunion reignites the past—and sparks an unexpected love!<br><br><br />\n(Source: Crunchyroll)</p>"
+        },
+        {
           "id": 186863,
           "title": {
             "romaji": "Neko to Ryuu",
@@ -4536,137 +4667,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>The story follows a fire-breathing, human-hating dragon raised by a mother cat in a forest. The dragon, known affectionately as &quot;Uncle Wing,&quot; watches over the many curious cats — such as one that goes on an adventure with a human prince, and another that lives in the city and people-watches as a hobby — and gradually warms up to humans along the way.<br><br></p>\n<p>(Source: Crunchyroll News)<br><br><br />\n<i>Note: Each episode streamed 1 week early on ABEMA and dAnimeStore. The original TV broadcast started on July 4, 2026.</i></p>"
-        },
-        {
-          "id": 199066,
-          "title": {
-            "romaji": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
-            "english": "Hanaori-san Still Wants to Fight in the Next Life",
-            "native": "花織さんは転生しても喧嘩がしたい"
-          },
-          "synonyms": [
-            "Hanaori-san Wants to Have A Fight Even If She Reincarnates",
-            "คุณฮานาโอริ เกิดใหม่ครั้งนี้ก็ขอมีเรื่อง"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 12
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199066-YXDVsguvFZMm.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199066-YXDVsguvFZMm.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199066-nmAYnI6uChse.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1788022800,
-            "episode": 8
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "Parody",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Reverse Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Gap",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Slapstick",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Episodic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Aliens",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Alternate Universe",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Henshin",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 68,
-          "studios": {
-            "nodes": [
-              {
-                "name": "LIDENFILMS"
-              }
-            ]
-          },
-          "description": "<p>Once the Demon King, now a shut-in NEET—Ryuusei Narukami’s second life is anything but peaceful! When Meteor Hanaori, the Hero who once defeated him, suddenly returns as a normal high school girl, his world is thrown into chaos. Determined to change, Ryuusei reenters society as a teacher and ends up teaching at her school! Their explosive reunion reignites the past—and sparks an unexpected love!<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/hanaori_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://hanaorisan-anime.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378066/hanaori-san-still-wants-to-fight-in-the-next-life"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2413807"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Once the Demon King, now a shut-in NEET—Ryuusei Narukami’s second life is anything but peaceful! When Meteor Hanaori, the Hero who once defeated him, suddenly returns as a normal high school girl, his world is thrown into chaos. Determined to change, Ryuusei reenters society as a teacher and ends up teaching at her school! Their explosive reunion reignites the past—and sparks an unexpected love!<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
           "id": 206521,
@@ -6238,8 +6238,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204060-3y19sqCToRaN.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787473800,
-            "episode": 8
+            "airingAt": 1788078600,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
