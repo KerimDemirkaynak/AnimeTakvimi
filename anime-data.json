@@ -25,8 +25,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178789-9nHWmoRLlcLu.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787497200,
-            "episode": 9
+            "airingAt": 1788102000,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -77,11 +77,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
+              "name": "Female Harem",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Harem",
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
@@ -137,15 +137,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Love Triangle",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
               "name": "Disability",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Love Triangle",
               "isMediaSpoiler": false
             },
             {
@@ -377,15 +377,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Age Regression",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Guns",
               "isMediaSpoiler": false
             },
             {
               "name": "Politics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Regression",
               "isMediaSpoiler": false
             },
             {
@@ -401,7 +401,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
+              "name": "Urban",
               "isMediaSpoiler": false
             },
             {
@@ -409,7 +409,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Foreign",
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
@@ -417,7 +417,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Foreign",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Gender Bending",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Meta",
               "isMediaSpoiler": false
             },
             {
@@ -426,14 +434,6 @@
             },
             {
               "name": "Historical",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Meta",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
               "isMediaSpoiler": false
             },
             {
@@ -554,11 +554,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Archery",
+              "name": "Tanned Skin",
               "isMediaSpoiler": false
             },
             {
-              "name": "Tanned Skin",
+              "name": "Archery",
               "isMediaSpoiler": false
             }
           ],
@@ -709,15 +709,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Centaur",
               "isMediaSpoiler": false
             },
             {
               "name": "Cute Girls Doing Cute Things",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -1153,8 +1153,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103303-K73aVOqkCPqL.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787493600,
-            "episode": 8
+            "airingAt": 1788098400,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -1216,6 +1216,10 @@
             },
             {
               "name": "Metal Music",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "War",
               "isMediaSpoiler": true
             }
           ],
@@ -1360,11 +1364,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Boarding School",
+              "name": "Dystopian",
               "isMediaSpoiler": false
             },
             {
-              "name": "Dystopian",
+              "name": "Boarding School",
               "isMediaSpoiler": false
             },
             {
@@ -1569,6 +1573,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Cyberpunk",
               "isMediaSpoiler": false
             },
@@ -1581,19 +1589,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Artificial Intelligence",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Robots",
+              "name": "Artificial Intelligence",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Adult Cast",
+              "name": "Robots",
               "isMediaSpoiler": false
             },
             {
@@ -1613,23 +1617,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Politics",
               "isMediaSpoiler": false
             },
             {
-              "name": "Episodic",
+              "name": "Gore",
               "isMediaSpoiler": false
             },
             {
@@ -1637,7 +1629,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Episodic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
@@ -1645,11 +1649,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Polyamorous",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Polyamorous",
               "isMediaSpoiler": false
             }
           ],
@@ -2217,11 +2221,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
+              "name": "CGI",
               "isMediaSpoiler": false
             },
             {
-              "name": "CGI",
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
@@ -2874,8 +2878,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200637-q9mehOFbbCgT.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787491800,
-            "episode": 8
+            "airingAt": 1788096600,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -3256,11 +3260,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Kaiju",
+              "name": "Coming of Age",
               "isMediaSpoiler": false
             },
             {
-              "name": "Coming of Age",
+              "name": "Kaiju",
               "isMediaSpoiler": false
             },
             {
@@ -3284,19 +3288,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Tokusatsu",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "School",
               "isMediaSpoiler": false
             },
             {
               "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tokusatsu",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
               "isMediaSpoiler": false
             },
             {
@@ -3308,11 +3312,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Gyaru",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Tsundere",
               "isMediaSpoiler": false
             },
             {
-              "name": "Gyaru",
+              "name": "Bullying",
               "isMediaSpoiler": false
             },
             {
@@ -3320,16 +3328,12 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Bullying",
+              "name": "Love Triangle",
               "isMediaSpoiler": false
             },
             {
               "name": "Makeup",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Love Triangle",
-              "isMediaSpoiler": false
             }
           ],
           "averageScore": 75,
@@ -3597,8 +3601,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188139-PU5JsGJiiUnR.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787496360,
-            "episode": 7
+            "airingAt": 1788101160,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -3645,6 +3649,10 @@
             {
               "name": "Agriculture",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
             },
             {
               "name": "Suicide",
@@ -3715,8 +3723,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177637-2Ok4Pq0SpvHp.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787499000,
-            "episode": 8
+            "airingAt": 1788103800,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -3730,11 +3738,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Fairy Tale",
+              "name": "Mermaid",
               "isMediaSpoiler": false
             },
             {
-              "name": "Mermaid",
+              "name": "Fairy Tale",
               "isMediaSpoiler": false
             },
             {
@@ -3770,6 +3778,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Yuri",
               "isMediaSpoiler": true
             },
@@ -3782,19 +3794,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Bisexual",
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
+              "name": "Royal Affairs",
               "isMediaSpoiler": false
             },
             {
-              "name": "Royal Affairs",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -4109,8 +4117,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1787490000,
-            "episode": 8
+            "airingAt": 1788094800,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
