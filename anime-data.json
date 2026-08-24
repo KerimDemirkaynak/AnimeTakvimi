@@ -2306,8 +2306,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202269-u0PTTsiKwrVL.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787572800,
-            "episode": 8
+            "airingAt": 1788177600,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -3470,115 +3470,6 @@
           "descriptionTr": "<p>The second season of <i>Hell Mode</i>.</p>"
         },
         {
-          "id": 197715,
-          "title": {
-            "romaji": "LV999 no Murabito",
-            "english": "The Villager of Level 999",
-            "native": "LV999の村人"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 2
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197715-KLFLxU24U1uL.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197715-KLFLxU24U1uL.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197715-X8YkpOGY968a.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1787756400,
-            "episode": 10
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Parody",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tomboy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Surreal Comedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Gap",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dragons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Meta",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Dystopian",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Philosophy",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 60,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Brain's Base"
-              }
-            ]
-          },
-          "description": "<p>In Earthclear, everyone is born into a fixed role, and villagers are the weakest of all. Most never rise above Level 5—except Kouji Kagami, who is Level…999?! On a monster hunt, he meets Alice, the Demon King’s daughter, and discovers they share an impossible dream: coexistence between humans and demons. In a world destined for conflict, they charge into battle to defy fate and shatter the rules.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://lv999-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/lv999_anime"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371878/the-villager-of-level-999"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>In Earthclear, everyone is born into a fixed role, and villagers are the weakest of all. Most never rise above Level 5—except Kouji Kagami, who is Level…999?! On a monster hunt, he meets Alice, the Demon King’s daughter, and discovers they share an impossible dream: coexistence between humans and demons. In a world destined for conflict, they charge into battle to defy fate and shatter the rules.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
-        },
-        {
           "id": 188139,
           "title": {
             "romaji": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
@@ -3702,6 +3593,115 @@
           "descriptionTr": "<p>As maidens from the Five Clans battle for the Crown Prince’s heart, jealous Keigetsu uses forbidden magic to swap bodies with the beloved Reirin. Switching places does not guarantee happiness for Keigetsu with her new body's ill health leaving her hanging on the verge of death. Meanwhile, Reirin, now wearing the face of a scorned outcast, must answer for Keigetsu’s crimes in a dangerous trial.<br />\n<br><br><br />\nThe unlikely pair become increasingly entangled in each other’s lives and they will need to work together to survive after discovering the dark conspiracies brewing beneath the palace's genial surface. To confront the deadly threats lurking in the shadows, Reirin must embrace her new identity and defy their expectations of the court's inept villainess.<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
+          "id": 197715,
+          "title": {
+            "romaji": "LV999 no Murabito",
+            "english": "The Villager of Level 999",
+            "native": "LV999の村人"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 2
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197715-KLFLxU24U1uL.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197715-KLFLxU24U1uL.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197715-X8YkpOGY968a.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1787756400,
+            "episode": 10
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Demons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Parody",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tomboy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Surreal Comedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Gap",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Dragons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Meta",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Dystopian",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Philosophy",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 60,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Brain's Base"
+              }
+            ]
+          },
+          "description": "<p>In Earthclear, everyone is born into a fixed role, and villagers are the weakest of all. Most never rise above Level 5—except Kouji Kagami, who is Level…999?! On a monster hunt, he meets Alice, the Demon King’s daughter, and discovers they share an impossible dream: coexistence between humans and demons. In a world destined for conflict, they charge into battle to defy fate and shatter the rules.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://lv999-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/lv999_anime"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371878/the-villager-of-level-999"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>In Earthclear, everyone is born into a fixed role, and villagers are the weakest of all. Most never rise above Level 5—except Kouji Kagami, who is Level…999?! On a monster hunt, he meets Alice, the Demon King’s daughter, and discovers they share an impossible dream: coexistence between humans and demons. In a world destined for conflict, they charge into battle to defy fate and shatter the rules.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
+        },
+        {
           "id": 177637,
           "title": {
             "romaji": "Sayonara Lara",
@@ -3810,15 +3810,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Unrequited Love",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Transgender",
               "isMediaSpoiler": true
             },
             {
+              "name": "Unrequited Love",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Tomboy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Femboy",
               "isMediaSpoiler": false
             },
             {
@@ -3831,10 +3835,6 @@
             },
             {
               "name": "Food",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Femboy",
               "isMediaSpoiler": false
             }
           ],
@@ -4339,8 +4339,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169582-D5p5iRI5XqML.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787572620,
-            "episode": 8
+            "airingAt": 1788177420,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -4776,7 +4776,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 72,
+          "averageScore": 71,
           "studios": {
             "nodes": [
               {
