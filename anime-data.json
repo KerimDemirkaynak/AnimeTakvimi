@@ -562,7 +562,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 89,
+          "averageScore": 90,
           "studios": {
             "nodes": [
               {
@@ -725,7 +725,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 68,
+          "averageScore": 67,
           "studios": {
             "nodes": [
               {
@@ -1301,8 +1301,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187260-HMkLPy3ZvzW1.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787661000,
-            "episode": 8
+            "airingAt": 1788265800,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -2641,15 +2641,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Chibi",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Maids",
               "isMediaSpoiler": false
             },
             {
               "name": "Yakuza",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Chibi",
               "isMediaSpoiler": false
             },
             {
@@ -3774,12 +3774,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Boxing",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
             },
             {
               "name": "Shapeshifting",
@@ -3806,12 +3806,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Unrequited Love",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Tomboy",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Unrequited Love",
+              "isMediaSpoiler": true
             },
             {
               "name": "Femboy",
@@ -3993,8 +3993,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/128757-kBnCRYXdyw58.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787657400,
-            "episode": 8
+            "airingAt": 1788262200,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -4364,7 +4364,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 59,
+          "averageScore": 58,
           "studios": {
             "nodes": [
               {
