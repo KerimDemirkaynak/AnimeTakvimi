@@ -641,11 +641,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Surreal Comedy",
               "isMediaSpoiler": false
             },
             {
-              "name": "Surreal Comedy",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -1957,8 +1957,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185542-v15vqOvUWSF5.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787576400,
-            "episode": 8
+            "airingAt": 1788181200,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -2328,11 +2328,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "College",
+              "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Adult Cast",
+              "name": "College",
               "isMediaSpoiler": false
             },
             {
@@ -2340,12 +2340,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Amnesia",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Iyashikei",
+              "isMediaSpoiler": false
             },
             {
               "name": "Urban",
@@ -2490,16 +2490,16 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Espionage",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Josei",
               "isMediaSpoiler": false
             },
             {
               "name": "Philosophy",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Espionage",
-              "isMediaSpoiler": true
             },
             {
               "name": "Religion",
@@ -2708,8 +2708,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199111-Z8y9awn2Zb6v.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787583600,
-            "episode": 8
+            "airingAt": 1788188400,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -3140,8 +3140,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169583-wB0yHc7e8Kjk.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787581800,
-            "episode": 8
+            "airingAt": 1788186600,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -3774,16 +3774,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Boxing",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Yuri",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Boxing",
+              "isMediaSpoiler": false
             },
             {
               "name": "Shapeshifting",
@@ -3808,10 +3804,6 @@
             {
               "name": "Primarily Female Cast",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Transgender",
-              "isMediaSpoiler": true
             },
             {
               "name": "Unrequited Love",
@@ -4695,8 +4687,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206521-zCIAGsiIkh6G.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787576400,
-            "episode": 9
+            "airingAt": 1788181200,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -4835,8 +4827,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199408-ouNGkjrw0ohT.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787578200,
-            "episode": 8
+            "airingAt": 1788183000,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -4857,6 +4849,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Gore",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Magic",
               "isMediaSpoiler": false
             },
@@ -4874,10 +4870,6 @@
             },
             {
               "name": "Maids",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gore",
               "isMediaSpoiler": false
             },
             {
@@ -5490,8 +5482,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1787580000,
-            "episode": 8
+            "airingAt": 1788184800,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
