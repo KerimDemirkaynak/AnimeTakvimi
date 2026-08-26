@@ -271,11 +271,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Iyashikei",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Iyashikei",
               "isMediaSpoiler": false
             },
             {
@@ -677,11 +677,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Rehabilitation",
+              "name": "Urban Fantasy",
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban Fantasy",
+              "name": "Rehabilitation",
               "isMediaSpoiler": false
             },
             {
@@ -693,11 +693,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Hikikomori",
+              "name": "Nudity",
               "isMediaSpoiler": false
             },
             {
-              "name": "Nudity",
+              "name": "Hikikomori",
               "isMediaSpoiler": false
             },
             {
@@ -1382,6 +1382,10 @@
             {
               "name": "Nudity",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Unrequited Love",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 74,
@@ -1558,8 +1562,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177699-5kDbvDBhtSE3.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787666400,
-            "episode": 8
+            "airingAt": 1788271200,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -3774,12 +3778,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Boxing",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Yuri",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Boxing",
+              "isMediaSpoiler": false
             },
             {
               "name": "Shapeshifting",
@@ -4030,11 +4034,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Ojou-sama",
+              "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Teen Cast",
+              "name": "Ojou-sama",
               "isMediaSpoiler": false
             },
             {
@@ -4841,11 +4845,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Revenge",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Revenge",
               "isMediaSpoiler": false
             },
             {
@@ -4865,10 +4869,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Economics",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Maids",
               "isMediaSpoiler": false
             },
@@ -4883,6 +4883,10 @@
             {
               "name": "Anti-Hero",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Economics",
+              "isMediaSpoiler": false
             },
             {
               "name": "Nekomimi",
@@ -5170,8 +5174,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196219-2F64WTRfqRU9.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787662800,
-            "episode": 9
+            "airingAt": 1788267600,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -5185,15 +5189,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Shoujo",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
               "name": "Arranged Marriage",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shoujo",
               "isMediaSpoiler": false
             },
             {
@@ -5371,8 +5375,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198709-wyZYzcKM5itk.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787670000,
-            "episode": 8
+            "airingAt": 1788274800,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -6094,8 +6098,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1787675700,
-            "episode": 8
+            "airingAt": 1788280500,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
