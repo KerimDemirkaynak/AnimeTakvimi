@@ -546,12 +546,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Memory Manipulation",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Gore",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Memory Manipulation",
+              "isMediaSpoiler": true
             },
             {
               "name": "Tanned Skin",
@@ -709,15 +709,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Centaur",
               "isMediaSpoiler": false
             },
             {
               "name": "Cute Girls Doing Cute Things",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -1203,11 +1203,11 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Urban",
+              "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Teen Cast",
+              "name": "Urban",
               "isMediaSpoiler": false
             },
             {
@@ -1605,8 +1605,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1787754600,
-            "episode": 8
+            "airingAt": 1788359400,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -2197,8 +2197,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1787755560,
-            "episode": 8
+            "airingAt": 1788360360,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -3292,6 +3292,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Interspecies",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "School",
               "isMediaSpoiler": false
             },
@@ -3550,6 +3554,10 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Suicide",
               "isMediaSpoiler": true
             }
@@ -3615,8 +3623,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197715-X8YkpOGY968a.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787756400,
-            "episode": 10
+            "airingAt": 1788361200,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -3738,11 +3746,11 @@
           ],
           "tags": [
             {
-              "name": "Female Protagonist",
+              "name": "Mermaid",
               "isMediaSpoiler": false
             },
             {
-              "name": "Mermaid",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -3790,11 +3798,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Witch",
+              "name": "Bisexual",
               "isMediaSpoiler": false
             },
             {
-              "name": "Bisexual",
+              "name": "Witch",
               "isMediaSpoiler": false
             },
             {
@@ -3802,11 +3810,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
+              "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Female Cast",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -3832,6 +3840,10 @@
             {
               "name": "Food",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 76,
@@ -4723,6 +4735,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Anti-Hero",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Royal Affairs",
               "isMediaSpoiler": false
             },
@@ -4741,10 +4757,6 @@
             {
               "name": "Nun",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Anti-Hero",
-              "isMediaSpoiler": true
             },
             {
               "name": "Economics",
@@ -4950,8 +4962,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192800-1EhTN0zOxQsW.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787751000,
-            "episode": 10
+            "airingAt": 1788355800,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -4960,11 +4972,11 @@
           ],
           "tags": [
             {
-              "name": "Magic",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
@@ -5733,8 +5745,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196356-OUT2nMhW0IdS.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787754600,
-            "episode": 8
+            "airingAt": 1788359400,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
