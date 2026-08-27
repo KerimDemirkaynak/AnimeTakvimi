@@ -232,8 +232,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196187-Z9dV6uotmKjM.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787842560,
-            "episode": 8
+            "airingAt": 1788447360,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -283,15 +283,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Episodic",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Office",
               "isMediaSpoiler": false
             },
             {
               "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Episodic",
               "isMediaSpoiler": false
             }
           ],
@@ -928,8 +928,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1787844360,
-            "episode": 9
+            "airingAt": 1788449160,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -1105,7 +1105,7 @@
               }
             ]
           },
-          "description": "<p>The second season of <i>Seihantai na Kimi to Boku</i>.</p>",
+          "description": "<p>Six months have passed since the polar opposite classmates Miyu Suzuki and Yuusuke Tani started dating. Through spending time together along with their friends from school, the two have been happier than ever. As the year nears its end, the new couple plans to celebrate Christmas and the New Year together, making memories for years to come.<br><br />\n<br><br />\nMeanwhile, Miyu and Yuusuke's friends Shuuji Taira and Kentarou Yamada are puzzled by their own situations. Due to his bad experiences in middle school, Taira still overthinks everything around him, especially after his classmate Shino Azuma began giving him more attention. Simultaneously, the usually energetic and outspoken Yamada finds it difficult to find the perfect time to confess his feelings to his shy schoolmate Natsumi Nishi. Despite everyone's differences, they continue enjoying their adolescence together and find their own ways to turn the winter break into a cherished memory.<br><br />\n<br><br />\n(Source: MAL Rewrite)</p>",
           "externalLinks": [
             {
               "site": "Official Site",
@@ -1125,7 +1125,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "<p>The second season of <i>Seihantai na Kimi to Boku</i>.</p>"
+          "descriptionTr": "<p>Six months have passed since the polar opposite classmates Miyu Suzuki and Yuusuke Tani started dating. Through spending time together along with their friends from school, the two have been happier than ever. As the year nears its end, the new couple plans to celebrate Christmas and the New Year together, making memories for years to come.<br><br />\n<br><br />\nMeanwhile, Miyu and Yuusuke's friends Shuuji Taira and Kentarou Yamada are puzzled by their own situations. Due to his bad experiences in middle school, Taira still overthinks everything around him, especially after his classmate Shino Azuma began giving him more attention. Simultaneously, the usually energetic and outspoken Yamada finds it difficult to find the perfect time to confess his feelings to his shy schoolmate Natsumi Nishi. Despite everyone's differences, they continue enjoying their adolescence together and find their own ways to turn the winter break into a cherished memory.<br><br />\n<br><br />\n(Source: MAL Rewrite)</p>"
         },
         {
           "id": 103303,
@@ -1532,10 +1532,6 @@
             {
               "name": "Yuri",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Polyamorous",
-              "isMediaSpoiler": false
             }
           ],
           "averageScore": 76,
@@ -1704,127 +1700,6 @@
           "descriptionTr": "<p>The second season of <i>Otomege Sekai wa Mob ni Kibishii Sekai desu</i>.</p>"
         },
         {
-          "id": 133007,
-          "title": {
-            "romaji": "Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten",
-            "english": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
-            "native": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉"
-          },
-          "synonyms": [
-            "Magical Girl Madoka Magica Movie 4",
-            "Puella Magi Madoka Magica Movie 4"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 8,
-            "day": 28
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133007-5gOUXDvzxy9S.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133007-5gOUXDvzxy9S.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/133007-NkSVqsR7CTgT.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1787842800,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [
-            "Mahou Shoujo"
-          ],
-          "tags": [
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Philosophy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Witch",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Manipulation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Kuudere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Guns",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Curses",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Shaft"
-              }
-            ]
-          },
-          "description": "<p>The 10th anniversary online event for the <i>Mahou Shoujo Madoka☆Magica</i> anime revealed that the franchise is getting a new anime film titled <i>Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten</i>. The film will be an official sequel to the <i>Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari</i> film that opened in October 2013. The tagline on the new film's visual reads, <i>&quot;Now, let's continue the story.&quot;</i><br><br><br />\n(Source: Anime News Network, edited)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://www.madoka-magica.com/wr/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/madoka_magica"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://www.madokamagicausa.com"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/MadokaMagicaUSA"
-            },
-            {
-              "site": "Facebook",
-              "url": "https://www.facebook.com/MadokaMagicaUSA/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>The 10th anniversary online event for the <i>Mahou Shoujo Madoka☆Magica</i> anime revealed that the franchise is getting a new anime film titled <i>Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten</i>. The film will be an official sequel to the <i>Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari</i> film that opened in October 2013. The tagline on the new film's visual reads, <i>&quot;Now, let's continue the story.&quot;</i><br><br><br />\n(Source: Anime News Network, edited)</p>"
-        },
-        {
           "id": 208044,
           "title": {
             "romaji": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku",
@@ -1846,8 +1721,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/208044-JtlSTlmp5SmP.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787842800,
-            "episode": 10
+            "airingAt": 1788447600,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -2134,6 +2009,10 @@
             },
             {
               "name": "Monster Girl",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Boys' Love",
               "isMediaSpoiler": true
             }
           ],
@@ -3221,6 +3100,105 @@
           "descriptionTr": "<p>Seven years after making a childhood promise to always be friends, Hayato is reunited with his formerly tomboyish pal Haruki at a city high school–only now, Haruki has transformed into the girl every guy dreams about! While Haruki’s looks may have changed, with Hayato, she’s still the same pal he remembers. Despite years apart, their promise and feelings remain and deepen into something stronger.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
+          "id": 209983,
+          "title": {
+            "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
+            "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+            "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season"
+          },
+          "synonyms": [
+            "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+            "HELL MODE ~อยากเล่นโหด ขอโหมดนรก~ ซีซั่น 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209983-fJysbFB72IM9.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1787932800,
+            "episode": 9
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Child Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Creature Taming",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Found Family",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Demons",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "War",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 72,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Yokohama Animation Lab"
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Hell Mode</i>.</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://hellmode-anime.com"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/hellmode_anime"
+            },
+            {
+              "site": "HIDIVE",
+              "url": "https://www.hidive.com/season/36239"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/1a7r5ibbkjl"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>The second season of <i>Hell Mode</i>.</p>"
+        },
+        {
           "id": 204466,
           "title": {
             "romaji": "Otome Kaijuu Caraméliser",
@@ -3241,8 +3219,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204466-cpbNGN9qHrGP.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1787848080,
-            "episode": 9
+            "airingAt": 1788452880,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -3379,105 +3357,6 @@
           "descriptionTr": "<p>Kuroe Akaishi just wants a normal high school life—but that’s impossible with a rare condition that turns her into a giant kaiju whenever her emotions spike! Things get even worse when she falls for Arata Minami, the most popular boy in class. Now every blush, heartbeat, and crush could trigger a monster transformation. Can Kuroe survive high school love before it destroys everything around her?!<br><br />\n<br><br />\n(Source: Crunchyroll)</p>"
         },
         {
-          "id": 209983,
-          "title": {
-            "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
-            "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
-            "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season"
-          },
-          "synonyms": [
-            "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
-            "HELL MODE ~อยากเล่นโหด ขอโหมดนรก~ ซีซั่น 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209983-fJysbFB72IM9.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1787932800,
-            "episode": 9
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Child Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Creature Taming",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Found Family",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "War",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 72,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Yokohama Animation Lab"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Hell Mode</i>.</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://hellmode-anime.com"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/hellmode_anime"
-            },
-            {
-              "site": "HIDIVE",
-              "url": "https://www.hidive.com/season/36239"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/1a7r5ibbkjl"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>The second season of <i>Hell Mode</i>.</p>"
-        },
-        {
           "id": 188139,
           "title": {
             "romaji": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
@@ -3546,19 +3425,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Agriculture",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Yuri",
               "isMediaSpoiler": true
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
+              "name": "Agriculture",
+              "isMediaSpoiler": false
             },
             {
               "name": "Suicide",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": true
             }
           ],
@@ -3798,10 +3677,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Bisexual",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Witch",
               "isMediaSpoiler": false
             },
@@ -3810,11 +3685,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Female Cast",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
+              "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
             {
@@ -3823,6 +3698,10 @@
             },
             {
               "name": "Unrequited Love",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": true
             },
             {
@@ -3840,10 +3719,6 @@
             {
               "name": "Food",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
             }
           ],
           "averageScore": 76,
@@ -5607,8 +5482,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1787833800,
-            "episode": 9
+            "airingAt": 1788438600,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -5791,6 +5666,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Yuri",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "School",
               "isMediaSpoiler": true
             },
@@ -5813,10 +5692,6 @@
             {
               "name": "Villainess",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": true
             },
             {
               "name": "LGBTQ+ Themes",
@@ -6051,7 +5926,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 76,
+          "averageScore": 77,
           "studios": {
             "nodes": [
               {
@@ -6123,7 +5998,7 @@
           ],
           "tags": [
             {
-              "name": "Time Manipulation",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -6131,11 +6006,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Historical",
+              "name": "Time Manipulation",
               "isMediaSpoiler": false
             },
             {
@@ -6143,11 +6014,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Isekai",
+              "name": "Royal Affairs",
               "isMediaSpoiler": false
             },
             {
-              "name": "Royal Affairs",
+              "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
               "isMediaSpoiler": false
             },
             {
@@ -6159,7 +6038,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -6175,10 +6054,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Foreign",
               "isMediaSpoiler": false
             },
@@ -6191,11 +6066,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Language Barrier",
+              "name": "Desert",
               "isMediaSpoiler": false
             },
             {
-              "name": "Desert",
+              "name": "Language Barrier",
               "isMediaSpoiler": false
             },
             {
@@ -6203,7 +6078,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 60,
+          "averageScore": 61,
           "studios": {
             "nodes": [
               {
@@ -6290,6 +6165,10 @@
             {
               "name": "Educational",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Anti-Hero",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 70,
@@ -6317,6 +6196,150 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Jan Akiyama, a cocky arrogant teenager wants to fulfill his grandfathers wish of defeating his arch nemesis Mutsuju Gobancho. When he arrives at the Gobancho restaurant he meets his granddaughter Kiriko Gobancho. Their rivalry is easily compared to Jan's and Kiriko's grandfathers, for Jan believes cooking is about competition and Kiriko believes cooking is about heart.</p>"
+        },
+        {
+          "id": 185875,
+          "title": {
+            "romaji": "Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
+            "english": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
+            "native": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance"
+          },
+          "synonyms": [
+            "NANOHA EXGV"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185875-XMvDVlIUZODx.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185875-XMvDVlIUZODx.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185875-kHVsTIJKPVRJ.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1788019200,
+            "episode": 9
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Mahou Shoujo",
+            "Sci-Fi"
+          ],
+          "tags": [
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Henshin",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Demons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Post-Apocalyptic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Drugs",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Spearplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Guns",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Found Family",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Military",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coastal",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Work",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 64,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Seven Arcs"
+              }
+            ]
+          },
+          "description": "<p>Thirty years ago, the world was nearly destroyed by the sudden appearance of unknown &quot;invasive alien species.&quot;<br />\n<br><br><br />\nHumans and these “invasive species” continue to vie for living space, and while humanity’s safety is currently barely secured, the world could be destroyed at any moment. Living in fear of death and destruction, people go about their daily lives as if trying to avert their eyes from danger and disaster.<br />\n<br><br><br />\nIn this world, the United Nations Hazardous Species Investigation Agency, &quot;EXCEEDS,&quot; has begun operations to ward off crises and disasters caused by invasive species.<br />\n<br><br><br />\nThe story begins on the island nation of &quot;Mizuho&quot; in the Far East. Shina Hisase is a young invasive species extermination hunter living on a remote island. What incident will befall Shina, who wishes only to live quietly with her younger sister Setsuna, her sole remaining family member?<br />\n<br><br><br />\n<i>Note: The first episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/exgv_official"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://nanoha.com/EXGV/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378090/magical-girl-lyrical-nanoha-exceeds-gun-blaze-vengeance"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Thirty years ago, the world was nearly destroyed by the sudden appearance of unknown &quot;invasive alien species.&quot;<br />\n<br><br><br />\nHumans and these “invasive species” continue to vie for living space, and while humanity’s safety is currently barely secured, the world could be destroyed at any moment. Living in fear of death and destruction, people go about their daily lives as if trying to avert their eyes from danger and disaster.<br />\n<br><br><br />\nIn this world, the United Nations Hazardous Species Investigation Agency, &quot;EXCEEDS,&quot; has begun operations to ward off crises and disasters caused by invasive species.<br />\n<br><br><br />\nThe story begins on the island nation of &quot;Mizuho&quot; in the Far East. Shina Hisase is a young invasive species extermination hunter living on a remote island. What incident will befall Shina, who wishes only to live quietly with her younger sister Setsuna, her sole remaining family member?<br />\n<br><br><br />\n<i>Note: The first episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.</i></p>"
         }
       ]
     }
