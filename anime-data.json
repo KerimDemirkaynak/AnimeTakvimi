@@ -53,11 +53,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
+              "name": "Polyamorous",
               "isMediaSpoiler": false
             },
             {
-              "name": "Polyamorous",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -560,6 +560,14 @@
             {
               "name": "Archery",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Manipulation",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 90,
@@ -2474,8 +2482,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201514-8dAOB0Xw124G.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788025080,
-            "episode": 9
+            "airingAt": 1788629880,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -2496,15 +2504,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Arranged Marriage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Butler",
+              "name": "Kuudere",
               "isMediaSpoiler": false
             },
             {
@@ -2512,7 +2512,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Kuudere",
+              "name": "Butler",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Arranged Marriage",
               "isMediaSpoiler": false
             },
             {
@@ -2532,11 +2540,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yakuza",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Yakuza",
               "isMediaSpoiler": false
             }
           ],
@@ -3625,11 +3633,11 @@
           ],
           "tags": [
             {
-              "name": "Mermaid",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Mermaid",
               "isMediaSpoiler": false
             },
             {
@@ -3685,24 +3693,24 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Tomboy",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
             },
             {
               "name": "Unrequited Love",
               "isMediaSpoiler": true
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
+              "name": "Tomboy",
+              "isMediaSpoiler": false
             },
             {
               "name": "Femboy",
@@ -4303,8 +4311,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199066-nmAYnI6uChse.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788022800,
-            "episode": 8
+            "airingAt": 1788627600,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -4606,12 +4614,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Anti-Hero",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
             },
             {
               "name": "Royal Affairs",
@@ -4891,12 +4899,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Iyashikei",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
             },
             {
               "name": "Slapstick",
@@ -4978,11 +4986,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -4994,20 +5002,20 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Fairy Tale",
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban Fantasy",
+              "name": "Arranged Marriage",
               "isMediaSpoiler": false
             },
             {
               "name": "Boys' Love",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Arranged Marriage",
-              "isMediaSpoiler": false
             },
             {
               "name": "Historical",
@@ -5762,8 +5770,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1788021000,
-            "episode": 9
+            "airingAt": 1788625800,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -5780,10 +5788,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Marriage",
               "isMediaSpoiler": false
             },
@@ -5792,11 +5796,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Arranged Marriage",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Arranged Marriage",
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ojou-sama",
               "isMediaSpoiler": false
             }
           ],
@@ -5910,11 +5922,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Yuri",
               "isMediaSpoiler": true
             },
             {
-              "name": "Yuri",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": true
             },
             {
@@ -6279,11 +6291,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Found Family",
               "isMediaSpoiler": false
             },
             {
-              "name": "Found Family",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
@@ -6304,6 +6316,10 @@
             },
             {
               "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cannibalism",
               "isMediaSpoiler": false
             },
             {
