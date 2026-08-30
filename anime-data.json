@@ -25,8 +25,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178789-9nHWmoRLlcLu.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788102000,
-            "episode": 10
+            "airingAt": 1788706800,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -449,7 +449,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 81,
+          "averageScore": 80,
           "studios": {
             "nodes": [
               {
@@ -534,12 +534,16 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Super Power",
-              "isMediaSpoiler": false
+              "name": "Time Manipulation",
+              "isMediaSpoiler": true
             },
             {
               "name": "Urban Fantasy",
@@ -558,16 +562,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Archery",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Manipulation",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Tragedy",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Archery",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 90,
@@ -858,7 +858,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 71,
+          "averageScore": 70,
           "studios": {
             "nodes": [
               {
@@ -1061,8 +1061,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210031-M4bt0rAmWk5Q.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788076800,
-            "episode": 9
+            "airingAt": 1788681600,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -1161,8 +1161,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103303-K73aVOqkCPqL.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788098400,
-            "episode": 9
+            "airingAt": 1788703200,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -1183,27 +1183,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Boys' Love",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "LGBTQ+ Themes",
               "isMediaSpoiler": true
             },
             {
-              "name": "Yuri",
+              "name": "Boys' Love",
               "isMediaSpoiler": true
             },
             {
               "name": "Philosophy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Arranged Marriage",
               "isMediaSpoiler": false
             },
             {
@@ -1212,6 +1200,18 @@
             },
             {
               "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Arranged Marriage",
               "isMediaSpoiler": false
             },
             {
@@ -2345,15 +2345,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "War",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Historical",
               "isMediaSpoiler": false
             },
             {
               "name": "Foreign",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "War",
               "isMediaSpoiler": false
             },
             {
@@ -2769,8 +2769,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200637-q9mehOFbbCgT.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788096600,
-            "episode": 9
+            "airingAt": 1788701400,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -3387,8 +3387,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188139-PU5JsGJiiUnR.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788101160,
-            "episode": 8
+            "airingAt": 1788705960,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -3417,11 +3417,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Villainess",
+              "name": "Historical",
               "isMediaSpoiler": false
             },
             {
-              "name": "Historical",
+              "name": "Villainess",
               "isMediaSpoiler": false
             },
             {
@@ -3438,6 +3438,10 @@
             },
             {
               "name": "Agriculture",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ojou-sama",
               "isMediaSpoiler": false
             },
             {
@@ -3622,8 +3626,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177637-2Ok4Pq0SpvHp.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788103800,
-            "episode": 9
+            "airingAt": 1788708600,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -4008,8 +4012,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1788094800,
-            "episode": 9
+            "airingAt": 1788699600,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -4390,7 +4394,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 68,
+          "averageScore": 69,
           "studios": {
             "nodes": [
               {
@@ -4513,6 +4517,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Orphan",
               "isMediaSpoiler": false
             },
@@ -4526,10 +4534,6 @@
             },
             {
               "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
               "isMediaSpoiler": false
             }
           ],
@@ -6141,8 +6145,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204060-3y19sqCToRaN.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788078600,
-            "episode": 9
+            "airingAt": 1788683400,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
