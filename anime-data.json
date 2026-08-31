@@ -449,7 +449,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 80,
+          "averageScore": 81,
           "studios": {
             "nodes": [
               {
@@ -518,11 +518,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Gods",
               "isMediaSpoiler": false
             },
             {
-              "name": "Gods",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -1148,7 +1148,8 @@
             "A Luz do Futuro",
             "Destellos del mañana",
             "Étincelles de Demain",
-            "ประกายฝัน วันพรุ่งนี้"
+            "ประกายฝัน วันพรุ่งนี้",
+            "Záblesky zítřka"
           ],
           "startDate": {
             "year": 2026,
@@ -1215,6 +1216,10 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Crossdressing",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "War",
               "isMediaSpoiler": true
             },
@@ -1229,10 +1234,6 @@
             {
               "name": "Metal Music",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Crossdressing",
-              "isMediaSpoiler": false
             }
           ],
           "averageScore": 75,
@@ -1669,7 +1670,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 76,
+          "averageScore": 75,
           "studios": {
             "nodes": [
               {
@@ -1848,8 +1849,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185542-v15vqOvUWSF5.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788181200,
-            "episode": 9
+            "airingAt": 1788786000,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -2201,8 +2202,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202269-u0PTTsiKwrVL.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788177600,
-            "episode": 9
+            "airingAt": 1788782400,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -2223,6 +2224,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Amnesia",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
@@ -2233,10 +2238,6 @@
             {
               "name": "Male Protagonist",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Amnesia",
-              "isMediaSpoiler": true
             },
             {
               "name": "Iyashikei",
@@ -2284,184 +2285,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Kakeru Sorano, a quiet university freshman who avoids others, meets Koharu Fuyutsuki, a blind girl who faces the world with quiet brightness. When she says, “I want to see fireworks someday,” something in Kakeru shifts. As they grow closer through small moments and shared loneliness, he searches for a way to make her wish come true.<br><br />\n<br><br />\n(Source: Crunchyroll)</p>"
-        },
-        {
-          "id": 190569,
-          "title": {
-            "romaji": "Tenmaku no Jaadugar",
-            "english": "Jaadugar: A Witch in Mongolia",
-            "native": "天幕のジャードゥーガル"
-          },
-          "synonyms": [
-            "A Witch's Life in Mongol",
-            "Jaadugar, la légende de Fatima"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-KnCQLI3Z8hPX.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190569-KnCQLI3Z8hPX.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190569-fQrApHKs9PIz.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1788618600,
-            "episode": 11
-          },
-          "isAdult": false,
-          "genres": [
-            "Adventure",
-            "Drama"
-          ],
-          "tags": [
-            {
-              "name": "Indigenous Cultures",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Politics",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Revenge",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Conspiracy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Slavery",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Foreign",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "War",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Skip",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Biographical",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Class Struggle",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Orphan",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Travel",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Philosophy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Espionage",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Josei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Religion",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kingdom Management",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Survival",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Desert",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Language Barrier",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Suicide",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Arranged Marriage",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Middle east",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 82,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Science SARU"
-              }
-            ]
-          },
-          "description": "<p>After losing her mother and her homeland, Sitara’s despair transforms into determination with the power of knowledge. New possibilities unfold when a family of scholars takes her in, deepening her education. Meanwhile, Genghis Khan’s Mongol Empire conquers nation after nation, nearing Sitara’s new home. After the Fourth Prince of the empire takes her captive, a flame of revenge is ignited.<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/anime_jaadugar"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/Jaadugar_global"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://anime-jaadugar.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378078/jaadugar-a-witch-in-mongolia"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://anime-jaadugar.com/en/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>After losing her mother and her homeland, Sitara’s despair transforms into determination with the power of knowledge. New possibilities unfold when a family of scholars takes her in, deepening her education. Meanwhile, Genghis Khan’s Mongol Empire conquers nation after nation, nearing Sitara’s new home. After the Fourth Prince of the empire takes her captive, a flame of revenge is ignited.<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
           "id": 201514,
@@ -2583,6 +2406,184 @@
           "descriptionTr": "<p>Hinako Konohana is the perfect young lady—graceful, elegant, and flawless… or so everyone thinks. Behind closed doors, she’s a total disaster who can’t handle basic chores! When ordinary student Itsuki Tomonari becomes her caretaker, he’s thrown into 24/7 damage control, maintaining her “perfect” image. It’s awkward, nonstop chaos—but it starts softening into something that feels like love…<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
+          "id": 190569,
+          "title": {
+            "romaji": "Tenmaku no Jaadugar",
+            "english": "Jaadugar: A Witch in Mongolia",
+            "native": "天幕のジャードゥーガル"
+          },
+          "synonyms": [
+            "A Witch's Life in Mongol",
+            "Jaadugar, la légende de Fatima"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-KnCQLI3Z8hPX.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190569-KnCQLI3Z8hPX.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190569-fQrApHKs9PIz.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1788618600,
+            "episode": 11
+          },
+          "isAdult": false,
+          "genres": [
+            "Adventure",
+            "Drama"
+          ],
+          "tags": [
+            {
+              "name": "Indigenous Cultures",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Politics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Revenge",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Conspiracy",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Royal Affairs",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Foreign",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Slavery",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "War",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Skip",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Biographical",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Class Struggle",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Orphan",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Travel",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Philosophy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Espionage",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Josei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Religion",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kingdom Management",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Survival",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Desert",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Language Barrier",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Suicide",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Arranged Marriage",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Middle east",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 82,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Science SARU"
+              }
+            ]
+          },
+          "description": "<p>After losing her mother and her homeland, Sitara’s despair transforms into determination with the power of knowledge. New possibilities unfold when a family of scholars takes her in, deepening her education. Meanwhile, Genghis Khan’s Mongol Empire conquers nation after nation, nearing Sitara’s new home. After the Fourth Prince of the empire takes her captive, a flame of revenge is ignited.<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/anime_jaadugar"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/Jaadugar_global"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://anime-jaadugar.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378078/jaadugar-a-witch-in-mongolia"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://anime-jaadugar.com/en/"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>After losing her mother and her homeland, Sitara’s despair transforms into determination with the power of knowledge. New possibilities unfold when a family of scholars takes her in, deepening her education. Meanwhile, Genghis Khan’s Mongol Empire conquers nation after nation, nearing Sitara’s new home. After the Fourth Prince of the empire takes her captive, a flame of revenge is ignited.<br><br><br />\n(Source: Crunchyroll)</p>"
+        },
+        {
           "id": 199111,
           "title": {
             "romaji": "Grand Blue Season 3",
@@ -2603,8 +2604,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199111-Z8y9awn2Zb6v.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788188400,
-            "episode": 9
+            "airingAt": 1788793200,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -2662,11 +2663,11 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Surreal Comedy",
+              "name": "Scuba Diving",
               "isMediaSpoiler": false
             },
             {
-              "name": "Scuba Diving",
+              "name": "Surreal Comedy",
               "isMediaSpoiler": false
             },
             {
@@ -2816,11 +2817,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "School",
+              "name": "Found Family",
               "isMediaSpoiler": false
             },
             {
-              "name": "Found Family",
+              "name": "School",
               "isMediaSpoiler": false
             },
             {
@@ -3035,8 +3036,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169583-wB0yHc7e8Kjk.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788186600,
-            "episode": 9
+            "airingAt": 1788791400,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -3114,6 +3115,137 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Seven years after making a childhood promise to always be friends, Hayato is reunited with his formerly tomboyish pal Haruki at a city high school–only now, Haruki has transformed into the girl every guy dreams about! While Haruki’s looks may have changed, with Hayato, she’s still the same pal he remembers. Despite years apart, their promise and feelings remain and deepen into something stronger.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
+        },
+        {
+          "id": 188139,
+          "title": {
+            "romaji": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
+            "english": "Though I Am an Inept Villainess",
+            "native": "ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~"
+          },
+          "synonyms": [
+            "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
+            "Futsutsuka",
+            "นางร้ายมือใหม่ เป็นกำลังใจให้ด้วยนะเจ้าคะ"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 12
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188139-1qIJfWxym8FX.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188139-1qIJfWxym8FX.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188139-PU5JsGJiiUnR.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1788705960,
+            "episode": 9
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Body Swapping",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Josei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Royal Affairs",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ancient China",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Villainess",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Foreign",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Agriculture",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Ojou-sama",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Suicide",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 77,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Doga Kobo"
+              }
+            ]
+          },
+          "description": "<p>As maidens from the Five Clans battle for the Crown Prince’s heart, jealous Keigetsu uses forbidden magic to swap bodies with the beloved Reirin. Switching places does not guarantee happiness for Keigetsu with her new body's ill health leaving her hanging on the verge of death. Meanwhile, Reirin, now wearing the face of a scorned outcast, must answer for Keigetsu’s crimes in a dangerous trial.<br />\n<br><br><br />\nThe unlikely pair become increasingly entangled in each other’s lives and they will need to work together to survive after discovering the dark conspiracies brewing beneath the palace's genial surface. To confront the deadly threats lurking in the shadows, Reirin must embrace her new identity and defy their expectations of the court's inept villainess.<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://futsutsuka.net/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/futsutsuka_PR"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371881/though-i-am-an-inept-villainess"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2414053"
+            },
+            {
+              "site": "Disney Plus",
+              "url": "https://www.disneyplus.com/browse/entity-79a3e335-2acc-408e-a942-1b0bac47d952"
+            },
+            {
+              "site": "Netflix",
+              "url": "https://www.netflix.com/title/82931553"
+            },
+            {
+              "site": "Laftel",
+              "url": "https://laftel.net/item/46212"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>As maidens from the Five Clans battle for the Crown Prince’s heart, jealous Keigetsu uses forbidden magic to swap bodies with the beloved Reirin. Switching places does not guarantee happiness for Keigetsu with her new body's ill health leaving her hanging on the verge of death. Meanwhile, Reirin, now wearing the face of a scorned outcast, must answer for Keigetsu’s crimes in a dangerous trial.<br />\n<br><br><br />\nThe unlikely pair become increasingly entangled in each other’s lives and they will need to work together to survive after discovering the dark conspiracies brewing beneath the palace's genial surface. To confront the deadly threats lurking in the shadows, Reirin must embrace her new identity and defy their expectations of the court's inept villainess.<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
           "id": 209983,
@@ -3371,137 +3503,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Kuroe Akaishi just wants a normal high school life—but that’s impossible with a rare condition that turns her into a giant kaiju whenever her emotions spike! Things get even worse when she falls for Arata Minami, the most popular boy in class. Now every blush, heartbeat, and crush could trigger a monster transformation. Can Kuroe survive high school love before it destroys everything around her?!<br><br />\n<br><br />\n(Source: Crunchyroll)</p>"
-        },
-        {
-          "id": 188139,
-          "title": {
-            "romaji": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
-            "english": "Though I Am an Inept Villainess",
-            "native": "ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~"
-          },
-          "synonyms": [
-            "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
-            "Futsutsuka",
-            "นางร้ายมือใหม่ เป็นกำลังใจให้ด้วยนะเจ้าคะ"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 12
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188139-1qIJfWxym8FX.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188139-1qIJfWxym8FX.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188139-PU5JsGJiiUnR.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1788705960,
-            "episode": 9
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Body Swapping",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Josei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ancient China",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Villainess",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Foreign",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Agriculture",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Ojou-sama",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Suicide",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 77,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Doga Kobo"
-              }
-            ]
-          },
-          "description": "<p>As maidens from the Five Clans battle for the Crown Prince’s heart, jealous Keigetsu uses forbidden magic to swap bodies with the beloved Reirin. Switching places does not guarantee happiness for Keigetsu with her new body's ill health leaving her hanging on the verge of death. Meanwhile, Reirin, now wearing the face of a scorned outcast, must answer for Keigetsu’s crimes in a dangerous trial.<br />\n<br><br><br />\nThe unlikely pair become increasingly entangled in each other’s lives and they will need to work together to survive after discovering the dark conspiracies brewing beneath the palace's genial surface. To confront the deadly threats lurking in the shadows, Reirin must embrace her new identity and defy their expectations of the court's inept villainess.<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://futsutsuka.net/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/futsutsuka_PR"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371881/though-i-am-an-inept-villainess"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2414053"
-            },
-            {
-              "site": "Disney Plus",
-              "url": "https://www.disneyplus.com/browse/entity-79a3e335-2acc-408e-a942-1b0bac47d952"
-            },
-            {
-              "site": "Netflix",
-              "url": "https://www.netflix.com/title/82931553"
-            },
-            {
-              "site": "Laftel",
-              "url": "https://laftel.net/item/46212"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>As maidens from the Five Clans battle for the Crown Prince’s heart, jealous Keigetsu uses forbidden magic to swap bodies with the beloved Reirin. Switching places does not guarantee happiness for Keigetsu with her new body's ill health leaving her hanging on the verge of death. Meanwhile, Reirin, now wearing the face of a scorned outcast, must answer for Keigetsu’s crimes in a dangerous trial.<br />\n<br><br><br />\nThe unlikely pair become increasingly entangled in each other’s lives and they will need to work together to survive after discovering the dark conspiracies brewing beneath the palace's genial surface. To confront the deadly threats lurking in the shadows, Reirin must embrace her new identity and defy their expectations of the court's inept villainess.<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
           "id": 197715,
@@ -4246,8 +4247,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169582-D5p5iRI5XqML.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788177420,
-            "episode": 9
+            "airingAt": 1788782220,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -4604,8 +4605,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199408-ouNGkjrw0ohT.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788183000,
-            "episode": 9
+            "airingAt": 1788787800,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -4678,7 +4679,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 67,
+          "averageScore": 68,
           "studios": {
             "nodes": [
               {
@@ -4723,8 +4724,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206521-zCIAGsiIkh6G.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788181200,
-            "episode": 10
+            "airingAt": 1788786000,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -4744,16 +4745,16 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Class Struggle",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Acting",
               "isMediaSpoiler": false
             },
             {
               "name": "Musical Theater",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Class Struggle",
-              "isMediaSpoiler": true
             },
             {
               "name": "Biographical",
@@ -5026,12 +5027,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Arranged Marriage",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Boys' Love",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Arranged Marriage",
+              "isMediaSpoiler": false
             },
             {
               "name": "Historical",
@@ -5397,8 +5398,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1788184800,
-            "episode": 9
+            "airingAt": 1788789600,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -5828,7 +5829,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 64,
+          "averageScore": 65,
           "studios": {
             "nodes": [
               {
