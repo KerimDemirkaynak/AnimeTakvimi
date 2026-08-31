@@ -1191,12 +1191,12 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Philosophy",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
+              "name": "Philosophy",
+              "isMediaSpoiler": false
             },
             {
               "name": "Primarily Teen Cast",
@@ -1207,12 +1207,16 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Heterosexual",
+              "name": "Arranged Marriage",
               "isMediaSpoiler": false
             },
             {
-              "name": "Arranged Marriage",
-              "isMediaSpoiler": false
+              "name": "Tragedy",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "War",
+              "isMediaSpoiler": true
             },
             {
               "name": "Urban",
@@ -1227,8 +1231,8 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "War",
-              "isMediaSpoiler": true
+              "name": "Crossdressing",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 75,
@@ -1360,12 +1364,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Body Horror",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Orphan",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Body Horror",
+              "isMediaSpoiler": true
             },
             {
               "name": "Gore",
@@ -2361,11 +2365,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Coming of Age",
+              "name": "Biographical",
               "isMediaSpoiler": false
             },
             {
-              "name": "Biographical",
+              "name": "Coming of Age",
               "isMediaSpoiler": false
             },
             {
@@ -2381,6 +2385,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Philosophy",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Espionage",
               "isMediaSpoiler": true
             },
@@ -2393,7 +2401,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Philosophy",
+              "name": "Kingdom Management",
               "isMediaSpoiler": false
             },
             {
@@ -2401,7 +2409,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Kingdom Management",
+              "name": "Desert",
               "isMediaSpoiler": false
             },
             {
@@ -2411,10 +2419,6 @@
             {
               "name": "Suicide",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Desert",
-              "isMediaSpoiler": false
             },
             {
               "name": "Arranged Marriage",
@@ -3053,6 +3057,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Tomboy",
               "isMediaSpoiler": false
             },
@@ -3441,15 +3449,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Ojou-sama",
               "isMediaSpoiler": false
             },
             {
               "name": "Suicide",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": true
             }
           ],
@@ -3673,12 +3681,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Yuri",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
             },
             {
               "name": "Boxing",
@@ -3693,6 +3701,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Royal Affairs",
               "isMediaSpoiler": false
             },
@@ -3703,10 +3715,6 @@
             {
               "name": "Heterosexual",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
             },
             {
               "name": "Unrequited Love",
@@ -3730,6 +3738,10 @@
             },
             {
               "name": "Food",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crossdressing",
               "isMediaSpoiler": false
             }
           ],
@@ -4023,15 +4035,15 @@
           ],
           "tags": [
             {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Isekai",
               "isMediaSpoiler": false
             },
             {
               "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
               "isMediaSpoiler": false
             },
             {
@@ -4606,6 +4618,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Anti-Hero",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
@@ -4616,10 +4632,6 @@
             {
               "name": "Gore",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Anti-Hero",
-              "isMediaSpoiler": true
             },
             {
               "name": "Magic",
@@ -6184,6 +6196,10 @@
             },
             {
               "name": "Anti-Hero",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Work",
               "isMediaSpoiler": false
             }
           ],
