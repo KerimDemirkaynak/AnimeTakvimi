@@ -2224,16 +2224,16 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Amnesia",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
               "name": "College",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Amnesia",
+              "isMediaSpoiler": true
             },
             {
               "name": "Male Protagonist",
@@ -2331,6 +2331,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Kuudere",
               "isMediaSpoiler": false
             },
@@ -2340,10 +2344,6 @@
             },
             {
               "name": "Butler",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
               "isMediaSpoiler": false
             },
             {
@@ -2711,6 +2711,10 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Yandere",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Yuri",
               "isMediaSpoiler": false
             },
@@ -2749,7 +2753,7 @@
               "url": "https://www.bilibili.tv/en/media/2414407"
             }
           ],
-          "isMyList": false,
+          "isMyList": true,
           "descriptionTr": "<p>The third season of <i>Grand Blue</i>.</p>"
         },
         {
@@ -4355,11 +4359,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Slapstick",
               "isMediaSpoiler": false
             },
             {
-              "name": "Reincarnation",
+              "name": "Isekai",
               "isMediaSpoiler": false
             },
             {
@@ -4367,28 +4375,20 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Episodic",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": true
             },
             {
               "name": "Urban Fantasy",
               "isMediaSpoiler": true
             },
             {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Aliens",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
             },
             {
               "name": "Alternate Universe",
@@ -4399,7 +4399,11 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Yuri",
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
             {
@@ -4777,6 +4781,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Crossdressing",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "War",
               "isMediaSpoiler": true
             },
@@ -4794,10 +4802,6 @@
             },
             {
               "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Crossdressing",
               "isMediaSpoiler": false
             },
             {
