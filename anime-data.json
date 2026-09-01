@@ -1314,8 +1314,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187260-HMkLPy3ZvzW1.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788265800,
-            "episode": 9
+            "airingAt": 1788870600,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -1575,8 +1575,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177699-5kDbvDBhtSE3.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788271200,
-            "episode": 9
+            "airingAt": 1788876000,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -1670,7 +1670,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 75,
+          "averageScore": 76,
           "studios": {
             "nodes": [
               {
@@ -2068,117 +2068,6 @@
           "descriptionTr": "<p>The second season of <i>Clevatess: Majuu no Ou to Akago to Kabane no Yuusha</i>.</p>"
         },
         {
-          "id": 194829,
-          "title": {
-            "romaji": "Katainaka no Ossan, Kensei ni Naru II",
-            "english": "From Old Country Bumpkin to Master Swordsman II",
-            "native": "片田舎のおっさん、剣聖になるII"
-          },
-          "synonyms": [
-            "Katainaka no Ossan, Kensei ni Naru 2nd Season",
-            "De Caipira a Mestre Espadachim 2ª Temporada"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-bZKwhfo60EuF.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194829-bZKwhfo60EuF.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1788360360,
-            "episode": 9
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Teacher",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Regression",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 70,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Hayabusa Film"
-              },
-              {
-                "name": "Passione"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Katainaka no Ossan, Kensei ni Naru</i>.</p>",
-          "externalLinks": [
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/bumpkin_anime/"
-            },
-            {
-              "site": "Bluesky",
-              "url": "https://bsky.app/profile/bumpkinanime.bsky.social"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@bumpkin.anime"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/ossan_kensei"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/bumpkin_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://ossan-kensei.com/"
-            },
-            {
-              "site": "Facebook",
-              "url": "https://www.facebook.com/profile.php?id=61571322047139"
-            },
-            {
-              "site": "Amazon Prime Video",
-              "url": "https://www.amazon.com/dp/B0H1QXXRG1"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>The second season of <i>Katainaka no Ossan, Kensei ni Naru</i>.</p>"
-        },
-        {
           "id": 202269,
           "title": {
             "romaji": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
@@ -2285,6 +2174,117 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Kakeru Sorano, a quiet university freshman who avoids others, meets Koharu Fuyutsuki, a blind girl who faces the world with quiet brightness. When she says, “I want to see fireworks someday,” something in Kakeru shifts. As they grow closer through small moments and shared loneliness, he searches for a way to make her wish come true.<br><br />\n<br><br />\n(Source: Crunchyroll)</p>"
+        },
+        {
+          "id": 194829,
+          "title": {
+            "romaji": "Katainaka no Ossan, Kensei ni Naru II",
+            "english": "From Old Country Bumpkin to Master Swordsman II",
+            "native": "片田舎のおっさん、剣聖になるII"
+          },
+          "synonyms": [
+            "Katainaka no Ossan, Kensei ni Naru 2nd Season",
+            "De Caipira a Mestre Espadachim 2ª Temporada"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 8
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-bZKwhfo60EuF.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194829-bZKwhfo60EuF.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194829-mAQpjlKYA8c2.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1788360360,
+            "episode": 9
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Teacher",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Regression",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 70,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Hayabusa Film"
+              },
+              {
+                "name": "Passione"
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Katainaka no Ossan, Kensei ni Naru</i>.</p>",
+          "externalLinks": [
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/bumpkin_anime/"
+            },
+            {
+              "site": "Bluesky",
+              "url": "https://bsky.app/profile/bumpkinanime.bsky.social"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@bumpkin.anime"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/ossan_kensei"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/bumpkin_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://ossan-kensei.com/"
+            },
+            {
+              "site": "Facebook",
+              "url": "https://www.facebook.com/profile.php?id=61571322047139"
+            },
+            {
+              "site": "Amazon Prime Video",
+              "url": "https://www.amazon.com/dp/B0H1QXXRG1"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>The second season of <i>Katainaka no Ossan, Kensei ni Naru</i>.</p>"
         },
         {
           "id": 201514,
@@ -2671,11 +2671,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Foreign",
+              "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
-              "name": "Seinen",
+              "name": "Foreign",
               "isMediaSpoiler": false
             },
             {
@@ -3913,8 +3913,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/128757-kBnCRYXdyw58.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788262200,
-            "episode": 9
+            "airingAt": 1788867000,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -3942,10 +3942,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Boarding School",
               "isMediaSpoiler": false
             },
@@ -3958,15 +3954,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
@@ -4683,7 +4683,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 68,
+          "averageScore": 67,
           "studios": {
             "nodes": [
               {
@@ -5090,8 +5090,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196219-2F64WTRfqRU9.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788267600,
-            "episode": 10
+            "airingAt": 1788872400,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -5269,117 +5269,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>This exorcism is OMFFFFFFFFF!!!! Shizuka is a self-proclaimed ordinary high school girl who &quot;only&quot; sees ghosts. Using her unique ability to attract spirits, she works as an assistant to the famous psychic, Kamui. Though Kamui boasts overwhelming spiritual power, his exorcism methods are unprecedented...?! Will Shizuka, tossed about by supernatural disturbances, ever find peace? The curtain rises on &quot;supreme&quot; exorcism!! OMFFFFFFFFFG ALMIGHTY!!<br />\n<br><br><br />\n(Source: OceanVeil)</p>"
-        },
-        {
-          "id": 198709,
-          "title": {
-            "romaji": "Tefuda ga Oome no Victoria",
-            "english": "Victoria of Many Faces",
-            "native": "手札が多めのビクトリア"
-          },
-          "synonyms": [
-            "วิกตอเรียผู้มีสารพัดไพ่ลับในมือ"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198709-3PFLvU6eqPvf.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198709-3PFLvU6eqPvf.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198709-wyZYzcKM5itk.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1788274800,
-            "episode": 9
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Drama",
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Found Family",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Family Life",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Parenthood",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Josei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Espionage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Suicide",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Rural",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 71,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Studio DEEN"
-              }
-            ]
-          },
-          "description": "<p>In an age when spies act behind the scenes in every land, Chloe spends her days successfully carrying out even the most difficult missions due to her unparalleled disguise skills and martial arts abilities. After the betrayal of her boss, she suddenly disappears—as Chloe plans to redo her life as the ordinary citizen Victoria in the neighboring kingdom of Ashberry, striving for a “normal” life. However, Victoria's peaceful life is abruptly cut short as she begins to get involved with many people. In this new land, her experiences and abilities from her days as a spy come in far more useful than she ever expected! On the other hand, the second prince--and others--take an interest in Victoria's strength, and the shadows close in on the woman with many faces…<br />\n<br><br><br />\n(Source: Yen Press)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://victoria-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/tefudavictoria"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378126/victoria-of-many-faces"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2413460"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLODXJn5su6ew"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>In an age when spies act behind the scenes in every land, Chloe spends her days successfully carrying out even the most difficult missions due to her unparalleled disguise skills and martial arts abilities. After the betrayal of her boss, she suddenly disappears—as Chloe plans to redo her life as the ordinary citizen Victoria in the neighboring kingdom of Ashberry, striving for a “normal” life. However, Victoria's peaceful life is abruptly cut short as she begins to get involved with many people. In this new land, her experiences and abilities from her days as a spy come in far more useful than she ever expected! On the other hand, the second prince--and others--take an interest in Victoria's strength, and the shadows close in on the woman with many faces…<br />\n<br><br><br />\n(Source: Yen Press)</p>"
         },
         {
           "id": 209504,
@@ -5625,6 +5514,111 @@
           "descriptionTr": "<p>After venturing into a restricted, treacherous mountain forest, siblings Hinata and Kaoru meet a terrifying serpent god and become besties! Despite her initially scary appearance, the self-named “god of misfortune” is awkward, lonely, and surprisingly easy to talk to. This is the tale of an unexpected friendship, and the many comedic, heartfelt adventures that ensue.<br><br></p>\n<p>(Source: Crunchyroll)</p>"
         },
         {
+          "id": 208225,
+          "title": {
+            "romaji": "\"Kimi wo Aisuru Ki wa nai\" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu",
+            "english": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
+            "native": "「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます"
+          },
+          "synonyms": [
+            "きみ愛",
+            "KimiAi"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208225-HJbCC0Z4xRp3.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208225-HJbCC0Z4xRp3.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1788625800,
+            "episode": 10
+          },
+          "isAdult": false,
+          "genres": [
+            "Fantasy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shoujo",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Marriage",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Royal Affairs",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Arranged Marriage",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ojou-sama",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 65,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Zero-G"
+              },
+              {
+                "name": "Grass"
+              }
+            ]
+          },
+          "description": "<p>Elsa, the daughter of a fallen aristocrat, receives news. It was a marriage proposal from Julius, a very elite nobleman. Elsa is wondering,&quot; Why would such a distinguished man marry me&quot;? But after the wedding, Julius, who had been kind and gentle up to that point, changed completely! In a cold voice, he tells her,&quot; I have no intention of loving you&quot;.<br />\n<br><br><br />\n(Source: MangaPlaza)</p>",
+          "externalLinks": [
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@kimiai_official"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/kimiai_official"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://kimiai-anime.com/"
+            },
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/kimiai_official/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378118/the-dukes-son-claims-he-wont-love-me-but-showers-me-with-adoration"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Elsa, the daughter of a fallen aristocrat, receives news. It was a marriage proposal from Julius, a very elite nobleman. Elsa is wondering,&quot; Why would such a distinguished man marry me&quot;? But after the wedding, Julius, who had been kind and gentle up to that point, changed completely! In a cold voice, he tells her,&quot; I have no intention of loving you&quot;.<br />\n<br><br><br />\n(Source: MangaPlaza)</p>"
+        },
+        {
           "id": 196356,
           "title": {
             "romaji": "Ibitte Konai Gibo to Gishi",
@@ -5768,107 +5762,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Miya is the illegitimate child of a prominent family. When her mother dies and her father’s estate agrees to take her in, she’s convinced she knows what awaits her in her new home: a life of servitude and misery at the hands of her wicked stepmother and stepsisters. Yet when she finally meets the women she expects to treat her like dirt, they actually end up being…sweet?! A hilarious and heartfelt comedy that’s sure to put a smile on your face!<br />\n<br><br><br />\n(Source: Seven Seas Entertainment)</p>"
-        },
-        {
-          "id": 208225,
-          "title": {
-            "romaji": "\"Kimi wo Aisuru Ki wa nai\" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu",
-            "english": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
-            "native": "「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます"
-          },
-          "synonyms": [
-            "きみ愛",
-            "KimiAi"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208225-HJbCC0Z4xRp3.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208225-HJbCC0Z4xRp3.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1788625800,
-            "episode": 10
-          },
-          "isAdult": false,
-          "genres": [
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shoujo",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Marriage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Arranged Marriage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ojou-sama",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 65,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Zero-G"
-              },
-              {
-                "name": "Grass"
-              }
-            ]
-          },
-          "description": "<p>Elsa, the daughter of a fallen aristocrat, receives news. It was a marriage proposal from Julius, a very elite nobleman. Elsa is wondering,&quot; Why would such a distinguished man marry me&quot;? But after the wedding, Julius, who had been kind and gentle up to that point, changed completely! In a cold voice, he tells her,&quot; I have no intention of loving you&quot;.<br />\n<br><br><br />\n(Source: MangaPlaza)</p>",
-          "externalLinks": [
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@kimiai_official"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/kimiai_official"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kimiai-anime.com/"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/kimiai_official/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378118/the-dukes-son-claims-he-wont-love-me-but-showers-me-with-adoration"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Elsa, the daughter of a fallen aristocrat, receives news. It was a marriage proposal from Julius, a very elite nobleman. Elsa is wondering,&quot; Why would such a distinguished man marry me&quot;? But after the wedding, Julius, who had been kind and gentle up to that point, changed completely! In a cold voice, he tells her,&quot; I have no intention of loving you&quot;.<br />\n<br><br><br />\n(Source: MangaPlaza)</p>"
         },
         {
           "id": 188525,
@@ -6381,6 +6274,104 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Thirty years ago, the world was nearly destroyed by the sudden appearance of unknown &quot;invasive alien species.&quot;<br />\n<br><br><br />\nHumans and these “invasive species” continue to vie for living space, and while humanity’s safety is currently barely secured, the world could be destroyed at any moment. Living in fear of death and destruction, people go about their daily lives as if trying to avert their eyes from danger and disaster.<br />\n<br><br><br />\nIn this world, the United Nations Hazardous Species Investigation Agency, &quot;EXCEEDS,&quot; has begun operations to ward off crises and disasters caused by invasive species.<br />\n<br><br><br />\nThe story begins on the island nation of &quot;Mizuho&quot; in the Far East. Shina Hisase is a young invasive species extermination hunter living on a remote island. What incident will befall Shina, who wishes only to live quietly with her younger sister Setsuna, her sole remaining family member?<br />\n<br><br><br />\n<i>Note: The first episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.</i></p>"
+        },
+        {
+          "id": 203490,
+          "title": {
+            "romaji": "Uchi no Otouto-domo ga Sumimasen",
+            "english": "Please Excuse My Younger Brothers",
+            "native": "うちの弟どもがすみません"
+          },
+          "synonyms": [
+            "Sorry About My Little Brothers"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203490-YQXiymUiDQNA.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203490-YQXiymUiDQNA.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1788534000,
+            "episode": 10
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Shoujo",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Family Life",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Inseki",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Gap",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crossdressing",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 68,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Lay-duce"
+              }
+            ]
+          },
+          "description": "<p>The manga centers on high school student Ito Hazui. During her spring break at the end of her first year of high school, Ito's mother remarries, and Ito moves to live with her new family, becoming Ito Narita. Upon arriving at her new house, Ito is shocked to learn she now has four younger step-brothers. Ito tries her hardest to get along with all of the new members of her family, but the eldest brother Gen is a bit cold to her. However, under his aloof facade, he occasionally shows his kindness.<br />\n<BR><BR><br />\n(Source: Anime News Network)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://uchioto-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/uchioto_anime"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371926/"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>The manga centers on high school student Ito Hazui. During her spring break at the end of her first year of high school, Ito's mother remarries, and Ito moves to live with her new family, becoming Ito Narita. Upon arriving at her new house, Ito is shocked to learn she now has four younger step-brothers. Ito tries her hardest to get along with all of the new members of her family, but the eldest brother Gen is a bit cold to her. However, under his aloof facade, he occasionally shows his kindness.<br />\n<BR><BR><br />\n(Source: Anime News Network)</p>"
         }
       ]
     }
