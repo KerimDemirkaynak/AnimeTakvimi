@@ -1081,11 +1081,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Iyashikei",
+              "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Teen Cast",
+              "name": "Iyashikei",
               "isMediaSpoiler": false
             },
             {
@@ -1196,16 +1196,16 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Yuri",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Philosophy",
               "isMediaSpoiler": false
             },
             {
               "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": true
             },
             {
               "name": "Arranged Marriage",
@@ -1381,10 +1381,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Boarding School",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Shoujo",
               "isMediaSpoiler": false
             },
@@ -1394,10 +1390,6 @@
             },
             {
               "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Unrequited Love",
               "isMediaSpoiler": false
             }
           ],
@@ -3185,6 +3177,14 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Curses",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Conspiracy",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Magic",
               "isMediaSpoiler": false
             },
@@ -3390,15 +3390,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Kaiju",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
               "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kaiju",
               "isMediaSpoiler": false
             },
             {
@@ -3702,12 +3702,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Witch",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "LGBTQ+ Themes",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Witch",
+              "isMediaSpoiler": false
             },
             {
               "name": "Royal Affairs",
@@ -3718,20 +3718,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
+              "name": "Tomboy",
               "isMediaSpoiler": false
             },
             {
               "name": "Unrequited Love",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Tomboy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Femboy",
-              "isMediaSpoiler": false
             },
             {
               "name": "School Club",
@@ -3954,11 +3946,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Cute Girls Doing Cute Things",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
@@ -5911,8 +5903,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1788280500,
-            "episode": 9
+            "airingAt": 1788885300,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
