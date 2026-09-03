@@ -255,10 +255,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Drugs",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Work",
               "isMediaSpoiler": false
             },
@@ -271,7 +267,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Drugs",
               "isMediaSpoiler": false
             },
             {
@@ -280,6 +276,10 @@
             },
             {
               "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -373,15 +373,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Guns",
               "isMediaSpoiler": false
             },
             {
               "name": "Politics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
               "isMediaSpoiler": false
             },
             {
@@ -413,11 +413,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Revenge",
+              "name": "Foreign",
               "isMediaSpoiler": false
             },
             {
-              "name": "Foreign",
+              "name": "Revenge",
               "isMediaSpoiler": false
             },
             {
@@ -705,6 +705,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Centaur",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Survival",
               "isMediaSpoiler": false
             },
@@ -714,10 +718,6 @@
             },
             {
               "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Centaur",
               "isMediaSpoiler": false
             },
             {
@@ -1503,10 +1503,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Politics",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Gore",
               "isMediaSpoiler": false
             },
@@ -1516,6 +1512,10 @@
             },
             {
               "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Politics",
               "isMediaSpoiler": false
             },
             {
@@ -3724,10 +3724,6 @@
             {
               "name": "Unrequited Love",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Crossdressing",
-              "isMediaSpoiler": false
             },
             {
               "name": "School Club",
