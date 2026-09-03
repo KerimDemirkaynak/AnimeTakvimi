@@ -53,11 +53,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Polyamorous",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
+              "name": "Polyamorous",
               "isMediaSpoiler": false
             },
             {
@@ -232,8 +232,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196187-Z9dV6uotmKjM.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788447360,
-            "episode": 9
+            "airingAt": 1789052160,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -369,11 +369,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Rural",
               "isMediaSpoiler": false
             },
             {
-              "name": "Guns",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -385,11 +385,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Age Regression",
+              "name": "Guns",
               "isMediaSpoiler": false
             },
             {
-              "name": "Anti-Hero",
+              "name": "Age Regression",
               "isMediaSpoiler": false
             },
             {
@@ -397,7 +397,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Rural",
+              "name": "Anti-Hero",
               "isMediaSpoiler": false
             },
             {
@@ -429,11 +429,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Adult Cast",
+              "name": "Historical",
               "isMediaSpoiler": false
             },
             {
-              "name": "Historical",
+              "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
@@ -449,7 +449,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 81,
+          "averageScore": 80,
           "studios": {
             "nodes": [
               {
@@ -634,8 +634,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207141-MvHAS2YVfJzL.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788449400,
-            "episode": 9
+            "airingAt": 1789054200,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -936,8 +936,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1788449160,
-            "episode": 10
+            "airingAt": 1789053960,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -1420,6 +1420,129 @@
           "descriptionTr": "<p>At the mysterious orphanage where Sheena lives, death is nothing new to its residents—girls who no longer have families of their own, who are raised as weapons of war, taught to kill and take the lives of others without batting an eye. Everyone, that is, except Sheena, who wishes for nothing more than the growing conflict around her to end. On the night of her roommate's death, Sheena meets a strange girl covered in blood, who smiles despite the turmoil surrounding them. The next day, the girl appears as a new student in Sheena's class and introduces herself as Mimi. Initially thought to be a school myth, there are now whispers in the orphanage's halls that Mimi is their secret weapon—an immortal who cannot die. When Mimi is later assigned as Sheena's new roommate, Sheena's world grows even more complicated when she begins living with someone who loves and welcomes death, when all Sheena wants to do is stop it…<br />\n<br><br><br />\n(Source: Kodansha USA)</p>"
         },
         {
+          "id": 159309,
+          "title": {
+            "romaji": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2",
+            "english": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
+            "native": "乙女ゲー世界はモブに厳しい世界です2"
+          },
+          "synonyms": [
+            "mobseka 2",
+            "ชีวิตตัวประกอบอย่างตูช่างอยู่ยาก เมื่ออยู่ในโลกเกมจีบหนุ่ม ภาค 2",
+            "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
+            "Otomege 2",
+            "モブせか 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 8
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159309-wRfh9O1odrDJ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159309-wRfh9O1odrDJ.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1788964200,
+            "episode": 10
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Mecha",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anti-Hero",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Parody",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Robots",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Video Games",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yandere",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Politics",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 68,
+          "studios": {
+            "nodes": [
+              {
+                "name": "ENGI"
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Otomege Sekai wa Mob ni Kibishii Sekai desu</i>.</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/mobseka_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://mobseka.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/G0XHWM0D3/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2413722"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>The second season of <i>Otomege Sekai wa Mob ni Kibishii Sekai desu</i>.</p>"
+        },
+        {
           "id": 177699,
           "title": {
             "romaji": "Koukaku Kidoutai: THE GHOST IN THE SHELL",
@@ -1582,129 +1705,6 @@
           "descriptionTr": "<p>The year is 2029. In near-future Japan, where the world has become highly information-intensive, with a vast corporate network covering the planet, electrons and light pulsing through it. But the nation-state and ethnic groups still survive.  <br><br> Motoko Kusanagi, a full-body cyborg, leads an elite combat unit, including Batou. While commanding her team, Kusanagi envisions the creation of a specialized task force to preemptively strike against emerging threats. Meanwhile, Daisuke Aramaki of the Ministry of Internal Affairs, who had been planning to establish a similar unit, recruited Kusanagi and her team. Together, they begin operations as Public Security Section 9—an offensive tactical unit known as “Shell Squad.” As they confront complex cybercrimes and international conspiracies, the existence of a mysterious, unidentified hacker known as The “Puppet Master” emerges on the horizon of their investigation. <br><br> What fate awaits Kusanagi? And what is the Puppet Master’s true objective? A new era of cyberpunk action begins.  <br><br><br />\n(Source:攻殻機動隊 THE GHOST IN THE SHELL Site)</p>"
         },
         {
-          "id": 159309,
-          "title": {
-            "romaji": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2",
-            "english": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
-            "native": "乙女ゲー世界はモブに厳しい世界です2"
-          },
-          "synonyms": [
-            "mobseka 2",
-            "ชีวิตตัวประกอบอย่างตูช่างอยู่ยาก เมื่ออยู่ในโลกเกมจีบหนุ่ม ภาค 2",
-            "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
-            "Otomege 2",
-            "モブせか 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159309-wRfh9O1odrDJ.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159309-wRfh9O1odrDJ.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1788964200,
-            "episode": 10
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Fantasy",
-            "Mecha",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Anti-Hero",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Parody",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Robots",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Video Games",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yandere",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Politics",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 68,
-          "studios": {
-            "nodes": [
-              {
-                "name": "ENGI"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Otomege Sekai wa Mob ni Kibishii Sekai desu</i>.</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/mobseka_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://mobseka.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/G0XHWM0D3/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2413722"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>The second season of <i>Otomege Sekai wa Mob ni Kibishii Sekai desu</i>.</p>"
-        },
-        {
           "id": 208044,
           "title": {
             "romaji": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku",
@@ -1726,8 +1726,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/208044-JtlSTlmp5SmP.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788447600,
-            "episode": 11
+            "airingAt": 1789052400,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -3543,6 +3543,14 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Dystopian",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Class Struggle",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Demons",
               "isMediaSpoiler": false
             },
@@ -3583,12 +3591,12 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Dystopian",
+              "name": "Philosophy",
               "isMediaSpoiler": true
             },
             {
-              "name": "Philosophy",
-              "isMediaSpoiler": true
+              "name": "Survival",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 60,
@@ -4749,12 +4757,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Biographical",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Tragedy",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Biographical",
+              "isMediaSpoiler": false
             },
             {
               "name": "Male Protagonist",
@@ -5266,7 +5274,8 @@
             "native": "捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました"
           },
           "synonyms": [
-            "สตรีศักดิ์สิทธิ์ผู้ถูกทอดทิ้ง ออกเดินทางชิมอาหารในต่างโลกด้วยสกิลลับอัญเชิญรถบ้านแคมป์ปิ้ง"
+            "สตรีศักดิ์สิทธิ์ผู้ถูกทอดทิ้ง ออกเดินทางชิมอาหารในต่างโลกด้วยสกิลลับอัญเชิญรถบ้านแคมป์ปิ้ง",
+            "Isekai CamPer - I viaggi culinari in un altro mondo della santa rinnegata: Ho evocato un camper grazie a una skill nascosta"
           ],
           "startDate": {
             "year": 2026,
@@ -5388,8 +5397,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1788438600,
-            "episode": 10
+            "airingAt": 1789043400,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -5502,6 +5511,151 @@
           "descriptionTr": "<p>After venturing into a restricted, treacherous mountain forest, siblings Hinata and Kaoru meet a terrifying serpent god and become besties! Despite her initially scary appearance, the self-named “god of misfortune” is awkward, lonely, and surprisingly easy to talk to. This is the tale of an unexpected friendship, and the many comedic, heartfelt adventures that ensue.<br><br></p>\n<p>(Source: Crunchyroll)</p>"
         },
         {
+          "id": 196356,
+          "title": {
+            "romaji": "Ibitte Konai Gibo to Gishi",
+            "english": "My Stepmother and Stepsisters Aren’t Wicked",
+            "native": "いびってこない義母と義姉"
+          },
+          "synonyms": [
+            "いびこな",
+            "IbiKona",
+            "My Mother-in-Law and Sister-in-Law Who Don't Bully Me",
+            "Keluarga Tiriku Manis dan Memanja",
+            "IbiKona: Mi Madrastra y Mis Hermanastras No Son Malvadas"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 8
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196356-2TNt2b9tu0jm.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196356-2TNt2b9tu0jm.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196356-OUT2nMhW0IdS.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1788964200,
+            "episode": 10
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Adoption",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Ojou-sama",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Iyashikei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Family Life",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cute Girls Doing Cute Things",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Parody",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Josei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Episodic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Maids",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Villainess",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 64,
+          "studios": {
+            "nodes": [
+              {
+                "name": "NEWON"
+              }
+            ]
+          },
+          "description": "<p>Miya is the illegitimate child of a prominent family. When her mother dies and her father’s estate agrees to take her in, she’s convinced she knows what awaits her in her new home: a life of servitude and misery at the hands of her wicked stepmother and stepsisters. Yet when she finally meets the women she expects to treat her like dirt, they actually end up being…sweet?! A hilarious and heartfelt comedy that’s sure to put a smile on your face!<br />\n<br><br><br />\n(Source: Seven Seas Entertainment)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://ibikona-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/ibikona_anime"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/270mjzjqx0d"
+            },
+            {
+              "site": "Amazon Prime Video",
+              "url": "https://www.amazon.com/My-Stepmother-Stepsisters-Arent-Wicked/dp/B0GYPBM8WL"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLKx8CEsRVJts"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLCTv3-IP7ow8"
+            },
+            {
+              "site": "Viki",
+              "url": "https://www.viki.com/tv/41626"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Miya is the illegitimate child of a prominent family. When her mother dies and her father’s estate agrees to take her in, she’s convinced she knows what awaits her in her new home: a life of servitude and misery at the hands of her wicked stepmother and stepsisters. Yet when she finally meets the women she expects to treat her like dirt, they actually end up being…sweet?! A hilarious and heartfelt comedy that’s sure to put a smile on your face!<br />\n<br><br><br />\n(Source: Seven Seas Entertainment)</p>"
+        },
+        {
           "id": 208225,
           "title": {
             "romaji": "\"Kimi wo Aisuru Ki wa nai\" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu",
@@ -5605,151 +5759,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Elsa, the daughter of a fallen aristocrat, receives news. It was a marriage proposal from Julius, a very elite nobleman. Elsa is wondering,&quot; Why would such a distinguished man marry me&quot;? But after the wedding, Julius, who had been kind and gentle up to that point, changed completely! In a cold voice, he tells her,&quot; I have no intention of loving you&quot;.<br />\n<br><br><br />\n(Source: MangaPlaza)</p>"
-        },
-        {
-          "id": 196356,
-          "title": {
-            "romaji": "Ibitte Konai Gibo to Gishi",
-            "english": "My Stepmother and Stepsisters Aren’t Wicked",
-            "native": "いびってこない義母と義姉"
-          },
-          "synonyms": [
-            "いびこな",
-            "IbiKona",
-            "My Mother-in-Law and Sister-in-Law Who Don't Bully Me",
-            "Keluarga Tiriku Manis dan Memanja",
-            "IbiKona: Mi Madrastra y Mis Hermanastras No Son Malvadas"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196356-2TNt2b9tu0jm.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196356-2TNt2b9tu0jm.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196356-OUT2nMhW0IdS.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1788964200,
-            "episode": 10
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Adoption",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ojou-sama",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Family Life",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cute Girls Doing Cute Things",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Parody",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Josei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Episodic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Maids",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Villainess",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 64,
-          "studios": {
-            "nodes": [
-              {
-                "name": "NEWON"
-              }
-            ]
-          },
-          "description": "<p>Miya is the illegitimate child of a prominent family. When her mother dies and her father’s estate agrees to take her in, she’s convinced she knows what awaits her in her new home: a life of servitude and misery at the hands of her wicked stepmother and stepsisters. Yet when she finally meets the women she expects to treat her like dirt, they actually end up being…sweet?! A hilarious and heartfelt comedy that’s sure to put a smile on your face!<br />\n<br><br><br />\n(Source: Seven Seas Entertainment)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://ibikona-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/ibikona_anime"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/270mjzjqx0d"
-            },
-            {
-              "site": "Amazon Prime Video",
-              "url": "https://www.amazon.com/My-Stepmother-Stepsisters-Arent-Wicked/dp/B0GYPBM8WL"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLKx8CEsRVJts"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLCTv3-IP7ow8"
-            },
-            {
-              "site": "Viki",
-              "url": "https://www.viki.com/tv/41626"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Miya is the illegitimate child of a prominent family. When her mother dies and her father’s estate agrees to take her in, she’s convinced she knows what awaits her in her new home: a life of servitude and misery at the hands of her wicked stepmother and stepsisters. Yet when she finally meets the women she expects to treat her like dirt, they actually end up being…sweet?! A hilarious and heartfelt comedy that’s sure to put a smile on your face!<br />\n<br><br><br />\n(Source: Seven Seas Entertainment)</p>"
         },
         {
           "id": 188525,
@@ -6237,7 +6246,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 64,
+          "averageScore": 63,
           "studios": {
             "nodes": [
               {
