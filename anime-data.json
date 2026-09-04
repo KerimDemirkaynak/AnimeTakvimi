@@ -713,11 +713,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Hikikomori",
+              "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
-              "name": "Seinen",
+              "name": "Hikikomori",
               "isMediaSpoiler": false
             },
             {
@@ -729,8 +729,16 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Scat",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Mahjong",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 67,
@@ -1765,16 +1773,16 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Demons",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Elf",
               "isMediaSpoiler": false
             },
             {
               "name": "Nudity",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": false
             },
             {
               "name": "Dragons",
@@ -3205,6 +3213,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Incest",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Suicide",
               "isMediaSpoiler": true
             }
@@ -3371,8 +3383,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204466-cpbNGN9qHrGP.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788452880,
-            "episode": 10
+            "airingAt": 1789057680,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -4383,6 +4395,10 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Aliens",
               "isMediaSpoiler": true
             },
@@ -4393,10 +4409,6 @@
             {
               "name": "Henshin",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
             },
             {
               "name": "Primarily Female Cast",
