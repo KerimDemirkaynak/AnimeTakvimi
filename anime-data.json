@@ -1073,8 +1073,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210031-M4bt0rAmWk5Q.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788681600,
-            "episode": 10
+            "airingAt": 1789286400,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -1174,8 +1174,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103303-K73aVOqkCPqL.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788703200,
-            "episode": 10
+            "airingAt": 1789308000,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -1257,7 +1257,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 76,
+          "averageScore": 75,
           "studios": {
             "nodes": [
               {
@@ -1362,11 +1362,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -1386,27 +1386,27 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Body Horror",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Orphan",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Body Horror",
+              "isMediaSpoiler": true
             },
             {
               "name": "Dystopian",
               "isMediaSpoiler": false
             },
             {
-              "name": "CGI",
+              "name": "Gore",
               "isMediaSpoiler": false
             },
             {
               "name": "Shoujo",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
               "isMediaSpoiler": false
             },
             {
@@ -1644,6 +1644,10 @@
             },
             {
               "name": "Dystopian",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Conspiracy",
               "isMediaSpoiler": false
             },
             {
@@ -2774,374 +2778,6 @@
           "descriptionTr": "<p>The third season of <i>Grand Blue</i>.</p>"
         },
         {
-          "id": 200637,
-          "title": {
-            "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season",
-            "english": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
-            "native": "君のことが大大大大大好きな100人の彼女 第3期"
-          },
-          "synonyms": [
-            "Hyakkano 3",
-            "รักรักรักรักรักเธอหมดหัวใจจากแฟนสาว 100 คน ซีซั่น 3"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200637-QLR5uv9SbQ69.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200637-QLR5uv9SbQ69.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200637-q9mehOFbbCgT.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1788701400,
-            "episode": 10
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Ecchi",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Polyamorous",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Slapstick",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Meta",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Surreal Comedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Parody",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Found Family",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tsundere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kuudere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Incest",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Gap",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Maids",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Idol",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 79,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Bibury Animation Studios"
-              }
-            ]
-          },
-          "description": "<p>The third season of <i>Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://hyakkano.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/hyakkano_anime"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@hyakkano_anime"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GNVHKN933/the-100-girlfriends-who-really-really-really-really-really-love-you"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2091388"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl2ilZQ5Xv1xozab_cm90ugI"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>The third season of <i>Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo.</i></p>"
-        },
-        {
-          "id": 199748,
-          "title": {
-            "romaji": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.",
-            "english": "I Became a Legend After My 10 Year-Long Last Stand",
-            "native": "ここは俺に任せて先に行けと言ってから１０年がたったら伝説になっていた。"
-          },
-          "synonyms": [
-            "KokoOre",
-            "ここ俺"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 3
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199748-PAFk9pGSUmFL.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199748-PAFk9pGSUmFL.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199748-H2JAicBqBq3b.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1789133400,
-            "episode": 11
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Age Regression",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Skip",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kemonomimi",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Vampire",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 63,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Gekkou"
-              }
-            ]
-          },
-          "description": "<p>Luck, an S-rank mage in the hero’s party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as “Lock,” an F-rank adventurer forging a future in a world that moved on without him.<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br></p>\n<p><i>Note: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita is streaming 3 days in advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 6th, 2026.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://kokoore-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/kokoore_anime"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@gree_ent_anime"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371671"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Luck, an S-rank mage in the hero’s party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as “Lock,” an F-rank adventurer forging a future in a world that moved on without him.<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br></p>\n<p><i>Note: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita is streaming 3 days in advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 6th, 2026.</i></p>"
-        },
-        {
-          "id": 169583,
-          "title": {
-            "romaji": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
-            "english": "Oh Boy, Was I Wrong About Her",
-            "native": "転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件"
-          },
-          "synonyms": [
-            "Tenkosaki: The Neat and Pretty Girl at My New School Is a Childhood Friend of Mine Who I Thought Was a Boy",
-            "Tenbin"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 6
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169583-0ZTdBGrKNIbe.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169583-wB0yHc7e8Kjk.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1788791400,
-            "episode": 10
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tomboy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Skip",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "College",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Horticulture",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Agriculture",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Unrequited Love",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 70,
-          "studios": {
-            "nodes": [
-              {
-                "name": "project No.9"
-              }
-            ]
-          },
-          "description": "<p>Seven years after making a childhood promise to always be friends, Hayato is reunited with his formerly tomboyish pal Haruki at a city high school–only now, Haruki has transformed into the girl every guy dreams about! While Haruki’s looks may have changed, with Hayato, she’s still the same pal he remembers. Despite years apart, their promise and feelings remain and deepen into something stronger.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/tenbin_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://tenbin-anime.asmik-ace.co.jp/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378120/oh-boy-was-i-wrong-about-her"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Seven years after making a childhood promise to always be friends, Hayato is reunited with his formerly tomboyish pal Haruki at a city high school–only now, Haruki has transformed into the girl every guy dreams about! While Haruki’s looks may have changed, with Hayato, she’s still the same pal he remembers. Despite years apart, their promise and feelings remain and deepen into something stronger.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
-        },
-        {
           "id": 188139,
           "title": {
             "romaji": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
@@ -3164,8 +2800,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188139-PU5JsGJiiUnR.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788705960,
-            "episode": 9
+            "airingAt": 1789310760,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -3283,6 +2919,374 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>As maidens from the Five Clans battle for the Crown Prince’s heart, jealous Keigetsu uses forbidden magic to swap bodies with the beloved Reirin. Switching places does not guarantee happiness for Keigetsu with her new body's ill health leaving her hanging on the verge of death. Meanwhile, Reirin, now wearing the face of a scorned outcast, must answer for Keigetsu’s crimes in a dangerous trial.<br />\n<br><br><br />\nThe unlikely pair become increasingly entangled in each other’s lives and they will need to work together to survive after discovering the dark conspiracies brewing beneath the palace's genial surface. To confront the deadly threats lurking in the shadows, Reirin must embrace her new identity and defy their expectations of the court's inept villainess.<br><br><br />\n(Source: Crunchyroll)</p>"
+        },
+        {
+          "id": 199748,
+          "title": {
+            "romaji": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.",
+            "english": "I Became a Legend After My 10 Year-Long Last Stand",
+            "native": "ここは俺に任せて先に行けと言ってから１０年がたったら伝説になっていた。"
+          },
+          "synonyms": [
+            "KokoOre",
+            "ここ俺"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 3
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199748-PAFk9pGSUmFL.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199748-PAFk9pGSUmFL.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199748-H2JAicBqBq3b.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1789133400,
+            "episode": 11
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Age Regression",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Demons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Skip",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kemonomimi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Vampire",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 63,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Gekkou"
+              }
+            ]
+          },
+          "description": "<p>Luck, an S-rank mage in the hero’s party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as “Lock,” an F-rank adventurer forging a future in a world that moved on without him.<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br></p>\n<p><i>Note: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita is streaming 3 days in advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 6th, 2026.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://kokoore-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/kokoore_anime"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@gree_ent_anime"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371671"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Luck, an S-rank mage in the hero’s party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as “Lock,” an F-rank adventurer forging a future in a world that moved on without him.<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br></p>\n<p><i>Note: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita is streaming 3 days in advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 6th, 2026.</i></p>"
+        },
+        {
+          "id": 200637,
+          "title": {
+            "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season",
+            "english": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
+            "native": "君のことが大大大大大好きな100人の彼女 第3期"
+          },
+          "synonyms": [
+            "Hyakkano 3",
+            "รักรักรักรักรักเธอหมดหัวใจจากแฟนสาว 100 คน ซีซั่น 3"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200637-QLR5uv9SbQ69.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200637-QLR5uv9SbQ69.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200637-q9mehOFbbCgT.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1789306200,
+            "episode": 11
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Polyamorous",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Meta",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Slapstick",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Surreal Comedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Parody",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Found Family",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tsundere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kuudere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Incest",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Gap",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Maids",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Idol",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 79,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Bibury Animation Studios"
+              }
+            ]
+          },
+          "description": "<p>The third season of <i>Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://hyakkano.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/hyakkano_anime"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@hyakkano_anime"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GNVHKN933/the-100-girlfriends-who-really-really-really-really-really-love-you"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2091388"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl2ilZQ5Xv1xozab_cm90ugI"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>The third season of <i>Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo.</i></p>"
+        },
+        {
+          "id": 169583,
+          "title": {
+            "romaji": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
+            "english": "Oh Boy, Was I Wrong About Her",
+            "native": "転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件"
+          },
+          "synonyms": [
+            "Tenkosaki: The Neat and Pretty Girl at My New School Is a Childhood Friend of Mine Who I Thought Was a Boy",
+            "Tenbin"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 6
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169583-0ZTdBGrKNIbe.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169583-wB0yHc7e8Kjk.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1788791400,
+            "episode": 10
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tomboy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Skip",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "College",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Horticulture",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Agriculture",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Unrequited Love",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 70,
+          "studios": {
+            "nodes": [
+              {
+                "name": "project No.9"
+              }
+            ]
+          },
+          "description": "<p>Seven years after making a childhood promise to always be friends, Hayato is reunited with his formerly tomboyish pal Haruki at a city high school–only now, Haruki has transformed into the girl every guy dreams about! While Haruki’s looks may have changed, with Hayato, she’s still the same pal he remembers. Despite years apart, their promise and feelings remain and deepen into something stronger.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/tenbin_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://tenbin-anime.asmik-ace.co.jp/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378120/oh-boy-was-i-wrong-about-her"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Seven years after making a childhood promise to always be friends, Hayato is reunited with his formerly tomboyish pal Haruki at a city high school–only now, Haruki has transformed into the girl every guy dreams about! While Haruki’s looks may have changed, with Hayato, she’s still the same pal he remembers. Despite years apart, their promise and feelings remain and deepen into something stronger.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
           "id": 209983,
@@ -3743,16 +3747,16 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Witch",
               "isMediaSpoiler": false
             },
             {
               "name": "Royal Affairs",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
             },
             {
               "name": "Primarily Female Cast",
@@ -4058,8 +4062,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1788699600,
-            "episode": 10
+            "airingAt": 1789304400,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -4179,10 +4183,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Gore",
               "isMediaSpoiler": false
             },
@@ -4195,11 +4195,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Child Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -4207,8 +4203,8 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Polyamorous",
-              "isMediaSpoiler": true
+              "name": "Primarily Child Cast",
+              "isMediaSpoiler": false
             },
             {
               "name": "Meta",
@@ -4217,6 +4213,14 @@
             {
               "name": "Surreal Comedy",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Polyamorous",
+              "isMediaSpoiler": true
             },
             {
               "name": "Anachronism",
@@ -4416,6 +4420,10 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Seinen",
               "isMediaSpoiler": false
             },
@@ -4430,10 +4438,6 @@
             {
               "name": "Henshin",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
             },
             {
               "name": "LGBTQ+ Themes",
@@ -4583,7 +4587,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 77,
+          "averageScore": 78,
           "studios": {
             "nodes": [
               {
@@ -5457,11 +5461,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Shrine Maiden",
+              "name": "Femboy",
               "isMediaSpoiler": false
             },
             {
-              "name": "Femboy",
+              "name": "Shrine Maiden",
               "isMediaSpoiler": false
             },
             {
@@ -5866,16 +5870,16 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "LGBTQ+ Themes",
               "isMediaSpoiler": true
             },
             {
               "name": "Yuri",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
             },
             {
               "name": "Shounen",
@@ -6085,8 +6089,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204060-3y19sqCToRaN.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788683400,
-            "episode": 10
+            "airingAt": 1789288200,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
