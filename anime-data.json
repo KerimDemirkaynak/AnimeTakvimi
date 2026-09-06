@@ -263,11 +263,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Age Gap",
+              "name": "Drugs",
               "isMediaSpoiler": false
             },
             {
-              "name": "Drugs",
+              "name": "Age Gap",
               "isMediaSpoiler": false
             },
             {
@@ -369,11 +369,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Rural",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Rural",
               "isMediaSpoiler": false
             },
             {
@@ -401,10 +401,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Gods",
               "isMediaSpoiler": false
             },
@@ -425,15 +421,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Meta",
               "isMediaSpoiler": false
             },
             {
-              "name": "Historical",
+              "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Adult Cast",
+              "name": "Historical",
               "isMediaSpoiler": false
             },
             {
@@ -550,20 +550,20 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Memory Manipulation",
               "isMediaSpoiler": true
             },
             {
-              "name": "Tanned Skin",
+              "name": "Tragedy",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Gore",
               "isMediaSpoiler": false
             },
             {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
+              "name": "Tanned Skin",
+              "isMediaSpoiler": false
             },
             {
               "name": "Archery",
@@ -653,11 +653,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Nekomimi",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Nekomimi",
               "isMediaSpoiler": false
             },
             {
@@ -673,19 +673,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Class Struggle",
               "isMediaSpoiler": true
             },
             {
-              "name": "Primarily Adult Cast",
+              "name": "Urban",
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban Fantasy",
+              "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
@@ -693,7 +689,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Delinquents",
+              "name": "Urban Fantasy",
               "isMediaSpoiler": false
             },
             {
@@ -701,7 +697,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Satire",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Delinquents",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Hikikomori",
               "isMediaSpoiler": false
             },
             {
@@ -709,15 +717,11 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Scat",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Survival",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Hikikomori",
               "isMediaSpoiler": false
             },
             {
@@ -729,20 +733,16 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Mahjong",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Yuri",
               "isMediaSpoiler": true
             },
             {
-              "name": "Scat",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "LGBTQ+ Themes",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Mahjong",
-              "isMediaSpoiler": false
             }
           ],
           "averageScore": 67,
@@ -838,14 +838,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Martial Arts",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Police",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Espionage",
               "isMediaSpoiler": false
             },
@@ -854,15 +846,23 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Demons",
               "isMediaSpoiler": false
             },
             {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Animals",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Martial Arts",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Police",
               "isMediaSpoiler": false
             },
             {
@@ -1201,12 +1201,12 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
             },
             {
               "name": "Heterosexual",
@@ -1221,12 +1221,12 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Philosophy",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Yuri",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Philosophy",
+              "isMediaSpoiler": false
             },
             {
               "name": "Metal Music",
@@ -1237,6 +1237,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "War",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Urban",
               "isMediaSpoiler": false
             },
@@ -1245,8 +1249,12 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "War",
-              "isMediaSpoiler": true
+              "name": "Educational",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Environmental",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 76,
@@ -1378,10 +1386,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Orphan",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Body Horror",
               "isMediaSpoiler": true
             },
@@ -1390,15 +1394,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Orphan",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Dystopian",
               "isMediaSpoiler": false
             },
             {
-              "name": "Shoujo",
+              "name": "CGI",
               "isMediaSpoiler": false
             },
             {
-              "name": "CGI",
+              "name": "Shoujo",
               "isMediaSpoiler": false
             },
             {
@@ -1611,10 +1619,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Artificial Intelligence",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
@@ -1623,7 +1627,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Artificial Intelligence",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Guns",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crime",
               "isMediaSpoiler": false
             },
             {
@@ -1635,22 +1647,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Crime",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Bisexual",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Seinen",
               "isMediaSpoiler": false
             },
@@ -1659,15 +1655,27 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Bisexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Gender Bending",
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Gore",
               "isMediaSpoiler": false
             },
             {
               "name": "Episodic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
@@ -2030,11 +2038,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Boys' Love",
+              "name": "Monster Girl",
               "isMediaSpoiler": true
             },
             {
-              "name": "Monster Girl",
+              "name": "Boys' Love",
               "isMediaSpoiler": true
             }
           ],
@@ -2318,8 +2326,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201514-8dAOB0Xw124G.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788629880,
-            "episode": 10
+            "airingAt": 1789234680,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -2446,6 +2454,18 @@
           ],
           "tags": [
             {
+              "name": "Tragedy",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Royal Affairs",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Indigenous Cultures",
               "isMediaSpoiler": false
             },
@@ -2454,11 +2474,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Female Protagonist",
+              "name": "Historical",
               "isMediaSpoiler": false
             },
             {
@@ -2468,14 +2484,6 @@
             {
               "name": "Conspiracy",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Historical",
-              "isMediaSpoiler": false
             },
             {
               "name": "Foreign",
@@ -2494,10 +2502,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Biographical",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Coming of Age",
               "isMediaSpoiler": false
             },
@@ -2506,7 +2510,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Orphan",
+              "name": "Josei",
               "isMediaSpoiler": false
             },
             {
@@ -2514,19 +2518,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Philosophy",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Espionage",
               "isMediaSpoiler": true
             },
             {
-              "name": "Josei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Religion",
+              "name": "Biographical",
               "isMediaSpoiler": false
             },
             {
@@ -2534,24 +2530,36 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Religion",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Orphan",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Survival",
               "isMediaSpoiler": false
             },
             {
-              "name": "Desert",
+              "name": "Philosophy",
               "isMediaSpoiler": false
             },
             {
-              "name": "Language Barrier",
-              "isMediaSpoiler": false
+              "name": "Arranged Marriage",
+              "isMediaSpoiler": true
             },
             {
               "name": "Suicide",
               "isMediaSpoiler": true
             },
             {
-              "name": "Arranged Marriage",
-              "isMediaSpoiler": true
+              "name": "Language Barrier",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Desert",
+              "isMediaSpoiler": false
             },
             {
               "name": "Middle east",
@@ -2628,6 +2636,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Family Life",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Nudity",
               "isMediaSpoiler": false
             },
@@ -2637,10 +2649,6 @@
             },
             {
               "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Otaku Culture",
               "isMediaSpoiler": false
             },
             {
@@ -2664,16 +2672,8 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Family Life",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Bar",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Scuba Diving",
-              "isMediaSpoiler": false
             },
             {
               "name": "Surreal Comedy",
@@ -2684,7 +2684,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Foreign",
+              "name": "Scuba Diving",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Otaku Culture",
               "isMediaSpoiler": false
             },
             {
@@ -2692,12 +2696,20 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Sadism",
               "isMediaSpoiler": true
             },
             {
-              "name": "Heterosexual",
+              "name": "Foreign",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Femdom",
+              "isMediaSpoiler": true
             },
             {
               "name": "Female Protagonist",
@@ -2708,7 +2720,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Femdom",
+              "name": "Estranged Family",
               "isMediaSpoiler": true
             },
             {
@@ -2716,19 +2728,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Estranged Family",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Yandere",
               "isMediaSpoiler": true
             },
             {
-              "name": "Yuri",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Yuri",
               "isMediaSpoiler": false
             }
           ],
@@ -2798,15 +2806,15 @@
           ],
           "tags": [
             {
-              "name": "Slapstick",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Female Harem",
               "isMediaSpoiler": false
             },
             {
               "name": "Polyamorous",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Slapstick",
               "isMediaSpoiler": false
             },
             {
@@ -3083,11 +3091,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Coming of Age",
+              "name": "Time Skip",
               "isMediaSpoiler": false
             },
             {
-              "name": "Time Skip",
+              "name": "Coming of Age",
               "isMediaSpoiler": false
             },
             {
@@ -3101,6 +3109,10 @@
             {
               "name": "Agriculture",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Unrequited Love",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 70,
@@ -3190,10 +3202,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Foreign",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Curses",
               "isMediaSpoiler": true
             },
@@ -3202,7 +3210,15 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Foreign",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ojou-sama",
               "isMediaSpoiler": false
             },
             {
@@ -3218,15 +3234,11 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Ojou-sama",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Incest",
+              "name": "Suicide",
               "isMediaSpoiler": true
             },
             {
-              "name": "Suicide",
+              "name": "Incest",
               "isMediaSpoiler": true
             }
           ],
@@ -3679,11 +3691,11 @@
           ],
           "tags": [
             {
-              "name": "Female Protagonist",
+              "name": "Mermaid",
               "isMediaSpoiler": false
             },
             {
-              "name": "Mermaid",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -3727,12 +3739,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Shapeshifting",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
             },
             {
               "name": "Witch",
@@ -3747,12 +3759,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Tomboy",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Unrequited Love",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Tomboy",
+              "isMediaSpoiler": false
             },
             {
               "name": "School Club",
@@ -3959,10 +3971,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Boarding School",
               "isMediaSpoiler": false
             },
@@ -3971,15 +3979,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Ojou-sama",
               "isMediaSpoiler": false
             },
             {
-              "name": "Cute Girls Doing Cute Things",
+              "name": "School",
               "isMediaSpoiler": false
             },
             {
-              "name": "School",
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
@@ -4349,8 +4361,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199066-nmAYnI6uChse.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788627600,
-            "episode": 9
+            "airingAt": 1789232400,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -5009,8 +5021,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194219-t8ID9kSIpXxf.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788622200,
-            "episode": 10
+            "airingAt": 1789227000,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -5048,12 +5060,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Boys' Love",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Arranged Marriage",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Boys' Love",
+              "isMediaSpoiler": true
             },
             {
               "name": "Historical",
@@ -5698,8 +5710,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1788625800,
-            "episode": 10
+            "airingAt": 1789230600,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -5842,11 +5854,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Teen Cast",
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
-              "name": "Cute Girls Doing Cute Things",
+              "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
             },
             {
@@ -5854,16 +5866,16 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": true
+              "name": "School",
+              "isMediaSpoiler": false
             },
             {
               "name": "LGBTQ+ Themes",
               "isMediaSpoiler": true
             },
             {
-              "name": "School",
-              "isMediaSpoiler": false
+              "name": "Yuri",
+              "isMediaSpoiler": true
             },
             {
               "name": "Shounen",
@@ -6166,8 +6178,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185875-kHVsTIJKPVRJ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1788624000,
-            "episode": 10
+            "airingAt": 1789228800,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
