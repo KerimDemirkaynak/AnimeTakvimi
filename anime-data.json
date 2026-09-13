@@ -25,8 +25,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178789-9nHWmoRLlcLu.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789311600,
-            "episode": 12
+            "airingAt": 1789916400,
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -1022,7 +1022,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 66,
+          "averageScore": 67,
           "studios": {
             "nodes": [
               {
@@ -1081,8 +1081,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210031-M4bt0rAmWk5Q.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789286400,
-            "episode": 11
+            "airingAt": 1789891200,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -1186,8 +1186,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103303-K73aVOqkCPqL.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789308000,
-            "episode": 11
+            "airingAt": 1789912800,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -2135,11 +2135,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Arranged Marriage",
+              "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Teen Cast",
+              "name": "Arranged Marriage",
               "isMediaSpoiler": false
             },
             {
@@ -2151,15 +2151,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yakuza",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Maids",
               "isMediaSpoiler": false
             },
             {
+              "name": "Yakuza",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Estranged Family",
               "isMediaSpoiler": false
             }
           ],
@@ -2317,6 +2321,10 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Boys' Love",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
@@ -2389,8 +2397,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188139-PU5JsGJiiUnR.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789310760,
-            "episode": 10
+            "airingAt": 1789915560,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -2415,11 +2423,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Ancient China",
+              "name": "Villainess",
               "isMediaSpoiler": false
             },
             {
-              "name": "Villainess",
+              "name": "Ancient China",
               "isMediaSpoiler": false
             },
             {
@@ -2727,6 +2735,105 @@
           "descriptionTr": "<p>Luck, an S-rank mage in the hero’s party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as “Lock,” an F-rank adventurer forging a future in a world that moved on without him.<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br></p>\n<p><i>Note: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita is streaming 3 days in advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 6th, 2026.</i></p>"
         },
         {
+          "id": 209983,
+          "title": {
+            "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
+            "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+            "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season"
+          },
+          "synonyms": [
+            "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+            "HELL MODE ~อยากเล่นโหด ขอโหมดนรก~ ซีซั่น 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209983-fJysbFB72IM9.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1789747200,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Child Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Creature Taming",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Found Family",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Demons",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "War",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 72,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Yokohama Animation Lab"
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Hell Mode</i>.</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://hellmode-anime.com"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/hellmode_anime"
+            },
+            {
+              "site": "HIDIVE",
+              "url": "https://www.hidive.com/season/36239"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/1a7r5ibbkjl"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>The second season of <i>Hell Mode</i>.</p>"
+        },
+        {
           "id": 200637,
           "title": {
             "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season",
@@ -2748,8 +2855,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200637-q9mehOFbbCgT.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789306200,
-            "episode": 11
+            "airingAt": 1789911000,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -2876,105 +2983,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>The third season of <i>Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo.</i></p>"
-        },
-        {
-          "id": 209983,
-          "title": {
-            "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
-            "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
-            "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season"
-          },
-          "synonyms": [
-            "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
-            "HELL MODE ~อยากเล่นโหด ขอโหมดนรก~ ซีซั่น 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209983-fJysbFB72IM9.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1789747200,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Child Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Creature Taming",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Found Family",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "War",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 72,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Yokohama Animation Lab"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Hell Mode</i>.</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://hellmode-anime.com"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/hellmode_anime"
-            },
-            {
-              "site": "HIDIVE",
-              "url": "https://www.hidive.com/season/36239"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/1a7r5ibbkjl"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>The second season of <i>Hell Mode</i>.</p>"
         },
         {
           "id": 204466,
@@ -3156,8 +3164,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177637-2Ok4Pq0SpvHp.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789313400,
-            "episode": 11
+            "airingAt": 1789918200,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -3530,8 +3538,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1789304400,
-            "episode": 11
+            "airingAt": 1789909200,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -3896,6 +3904,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "School",
               "isMediaSpoiler": false
             },
@@ -3916,7 +3928,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban Fantasy",
+              "name": "Crossover",
               "isMediaSpoiler": true
             },
             {
@@ -3937,10 +3949,6 @@
             },
             {
               "name": "Tragedy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Crossover",
               "isMediaSpoiler": true
             }
           ],
@@ -4100,6 +4108,105 @@
           "descriptionTr": "<p>Elizabeth Leiston, daughter of the influential prime minister, is a picture-perfect lady on the path to becoming the future queen of the Kingdom of Haldoria. But her life takes a sudden turn for the worst when her fiancé makes a show of publicly calling off their engagement. Soon after, he throws her in jail and starts spreading nasty rumors about her. The encouragement Elizabeth receives from her loyal waiting maid, Mireille, and her inner fury are all she needs to reconsider her goals. Why should she continue devoting herself to a country that doesn’t respect her when she can trample over it instead? She will get even with those who wronged her and bring down the damned kingdom, even if it’s the last thing she does! Luckily, Elizabeth is no damsel in distress and has seven powerful magic grimoires she won’t hesitate to use. Get ready because this ruthless lady is out for blood!<br />\n<br><br><br />\n(Source: J-Novel Club)</p>"
         },
         {
+          "id": 194219,
+          "title": {
+            "romaji": "Oni no Hanayome",
+            "english": "The Ogre's Bride",
+            "native": "鬼の花嫁"
+          },
+          "synonyms": [
+            "OniHana",
+            "เจ้าสาวแห่งโชคชะตากับคุณชายยักษ์แห่งอายาคาชิ"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b194219-56EhyK775lga.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b194219-56EhyK775lga.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194219-t8ID9kSIpXxf.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1789831800,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama",
+            "Fantasy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Shoujo",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Demons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Youkai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Fairy Tale",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Arranged Marriage",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Boys' Love",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Historical",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 68,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Colored Pencil Animation Japan"
+              }
+            ]
+          },
+          "description": "<p>A Japanese-style ayakashi Cinderella story! <i>&quot;You're the bride I've been searching for all this time.&quot;</i> The ayakashi and humans coexist in harmony. The ayakashi, having superior abilities and beautiful appearances, sometimes find their partner among human women, making them their &quot;bride&quot;. The bride, in exchange for bringing prosperity, receives absolute love from the ayakashi. Yuzu is constantly compared to her sister, a bride of a demon fox, and is resented by her family every day. One day, when Yuzu just couldn't take things anymore, a man appears before her on a bridge. This man is the most beautiful man Yuzu has ever seen... and he's calling her his wife?! <i>&quot;Just be quiet and let me hold you.&quot;</i> The most powerful, &quot;cold-hearted&quot; ayakashi is pouring his heart out for Yuzu?!<br><br><br />\n(Source: MangaPlaza)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/onihana_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://onihana-anime.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378121/the-ogres-bride"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>A Japanese-style ayakashi Cinderella story! <i>&quot;You're the bride I've been searching for all this time.&quot;</i> The ayakashi and humans coexist in harmony. The ayakashi, having superior abilities and beautiful appearances, sometimes find their partner among human women, making them their &quot;bride&quot;. The bride, in exchange for bringing prosperity, receives absolute love from the ayakashi. Yuzu is constantly compared to her sister, a bride of a demon fox, and is resented by her family every day. One day, when Yuzu just couldn't take things anymore, a man appears before her on a bridge. This man is the most beautiful man Yuzu has ever seen... and he's calling her his wife?! <i>&quot;Just be quiet and let me hold you.&quot;</i> The most powerful, &quot;cold-hearted&quot; ayakashi is pouring his heart out for Yuzu?!<br><br><br />\n(Source: MangaPlaza)</p>"
+        },
+        {
           "id": 206521,
           "title": {
             "romaji": "World Is Dancing",
@@ -4244,105 +4351,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Born into a life of acting and dance with a traveling theater troupe in 14th-century Japan, 12-year old Oniyasha has one problem—he doesn't know what the point of any of it is. &quot;Why must I step with the left foot here instead of the right? Why is one performance good and another, bad? Why do people dance at all?&quot; It all seems perfectly arbitrary, until a chance encounter in a run-down shack sets him down a path to revolutionizing the art form and influencing much of Japanese culture to come. A fictionalized account of the early life of Zeami Motokiyo (Oniyasha), the founder of modern Noh theater—the world's oldest surviving theater art—this coming-of-age artist's journey vividly brings to life a man far ahead of his time during one of Japan's most culturally and socially vibrant eras.<br><br></p>\n<p>(Source: Kodansha Comics)<br><br></p>\n<p><i>Note: World Is Dancing is streaming 3 days in advance of the TV broadcast on Prime Video and HIDIVE beginning June 29th, 2026. Regular broadcasting began on July 2nd, 2026.</i></p>"
-        },
-        {
-          "id": 194219,
-          "title": {
-            "romaji": "Oni no Hanayome",
-            "english": "The Ogre's Bride",
-            "native": "鬼の花嫁"
-          },
-          "synonyms": [
-            "OniHana",
-            "เจ้าสาวแห่งโชคชะตากับคุณชายยักษ์แห่งอายาคาชิ"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b194219-56EhyK775lga.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b194219-56EhyK775lga.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194219-t8ID9kSIpXxf.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1789831800,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Shoujo",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Youkai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Fairy Tale",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Arranged Marriage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Boys' Love",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 68,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Colored Pencil Animation Japan"
-              }
-            ]
-          },
-          "description": "<p>A Japanese-style ayakashi Cinderella story! <i>&quot;You're the bride I've been searching for all this time.&quot;</i> The ayakashi and humans coexist in harmony. The ayakashi, having superior abilities and beautiful appearances, sometimes find their partner among human women, making them their &quot;bride&quot;. The bride, in exchange for bringing prosperity, receives absolute love from the ayakashi. Yuzu is constantly compared to her sister, a bride of a demon fox, and is resented by her family every day. One day, when Yuzu just couldn't take things anymore, a man appears before her on a bridge. This man is the most beautiful man Yuzu has ever seen... and he's calling her his wife?! <i>&quot;Just be quiet and let me hold you.&quot;</i> The most powerful, &quot;cold-hearted&quot; ayakashi is pouring his heart out for Yuzu?!<br><br><br />\n(Source: MangaPlaza)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/onihana_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://onihana-anime.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378121/the-ogres-bride"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>A Japanese-style ayakashi Cinderella story! <i>&quot;You're the bride I've been searching for all this time.&quot;</i> The ayakashi and humans coexist in harmony. The ayakashi, having superior abilities and beautiful appearances, sometimes find their partner among human women, making them their &quot;bride&quot;. The bride, in exchange for bringing prosperity, receives absolute love from the ayakashi. Yuzu is constantly compared to her sister, a bride of a demon fox, and is resented by her family every day. One day, when Yuzu just couldn't take things anymore, a man appears before her on a bridge. This man is the most beautiful man Yuzu has ever seen... and he's calling her his wife?! <i>&quot;Just be quiet and let me hold you.&quot;</i> The most powerful, &quot;cold-hearted&quot; ayakashi is pouring his heart out for Yuzu?!<br><br><br />\n(Source: MangaPlaza)</p>"
         },
         {
           "id": 196219,
@@ -4779,7 +4787,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 65,
+          "averageScore": 66,
           "studios": {
             "nodes": [
               {
@@ -4804,6 +4812,111 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>After venturing into a restricted, treacherous mountain forest, siblings Hinata and Kaoru meet a terrifying serpent god and become besties! Despite her initially scary appearance, the self-named “god of misfortune” is awkward, lonely, and surprisingly easy to talk to. This is the tale of an unexpected friendship, and the many comedic, heartfelt adventures that ensue.<br><br></p>\n<p>(Source: Crunchyroll)</p>"
+        },
+        {
+          "id": 208225,
+          "title": {
+            "romaji": "\"Kimi wo Aisuru Ki wa nai\" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu",
+            "english": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
+            "native": "「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます"
+          },
+          "synonyms": [
+            "きみ愛",
+            "KimiAi"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208225-HJbCC0Z4xRp3.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208225-HJbCC0Z4xRp3.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1789835400,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Fantasy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shoujo",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Marriage",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Royal Affairs",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Arranged Marriage",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ojou-sama",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 65,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Zero-G"
+              },
+              {
+                "name": "Grass"
+              }
+            ]
+          },
+          "description": "<p>Elsa, the daughter of a fallen aristocrat, receives news. It was a marriage proposal from Julius, a very elite nobleman. Elsa is wondering,&quot; Why would such a distinguished man marry me&quot;? But after the wedding, Julius, who had been kind and gentle up to that point, changed completely! In a cold voice, he tells her,&quot; I have no intention of loving you&quot;.<br />\n<br><br><br />\n(Source: MangaPlaza)</p>",
+          "externalLinks": [
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@kimiai_official"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/kimiai_official"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://kimiai-anime.com/"
+            },
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/kimiai_official/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378118/the-dukes-son-claims-he-wont-love-me-but-showers-me-with-adoration"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Elsa, the daughter of a fallen aristocrat, receives news. It was a marriage proposal from Julius, a very elite nobleman. Elsa is wondering,&quot; Why would such a distinguished man marry me&quot;? But after the wedding, Julius, who had been kind and gentle up to that point, changed completely! In a cold voice, he tells her,&quot; I have no intention of loving you&quot;.<br />\n<br><br><br />\n(Source: MangaPlaza)</p>"
         },
         {
           "id": 196356,
@@ -4951,111 +5064,6 @@
           "descriptionTr": "<p>Miya is the illegitimate child of a prominent family. When her mother dies and her father’s estate agrees to take her in, she’s convinced she knows what awaits her in her new home: a life of servitude and misery at the hands of her wicked stepmother and stepsisters. Yet when she finally meets the women she expects to treat her like dirt, they actually end up being…sweet?! A hilarious and heartfelt comedy that’s sure to put a smile on your face!<br />\n<br><br><br />\n(Source: Seven Seas Entertainment)</p>"
         },
         {
-          "id": 208225,
-          "title": {
-            "romaji": "\"Kimi wo Aisuru Ki wa nai\" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu",
-            "english": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
-            "native": "「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます"
-          },
-          "synonyms": [
-            "きみ愛",
-            "KimiAi"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208225-HJbCC0Z4xRp3.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208225-HJbCC0Z4xRp3.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1789835400,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shoujo",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Marriage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Arranged Marriage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ojou-sama",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 65,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Zero-G"
-              },
-              {
-                "name": "Grass"
-              }
-            ]
-          },
-          "description": "<p>Elsa, the daughter of a fallen aristocrat, receives news. It was a marriage proposal from Julius, a very elite nobleman. Elsa is wondering,&quot; Why would such a distinguished man marry me&quot;? But after the wedding, Julius, who had been kind and gentle up to that point, changed completely! In a cold voice, he tells her,&quot; I have no intention of loving you&quot;.<br />\n<br><br><br />\n(Source: MangaPlaza)</p>",
-          "externalLinks": [
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@kimiai_official"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/kimiai_official"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kimiai-anime.com/"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/kimiai_official/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378118/the-dukes-son-claims-he-wont-love-me-but-showers-me-with-adoration"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Elsa, the daughter of a fallen aristocrat, receives news. It was a marriage proposal from Julius, a very elite nobleman. Elsa is wondering,&quot; Why would such a distinguished man marry me&quot;? But after the wedding, Julius, who had been kind and gentle up to that point, changed completely! In a cold voice, he tells her,&quot; I have no intention of loving you&quot;.<br />\n<br><br><br />\n(Source: MangaPlaza)</p>"
-        },
-        {
           "id": 188525,
           "title": {
             "romaji": "Kore Kaite Shine",
@@ -5112,6 +5120,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Coastal",
               "isMediaSpoiler": false
             },
@@ -5120,11 +5132,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Teen Cast",
+              "name": "Rural",
               "isMediaSpoiler": false
             },
             {
-              "name": "Rural",
+              "name": "School",
               "isMediaSpoiler": false
             },
             {
@@ -5134,10 +5146,6 @@
             {
               "name": "Yuri",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
             },
             {
               "name": "Shounen",
@@ -5203,8 +5211,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204060-3y19sqCToRaN.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789288200,
-            "episode": 11
+            "airingAt": 1789893000,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -5225,11 +5233,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Shounen",
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Work",
               "isMediaSpoiler": false
             },
             {
@@ -5243,10 +5255,6 @@
             {
               "name": "Suicide",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Work",
-              "isMediaSpoiler": false
             }
           ],
           "averageScore": 71,
@@ -5756,7 +5764,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 70,
+          "averageScore": 71,
           "studios": {
             "nodes": [
               {
@@ -6243,8 +6251,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1789284600,
-            "episode": 11
+            "airingAt": 1789889400,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
