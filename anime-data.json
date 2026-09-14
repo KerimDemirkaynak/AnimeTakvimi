@@ -89,10 +89,6 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Snowscape",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Time Manipulation",
               "isMediaSpoiler": true
             },
@@ -154,6 +150,10 @@
             },
             {
               "name": "Love Triangle",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Snowscape",
               "isMediaSpoiler": false
             },
             {
@@ -1205,11 +1205,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Educational",
               "isMediaSpoiler": false
             },
             {
-              "name": "Educational",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -1617,8 +1617,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185542-v15vqOvUWSF5.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789390800,
-            "episode": 11
+            "airingAt": 1789995600,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -1693,7 +1693,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 66,
+          "averageScore": 65,
           "studios": {
             "nodes": [
               {
@@ -1755,8 +1755,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202269-u0PTTsiKwrVL.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789387200,
-            "episode": 11
+            "airingAt": 1789992000,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -2210,6 +2210,149 @@
           "descriptionTr": "<p>Hinako Konohana is the perfect young lady—graceful, elegant, and flawless… or so everyone thinks. Behind closed doors, she’s a total disaster who can’t handle basic chores! When ordinary student Itsuki Tomonari becomes her caretaker, he’s thrown into 24/7 damage control, maintaining her “perfect” image. It’s awkward, nonstop chaos—but it starts softening into something that feels like love…<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
+          "id": 188139,
+          "title": {
+            "romaji": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
+            "english": "Though I Am an Inept Villainess",
+            "native": "ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~"
+          },
+          "synonyms": [
+            "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
+            "Futsutsuka",
+            "นางร้ายมือใหม่ เป็นกำลังใจให้ด้วยนะเจ้าคะ"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 12
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188139-1qIJfWxym8FX.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188139-1qIJfWxym8FX.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188139-PU5JsGJiiUnR.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1789915560,
+            "episode": 11
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Body Swapping",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Josei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Royal Affairs",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ancient China",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Villainess",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Curses",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Conspiracy",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Foreign",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ojou-sama",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Agriculture",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Suicide",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Incest",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 78,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Doga Kobo"
+              }
+            ]
+          },
+          "description": "<p>As maidens from the Five Clans battle for the Crown Prince’s heart, jealous Keigetsu uses forbidden magic to swap bodies with the beloved Reirin. Switching places does not guarantee happiness for Keigetsu with her new body's ill health leaving her hanging on the verge of death. Meanwhile, Reirin, now wearing the face of a scorned outcast, must answer for Keigetsu’s crimes in a dangerous trial.<br />\n<br><br><br />\nThe unlikely pair become increasingly entangled in each other’s lives and they will need to work together to survive after discovering the dark conspiracies brewing beneath the palace's genial surface. To confront the deadly threats lurking in the shadows, Reirin must embrace her new identity and defy their expectations of the court's inept villainess.<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://futsutsuka.net/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/futsutsuka_PR"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371881/though-i-am-an-inept-villainess"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2414053"
+            },
+            {
+              "site": "Disney Plus",
+              "url": "https://www.disneyplus.com/browse/entity-79a3e335-2acc-408e-a942-1b0bac47d952"
+            },
+            {
+              "site": "Netflix",
+              "url": "https://www.netflix.com/title/82931553"
+            },
+            {
+              "site": "Laftel",
+              "url": "https://laftel.net/item/46212"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>As maidens from the Five Clans battle for the Crown Prince’s heart, jealous Keigetsu uses forbidden magic to swap bodies with the beloved Reirin. Switching places does not guarantee happiness for Keigetsu with her new body's ill health leaving her hanging on the verge of death. Meanwhile, Reirin, now wearing the face of a scorned outcast, must answer for Keigetsu’s crimes in a dangerous trial.<br />\n<br><br><br />\nThe unlikely pair become increasingly entangled in each other’s lives and they will need to work together to survive after discovering the dark conspiracies brewing beneath the palace's genial surface. To confront the deadly threats lurking in the shadows, Reirin must embrace her new identity and defy their expectations of the court's inept villainess.<br><br><br />\n(Source: Crunchyroll)</p>"
+        },
+        {
           "id": 199111,
           "title": {
             "romaji": "Grand Blue Season 3",
@@ -2230,8 +2373,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199111-Z8y9awn2Zb6v.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789398000,
-            "episode": 11
+            "airingAt": 1790002800,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -2387,149 +2530,6 @@
           "descriptionTr": "<p>Iori's college shenanigans head overseas! Just as he's finally starting to get the hang of university life, crashing at his uncle's dive shop while balancing the booze-fueled antics of his diving club, Iori's cousin enlists him to help run a new dive shop in Palau. Between crystal-clear dives and his diving group that can't resist partying it up and stripping down, Iori's in for a wild summer.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
-          "id": 188139,
-          "title": {
-            "romaji": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
-            "english": "Though I Am an Inept Villainess",
-            "native": "ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~"
-          },
-          "synonyms": [
-            "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
-            "Futsutsuka",
-            "นางร้ายมือใหม่ เป็นกำลังใจให้ด้วยนะเจ้าคะ"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 12
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188139-1qIJfWxym8FX.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188139-1qIJfWxym8FX.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188139-PU5JsGJiiUnR.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1789915560,
-            "episode": 11
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Body Swapping",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Josei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Villainess",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ancient China",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Curses",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Conspiracy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Foreign",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ojou-sama",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Agriculture",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Suicide",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Incest",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 78,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Doga Kobo"
-              }
-            ]
-          },
-          "description": "<p>As maidens from the Five Clans battle for the Crown Prince’s heart, jealous Keigetsu uses forbidden magic to swap bodies with the beloved Reirin. Switching places does not guarantee happiness for Keigetsu with her new body's ill health leaving her hanging on the verge of death. Meanwhile, Reirin, now wearing the face of a scorned outcast, must answer for Keigetsu’s crimes in a dangerous trial.<br />\n<br><br><br />\nThe unlikely pair become increasingly entangled in each other’s lives and they will need to work together to survive after discovering the dark conspiracies brewing beneath the palace's genial surface. To confront the deadly threats lurking in the shadows, Reirin must embrace her new identity and defy their expectations of the court's inept villainess.<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://futsutsuka.net/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/futsutsuka_PR"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371881/though-i-am-an-inept-villainess"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2414053"
-            },
-            {
-              "site": "Disney Plus",
-              "url": "https://www.disneyplus.com/browse/entity-79a3e335-2acc-408e-a942-1b0bac47d952"
-            },
-            {
-              "site": "Netflix",
-              "url": "https://www.netflix.com/title/82931553"
-            },
-            {
-              "site": "Laftel",
-              "url": "https://laftel.net/item/46212"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>As maidens from the Five Clans battle for the Crown Prince’s heart, jealous Keigetsu uses forbidden magic to swap bodies with the beloved Reirin. Switching places does not guarantee happiness for Keigetsu with her new body's ill health leaving her hanging on the verge of death. Meanwhile, Reirin, now wearing the face of a scorned outcast, must answer for Keigetsu’s crimes in a dangerous trial.<br />\n<br><br><br />\nThe unlikely pair become increasingly entangled in each other’s lives and they will need to work together to survive after discovering the dark conspiracies brewing beneath the palace's genial surface. To confront the deadly threats lurking in the shadows, Reirin must embrace her new identity and defy their expectations of the court's inept villainess.<br><br><br />\n(Source: Crunchyroll)</p>"
-        },
-        {
           "id": 169583,
           "title": {
             "romaji": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
@@ -2551,8 +2551,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169583-wB0yHc7e8Kjk.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789396200,
-            "episode": 11
+            "airingAt": 1790001000,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -2747,105 +2747,6 @@
           "descriptionTr": "<p>Luck, an S-rank mage in the hero’s party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as “Lock,” an F-rank adventurer forging a future in a world that moved on without him.<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br></p>\n<p><i>Note: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita is streaming 3 days in advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 6th, 2026.</i></p>"
         },
         {
-          "id": 209983,
-          "title": {
-            "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
-            "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
-            "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season"
-          },
-          "synonyms": [
-            "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
-            "HELL MODE ~อยากเล่นโหด ขอโหมดนรก~ ซีซั่น 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209983-fJysbFB72IM9.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1789747200,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Child Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Creature Taming",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Found Family",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "War",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 72,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Yokohama Animation Lab"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Hell Mode</i>.</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://hellmode-anime.com"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/hellmode_anime"
-            },
-            {
-              "site": "HIDIVE",
-              "url": "https://www.hidive.com/season/36239"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/1a7r5ibbkjl"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>The second season of <i>Hell Mode</i>.</p>"
-        },
-        {
           "id": 200637,
           "title": {
             "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season",
@@ -2997,6 +2898,105 @@
           "descriptionTr": "<p>The third season of <i>Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo.</i></p>"
         },
         {
+          "id": 209983,
+          "title": {
+            "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
+            "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+            "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season"
+          },
+          "synonyms": [
+            "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+            "HELL MODE ~อยากเล่นโหด ขอโหมดนรก~ ซีซั่น 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209983-fJysbFB72IM9.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1789747200,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Child Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Creature Taming",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Found Family",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Demons",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "War",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 72,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Yokohama Animation Lab"
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Hell Mode</i>.</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://hellmode-anime.com"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/hellmode_anime"
+            },
+            {
+              "site": "HIDIVE",
+              "url": "https://www.hidive.com/season/36239"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/1a7r5ibbkjl"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>The second season of <i>Hell Mode</i>.</p>"
+        },
+        {
           "id": 204466,
           "title": {
             "romaji": "Otome Kaijuu Caraméliser",
@@ -3104,12 +3104,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Nudity",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
             },
             {
               "name": "Love Triangle",
@@ -3215,6 +3215,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Interspecies",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Reincarnation",
               "isMediaSpoiler": false
             },
@@ -3223,12 +3227,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Interspecies",
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
-              "isMediaSpoiler": false
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
             },
             {
               "name": "Shapeshifting",
@@ -3237,10 +3241,6 @@
             {
               "name": "Boxing",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
             },
             {
               "name": "Witch",
@@ -3788,8 +3788,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169582-D5p5iRI5XqML.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789387020,
-            "episode": 11
+            "airingAt": 1789991820,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -3801,6 +3801,10 @@
           ],
           "tags": [
             {
+              "name": "Politics",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Magic",
               "isMediaSpoiler": false
             },
@@ -3810,10 +3814,6 @@
             },
             {
               "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Politics",
               "isMediaSpoiler": false
             },
             {
@@ -4023,8 +4023,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199408-ouNGkjrw0ohT.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789392600,
-            "episode": 11
+            "airingAt": 1789997400,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -4045,15 +4045,15 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Exiled",
               "isMediaSpoiler": false
             },
             {
               "name": "Revenge",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
               "isMediaSpoiler": false
             },
             {
@@ -4073,6 +4073,14 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Nekomimi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kemonomimi",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Love Triangle",
               "isMediaSpoiler": false
             },
@@ -4082,14 +4090,6 @@
             },
             {
               "name": "Economics",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nekomimi",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kemonomimi",
               "isMediaSpoiler": false
             },
             {
@@ -4245,8 +4245,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206521-zCIAGsiIkh6G.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789390800,
-            "episode": 12
+            "airingAt": 1789995600,
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -4607,8 +4607,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1789394400,
-            "episode": 11
+            "airingAt": 1789999200,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -5021,12 +5021,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Historical",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
             },
             {
               "name": "Maids",
@@ -5278,6 +5278,10 @@
             },
             {
               "name": "Suicide",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Gore",
               "isMediaSpoiler": true
             }
           ],
@@ -5744,15 +5748,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Acrobatics",
               "isMediaSpoiler": false
             },
             {
               "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Acrobatics",
               "isMediaSpoiler": false
             },
             {
@@ -5769,6 +5769,10 @@
             },
             {
               "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
