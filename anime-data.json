@@ -93,6 +93,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Time Manipulation",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Marriage",
               "isMediaSpoiler": true
             },
@@ -103,10 +107,6 @@
             {
               "name": "Demons",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Manipulation",
-              "isMediaSpoiler": true
             },
             {
               "name": "Alternate Universe",
@@ -733,10 +733,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Mahjong",
               "isMediaSpoiler": false
             },
@@ -747,6 +743,10 @@
             {
               "name": "LGBTQ+ Themes",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 67,
@@ -1081,7 +1081,7 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210031-M4bt0rAmWk5Q.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789891200,
+            "airingAt": 1790496000,
             "episode": 12
           },
           "isAdult": false,
@@ -1109,11 +1109,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "School",
+              "name": "Coming of Age",
               "isMediaSpoiler": false
             },
             {
-              "name": "Coming of Age",
+              "name": "School",
               "isMediaSpoiler": false
             },
             {
@@ -1250,6 +1250,10 @@
             },
             {
               "name": "Metal Music",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Yandere",
               "isMediaSpoiler": true
             },
             {
@@ -1551,6 +1555,14 @@
             {
               "name": "Politics",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 68,
@@ -3195,19 +3207,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Time Skip",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Yuri",
               "isMediaSpoiler": true
             },
             {
-              "name": "Curses",
+              "name": "Time Skip",
               "isMediaSpoiler": false
             },
             {
               "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Curses",
               "isMediaSpoiler": false
             },
             {
@@ -3219,11 +3231,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Boxing",
+              "name": "Shapeshifting",
               "isMediaSpoiler": false
             },
             {
-              "name": "Shapeshifting",
+              "name": "Boxing",
               "isMediaSpoiler": false
             },
             {
@@ -3257,6 +3269,14 @@
             {
               "name": "Food",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "4-koma",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Twins",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 76,
@@ -3683,15 +3703,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Meta",
               "isMediaSpoiler": false
             },
             {
               "name": "Surreal Comedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
               "isMediaSpoiler": false
             },
             {
@@ -4508,6 +4528,10 @@
             },
             {
               "name": "Public Sex",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
@@ -5720,6 +5744,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
@@ -5741,10 +5769,6 @@
             },
             {
               "name": "Historical",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
