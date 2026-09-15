@@ -267,11 +267,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Drugs",
+              "name": "Iyashikei",
               "isMediaSpoiler": false
             },
             {
-              "name": "Iyashikei",
+              "name": "Drugs",
               "isMediaSpoiler": false
             },
             {
@@ -1355,8 +1355,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187260-HMkLPy3ZvzW1.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789475400,
-            "episode": 11
+            "airingAt": 1790080200,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -2636,117 +2636,6 @@
           "descriptionTr": "<p>Seven years after making a childhood promise to always be friends, Hayato is reunited with his formerly tomboyish pal Haruki at a city high school–only now, Haruki has transformed into the girl every guy dreams about! While Haruki’s looks may have changed, with Hayato, she’s still the same pal he remembers. Despite years apart, their promise and feelings remain and deepen into something stronger.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
-          "id": 199748,
-          "title": {
-            "romaji": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.",
-            "english": "I Became a Legend After My 10 Year-Long Last Stand",
-            "native": "ここは俺に任せて先に行けと言ってから１０年がたったら伝説になっていた。"
-          },
-          "synonyms": [
-            "KokoOre",
-            "ここ俺"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 3
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199748-PAFk9pGSUmFL.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199748-PAFk9pGSUmFL.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199748-H2JAicBqBq3b.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1789738200,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Age Regression",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Skip",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kemonomimi",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Vampire",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 62,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Gekkou"
-              }
-            ]
-          },
-          "description": "<p>Luck, an S-rank mage in the hero’s party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as “Lock,” an F-rank adventurer forging a future in a world that moved on without him.<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br></p>\n<p><i>Note: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita is streaming 3 days in advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 6th, 2026.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://kokoore-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/kokoore_anime"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@gree_ent_anime"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371671"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Luck, an S-rank mage in the hero’s party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as “Lock,” an F-rank adventurer forging a future in a world that moved on without him.<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br></p>\n<p><i>Note: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita is streaming 3 days in advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 6th, 2026.</i></p>"
-        },
-        {
           "id": 200637,
           "title": {
             "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season",
@@ -2995,6 +2884,117 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>The second season of <i>Hell Mode</i>.</p>"
+        },
+        {
+          "id": 199748,
+          "title": {
+            "romaji": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.",
+            "english": "I Became a Legend After My 10 Year-Long Last Stand",
+            "native": "ここは俺に任せて先に行けと言ってから１０年がたったら伝説になっていた。"
+          },
+          "synonyms": [
+            "KokoOre",
+            "ここ俺"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 3
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199748-PAFk9pGSUmFL.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199748-PAFk9pGSUmFL.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199748-H2JAicBqBq3b.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1789738200,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Age Regression",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Demons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Skip",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kemonomimi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Vampire",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 62,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Gekkou"
+              }
+            ]
+          },
+          "description": "<p>Luck, an S-rank mage in the hero’s party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as “Lock,” an F-rank adventurer forging a future in a world that moved on without him.<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br></p>\n<p><i>Note: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita is streaming 3 days in advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 6th, 2026.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://kokoore-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/kokoore_anime"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@gree_ent_anime"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371671"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Luck, an S-rank mage in the hero’s party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as “Lock,” an F-rank adventurer forging a future in a world that moved on without him.<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br></p>\n<p><i>Note: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita is streaming 3 days in advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 6th, 2026.</i></p>"
         },
         {
           "id": 204466,
@@ -3277,6 +3277,10 @@
             {
               "name": "Twins",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Religion",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 76,
@@ -3442,8 +3446,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/128757-kBnCRYXdyw58.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789471800,
-            "episode": 11
+            "airingAt": 1790076600,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -4278,6 +4282,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Crossdressing",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Tragedy",
               "isMediaSpoiler": true
             },
@@ -4295,10 +4303,6 @@
             },
             {
               "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Crossdressing",
               "isMediaSpoiler": false
             },
             {
@@ -4371,99 +4375,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Born into a life of acting and dance with a traveling theater troupe in 14th-century Japan, 12-year old Oniyasha has one problem—he doesn't know what the point of any of it is. &quot;Why must I step with the left foot here instead of the right? Why is one performance good and another, bad? Why do people dance at all?&quot; It all seems perfectly arbitrary, until a chance encounter in a run-down shack sets him down a path to revolutionizing the art form and influencing much of Japanese culture to come. A fictionalized account of the early life of Zeami Motokiyo (Oniyasha), the founder of modern Noh theater—the world's oldest surviving theater art—this coming-of-age artist's journey vividly brings to life a man far ahead of his time during one of Japan's most culturally and socially vibrant eras.<br><br></p>\n<p>(Source: Kodansha Comics)<br><br></p>\n<p><i>Note: World Is Dancing is streaming 3 days in advance of the TV broadcast on Prime Video and HIDIVE beginning June 29th, 2026. Regular broadcasting began on July 2nd, 2026.</i></p>"
-        },
-        {
-          "id": 196219,
-          "title": {
-            "romaji": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
-            "english": "The Oblivious Saint Can't Contain Her Power",
-            "native": "無自覚聖女は今日も無意識に力を垂れ流す"
-          },
-          "synonyms": [
-            "The Oblivious Saint Can't Contain Her Power Glossary"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 6,
-            "day": 30
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196219-imvC0rbk4VzH.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196219-imvC0rbk4VzH.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196219-2F64WTRfqRU9.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1789477200,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Religion",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Arranged Marriage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shoujo",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 62,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Magic Bus"
-              },
-              {
-                "name": "Picante Circus"
-              }
-            ]
-          },
-          "description": "<p>Lady Carolina, the overlooked daughter of a powerful duke, has always believed herself to be the black sheep amid her illustrious kin. Her father is the distinguished prime minister; her elder sister, a prodigious mage destined to become their nation’s next Saint. In comparison, Carolina resigns herself to a quiet existence in their shadows until a sudden and unexpected royal decree alters her destiny, thrusting her into a political marriage with the formidable “Bloodthirsty Prince” of the neighboring Empire of Malcosias. Determined to prove her worth, Carolina takes a bold step into a world fraught with both political and mortal peril. As royal obligations intertwine with hints of true love and the stirrings of her own latent power, Carolina moves ever closer to understanding what it truly means to be exceptional.<br />\n<br><br><br />\n(Source: J-Novel Club)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/mujikaku_seijo"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://mujikaku-seijo.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378125/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Lady Carolina, the overlooked daughter of a powerful duke, has always believed herself to be the black sheep amid her illustrious kin. Her father is the distinguished prime minister; her elder sister, a prodigious mage destined to become their nation’s next Saint. In comparison, Carolina resigns herself to a quiet existence in their shadows until a sudden and unexpected royal decree alters her destiny, thrusting her into a political marriage with the formidable “Bloodthirsty Prince” of the neighboring Empire of Malcosias. Determined to prove her worth, Carolina takes a bold step into a world fraught with both political and mortal peril. As royal obligations intertwine with hints of true love and the stirrings of her own latent power, Carolina moves ever closer to understanding what it truly means to be exceptional.<br />\n<br><br><br />\n(Source: J-Novel Club)</p>"
         },
         {
           "id": 207674,
@@ -5176,7 +5087,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 77,
+          "averageScore": 78,
           "studios": {
             "nodes": [
               {
@@ -5456,6 +5367,106 @@
           "descriptionTr": "<p>After a mysterious hand drags her beneath a puddle, modern Japanese teenager Yuri awakens in the Hittite Empire of the 14th century BCE. Thrust into a deadly struggle for the throne, she joins Prince Kail to battle assassins, outwit royal conspiracies, and survive a world at war. As her exploits earn her renown as the goddess Ishtar, Yuri must choose between her old life and an uncertain future.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
+          "id": 203490,
+          "title": {
+            "romaji": "Uchi no Otouto-domo ga Sumimasen",
+            "english": "Please Excuse My Younger Brothers",
+            "native": "うちの弟どもがすみません"
+          },
+          "synonyms": [
+            "Sorry About My Little Brothers",
+            "UchiOto",
+            "うち弟"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203490-YQXiymUiDQNA.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203490-YQXiymUiDQNA.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1789743600,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Shoujo",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Family Life",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Inseki",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crossdressing",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Gap",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 68,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Lay-duce"
+              }
+            ]
+          },
+          "description": "<p>The manga centers on high school student Ito Hazui. During her spring break at the end of her first year of high school, Ito's mother remarries, and Ito moves to live with her new family, becoming Ito Narita. Upon arriving at her new house, Ito is shocked to learn she now has four younger step-brothers. Ito tries her hardest to get along with all of the new members of her family, but the eldest brother Gen is a bit cold to her. However, under his aloof facade, he occasionally shows his kindness.<br />\n<BR><BR><br />\n(Source: Anime News Network)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://uchioto-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/uchioto_anime"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371926/"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>The manga centers on high school student Ito Hazui. During her spring break at the end of her first year of high school, Ito's mother remarries, and Ito moves to live with her new family, becoming Ito Narita. Upon arriving at her new house, Ito is shocked to learn she now has four younger step-brothers. Ito tries her hardest to get along with all of the new members of her family, but the eldest brother Gen is a bit cold to her. However, under his aloof facade, he occasionally shows his kindness.<br />\n<BR><BR><br />\n(Source: Anime News Network)</p>"
+        },
+        {
           "id": 185875,
           "title": {
             "romaji": "Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
@@ -5602,106 +5613,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Thirty years ago, the world was nearly destroyed by the sudden appearance of unknown &quot;invasive alien species.&quot;<br />\n<br><br><br />\nHumans and these “invasive species” continue to vie for living space, and while humanity’s safety is currently barely secured, the world could be destroyed at any moment. Living in fear of death and destruction, people go about their daily lives as if trying to avert their eyes from danger and disaster.<br />\n<br><br><br />\nIn this world, the United Nations Hazardous Species Investigation Agency, &quot;EXCEEDS,&quot; has begun operations to ward off crises and disasters caused by invasive species.<br />\n<br><br><br />\nThe story begins on the island nation of &quot;Mizuho&quot; in the Far East. Shina Hisase is a young invasive species extermination hunter living on a remote island. What incident will befall Shina, who wishes only to live quietly with her younger sister Setsuna, her sole remaining family member?<br />\n<br><br><br />\n<i>Note: The first episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.</i></p>"
-        },
-        {
-          "id": 203490,
-          "title": {
-            "romaji": "Uchi no Otouto-domo ga Sumimasen",
-            "english": "Please Excuse My Younger Brothers",
-            "native": "うちの弟どもがすみません"
-          },
-          "synonyms": [
-            "Sorry About My Little Brothers",
-            "UchiOto",
-            "うち弟"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203490-YQXiymUiDQNA.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203490-YQXiymUiDQNA.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1789743600,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Shoujo",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Family Life",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Inseki",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Crossdressing",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Gap",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 68,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Lay-duce"
-              }
-            ]
-          },
-          "description": "<p>The manga centers on high school student Ito Hazui. During her spring break at the end of her first year of high school, Ito's mother remarries, and Ito moves to live with her new family, becoming Ito Narita. Upon arriving at her new house, Ito is shocked to learn she now has four younger step-brothers. Ito tries her hardest to get along with all of the new members of her family, but the eldest brother Gen is a bit cold to her. However, under his aloof facade, he occasionally shows his kindness.<br />\n<BR><BR><br />\n(Source: Anime News Network)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://uchioto-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/uchioto_anime"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371926/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>The manga centers on high school student Ito Hazui. During her spring break at the end of her first year of high school, Ito's mother remarries, and Ito moves to live with her new family, becoming Ito Narita. Upon arriving at her new house, Ito is shocked to learn she now has four younger step-brothers. Ito tries her hardest to get along with all of the new members of her family, but the eldest brother Gen is a bit cold to her. However, under his aloof facade, he occasionally shows his kindness.<br />\n<BR><BR><br />\n(Source: Anime News Network)</p>"
         },
         {
           "id": 196017,
@@ -6355,6 +6266,116 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>The horror comedy manga begins one fateful day when the cowardly (unnamed) protagonist meets Mechako, the leader of the &quot;Kaikigumi&quot; organization which is in charge of the ghosts and supernatural creatures scaring humans. The protagonist somehow takes part in the revival of the Kaikigumi, after which one bizarre (yet not scary) phenomenon after another crops up around him.<br />\n<br><br><br />\n(Source: ANN)</p>"
+        },
+        {
+          "id": 201667,
+          "title": {
+            "romaji": "Bungou Stray Dogs Wan! 2",
+            "english": "Bungo Stray Dogs WAN! 2",
+            "native": "文豪ストレイドッグス わん！２"
+          },
+          "synonyms": [
+            "Bungo Stray Dogs WAN! TWO",
+            "คณะประพันธกรจรจัด โฮ่ง! 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 2
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201667-oqaW97DQ7HUj.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201667-oqaW97DQ7HUj.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201667-QYNOqPVSG3vi.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1789648800,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Slice of Life",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Slapstick",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Male Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tsundere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Chibi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Episodic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 74,
+          "studios": {
+            "nodes": [
+              {
+                "name": "bones"
+              },
+              {
+                "name": "Nomad"
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Bungou Stray Dogs Wan!</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/bungosd_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://wan2.bungo-stray-dogs-wan.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GMEHMEN75/bungo-stray-dogs-wan"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLSFfcgIBEqIU"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>The second season of <i>Bungou Stray Dogs Wan!</i></p>"
         }
       ]
     }
