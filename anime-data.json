@@ -267,11 +267,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Iyashikei",
+              "name": "Drugs",
               "isMediaSpoiler": false
             },
             {
-              "name": "Drugs",
+              "name": "Iyashikei",
               "isMediaSpoiler": false
             },
             {
@@ -705,6 +705,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Survival",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Seinen",
               "isMediaSpoiler": false
             },
@@ -717,15 +721,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Survival",
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
               "name": "Centaur",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
@@ -737,16 +737,16 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Yuri",
               "isMediaSpoiler": true
             },
             {
               "name": "LGBTQ+ Themes",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
             }
           ],
           "averageScore": 67,
@@ -2290,10 +2290,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "LGBTQ+ Themes",
               "isMediaSpoiler": true
             },
@@ -3207,16 +3203,16 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Time Skip",
               "isMediaSpoiler": false
             },
             {
               "name": "Interspecies",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
             },
             {
               "name": "Reincarnation",
@@ -3259,11 +3255,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Work",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
-              "name": "School Club",
+              "name": "Work",
               "isMediaSpoiler": false
             },
             {
@@ -5243,8 +5239,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1789490100,
-            "episode": 11
+            "airingAt": 1790094900,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
