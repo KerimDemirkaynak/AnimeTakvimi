@@ -232,8 +232,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196187-Z9dV6uotmKjM.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789656960,
-            "episode": 11
+            "airingAt": 1790261760,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -638,8 +638,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207141-MvHAS2YVfJzL.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789659000,
-            "episode": 11
+            "airingAt": 1790263800,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -737,16 +737,16 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Mahjong",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Yuri",
               "isMediaSpoiler": true
             },
             {
               "name": "LGBTQ+ Themes",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Mahjong",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 67,
@@ -952,8 +952,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1789658760,
-            "episode": 12
+            "airingAt": 1790263560,
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -4639,8 +4639,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1789648200,
-            "episode": 12
+            "airingAt": 1790253000,
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -4751,111 +4751,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>After venturing into a restricted, treacherous mountain forest, siblings Hinata and Kaoru meet a terrifying serpent god and become besties! Despite her initially scary appearance, the self-named “god of misfortune” is awkward, lonely, and surprisingly easy to talk to. This is the tale of an unexpected friendship, and the many comedic, heartfelt adventures that ensue.<br><br></p>\n<p>(Source: Crunchyroll)</p>"
-        },
-        {
-          "id": 208225,
-          "title": {
-            "romaji": "\"Kimi wo Aisuru Ki wa nai\" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu",
-            "english": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
-            "native": "「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます"
-          },
-          "synonyms": [
-            "きみ愛",
-            "KimiAi"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208225-HJbCC0Z4xRp3.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208225-HJbCC0Z4xRp3.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1789835400,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shoujo",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Marriage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Arranged Marriage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ojou-sama",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 65,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Zero-G"
-              },
-              {
-                "name": "Grass"
-              }
-            ]
-          },
-          "description": "<p>Elsa, the daughter of a fallen aristocrat, receives news. It was a marriage proposal from Julius, a very elite nobleman. Elsa is wondering,&quot; Why would such a distinguished man marry me&quot;? But after the wedding, Julius, who had been kind and gentle up to that point, changed completely! In a cold voice, he tells her,&quot; I have no intention of loving you&quot;.<br />\n<br><br><br />\n(Source: MangaPlaza)</p>",
-          "externalLinks": [
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@kimiai_official"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/kimiai_official"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kimiai-anime.com/"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/kimiai_official/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378118/the-dukes-son-claims-he-wont-love-me-but-showers-me-with-adoration"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Elsa, the daughter of a fallen aristocrat, receives news. It was a marriage proposal from Julius, a very elite nobleman. Elsa is wondering,&quot; Why would such a distinguished man marry me&quot;? But after the wedding, Julius, who had been kind and gentle up to that point, changed completely! In a cold voice, he tells her,&quot; I have no intention of loving you&quot;.<br />\n<br><br><br />\n(Source: MangaPlaza)</p>"
         },
         {
           "id": 196356,
@@ -5003,6 +4898,111 @@
           "descriptionTr": "<p>Miya is the illegitimate child of a prominent family. When her mother dies and her father’s estate agrees to take her in, she’s convinced she knows what awaits her in her new home: a life of servitude and misery at the hands of her wicked stepmother and stepsisters. Yet when she finally meets the women she expects to treat her like dirt, they actually end up being…sweet?! A hilarious and heartfelt comedy that’s sure to put a smile on your face!<br />\n<br><br><br />\n(Source: Seven Seas Entertainment)</p>"
         },
         {
+          "id": 208225,
+          "title": {
+            "romaji": "\"Kimi wo Aisuru Ki wa nai\" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu",
+            "english": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
+            "native": "「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます"
+          },
+          "synonyms": [
+            "きみ愛",
+            "KimiAi"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208225-HJbCC0Z4xRp3.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208225-HJbCC0Z4xRp3.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1789835400,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Fantasy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shoujo",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Marriage",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Royal Affairs",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Arranged Marriage",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ojou-sama",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 65,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Zero-G"
+              },
+              {
+                "name": "Grass"
+              }
+            ]
+          },
+          "description": "<p>Elsa, the daughter of a fallen aristocrat, receives news. It was a marriage proposal from Julius, a very elite nobleman. Elsa is wondering,&quot; Why would such a distinguished man marry me&quot;? But after the wedding, Julius, who had been kind and gentle up to that point, changed completely! In a cold voice, he tells her,&quot; I have no intention of loving you&quot;.<br />\n<br><br><br />\n(Source: MangaPlaza)</p>",
+          "externalLinks": [
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@kimiai_official"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/kimiai_official"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://kimiai-anime.com/"
+            },
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/kimiai_official/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378118/the-dukes-son-claims-he-wont-love-me-but-showers-me-with-adoration"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Elsa, the daughter of a fallen aristocrat, receives news. It was a marriage proposal from Julius, a very elite nobleman. Elsa is wondering,&quot; Why would such a distinguished man marry me&quot;? But after the wedding, Julius, who had been kind and gentle up to that point, changed completely! In a cold voice, he tells her,&quot; I have no intention of loving you&quot;.<br />\n<br><br><br />\n(Source: MangaPlaza)</p>"
+        },
+        {
           "id": 188525,
           "title": {
             "romaji": "Kore Kaite Shine",
@@ -5091,7 +5091,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 77,
+          "averageScore": 78,
           "studios": {
             "nodes": [
               {
@@ -5759,8 +5759,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108992-5OIDQkTbM1id.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789655400,
-            "episode": 11
+            "airingAt": 1790260200,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -6156,116 +6156,6 @@
           "descriptionTr": "<p>The horror comedy manga begins one fateful day when the cowardly (unnamed) protagonist meets Mechako, the leader of the &quot;Kaikigumi&quot; organization which is in charge of the ghosts and supernatural creatures scaring humans. The protagonist somehow takes part in the revival of the Kaikigumi, after which one bizarre (yet not scary) phenomenon after another crops up around him.<br />\n<br><br><br />\n(Source: ANN)</p>"
         },
         {
-          "id": 201667,
-          "title": {
-            "romaji": "Bungou Stray Dogs Wan! 2",
-            "english": "Bungo Stray Dogs WAN! 2",
-            "native": "文豪ストレイドッグス わん！２"
-          },
-          "synonyms": [
-            "Bungo Stray Dogs WAN! TWO",
-            "คณะประพันธกรจรจัด โฮ่ง! 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 2
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201667-oqaW97DQ7HUj.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201667-oqaW97DQ7HUj.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201667-QYNOqPVSG3vi.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1789648800,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Slice of Life",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "Slapstick",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Male Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tsundere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Chibi",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Episodic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 74,
-          "studios": {
-            "nodes": [
-              {
-                "name": "bones"
-              },
-              {
-                "name": "Nomad"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Bungou Stray Dogs Wan!</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/bungosd_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://wan2.bungo-stray-dogs-wan.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GMEHMEN75/bungo-stray-dogs-wan"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLSFfcgIBEqIU"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>The second season of <i>Bungou Stray Dogs Wan!</i></p>"
-        },
-        {
           "id": 169080,
           "title": {
             "romaji": "Azur Lane: Bisoku Zenshin! Ni!!",
@@ -6350,6 +6240,69 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>The second season of <i>Azur Lane: Bisoku Zenshin!</i></p>"
+        },
+        {
+          "id": 202429,
+          "title": {
+            "romaji": "Wareware wa Uchuujin",
+            "english": null,
+            "native": "我々は宇宙人"
+          },
+          "synonyms": [
+            "We Are Aliens"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 9,
+            "day": 25
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202429-RwSR4o3WmD04.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202429-RwSR4o3WmD04.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202429-Yrm8F0olxdCF.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1790262000,
+            "episode": 1
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama"
+          ],
+          "tags": [
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Rotoscoping",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "NOTHING NEW"
+              },
+              {
+                "name": "Miyu Productions"
+              }
+            ]
+          },
+          "description": "<p>One summer in the third grade, a quiet boy named Tsubasa meets Kyotaro, a boy everyone in the class looked up to, and the two become close friends. Within their small world, they share irreplaceable moments—until a small incident suddenly tears them apart. Spanning more than thirty years, this gentle, contemplative story invites the audience to reflect on the meaning of life through the paths their lives take.<br><br></p>\n<p>(Source: NOTHING NEW)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://nothingnew.film/wearealiens/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/NOTHINGNEW_FILM"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>One summer in the third grade, a quiet boy named Tsubasa meets Kyotaro, a boy everyone in the class looked up to, and the two become close friends. Within their small world, they share irreplaceable moments—until a small incident suddenly tears them apart. Spanning more than thirty years, this gentle, contemplative story invites the audience to reflect on the meaning of life through the paths their lives take.<br><br></p>\n<p>(Source: NOTHING NEW)</p>"
         }
       ]
     }
