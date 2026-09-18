@@ -267,11 +267,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Drugs",
+              "name": "Iyashikei",
               "isMediaSpoiler": false
             },
             {
-              "name": "Iyashikei",
+              "name": "Drugs",
               "isMediaSpoiler": false
             },
             {
@@ -279,11 +279,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -1213,6 +1213,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Yandere",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Boys' Love",
               "isMediaSpoiler": true
             },
@@ -1243,10 +1247,6 @@
             {
               "name": "Heterosexual",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Yandere",
-              "isMediaSpoiler": true
             },
             {
               "name": "Metal Music",
@@ -1402,16 +1402,16 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Military",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Orphan",
               "isMediaSpoiler": false
             },
             {
               "name": "Body Horror",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Military",
-              "isMediaSpoiler": false
             },
             {
               "name": "Dystopian",
@@ -2605,7 +2605,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 70,
+          "averageScore": 69,
           "studios": {
             "nodes": [
               {
@@ -2700,7 +2700,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 72,
+          "averageScore": 71,
           "studios": {
             "nodes": [
               {
@@ -2882,117 +2882,6 @@
           "descriptionTr": "<p>The third season of <i>Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo.</i></p>"
         },
         {
-          "id": 199748,
-          "title": {
-            "romaji": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.",
-            "english": "I Became a Legend After My 10 Year-Long Last Stand",
-            "native": "ここは俺に任せて先に行けと言ってから１０年がたったら伝説になっていた。"
-          },
-          "synonyms": [
-            "KokoOre",
-            "ここ俺"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 3
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199748-PAFk9pGSUmFL.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199748-PAFk9pGSUmFL.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199748-H2JAicBqBq3b.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1789738200,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Age Regression",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Skip",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kemonomimi",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Vampire",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 62,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Gekkou"
-              }
-            ]
-          },
-          "description": "<p>Luck, an S-rank mage in the hero’s party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as “Lock,” an F-rank adventurer forging a future in a world that moved on without him.<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br></p>\n<p><i>Note: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita is streaming 3 days in advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 6th, 2026.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://kokoore-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/kokoore_anime"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@gree_ent_anime"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371671"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Luck, an S-rank mage in the hero’s party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as “Lock,” an F-rank adventurer forging a future in a world that moved on without him.<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br></p>\n<p><i>Note: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita is streaming 3 days in advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 6th, 2026.</i></p>"
-        },
-        {
           "id": 177637,
           "title": {
             "romaji": "Sayonara Lara",
@@ -3045,6 +2934,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Yuri",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Time Skip",
               "isMediaSpoiler": false
             },
@@ -3053,15 +2946,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Reincarnation",
               "isMediaSpoiler": false
             },
             {
               "name": "Curses",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Philosophy",
               "isMediaSpoiler": false
             },
             {
@@ -3144,122 +3037,6 @@
           "descriptionTr": "<p>Once upon a time, a mermaid princess named Lara fell in love with a human prince. To be with him, she used a witch’s potion to become human—but the magic came at a cost: If she failed to find true love, she would vanish into sea foam forever. Now, 200 years later, Lara awakens in Lake Biwa with one final chance at life and love.<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
-          "id": 196218,
-          "title": {
-            "romaji": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama",
-            "english": "The Frontier Lord Begins with Zero Subjects",
-            "native": "領民0人スタートの辺境領主様"
-          },
-          "synonyms": [
-            "The Frontier Lord Begins with Zero Subjects: Tales of Blue Dias and the Beastkin Alna",
-            "The Population of the Frontier Owner Stars with 0.",
-            "Penguasa Negeri Terluar Memulai dari 0 Rakyat",
-            "ได้เป็นถึงท่านเจ้าครอบครองดินแดน แต่ดันมีพลเมืองเริ่มต้นจากศูนย์ซะงั้น"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 3
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196218-UsdTTCrwpDIN.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196218-UsdTTCrwpDIN.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196218-lX0y9T76KQkC.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1789738200,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Drama",
-            "Fantasy",
-            "Romance",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Kingdom Management",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cohabitation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Found Family",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Gap",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Agriculture",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Rural",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Family Life",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Anthropomorphism",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Wilderness",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gender Bending",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 66,
-          "studios": {
-            "nodes": [
-              {
-                "name": "animation studio42"
-              }
-            ]
-          },
-          "description": "<p>The war is over, and hero Dias is finally rewarded with land of his own—only to discover it's a barren frontier with no people, no villages, and no sign of civilization. With nothing but endless grassland ahead of him, Dias sets out to build a domain from the ground up. But after meeting Alna, a mysterious girl with a blue horn, his lonely frontier is about to spring to life.<br />\n<br><br><br />\n(Source: Crunchyroll)<br><br></p>\n<p><i>Note: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama is streaming a week advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 10th, 2026.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/ryomin0_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://ryomin0-anime.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378124/the-frontier-lord-begins-with-zero-subjects"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/media/2413170"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>The war is over, and hero Dias is finally rewarded with land of his own—only to discover it's a barren frontier with no people, no villages, and no sign of civilization. With nothing but endless grassland ahead of him, Dias sets out to build a domain from the ground up. But after meeting Alna, a mysterious girl with a blue horn, his lonely frontier is about to spring to life.<br />\n<br><br><br />\n(Source: Crunchyroll)<br><br></p>\n<p><i>Note: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama is streaming a week advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 10th, 2026.</i></p>"
-        },
-        {
           "id": 128757,
           "title": {
             "romaji": "Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai",
@@ -3309,11 +3086,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Boarding School",
+              "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Teen Cast",
+              "name": "Boarding School",
               "isMediaSpoiler": false
             },
             {
@@ -3321,11 +3098,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
-              "name": "Cute Girls Doing Cute Things",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
@@ -3333,19 +3110,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Otaku Culture",
               "isMediaSpoiler": false
             },
             {
-              "name": "Seinen",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
               "name": "Gore",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
               "isMediaSpoiler": false
             }
           ],
@@ -3499,8 +3276,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182616-kmIqMEUsLYrO.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789741800,
-            "episode": 10
+            "airingAt": 1790346600,
+            "episode": 11
           },
           "isAdult": false,
           "genres": [
@@ -4310,6 +4087,10 @@
             {
               "name": "Nekomimi",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Succubus",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 56,
@@ -4867,8 +4648,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188525-Vnei12N4wZsM.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789741800,
-            "episode": 11
+            "airingAt": 1790346600,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -5235,8 +5016,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1789743600,
-            "episode": 12
+            "airingAt": 1790348400,
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -5869,7 +5650,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 51,
+          "averageScore": 52,
           "studios": {
             "nodes": [
               {
@@ -6234,6 +6015,180 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>As the illegitimate daughter of a count and his maid, Katrina was born into miserable circumstances. And now that she's lost her mother, the treatment from her stepsister and stepmother the countess has only grown worse. One day, her stepsister receives a royal order to move to the northern outskirts due to her unseemly behavior at a recent party. There, she is to learn proper conduct under the tutelage of the resident prince, rumored to be a cruel man. Not wanting to subject her daughter to such punishment, the countess decides to send Katrina instead. Katrina arrives in the north shaking in fear. But contrary to the stories, the &quot;merciless and cold-hearted&quot; prince is kinder than she believed. Might the pure-hearted Katrina find love in the wintry countryside?<br />\n<br><br><br />\n(Source: MangaPlaza)</p>"
+        },
+        {
+          "id": 213666,
+          "title": {
+            "romaji": "Perfect Addiction",
+            "english": "Perfect Addiction",
+            "native": "パーフェクトアディクション"
+          },
+          "synonyms": [
+            "อ้อนรักหนุ่มหน้าหวาน"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 8
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213666-nnKcumRblZi1.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213666-nnKcumRblZi1.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213666-XoIwKhm3pXZR.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1790168400,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Boys' Love",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "College",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Flash",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 54,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Imagica Infos"
+              },
+              {
+                "name": "Imageworks Studio"
+              }
+            ]
+          },
+          "description": "<p>Akihito is a college student obsessed with looks and sex, but he can't stand the handsome-yet-aloof Sae. Things come to a head when Akihito is shot down at a singles mixer by a girl who's set her romantic sights on Sae. Furious, he follows Sae to the hotel district where he learns Sae's secret: he's gay, and a bottom. Sae confesses he's been having trouble feeling pleasure from sex. Breaking through Sae's mental barriers is exactly the lovemaking challenge Akihito needed. It awakens something in them both. Will they ever be able to control themselves again?<br><br><br />\n(Source: Seven Seas Entertainment)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://animationid.com/perfectaddiction/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/BALOON_project"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@balloonpj"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/@BALLOON.project"
+            },
+            {
+              "site": "OceanVeil",
+              "url": "https://oceanveil.net/anime_titles/"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Akihito is a college student obsessed with looks and sex, but he can't stand the handsome-yet-aloof Sae. Things come to a head when Akihito is shot down at a singles mixer by a girl who's set her romantic sights on Sae. Furious, he follows Sae to the hotel district where he learns Sae's secret: he's gay, and a bottom. Sae confesses he's been having trouble feeling pleasure from sex. Breaking through Sae's mental barriers is exactly the lovemaking challenge Akihito needed. It awakens something in them both. Will they ever be able to control themselves again?<br><br><br />\n(Source: Seven Seas Entertainment)</p>"
+        },
+        {
+          "id": 195833,
+          "title": {
+            "romaji": "Honoo no Toukyuujyo Dodge Danko",
+            "english": "Flaming Dodgeball Girl Danko",
+            "native": "炎の闘球女 ドッジ弾子"
+          },
+          "synonyms": [
+            "Hono no Tokyujo: Dodge Danko",
+            "Dodgeball Girl Danko"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 6
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195833-h7x6i3NQWROA.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195833-h7x6i3NQWROA.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195833-DlR4ToMXP3if.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1789999200,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Sports"
+          ],
+          "tags": [
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Chibi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 58,
+          "studios": {
+            "nodes": [
+              {
+                "name": "CUE"
+              }
+            ]
+          },
+          "description": "<p>The sequel to the legendary dodgeball manga <i>Honou no Toukyuuji Dodge Danpei</i>! In this modern version of the hot-blooded dodgeball story, Danpei's daughter, Danko, follows in his footsteps, struggling to build a dodgeball team with the strongest fighting spirit in the modern age of 2025! Can Danko overcome the apathetic attitude of today's world?<br />\n<BR><BR><br />\n(Source: Corocoro, translated)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://dodge-danko.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/dodge_danko"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>The sequel to the legendary dodgeball manga <i>Honou no Toukyuuji Dodge Danpei</i>! In this modern version of the hot-blooded dodgeball story, Danpei's daughter, Danko, follows in his footsteps, struggling to build a dodgeball team with the strongest fighting spirit in the modern age of 2025! Can Danko overcome the apathetic attitude of today's world?<br />\n<BR><BR><br />\n(Source: Corocoro, translated)</p>"
         }
       ]
     }
