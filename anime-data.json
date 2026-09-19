@@ -97,16 +97,8 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Elf",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Alternate Universe",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Delinquents",
-              "isMediaSpoiler": false
             },
             {
               "name": "Revenge",
@@ -118,6 +110,10 @@
             },
             {
               "name": "Disability",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Elf",
               "isMediaSpoiler": false
             },
             {
@@ -142,6 +138,10 @@
             },
             {
               "name": "Politics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Delinquents",
               "isMediaSpoiler": false
             },
             {
@@ -275,11 +275,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Episodic",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Episodic",
               "isMediaSpoiler": false
             },
             {
@@ -287,11 +287,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Office",
+              "name": "Urban",
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban",
+              "name": "Office",
               "isMediaSpoiler": false
             }
           ],
@@ -790,143 +790,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Yani is a catgirl with a seriously bad smoking habit. She smokes so much that her apartment smells like ash and is littered with cigarette butts—and plenty of other trash! Every time she tries to quit, she becomes weak to the cravings and gives in almost instantly. Will she ever get her life together, or is she doomed to live as a chainsmoking slob forever?<br />\n<BR><BR><br />\n(Source: Seven Seas Entertainment)</p>"
-        },
-        {
-          "id": 187538,
-          "title": {
-            "romaji": "BLACK TORCH",
-            "english": "BLACK TORCH",
-            "native": "BLACK TORCH"
-          },
-          "synonyms": [
-            "ブラックトーチ",
-            "Tocha Negra"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187538-fXVXKYUA3VV6.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187538-fXVXKYUA3VV6.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187538-287evzCezNl0.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1789822800,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy",
-            "Sci-Fi",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Youkai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Espionage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ninja",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Animals",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Martial Arts",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Police",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 70,
-          "studios": {
-            "nodes": [
-              {
-                "name": "100studio"
-              }
-            ]
-          },
-          "description": "<p>Jirou Azuma is no average high schooler. A descendant of ninjas and trained in the ancient warrior art of the shinobi, Jirou is also able to talk with animals. After a mysterious encounter with an injured cat named Ragou, Jirou discovers the feline is actually the legendary Black Star of Doom! Joined by the Bureau of Espionage, they fight off swarms of mononoke lying in wait to exploit Ragou’s powers.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/BlackTorch_EN"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://blacktorch-anime.com"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/BlackTorchAnime"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/blacktorchanime/"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/blacktorch_en/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00377907/black-torch"
-            },
-            {
-              "site": "Facebook",
-              "url": "https://www.facebook.com/BlackTorchEN"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://blacktorch-anime.com/en/"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/am6qsz178h"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3mx2NrmJSwHk-VtvhmGnZz"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Jirou Azuma is no average high schooler. A descendant of ninjas and trained in the ancient warrior art of the shinobi, Jirou is also able to talk with animals. After a mysterious encounter with an injured cat named Ragou, Jirou discovers the feline is actually the legendary Black Star of Doom! Joined by the Bureau of Espionage, they fight off swarms of mononoke lying in wait to exploit Ragou’s powers.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
           "id": 180136,
@@ -2841,6 +2704,10 @@
             {
               "name": "Nudity",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 79,
@@ -5139,8 +5006,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196017-qB1xhp5PO10x.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789830000,
-            "episode": 12
+            "airingAt": 1790434800,
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -5452,109 +5319,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Magical Girls - they're strong, cool and agile. Everyone wants to be one. Popular and high-paying, it's a respectable line of work. Kana Sakuragi, Hitomi Koshigaya, and the members of Magilumiere work to promote the Alice System, which allows Magical Girls to order the magic they need to battle. But behind the scenes, factions seeking to ease magic regulations and make a profit are moving...<br />\n<br><br><br />\n(Source: Prime Video)</p>"
-        },
-        {
-          "id": 206249,
-          "title": {
-            "romaji": "Iwamoto-senpai no Suisen",
-            "english": "Recommendations from Iwamoto-Senpai",
-            "native": "岩元先輩ノ推薦"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206249-1AUSry416wGz.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206249-1AUSry416wGz.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206249-gKJUJDCbMjDT.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1789824600,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Male Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Military",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Witch",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Boys' Love",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 52,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Studio DEEN"
-              }
-            ]
-          },
-          "description": "<p>The year 1910. Iwamoto Kodou is a young boy who has successfully carried out many curious missions under the military's directive. His destinations lead to encounters with the strange, weaving tales of history that have yet to be told.</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://iwamoto-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/nura_gumi"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378096/recommendations-from-iwamoto-senpai"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/recommendations-from-iwamoto-senpai-2026-1qxzw6rnxe5"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>The year 1910. Iwamoto Kodou is a young boy who has successfully carried out many curious missions under the military's directive. His destinations lead to encounters with the strange, weaving tales of history that have yet to be told.</p>"
         },
         {
           "id": 200230,
@@ -6185,6 +5949,149 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Three ordinary schoolboys come into possession of a DVD that supposedly opens a gateway to a parallel universe, but when their backs are turned Pyontaro's little sister Futaba passes through and gets kidnapped by the aliens that have overrun that version of Earth! Discovering that their cartoonish bodies make them supermen in the hyper-realistic parallel universe, the boys set out to rescue Futaba.<br />\n<br><br><br />\n(Source: Kodansha USA)</p>"
+        },
+        {
+          "id": 209800,
+          "title": {
+            "romaji": "Yoroi Shinden Samurai Troopers Part 2",
+            "english": "Yoroi-Shinden Samurai Troopers Cour 2",
+            "native": "鎧真伝サムライトルーパー 第2クール"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 7
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209800-v3TIdNz1AV0X.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209800-v3TIdNz1AV0X.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1790087400,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "tags": [
+            {
+              "name": "Tokusatsu",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 51,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Sunrise"
+              }
+            ]
+          },
+          "description": "<p>When the seal of the Demon Realm shatters, demon soldiers surge into the Human World, tearing through everything in their path. Five young warriors rise to meet the invasion, summoning their legendary armor and charging headfirst into battle. With every clash, they cut through the invading demon hordes, unleashing their power to drive the invasion back. They are…the Samurai Troopers!<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/samuraitroo_pr"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://www.samurai-trooper.net/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00367517/yoroi-shinden-samurai-troopers"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>When the seal of the Demon Realm shatters, demon soldiers surge into the Human World, tearing through everything in their path. Five young warriors rise to meet the invasion, summoning their legendary armor and charging headfirst into battle. With every clash, they cut through the invading demon hordes, unleashing their power to drive the invasion back. They are…the Samurai Troopers!<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
+        },
+        {
+          "id": 213961,
+          "title": {
+            "romaji": "Youjo Shenki 2",
+            "english": null,
+            "native": "ようじょしぇんき2"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 9
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213961-x2ZvvtkYSTC9.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213961-x2ZvvtkYSTC9.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1790175600,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Chibi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Parody",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Military",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Foreign",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gender Bending",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Revenge",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 53,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Studio PuYUKAI"
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Youjo Shenki</i>.<br><br></p>\n<p>Chibi parody of Youjo Senki.</p>",
+          "externalLinks": [
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/watch?v=3yILla1h1pM&pp=0gcJCU8LAYcqIYzv"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/youjosenki"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PL3ongWuaWwZOhZ01JNOOj-x-S6xqkLwnV"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>The second season of <i>Youjo Shenki</i>.<br><br></p>\n<p>Chibi parody of Youjo Senki.</p>"
         }
       ]
     }
