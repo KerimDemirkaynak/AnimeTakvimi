@@ -163,6 +163,10 @@
             {
               "name": "Snowscape",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 84,
@@ -649,11 +653,11 @@
           ],
           "tags": [
             {
-              "name": "Drugs",
+              "name": "Surreal Comedy",
               "isMediaSpoiler": false
             },
             {
-              "name": "Surreal Comedy",
+              "name": "Drugs",
               "isMediaSpoiler": false
             },
             {
@@ -701,15 +705,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Satire",
               "isMediaSpoiler": false
             },
             {
               "name": "Survival",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
@@ -721,11 +725,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Centaur",
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
-              "name": "Cute Girls Doing Cute Things",
+              "name": "Centaur",
               "isMediaSpoiler": false
             },
             {
@@ -1948,129 +1952,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Beryl Gardenant, a swordmaster from the countryside, is settling into his new life as a special instructor for the Royal Order of Knights and the guardian of an orphan. A peaceful life is not in the cards, however, and Beryl is confronted with new obstacles. At the magic institute, in his hometown, at the kingdom's border, away in a foreign land... It's time for Beryl to face new battles.<br />\n<br><br><br />\n(Source: Prime Video)</p>"
-        },
-        {
-          "id": 201514,
-          "title": {
-            "romaji": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
-            "english": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
-            "native": "才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様(生活能力皆無)を陰ながらお世話することになりました"
-          },
-          "synonyms": [
-            "Das (fast) perfekte Fräulein und sein Butler",
-            "才女的侍從 在滿是高嶺之花的貴族學校暗中照顧（毫無生活自理能力的）學院第一大小姐",
-            "ผู้ดูแลเด็กสาว"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201514-BHAeWhSbcBrT.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201514-BHAeWhSbcBrT.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201514-8dAOB0Xw124G.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1789839480,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ojou-sama",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kuudere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Butler",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Arranged Marriage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Chibi",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Maids",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yakuza",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Estranged Family",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 69,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Brain's Base"
-              }
-            ]
-          },
-          "description": "<p>Hinako Konohana is the perfect young lady—graceful, elegant, and flawless… or so everyone thinks. Behind closed doors, she’s a total disaster who can’t handle basic chores! When ordinary student Itsuki Tomonari becomes her caretaker, he’s thrown into 24/7 damage control, maintaining her “perfect” image. It’s awkward, nonstop chaos—but it starts softening into something that feels like love…<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://saijonoosewa-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/saijonoosewa_pr"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378102/rich-girl-caretaker-im-secretly-the-caregiver-of-the-most-popular-girl-in-this-rich-kid-school"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2414293"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Hinako Konohana is the perfect young lady—graceful, elegant, and flawless… or so everyone thinks. Behind closed doors, she’s a total disaster who can’t handle basic chores! When ordinary student Itsuki Tomonari becomes her caretaker, he’s thrown into 24/7 damage control, maintaining her “perfect” image. It’s awkward, nonstop chaos—but it starts softening into something that feels like love…<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
           "id": 188139,
@@ -3379,8 +3260,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199066-nmAYnI6uChse.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789837200,
-            "episode": 11
+            "airingAt": 1790442000,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -3414,11 +3295,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Isekai",
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban Fantasy",
+              "name": "Love Triangle",
               "isMediaSpoiler": true
             },
             {
@@ -3620,105 +3505,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Elizabeth Leiston, daughter of the influential prime minister, is a picture-perfect lady on the path to becoming the future queen of the Kingdom of Haldoria. But her life takes a sudden turn for the worst when her fiancé makes a show of publicly calling off their engagement. Soon after, he throws her in jail and starts spreading nasty rumors about her. The encouragement Elizabeth receives from her loyal waiting maid, Mireille, and her inner fury are all she needs to reconsider her goals. Why should she continue devoting herself to a country that doesn’t respect her when she can trample over it instead? She will get even with those who wronged her and bring down the damned kingdom, even if it’s the last thing she does! Luckily, Elizabeth is no damsel in distress and has seven powerful magic grimoires she won’t hesitate to use. Get ready because this ruthless lady is out for blood!<br />\n<br><br><br />\n(Source: J-Novel Club)</p>"
-        },
-        {
-          "id": 194219,
-          "title": {
-            "romaji": "Oni no Hanayome",
-            "english": "The Ogre's Bride",
-            "native": "鬼の花嫁"
-          },
-          "synonyms": [
-            "OniHana",
-            "เจ้าสาวแห่งโชคชะตากับคุณชายยักษ์แห่งอายาคาชิ"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b194219-56EhyK775lga.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b194219-56EhyK775lga.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194219-t8ID9kSIpXxf.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1789831800,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Shoujo",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Youkai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Fairy Tale",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Arranged Marriage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Boys' Love",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 68,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Colored Pencil Animation Japan"
-              }
-            ]
-          },
-          "description": "<p>A Japanese-style ayakashi Cinderella story! <i>&quot;You're the bride I've been searching for all this time.&quot;</i> The ayakashi and humans coexist in harmony. The ayakashi, having superior abilities and beautiful appearances, sometimes find their partner among human women, making them their &quot;bride&quot;. The bride, in exchange for bringing prosperity, receives absolute love from the ayakashi. Yuzu is constantly compared to her sister, a bride of a demon fox, and is resented by her family every day. One day, when Yuzu just couldn't take things anymore, a man appears before her on a bridge. This man is the most beautiful man Yuzu has ever seen... and he's calling her his wife?! <i>&quot;Just be quiet and let me hold you.&quot;</i> The most powerful, &quot;cold-hearted&quot; ayakashi is pouring his heart out for Yuzu?!<br><br><br />\n(Source: MangaPlaza)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/onihana_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://onihana-anime.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378121/the-ogres-bride"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>A Japanese-style ayakashi Cinderella story! <i>&quot;You're the bride I've been searching for all this time.&quot;</i> The ayakashi and humans coexist in harmony. The ayakashi, having superior abilities and beautiful appearances, sometimes find their partner among human women, making them their &quot;bride&quot;. The bride, in exchange for bringing prosperity, receives absolute love from the ayakashi. Yuzu is constantly compared to her sister, a bride of a demon fox, and is resented by her family every day. One day, when Yuzu just couldn't take things anymore, a man appears before her on a bridge. This man is the most beautiful man Yuzu has ever seen... and he's calling her his wife?! <i>&quot;Just be quiet and let me hold you.&quot;</i> The most powerful, &quot;cold-hearted&quot; ayakashi is pouring his heart out for Yuzu?!<br><br><br />\n(Source: MangaPlaza)</p>"
         },
         {
           "id": 206521,
@@ -4080,12 +3866,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Yuri",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
             },
             {
               "name": "LGBTQ+ Themes",
@@ -4264,111 +4050,6 @@
           "descriptionTr": "<p>Miya is the illegitimate child of a prominent family. When her mother dies and her father’s estate agrees to take her in, she’s convinced she knows what awaits her in her new home: a life of servitude and misery at the hands of her wicked stepmother and stepsisters. Yet when she finally meets the women she expects to treat her like dirt, they actually end up being…sweet?! A hilarious and heartfelt comedy that’s sure to put a smile on your face!<br />\n<br><br><br />\n(Source: Seven Seas Entertainment)</p>"
         },
         {
-          "id": 208225,
-          "title": {
-            "romaji": "\"Kimi wo Aisuru Ki wa nai\" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu",
-            "english": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
-            "native": "「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます"
-          },
-          "synonyms": [
-            "きみ愛",
-            "KimiAi"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208225-HJbCC0Z4xRp3.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208225-HJbCC0Z4xRp3.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1789835400,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shoujo",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Marriage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Arranged Marriage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ojou-sama",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 65,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Zero-G"
-              },
-              {
-                "name": "Grass"
-              }
-            ]
-          },
-          "description": "<p>Elsa, the daughter of a fallen aristocrat, receives news. It was a marriage proposal from Julius, a very elite nobleman. Elsa is wondering,&quot; Why would such a distinguished man marry me&quot;? But after the wedding, Julius, who had been kind and gentle up to that point, changed completely! In a cold voice, he tells her,&quot; I have no intention of loving you&quot;.<br />\n<br><br><br />\n(Source: MangaPlaza)</p>",
-          "externalLinks": [
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@kimiai_official"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/kimiai_official"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kimiai-anime.com/"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/kimiai_official/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378118/the-dukes-son-claims-he-wont-love-me-but-showers-me-with-adoration"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Elsa, the daughter of a fallen aristocrat, receives news. It was a marriage proposal from Julius, a very elite nobleman. Elsa is wondering,&quot; Why would such a distinguished man marry me&quot;? But after the wedding, Julius, who had been kind and gentle up to that point, changed completely! In a cold voice, he tells her,&quot; I have no intention of loving you&quot;.<br />\n<br><br><br />\n(Source: MangaPlaza)</p>"
-        },
-        {
           "id": 188525,
           "title": {
             "romaji": "Kore Kaite Shine",
@@ -4409,15 +4090,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Otaku Culture",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Drawing",
               "isMediaSpoiler": false
             },
             {
+              "name": "Otaku Culture",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Teacher",
               "isMediaSpoiler": false
             },
             {
@@ -4837,154 +4522,6 @@
           "descriptionTr": "<p>The manga centers on high school student Ito Hazui. During her spring break at the end of her first year of high school, Ito's mother remarries, and Ito moves to live with her new family, becoming Ito Narita. Upon arriving at her new house, Ito is shocked to learn she now has four younger step-brothers. Ito tries her hardest to get along with all of the new members of her family, but the eldest brother Gen is a bit cold to her. However, under his aloof facade, he occasionally shows his kindness.<br />\n<BR><BR><br />\n(Source: Anime News Network)</p>"
         },
         {
-          "id": 185875,
-          "title": {
-            "romaji": "Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
-            "english": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
-            "native": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance"
-          },
-          "synonyms": [
-            "NANOHA EXGV"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185875-XMvDVlIUZODx.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185875-XMvDVlIUZODx.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185875-kHVsTIJKPVRJ.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1789833600,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Drama",
-            "Mahou Shoujo",
-            "Sci-Fi"
-          ],
-          "tags": [
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Henshin",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Post-Apocalyptic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Drugs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Guns",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Found Family",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Military",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Spearplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cannibalism",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coastal",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Work",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 63,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Seven Arcs"
-              }
-            ]
-          },
-          "description": "<p>Thirty years ago, the world was nearly destroyed by the sudden appearance of unknown &quot;invasive alien species.&quot;<br />\n<br><br><br />\nHumans and these “invasive species” continue to vie for living space, and while humanity’s safety is currently barely secured, the world could be destroyed at any moment. Living in fear of death and destruction, people go about their daily lives as if trying to avert their eyes from danger and disaster.<br />\n<br><br><br />\nIn this world, the United Nations Hazardous Species Investigation Agency, &quot;EXCEEDS,&quot; has begun operations to ward off crises and disasters caused by invasive species.<br />\n<br><br><br />\nThe story begins on the island nation of &quot;Mizuho&quot; in the Far East. Shina Hisase is a young invasive species extermination hunter living on a remote island. What incident will befall Shina, who wishes only to live quietly with her younger sister Setsuna, her sole remaining family member?<br />\n<br><br><br />\n<i>Note: The first episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/exgv_official"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://nanoha.com/EXGV/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378090/magical-girl-lyrical-nanoha-exceeds-gun-blaze-vengeance"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Thirty years ago, the world was nearly destroyed by the sudden appearance of unknown &quot;invasive alien species.&quot;<br />\n<br><br><br />\nHumans and these “invasive species” continue to vie for living space, and while humanity’s safety is currently barely secured, the world could be destroyed at any moment. Living in fear of death and destruction, people go about their daily lives as if trying to avert their eyes from danger and disaster.<br />\n<br><br><br />\nIn this world, the United Nations Hazardous Species Investigation Agency, &quot;EXCEEDS,&quot; has begun operations to ward off crises and disasters caused by invasive species.<br />\n<br><br><br />\nThe story begins on the island nation of &quot;Mizuho&quot; in the Far East. Shina Hisase is a young invasive species extermination hunter living on a remote island. What incident will befall Shina, who wishes only to live quietly with her younger sister Setsuna, her sole remaining family member?<br />\n<br><br><br />\n<i>Note: The first episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.</i></p>"
-        },
-        {
           "id": 196017,
           "title": {
             "romaji": "Grow Up Show: Himawari no Circus-dan",
@@ -5041,11 +4578,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Orphan",
+              "name": "Found Family",
               "isMediaSpoiler": false
             },
             {
-              "name": "Found Family",
+              "name": "Orphan",
               "isMediaSpoiler": false
             },
             {
@@ -5222,8 +4759,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185692-FLmhWYEAA7IY.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1789833300,
-            "episode": 11
+            "airingAt": 1790438100,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -6092,6 +5629,252 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>The second season of <i>Youjo Shenki</i>.<br><br></p>\n<p>Chibi parody of Youjo Senki.</p>"
+        },
+        {
+          "id": 212617,
+          "title": {
+            "romaji": "Inaka ni wa Kore Kurai Shika Goraku ga nai",
+            "english": null,
+            "native": "田舎にはこれくらいしか娯楽がない"
+          },
+          "synonyms": [
+            "Not Much Else to Do in the Countryside"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 31
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212617-hHf09tkVkiGz.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212617-hHf09tkVkiGz.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": null,
+          "isAdult": true,
+          "genres": [
+            "Hentai"
+          ],
+          "tags": [
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Teacher",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Large Breasts",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Threesome",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nakadashi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Defloration",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Bisexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Boobjob",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 65,
+          "studios": {
+            "nodes": [
+              {
+                "name": "T-REX"
+              }
+            ]
+          },
+          "description": "<p>A teacher who, after failing at job hunting, turned to relatives in the countryside and now works as a private tutor. His student, Saya, presents herself as a respectable, demure young woman in public, but... ? When it comes to private lessons with her tutor, she can’t contain her carnal desires, making him undo her underwear and begging for his reward... He teaches her every inch of sexual pleasure, feeding her lust-filled body to the brim! Tonight, too, her moans echo through the room...!<br />\n<br><br><br />\n(Source: Lune-soft, translated)</p>",
+          "externalLinks": [],
+          "isMyList": false,
+          "descriptionTr": "<p>A teacher who, after failing at job hunting, turned to relatives in the countryside and now works as a private tutor. His student, Saya, presents herself as a respectable, demure young woman in public, but... ? When it comes to private lessons with her tutor, she can’t contain her carnal desires, making him undo her underwear and begging for his reward... He teaches her every inch of sexual pleasure, feeding her lust-filled body to the brim! Tonight, too, her moans echo through the room...!<br />\n<br><br><br />\n(Source: Lune-soft, translated)</p>"
+        },
+        {
+          "id": 214703,
+          "title": {
+            "romaji": "Ghost Meets Gal!",
+            "english": null,
+            "native": "ごーすと・みーつ・ぎゃる！"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 9,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214703-iXoaVH6UkiZd.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214703-iXoaVH6UkiZd.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1790377200,
+            "episode": 4
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Gyaru",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Idol",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ghost",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "AtoriE"
+              }
+            ]
+          },
+          "description": "",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/cfvanguard_PR"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://cf-vanguard.com/anime-ghost_meets_gal/"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLMeyOW8qY3fA"
+            }
+          ],
+          "isMyList": false
+        },
+        {
+          "id": 212272,
+          "title": {
+            "romaji": "Deco x Deco THE ANIMATION",
+            "english": null,
+            "native": "デコ×デコ THE ANIMATION"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 31
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212272-VcnUqLIAarAD.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212272-VcnUqLIAarAD.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": null,
+          "isAdult": true,
+          "genres": [
+            "Comedy",
+            "Hentai",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Pet Play",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 63,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Seven"
+              }
+            ]
+          },
+          "description": "<p><b>Episode 1</b> - <i>Wanshot Underpuppy</i><br><br />\nYuna, a slutty landmine who preys on virgins, is looking for an exclusive photographer on Insta. One day, just when she thought another creepy otaku was going to show up as usual, a total hottie appeared instead…!? So desperate to have sex with him, Yuna can’t help but beg for his cock, wiggling her hips back and forth…<br />\n<br><br><br />\n<b>Episode 2</b> - <i>Yes My Kitty</i><br><br />\nMiyo is stunningly beautiful and the center of everyone’s attention. Only her childhood friend and boyfriend, Atsuki, knew her true self!! And just like always, the two of them start a challenge where the winner gets to give the loser a sexy command! Game → Relentless breast play → Game → Teasing titfuck. How will their fast-paced showdown play out!?<br />\n<br><br><br />\n(Source: PinkPineapple, transtaled)</p>",
+          "externalLinks": [],
+          "isMyList": false,
+          "descriptionTr": "<p><b>Episode 1</b> - <i>Wanshot Underpuppy</i><br><br />\nYuna, a slutty landmine who preys on virgins, is looking for an exclusive photographer on Insta. One day, just when she thought another creepy otaku was going to show up as usual, a total hottie appeared instead…!? So desperate to have sex with him, Yuna can’t help but beg for his cock, wiggling her hips back and forth…<br />\n<br><br><br />\n<b>Episode 2</b> - <i>Yes My Kitty</i><br><br />\nMiyo is stunningly beautiful and the center of everyone’s attention. Only her childhood friend and boyfriend, Atsuki, knew her true self!! And just like always, the two of them start a challenge where the winner gets to give the loser a sexy command! Game → Relentless breast play → Game → Teasing titfuck. How will their fast-paced showdown play out!?<br />\n<br><br><br />\n(Source: PinkPineapple, transtaled)</p>"
+        },
+        {
+          "id": 211338,
+          "title": {
+            "romaji": "Harem-tou e Youkoso!",
+            "english": null,
+            "native": "ハーレム島へようこそ！"
+          },
+          "synonyms": [
+            "Welcome to Paradise Island!",
+            "Harem Shima e Youkoso!"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 31
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211338-If49uIjNKPgt.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211338-If49uIjNKPgt.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1793286000,
+            "episode": 2
+          },
+          "isAdult": true,
+          "genres": [
+            "Hentai"
+          ],
+          "tags": [
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 50,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Collaboration Works petit"
+              }
+            ]
+          },
+          "description": "<p>Based on the erotic game by Resta.<br />\n<br><br><br />\nIt's summer. You and your friends are on vacation, when suddenly the sea carries your boat away to an unknown island in another world. This island—Paradisiem Island—is small, with one village. According to the village chief, the island's Guardian Deity foresaw the arrival of you and your friends, and they want you to help the island return to its former glory. Without more tourists, there aren't enough people to worship the Guardian Deity, whose powers you need to return to your home world. Work together with your friends, Sahoto, Mei, and Chiyo, as well as some new friends you make on the island, to help it grow and prosper into a popular tourist destination!<br />\n<br><br><br />\n(Source: Steam)</p>",
+          "externalLinks": [],
+          "isMyList": false,
+          "descriptionTr": "<p>Based on the erotic game by Resta.<br />\n<br><br><br />\nIt's summer. You and your friends are on vacation, when suddenly the sea carries your boat away to an unknown island in another world. This island—Paradisiem Island—is small, with one village. According to the village chief, the island's Guardian Deity foresaw the arrival of you and your friends, and they want you to help the island return to its former glory. Without more tourists, there aren't enough people to worship the Guardian Deity, whose powers you need to return to your home world. Work together with your friends, Sahoto, Mei, and Chiyo, as well as some new friends you make on the island, to help it grow and prosper into a popular tourist destination!<br />\n<br><br><br />\n(Source: Steam)</p>"
         }
       ]
     }
