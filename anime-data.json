@@ -65,12 +65,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Family Life",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Time Loop",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Family Life",
+              "isMediaSpoiler": false
             },
             {
               "name": "Medieval",
@@ -1218,8 +1218,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187260-HMkLPy3ZvzW1.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1790080200,
-            "episode": 12
+            "airingAt": 1790685000,
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -1805,122 +1805,6 @@
           "descriptionTr": "<p>The second season of <i>Hell Mode</i>.</p>"
         },
         {
-          "id": 128757,
-          "title": {
-            "romaji": "Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai",
-            "english": "Young Ladies Don't Play Fighting Games",
-            "native": "対ありでした。 ～お嬢さまは格闘ゲームなんてしない～"
-          },
-          "synonyms": [
-            "GGWP.: Young Ladies Don't Play Fighting Games"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 7
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128757-Iqc6hTjEYIz4.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128757-Iqc6hTjEYIz4.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/128757-kBnCRYXdyw58.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1790076600,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama"
-          ],
-          "tags": [
-            {
-              "name": "Video Games",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "E-Sports",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Advertisement",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Boarding School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ojou-sama",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cute Girls Doing Cute Things",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Otaku Culture",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 74,
-          "studios": {
-            "nodes": [
-              {
-                "name": "diomedéa"
-              }
-            ]
-          },
-          "description": "<p>Mitsuki Aya has one goal at the elite Kuromi Girls’ Academy: to become a refined young lady like the school’s flawless “White Lily,” Yorue Mio. But her image of Mio shatters when Aya accidentally catches her...playing fighting games?! Turns out, the elegant Mio is actually a hardcore gamer—and she wants to duel Aya! The battle (and their friendship) begins.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://taiari-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/taiari_anime"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00362362/young-ladies-dont-play-fighting-games"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Mitsuki Aya has one goal at the elite Kuromi Girls’ Academy: to become a refined young lady like the school’s flawless “White Lily,” Yorue Mio. But her image of Mio shatters when Aya accidentally catches her...playing fighting games?! Turns out, the elegant Mio is actually a hardcore gamer—and she wants to duel Aya! The battle (and their friendship) begins.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
-        },
-        {
           "id": 182616,
           "title": {
             "romaji": "Nige Jouzu no Wakagimi 2nd Season",
@@ -2168,6 +2052,10 @@
             },
             {
               "name": "Tragedy",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Villainess",
               "isMediaSpoiler": true
             }
           ],
@@ -2723,7 +2611,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 62,
+          "averageScore": 61,
           "studios": {
             "nodes": [
               {
@@ -3371,10 +3259,7 @@
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213665-E6byznDKrKY0.png"
           },
           "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1790081700,
-            "episode": 12
-          },
+          "nextAiringEpisode": null,
           "isAdult": false,
           "genres": [
             "Fantasy",
@@ -3650,66 +3535,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Three ordinary schoolboys come into possession of a DVD that supposedly opens a gateway to a parallel universe, but when their backs are turned Pyontaro's little sister Futaba passes through and gets kidnapped by the aliens that have overrun that version of Earth! Discovering that their cartoonish bodies make them supermen in the hyper-realistic parallel universe, the boys set out to rescue Futaba.<br />\n<br><br><br />\n(Source: Kodansha USA)</p>"
-        },
-        {
-          "id": 209800,
-          "title": {
-            "romaji": "Yoroi Shinden Samurai Troopers Part 2",
-            "english": "Yoroi-Shinden Samurai Troopers Cour 2",
-            "native": "鎧真伝サムライトルーパー 第2クール"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 7
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209800-v3TIdNz1AV0X.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209800-v3TIdNz1AV0X.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1790087400,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-          ],
-          "tags": [
-            {
-              "name": "Tokusatsu",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 51,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Sunrise"
-              }
-            ]
-          },
-          "description": "<p>When the seal of the Demon Realm shatters, demon soldiers surge into the Human World, tearing through everything in their path. Five young warriors rise to meet the invasion, summoning their legendary armor and charging headfirst into battle. With every clash, they cut through the invading demon hordes, unleashing their power to drive the invasion back. They are…the Samurai Troopers!<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/samuraitroo_pr"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://www.samurai-trooper.net/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00367517/yoroi-shinden-samurai-troopers"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>When the seal of the Demon Realm shatters, demon soldiers surge into the Human World, tearing through everything in their path. Five young warriors rise to meet the invasion, summoning their legendary armor and charging headfirst into battle. With every clash, they cut through the invading demon hordes, unleashing their power to drive the invasion back. They are…the Samurai Troopers!<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
           "id": 213961,
@@ -3993,6 +3818,48 @@
           "descriptionTr": "<p><b>Episode 1</b> - <i>Wanshot Underpuppy</i><br><br />\nYuna, a slutty landmine who preys on virgins, is looking for an exclusive photographer on Insta. One day, just when she thought another creepy otaku was going to show up as usual, a total hottie appeared instead…!? So desperate to have sex with him, Yuna can’t help but beg for his cock, wiggling her hips back and forth…<br />\n<br><br><br />\n<b>Episode 2</b> - <i>Yes My Kitty</i><br><br />\nMiyo is stunningly beautiful and the center of everyone’s attention. Only her childhood friend and boyfriend, Atsuki, knew her true self!! And just like always, the two of them start a challenge where the winner gets to give the loser a sexy command! Game → Relentless breast play → Game → Teasing titfuck. How will their fast-paced showdown play out!?<br />\n<br><br><br />\n(Source: PinkPineapple, transtaled)</p>"
         },
         {
+          "id": 213733,
+          "title": {
+            "romaji": "Kanojo Saimin",
+            "english": null,
+            "native": "彼女催眠"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 8,
+            "day": 28
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213733-cZ0bFNkypDtV.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213733-cZ0bFNkypDtV.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213733-cEurdb2TrsmQ.jpg",
+          "nextAiringEpisode": null,
+          "isAdult": true,
+          "genres": [
+            "Hentai"
+          ],
+          "tags": [
+            {
+              "name": "Memory Manipulation",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 59,
+          "studios": {
+            "nodes": [
+              {
+                "name": "T-REX"
+              }
+            ]
+          },
+          "description": "<p>Koto Tenryuuji acts completely indifferent and aloof. She’s the daughter of a massive conglomerate—a true “unattainable beauty”—but with just a single hypnotic suggestion, she turns into a love-struck girlfriend! Convinced of his false affection, she starts seeking him out on her own… Even though it’s her first time, she cums over and over just from being touched! With her actively seeking him out, he savors every inch of her body all day long, leaving nothing to be desired! No matter how many times he cums inside her, no matter how many times he makes her come, she feels nothing but happiness…!?<br />\n<br><br><br />\n(Source: Lune-soft, translated)</p>",
+          "externalLinks": [],
+          "isMyList": false,
+          "descriptionTr": "<p>Koto Tenryuuji acts completely indifferent and aloof. She’s the daughter of a massive conglomerate—a true “unattainable beauty”—but with just a single hypnotic suggestion, she turns into a love-struck girlfriend! Convinced of his false affection, she starts seeking him out on her own… Even though it’s her first time, she cums over and over just from being touched! With her actively seeking him out, he savors every inch of her body all day long, leaving nothing to be desired! No matter how many times he cums inside her, no matter how many times he makes her come, she feels nothing but happiness…!?<br />\n<br><br><br />\n(Source: Lune-soft, translated)</p>"
+        },
+        {
           "id": 211338,
           "title": {
             "romaji": "Harem-tou e Youkoso!",
@@ -4039,48 +3906,6 @@
           "externalLinks": [],
           "isMyList": false,
           "descriptionTr": "<p>Based on the erotic game by Resta.<br />\n<br><br><br />\nIt's summer. You and your friends are on vacation, when suddenly the sea carries your boat away to an unknown island in another world. This island—Paradisiem Island—is small, with one village. According to the village chief, the island's Guardian Deity foresaw the arrival of you and your friends, and they want you to help the island return to its former glory. Without more tourists, there aren't enough people to worship the Guardian Deity, whose powers you need to return to your home world. Work together with your friends, Sahoto, Mei, and Chiyo, as well as some new friends you make on the island, to help it grow and prosper into a popular tourist destination!<br />\n<br><br><br />\n(Source: Steam)</p>"
-        },
-        {
-          "id": 213733,
-          "title": {
-            "romaji": "Kanojo Saimin",
-            "english": null,
-            "native": "彼女催眠"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 8,
-            "day": 28
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213733-cZ0bFNkypDtV.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213733-cZ0bFNkypDtV.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213733-cEurdb2TrsmQ.jpg",
-          "nextAiringEpisode": null,
-          "isAdult": true,
-          "genres": [
-            "Hentai"
-          ],
-          "tags": [
-            {
-              "name": "Memory Manipulation",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 59,
-          "studios": {
-            "nodes": [
-              {
-                "name": "T-REX"
-              }
-            ]
-          },
-          "description": "<p>Koto Tenryuuji acts completely indifferent and aloof. She’s the daughter of a massive conglomerate—a true “unattainable beauty”—but with just a single hypnotic suggestion, she turns into a love-struck girlfriend! Convinced of his false affection, she starts seeking him out on her own… Even though it’s her first time, she cums over and over just from being touched! With her actively seeking him out, he savors every inch of her body all day long, leaving nothing to be desired! No matter how many times he cums inside her, no matter how many times he makes her come, she feels nothing but happiness…!?<br />\n<br><br><br />\n(Source: Lune-soft, translated)</p>",
-          "externalLinks": [],
-          "isMyList": false,
-          "descriptionTr": "<p>Koto Tenryuuji acts completely indifferent and aloof. She’s the daughter of a massive conglomerate—a true “unattainable beauty”—but with just a single hypnotic suggestion, she turns into a love-struck girlfriend! Convinced of his false affection, she starts seeking him out on her own… Even though it’s her first time, she cums over and over just from being touched! With her actively seeking him out, he savors every inch of her body all day long, leaving nothing to be desired! No matter how many times he cums inside her, no matter how many times he makes her come, she feels nothing but happiness…!?<br />\n<br><br><br />\n(Source: Lune-soft, translated)</p>"
         },
         {
           "id": 213359,
@@ -4824,6 +4649,115 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Lotte's snack brand <i>Pie no Mi</i> animated series which will be released on Lotte's official YouTube channel, with one episode released each month.</p>"
+        },
+        {
+          "id": 213097,
+          "title": {
+            "romaji": "TOMICA & TOM Season 2",
+            "english": null,
+            "native": "トミカとトム シーズン2"
+          },
+          "synonyms": [
+            "Tomica to Tom 2",
+            "Tomica and Tom"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213097-gyDmsm7qyRYV.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213097-gyDmsm7qyRYV.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": null,
+          "isAdult": false,
+          "genres": [
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Primarily Animal Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cars",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kids",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anthropomorphism",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Advertisement",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Tsumupapa"
+              }
+            ]
+          },
+          "description": "<p>Second season of <i>TOMICA &amp; TOM</i>.</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://www.takaratomy.co.jp/products/license/tomica_tom/anime/"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLhWipIfRhqz2phailO5D60Vbhp3FIHqak"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Second season of <i>TOMICA &amp; TOM</i>.</p>"
+        },
+        {
+          "id": 213426,
+          "title": {
+            "romaji": "Chikyuu Daisuki! Kikkun",
+            "english": null,
+            "native": "地球大好き！きっくん"
+          },
+          "synonyms": [
+            "Earth Loving Kikkun!"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 1
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213426-6CWFD7ZbHbQJ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213426-6CWFD7ZbHbQJ.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": null,
+          "isAdult": false,
+          "genres": [
+            "Sci-Fi"
+          ],
+          "tags": [],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Kachidoki Studio"
+              }
+            ]
+          },
+          "description": "<p>The anime centers on Kikkun, an extraterrestrial life form who came from a distant planet to invade Earth. But the invasion team members assigned in Japan finds the country comfortable, and now wants to protect Japan and Earth, forgetting their original motive.<br />\n<br><br><br />\n(Source: Anime News Network)</p>",
+          "externalLinks": [],
+          "isMyList": false,
+          "descriptionTr": "<p>The anime centers on Kikkun, an extraterrestrial life form who came from a distant planet to invade Earth. But the invasion team members assigned in Japan finds the country comfortable, and now wants to protect Japan and Earth, forgetting their original motive.<br />\n<br><br><br />\n(Source: Anime News Network)</p>"
         }
       ]
     }
