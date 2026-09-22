@@ -1100,10 +1100,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Crossdressing",
               "isMediaSpoiler": false
             },
@@ -4232,6 +4228,10 @@
             },
             {
               "name": "Time Manipulation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             }
           ],
