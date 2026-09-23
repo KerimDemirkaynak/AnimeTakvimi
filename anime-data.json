@@ -2518,8 +2518,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1790094900,
-            "episode": 12
+            "airingAt": 1790699700,
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -3239,92 +3239,6 @@
           "descriptionTr": "<p>One summer in the third grade, a quiet boy named Tsubasa meets Kyotaro, a boy everyone in the class looked up to, and the two become close friends. Within their small world, they share irreplaceable moments—until a small incident suddenly tears them apart. Spanning more than thirty years, this gentle, contemplative story invites the audience to reflect on the meaning of life through the paths their lives take.<br><br></p>\n<p>(Source: NOTHING NEW)</p>"
         },
         {
-          "id": 213665,
-          "title": {
-            "romaji": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
-            "english": "Saved By the Ice Cold Prince's Embrace",
-            "native": "身代わり令嬢を救ったのは冷酷無慈悲な氷の王子の愛でした"
-          },
-          "synonyms": [
-            "Saved By the Ice Cold Prince's Embrace",
-            "คุณหนูตัวแทนผู้ถูกช่วยไว้ด้วยรักของเจ้าชายน้ำแข็งผู้ไร้ความปราณี"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 7
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213665-E6byznDKrKY0.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213665-E6byznDKrKY0.png"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": null,
-          "isAdult": false,
-          "genres": [
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shoujo",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Arranged Marriage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Flash",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 50,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Imageworks Studio"
-              },
-              {
-                "name": "Imagica Infos"
-              }
-            ]
-          },
-          "description": "<p>As the illegitimate daughter of a count and his maid, Katrina was born into miserable circumstances. And now that she's lost her mother, the treatment from her stepsister and stepmother the countess has only grown worse. One day, her stepsister receives a royal order to move to the northern outskirts due to her unseemly behavior at a recent party. There, she is to learn proper conduct under the tutelage of the resident prince, rumored to be a cruel man. Not wanting to subject her daughter to such punishment, the countess decides to send Katrina instead. Katrina arrives in the north shaking in fear. But contrary to the stories, the &quot;merciless and cold-hearted&quot; prince is kinder than she believed. Might the pure-hearted Katrina find love in the wintry countryside?<br />\n<br><br><br />\n(Source: MangaPlaza)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://animationid.com/migawari/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/migawari_offcl"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLf6uu4mFo2tQ"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>As the illegitimate daughter of a count and his maid, Katrina was born into miserable circumstances. And now that she's lost her mother, the treatment from her stepsister and stepmother the countess has only grown worse. One day, her stepsister receives a royal order to move to the northern outskirts due to her unseemly behavior at a recent party. There, she is to learn proper conduct under the tutelage of the resident prince, rumored to be a cruel man. Not wanting to subject her daughter to such punishment, the countess decides to send Katrina instead. Katrina arrives in the north shaking in fear. But contrary to the stories, the &quot;merciless and cold-hearted&quot; prince is kinder than she believed. Might the pure-hearted Katrina find love in the wintry countryside?<br />\n<br><br><br />\n(Source: MangaPlaza)</p>"
-        },
-        {
           "id": 213666,
           "title": {
             "romaji": "Perfect Addiction",
@@ -3652,15 +3566,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Idol",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Ghost",
               "isMediaSpoiler": false
             },
             {
               "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Idol",
               "isMediaSpoiler": false
             }
           ],
@@ -4758,6 +4672,63 @@
           "externalLinks": [],
           "isMyList": false,
           "descriptionTr": "<p>The anime centers on Kikkun, an extraterrestrial life form who came from a distant planet to invade Earth. But the invasion team members assigned in Japan finds the country comfortable, and now wants to protect Japan and Earth, forgetting their original motive.<br />\n<br><br><br />\n(Source: Anime News Network)</p>"
+        },
+        {
+          "id": 216643,
+          "title": {
+            "romaji": "Matsuken Anime: Kore Seibaishite mo Ii desu ka?",
+            "english": null,
+            "native": "マツケンアニメ~コレ成敗してもいいですか？～"
+          },
+          "synonyms": [
+            "Matsuken Anime: Can I Pass Judgment on This?"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 8,
+            "day": 29
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx216643-QwcfobjfgC8f.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216643-QwcfobjfgC8f.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": null,
+          "isAdult": false,
+          "genres": [
+            "Music"
+          ],
+          "tags": [
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Chibi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Flash",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": []
+          },
+          "description": "<p>The anime centers on the character Matsuken and his dog partner Matsu Inu, who cheerfully &quot;vanquish&quot; various hazy feelings or frustrations of the everyday modern life.<br />\n<br><br><br />\n(Source: AnimeNewsNetwork)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/matsuken_anime"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/@matsuken_anime"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>The anime centers on the character Matsuken and his dog partner Matsu Inu, who cheerfully &quot;vanquish&quot; various hazy feelings or frustrations of the everyday modern life.<br />\n<br><br><br />\n(Source: AnimeNewsNetwork)</p>"
         }
       ]
     }
