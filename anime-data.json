@@ -914,16 +914,20 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Educational",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
               "name": "Yandere",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Educational",
+              "isMediaSpoiler": false
             },
             {
               "name": "Female Protagonist",
@@ -958,12 +962,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Metal Music",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Philosophy",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Metal Music",
+              "isMediaSpoiler": true
             },
             {
               "name": "War",
@@ -1131,10 +1135,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Shoujo",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "CGI",
               "isMediaSpoiler": false
             },
@@ -1243,15 +1243,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Lost Civilization",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Monster Girl",
               "isMediaSpoiler": true
             },
             {
-              "name": "Boys' Love",
+              "name": "Isekai",
               "isMediaSpoiler": true
             },
             {
-              "name": "Lost Civilization",
+              "name": "Boys' Love",
               "isMediaSpoiler": true
             },
             {
@@ -1296,126 +1300,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>The war is over, but General Drel's secrets remain. As visitors from Hiden, Boelate, and Eslinn converge on Solsein, Boelate's divine academy, the search for Drel's hidden room begins. Among those drawn into the mystery is Klen, now serving as Luna's magic teacher. But what truth lies at the heart of Drel's secret?<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
-        },
-        {
-          "id": 194829,
-          "title": {
-            "romaji": "Katainaka no Ossan, Kensei ni Naru II",
-            "english": "From Old Country Bumpkin to Master Swordsman II",
-            "native": "片田舎のおっさん、剣聖になるII"
-          },
-          "synonyms": [
-            "Katainaka no Ossan, Kensei ni Naru 2nd Season",
-            "De Caipira a Mestre Espadachim 2ª Temporada"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-bZKwhfo60EuF.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194829-bZKwhfo60EuF.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194829-mAQpjlKYA8c2.jpg",
-          "nextAiringEpisode": null,
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Teacher",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Regression",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Religion",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Parenthood",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 70,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Hayabusa Film"
-              },
-              {
-                "name": "Passione"
-              }
-            ]
-          },
-          "description": "<p>Beryl Gardenant, a swordmaster from the countryside, is settling into his new life as a special instructor for the Royal Order of Knights and the guardian of an orphan. A peaceful life is not in the cards, however, and Beryl is confronted with new obstacles. At the magic institute, in his hometown, at the kingdom's border, away in a foreign land... It's time for Beryl to face new battles.<br />\n<br><br><br />\n(Source: Prime Video)</p>",
-          "externalLinks": [
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/bumpkin_anime/"
-            },
-            {
-              "site": "Bluesky",
-              "url": "https://bsky.app/profile/bumpkinanime.bsky.social"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@bumpkin.anime"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/ossan_kensei"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/bumpkin_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://ossan-kensei.com/"
-            },
-            {
-              "site": "Facebook",
-              "url": "https://www.facebook.com/profile.php?id=61571322047139"
-            },
-            {
-              "site": "Amazon Prime Video",
-              "url": "https://www.amazon.com/dp/B0H1QXXRG1"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Beryl Gardenant, a swordmaster from the countryside, is settling into his new life as a special instructor for the Royal Order of Knights and the guardian of an orphan. A peaceful life is not in the cards, however, and Beryl is confronted with new obstacles. At the magic institute, in his hometown, at the kingdom's border, away in a foreign land... It's time for Beryl to face new battles.<br />\n<br><br><br />\n(Source: Prime Video)</p>"
         },
         {
           "id": 209983,
@@ -2399,15 +2283,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Inseki",
               "isMediaSpoiler": false
             },
             {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Male Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
               "isMediaSpoiler": false
             },
             {
@@ -2416,10 +2304,6 @@
             },
             {
               "name": "Age Gap",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
               "isMediaSpoiler": false
             },
             {
