@@ -390,15 +390,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Exiled",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Reincarnation",
               "isMediaSpoiler": false
             },
             {
               "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Exiled",
               "isMediaSpoiler": false
             },
             {
@@ -414,19 +414,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Magic",
               "isMediaSpoiler": false
             },
             {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
+              "name": "Swordplay",
               "isMediaSpoiler": false
             },
             {
@@ -434,11 +426,23 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Survival",
               "isMediaSpoiler": false
             },
             {
+              "name": "Royal Affairs",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Meta",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Travel",
               "isMediaSpoiler": false
             }
           ],
@@ -2248,6 +2252,126 @@
           "descriptionTr": "<p>The horror comedy manga begins one fateful day when the cowardly (unnamed) protagonist meets Mechako, the leader of the &quot;Kaikigumi&quot; organization which is in charge of the ghosts and supernatural creatures scaring humans. The protagonist somehow takes part in the revival of the Kaikigumi, after which one bizarre (yet not scary) phenomenon after another crops up around him.<br />\n<br><br><br />\n(Source: ANN)</p>"
         },
         {
+          "id": 207254,
+          "title": {
+            "romaji": "Thunder 3",
+            "english": "Thunder 3",
+            "native": "サンダー３"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 7,
+            "day": 9
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207254-StcuNpmZTDCL.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207254-StcuNpmZTDCL.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1790783040,
+            "episode": 12
+          },
+          "isAdult": false,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "tags": [
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Alternate Universe",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Full CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Child Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Aliens",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Primarily Male Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Surreal Comedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Space",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Chibi",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 52,
+          "studios": {
+            "nodes": [
+              {
+                "name": "UNEND"
+              }
+            ]
+          },
+          "description": "<p>Three ordinary schoolboys come into possession of a DVD that supposedly opens a gateway to a parallel universe, but when their backs are turned Pyontaro's little sister Futaba passes through and gets kidnapped by the aliens that have overrun that version of Earth! Discovering that their cartoonish bodies make them supermen in the hyper-realistic parallel universe, the boys set out to rescue Futaba.<br />\n<br><br><br />\n(Source: Kodansha USA)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/thunder3_pyon"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://thunder3-anime.com"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@thunder3_pyon"
+            },
+            {
+              "site": "Netflix",
+              "url": "https://www.netflix.com/title/82736186"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Three ordinary schoolboys come into possession of a DVD that supposedly opens a gateway to a parallel universe, but when their backs are turned Pyontaro's little sister Futaba passes through and gets kidnapped by the aliens that have overrun that version of Earth! Discovering that their cartoonish bodies make them supermen in the hyper-realistic parallel universe, the boys set out to rescue Futaba.<br />\n<br><br><br />\n(Source: Kodansha USA)</p>"
+        },
+        {
           "id": 214703,
           "title": {
             "romaji": "Ghost Meets Gal!",
@@ -3194,17 +3318,14 @@
           "startDate": {
             "year": 2026,
             "month": 9,
-            "day": 26
+            "day": 25
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214551-uDaf7UPVxN2v.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214551-uDaf7UPVxN2v.jpg"
           },
           "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1790348400,
-            "episode": 1
-          },
+          "nextAiringEpisode": null,
           "isAdult": true,
           "genres": [
             "Hentai"
