@@ -950,19 +950,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Tomboy",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Lost Civilization",
               "isMediaSpoiler": true
             },
             {
-              "name": "Monster Girl",
+              "name": "Isekai",
               "isMediaSpoiler": true
             },
             {
-              "name": "Isekai",
+              "name": "Tomboy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Monster Girl",
               "isMediaSpoiler": true
             },
             {
@@ -1013,105 +1013,6 @@
           "descriptionTr": "<p>The war is over, but General Drel's secrets remain. As visitors from Hiden, Boelate, and Eslinn converge on Solsein, Boelate's divine academy, the search for Drel's hidden room begins. Among those drawn into the mystery is Klen, now serving as Luna's magic teacher. But what truth lies at the heart of Drel's secret?<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
-          "id": 209983,
-          "title": {
-            "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
-            "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
-            "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season"
-          },
-          "synonyms": [
-            "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
-            "HELL MODE ~อยากเล่นโหด ขอโหมดนรก~ ซีซั่น 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209983-fJysbFB72IM9.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1790352000,
-            "episode": 13
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Child Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Creature Taming",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Found Family",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "War",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 71,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Yokohama Animation Lab"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Hell Mode</i>.</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://hellmode-anime.com"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/hellmode_anime"
-            },
-            {
-              "site": "HIDIVE",
-              "url": "https://www.hidive.com/season/36239"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/1a7r5ibbkjl"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>The second season of <i>Hell Mode</i>.</p>"
-        },
-        {
           "id": 182616,
           "title": {
             "romaji": "Nige Jouzu no Wakagimi 2nd Season",
@@ -1137,8 +1038,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182616-kmIqMEUsLYrO.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1790346600,
-            "episode": 11
+            "airingAt": 1790951400,
+            "episode": 12
           },
           "isAdult": false,
           "genres": [
@@ -1542,137 +1443,6 @@
           "descriptionTr": "<p>Miya is the illegitimate child of a prominent family. When her mother dies and her father’s estate agrees to take her in, she’s convinced she knows what awaits her in her new home: a life of servitude and misery at the hands of her wicked stepmother and stepsisters. Yet when she finally meets the women she expects to treat her like dirt, they actually end up being…sweet?! A hilarious and heartfelt comedy that’s sure to put a smile on your face!<br />\n<br><br><br />\n(Source: Seven Seas Entertainment)</p>"
         },
         {
-          "id": 188525,
-          "title": {
-            "romaji": "Kore Kaite Shine",
-            "english": "Draw This, Then Die!",
-            "native": "これ描いて死ね"
-          },
-          "synonyms": [
-            "Gambar Ini, Lalu Mati Sana!",
-            "วาดเรื่องนี้ก่อนแล้วค่อยตาย",
-            "畫完這個再去死"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 3
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188525-uWhw4rQcqOyF.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188525-uWhw4rQcqOyF.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188525-Vnei12N4wZsM.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1790346600,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Writing",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Drawing",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Otaku Culture",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Teacher",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School Club",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cute Girls Doing Cute Things",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coastal",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Rural",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 78,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Shin-Ei Animation"
-              }
-            ]
-          },
-          "description": "<p>First-year high school student Ai Yasumi lives on the island of Izu Oshima and loves reading manga. But after a certain turning point, she sets her sights on creating stories of her own! As she dives into the world of manga-making, Ai faces challenges, growth, and the excitement of chasing her creative dreams. Where will her creative journey take her?<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://www.vap.co.jp/korekaite-shine/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/korekaite_shine"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371656/draw-this-then-die"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@korekaite_shine"
-            },
-            {
-              "site": "Netflix",
-              "url": "https://www.netflix.com/title/81787975"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0BnHSDgsrzHcX29LmyNwQ1"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>First-year high school student Ai Yasumi lives on the island of Izu Oshima and loves reading manga. But after a certain turning point, she sets her sights on creating stories of her own! As she dives into the world of manga-making, Ai faces challenges, growth, and the excitement of chasing her creative dreams. Where will her creative journey take her?<br><br />\n<br><br />\n(Source: Crunchyroll)</p>"
-        },
-        {
           "id": 207809,
           "title": {
             "romaji": "Sora wa Akai Kawa no Hotori",
@@ -1839,8 +1609,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1790348400,
-            "episode": 13
+            "airingAt": 1790953200,
+            "episode": 14
           },
           "isAdult": false,
           "genres": [
@@ -2221,7 +1991,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 57,
+          "averageScore": 56,
           "studios": {
             "nodes": [
               {
