@@ -258,6 +258,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Swordplay",
               "isMediaSpoiler": false
             },
@@ -267,10 +271,6 @@
             },
             {
               "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
             {
@@ -1298,151 +1298,6 @@
           "descriptionTr": "<p>Once the Demon King, now a shut-in NEET—Ryuusei Narukami’s second life is anything but peaceful! When Meteor Hanaori, the Hero who once defeated him, suddenly returns as a normal high school girl, his world is thrown into chaos. Determined to change, Ryuusei reenters society as a teacher and ends up teaching at her school! Their explosive reunion reignites the past—and sparks an unexpected love!<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
-          "id": 196356,
-          "title": {
-            "romaji": "Ibitte Konai Gibo to Gishi",
-            "english": "My Stepmother and Stepsisters Aren’t Wicked",
-            "native": "いびってこない義母と義姉"
-          },
-          "synonyms": [
-            "いびこな",
-            "IbiKona",
-            "My Mother-in-Law and Sister-in-Law Who Don't Bully Me",
-            "Keluarga Tiriku Manis dan Memanja",
-            "IbiKona: Mi Madrastra y Mis Hermanastras No Son Malvadas"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196356-2TNt2b9tu0jm.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196356-2TNt2b9tu0jm.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196356-OUT2nMhW0IdS.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1790356980,
-            "episode": 12
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Adoption",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Family Life",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cute Girls Doing Cute Things",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Ojou-sama",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Episodic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Parody",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Josei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Maids",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Villainess",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 64,
-          "studios": {
-            "nodes": [
-              {
-                "name": "NEWON"
-              }
-            ]
-          },
-          "description": "<p>Miya is the illegitimate child of a prominent family. When her mother dies and her father’s estate agrees to take her in, she’s convinced she knows what awaits her in her new home: a life of servitude and misery at the hands of her wicked stepmother and stepsisters. Yet when she finally meets the women she expects to treat her like dirt, they actually end up being…sweet?! A hilarious and heartfelt comedy that’s sure to put a smile on your face!<br />\n<br><br><br />\n(Source: Seven Seas Entertainment)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://ibikona-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/ibikona_anime"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/270mjzjqx0d"
-            },
-            {
-              "site": "Amazon Prime Video",
-              "url": "https://www.amazon.com/My-Stepmother-Stepsisters-Arent-Wicked/dp/B0GYPBM8WL"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLKx8CEsRVJts"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLCTv3-IP7ow8"
-            },
-            {
-              "site": "Viki",
-              "url": "https://www.viki.com/tv/41626"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Miya is the illegitimate child of a prominent family. When her mother dies and her father’s estate agrees to take her in, she’s convinced she knows what awaits her in her new home: a life of servitude and misery at the hands of her wicked stepmother and stepsisters. Yet when she finally meets the women she expects to treat her like dirt, they actually end up being…sweet?! A hilarious and heartfelt comedy that’s sure to put a smile on your face!<br />\n<br><br><br />\n(Source: Seven Seas Entertainment)</p>"
-        },
-        {
           "id": 207809,
           "title": {
             "romaji": "Sora wa Akai Kawa no Hotori",
@@ -1610,7 +1465,7 @@
           "bannerImage": null,
           "nextAiringEpisode": {
             "airingAt": 1790953200,
-            "episode": 14
+            "episode": 13
           },
           "isAdult": false,
           "genres": [
@@ -2160,8 +2015,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1790377200,
-            "episode": 4
+            "airingAt": 1790982000,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -2849,8 +2704,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1790379000,
-            "episode": 13
+            "airingAt": 1790983800,
+            "episode": 14
           },
           "isAdult": false,
           "genres": [
