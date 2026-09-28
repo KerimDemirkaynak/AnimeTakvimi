@@ -453,12 +453,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Body Horror",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Dystopian",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Body Horror",
+              "isMediaSpoiler": true
             },
             {
               "name": "Gore",
@@ -1360,7 +1360,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 60,
+          "averageScore": 59,
           "studios": {
             "nodes": [
               {
