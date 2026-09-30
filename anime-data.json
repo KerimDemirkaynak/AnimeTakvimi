@@ -375,134 +375,6 @@
           "descriptionTr": "<p>Six months have passed since the polar opposite classmates Miyu Suzuki and Yuusuke Tani started dating. Through spending time together along with their friends from school, the two have been happier than ever. As the year nears its end, the new couple plans to celebrate Christmas and the New Year together, making memories for years to come.<br><br />\n<br><br />\nMeanwhile, Miyu and Yuusuke's friends Shuuji Taira and Kentarou Yamada are puzzled by their own situations. Due to his bad experiences in middle school, Taira still overthinks everything around him, especially after his classmate Shino Azuma began giving him more attention. Simultaneously, the usually energetic and outspoken Yamada finds it difficult to find the perfect time to confess his feelings to his shy schoolmate Natsumi Nishi. Despite everyone's differences, they continue enjoying their adolescence together and find their own ways to turn the winter break into a cherished memory.<br><br />\n<br><br />\n(Source: MAL Rewrite)</p>"
         },
         {
-          "id": 198946,
-          "title": {
-            "romaji": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
-            "english": "Clevatess Season 2",
-            "native": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-"
-          },
-          "synonyms": [
-            "クレバテスⅡ-魔獣の王と偽りの勇者伝承- 第2期",
-            "Clevatess II: Majuu no Ou to Akago to Kabane no Yuusha 2nd Season",
-            "เคลวาเทส อสูรจอมราชัน Ⅱ"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 7,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198946-IGXmbqBEYRYD.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198946-IGXmbqBEYRYD.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198946-mtAaOmyKraEE.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1790769600,
-            "episode": 13
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Drama",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Conspiracy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shapeshifting",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Monster Boy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Politics",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Lost Civilization",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Tomboy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Monster Girl",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Boys' Love",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Post-Apocalyptic",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 76,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Lay-duce"
-              }
-            ]
-          },
-          "description": "<p>The war is over, but General Drel's secrets remain. As visitors from Hiden, Boelate, and Eslinn converge on Solsein, Boelate's divine academy, the search for Drel's hidden room begins. Among those drawn into the mystery is Klen, now serving as Luna's magic teacher. But what truth lies at the heart of Drel's secret?<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/G8DHV78ZM/clevatess"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://clevatess.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/clevatess_anime"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2413934"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/clevatess-ii-2026-161wl58egqp?lang=en_us"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLDvQscScOUXg"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>The war is over, but General Drel's secrets remain. As visitors from Hiden, Boelate, and Eslinn converge on Solsein, Boelate's divine academy, the search for Drel's hidden room begins. Among those drawn into the mystery is Klen, now serving as Luna's magic teacher. But what truth lies at the heart of Drel's secret?<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
-        },
-        {
           "id": 182616,
           "title": {
             "romaji": "Nige Jouzu no Wakagimi 2nd Season",
@@ -902,10 +774,7 @@
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207254-StcuNpmZTDCL.jpg"
           },
           "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1790783040,
-            "episode": 12
-          },
+          "nextAiringEpisode": null,
           "isAdult": false,
           "genres": [
             "Adventure",
@@ -1621,6 +1490,48 @@
           "descriptionTr": "<p>Meiko, a beautiful, quiet, and academically gifted classmate, only shows her relaxed side in front of her childhood friend, Hiroki. Today, she comes to his room to hang out, and Hiroki can't help but glance at her body as she relaxes in light clothing. When she points it out, Hiroki blushes with embarrassment, but Meiko unexpectedly asks, &quot;Well, do you want to touch me?&quot; Their curiosity leads them to explore each other's bodies, which eventually escalates to sex...<br />\n<br><br><br />\n(Source: PinkPineapple, translated)</p>"
         },
         {
+          "id": 213686,
+          "title": {
+            "romaji": "NTR Kishi",
+            "english": null,
+            "native": "NTR騎士"
+          },
+          "synonyms": [
+            "the fallen knight"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 9,
+            "day": 25
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213686-HMUnc0zUKiTw.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213686-HMUnc0zUKiTw.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1795705200,
+            "episode": 2
+          },
+          "isAdult": true,
+          "genres": [
+            "Hentai"
+          ],
+          "tags": [],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Majin petit"
+              }
+            ]
+          },
+          "description": "<p>Based on the erotic doujin game by Sensouya-san (戦争屋さん).<br />\n<br><br><br />\nColeus, a knight-in-training, attends a training academy. His new instructor turns out to be his childhood friend, Artel. <i>&quot;It's been a long time, Coleus.&quot;</i> Coleus rejoices at reuniting with Artel, who has grown into a beautiful and strong woman. However, Artel quickly incurs the wrath of a fellow instructor, Lock. Lock, plotting to bring Artel down, seizes her wicked hands and robs her of her mental freedom. In front of her childhood friend, her voluptuous breasts are ravaged, and her virginity is taken. Lock's brutal acts escalate, and while Artel remains unconscious, her body, trained as a female knight, is transformed into that of a female. The joy of their reunion is the beginning of a nightmare. The proud knight's soul is corrupted (NTR) by a despicable trap.<br />\n<br><br><br />\n(Source: Getchu, translated)</p>",
+          "externalLinks": [],
+          "isMyList": false,
+          "descriptionTr": "<p>Based on the erotic doujin game by Sensouya-san (戦争屋さん).<br />\n<br><br><br />\nColeus, a knight-in-training, attends a training academy. His new instructor turns out to be his childhood friend, Artel. <i>&quot;It's been a long time, Coleus.&quot;</i> Coleus rejoices at reuniting with Artel, who has grown into a beautiful and strong woman. However, Artel quickly incurs the wrath of a fellow instructor, Lock. Lock, plotting to bring Artel down, seizes her wicked hands and robs her of her mental freedom. In front of her childhood friend, her voluptuous breasts are ravaged, and her virginity is taken. Lock's brutal acts escalate, and while Artel remains unconscious, her body, trained as a female knight, is transformed into that of a female. The joy of their reunion is the beginning of a nightmare. The proud knight's soul is corrupted (NTR) by a despicable trap.<br />\n<br><br><br />\n(Source: Getchu, translated)</p>"
+        },
+        {
           "id": 212308,
           "title": {
             "romaji": "Pan no Akachan (TV)",
@@ -1712,48 +1623,6 @@
             }
           ],
           "isMyList": false
-        },
-        {
-          "id": 213686,
-          "title": {
-            "romaji": "NTR Kishi",
-            "english": null,
-            "native": "NTR騎士"
-          },
-          "synonyms": [
-            "the fallen knight"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 9,
-            "day": 25
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213686-HMUnc0zUKiTw.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213686-HMUnc0zUKiTw.png"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1795705200,
-            "episode": 2
-          },
-          "isAdult": true,
-          "genres": [
-            "Hentai"
-          ],
-          "tags": [],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Majin petit"
-              }
-            ]
-          },
-          "description": "<p>Based on the erotic doujin game by Sensouya-san (戦争屋さん).<br />\n<br><br><br />\nColeus, a knight-in-training, attends a training academy. His new instructor turns out to be his childhood friend, Artel. <i>&quot;It's been a long time, Coleus.&quot;</i> Coleus rejoices at reuniting with Artel, who has grown into a beautiful and strong woman. However, Artel quickly incurs the wrath of a fellow instructor, Lock. Lock, plotting to bring Artel down, seizes her wicked hands and robs her of her mental freedom. In front of her childhood friend, her voluptuous breasts are ravaged, and her virginity is taken. Lock's brutal acts escalate, and while Artel remains unconscious, her body, trained as a female knight, is transformed into that of a female. The joy of their reunion is the beginning of a nightmare. The proud knight's soul is corrupted (NTR) by a despicable trap.<br />\n<br><br><br />\n(Source: Getchu, translated)</p>",
-          "externalLinks": [],
-          "isMyList": false,
-          "descriptionTr": "<p>Based on the erotic doujin game by Sensouya-san (戦争屋さん).<br />\n<br><br><br />\nColeus, a knight-in-training, attends a training academy. His new instructor turns out to be his childhood friend, Artel. <i>&quot;It's been a long time, Coleus.&quot;</i> Coleus rejoices at reuniting with Artel, who has grown into a beautiful and strong woman. However, Artel quickly incurs the wrath of a fellow instructor, Lock. Lock, plotting to bring Artel down, seizes her wicked hands and robs her of her mental freedom. In front of her childhood friend, her voluptuous breasts are ravaged, and her virginity is taken. Lock's brutal acts escalate, and while Artel remains unconscious, her body, trained as a female knight, is transformed into that of a female. The joy of their reunion is the beginning of a nightmare. The proud knight's soul is corrupted (NTR) by a despicable trap.<br />\n<br><br><br />\n(Source: Getchu, translated)</p>"
         },
         {
           "id": 214855,
@@ -1880,6 +1749,14 @@
             },
             {
               "name": "Advertisement",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Animals",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
               "isMediaSpoiler": false
             }
           ],
