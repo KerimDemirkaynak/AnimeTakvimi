@@ -357,10 +357,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Tragedy",
               "isMediaSpoiler": false
             },
@@ -370,6 +366,10 @@
             },
             {
               "name": "Cute Girls Doing Cute Things",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
               "isMediaSpoiler": false
             },
             {
@@ -574,11 +574,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Urban",
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -602,6 +602,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Philosophy",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Robots",
               "isMediaSpoiler": false
             },
@@ -616,10 +620,6 @@
             {
               "name": "Ojou-sama",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Philosophy",
-              "isMediaSpoiler": false
             }
           ],
           "averageScore": null,
@@ -1169,11 +1169,11 @@
           ],
           "tags": [
             {
-              "name": "Heterosexual",
+              "name": "School",
               "isMediaSpoiler": false
             },
             {
-              "name": "School",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -1181,11 +1181,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Teen Cast",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -1214,6 +1214,10 @@
             {
               "site": "Twitter",
               "url": "https://x.com/korinojoheki_pr/"
+            },
+            {
+              "site": "Netflix",
+              "url": "https://www.netflix.com/title/82031882"
             }
           ],
           "isMyList": false,
@@ -1295,7 +1299,8 @@
             "native": "テムパル～アイテムの力～"
           },
           "synonyms": [
-            "템빨"
+            "템빨",
+            "Tempal - Item no Chikara"
           ],
           "startDate": {
             "year": 2026,
@@ -1810,6 +1815,7 @@
           "isAdult": false,
           "genres": [
             "Comedy",
+            "Ecchi",
             "Slice of Life"
           ],
           "tags": [
@@ -1826,11 +1832,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Shounen",
               "isMediaSpoiler": false
             },
             {
-              "name": "School",
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
             }
           ],
@@ -2091,7 +2105,7 @@
           "studios": {
             "nodes": []
           },
-          "description": "<p>Sequel to <i>Tougen Anki</i>.<br/><br/></p>\n<p>After battling in Kyoto and Nerima, the Rasetsu Academy students have grown stronger. But Yaoroshi leaves the academy to join the Oni Brigade for their &quot;the total eradication of the Momotaro.&quot;<br/><br/>a</p>\n<p>When Shiki realizes that they also target noncombatants, he sets out after Yaoroshi to bring him back. Meanwhile in Nikko, there's a research facility for horrific experiments atop the old Kegon Falls…<br/><br/></p>\n<p>(Source: REMOW)</p>",
+          "description": "<p>After battling in Kyoto and Nerima, the Rasetsu Academy students have grown stronger. But Yaoroshi leaves the academy to join the Oni Brigade for their &quot;the total eradication of the Momotaro.&quot;<br />\n<br><br><br />\nWhen Shiki realizes that they also target noncombatants, he sets out after Yaoroshi to bring him back. Meanwhile in Nikko, there's a research facility for horrific experiments atop the old Kegon Falls…<br />\n<br><br><br />\n(Source: REMOW)</p>",
           "externalLinks": [
             {
               "site": "Official Site",
@@ -2119,7 +2133,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "<p>Sequel to <i>Tougen Anki</i>.<br/><br/></p>\n<p>After battling in Kyoto and Nerima, the Rasetsu Academy students have grown stronger. But Yaoroshi leaves the academy to join the Oni Brigade for their &quot;the total eradication of the Momotaro.&quot;<br/><br/>a</p>\n<p>When Shiki realizes that they also target noncombatants, he sets out after Yaoroshi to bring him back. Meanwhile in Nikko, there's a research facility for horrific experiments atop the old Kegon Falls…<br/><br/></p>\n<p>(Source: REMOW)</p>"
+          "descriptionTr": "<p>After battling in Kyoto and Nerima, the Rasetsu Academy students have grown stronger. But Yaoroshi leaves the academy to join the Oni Brigade for their &quot;the total eradication of the Momotaro.&quot;<br />\n<br><br><br />\nWhen Shiki realizes that they also target noncombatants, he sets out after Yaoroshi to bring him back. Meanwhile in Nikko, there's a research facility for horrific experiments atop the old Kegon Falls…<br />\n<br><br><br />\n(Source: REMOW)</p>"
         },
         {
           "id": 209872,
@@ -3174,6 +3188,10 @@
           ],
           "tags": [
             {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Magic",
               "isMediaSpoiler": false
             },
@@ -3186,11 +3204,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "School",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "School",
               "isMediaSpoiler": false
             },
             {
@@ -3776,7 +3794,9 @@
             "english": "FX Fighter Kurumi-chan",
             "native": "FX戦士くるみちゃん"
           },
-          "synonyms": [],
+          "synonyms": [
+            "Kurumi si Pejuang Forex"
+          ],
           "startDate": {
             "year": 2026,
             "month": 10,
@@ -3798,11 +3818,11 @@
           ],
           "tags": [
             {
-              "name": "Economics",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Economics",
               "isMediaSpoiler": false
             },
             {
@@ -3810,19 +3830,35 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Suicide",
-              "isMediaSpoiler": true
+              "name": "Denpa",
+              "isMediaSpoiler": false
             },
             {
               "name": "Tragedy",
               "isMediaSpoiler": false
             },
             {
-              "name": "Seinen",
+              "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
             {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Large Breasts",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Suicide",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Work",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
