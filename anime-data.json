@@ -59,11 +59,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
+              "name": "Class Struggle",
               "isMediaSpoiler": false
             },
             {
-              "name": "Class Struggle",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -96,6 +96,10 @@
             {
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/G3KHEVDJ7/the-apothecary-diaries"
+            },
+            {
+              "site": "Netflix",
+              "url": "https://www.netflix.com/us/title/81712068"
             }
           ],
           "isMyList": false,
@@ -802,15 +806,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Boys' Love",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Disability",
               "isMediaSpoiler": false
             },
             {
               "name": "Foreign",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Boys' Love",
               "isMediaSpoiler": false
             },
             {
@@ -1193,15 +1197,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Kuudere",
               "isMediaSpoiler": false
             },
             {
               "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             }
           ],
@@ -2007,15 +2011,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Gods",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Martial Arts",
               "isMediaSpoiler": false
             },
             {
               "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gods",
               "isMediaSpoiler": false
             },
             {
@@ -2116,11 +2120,27 @@
             {
               "name": "Guns",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Revenge",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": null,
           "studios": {
-            "nodes": []
+            "nodes": [
+              {
+                "name": "Studio Hibari"
+              }
+            ]
           },
           "description": "<p>After battling in Kyoto and Nerima, the Rasetsu Academy students have grown stronger. But Yaoroshi leaves the academy to join the Oni Brigade for their &quot;the total eradication of the Momotaro.&quot;<br />\n<br><br><br />\nWhen Shiki realizes that they also target noncombatants, he sets out after Yaoroshi to bring him back. Meanwhile in Nikko, there's a research facility for horrific experiments atop the old Kegon Falls…<br />\n<br><br><br />\n(Source: REMOW)</p>",
           "externalLinks": [
@@ -3162,10 +3182,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Large Breasts",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Suicide",
               "isMediaSpoiler": true
             },
@@ -3179,6 +3195,10 @@
             },
             {
               "name": "Time Skip",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Large Breasts",
               "isMediaSpoiler": false
             },
             {
