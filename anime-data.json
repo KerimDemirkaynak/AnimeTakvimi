@@ -253,6 +253,10 @@
             {
               "name": "Medieval",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Manipulation",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": null,
@@ -267,7 +271,7 @@
           "externalLinks": [
             {
               "site": "Crunchyroll",
-              "url": "https://Crunchyroll.com"
+              "url": "https://www.crunchyroll.com/series/GRE50KV36/black-clover"
             },
             {
               "site": "Twitter",
@@ -1211,6 +1215,10 @@
             {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Love Triangle",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 82,
@@ -1790,7 +1798,7 @@
               }
             ]
           },
-          "description": "<p>The second season of <i>Aoashi</i>.<br><br>Aoi Ashito is now on the elite A team, but he’s quickly overwhelmed by his harsh new reality.<br><br><br />\n(Source:Crunchyroll)</p>",
+          "description": "<p>Aoi Ashito’s game has now earned him a spot on the A team, but he is quickly overwhelmed by his harsh new reality. Surrounded by elite players like Kuribayashi and Akutsu, practices are just as merciless as the matches. In this U-18 Premier League of powerhouse talent, Ashito must evolve or be crushed, if he’s ever to be acknowledged.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
           "externalLinks": [
             {
               "site": "Twitter",
@@ -1806,7 +1814,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "<p>The second season of <i>Aoashi</i>.<br><br>Aoi Ashito is now on the elite A team, but he’s quickly overwhelmed by his harsh new reality.<br><br><br />\n(Source:Crunchyroll)</p>"
+          "descriptionTr": "<p>Aoi Ashito’s game has now earned him a spot on the A team, but he is quickly overwhelmed by his harsh new reality. Surrounded by elite players like Kuribayashi and Akutsu, practices are just as merciless as the matches. In this U-18 Premier League of powerhouse talent, Ashito must evolve or be crushed, if he’s ever to be acknowledged.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
           "id": 191656,
@@ -1845,7 +1853,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Femboy",
+              "name": "School",
               "isMediaSpoiler": false
             },
             {
@@ -1853,7 +1861,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "School",
+              "name": "Slapstick",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School Club",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Femboy",
               "isMediaSpoiler": false
             },
             {
@@ -1865,7 +1885,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Teen Cast",
+              "name": "Ensemble Cast",
               "isMediaSpoiler": false
             }
           ],
@@ -1894,6 +1914,10 @@
             {
               "site": "Official Site",
               "url": "https://aniplexusa.com/studentholes/"
+            },
+            {
+              "site": "OceanVeil",
+              "url": "https://oceanveil.net/anime_titles/542"
             }
           ],
           "isMyList": false,
@@ -2193,10 +2217,10 @@
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209872-RBeVPqwejHFp.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209872-RBeVPqwejHFp.jpg"
           },
-          "bannerImage": null,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209872-Qczb4k9Mw0pq.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1791042960,
-            "episode": 1
+            "airingAt": 1791647760,
+            "episode": 2
           },
           "isAdult": false,
           "genres": [
@@ -2226,11 +2250,23 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "School",
               "isMediaSpoiler": false
             },
             {
+              "name": "Cohabitation",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             }
           ],
@@ -2254,7 +2290,7 @@
             },
             {
               "site": "Netflix",
-              "url": "https://www.netflix.com/title/81301833"
+              "url": "https://www.netflix.com/title/81171925"
             },
             {
               "site": "TikTok",
@@ -3333,7 +3369,8 @@
           },
           "synonyms": [
             "Magical Explorer: Reborn as a Side Character in a Fantasy Dating Sim",
-            "Majieku"
+            "Majieku",
+            "マジエク"
           ],
           "startDate": {
             "year": 2026,
@@ -3346,7 +3383,7 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169581-cdooqY7Jqy3x.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1791558000,
+            "airingAt": 1791584160,
             "episode": 3
           },
           "isAdult": false,
@@ -3379,7 +3416,31 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cohabitation",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Adoption",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Maids",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Royal Affairs",
               "isMediaSpoiler": false
             },
             {
@@ -3407,7 +3468,7 @@
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com"
+              "url": "https://www.crunchyroll.com/series/GT00384003/magical-explorer"
             }
           ],
           "isMyList": false,
@@ -3532,6 +3593,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Shounen",
               "isMediaSpoiler": false
             },
@@ -3540,7 +3605,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Reincarnation",
+              "name": "CGI",
               "isMediaSpoiler": false
             }
           ],
@@ -3783,7 +3848,7 @@
           },
           "synonyms": [
             "The Exiled Cheating Magician Enjoys an Unrestrained Second Life.: I Can Give \"Strengthening Points\" Not Only to Weapons, But Also to Everything, and I Can Unlock the Effect at Any Time of My Will, But are the Rest Okay?",
-            "Chii Fuyo",
+            "Chii-Fuyo",
             "チー付与",
             "The Laid-Off Cheat-Granting Mage Enjoys a New Life"
           ],
@@ -3858,7 +3923,7 @@
               }
             ]
           },
-          "description": "<p>Rain Garland, an enchantment mage belonging to the ‘Fangs of the Royal Beast’, one of the continent's five great guilds, was suddenly expelled from the guild one day. Filled with bitter disappointment at being betrayed by those he trusted, Rain retrieved all the Enhancement Points he had placed on the guild's armor. He then tried applying them to his own sword and clothes instead the cheap copper sword gained destructive power rivaling legendary blades, and the simple cloth garments gained defense comparable to orichalcum!? Moreover, Rain's enchantment magic held a cheat-level secret that allowed it to evolve even further!?<br><br><br />\nAfter meeting new companions like the renowned beautiful knight Lily, who came upon hearing rumors of Rain, and the noble lady Martina, a candidate for the title of Hero, Rain begins to grow into a great adventurer...!?<br><br>(Source: Kodansha, translated)</p>",
+          "description": "<p>Rein, an enchanter, is suddenly expelled from his guild one day. But instead of despairing, he declares, “Now I can do anything!” and begins reclaiming the massive number of enhancement points he once poured into his guildmates’ gear, setting off on a brand-new path as an adventurer.<br><br><br />\nGathering around him are people carrying wounds that don’t fade easily: a genius adventurer who shut her heart after her party was slaughtered, a warrior who lost her family, and an assassin raised from childhood to kill. Yet Rein never rejects their pasts or their scars—he accepts them all with bright, straightforward warmth.<br><br><br />\nThe stage is a unique fantasy world where Uzis, slingshots, and even yakuza exist side by side. But in this world, the more people rely on convenient technology, the more their magic weakens, and adventurers grow fragile.<br><br><br />\nIntelligent, vicious monsters roam freely, while in the underworld, outlaws bare their greed and ambition as schemes and betrayals intertwine. In a world where ideals and justice are easily crushed, adventurers fight on with nothing but their magic and their convictions.<br><br><br />\nThis is the story of those who have lost their place in the world finding a new way to live. Rein and his companions’ wild, free-spirited second life begins now!<br />\n<br><br>(Source: The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life Site)</p>",
           "externalLinks": [
             {
               "site": "Twitter",
@@ -3875,10 +3940,14 @@
             {
               "site": "Crunchyroll",
               "url": "https://crunchyroll.com/series/GT00384016/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://sh-anime.shochiku.co.jp/chiifuyo-anime/en"
             }
           ],
           "isMyList": false,
-          "descriptionTr": "<p>Rain Garland, an enchantment mage belonging to the ‘Fangs of the Royal Beast’, one of the continent's five great guilds, was suddenly expelled from the guild one day. Filled with bitter disappointment at being betrayed by those he trusted, Rain retrieved all the Enhancement Points he had placed on the guild's armor. He then tried applying them to his own sword and clothes instead the cheap copper sword gained destructive power rivaling legendary blades, and the simple cloth garments gained defense comparable to orichalcum!? Moreover, Rain's enchantment magic held a cheat-level secret that allowed it to evolve even further!?<br><br><br />\nAfter meeting new companions like the renowned beautiful knight Lily, who came upon hearing rumors of Rain, and the noble lady Martina, a candidate for the title of Hero, Rain begins to grow into a great adventurer...!?<br><br>(Source: Kodansha, translated)</p>"
+          "descriptionTr": "<p>Rein, an enchanter, is suddenly expelled from his guild one day. But instead of despairing, he declares, “Now I can do anything!” and begins reclaiming the massive number of enhancement points he once poured into his guildmates’ gear, setting off on a brand-new path as an adventurer.<br><br><br />\nGathering around him are people carrying wounds that don’t fade easily: a genius adventurer who shut her heart after her party was slaughtered, a warrior who lost her family, and an assassin raised from childhood to kill. Yet Rein never rejects their pasts or their scars—he accepts them all with bright, straightforward warmth.<br><br><br />\nThe stage is a unique fantasy world where Uzis, slingshots, and even yakuza exist side by side. But in this world, the more people rely on convenient technology, the more their magic weakens, and adventurers grow fragile.<br><br><br />\nIntelligent, vicious monsters roam freely, while in the underworld, outlaws bare their greed and ambition as schemes and betrayals intertwine. In a world where ideals and justice are easily crushed, adventurers fight on with nothing but their magic and their convictions.<br><br><br />\nThis is the story of those who have lost their place in the world finding a new way to live. Rein and his companions’ wild, free-spirited second life begins now!<br />\n<br><br>(Source: The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life Site)</p>"
         },
         {
           "id": 195571,
@@ -4214,8 +4283,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1791045000,
-            "episode": 1
+            "airingAt": 1791649800,
+            "episode": 2
           },
           "isAdult": false,
           "genres": [
@@ -4269,7 +4338,7 @@
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/"
+              "url": "https://www.crunchyroll.com/series/GT00385867/magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest"
             }
           ],
           "isMyList": false,
@@ -4511,11 +4580,11 @@
           ],
           "tags": [
             {
-              "name": "Zombie",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Zombie",
               "isMediaSpoiler": false
             },
             {
@@ -4524,14 +4593,6 @@
             },
             {
               "name": "Cute Girls Doing Cute Things",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
               "isMediaSpoiler": false
             },
             {
@@ -4545,6 +4606,18 @@
             {
               "name": "Travel",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": null,
@@ -4555,7 +4628,7 @@
               }
             ]
           },
-          "description": "<p>It may be a ruined city ravaged by zombies, but to Aki and her friends, it’s amazing! Having grown up only hearing stories of the old world and the mysterious outbreak that wiped out humanity, she sets off with her childhood friends in search of her missing father. Things quickly become a fight for survival outside the safety of their small village, yet they’ve never felt more alive.<br />\n<br><br><br />\n(Source: Cunchyroll)</p>",
+          "description": "<p>It may be a ruined city ravaged by zombies, but to Aki and her friends, it’s amazing! Having grown up only hearing stories of the old world and the mysterious outbreak that wiped out humanity, she sets off with her childhood friends in search of her missing father. Things quickly become a fight for survival outside the safety of their small village, yet they’ve never felt more alive.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
           "externalLinks": [
             {
               "site": "Twitter",
@@ -4567,11 +4640,11 @@
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com"
+              "url": "https://www.crunchyroll.com/series/GT00383996/im-looking-for-a-zombie"
             }
           ],
           "isMyList": false,
-          "descriptionTr": "<p>It may be a ruined city ravaged by zombies, but to Aki and her friends, it’s amazing! Having grown up only hearing stories of the old world and the mysterious outbreak that wiped out humanity, she sets off with her childhood friends in search of her missing father. Things quickly become a fight for survival outside the safety of their small village, yet they’ve never felt more alive.<br />\n<br><br><br />\n(Source: Cunchyroll)</p>"
+          "descriptionTr": "<p>It may be a ruined city ravaged by zombies, but to Aki and her friends, it’s amazing! Having grown up only hearing stories of the old world and the mysterious outbreak that wiped out humanity, she sets off with her childhood friends in search of her missing father. Things quickly become a fight for survival outside the safety of their small village, yet they’ve never felt more alive.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         }
       ]
     }
