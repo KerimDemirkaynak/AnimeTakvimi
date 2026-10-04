@@ -106,6 +106,99 @@
           "descriptionTr": "<p>In the aftermath of the Shi Clan’s rebellion, things have finally settled down, and Maomao has returned to her old life as a pharmacist in the pleasure district.<br />\n<br><br><br />\nOne day, triggered by a breakfast served at the Verdigris House, Maomao senses an anomaly and begins investigating its true nature.<br />\n<br><br><br />\nMeanwhile, Jinshi, who has revealed his true identity as the Imperial brother and begun to face his heavy responsibilities, is deeply troubled by the final message left by Loulan: a warning of an impending &quot;disaster that will strike the nation.&quot;<br />\n<br><br><br />\nTo make matters worse, rumors of a mysterious shrine maiden who deceives the people begin to spread, casting a dark shadow over the country of Li once again.<br />\n<br><br><br />\nFrom the depths of the inner court to the city streets, and across foreign borders—the world grows wider, and the stakes even higher for Maomao and Jinshi.<br />\n<br><br><br />\n(Source: Crunchyroll News)</p>"
         },
         {
+          "id": 195604,
+          "title": {
+            "romaji": "Black Clover 2nd Season",
+            "english": "Black Clover Season 2",
+            "native": "ブラッククローバー 第2期"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 3
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195604-tSZcfKbVqSEG.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1791640800,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Demons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Rescue",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "War",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Manipulation",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 87,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Studio Pierrot"
+              }
+            ]
+          },
+          "description": "<p>As tyranny engulfs the Clover Kingdom, Asta and the Magic Knights launch a desperate raid on the Spade Kingdom to rescue their squad captains from the Dark Triad. But their mission leads them into a brutal battle against forces beyond anything they’ve ever faced. Now, Asta must rise above impossible odds to protect his friends and honor the promise he made to Yuno.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GRE50KV36/black-clover"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/bclover_PR"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/BlackClover_EN"
+            },
+            {
+              "site": "Official Site",
+              "url": "http://bclover.jp/"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>As tyranny engulfs the Clover Kingdom, Asta and the Magic Knights launch a desperate raid on the Spade Kingdom to rescue their squad captains from the Dark Triad. But their mission leads them into a brutal battle against forces beyond anything they’ve ever faced. Now, Asta must rise above impossible odds to protect his friends and honor the promise he made to Yuno.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
+        },
+        {
           "id": 195539,
           "title": {
             "romaji": "Cyberpunk: Edgerunners 2",
@@ -195,99 +288,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p><i>Cyberpunk: Edgerunners 2</i> pulls you back into Night City, where lives become entangled to the extreme. Weak, a washed-up cyberpunk legend, is now forced to live without chrome as he searches for a sense of purpose in a world that’s passed him by. Meanwhile, the deadly nomad D sets out on a path to revenge that brings him close to corpo secrets never meant to be found. Across this ten-episode standalone series, uncover a story of family, obsession, legacy — and how your lens reflects the stories of the people around you..<br><br></p>\n<p>When the world is blinded by spectacle, what extremes do you have to go to make your story matter?<br><br><br />\n(Source: Cyberpunk: Edgerunners 2 Official Site, Official Twitter)</p>"
-        },
-        {
-          "id": 195604,
-          "title": {
-            "romaji": "Black Clover 2nd Season",
-            "english": "Black Clover Season 2",
-            "native": "ブラッククローバー 第2期"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 3
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195604-tSZcfKbVqSEG.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1791640800,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Rescue",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "War",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Manipulation",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Studio Pierrot"
-              }
-            ]
-          },
-          "description": "<p>As tyranny engulfs the Clover Kingdom, Asta and the Magic Knights launch a desperate raid on the Spade Kingdom to rescue their squad captains from the Dark Triad. But their mission leads them into a brutal battle against forces beyond anything they’ve ever faced. Now, Asta must rise above impossible odds to protect his friends and honor the promise he made to Yuno.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GRE50KV36/black-clover"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/bclover_PR"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/BlackClover_EN"
-            },
-            {
-              "site": "Official Site",
-              "url": "http://bclover.jp/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>As tyranny engulfs the Clover Kingdom, Asta and the Magic Knights launch a desperate raid on the Spade Kingdom to rescue their squad captains from the Dark Triad. But their mission leads them into a brutal battle against forces beyond anything they’ve ever faced. Now, Asta must rise above impossible odds to protect his friends and honor the promise he made to Yuno.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
           "id": 159042,
@@ -678,8 +678,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189123-s2oirY2r1Svy.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1791099000,
-            "episode": 1
+            "airingAt": 1791703800,
+            "episode": 2
           },
           "isAdult": false,
           "genres": [
@@ -721,6 +721,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Acrobatics",
               "isMediaSpoiler": false
             },
@@ -729,15 +733,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Unrequited Love",
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": null,
+          "averageScore": 79,
           "studios": {
             "nodes": [
               {
@@ -1043,7 +1043,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 75,
+          "averageScore": 76,
           "studios": {
             "nodes": [
               {
@@ -1270,8 +1270,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/212888-ZsnNegBCKXQq.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1791124200,
-            "episode": 2
+            "airingAt": 1791729000,
+            "episode": 3
           },
           "isAdult": false,
           "genres": [
@@ -1287,6 +1287,10 @@
             },
             {
               "name": "Virtual World",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Slapstick",
               "isMediaSpoiler": false
             },
             {
@@ -1306,7 +1310,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Slapstick",
+              "name": "Swordplay",
               "isMediaSpoiler": false
             }
           ],
@@ -1335,74 +1339,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Sin Yeong-U (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….<br><br></p>\n<p>(Source: Tapas, edited)<br><br></p>\n<p><i>Note: Tempal: Item no Chikara is streaming a week in advance of the TV broadcast on Prime Video and Crunchyroll beginning September 27th, 2026. Regular broadcasting began on October 2nd, 2026.</i></p>"
-        },
-        {
-          "id": 172192,
-          "title": {
-            "romaji": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
-            "english": "A Returner's Magic Should be Special Season 2",
-            "native": "帰還者の魔法は特別です 第2期"
-          },
-          "synonyms": [
-            "Gwihwanjaui Mabeobeun",
-            "Teukbyeolhaeya Hamnida",
-            "귀환자의 마법은 특별해야 합니다"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-L4pRzycNZOOF.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172192-L4pRzycNZOOF.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1791387900,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Arvo Animation"
-              }
-            ]
-          },
-          "description": "<p>The second season of <i>Kikansha no Mahou wa Tokubetsu desu</i>.</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/returners_magic"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://returners-magic.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>The second season of <i>Kikansha no Mahou wa Tokubetsu desu</i>.</p>"
         },
         {
           "id": 205909,
@@ -1508,6 +1444,74 @@
           "descriptionTr": "<p>On the surface, Satoko has it all—she’s beautiful, the daughter of a nobleman, and at a prime age for marriage. Unfortunately, she is also quite ill and only has a short time left to live. Before she can secure a marriage that will redeem her worth in her family’s eyes, she finds herself the target of the mysterious assassin Shinpei, and her plans are put in jeopardy. In order to save herself, she makes a desperate proposal—of marriage! When it comes to love, however, Shinpei takes “until death do we part” seriously.<br><br />\n<br><br />\n(Source: VIZ Media)</p>"
         },
         {
+          "id": 172192,
+          "title": {
+            "romaji": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+            "english": "A Returner's Magic Should be Special Season 2",
+            "native": "帰還者の魔法は特別です 第2期"
+          },
+          "synonyms": [
+            "Gwihwanjaui Mabeobeun",
+            "Teukbyeolhaeya Hamnida",
+            "귀환자의 마법은 특별해야 합니다"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 8
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-L4pRzycNZOOF.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172192-L4pRzycNZOOF.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1791387900,
+            "episode": 1
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Arvo Animation"
+              }
+            ]
+          },
+          "description": "<p>The second season of <i>Kikansha no Mahou wa Tokubetsu desu</i>.</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/returners_magic"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://returners-magic.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>The second season of <i>Kikansha no Mahou wa Tokubetsu desu</i>.</p>"
+        },
+        {
           "id": 152677,
           "title": {
             "romaji": "Tantei wa mou, Shindeiru. Season 2",
@@ -1584,6 +1588,117 @@
           "descriptionTr": "<p>The second season of <i>Tantei wa mou, Shindeiru.</i></p>"
         },
         {
+          "id": 191656,
+          "title": {
+            "romaji": "Seitokai ni mo Ana wa Aru!",
+            "english": "Even the Student Council Has Its Holes!",
+            "native": "生徒会にも穴はある！"
+          },
+          "synonyms": [
+            "生穴る",
+            "NamaAnaru"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191656-xFHtxM8SUTdU.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191656-xFHtxM8SUTdU.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191656-JQILdzh3FQxN.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1791646200,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "School Club",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Slapstick",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Mixed Gender Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Femboy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 72,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Passione"
+              }
+            ]
+          },
+          "description": "<p>This is Fujinasu Academy, a private high school with top-achieving students located on the outskirts of town.<br />\n<br><br><br />\nHigh School 1st-Year Ume Mizunoe has excellent grades in Japanese language class and has received multiple literary awards.<br />\nHowever, his terrible grades in the sciences are affecting his ability to move up a grade. To avoid repeating a year, he becomes a member of the student council to improve his academic standing.<br />\n<br><br><br />\nHowever, in the student council, he meets the charismatic yet sullen student council president Kotobuki Hisako, and the scary yet kind and refined treasurer, Arisu Terui. Other members include a cheeky and cute boy, Tan Otori, and Komaro Michinoku, the admin who's like a small abandoned cat. This is the start of a slapstick, heartful, rom-com about a busy student council full of cute, mismatched, and quirky students!<br />\n<br><br><br />\n(Source: Even the Student Council Has Its Holes! Official Site)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://nama-anaru.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/nama_anaru"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@nama_anaru"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://aniplexusa.com/studentholes/"
+            },
+            {
+              "site": "OceanVeil",
+              "url": "https://oceanveil.net/anime_titles/542"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>This is Fujinasu Academy, a private high school with top-achieving students located on the outskirts of town.<br />\n<br><br><br />\nHigh School 1st-Year Ume Mizunoe has excellent grades in Japanese language class and has received multiple literary awards.<br />\nHowever, his terrible grades in the sciences are affecting his ability to move up a grade. To avoid repeating a year, he becomes a member of the student council to improve his academic standing.<br />\n<br><br><br />\nHowever, in the student council, he meets the charismatic yet sullen student council president Kotobuki Hisako, and the scary yet kind and refined treasurer, Arisu Terui. Other members include a cheeky and cute boy, Tan Otori, and Komaro Michinoku, the admin who's like a small abandoned cat. This is the start of a slapstick, heartful, rom-com about a busy student council full of cute, mismatched, and quirky students!<br />\n<br><br><br />\n(Source: Even the Student Council Has Its Holes! Official Site)</p>"
+        },
+        {
           "id": 185756,
           "title": {
             "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
@@ -1602,8 +1717,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1791124200,
-            "episode": 2
+            "airingAt": 1791729000,
+            "episode": 3
           },
           "isAdult": false,
           "genres": [
@@ -1769,8 +1884,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191788-tyhsHpXeF26X.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1791122400,
-            "episode": 1
+            "airingAt": 1791705600,
+            "episode": 2
           },
           "isAdult": false,
           "genres": [
@@ -1815,113 +1930,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Aoi Ashito’s game has now earned him a spot on the A team, but he is quickly overwhelmed by his harsh new reality. Surrounded by elite players like Kuribayashi and Akutsu, practices are just as merciless as the matches. In this U-18 Premier League of powerhouse talent, Ashito must evolve or be crushed, if he’s ever to be acknowledged.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
-        },
-        {
-          "id": 191656,
-          "title": {
-            "romaji": "Seitokai ni mo Ana wa Aru!",
-            "english": "Even the Student Council Has Its Holes!",
-            "native": "生徒会にも穴はある！"
-          },
-          "synonyms": [
-            "生穴る",
-            "NamaAnaru"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191656-xFHtxM8SUTdU.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191656-xFHtxM8SUTdU.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191656-JQILdzh3FQxN.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1791646200,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Ecchi",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Mixed Gender Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Slapstick",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School Club",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Femboy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Passione"
-              }
-            ]
-          },
-          "description": "<p>This is Fujinasu Academy, a private high school with top-achieving students located on the outskirts of town.<br />\n<br><br><br />\nHigh School 1st-Year Ume Mizunoe has excellent grades in Japanese language class and has received multiple literary awards.<br />\nHowever, his terrible grades in the sciences are affecting his ability to move up a grade. To avoid repeating a year, he becomes a member of the student council to improve his academic standing.<br />\n<br><br><br />\nHowever, in the student council, he meets the charismatic yet sullen student council president Kotobuki Hisako, and the scary yet kind and refined treasurer, Arisu Terui. Other members include a cheeky and cute boy, Tan Otori, and Komaro Michinoku, the admin who's like a small abandoned cat. This is the start of a slapstick, heartful, rom-com about a busy student council full of cute, mismatched, and quirky students!<br />\n<br><br><br />\n(Source: Even the Student Council Has Its Holes! Official Site)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://nama-anaru.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/nama_anaru"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@nama_anaru"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://aniplexusa.com/studentholes/"
-            },
-            {
-              "site": "OceanVeil",
-              "url": "https://oceanveil.net/anime_titles/542"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>This is Fujinasu Academy, a private high school with top-achieving students located on the outskirts of town.<br />\n<br><br><br />\nHigh School 1st-Year Ume Mizunoe has excellent grades in Japanese language class and has received multiple literary awards.<br />\nHowever, his terrible grades in the sciences are affecting his ability to move up a grade. To avoid repeating a year, he becomes a member of the student council to improve his academic standing.<br />\n<br><br><br />\nHowever, in the student council, he meets the charismatic yet sullen student council president Kotobuki Hisako, and the scary yet kind and refined treasurer, Arisu Terui. Other members include a cheeky and cute boy, Tan Otori, and Komaro Michinoku, the admin who's like a small abandoned cat. This is the start of a slapstick, heartful, rom-com about a busy student council full of cute, mismatched, and quirky students!<br />\n<br><br><br />\n(Source: Even the Student Council Has Its Holes! Official Site)</p>"
         },
         {
           "id": 204389,
@@ -1973,7 +1981,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 71,
+          "averageScore": 73,
           "studios": {
             "nodes": [
               {
@@ -2060,7 +2068,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 69,
+          "averageScore": 70,
           "studios": {
             "nodes": [
               {
@@ -2097,6 +2105,106 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>After battling in Kyoto and Nerima, the Rasetsu Academy students have grown stronger. But Yaoroshi leaves the academy to join the Oni Brigade for their &quot;the total eradication of the Momotaro.&quot;<br />\n<br><br><br />\nWhen Shiki realizes that they also target noncombatants, he sets out after Yaoroshi to bring him back. Meanwhile in Nikko, there's a research facility for horrific experiments atop the old Kegon Falls…<br />\n<br><br><br />\n(Source: REMOW)</p>"
+        },
+        {
+          "id": 209872,
+          "title": {
+            "romaji": "Ranma 1/2 (2024) 3rd Season",
+            "english": "Ranma1/2 (2024) Season 3",
+            "native": "らんま1/2 (2024) 第3期"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209872-RBeVPqwejHFp.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209872-RBeVPqwejHFp.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209872-Qczb4k9Mw0pq.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1791647760,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Gender Bending",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Martial Arts",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shapeshifting",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Arranged Marriage",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Love Triangle",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cohabitation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 73,
+          "studios": {
+            "nodes": [
+              {
+                "name": "MAPPA"
+              }
+            ]
+          },
+          "description": "<p>The third season of <i>Ranma 1/2 (2024)</i>.</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://ranma-pr.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/ranma_pr"
+            },
+            {
+              "site": "Netflix",
+              "url": "https://www.netflix.com/title/81171925"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@ranma_pr"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>The third season of <i>Ranma 1/2 (2024)</i>.</p>"
         },
         {
           "id": 206814,
@@ -2201,106 +2309,6 @@
           "descriptionTr": "<p>Several years have passed since the fierce battle against Majin Buu, and Earth has finally regained a brief moment of peace. At the same time, Beerus, the God of Destruction, awakens from his long, deep sleep.<br><br />\nEven Kai and Supreme Kai, aware of Beerus's overwhelming power to destroy entire planets, watch his awakening with great fear… Meanwhile, Beerus hears rumors of a Saiyan who defeated Frieza—and suddenly appears before Goku.<br><br />\nTargeted by Beerus, the strongest being in the universe, Earth is in grave danger. Thus begins an earth-shattering cosmic battle between the God of Destruction and Goku and his alliesa—a conflict that will shake the entire universe.<br />\n<br><br><br />\n(Source: Official Site)<br />\n<br><br><br />\n<i>Note: “Enhanced” edition of Dragon Ball Super, featuring a large volume of newly added and redrawn cuts, a reconstructed narrative, and updated visuals for a more immersive and faithful representation of Akira Toriyama’s original manga.</i></p>"
         },
         {
-          "id": 209872,
-          "title": {
-            "romaji": "Ranma 1/2 (2024) 3rd Season",
-            "english": "Ranma1/2 (2024) Season 3",
-            "native": "らんま1/2 (2024) 第3期"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209872-RBeVPqwejHFp.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209872-RBeVPqwejHFp.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209872-Qczb4k9Mw0pq.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1791647760,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Gender Bending",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Martial Arts",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shapeshifting",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Arranged Marriage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Love Triangle",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cohabitation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "MAPPA"
-              }
-            ]
-          },
-          "description": "<p>The third season of <i>Ranma 1/2 (2024)</i>.</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://ranma-pr.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/ranma_pr"
-            },
-            {
-              "site": "Netflix",
-              "url": "https://www.netflix.com/title/81171925"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@ranma_pr"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>The third season of <i>Ranma 1/2 (2024)</i>.</p>"
-        },
-        {
           "id": 207327,
           "title": {
             "romaji": "Doko yori mo Tooi Basho ni Iru Kimi e",
@@ -2371,6 +2379,229 @@
           "descriptionTr": "<p>The  story centers on a boy named Kazuki Tsukigase, who transfers to a high school on a remote island to get away from anyone who knows him. Kazuki finds out that there is an inlet on the island where people are rumored to disappear. Exploring the inlet, he encounters an unconscious girl. When she comes to after Kazuki takes her to the clinic, she is unable to give out anything about her identity except that she is named Nao, is 16 years old, and whispers the year &quot;1974.&quot;<br><br><br />\n(Source: Anime News Network, edited)</p>"
         },
         {
+          "id": 169581,
+          "title": {
+            "romaji": "Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
+            "english": "Magical Explorer",
+            "native": "マジカル★エクスプローラー　エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる"
+          },
+          "synonyms": [
+            "Magical Explorer: Reborn as a Side Character in a Fantasy Dating Sim",
+            "Majieku",
+            "マジエク"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 9,
+            "day": 26
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169581-UlAviVH36Hxi.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169581-UlAviVH36Hxi.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169581-cdooqY7Jqy3x.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1791584160,
+            "episode": 3
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Ecchi",
+            "Fantasy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cohabitation",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Adoption",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Maids",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Royal Affairs",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 67,
+          "studios": {
+            "nodes": [
+              {
+                "name": "WHITE FOX"
+              }
+            ]
+          },
+          "description": "<p>Few titles are more revered among horndogs-(ahem) connoisseurs of Japanese erotic video games-than Magical Explorer. One day, our smut-loving hero wakes up to find he has been reincarnated into the body of the game’s dreamboat protagonist! Or rather, his hapless comic-relief best friend, Kousuke Takioto. But with his unparalleled knowledge of Magical Explorer and Kousuke’s unorthodox abilities (a scarf that doubles as a fist?), our hero vows to turn the game’s unluckiest loser into its mightiest heartthrob. In this world, nothing is out of reach when you’ve got the know-how!<br />\n<br><br><br />\n(Source: Yen Press)<br />\n<br><br><br />\n<i>Note: Each episode streamed 1 week early on ABEMA and d anime store. The original TV broadcast started on October 4th, 2026.<i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/Majieku_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://majieku.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00384003/magical-explorer"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Few titles are more revered among horndogs-(ahem) connoisseurs of Japanese erotic video games-than Magical Explorer. One day, our smut-loving hero wakes up to find he has been reincarnated into the body of the game’s dreamboat protagonist! Or rather, his hapless comic-relief best friend, Kousuke Takioto. But with his unparalleled knowledge of Magical Explorer and Kousuke’s unorthodox abilities (a scarf that doubles as a fist?), our hero vows to turn the game’s unluckiest loser into its mightiest heartthrob. In this world, nothing is out of reach when you’ve got the know-how!<br />\n<br><br><br />\n(Source: Yen Press)<br />\n<br><br><br />\n<i>Note: Each episode streamed 1 week early on ABEMA and d anime store. The original TV broadcast started on October 4th, 2026.<i></p>"
+        },
+        {
+          "id": 206401,
+          "title": {
+            "romaji": "FX Senshi Kurumi-chan",
+            "english": "FX Fighter Kurumi-chan",
+            "native": "FX戦士くるみちゃん"
+          },
+          "synonyms": [
+            "Kurumi si Pejuang Forex"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 1
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206401-8cAebkI0i8BA.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206401-8cAebkI0i8BA.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206401-Nsf3QKwKxDra.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1791462600,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Economics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gambling",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Denpa",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Large Breasts",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Suicide",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Work",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Skip",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Educational",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 69,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Passione"
+              }
+            ]
+          },
+          "description": "<p>University student Kurumi Fukuga has finally fulfilled her long-held desire of starting foreign exchange (FX) trading, motivated by recouping the 20 million yen her late mother lost in trading. &quot;I'll easily make it back,&quot; she thought, but the world she enters can become heaven or hell in an instant. Unrealized losses, loss-cutting, unstoppable fluctuations… but she still wants to buy, sell and make money! With fellow FX addicts Mochiko, Mebuki and Yasuko along for the ride, the market heats up! Joy, despair, joy, despair — this is an endearing, yet slightly risky money game. Can Kurumi and her friends survive this turbulent world?<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://fxkurumi-info.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/fxkurumi_info"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://crunchyroll.com/series/GT00384001/fx-fighter-kurumi-chan"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>University student Kurumi Fukuga has finally fulfilled her long-held desire of starting foreign exchange (FX) trading, motivated by recouping the 20 million yen her late mother lost in trading. &quot;I'll easily make it back,&quot; she thought, but the world she enters can become heaven or hell in an instant. Unrealized losses, loss-cutting, unstoppable fluctuations… but she still wants to buy, sell and make money! With fellow FX addicts Mochiko, Mebuki and Yasuko along for the ride, the market heats up! Joy, despair, joy, despair — this is an endearing, yet slightly risky money game. Can Kurumi and her friends survive this turbulent world?<br><br />\n<br><br />\n(Source: Crunchyroll)</p>"
+        },
+        {
           "id": 212503,
           "title": {
             "romaji": "Hyouken no Majutsushi ga Sekai wo Suberu II",
@@ -2426,7 +2657,7 @@
               }
             ]
           },
-          "description": "<p>The second season of <i>Hyouken no Majutsushi ga Sekai wo Suberu.</i><br><br><br />\nAs rival schools compete in the Magicks War, a darker threat looms over Ray and his friends.<br><br><br />\nSource: Crunchyroll News)</p>",
+          "description": "<p>The second season of <i>Hyouken no Majutsushi ga Sekai wo Suberu.</i><br><br><br />\nAs rival schools compete in the Magicks War, a darker threat looms over Ray and his friends.<br><br><br />\n(Source: Crunchyroll News)</p>",
           "externalLinks": [
             {
               "site": "Twitter",
@@ -2442,7 +2673,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "<p>The second season of <i>Hyouken no Majutsushi ga Sekai wo Suberu.</i><br><br><br />\nAs rival schools compete in the Magicks War, a darker threat looms over Ray and his friends.<br><br><br />\nSource: Crunchyroll News)</p>"
+          "descriptionTr": "<p>The second season of <i>Hyouken no Majutsushi ga Sekai wo Suberu.</i><br><br><br />\nAs rival schools compete in the Magicks War, a darker threat looms over Ray and his friends.<br><br><br />\n(Source: Crunchyroll News)</p>"
         },
         {
           "id": 207191,
@@ -2533,6 +2764,89 @@
           "descriptionTr": "<p><b>“Make me a love potion.”</b><br />\n<br><br><br />\nAnd with that single sentence, the Good Witch of the Lake’s secret crush on the dashing Sir Harij ends in heartbreak. Still, when he promises to help her gather the ingredients, Rose is thrilled at the chance to gaze upon a man she’d normally never get to interact with. She learns to brace her pounding heart for their usual stilted conversations…but what is she to do when he inexplicably shows up at her doorstep with bread and a jar of apple butter?<br />\n<br><br><br />\n(Source: Yen Press)</p>"
         },
         {
+          "id": 187402,
+          "title": {
+            "romaji": "Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu",
+            "english": "A Tale of the Secret Saint",
+            "native": "転生した大聖女は、聖女であることをひた隠す"
+          },
+          "synonyms": [
+            "大聖女",
+            "Daiseijo"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 3
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187402-ReKkLwFmMV3q.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187402-ReKkLwFmMV3q.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1791637200,
+            "episode": 3
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Dragons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 65,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Felix Film"
+              }
+            ]
+          },
+          "description": "<p>Fia always dreamed of becoming a knight. Born into a family of knights, she’s the least talented among them, but she still clutches to her hope and trains with everything she has. When the day comes for her to slay a small demon and prove her worth, she ends up face to face with a dragon instead! A deadly injury makes her life flash before her eyes…and she suddenly remembers her former life, when she was a powerful Saint in a bygone era who defeated the Demon King. That life ended in pain because of who she was, making her fear ever becoming a Saint again. Now that the magic from her previous life has been rekindled, she may become a more powerful knight than she ever dreamed–if only she can survive long enough!<br />\n<br><br><br />\n(Source: Seven Seas Entertainment)<br />\n<br><br><br />\n<i>Note: The series streamed a week in advance on ABEMA, Prime Video, and Crunchyroll starting with episode 2 released alongside episode 1.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/daiseijo_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://daiseijo-anime.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371633"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Fia always dreamed of becoming a knight. Born into a family of knights, she’s the least talented among them, but she still clutches to her hope and trains with everything she has. When the day comes for her to slay a small demon and prove her worth, she ends up face to face with a dragon instead! A deadly injury makes her life flash before her eyes…and she suddenly remembers her former life, when she was a powerful Saint in a bygone era who defeated the Demon King. That life ended in pain because of who she was, making her fear ever becoming a Saint again. Now that the magic from her previous life has been rekindled, she may become a more powerful knight than she ever dreamed–if only she can survive long enough!<br />\n<br><br><br />\n(Source: Seven Seas Entertainment)<br />\n<br><br><br />\n<i>Note: The series streamed a week in advance on ABEMA, Prime Video, and Crunchyroll starting with episode 2 released alongside episode 1.</i></p>"
+        },
+        {
           "id": 198727,
           "title": {
             "romaji": "Chitose-kun wa Ramune Bin no Naka Part 2",
@@ -2601,7 +2915,7 @@
               }
             ]
           },
-          "description": "<p>The second part of <i>Chitosekun wa Ramune Bin no Naka</i>.</p>",
+          "description": "<p>The second part of <i>Chitose-kun wa Ramune Bin no Naka</i>.</p>",
           "externalLinks": [
             {
               "site": "Official Site",
@@ -2617,7 +2931,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "<p>The second part of <i>Chitosekun wa Ramune Bin no Naka</i>.</p>"
+          "descriptionTr": "<p>The second part of <i>Chitose-kun wa Ramune Bin no Naka</i>.</p>"
         },
         {
           "id": 178972,
@@ -2824,115 +3138,6 @@
           "descriptionTr": "<p>The second season of <i>Sasaki to Pii-chan</i>.</p>"
         },
         {
-          "id": 206401,
-          "title": {
-            "romaji": "FX Senshi Kurumi-chan",
-            "english": "FX Fighter Kurumi-chan",
-            "native": "FX戦士くるみちゃん"
-          },
-          "synonyms": [
-            "Kurumi si Pejuang Forex"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 1
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206401-8cAebkI0i8BA.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206401-8cAebkI0i8BA.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206401-Nsf3QKwKxDra.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1791462600,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Economics",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gambling",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Denpa",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Large Breasts",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Suicide",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Work",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Skip",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Educational",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 69,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Passione"
-              }
-            ]
-          },
-          "description": "<p>University student Kurumi Fukuga has finally fulfilled her long-held desire of starting foreign exchange (FX) trading, motivated by recouping the 20 million yen her late mother lost in trading. &quot;I'll easily make it back,&quot; she thought, but the world she enters can become heaven or hell in an instant. Unrealized losses, loss-cutting, unstoppable fluctuations… but she still wants to buy, sell and make money! With fellow FX addicts Mochiko, Mebuki and Yasuko along for the ride, the market heats up! Joy, despair, joy, despair — this is an endearing, yet slightly risky money game. Can Kurumi and her friends survive this turbulent world?<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://fxkurumi-info.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/fxkurumi_info"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://crunchyroll.com/series/GT00384001/fx-fighter-kurumi-chan"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>University student Kurumi Fukuga has finally fulfilled her long-held desire of starting foreign exchange (FX) trading, motivated by recouping the 20 million yen her late mother lost in trading. &quot;I'll easily make it back,&quot; she thought, but the world she enters can become heaven or hell in an instant. Unrealized losses, loss-cutting, unstoppable fluctuations… but she still wants to buy, sell and make money! With fellow FX addicts Mochiko, Mebuki and Yasuko along for the ride, the market heats up! Joy, despair, joy, despair — this is an endearing, yet slightly risky money game. Can Kurumi and her friends survive this turbulent world?<br><br />\n<br><br />\n(Source: Crunchyroll)</p>"
-        },
-        {
           "id": 204011,
           "title": {
             "romaji": "PSYЯEN",
@@ -3038,8 +3243,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1791117000,
-            "episode": 1
+            "airingAt": 1791721800,
+            "episode": 2
           },
           "isAdult": false,
           "genres": [
@@ -3104,7 +3309,7 @@
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com"
+              "url": "https://www.crunchyroll.com/series/GT00384006/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship"
             }
           ],
           "isMyList": false,
@@ -3291,8 +3496,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/208025-s7hcRQO7kwmH.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1791130800,
-            "episode": 1
+            "airingAt": 1791735600,
+            "episode": 2
           },
           "isAdult": false,
           "genres": [
@@ -3359,120 +3564,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Amona’s a dark summoner with demonic powers. Roni’s a devout priest who’s way too uptight. By all rights, they should hate each other. Instead, they end up fast-tracking their enemies-to-lovers arc with a one-night stand that somehow insists on becoming a recurring event. Now they must hide their situationship from the rest of the party while denying their growing attraction to one another, all while dealing with an imp who’s far too invested in their love life.<br />\n<br><br><br />\n(Source: HIDIVE)</p>"
-        },
-        {
-          "id": 169581,
-          "title": {
-            "romaji": "Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
-            "english": "Magical Explorer",
-            "native": "マジカル★エクスプローラー　エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる"
-          },
-          "synonyms": [
-            "Magical Explorer: Reborn as a Side Character in a Fantasy Dating Sim",
-            "Majieku",
-            "マジエク"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 9,
-            "day": 26
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169581-UlAviVH36Hxi.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169581-UlAviVH36Hxi.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169581-cdooqY7Jqy3x.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1791584160,
-            "episode": 3
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Ecchi",
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cohabitation",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Adoption",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Maids",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 58,
-          "studios": {
-            "nodes": [
-              {
-                "name": "WHITE FOX"
-              }
-            ]
-          },
-          "description": "<p>Few titles are more revered among horndogs-(ahem) connoisseurs of Japanese erotic video games-than Magical Explorer. One day, our smut-loving hero wakes up to find he has been reincarnated into the body of the game’s dreamboat protagonist! Or rather, his hapless comic-relief best friend, Kousuke Takioto. But with his unparalleled knowledge of Magical Explorer and Kousuke’s unorthodox abilities (a scarf that doubles as a fist?), our hero vows to turn the game’s unluckiest loser into its mightiest heartthrob. In this world, nothing is out of reach when you’ve got the know-how!<br />\n<br><br><br />\n(Source: Yen Press)<br />\n<br><br><br />\n<i>Note: Each episode streamed 1 week early on ABEMA and d anime store. The original TV broadcast started on October 4th, 2026.<i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/Majieku_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://majieku.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00384003/magical-explorer"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Few titles are more revered among horndogs-(ahem) connoisseurs of Japanese erotic video games-than Magical Explorer. One day, our smut-loving hero wakes up to find he has been reincarnated into the body of the game’s dreamboat protagonist! Or rather, his hapless comic-relief best friend, Kousuke Takioto. But with his unparalleled knowledge of Magical Explorer and Kousuke’s unorthodox abilities (a scarf that doubles as a fist?), our hero vows to turn the game’s unluckiest loser into its mightiest heartthrob. In this world, nothing is out of reach when you’ve got the know-how!<br />\n<br><br><br />\n(Source: Yen Press)<br />\n<br><br><br />\n<i>Note: Each episode streamed 1 week early on ABEMA and d anime store. The original TV broadcast started on October 4th, 2026.<i></p>"
         },
         {
           "id": 209502,
@@ -3553,29 +3644,31 @@
           "descriptionTr": "<p>Sato-san is the unattainable flower of the class. She is always cold and curt with classmates, but only I know she's actually very cute when she smiles, even if she's not much of a photographer.<br />\n<br><br><br />\nOshio-kun is friendly and lively, but only I know he works at his family's cafe after school. He does a great job with the cafe's SNS account, and his mischievous smile makes my heart skip a beat!<br />\n<br><br><br />\nInnocent and sweet, but sometimes frustrating, this is a 120%-pure fluffy story about two people falling in love for the first time.</p>"
         },
         {
-          "id": 187402,
+          "id": 202250,
           "title": {
-            "romaji": "Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu",
-            "english": "A Tale of the Secret Saint",
-            "native": "転生した大聖女は、聖女であることをひた隠す"
+            "romaji": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
+            "english": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+            "native": "貸した魔力は【リボ払い】で強制徴収"
           },
           "synonyms": [
-            "大聖女",
-            "Daiseijo"
+            "貸した魔力は【リボ払い】で強制徴収～用済みとパーティー追放された俺は、可愛いサポート妖精と一緒に取り立てた魔力を運用して最強を目指す。～",
+            "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu ~Youzumi to Party Tsuihou sareta Ore wa, Kawaii Support Yousei to Issho ni Toritateta Maryoku wo Unyou shite Saikyou wo Mezasu.",
+            "Maryoku Revo",
+            "魔力リボ"
           ],
           "startDate": {
             "year": 2026,
             "month": 10,
-            "day": 3
+            "day": 4
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187402-ReKkLwFmMV3q.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187402-ReKkLwFmMV3q.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-duq4XpZP8TU3.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202250-duq4XpZP8TU3.jpg"
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1791637200,
-            "episode": 3
+            "airingAt": 1791649800,
+            "episode": 2
           },
           "isAdult": false,
           "genres": [
@@ -3585,19 +3678,7 @@
           ],
           "tags": [
             {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dragons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
+              "name": "Revenge",
               "isMediaSpoiler": false
             },
             {
@@ -3605,7 +3686,92 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "CGI",
+              "name": "Fairy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Economics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Bullying",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 59,
+          "studios": {
+            "nodes": [
+              {
+                "name": "SynergySP"
+              }
+            ]
+          },
+          "description": "<p>If there's one thing you can never have enough of in a world of RPG-style swords and sorcery, it's magic points! Whether you're fueling spells, techniques, or showing off an incredible ability, you've gotta spend those points to do real damage. But what if you run out?<br />\n<br><br><br />\nLent is part of the up-and-coming party known as the “Skypiercers,” and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious…until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!<br><br><br />\n(Source: Seven Seas Entertainment)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/revo_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://revo-anime.com"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00385867/magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>If there's one thing you can never have enough of in a world of RPG-style swords and sorcery, it's magic points! Whether you're fueling spells, techniques, or showing off an incredible ability, you've gotta spend those points to do real damage. But what if you run out?<br />\n<br><br><br />\nLent is part of the up-and-coming party known as the “Skypiercers,” and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious…until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!<br><br><br />\n(Source: Seven Seas Entertainment)</p>"
+        },
+        {
+          "id": 186742,
+          "title": {
+            "romaji": "Toaru Anbu no ITEM",
+            "english": "A Certain Dark Item",
+            "native": "とある暗部の少女共棲"
+          },
+          "synonyms": [
+            "A Certain Dark Side's Item"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 9
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186742-v7yfbefc8fuO.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186742-v7yfbefc8fuO.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1791552600,
+            "episode": 1
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "tags": [
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
               "isMediaSpoiler": false
             }
           ],
@@ -3613,27 +3779,27 @@
           "studios": {
             "nodes": [
               {
-                "name": "Felix Film"
+                "name": "J.C.STAFF"
               }
             ]
           },
-          "description": "<p>Fia always dreamed of becoming a knight. Born into a family of knights, she’s the least talented among them, but she still clutches to her hope and trains with everything she has. When the day comes for her to slay a small demon and prove her worth, she ends up face to face with a dragon instead! A deadly injury makes her life flash before her eyes…and she suddenly remembers her former life, when she was a powerful Saint in a bygone era who defeated the Demon King. That life ended in pain because of who she was, making her fear ever becoming a Saint again. Now that the magic from her previous life has been rekindled, she may become a more powerful knight than she ever dreamed–if only she can survive long enough!<br />\n<br><br><br />\n(Source: Seven Seas Entertainment)<br />\n<br><br><br />\n<i>Note: The series streamed a week in advance on ABEMA, Prime Video, and Crunchyroll starting with episode 2 released alongside episode 1.</i></p>",
+          "description": "<p>This is a story of four girls living in the &quot;Dark Side&quot; of Academy City.<br><br />\n<br><br />\nIn Academy City where &quot;ESP&quot; has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.<br><br />\n<br><br />\n&quot;ITEM&quot; is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.<br><br />\n<br><br />\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!<br><br />\n<br><br />\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!<br><br />\n<br><br />\n(Source: Kadokawa, translated)</p>",
           "externalLinks": [
             {
               "site": "Twitter",
-              "url": "https://x.com/daiseijo_anime"
+              "url": "https://x.com/toaru_project"
             },
             {
               "site": "Official Site",
-              "url": "https://daiseijo-anime.com/"
+              "url": "https://toaru-project.com/item/"
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371633"
+              "url": "https://www.crunchyroll.com/"
             }
           ],
           "isMyList": false,
-          "descriptionTr": "<p>Fia always dreamed of becoming a knight. Born into a family of knights, she’s the least talented among them, but she still clutches to her hope and trains with everything she has. When the day comes for her to slay a small demon and prove her worth, she ends up face to face with a dragon instead! A deadly injury makes her life flash before her eyes…and she suddenly remembers her former life, when she was a powerful Saint in a bygone era who defeated the Demon King. That life ended in pain because of who she was, making her fear ever becoming a Saint again. Now that the magic from her previous life has been rekindled, she may become a more powerful knight than she ever dreamed–if only she can survive long enough!<br />\n<br><br><br />\n(Source: Seven Seas Entertainment)<br />\n<br><br><br />\n<i>Note: The series streamed a week in advance on ABEMA, Prime Video, and Crunchyroll starting with episode 2 released alongside episode 1.</i></p>"
+          "descriptionTr": "<p>This is a story of four girls living in the &quot;Dark Side&quot; of Academy City.<br><br />\n<br><br />\nIn Academy City where &quot;ESP&quot; has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.<br><br />\n<br><br />\n&quot;ITEM&quot; is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.<br><br />\n<br><br />\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!<br><br />\n<br><br />\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!<br><br />\n<br><br />\n(Source: Kadokawa, translated)</p>"
         },
         {
           "id": 178868,
@@ -3765,79 +3931,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Hikaru Shidou, Umi Ryuuzaki, and Fuu Hououji aren't from Cephiro. While on a school field trip to the Tokyo Tower, the three girls' minds are on anything but different worlds filled with magic and wonder. That is, until Princess Emeraude, the Pillar of Cephiro, cries out for the Magic Knights to save her world--and that just happens to be those three!<br />\n<br><br></p>\n<p>(Source: Crunchyroll)</p>"
-        },
-        {
-          "id": 186742,
-          "title": {
-            "romaji": "Toaru Anbu no ITEM",
-            "english": "A Certain Dark Item",
-            "native": "とある暗部の少女共棲"
-          },
-          "synonyms": [
-            "A Certain Dark Side's Item"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 9
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186742-v7yfbefc8fuO.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186742-v7yfbefc8fuO.png"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1791552600,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Sci-Fi"
-          ],
-          "tags": [
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "J.C.STAFF"
-              }
-            ]
-          },
-          "description": "<p>This is a story of four girls living in the &quot;Dark Side&quot; of Academy City.<br><br />\n<br><br />\nIn Academy City where &quot;ESP&quot; has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.<br><br />\n<br><br />\n&quot;ITEM&quot; is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.<br><br />\n<br><br />\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!<br><br />\n<br><br />\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!<br><br />\n<br><br />\n(Source: Kadokawa, translated)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/toaru_project"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://toaru-project.com/item/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>This is a story of four girls living in the &quot;Dark Side&quot; of Academy City.<br><br />\n<br><br />\nIn Academy City where &quot;ESP&quot; has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.<br><br />\n<br><br />\n&quot;ITEM&quot; is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.<br><br />\n<br><br />\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!<br><br />\n<br><br />\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!<br><br />\n<br><br />\n(Source: Kadokawa, translated)</p>"
         },
         {
           "id": 207329,
@@ -4019,6 +4112,213 @@
           "descriptionTr": "<p>&quot;The Mask” gives power to anyone who wears it.<br><br></p>\n<p>At times, that means endless possibility, or unimaginable tragedy…<br><br></p>\n<p>Peru, pupil of the legendary mask maker Gaston Roux, becomes controlled by the “Mask of the Warrior God,” and unintentionally kills his friends, and even his own master.<br />\n<br><br><br />\nIn order to prevent this type of tragedy from reoccurring, Peru swears to destroy all of Gaston’s masks that are spread around the world. Confronting the sins that he has committed, he embarks on his voyage. Meeting new friends, then confronting powerful foes. The boy continues on. Until the day he can atone for his sins against his master.<br />\n<br><br><br />\n(Source: The Vermillion Mask English Site)</p>"
         },
         {
+          "id": 199007,
+          "title": {
+            "romaji": "#Zombie Sagashitemasu",
+            "english": "#I'm Looking For a Zombie",
+            "native": "#ゾンビさがしてます"
+          },
+          "synonyms": [
+            "Zommasu",
+            "ゾンます"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 3
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-qxUDe3KA6AGI.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199007-qxUDe3KA6AGI.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1791642600,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Horror",
+            "Mystery",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Zombie",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Post-Apocalyptic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cute Girls Doing Cute Things",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gyaru",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Survival",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Travel",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 60,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Studio Comet"
+              }
+            ]
+          },
+          "description": "<p>It may be a ruined city ravaged by zombies, but to Aki and her friends, it’s amazing! Having grown up only hearing stories of the old world and the mysterious outbreak that wiped out humanity, she sets off with her childhood friends in search of her missing father. Things quickly become a fight for survival outside the safety of their small village, yet they’ve never felt more alive.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/zommasu_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://zommasu.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00383996/im-looking-for-a-zombie"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>It may be a ruined city ravaged by zombies, but to Aki and her friends, it’s amazing! Having grown up only hearing stories of the old world and the mysterious outbreak that wiped out humanity, she sets off with her childhood friends in search of her missing father. Things quickly become a fight for survival outside the safety of their small village, yet they’ve never felt more alive.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
+        },
+        {
+          "id": 180894,
+          "title": {
+            "romaji": "Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
+            "english": "Romelia War Chronicle",
+            "native": "ロメリア戦記 〜魔王を倒した後も人類やばそうだから軍隊組織した〜"
+          },
+          "synonyms": [
+            "A History of the Romelia"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 3
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180894-o3pz4DWFm3je.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180894-o3pz4DWFm3je.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1791633600,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Military",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Villainess",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Exiled",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Royal Affairs",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Politics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Economics",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 66,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Atra"
+              }
+            ]
+          },
+          "description": "<p>Romelia and her party succeed in defeating the Demon King Zelgis, though Prince Henri’s reckless charge forces them into a grueling battle. In the aftermath, Romelia is branded &quot;dead weight&quot; for not fighting directly, and the Prince unilaterally breaks off their engagement. Denied a place in the victory celebrations, Romelia returns home, only to be met with cold indifference from her family and society. Yet, she refuses to break. She has already set her sights on the path that lies ahead.<br />\n<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br><br />\n<i>Note: Romelia War Chronicle was streamed 2 days in advance of the TV broadcast on AnimeTimes, U-NEXT, and Netflix beginning October 3, 2026. Regular broadcasting began on October 5, 2026.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://romelia-senki.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/romelia_senki"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/@anime.romeliasenki"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00384007/romelia-war-chronicle"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Romelia and her party succeed in defeating the Demon King Zelgis, though Prince Henri’s reckless charge forces them into a grueling battle. In the aftermath, Romelia is branded &quot;dead weight&quot; for not fighting directly, and the Prince unilaterally breaks off their engagement. Denied a place in the victory celebrations, Romelia returns home, only to be met with cold indifference from her family and society. Yet, she refuses to break. She has already set her sights on the path that lies ahead.<br />\n<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br><br />\n<i>Note: Romelia War Chronicle was streamed 2 days in advance of the TV broadcast on AnimeTimes, U-NEXT, and Netflix beginning October 3, 2026. Regular broadcasting began on October 5, 2026.</i></p>"
+        },
+        {
           "id": 211877,
           "title": {
             "romaji": "Kanojo no Tomodachi",
@@ -4037,8 +4337,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1791129900,
-            "episode": 1
+            "airingAt": 1791734700,
+            "episode": 2
           },
           "isAdult": false,
           "genres": [
@@ -4260,91 +4560,6 @@
           "descriptionTr": "<p>After using her SSS-Rank skill, Internet, to crush her former family’s ambitions, Lorna is free to travel the world. Her next stop is the port town of Aquas, where she hopes to see the sights and chow down on some fresh seafood. But when she arrives, the place is on the brink of destruction thanks to a certain Weekly Quest… Good thing Lorna has the gods on her side!<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
-          "id": 202250,
-          "title": {
-            "romaji": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
-            "english": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
-            "native": "貸した魔力は【リボ払い】で強制徴収"
-          },
-          "synonyms": [
-            "貸した魔力は【リボ払い】で強制徴収～用済みとパーティー追放された俺は、可愛いサポート妖精と一緒に取り立てた魔力を運用して最強を目指す。～",
-            "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu ~Youzumi to Party Tsuihou sareta Ore wa, Kawaii Support Yousei to Issho ni Toritateta Maryoku wo Unyou shite Saikyou wo Mezasu.",
-            "Maryoku Revo",
-            "魔力リボ"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-duq4XpZP8TU3.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202250-duq4XpZP8TU3.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1791649800,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Revenge",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Fairy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Economics",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Bullying",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "SynergySP"
-              }
-            ]
-          },
-          "description": "<p>If there's one thing you can never have enough of in a world of RPG-style swords and sorcery, it's magic points! Whether you're fueling spells, techniques, or showing off an incredible ability, you've gotta spend those points to do real damage. But what if you run out?<br />\n<br><br><br />\nLent is part of the up-and-coming party known as the “Skypiercers,” and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious…until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!<br><br><br />\n(Source: Seven Seas Entertainment)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/revo_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://revo-anime.com"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00385867/magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>If there's one thing you can never have enough of in a world of RPG-style swords and sorcery, it's magic points! Whether you're fueling spells, techniques, or showing off an incredible ability, you've gotta spend those points to do real damage. But what if you run out?<br />\n<br><br><br />\nLent is part of the up-and-coming party known as the “Skypiercers,” and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious…until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!<br><br><br />\n(Source: Seven Seas Entertainment)</p>"
-        },
-        {
           "id": 160803,
           "title": {
             "romaji": "Mahou Shoujo Ikusei Keikaku: restart",
@@ -4444,207 +4659,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>A stage reading in the Magical Girl Raising Project franchise announced that an anime adaptation of Asari Endou's Magical Girl Raising Project Restart light novel volumes has been green-lit. Hiroyuki Hashimoto reported on Twitter that he will return from the first Magical Girl Raising Project anime as the director. The franchise's Twitter account also teased that various initiatives are in the works for &quot;Project restart.&quot;<br><br><br />\n(Source: Anime News Network)</p>"
-        },
-        {
-          "id": 212539,
-          "title": {
-            "romaji": "Takopii no Genzai: Arigatou, Mata Ashita",
-            "english": null,
-            "native": "タコピーの原罪 -ありがとう、また明日-"
-          },
-          "synonyms": [
-            "Takopi’s Orignal Sin: Thank You, See You Tomorrow",
-            "Takopi’s Original Sin Movie"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 11,
-            "day": 27
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212539-mZ3VbIErKBOr.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212539-mZ3VbIErKBOr.png"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": null,
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Psychological",
-            "Sci-Fi"
-          ],
-          "tags": [
-            {
-              "name": "Denpa",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Bullying",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Philosophy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Aliens",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shapeshifting",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Child Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Rural",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "ENISHIYA"
-              }
-            ]
-          },
-          "description": "<p>Theatrical compilation of all six episodes of the anime series <i>Takopii no Genzai</i>, including newly added scenes.</p>",
-          "externalLinks": [
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@takopi_anime"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/takopi_pr"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://www.tbs.co.jp/anime/takopi_project/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Theatrical compilation of all six episodes of the anime series <i>Takopii no Genzai</i>, including newly added scenes.</p>"
-        },
-        {
-          "id": 199007,
-          "title": {
-            "romaji": "#Zombie Sagashitemasu",
-            "english": "#I'm Looking For a Zombie",
-            "native": "#ゾンビさがしてます"
-          },
-          "synonyms": [
-            "Zommasu",
-            "ゾンます"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 3
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-qxUDe3KA6AGI.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199007-qxUDe3KA6AGI.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1791642600,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Horror",
-            "Mystery",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Zombie",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Post-Apocalyptic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cute Girls Doing Cute Things",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gyaru",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Survival",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Travel",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Studio Comet"
-              }
-            ]
-          },
-          "description": "<p>It may be a ruined city ravaged by zombies, but to Aki and her friends, it’s amazing! Having grown up only hearing stories of the old world and the mysterious outbreak that wiped out humanity, she sets off with her childhood friends in search of her missing father. Things quickly become a fight for survival outside the safety of their small village, yet they’ve never felt more alive.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/zommasu_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://zommasu.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00383996/im-looking-for-a-zombie"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>It may be a ruined city ravaged by zombies, but to Aki and her friends, it’s amazing! Having grown up only hearing stories of the old world and the mysterious outbreak that wiped out humanity, she sets off with her childhood friends in search of her missing father. Things quickly become a fight for survival outside the safety of their small village, yet they’ve never felt more alive.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         }
       ]
     }
