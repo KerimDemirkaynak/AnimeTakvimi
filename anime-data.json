@@ -19,7 +19,7 @@
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195516-MJpUZlOberqH.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195516-MJpUZlOberqH.jpg"
           },
-          "bannerImage": null,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195516-B5M0cPaQbQXI.jpg",
           "nextAiringEpisode": {
             "airingAt": 1791554400,
             "episode": 2
@@ -1429,11 +1429,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Shounen",
               "isMediaSpoiler": false
             },
             {
-              "name": "Shounen",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
@@ -1504,7 +1504,7 @@
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205909-DM0fAzNQulod.jpg"
           },
-          "bannerImage": null,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/205909-hGeuFYrdhf9S.jpg",
           "nextAiringEpisode": {
             "airingAt": 1791556200,
             "episode": 1
@@ -1640,7 +1640,7 @@
               }
             ]
           },
-          "description": "<p>The second season of <i>Kikansha no Mahou wa Tokubetsu desu</i>.</p>",
+          "description": "<p>In a land dominated by the formidable Shadow Worlds, most of humanity has been destroyed. To rescue their planet from impending doom, six brave heroes fight a perilous battle…and fail. But there’s a glimpse of hope when Desir, one of the last mages, is suddenly sent back in time 13 years! Now armed with knowledge of the grim future, can he alter the course of history and save the world?<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
           "externalLinks": [
             {
               "site": "Twitter",
@@ -1656,7 +1656,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "<p>The second season of <i>Kikansha no Mahou wa Tokubetsu desu</i>.</p>"
+          "descriptionTr": "<p>In a land dominated by the formidable Shadow Worlds, most of humanity has been destroyed. To rescue their planet from impending doom, six brave heroes fight a perilous battle…and fail. But there’s a glimpse of hope when Desir, one of the last mages, is suddenly sent back in time 13 years! Now armed with knowledge of the grim future, can he alter the course of history and save the world?<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
           "id": 185756,
@@ -2098,6 +2098,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Large Breasts",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Magic",
               "isMediaSpoiler": false
             },
@@ -2123,10 +2127,6 @@
             },
             {
               "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Large Breasts",
               "isMediaSpoiler": false
             },
             {
@@ -2391,8 +2391,8 @@
             "day": 5
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207191-MV0uJNxN7LNY.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207191-MV0uJNxN7LNY.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-4rkciwfBGi2A.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207191-4rkciwfBGi2A.jpg"
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207191-xYgpkCDnXc5m.jpg",
           "nextAiringEpisode": {
@@ -2644,11 +2644,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Shounen",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Shounen",
               "isMediaSpoiler": false
             }
           ],
@@ -3020,14 +3020,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Suicide",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Large Breasts",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Work",
               "isMediaSpoiler": false
             },
@@ -3036,8 +3028,16 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Large Breasts",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Time Skip",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Suicide",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 69,
@@ -3365,6 +3365,10 @@
             },
             {
               "name": "Cute Girls Doing Cute Things",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Video Games",
               "isMediaSpoiler": false
             },
             {
@@ -3710,11 +3714,35 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Age Regression",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Reincarnation",
               "isMediaSpoiler": false
             },
             {
+              "name": "Maids",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ojou-sama",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Acting",
               "isMediaSpoiler": false
             },
             {
@@ -3742,7 +3770,7 @@
             },
             {
               "site": "HIDIVE",
-              "url": "https://www.hidive.com"
+              "url": "https://www.hidive.com/season/39540"
             }
           ],
           "isMyList": false,
@@ -3836,7 +3864,7 @@
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/"
+              "url": "https://www.crunchyroll.com/series/GT00384014/the-cold-sato-san-is-only-sweet-to-me"
             }
           ],
           "isMyList": false,
@@ -4024,7 +4052,7 @@
         {
           "id": 180894,
           "title": {
-            "romaji": "Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
+            "romaji": "Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
             "english": "Romelia War Chronicle",
             "native": "ロメリア戦記 〜魔王を倒した後も人類やばそうだから軍隊組織した〜"
           },
@@ -4434,15 +4462,15 @@
           ],
           "tags": [
             {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Zombie",
               "isMediaSpoiler": false
             },
             {
               "name": "Post-Apocalyptic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -4548,11 +4576,11 @@
           ],
           "tags": [
             {
-              "name": "Urban Fantasy",
+              "name": "Surreal Comedy",
               "isMediaSpoiler": false
             },
             {
-              "name": "Surreal Comedy",
+              "name": "Urban Fantasy",
               "isMediaSpoiler": false
             },
             {
@@ -4564,15 +4592,23 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Slapstick",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
+              "name": "Chibi",
               "isMediaSpoiler": false
             },
             {
               "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Slapstick",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Exiled",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
               "isMediaSpoiler": false
             },
             {
@@ -4581,14 +4617,6 @@
             },
             {
               "name": "Gangs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Chibi",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Exiled",
               "isMediaSpoiler": false
             }
           ],
@@ -4616,7 +4644,7 @@
             },
             {
               "site": "Crunchyroll",
-              "url": "https://crunchyroll.com/series/GT00384016/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life"
+              "url": "https://www.crunchyroll.com/series/GT00384016/"
             },
             {
               "site": "Official Site",
