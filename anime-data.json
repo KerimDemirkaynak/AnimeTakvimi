@@ -75,6 +75,22 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Work",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Foreign",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Amnesia",
               "isMediaSpoiler": true
             }
@@ -107,7 +123,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Shi Klanının isyanının ardından işler nihayet sakinleşti ve Maomao, zevk bölgesindeki eczacı olarak eski hayatına geri döndü.<br><br>Bir gün Verdigris Evi'nde servis edilen kahvaltının tetiklediği Maomao bir anormallik hisseder ve bunun gerçek doğasını araştırmaya başlar.<br><br>Bu arada, İmparatorluk kardeşi olarak gerçek kimliğini ortaya çıkaran ve ağır sorumluluklarıyla yüzleşmeye başlayan Jinshi, Loulan'ın bıraktığı son mesajdan derinden rahatsız oluyor: yaklaşan \"ulusu vuracak bir felaket\" uyarısı.<br><br>Daha da kötüsü, insanları aldatan gizemli bir tapınak kızının söylentileri yayılmaya başlar ve Li ülkesine bir kez daha karanlık bir gölge düşürür.<br><br>İç avlunun derinliklerinden şehrin sokaklarına ve yabancı sınırların ötesine kadar dünya genişliyor ve Maomao ile Jinshi için riskler daha da artıyor.<br><br>(Kaynak: Crunchyroll Haberleri)"
+          "descriptionTr": "Shi Klanının isyanının ardından işler nihayet sakinleşti ve Maomao, zevk bölgesindeki eczacı olarak eski hayatına geri döndü.<br><br>Bir gün Verdigris Evi'nde servis edilen kahvaltının tetiklediği Maomao, bir anormallik hisseder ve bunun gerçek doğasını araştırmaya başlar.<br><br>Bu arada, İmparatorluk kardeşi olarak gerçek kimliğini ortaya çıkaran ve ağır sorumluluklarıyla yüzleşmeye başlayan Jinshi, Loulan'ın bıraktığı son mesajdan derinden rahatsız oluyor: yaklaşan \"ulusu vuracak bir felaket\" uyarısı.<br><br>Daha da kötüsü, insanları aldatan gizemli bir tapınak kızının söylentileri yayılmaya başlar ve Li ülkesine bir kez daha karanlık bir gölge düşürür.<br><br>İç avlunun derinliklerinden şehrin sokaklarına ve yabancı sınırların ötesine kadar dünya genişliyor ve Maomao ile Jinshi için riskler daha da artıyor.<br><br>(Kaynak: Crunchyroll Haberleri)"
         },
         {
           "id": 195604,
@@ -172,7 +188,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 87,
+          "averageScore": 86,
           "studios": {
             "nodes": [
               {
@@ -208,7 +224,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yonca Krallığı zulmün etkisi altına alırken Asta ve Büyülü Şövalyeler, takım kaptanlarını Karanlık Üçlü'den kurtarmak için Maça Krallığı'na umutsuz bir baskın başlatır. Ancak görevleri onları şimdiye kadar karşılaştıkları her şeyin ötesindeki güçlere karşı acımasız bir savaşa sürüklüyor. Artık Asta, arkadaşlarını korumak ve Yuno'ya verdiği sözü yerine getirmek için imkansız zorlukların üstesinden gelmeli.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Yonca Krallığı zulmün etkisi altına alırken Asta ve Büyülü Şövalyeler, takım kaptanlarını Karanlık Üçlü'den kurtarmak için Maça Krallığı'na umutsuz bir baskın düzenler. Ancak görevleri onları şimdiye kadar karşılaştıkları her şeyin ötesindeki güçlere karşı acımasız bir savaşa sürüklüyor. Artık Asta, arkadaşlarını korumak ve Yuno'ya verdiği sözü yerine getirmek için imkansız zorlukların üstesinden gelmeli.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 195539,
@@ -299,7 +315,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Cyberpunk: Edgerunners 2 sizi hayatların uç noktalara kadar karıştığı Night City'ye geri çekiyor. Yıkılmış bir siberpunk efsanesi olan Weak, yanından geçip gittiği bir dünyada bir amaç duygusu ararken artık kromsuz yaşamak zorunda kalıyor. Bu arada, ölümcül göçebe D, onu asla bulunması gerekmeyen kurumsal sırlara yaklaştıran bir intikam yoluna koyulur. Bu on bölümlük bağımsız dizide aile, takıntı ve mirasa ilişkin bir hikayeyi ve merceğinizin etrafınızdaki insanların hikayelerini nasıl yansıttığını ortaya çıkarın.<br><br>Dünya gösteriyle kör olduğunda, hikayenizi önemli kılmak için hangi aşırılıklara gitmeniz gerekiyor?<br><br>(Kaynak: Cyberpunk: Edgerunners 2 Resmi Sitesi, Resmi Twitter)"
+          "descriptionTr": "Cyberpunk: Edgerunners 2 sizi hayatların uç noktalara kadar karıştığı Night City'ye geri götürüyor. Yıkılmış bir siberpunk efsanesi olan Weak, yanından geçip gittiği bir dünyada bir amaç duygusu ararken artık kromsuz yaşamak zorunda kalıyor. Bu arada, ölümcül göçebe D, onu asla bulunması gerekmeyen kurumsal sırlara yaklaştıran bir intikam yoluna koyulur. Bu on bölümlük bağımsız dizide aile, takıntı ve mirasa ilişkin bir hikayeyi ve merceğinizin etrafınızdaki insanların hikayelerini nasıl yansıttığını ortaya çıkarın.<br><br>Dünya gösterilerle kör olduğunda, hikayenizi önemli kılmak için hangi aşırılıklara gitmeniz gerekiyor?<br><br>(Kaynak: Cyberpunk: Edgerunners 2 Resmi Sitesi, Resmi Twitter)"
         },
         {
           "id": 159042,
@@ -425,7 +441,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 74,
+          "averageScore": 75,
           "studios": {
             "nodes": [
               {
@@ -914,7 +930,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "2. AŞAMA'da, Johnny Joestar ve Gyro Zeppeli'nin meydan okuması gereken yaklaşık 750 mil uzunluğundaki çöl geçişi, \"Şeytanın Avucu\" olarak korkulan bölgeye ev sahipliği yapıyor. 1875 yılında, söz konusu çölde gizlenen bir tehdit, 26 kişilik bir süvariyi yok ederek yerel yerli halkta korku uyandırdı. Uğursuz olaylar ortaya çıkmaya başladıkça, bu yarışın sadece bir rekabetten çok daha fazlası olduğunu anlamak zorunda kalıyorlar. İkili, sayısız gizli amacın çarpıştığı noktada ilerlemeye devam ediyor.<br><br>(Kaynak: Warner Bros. Japonya Animesi, Netflix Animesi, düzenlendi)"
+          "descriptionTr": "2. AŞAMAda, Johnny Joestar ve Gyro Zeppeli'nin meydan okuması gereken yaklaşık 750 mil uzunluğundaki çöl geçişi, \"Şeytanın Avucu\" olarak korkulan bölgeye ev sahipliği yapıyor. 1875 yılında, söz konusu çölde gizlenen bir tehdit, 26 kişilik bir süvariyi yok etti ve yerel yerli halkta korku uyandırdı. Uğursuz olaylar ortaya çıkmaya başladıkça, bu yarışın sadece bir rekabetten çok daha fazlası olduğunu anlamak zorunda kalıyorlar. İkili, sayısız gizli amacın çarpıştığı noktada ilerlemeye çalışır.<br><br>(Kaynak: Warner Bros. Japonya Animesi, Netflix Animesi, düzenlendi)"
         },
         {
           "id": 199340,
@@ -1023,7 +1039,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "\"Aslında ben Touko Kirishima'yım.\"<br><br>Gizemli ve son derece popüler internet şarkıcısının gerçek kimliğinin ülkenin en sevilen oyuncusu Mai Sakurajima'dan başkası olmadığını öğrenen izleyiciler heyecana kapıldı. Sahne, Sakuta Azusagawa'nın Noel arifesinde gördüğü rüyanın tıpatıp aynısıydı.<br><br>Mai'nin 1 Nisan'daki şok edici itirafıyla başlayan, bir zamanlar herkesin hayalini kurduğu imkansız olaylar birbiri ardına gerçekleşmeye devam ediyor.<br><br>Hayallerin gerçeğe dönüştüğü sosyal medya hashtag'i \"#Yumemiru\" ortadan kaybolmuştur ve Sakuta, önündeki gerçeklik ile kendi algısı arasındaki kopuklukla uğraşırken kendisinin alternatif gerçeklikteki bir versiyonundan bir mesaj alır.<br><br>―Touko Kirishima'yı durdurun,<br><br>―Gerçeklik yeniden yazılmadan önce.<br><br>Sakuta, dünyayı orijinal durumuna döndürmek için Touko Kirishima'yı bulmaya koyulur. Bu \"Ergen Sendromu\"nun üstesinden gelmenin hikayesidir.<br><br>(Kaynak: Crunchyroll News, düzenlendi)"
+          "descriptionTr": "\"Aslında ben Touko Kirishima'yım.\"<br><br>Gizemli ve son derece popüler internet şarkıcısının gerçek kimliğinin ülkenin en sevilen oyuncusu Mai Sakurajima'dan başkası olmadığını öğrenen izleyiciler heyecana kapıldı. Sahne, Sakuta Azusagawa'nın Noel arifesinde gördüğü rüyanın tamamen aynısıydı.<br><br>Mai'nin 1 Nisan'daki şok edici itirafıyla başlayan, bir zamanlar herkesin hayalini kurduğu imkansız olaylar birbiri ardına gerçekleşmeye devam ediyor.<br><br>Hayallerin gerçeğe dönüştüğü sosyal medya hashtag'i \"#Yumemiru\" ortadan kaybolmuştur ve Sakuta, önündeki gerçeklik ile kendi algısı arasındaki kopuklukla uğraşırken kendisinin alternatif gerçeklikteki bir versiyonundan bir mesaj alır.<br><br>―Touko Kirishima'yı durdurun,<br><br>―Gerçeklik yeniden yazılmadan önce.<br><br>Sakuta, dünyayı orijinal durumuna döndürmek için Touko Kirishima'yı bulmaya koyulur. Bu \"Ergen Sendromu\"nun üstesinden gelmenin hikayesidir.<br><br>(Kaynak: Crunchyroll News, düzenlendi)"
         },
         {
           "id": 178083,
@@ -1228,8 +1244,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1791471360,
-            "episode": 2
+            "airingAt": 1792076160,
+            "episode": 3
           },
           "isAdult": false,
           "genres": [
@@ -1284,7 +1300,7 @@
               }
             ]
           },
-          "description": "<p>Koyuki, the isolated girl; Miki, the former school idol; Minato, the guy with no concept of personal space; and Yota, the gentle basketball player. Clumsy, frustrating, yet deeply endearing — this coming-of-age ensemble drama of crisscrossing hearts marches on.<br />\n<br><br><br />\nAs they grow closer, Koyuki and Minato begin to develop feelings for each other that go beyond mere friendship. Meanwhile, Yota finally confesses to Miki the feelings he's harbored for years. Some speak their hearts while others keep their emotions hidden, causing their paths — and their feelings for one another — to continuously cross and pass by…<br />\n<br><br><br />\n(Source: Netflix)</p>",
+          "description": "<p>Koyuki, the isolated girl; Miki, the former school idol; Minato, the guy with no concept of personal space; and Youta, the gentle basketball player. Clumsy, frustrating, yet deeply endearing — this coming-of-age ensemble drama of crisscrossing hearts marches on.<br />\n<br><br><br />\nAs they grow closer, Koyuki and Minato begin to develop feelings for each other that go beyond mere friendship. Meanwhile, Youta finally confesses to Miki the feelings he's harbored for years. Some speak their hearts while others keep their emotions hidden, causing their paths — and their feelings for one another — to continuously cross and pass by…<br />\n<br><br><br />\n(Source: Netflix)</p>",
           "externalLinks": [
             {
               "site": "Official Site",
@@ -1300,88 +1316,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "İzole edilmiş kız Koyuki; Eski okul idolü Miki; Minato, kişisel alan kavramı olmayan adam; ve nazik basketbol oyuncusu Yota. Beceriksiz, sinir bozucu ama bir o kadar da sevimli; birbiriyle kesişen kalplerin bu yetişkinliğe geçiş draması devam ediyor.<br><br>Koyuki ve Minato yakınlaştıkça birbirlerine karşı arkadaşlığın ötesine geçen duygular beslemeye başlarlar. Bu sırada Yota, yıllardır içinde barındırdığı duyguları sonunda Miki'ye itiraf eder. Bazıları yüreklerini söylerken bazıları duygularını gizli tutarak yollarının ve birbirlerine olan hislerinin sürekli kesişmesine neden oluyor…<br><br>(Kaynak: Netflix)"
-        },
-        {
-          "id": 200929,
-          "title": {
-            "romaji": "Kusuriya no Hitorigoto: Bouhi no Hihou",
-            "english": null,
-            "native": "薬屋のひとりごと 亡妃の秘宝"
-          },
-          "synonyms": [
-            "The Apothecary Diaries Movie"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 12,
-            "day": 11
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200929-ZnRFJbEqFbgJ.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200929-ZnRFJbEqFbgJ.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1796914800,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Mystery"
-          ],
-          "tags": [
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medicine",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Politics",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ancient China",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "TOHO animation STUDIO"
-              }
-            ]
-          },
-          "description": "<p>An original movie for <i>Kusuriya no Hitorigoto</i><br><br></p>\n<p><i>Note: Relations are provisional and subject to change.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/kusuriya_PR"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kusuriyanohitorigoto.jp/movie/"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@kusuriya_pr"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Kusuriya no Hitorigoto için orijinal bir film<br><br>Not: İlişkiler geçicidir ve değişebilir."
+          "descriptionTr": "İzole edilmiş kız Koyuki; Eski okul idolü Miki; Minato, kişisel alan kavramı olmayan adam; ve nazik basketbol oyuncusu Youta. Beceriksiz, sinir bozucu ama bir o kadar da sevimli; birbiriyle kesişen kalplerin bu yetişkinliğe geçiş draması devam ediyor.<br><br>Koyuki ve Minato yakınlaştıkça birbirlerine karşı arkadaşlığın ötesine geçen duygular beslemeye başlarlar. Bu sırada Youta, yıllardır içinde barındırdığı duyguları sonunda Miki'ye itiraf eder. Bazıları yüreklerini söyler, bazıları ise duygularını gizleyerek yollarının ve birbirlerine olan hislerinin sürekli kesişmesine ve geçmesine neden olur…<br><br>(Kaynak: Netflix)"
         },
         {
           "id": 191656,
@@ -1473,7 +1408,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 73,
+          "averageScore": 72,
           "studios": {
             "nodes": [
               {
@@ -1514,6 +1449,163 @@
           ],
           "isMyList": false,
           "descriptionTr": "Burası Fujinasu Akademisi, şehrin dışında yer alan, en başarılı öğrencilerin bulunduğu özel bir lise.<br><br>Lise 1. Sınıf Ume Mizunoe, Japonca dersinde mükemmel notlara sahiptir ve birçok edebiyat ödülü almıştır.<br><br>Ancak fen bilimlerindeki berbat notları, sınıf yükseltme yeteneğini etkiliyor. Sınıf tekrarını önlemek amacıyla akademik durumunu geliştirmek amacıyla öğrenci konseyine üye olur.<br><br>Ancak öğrenci konseyinde karizmatik ama somurtkan öğrenci konseyi başkanı Kotobuki Hisako ve korkutucu ama nazik ve zarif sayman Arisu Terui ile tanışır. Diğer üyeler arasında arsız ve sevimli bir çocuk olan Tan Otori ve küçük, terk edilmiş bir kediye benzeyen yönetici Komaro Michinoku yer alıyor. Bu, sevimli, uyumsuz ve ilginç öğrencilerle dolu yoğun bir öğrenci konseyini konu alan şakşak, yürekli, romantik bir komedinin başlangıcı!<br><br>(Kaynak: Öğrenci Konseyinin Bile Delikleri Var! Resmi Site)"
+        },
+        {
+          "id": 200929,
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto: Bouhi no Hihou",
+            "english": "The Apothecary Diaries: The Late Lady’s Treasure",
+            "native": "薬屋のひとりごと 亡妃の秘宝"
+          },
+          "synonyms": [
+            "The Apothecary Diaries Movie"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 12,
+            "day": 11
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200929-ZnRFJbEqFbgJ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200929-ZnRFJbEqFbgJ.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1796914800,
+            "episode": 1
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama",
+            "Mystery"
+          ],
+          "tags": [
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Medicine",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Politics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ancient China",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Historical",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "TOHO animation STUDIO"
+              }
+            ]
+          },
+          "description": "<p>An original movie for <i>Kusuriya no Hitorigoto</i><br><br></p>\n<p><i>Note: Relations are provisional and subject to change.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/kusuriya_PR"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://kusuriyanohitorigoto.jp/movie/"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@kusuriya_pr"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Kusuriya no Hitorigoto için orijinal bir film<br><br>Not: İlişkiler geçicidir ve değişebilir."
+        },
+        {
+          "id": 172192,
+          "title": {
+            "romaji": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+            "english": "A Returner's Magic Should be Special Season 2",
+            "native": "帰還者の魔法は特別です 第2期"
+          },
+          "synonyms": [
+            "Gwihwanjaui Mabeobeun",
+            "Teukbyeolhaeya Hamnida",
+            "귀환자의 마법은 특별해야 합니다"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 8
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-W7P5xEUaxF3y.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172192-W7P5xEUaxF3y.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1791992700,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 68,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Arvo Animation"
+              }
+            ]
+          },
+          "description": "<p>In a land dominated by the formidable Shadow Worlds, most of humanity has been destroyed. To rescue their planet from impending doom, six brave heroes fight a perilous battle…and fail. But there’s a glimpse of hope when Desir, one of the last mages, is suddenly sent back in time 13 years! Now armed with knowledge of the grim future, can he alter the course of history and save the world?<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/returners_magic"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://returners-magic.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GEXH3W207/a-returners-magic-should-be-special"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2432495"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Korkunç Gölge Dünyalarının hakim olduğu bir ülkede insanlığın büyük kısmı yok edildi. Altı cesur kahraman, gezegenlerini yaklaşmakta olan felaketten kurtarmak için tehlikeli bir savaşa girer ve başarısız olur. Ancak son büyücülerden biri olan Desir aniden 13 yıl geriye gönderildiğinde bir umut ışığı var! Artık korkunç geleceğe dair bilgiyle donanmış olarak tarihin akışını değiştirip dünyayı kurtarabilecek mi?<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 205909,
@@ -1619,157 +1711,6 @@
           "descriptionTr": "Görünüşte Satoko her şeye sahip; çok güzel, bir asilzadenin kızı ve evlenmek için en uygun yaşta. Ne yazık ki kendisi de oldukça hasta ve çok az ömrü kaldı. Ailesinin gözünde değerini telafi edecek bir evlilik yapamadan, kendisini gizemli suikastçı Shinpei'nin hedefi olarak bulur ve planları tehlikeye girer. Kendini kurtarmak için çaresizce evlenme teklifinde bulunur! Ancak iş aşka gelince Shinpei \"ölüm bizi ayırana kadar\" sözünü ciddiye alıyor.<br><br>(Kaynak: VIZ Medya)"
         },
         {
-          "id": 172192,
-          "title": {
-            "romaji": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
-            "english": "A Returner's Magic Should be Special Season 2",
-            "native": "帰還者の魔法は特別です 第2期"
-          },
-          "synonyms": [
-            "Gwihwanjaui Mabeobeun",
-            "Teukbyeolhaeya Hamnida",
-            "귀환자의 마법은 특별해야 합니다"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 8
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-W7P5xEUaxF3y.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172192-W7P5xEUaxF3y.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1791992700,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Arvo Animation"
-              }
-            ]
-          },
-          "description": "<p>In a land dominated by the formidable Shadow Worlds, most of humanity has been destroyed. To rescue their planet from impending doom, six brave heroes fight a perilous battle…and fail. But there’s a glimpse of hope when Desir, one of the last mages, is suddenly sent back in time 13 years! Now armed with knowledge of the grim future, can he alter the course of history and save the world?<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/returners_magic"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://returners-magic.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GEXH3W207/a-returners-magic-should-be-special"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2432495"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Korkunç Gölge Dünyalarının hakim olduğu bir ülkede insanlığın çoğu yok edildi. Altı cesur kahraman, gezegenlerini yaklaşmakta olan felaketten kurtarmak için tehlikeli bir savaşa girer ve başarısız olur. Ancak son büyücülerden biri olan Desir aniden 13 yıl geriye gönderildiğinde bir umut ışığı var! Artık korkunç geleceğe dair bilgiyle donanmış olarak tarihin akışını değiştirip dünyayı kurtarabilecek mi?<br><br>(Kaynak: Crunchyroll)"
-        },
-        {
-          "id": 185756,
-          "title": {
-            "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
-            "english": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
-            "native": "転生貴族、鑑定スキルで成り上がる 第3期"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 9,
-            "day": 27
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185756-xPCl0RyQ7fXD.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185756-xPCl0RyQ7fXD.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1791729000,
-            "episode": 3
-          },
-          "isAdult": false,
-          "genres": [
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kingdom Management",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 71,
-          "studios": {
-            "nodes": [
-              {
-                "name": "GeyeG Pictures"
-              }
-            ]
-          },
-          "description": "<p>The third season of <i>Tensei Kizoku, Kantei Skill de Nariagaru</i>.<br />\n<br><br><br />\n<i>Note: On September 4, 2026, it was announced that GeyeG Pictures would take over the production from studio MOTHER while keeping the same staff.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/kanteiskill"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kanteiskill.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GG5H5XQMD/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/onlibp0le1"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2432255"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLfEwGegYhFGY"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Tensei Kizoku'nun üçüncü sezonu, Kantei Skill de Nariagaru.<br><br>Not: 4 Eylül 2026'da GeyeG Pictures'ın aynı kadroyu koruyarak prodüksiyonu MOTHER stüdyosundan devralacağı açıklandı."
-        },
-        {
           "id": 152677,
           "title": {
             "romaji": "Tantei wa mou, Shindeiru. Season 2",
@@ -1823,7 +1764,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": null,
+          "averageScore": 73,
           "studios": {
             "nodes": [
               {
@@ -1847,7 +1788,86 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Güzel, gümüş saçlı dedektif Siesta'nın kaçırılmasını önledikten sonra Kimihiko, Siesta ölene kadar dünyayı dolaşıp suç çözmeyle dolu bir hayat sürüyor. Bir yıl sonra, yeni bir dava cinayet, komplo ve ölü ortağına kadar uzanan eski yaraları açacak!<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Güzel, gümüş saçlı dedektif Siesta'nın kaçırılmasını önledikten sonra Kimihiko, Siesta ölene kadar dünyayı dolaşıp suç çözmeyle dolu bir hayat sürüyor. Bir yıl sonra yeni bir dava cinayet, komplo ve ölü ortağına kadar uzanan eski yaraları açacak!<br><br>(Kaynak: Crunchyroll)"
+        },
+        {
+          "id": 185756,
+          "title": {
+            "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+            "english": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
+            "native": "転生貴族、鑑定スキルで成り上がる 第3期"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 9,
+            "day": 27
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185756-xPCl0RyQ7fXD.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185756-xPCl0RyQ7fXD.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1791729000,
+            "episode": 3
+          },
+          "isAdult": false,
+          "genres": [
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kingdom Management",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yandere",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 71,
+          "studios": {
+            "nodes": [
+              {
+                "name": "GeyeG Pictures"
+              }
+            ]
+          },
+          "description": "<p>The third season of <i>Tensei Kizoku, Kantei Skill de Nariagaru</i>.<br />\n<br><br><br />\n<i>Note: On September 4, 2026, it was announced that GeyeG Pictures would take over the production from studio MOTHER while keeping the same staff.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/kanteiskill"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://kanteiskill.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GG5H5XQMD/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/onlibp0le1"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2432255"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLfEwGegYhFGY"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Tensei Kizoku'nun üçüncü sezonu, Kantei Skill de Nariagaru.<br><br>Not: 4 Eylül 2026'da GeyeG Pictures'ın aynı kadroyu koruyarak prodüksiyonu MOTHER stüdyosundan devralacağı açıklandı."
         },
         {
           "id": 213457,
@@ -1951,7 +1971,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Uzak geleceğin dünyası kalın bulutlarla kaplı ve güneş artık parlamıyor. Bitkiler solar ve oksijen azalır. Nesli tükenmeyle mücadele etmek için insanoğlu, az miktarda oksijen sağlayarak insanları bitkilere dönüştüren bir teknoloji geliştirdi. Bu süreç sürdürülebilir mi? Etik mi? Toshiro Kamiya, zor bir seçimle karşı karşıyayken bu soruları dikkate almalıdır: ailesini kurtarmak ya da kendini kurtarmak.<br><br>Kamiya'nın işinin sonu geldi. Annesi hasta ve işi yiyecek bir yana, ilaç masraflarını bile zar zor karşılıyor. Geriye çok az seçenek kaldığı için, yaşamı değiştiren çiçek açma sürecini ele alıyor. Maaş günü için bedenini vermeye hazır olan Kamiya, toplumun azalan insanlığının sınırlarını keşfetmek üzeredir.<br><br>(Kaynak: VIZ Medya)"
+          "descriptionTr": "Uzak geleceğin dünyası kalın bulutlarla kaplı ve güneş artık parlamıyor. Bitkiler solar ve oksijen azalır. Nesli tükenmeyle mücadele etmek için insanoğlu, az miktarda oksijen sağlayarak insanları bitkilere dönüştüren bir teknoloji geliştirdi. Bu süreç sürdürülebilir mi? Etik mi? Toshiro Kamiya, zor bir seçimle karşı karşıyayken bu soruları dikkate almalıdır: ailesini kurtarmak ya da kendini kurtarmak.<br><br>Kamiya'nın işinin ucunda. Annesi hasta ve işi yiyecek bir yana, ilaç masraflarını bile zar zor karşılıyor. Geriye kalan çok az seçenekle, yaşamı değiştiren çiçek açma sürecini ele alıyor. Maaş günü için bedenini vermeye hazır olan Kamiya, toplumun azalan insanlığının sınırlarını keşfetmek üzeredir.<br><br>(Kaynak: VIZ Medya)"
         },
         {
           "id": 191788,
@@ -2037,7 +2057,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Aoi Ashito'nun oyunu artık ona A takımında bir yer kazandırdı, ancak yeni ve sert gerçekliği karşısında hızla bunalıma giriyor. Kuribayashi ve Akutsu gibi elit oyuncuların yer aldığı antrenmanlar da maçlar kadar acımasız. Bu U-18 Premier Ligi'nde güçlü yeteneklere sahip olan Ashito'nun, eğer kabul edilmesi gerekiyorsa, ya gelişmesi ya da ezilmesi gerekiyor.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Aoi Ashito'nun oyunu ona artık A takımında bir yer kazandırdı, ancak yeni ve sert gerçekliği karşısında hızla bunalıma giriyor. Kuribayashi ve Akutsu gibi elit oyuncuların yer aldığı antrenmanlar da maçlar kadar acımasız. Bu U-18 Premier Ligi'nde güçlü yeteneklere sahip olan Ashito'nun, eğer kabul edilmesi gerekiyorsa, ya gelişmesi ya da ezilmesi gerekiyor.<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 204389,
@@ -2118,6 +2138,128 @@
           ],
           "isMyList": false,
           "descriptionTr": "Yasei no Last Boss ga Arawareta'nın ikinci sezonu!"
+        },
+        {
+          "id": 207329,
+          "title": {
+            "romaji": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
+            "english": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+            "native": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。　～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～"
+          },
+          "synonyms": [
+            "The Exiled Cheating Magician Enjoys an Unrestrained Second Life.: I Can Give \"Strengthening Points\" Not Only to Weapons, But Also to Everything, and I Can Unlock the Effect at Any Time of My Will, But are the Rest Okay?",
+            "Chii-Fuyo",
+            "チー付与",
+            "The Laid-Off Cheat-Granting Mage Enjoys a New Life"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 7
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207329-9IqRSKIsM3TC.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1791903600,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Surreal Comedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Found Family",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Chibi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Exiled",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Slapstick",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Delinquents",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gangs",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 72,
+          "studios": {
+            "nodes": [
+              {
+                "name": "P.A.WORKS"
+              }
+            ]
+          },
+          "description": "<p>Rein, an enchanter, is suddenly expelled from his guild one day. But instead of despairing, he declares, “Now I can do anything!” and begins reclaiming the massive number of enhancement points he once poured into his guildmates’ gear, setting off on a brand-new path as an adventurer.<br><br><br />\nGathering around him are people carrying wounds that don’t fade easily: a genius adventurer who shut her heart after her party was slaughtered, a warrior who lost her family, and an assassin raised from childhood to kill. Yet Rein never rejects their pasts or their scars—he accepts them all with bright, straightforward warmth.<br><br><br />\nThe stage is a unique fantasy world where Uzis, slingshots, and even yakuza exist side by side. But in this world, the more people rely on convenient technology, the more their magic weakens, and adventurers grow fragile.<br><br><br />\nIntelligent, vicious monsters roam freely, while in the underworld, outlaws bare their greed and ambition as schemes and betrayals intertwine. In a world where ideals and justice are easily crushed, adventurers fight on with nothing but their magic and their convictions.<br><br><br />\nThis is the story of those who have lost their place in the world finding a new way to live. Rein and his companions’ wild, free-spirited second life begins now!<br />\n<br><br>(Source: The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life Site)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/chi_fuyo"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://sh-anime.shochiku.co.jp/chiifuyo-anime/"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@chi_fuyo_official"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00384016/"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://sh-anime.shochiku.co.jp/chiifuyo-anime/en"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLcCDyXGi-y_w"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2432178"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Bir büyücü olan Rein, bir gün aniden loncasından atılır. Ancak umutsuzluğa kapılmak yerine, \"Artık her şeyi yapabilirim!\" ve bir zamanlar lonca arkadaşlarının donanımına aktardığı çok sayıda yükseltme puanını geri almaya başlayarak bir maceracı olarak yepyeni bir yola çıkıyor.<br><br>Etrafında kolay kolay solmayan yaralar taşıyan insanlar toplanıyor: partisi katledildikten sonra kalbini kapatan dahi bir maceracı, ailesini kaybeden bir savaşçı ve çocukluğundan beri öldürmek için yetiştirilen bir suikastçı. Ancak Rein onların geçmişlerini veya yaralarını asla reddetmez; hepsini parlak, doğrudan bir sıcaklıkla kabul eder.<br><br>Sahne, Uzi'lerin, sapanların ve hatta yakuza'ların yan yana var olduğu eşsiz bir fantezi dünyasıdır. Ancak bu dünyada, insanlar uygun teknolojiye ne kadar güvenirse, büyüleri de o kadar zayıflıyor ve maceracılar kırılganlaşıyor.<br><br>Zeki ve gaddar canavarlar özgürce dolaşırken, yeraltı dünyasında kanun kaçakları planlar ve ihanetler iç içe geçerken açgözlülüklerini ve hırslarını açığa vururlar. İdeallerin ve adaletin kolayca ezilebildiği bir dünyada maceracılar, sihirleri ve inançları dışında hiçbir şeyle savaşmaya devam etmiyorlar.<br><br>Bu, dünyadaki yerlerini kaybedenlerin yeni bir yaşam yolu bulmalarının hikayesidir. Rein ve arkadaşlarının vahşi, özgür ruhlu ikinci hayatı şimdi başlıyor!<br><br>(Kaynak: İşten Çıkarılan Hile Veren Büyücü, Yaşam Sitesinde İkinci Bir Kiralamanın Keyfini Çıkarıyor)"
         },
         {
           "id": 208025,
@@ -2218,7 +2360,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 68,
+          "averageScore": 67,
           "studios": {
             "nodes": [
               {
@@ -2337,7 +2479,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "\"Bana bir aşk iksiri yap.\"<br><br>Ve bu tek cümleyle, Gölün İyi Cadısı'nın atılgan Sör Harij'e olan gizli aşkı kalp kırıklığıyla sona erer. Yine de malzemeleri toplamasına yardım edeceğine söz verdiğinde Rose normalde asla etkileşime geçemeyeceği bir adama bakma şansına sahip olduğu için heyecanlanır. Her zamanki gösterişli konuşmaları için hızla çarpan kalbini hazırlamayı öğreniyor... ama adam açıklanamaz bir şekilde ekmek ve bir kavanoz elma ezmesiyle kapısının önünde belirdiğinde ne yapmalıdır?<br><br>(Kaynak: Yen Press)"
+          "descriptionTr": "\"Bana bir aşk iksiri yap.\"<br><br>Ve bu tek cümleyle birlikte Gölün İyi Cadısı'nın atılgan Sör Harij'e olan gizli aşkı kalp kırıklığıyla sonuçlanır. Yine de malzemeleri toplamasına yardım edeceğine söz verdiğinde Rose, normalde asla etkileşime geçemeyeceği bir adama bakma şansına sahip olduğu için heyecanlanır. Her zamanki gösterişli konuşmaları için hızla çarpan kalbini hazırlamayı öğreniyor… ama adam açıklanamaz bir şekilde ekmek ve bir kavanoz elma ezmesiyle kapısının önünde belirdiğinde ne yapacak?<br><br>(Kaynak: Yen Press)"
         },
         {
           "id": 186541,
@@ -2431,114 +2573,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Sato Takahiro, bir uzay gemisinde uyandığı güne kadar sıradan bir ofis çalışanı ve oyun meraklısıydı; bu gemi garip bir şekilde en sevdiği uzay nişancı oyunundan bir gemiye benziyordu. Donanımlı bir gemi, bebek dolu bir mürettebat ve keşfedilecek fantastik bir evrenle, şansını en iyi şekilde değerlendirecek ve her zaman hayalini kurduğu hayatı yaratacak!<br><br>(Kaynak: Seven Seas Entertainment)"
-        },
-        {
-          "id": 204650,
-          "title": {
-            "romaji": "Tougen Anki: Nikko・Kegon no Taki-hen",
-            "english": "TOUGEN ANKI: Nikko Kegon Falls Arc",
-            "native": "桃源暗鬼 日光・華厳の滝編"
-          },
-          "synonyms": [
-            "桃源暗鬼 2期",
-            "Tougen Anki Season 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 2
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-cAQOzQ84Lwk8.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204650-cAQOzQ84Lwk8.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204650-MpownoVlYv69.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1791556200,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Mystery",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Guns",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Revenge",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 71,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Studio Hibari"
-              }
-            ]
-          },
-          "description": "<p>After battling in Kyoto and Nerima, the Rasetsu Academy students have grown stronger. But Yaoroshi leaves the academy to join the Oni Brigade for their &quot;the total eradication of the Momotaro.&quot;<br />\n<br><br><br />\nWhen Shiki realizes that they also target noncombatants, he sets out after Yaoroshi to bring him back. Meanwhile in Nikko, there's a research facility for horrific experiments atop the old Kegon Falls…<br />\n<br><br><br />\n(Source: REMOW)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://tougenanki-anime-global.com/"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/@tougen_anki"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@tougen_anki_project"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/tougenanki_anm"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://tougenanki-anime.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GP5HJ84D2/tougen-anki"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2431878"
-            },
-            {
-              "site": "Amazon Prime Video",
-              "url": "https://www.amazon.com/dp/B0FCM3YGCQ"
-            },
-            {
-              "site": "Netflix",
-              "url": "https://www.netflix.com/title/81969861"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Kyoto ve Nerima'daki mücadelenin ardından Rasetsu Akademisi öğrencileri güçlendi. Ancak Yaoroshi, \"Momotaro'nun tamamen ortadan kaldırılması\" amacıyla Oni Tugayı'na katılmak üzere akademiden ayrılır.<br><br>Shiki, savaşçı olmayanları da hedef aldıklarını anlayınca onu geri getirmek için Yaoroshi'nin peşine düşer. Bu arada Nikko'da eski Kegon Şelalesi'nin üzerinde korkunç deneyler için bir araştırma tesisi var...<br><br>(Kaynak: REMOW)"
+          "descriptionTr": "Sato Takahiro, bir uzay gemisinde uyandığı güne kadar sıradan bir ofis çalışanı ve oyun meraklısıydı; bu gemi garip bir şekilde en sevdiği uzay nişancı oyunundan bir gemiye benziyordu. Donanımlı bir gemi, bebek dolu bir mürettebat ve keşfedilecek muhteşem bir evrenle, şansını en iyi şekilde değerlendirecek ve her zaman hayalini kurduğu hayatı yaratacak!<br><br>(Kaynak: Seven Seas Entertainment)"
         },
         {
           "id": 169581,
@@ -2746,7 +2781,221 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bir gün lise öğrencisi Ageha Yoshina, umumi bir telefon kulübesinde bırakılan gizemli bir \"kırmızı telefon kartını\" alır.<br><br>Birkaç gün sonra, aynı karta sahip olan çocukluk arkadaşı ve sınıf arkadaşı Sakurako Amamiya, hiçbir iz bırakmadan aniden ortadan kaybolur. Onu ararken Ageha, kendisini ülke çapındaki bir dizi gizemli ortadan kaybolma olayıyla ilgili söylentilerin ortasında bulur; bu söylentilerin, yalnızca \"Psyren\" olarak bilinen gizli bir örgütün işi olduğu söylenir.<br><br>Gruba girdiğinde kaderini sonsuza dek değiştirecek ölümcül bir oyun başlar.<br><br>(Kaynak: PSYЯEN Resmi Sitesi)"
+          "descriptionTr": "Bir gün lise öğrencisi Ageha Yoshina, umumi bir telefon kulübesinde bırakılan gizemli bir \"kırmızı telefon kartını\" alır.<br><br>Birkaç gün sonra, aynı karta sahip olan çocukluk arkadaşı ve sınıf arkadaşı Sakurako Amamiya, hiçbir iz bırakmadan aniden ortadan kaybolur. Ageha, onu ararken kendisini, yalnızca \"Psyren\" olarak bilinen gizli bir örgütün işi olduğu söylenen, ülke çapındaki bir dizi gizemli kaybolmayla ilgili söylentilerin ortasında bulur.<br><br>Gruba girdiğinde kaderini sonsuza dek değiştirecek ölümcül bir oyun başlar.<br><br>(Kaynak: PSYЯEN Resmi Sitesi)"
+        },
+        {
+          "id": 204650,
+          "title": {
+            "romaji": "Tougen Anki: Nikko・Kegon no Taki-hen",
+            "english": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+            "native": "桃源暗鬼 日光・華厳の滝編"
+          },
+          "synonyms": [
+            "桃源暗鬼 2期",
+            "Tougen Anki Season 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 2
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-cAQOzQ84Lwk8.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204650-cAQOzQ84Lwk8.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204650-MpownoVlYv69.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1791556200,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Mystery",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Demons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Guns",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Revenge",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 71,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Studio Hibari"
+              }
+            ]
+          },
+          "description": "<p>After battling in Kyoto and Nerima, the Rasetsu Academy students have grown stronger. But Yaoroshi leaves the academy to join the Oni Brigade for their &quot;the total eradication of the Momotaro.&quot;<br />\n<br><br><br />\nWhen Shiki realizes that they also target noncombatants, he sets out after Yaoroshi to bring him back. Meanwhile in Nikko, there's a research facility for horrific experiments atop the old Kegon Falls…<br />\n<br><br><br />\n(Source: REMOW)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://tougenanki-anime-global.com/"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/@tougen_anki"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@tougen_anki_project"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/tougenanki_anm"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://tougenanki-anime.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GP5HJ84D2/tougen-anki"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2431878"
+            },
+            {
+              "site": "Amazon Prime Video",
+              "url": "https://www.amazon.com/dp/B0FCM3YGCQ"
+            },
+            {
+              "site": "Netflix",
+              "url": "https://www.netflix.com/title/81969861"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Kyoto ve Nerima'daki mücadelenin ardından Rasetsu Akademisi öğrencileri güçlendi. Ancak Yaoroshi, \"Momotaro'nun tamamen ortadan kaldırılması\" için Oni Tugayı'na katılmak üzere akademiden ayrılır.<br><br>Shiki, savaşçı olmayanları da hedef aldıklarını anlayınca, onu geri getirmek için Yaoroshi'nin peşine düşer. Bu arada Nikko'da eski Kegon Şelalesi'nin üzerinde korkunç deneyler için bir araştırma tesisi var...<br><br>(Kaynak: REMOW)"
+        },
+        {
+          "id": 206949,
+          "title": {
+            "romaji": "Kyouran Reijou Nia Liston",
+            "english": "Nia Liston: The Merciless Maiden",
+            "native": "凶乱令嬢ニア・リストン"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 6
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206949-4HYI3YuP0eLI.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206949-4HYI3YuP0eLI.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206949-c5hfhixdgvy5.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1791894360,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Regression",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Maids",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gender Bending",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ojou-sama",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Acting",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Martial Arts",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 74,
+          "studios": {
+            "nodes": [
+              {
+                "name": "KONAMI animation"
+              }
+            ]
+          },
+          "description": "<p>A great hero lies undefeated on her deathbed, regretting that she never found a foe who could take her down. She never intended to meet her fate anywhere other than on the battlefield, and her peaceful demise has her wishing desperately that things could have been different... But when she suddenly comes to in the body of the young, frail Nia Liston, she’s got an all-new fight ahead of her. Nia is a sickly child, meaning she has a long way to go before she’s in fighting form. Now that she’s been given a second shot at life, however, she’s determined to get what she wants. She’s going to live—and die—for battle this time! Make way for the Merciless Maiden!<br><br />\n<br><br />\n(Source: J-Novel Club)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/kyoranreijo_pr"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://kyoranreijo-pr.com/"
+            },
+            {
+              "site": "HIDIVE",
+              "url": "https://www.hidive.com/season/39540"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2433665"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/tvod2397yt"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Büyük bir kahraman, kendisini alt edebilecek bir düşman bulamadığı için pişmanlık duyarak ölüm döşeğinde yenilgisiz yatıyor. Kaderiyle savaş alanı dışında başka bir yerde karşılaşmayı hiç düşünmemişti ve barışçıl ölümü, umutsuzca her şeyin farklı olmasını diliyordu... Ama birdenbire genç, zayıf Nia Liston'ın bedeninde kendine geldiğinde, önünde yepyeni bir mücadele vardı. Nia hasta bir çocuk, bu da dövüş formuna kavuşmadan önce kat etmesi gereken uzun bir yol olduğu anlamına geliyor. Artık kendisine hayatta ikinci bir şans verildiğine göre istediğini elde etmeye kararlıdır. Bu sefer savaşmak için yaşayacak ve ölecek! Acımasız Bakire'ye yol açın!<br><br>(Kaynak: J-Novel Kulübü)"
         },
         {
           "id": 209872,
@@ -2849,50 +3098,139 @@
           "descriptionTr": "Ranma 1/2'nin (2024) üçüncü sezonu."
         },
         {
-          "id": 207329,
+          "id": 209502,
           "title": {
-            "romaji": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
-            "english": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-            "native": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。　～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～"
+            "romaji": "Shiotaiou no Satou-san ga Ore ni dake Amai",
+            "english": "The Cold Sato-san is Only Sweet to Me",
+            "native": "塩対応の佐藤さんが俺にだけ甘い"
           },
           "synonyms": [
-            "The Exiled Cheating Magician Enjoys an Unrestrained Second Life.: I Can Give \"Strengthening Points\" Not Only to Weapons, But Also to Everything, and I Can Unlock the Effect at Any Time of My Will, But are the Rest Okay?",
-            "Chii-Fuyo",
-            "チー付与",
-            "The Laid-Off Cheat-Granting Mage Enjoys a New Life"
+            "しおあま",
+            "ShioAma"
           ],
           "startDate": {
             "year": 2026,
             "month": 10,
-            "day": 7
+            "day": 6
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209502-C81oN8M4Smlo.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209502-C81oN8M4Smlo.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207329-9IqRSKIsM3TC.jpg",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209502-TATgyznMxQOe.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1791903600,
+            "airingAt": 1791896400,
             "episode": 2
           },
           "isAdult": false,
           "genres": [
-            "Adventure",
             "Comedy",
-            "Fantasy",
-            "Slice of Life"
+            "Romance"
           ],
           "tags": [
             {
-              "name": "Surreal Comedy",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban Fantasy",
+              "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
-              "name": "Found Family",
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Work",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Food",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Photography",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 67,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Tezuka Productions"
+              }
+            ]
+          },
+          "description": "<p>Sato-san is the unattainable flower of the class. She is always cold and curt with classmates, but only I know she's actually very cute when she smiles, even if she's not much of a photographer.<br />\n<br><br><br />\nOshio-kun is friendly and lively, but only I know he works at his family's cafe after school. He does a great job with the cafe's SNS account, and his mischievous smile makes my heart skip a beat!<br />\n<br><br><br />\nInnocent and sweet, but sometimes frustrating, this is a 120%-pure fluffy story about two people falling in love for the first time.</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/shioamaofficial"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@shioama_official"
+            },
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/shioama_official"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://shioama-anime.com"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00384014/the-cold-sato-san-is-only-sweet-to-me"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2433556"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Sato-san sınıfın ulaşılmaz çiçeğidir. Sınıf arkadaşlarına karşı her zaman soğuk ve sert davranıyor ama pek fotoğrafçı olmasa da gülümsediğinde aslında çok tatlı olduğunu biliyorum.<br><br>Oshio-kun arkadaş canlısı ve hayat dolu ama okuldan sonra ailesinin kafesinde çalıştığını sadece ben biliyorum. Kafenin SNS hesabında harika bir iş çıkarıyor ve muzip gülümsemesi kalbimin atmasını sağlıyor!<br><br>Masum ve tatlı ama bazen sinir bozucu olan bu, iki kişinin ilk kez aşık olmasını konu alan %120 saf, yumuşak bir hikaye."
+        },
+        {
+          "id": 202250,
+          "title": {
+            "romaji": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
+            "english": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+            "native": "貸した魔力は【リボ払い】で強制徴収"
+          },
+          "synonyms": [
+            "貸した魔力は【リボ払い】で強制徴収～用済みとパーティー追放された俺は、可愛いサポート妖精と一緒に取り立てた魔力を運用して最強を目指す。～",
+            "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu ~Youzumi to Party Tsuihou sareta Ore wa, Kawaii Support Yousei to Issho ni Toritateta Maryoku wo Unyou shite Saikyou wo Mezasu.",
+            "Maryoku Revo",
+            "魔力リボ"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-mpm2cvr92Au2.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202250-mpm2cvr92Au2.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1791649800,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Revenge",
               "isMediaSpoiler": false
             },
             {
@@ -2900,75 +3238,55 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Chibi",
+              "name": "Fairy",
               "isMediaSpoiler": false
             },
             {
-              "name": "Exiled",
+              "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Economics",
               "isMediaSpoiler": false
             },
             {
-              "name": "Slapstick",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Delinquents",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gangs",
+              "name": "Bullying",
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 71,
+          "averageScore": 60,
           "studios": {
             "nodes": [
               {
-                "name": "P.A.WORKS"
+                "name": "SynergySP"
               }
             ]
           },
-          "description": "<p>Rein, an enchanter, is suddenly expelled from his guild one day. But instead of despairing, he declares, “Now I can do anything!” and begins reclaiming the massive number of enhancement points he once poured into his guildmates’ gear, setting off on a brand-new path as an adventurer.<br><br><br />\nGathering around him are people carrying wounds that don’t fade easily: a genius adventurer who shut her heart after her party was slaughtered, a warrior who lost her family, and an assassin raised from childhood to kill. Yet Rein never rejects their pasts or their scars—he accepts them all with bright, straightforward warmth.<br><br><br />\nThe stage is a unique fantasy world where Uzis, slingshots, and even yakuza exist side by side. But in this world, the more people rely on convenient technology, the more their magic weakens, and adventurers grow fragile.<br><br><br />\nIntelligent, vicious monsters roam freely, while in the underworld, outlaws bare their greed and ambition as schemes and betrayals intertwine. In a world where ideals and justice are easily crushed, adventurers fight on with nothing but their magic and their convictions.<br><br><br />\nThis is the story of those who have lost their place in the world finding a new way to live. Rein and his companions’ wild, free-spirited second life begins now!<br />\n<br><br>(Source: The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life Site)</p>",
+          "description": "<p>If there's one thing you can never have enough of in a world of RPG-style swords and sorcery, it's magic points! Whether you're fueling spells, techniques, or showing off an incredible ability, you've gotta spend those points to do real damage. But what if you run out?<br />\n<br><br><br />\nLent is part of the up-and-coming party known as the “Skypiercers,” and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious…until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!<br><br><br />\n(Source: Seven Seas Entertainment)</p>",
           "externalLinks": [
             {
               "site": "Twitter",
-              "url": "https://x.com/chi_fuyo"
+              "url": "https://twitter.com/revo_anime"
             },
             {
               "site": "Official Site",
-              "url": "https://sh-anime.shochiku.co.jp/chiifuyo-anime/"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@chi_fuyo_official"
+              "url": "https://revo-anime.com"
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00384016/"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://sh-anime.shochiku.co.jp/chiifuyo-anime/en"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLcCDyXGi-y_w"
+              "url": "https://www.crunchyroll.com/series/GT00385867/magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest"
             },
             {
               "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2432178"
+              "url": "https://www.bilibili.tv/en/media/2432615"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLAzayY4fPdjw"
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bir büyücü olan Rein, bir gün aniden loncasından atılır. Ancak umutsuzluğa kapılmak yerine, \"Artık her şeyi yapabilirim!\" ve bir zamanlar lonca arkadaşlarının donanımına aktardığı çok sayıda yükseltme puanını geri almaya başlayarak bir maceracı olarak yepyeni bir yola çıkıyor.<br><br>Etrafında kolay kolay solmayan yaralar taşıyan insanlar toplanıyor: partisi katledildikten sonra kalbini kapatan dahi bir maceracı, ailesini kaybeden bir savaşçı ve çocukluğundan beri öldürmek için yetiştirilen bir suikastçı. Ancak Rein onların geçmişlerini veya yaralarını asla reddetmez; hepsini parlak, doğrudan bir sıcaklıkla kabul eder.<br><br>Sahne, Uzi'lerin, sapanların ve hatta yakuza'ların yan yana var olduğu eşsiz bir fantezi dünyasıdır. Ancak bu dünyada, insanlar uygun teknolojiye ne kadar güvenirse, büyüleri de o kadar zayıflıyor ve maceracılar kırılganlaşıyor.<br><br>Zeki ve gaddar canavarlar özgürce dolaşırken, yeraltı dünyasında kanun kaçakları planlar ve ihanetler iç içe geçerken açgözlülüklerini ve hırslarını açığa vururlar. İdeallerin ve adaletin kolayca ezilebildiği bir dünyada maceracılar, sihirleri ve inançları dışında hiçbir şeyle savaşmaya devam etmiyorlar.<br><br>Bu, dünyadaki yerlerini kaybedenlerin yeni bir yaşam yolu bulmalarının hikayesidir. Rein ve arkadaşlarının vahşi, özgür ruhlu ikinci hayatı şimdi başlıyor!<br><br>(Kaynak: İşten Çıkarılan Hile Veren Büyücü, Yaşam Sitesinde İkinci Bir Kiralamanın Keyfini Çıkarıyor)"
+          "descriptionTr": "RPG tarzı kılıçlar ve büyücülük dünyasında asla doyamayacağınız bir şey varsa, o da sihirli noktalardır! İster büyülere, tekniklere güç veriyor olun, ister inanılmaz bir yetenek sergiliyor olun, gerçek hasar vermek için bu puanları harcamanız gerekir. Peki ya biterse?<br><br>Lent, \"Skypiercers\" olarak bilinen ve gelecek vaat eden grubun bir parçası ve eşsiz Yeteneği sayesinde, başkalarına büyük miktarlarda sihir ödünç verebilir. Milletvekili yok mu? Lent'te sorun yok! Ancak artık arkadaşları zorlu kahramanlar haline geldiği için (becerisi sayesinde), onun yararlılığı sorgulanıyor. Gruptan atılan Lent çok öfkelidir... ta ki Yeteneğinin gizli bir gücünü keşfedene kadar. Şimdi, hayranlık uyandıran sinsi peri ortağıyla birlikte, eski partisinden kalan son büyü kırıntısını bile ilgiyle geri alacak!<br><br>(Kaynak: Seven Seas Entertainment)"
         },
         {
           "id": 206814,
@@ -3070,114 +3388,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Majin Buu'ya karşı verilen şiddetli savaşın üzerinden birkaç yıl geçti ve Dünya nihayet kısa bir anlık barışa kavuştu. Aynı zamanda Yıkım Tanrısı Beerus uzun, derin uykusundan uyanır.<br><br>Beerus'un tüm gezegenleri yok etme konusundaki ezici gücünün farkında olan Kai ve Yüce Kai bile onun uyanışını büyük bir korkuyla izler… Bu sırada Beerus, Frieza'yı yenen bir Saiyan'ın söylentilerini duyar ve aniden Goku'nun karşısına çıkar.<br><br>Evrenin en güçlü varlığı Beerus'un hedefi olan Dünya büyük bir tehlikeyle karşı karşıyadır. Böylece Yıkım Tanrısı ile Goku ve müttefikleri arasında dünyayı sarsacak kozmik bir savaş başlar; tüm evreni sarsacak bir çatışma.<br><br>(Kaynak: Resmi Site)<br><br>Not: Akira Toriyama'nın orijinal mangasının daha sürükleyici ve aslına sadık bir temsili için çok sayıda yeni eklenen ve yeniden çizilen kesimler, yeniden yapılandırılmış bir anlatım ve güncellenmiş görseller içeren Dragon Ball Super'in \"Gelişmiş\" sürümü."
-        },
-        {
-          "id": 206949,
-          "title": {
-            "romaji": "Kyouran Reijou Nia Liston",
-            "english": "Nia Liston: The Merciless Maiden",
-            "native": "凶乱令嬢ニア・リストン"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 6
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206949-4HYI3YuP0eLI.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206949-4HYI3YuP0eLI.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206949-c5hfhixdgvy5.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1791894360,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Regression",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Maids",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gender Bending",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ojou-sama",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Acting",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Martial Arts",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 73,
-          "studios": {
-            "nodes": [
-              {
-                "name": "KONAMI animation"
-              }
-            ]
-          },
-          "description": "<p>A great hero lies undefeated on her deathbed, regretting that she never found a foe who could take her down. She never intended to meet her fate anywhere other than on the battlefield, and her peaceful demise has her wishing desperately that things could have been different... But when she suddenly comes to in the body of the young, frail Nia Liston, she’s got an all-new fight ahead of her. Nia is a sickly child, meaning she has a long way to go before she’s in fighting form. Now that she’s been given a second shot at life, however, she’s determined to get what she wants. She’s going to live—and die—for battle this time! Make way for the Merciless Maiden!<br><br />\n<br><br />\n(Source: J-Novel Club)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/kyoranreijo_pr"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kyoranreijo-pr.com/"
-            },
-            {
-              "site": "HIDIVE",
-              "url": "https://www.hidive.com/season/39540"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2433665"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/tvod2397yt"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Büyük bir kahraman, kendisini alt edebilecek bir düşman bulamadığı için pişmanlık duyarak ölüm döşeğinde yenilgisiz yatıyor. Kaderiyle savaş alanı dışında başka bir yerde karşılaşmayı hiç düşünmemişti ve barışçıl ölümü, umutsuzca her şeyin farklı olmasını diliyordu... Ama aniden genç, zayıf Nia Liston'ın bedenine girdiğinde, önünde yepyeni bir mücadele vardı. Nia hasta bir çocuk, bu da dövüş formuna kavuşmadan önce kat etmesi gereken uzun bir yol olduğu anlamına geliyor. Artık kendisine hayatta ikinci bir şans verildiğine göre istediğini elde etmeye kararlıdır. Bu sefer savaşmak için yaşayacak ve ölecek! Acımasız Bakire'ye yol açın!<br><br>(Kaynak: J-Novel Kulübü)"
+          "descriptionTr": "Majin Buu'ya karşı verilen şiddetli savaşın üzerinden birkaç yıl geçti ve Dünya nihayet kısa bir anlık barışa kavuştu. Aynı zamanda Yıkım Tanrısı Beerus uzun, derin uykusundan uyanır.<br><br>Beerus'un tüm gezegenleri yok etme konusundaki ezici gücünün farkında olan Kai ve Yüce Kai bile onun uyanışını büyük bir korkuyla izler… Bu sırada Beerus, Frieza'yı yenen bir Saiyan'ın söylentilerini duyar ve aniden Goku'nun karşısına çıkar.<br><br>Evrenin en güçlü varlığı Beerus'un hedefi olan Dünya büyük bir tehlikeyle karşı karşıyadır. Böylece Yıkım Tanrısı ile Goku ve müttefikleri arasında dünyayı sarsacak kozmik bir savaş başlar; tüm evreni sarsacak bir çatışma.<br><br>(Kaynak: Resmi Site)<br><br>Not: Akira Toriyama'nın orijinal mangasının daha sürükleyici ve aslına sadık bir temsili için çok sayıda yeni eklenen ve yeniden çizilen kesimler, yeniden yapılandırılmış bir anlatım ve güncellenmiş görseller içeren Dragon Ball Super'in \"Geliştirilmiş\" sürümü."
         },
         {
           "id": 187402,
@@ -3272,100 +3483,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Fia her zaman şövalye olmayı hayal ediyordu. Şövalyelerden oluşan bir ailenin çocuğu olarak doğmuştur, aralarında en az yetenekli olanıdır ancak yine de umuduna sarılıyor ve sahip olduğu her şeyle antrenman yapıyor. Küçük bir şeytanı öldürüp değerini kanıtlayacağı gün geldiğinde, kendini bir ejderhayla karşı karşıya bulur! Ölümcül bir yaralanma, hayatının gözlerinin önünden geçmesine neden olur... ve birdenbire, geçmiş bir çağda güçlü bir Aziz olduğu ve Şeytan Kral'ı yendiği eski hayatını hatırlar. Bu hayat, kim olduğu yüzünden acıyla sona erdi ve bu onun yeniden bir Aziz olma korkusuna yol açtı. Artık önceki hayatının büyüsü yeniden alevlendiğine göre, hayal ettiğinden çok daha güçlü bir şövalye olabilir; yeter ki yeterince uzun süre hayatta kalabilsin!<br><br>(Kaynak: Seven Seas Entertainment)<br><br>Not: Dizi, 1. bölümle birlikte yayınlanan 2. bölümden itibaren ABEMA, Prime Video ve Crunchyroll'da bir hafta önceden yayınlandı."
-        },
-        {
-          "id": 202250,
-          "title": {
-            "romaji": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
-            "english": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
-            "native": "貸した魔力は【リボ払い】で強制徴収"
-          },
-          "synonyms": [
-            "貸した魔力は【リボ払い】で強制徴収～用済みとパーティー追放された俺は、可愛いサポート妖精と一緒に取り立てた魔力を運用して最強を目指す。～",
-            "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu ~Youzumi to Party Tsuihou sareta Ore wa, Kawaii Support Yousei to Issho ni Toritateta Maryoku wo Unyou shite Saikyou wo Mezasu.",
-            "Maryoku Revo",
-            "魔力リボ"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-mpm2cvr92Au2.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202250-mpm2cvr92Au2.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1791649800,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Revenge",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Fairy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Economics",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Bullying",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 60,
-          "studios": {
-            "nodes": [
-              {
-                "name": "SynergySP"
-              }
-            ]
-          },
-          "description": "<p>If there's one thing you can never have enough of in a world of RPG-style swords and sorcery, it's magic points! Whether you're fueling spells, techniques, or showing off an incredible ability, you've gotta spend those points to do real damage. But what if you run out?<br />\n<br><br><br />\nLent is part of the up-and-coming party known as the “Skypiercers,” and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious…until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!<br><br><br />\n(Source: Seven Seas Entertainment)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/revo_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://revo-anime.com"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00385867/magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2432615"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLAzayY4fPdjw"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "RPG tarzı kılıçlar ve büyücülük dünyasında asla doyamayacağınız bir şey varsa, o da sihirli noktalardır! İster büyülere, tekniklere güç veriyor olun, ister inanılmaz bir yetenek sergiliyor olun, gerçek hasar vermek için bu puanları harcamanız gerekir. Peki ya biterse?<br><br>Lent, \"Skypiercers\" olarak bilinen ve gelecek vaat eden grubun bir parçası ve eşsiz Yeteneği sayesinde, başkalarına büyük miktarlarda sihir ödünç verebilir. Milletvekili yok mu? Lent'te sorun yok! Ancak artık arkadaşları zorlu kahramanlar haline geldiği için (becerisi sayesinde), onun yararlılığı sorgulanıyor. Gruptan atılan Lent öfkelidir... ta ki Yeteneğinin gizli bir gücünü keşfedene kadar. Şimdi, hayranlık uyandıran sinsi peri ortağıyla birlikte, eski partisinden kalan son büyü kırıntısını bile ilgiyle geri alacak!<br><br>(Kaynak: Seven Seas Entertainment)"
+          "descriptionTr": "Fia her zaman şövalye olmayı hayal ediyordu. Şövalyelerden oluşan bir ailenin çocuğu olarak doğmuştur, aralarında en az yetenekli olanıdır, ancak yine de umuduna sarılıyor ve sahip olduğu her şeyle antrenman yapıyor. Küçük bir şeytanı öldürüp değerini kanıtlayacağı gün geldiğinde, kendini bir ejderhayla karşı karşıya bulur! Ölümcül bir yaralanma, hayatının gözlerinin önünden geçmesine neden olur... ve birdenbire, geçmiş bir çağda güçlü bir Aziz olduğu ve Şeytan Kral'ı yendiği eski hayatını hatırlar. Bu hayat, kim olduğu yüzünden acıyla sona erdi ve bu onun yeniden bir Aziz olma korkusuna yol açtı. Artık önceki hayatının büyüsü yeniden alevlendiğine göre, hayal ettiğinden çok daha güçlü bir şövalye olabilir; yeter ki yeterince uzun süre hayatta kalabilsin!<br><br>(Kaynak: Seven Seas Entertainment)<br><br>Not: Dizi, 1. bölümle birlikte yayınlanan 2. bölümden itibaren ABEMA, Prime Video ve Crunchyroll'da bir hafta önceden yayınlandı."
         },
         {
           "id": 206401,
@@ -3388,8 +3506,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206401-Nsf3QKwKxDra.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1791462600,
-            "episode": 2
+            "airingAt": 1792067400,
+            "episode": 3
           },
           "isAdult": false,
           "genres": [
@@ -3422,6 +3540,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Educational",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
@@ -3434,20 +3556,16 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Educational",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Large Breasts",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Time Skip",
               "isMediaSpoiler": false
             },
             {
               "name": "Suicide",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Large Breasts",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 69,
@@ -3478,41 +3596,54 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Üniversite öğrencisi Kurumi Fukuga, merhum annesinin ticarette kaybettiği 20 milyon yen'i telafi etme motivasyonuyla, uzun süredir devam eden döviz (FX) ticaretine başlama arzusunu nihayet gerçekleştirdi. \"Kolayca geri döneceğim\" diye düşündü ama girdiği dünya bir anda cennete ya da cehenneme dönüşebilir. Gerçekleşmemiş kayıplar, zararı azaltan, durdurulamayan dalgalanmalar… ama o yine de almak, satmak ve para kazanmak istiyor! FX bağımlısı arkadaşları Mochiko, Mebuki ve Yasuko'nun da yanında olmasıyla piyasa kızışıyor! Sevinç, umutsuzluk, sevinç, umutsuzluk - bu sevimli ama biraz riskli bir para oyunudur. Kurumi ve arkadaşları bu çalkantılı dünyada hayatta kalabilecekler mi?<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Üniversite öğrencisi Kurumi Fukuga, merhum annesinin ticarette kaybettiği 20 milyon yen'i telafi etme motivasyonuyla, uzun süredir devam eden döviz (FX) ticaretine başlama arzusunu nihayet gerçekleştirdi. \"Kolayca geri döneceğim\" diye düşündü ama girdiği dünya bir anda cennete ya da cehenneme dönüşebilir. Gerçekleşmemiş kayıplar, zararı azaltan, durdurulamayan dalgalanmalar… ama o yine de almak, satmak ve para kazanmak istiyor! FX bağımlısı arkadaşları Mochiko, Mebuki ve Yasuko'nun da yanında olmasıyla piyasa kızışıyor! Sevinç, umutsuzluk, neşe, umutsuzluk - bu sevimli ama biraz riskli bir para oyunudur. Kurumi ve arkadaşları bu çalkantılı dünyada hayatta kalabilecekler mi?<br><br>(Kaynak: Crunchyroll)"
         },
         {
-          "id": 209502,
+          "id": 209219,
           "title": {
-            "romaji": "Shiotaiou no Satou-san ga Ore ni dake Amai",
-            "english": "The Cold Sato-san is Only Sweet to Me",
-            "native": "塩対応の佐藤さんが俺にだけ甘い"
+            "romaji": "Tensei Goblin Dakedo Shitsumon Aru?",
+            "english": "So What's Wrong with Getting Reborn as a Goblin?",
+            "native": "転生ゴブリンだけど質問ある？"
           },
           "synonyms": [
-            "しおあま",
-            "ShioAma"
+            "転ゴブ",
+            "เกิดใหม่เป็นก็อบลินแล้วไง มีคำถามอะไรไหม?",
+            "Tengobu"
           ],
           "startDate": {
             "year": 2026,
             "month": 10,
-            "day": 6
+            "day": 5
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209502-C81oN8M4Smlo.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209502-C81oN8M4Smlo.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209219-3yhKlRx0LX3p.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209219-3yhKlRx0LX3p.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209502-TATgyznMxQOe.jpg",
+          "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1791896400,
-            "episode": 2
+            "airingAt": 1791810000,
+            "episode": 3
           },
           "isAdult": false,
           "genres": [
+            "Action",
+            "Adventure",
             "Comedy",
+            "Drama",
+            "Fantasy",
             "Romance"
           ],
           "tags": [
             {
-              "name": "Heterosexual",
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Goblin",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
@@ -3520,23 +3651,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Work",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Food",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Photography",
+              "name": "Isekai",
               "isMediaSpoiler": false
             }
           ],
@@ -3544,187 +3659,39 @@
           "studios": {
             "nodes": [
               {
-                "name": "Tezuka Productions"
+                "name": " BAKKKA"
               }
             ]
           },
-          "description": "<p>Sato-san is the unattainable flower of the class. She is always cold and curt with classmates, but only I know she's actually very cute when she smiles, even if she's not much of a photographer.<br />\n<br><br><br />\nOshio-kun is friendly and lively, but only I know he works at his family's cafe after school. He does a great job with the cafe's SNS account, and his mischievous smile makes my heart skip a beat!<br />\n<br><br><br />\nInnocent and sweet, but sometimes frustrating, this is a 120%-pure fluffy story about two people falling in love for the first time.</p>",
+          "description": "<p>Office worker Akira Yagami’s altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira’s newfound powers let him defy the species’ normal life span...and are the key to his path to becoming the strongest goblin ever!<br />\n<br><br><br />\n(Source: Yen Press)<br><br></p>\n<p><i>Note: Tensei Goblin Dakedo Shitsumon Aru? is streaming 1 week in advance of the TV broadcast on ABEMA and Prime Video beginning with episode 2 on October 5th, 2026</i></p>",
           "externalLinks": [
             {
               "site": "Twitter",
-              "url": "https://x.com/shioamaofficial"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@shioama_official"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/shioama_official"
+              "url": "https://x.com/tengobu_anime"
             },
             {
               "site": "Official Site",
-              "url": "https://shioama-anime.com"
+              "url": "https://tengobu-anime.com/"
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00384014/the-cold-sato-san-is-only-sweet-to-me"
+              "url": "https://www.crunchyroll.com/series/GT00384010/so-whats-wrong-with-getting-reborn-as-a-goblin"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLYld27spJ0aA"
             },
             {
               "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2433556"
+              "url": "https://www.bilibili.tv/en/media/2433441"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/ffeb3x9fd5"
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Sato-san sınıfın ulaşılmaz çiçeğidir. Sınıf arkadaşlarına karşı her zaman soğuk ve sert davranıyor ama pek fotoğrafçı olmasa da gülümsediğinde aslında çok tatlı olduğunu biliyorum.<br><br>Oshio-kun arkadaş canlısı ve hayat dolu ama okuldan sonra ailesinin kafesinde çalıştığını sadece ben biliyorum. Kafenin SNS hesabında harika bir iş çıkarıyor ve muzip gülümsemesi kalbimin atmasını sağlıyor!<br><br>Masum ve tatlı ama bazen sinir bozucu olan bu, iki kişinin ilk kez aşık olmasını konu alan %120 saf, yumuşak bir hikaye."
-        },
-        {
-          "id": 207327,
-          "title": {
-            "romaji": "Doko yori mo Tooi Basho ni Iru Kimi e",
-            "english": "To You in the Beyond",
-            "native": "どこよりも遠い場所にいる君へ"
-          },
-          "synonyms": [
-            "どこきみ",
-            "DokoKimi"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 9
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207327-OSrMbh8DrGE4.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207327-OSrMbh8DrGE4.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1791471600,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [
-            "Mystery",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Coastal",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Rural",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Manipulation",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "TMS Entertainment"
-              }
-            ]
-          },
-          "description": "<p>The  story centers on a boy named Kazuki Tsukigase, who transfers to a high school on a remote island to get away from anyone who knows him. Kazuki finds out that there is an inlet on the island where people are rumored to disappear. Exploring the inlet, he encounters an unconscious girl. When she comes to after Kazuki takes her to the clinic, she is unable to give out anything about her identity except that she is named Nao, is 16 years old, and whispers the year &quot;1974.&quot;<br><br><br />\n(Source: Anime News Network, edited)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/dokokimi_movie"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://sh-anime.shochiku.co.jp/dokokimi-movie/"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@dokokimi_movie"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Hikaye, kendisini tanıyan herkesten kaçmak için uzak bir adadaki liseye transfer olan Kazuki Tsukigase adında bir çocuğun etrafında dönüyor. Kazuki, adada insanların ortadan kaybolduğu söylenen bir koy olduğunu öğrenir. Körfezi keşfederken baygın bir kızla karşılaşır. Kazuki onu kliniğe götürdükten sonra kendine geldiğinde, adının Nao olması, 16 yaşında olması ve \"1974\" yılını fısıldaması dışında kimliği hakkında hiçbir şey söyleyemez.<br><br>(Kaynak: Anime Haber Ağı, düzenlendi)"
-        },
-        {
-          "id": 212503,
-          "title": {
-            "romaji": "Hyouken no Majutsushi ga Sekai wo Suberu II",
-            "english": "The Iceblade Sorcerer Shall Rule the World II",
-            "native": "冰剣の魔術師が世界を統べるⅡ"
-          },
-          "synonyms": [
-            "The Iceblade Sorcerer Shall Rule the World Season 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 9
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212503-sXBpRZr96c4e.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212503-sXBpRZr96c4e.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1791476880,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Class Struggle",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Zero-G"
-              }
-            ]
-          },
-          "description": "<p>Once dismissed as the sole ordinary student at the elite Arnold Academy of Sorcery, Ray White—secretly, the Iceblade Sorcerer—has finally earned his place. With a new school year comes a new challenge: The Magicks War, a grand competition pitting teams from rival schools against each other. But an ominous shadow looms over Ray and his friends as the other grand sorcerers plot their next moves.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/hyouken_pr"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://hyouken-anime.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GDKHZEP21/the-iceblade-sorcerer-shall-rule-the-world"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2432333"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Bir zamanlar elit Arnold Büyücülük Akademisi'ndeki tek sıradan öğrenci olarak görevden alınan Ray White (gizlice Buzkılıç Sihirbazı) sonunda onun yerini aldı. Yeni bir okul yılıyla birlikte yeni bir mücadele geliyor: Rakip okulların takımlarını birbirine düşüren büyük bir rekabet olan Magicks War. Ancak diğer büyük büyücüler bir sonraki hamlelerini planlarken Ray ve arkadaşlarının üzerinde uğursuz bir gölge belirir.<br><br>(Kaynak: Crunchyroll)"
+          "descriptionTr": "Ofis çalışanı Akira Yagami'nin fedakar doğası genellikle ona işin kısa ucunu verir. Bir çocuğu karşıdan gelen trafikten kurtardıktan sonra öldüğünde...başka bir dünyada bir goblin olarak reenkarne mi oluyor?! Normalde goblinler yalnızca yedi gün yaşar, ancak Akira'nın yeni keşfettiği güçleri, türün normal yaşam süresine meydan okumasına olanak tanıyor... ve şimdiye kadarki en güçlü goblin olma yolundaki anahtarı oluşturuyor!<br><br>(Kaynak: Yen Press)<br><br>Not: Tensei Goblin Dakedo Shitsumon Aru mu? 5 Ekim 2026'daki 2. bölümden itibaren ABEMA ve Prime Video'daki TV yayınından 1 hafta önce yayınlanıyor"
         },
         {
           "id": 178972,
@@ -3855,189 +3822,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Üç orijinal animasyon bölümünden oluşan antoloji filmi:<br><br>Q1 - ÆLIENS (エリィアンズ)<br><br>Dünya galaksiler arası bir değişim çağına girdi.<br><br>Uzaylı kız Elie, uzaylılara yönelik önyargı ve korkunun ortasında, uzayın iyi niyet elçisi olarak gelir. Dünya kültürünü ve çoğu zaman absürd günlük yaşamını seviyor ve \"arkadaşlar\" aramak için uzay ajansında çalışan bir memurla iş birliği yapıyor.<br><br>Q2 - Yoroshiku★Shoujo (夜露死駆★少女)<br><br>GAL'lerin TOKYO'su, asla sabahın gelmediği bir şehir.<br><br>\"Gal P\" olarak bilinen, gerçeklikteki yerini kaybetmiş kızlar her gece burada toplanıyor. Amaçları \"Kelebek Kraliçesi\" veya kısaca \"QoB\" olarak adlandırılan oyunda kazanan, \"Kraliçe\" olmaktır.<br><br>Q3 - Gece: Kono Grotesque na Yoru ni (ノクターン～このグロテスクな夜に～)<br><br>İnsanlığın yok olmasından sonraki bir dünya.<br><br>Bir minibüste seyahat eden, safkan bir vampir olan Ayame ve onun tarafından ısırılarak ve \"enfekte edilerek\" hayatta kalan üç kızdır. Orada, geceyi gündüz kadar parlak bir şekilde aydınlatan yıldızlarla dolu bir gökyüzü ve ışıltılı altın renkli çimenlerle dolu tarlalar bulurlar; ıssız bir dünya bile bir vampirin gözünden çok güzel görünür.<br><br>Geride bıraktıkları bu dünyada basit bir günlük hayatın tadını çıkarıyorlar.<br><br>(Sos: Resmi Web Sitesi, tercüme edilmiştir)"
-        },
-        {
-          "id": 209219,
-          "title": {
-            "romaji": "Tensei Goblin Dakedo Shitsumon Aru?",
-            "english": "So What's Wrong with Getting Reborn as a Goblin?",
-            "native": "転生ゴブリンだけど質問ある？"
-          },
-          "synonyms": [
-            "転ゴブ",
-            "เกิดใหม่เป็นก็อบลินแล้วไง มีคำถามอะไรไหม?",
-            "Tengobu"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209219-3yhKlRx0LX3p.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209219-3yhKlRx0LX3p.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1791810000,
-            "episode": 3
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Goblin",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 66,
-          "studios": {
-            "nodes": [
-              {
-                "name": " BAKKKA"
-              }
-            ]
-          },
-          "description": "<p>Office worker Akira Yagami’s altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira’s newfound powers let him defy the species’ normal life span...and are the key to his path to becoming the strongest goblin ever!<br />\n<br><br><br />\n(Source: Yen Press)<br><br></p>\n<p><i>Note: Tensei Goblin Dakedo Shitsumon Aru? is streaming 1 week in advance of the TV broadcast on ABEMA and Prime Video beginning with episode 2 on October 5th, 2026</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/tengobu_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://tengobu-anime.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00384010/so-whats-wrong-with-getting-reborn-as-a-goblin"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLYld27spJ0aA"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2433441"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/ffeb3x9fd5"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Ofis çalışanı Akira Yagami'nin fedakar doğası genellikle ona son noktayı koyar. Bir çocuğu karşıdan gelen trafikten kurtardıktan sonra öldüğünde...başka bir dünyada bir goblin olarak reenkarne mi oluyor?! Normalde goblinler yalnızca yedi gün yaşar, ancak Akira'nın yeni keşfettiği güçleri, türün normal yaşam süresine meydan okumasına olanak tanıyor... ve şimdiye kadarki en güçlü goblin olma yolundaki anahtarı oluşturuyor!<br><br>(Kaynak: Yen Press)<br><br>Not: Tensei Goblin Dakedo Shitsumon Aru mu? 5 Ekim 2026'daki 2. bölümden itibaren ABEMA ve Prime Video'daki TV yayınından 1 hafta önce yayınlanıyor"
-        },
-        {
-          "id": 198727,
-          "title": {
-            "romaji": "Chitose-kun wa Ramune Bin no Naka Part 2",
-            "english": "Chitose Is in the Ramune Bottle 2nd Cour",
-            "native": "千歳くんはラムネ瓶のなか 2クール"
-          },
-          "synonyms": [
-            "Chiramune",
-            "チラムネ",
-            "Chitose Is in the Ramune Bottle Part 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 13
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198727-BL0JTpg0G8tq.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198727-BL0JTpg0G8tq.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1791900000,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Philosophy",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "feel."
-              }
-            ]
-          },
-          "description": "<p>The second part of <i>Chitose-kun wa Ramune Bin no Naka</i>.</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://chiramune.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/anime_chiramune"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00364783/chitose-is-in-the-ramune-bottle"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Chitose-kun wa Ramune Bin no Naka'nın ikinci kısmı."
+          "descriptionTr": "Üç orijinal animasyon bölümünden oluşan antoloji filmi:<br><br>Q1 - ÆLIENS (エリィアンズ)<br><br>Dünya galaksiler arası bir değişim çağına girdi.<br><br>Uzaylı kız Elie, uzaylılara yönelik önyargı ve korkunun ortasında, uzayın iyi niyet elçisi olarak gelir. Dünya'nın kültürünü ve çoğu zaman saçma günlük yaşamını seviyor ve \"arkadaşlar\" aramak için uzay ajansında çalışan bir memurla iş birliği yapıyor.<br><br>Q2 - Yoroshiku★Shoujo (夜露死駆★少女)<br><br>GAL'lerin TOKYO'su, asla sabahın gelmediği bir şehir.<br><br>\"Gal P\" olarak bilinen, gerçeklikteki yerini kaybetmiş kızlar her gece burada toplanıyor. Amaçları \"Kelebek Kraliçesi\" veya kısaca \"QoB\" olarak adlandırılan oyunda kazanan, \"Kraliçe\" olmaktır.<br><br>Q3 - Gece: Kono Grotesque na Yoru ni (ノクターン～このグロテスクな夜に～)<br><br>İnsanlığın yok olmasından sonraki bir dünya.<br><br>Bir minibüste seyahat eden, safkan bir vampir olan Ayame ve onun tarafından ısırılarak ve \"enfekte edilerek\" hayatta kalan üç kızdır. Orada, geceyi gündüz kadar parlak bir şekilde aydınlatan yıldızlarla dolu bir gökyüzü ve ışıltılı altın renkli çimenlerle dolu tarlalar bulurlar; ıssız bir dünya bile bir vampirin gözünden çok güzel görünür.<br><br>Geride bıraktıkları bu dünyada basit bir günlük hayatın tadını çıkarıyorlar.<br><br>(Sos: Resmi Web Sitesi, tercüme edilmiştir)"
         },
         {
           "id": 176314,
@@ -4130,7 +3915,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": null,
+          "averageScore": 68,
           "studios": {
             "nodes": [
               {
@@ -4159,6 +3944,365 @@
           ],
           "isMyList": false,
           "descriptionTr": "Sasaki'den Pii-chan'a ikinci sezon."
+        },
+        {
+          "id": 212503,
+          "title": {
+            "romaji": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+            "english": "The Iceblade Sorcerer Shall Rule the World II",
+            "native": "冰剣の魔術師が世界を統べるⅡ"
+          },
+          "synonyms": [
+            "The Iceblade Sorcerer Shall Rule the World Season 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 9
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212503-sXBpRZr96c4e.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212503-sXBpRZr96c4e.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1792081680,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crossdressing",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Class Struggle",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Zero-G"
+              }
+            ]
+          },
+          "description": "<p>Once dismissed as the sole ordinary student at the elite Arnold Academy of Sorcery, Ray White—secretly, the Iceblade Sorcerer—has finally earned his place. With a new school year comes a new challenge: The Magicks War, a grand competition pitting teams from rival schools against each other. But an ominous shadow looms over Ray and his friends as the other grand sorcerers plot their next moves.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/hyouken_pr"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://hyouken-anime.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GDKHZEP21/the-iceblade-sorcerer-shall-rule-the-world"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2432333"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Bir zamanlar elit Arnold Büyücülük Akademisi'ndeki tek sıradan öğrenci olarak görevden alınan Ray White (gizlice Buzkılıç Sihirbazı) sonunda onun yerini aldı. Yeni bir okul yılıyla birlikte yeni bir mücadele geliyor: Rakip okulların takımlarını birbirine düşüren büyük bir rekabet olan Magicks War. Ancak diğer büyük büyücüler bir sonraki hamlelerini planlarken, Ray ve arkadaşlarının üzerinde uğursuz bir gölge belirir.<br><br>(Kaynak: Crunchyroll)"
+        },
+        {
+          "id": 198727,
+          "title": {
+            "romaji": "Chitose-kun wa Ramune Bin no Naka Part 2",
+            "english": "Chitose Is in the Ramune Bottle 2nd Cour",
+            "native": "千歳くんはラムネ瓶のなか 2クール"
+          },
+          "synonyms": [
+            "Chiramune",
+            "チラムネ",
+            "Chitose Is in the Ramune Bottle Part 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 13
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198727-BL0JTpg0G8tq.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198727-BL0JTpg0G8tq.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1791900000,
+            "episode": 1
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Philosophy",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "feel."
+              }
+            ]
+          },
+          "description": "<p>The second part of <i>Chitose-kun wa Ramune Bin no Naka</i>.</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://chiramune.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/anime_chiramune"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00364783/chitose-is-in-the-ramune-bottle"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Chitose-kun wa Ramune Bin no Naka'nın ikinci kısmı."
+        },
+        {
+          "id": 180894,
+          "title": {
+            "romaji": "Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
+            "english": "Romelia War Chronicle",
+            "native": "ロメリア戦記 〜魔王を倒した後も人類やばそうだから軍隊組織した〜"
+          },
+          "synonyms": [
+            "A History of the Romelia"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 3
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180894-o3pz4DWFm3je.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180894-o3pz4DWFm3je.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1791633600,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Exiled",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Politics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Military",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Royal Affairs",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Economics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Villainess",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 68,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Atra"
+              }
+            ]
+          },
+          "description": "<p>Romelia and her party succeed in defeating the Demon King Zelgis, though Prince Henri’s reckless charge forces them into a grueling battle. In the aftermath, Romelia is branded &quot;dead weight&quot; for not fighting directly, and the Prince unilaterally breaks off their engagement. Denied a place in the victory celebrations, Romelia returns home, only to be met with cold indifference from her family and society. Yet, she refuses to break. She has already set her sights on the path that lies ahead.<br />\n<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br><br />\n<i>Note: Romelia War Chronicle was streamed 2 days in advance of the TV broadcast on AnimeTimes, U-NEXT, and Netflix beginning October 3, 2026. Regular broadcasting began on October 5, 2026.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://romelia-senki.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/romelia_senki"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/@anime.romeliasenki"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00384007/romelia-war-chronicle"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Romelia ve ekibi, Şeytan Kral Zelgis'i yenmeyi başarır, ancak Prens Henri'nin pervasız saldırısı onları zorlu bir savaşa sürükler. Sonrasında, Romelia doğrudan savaşmadığı için \"ölü ağırlık\" olarak damgalanır ve Prens tek taraflı olarak nişanlarını bozar. Zafer kutlamalarına katılması reddedilen Romelia, eve döndüğünde ailesinin ve toplumunun soğuk bir kayıtsızlığıyla karşılaşır. Ancak yine de kırılmayı reddediyor. Şimdiden önündeki yola gözünü dikti.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Romelia War Chronicle, 3 Ekim 2026'dan itibaren AnimeTimes, U-NEXT ve Netflix'teki TV yayınından 2 gün önce yayınlandı. Düzenli yayın 5 Ekim 2026'da başladı."
+        },
+        {
+          "id": 211877,
+          "title": {
+            "romaji": "Kanojo no Tomodachi",
+            "english": "My Girlfriend's Friend",
+            "native": "彼女の友達"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211877-yWQ2r7XmWvG6.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211877-yWQ2r7XmWvG6.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1791734700,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama",
+            "Ecchi",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Netorare",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cheating",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Episodic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Large Breasts",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 50,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Quad"
+              }
+            ]
+          },
+          "description": "<p>For the first time in my life, I have a girlfriend. But her friend tempts me with a body that's so seductive... What would you do if your girlfriend's friend came on to you like this?<br />\n<br><br><br />\n(Source: Yanmaga, translated)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/kanotomo_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://kanojo-no-tomodachi.deregula.com/"
+            },
+            {
+              "site": "OceanVeil",
+              "url": "https://oceanveil.net/anime_titles/"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Hayatımda ilk defa bir kız arkadaşım var. Ama arkadaşı o kadar baştan çıkarıcı bir vücutla beni baştan çıkarıyor ki... Kız arkadaşının arkadaşı sana böyle saldırsa ne yapardın?<br><br>(Kaynak: Yanmaga, tercüme)"
         },
         {
           "id": 190054,
@@ -4253,33 +4397,36 @@
           "descriptionTr": "Büyük günleri yaklaşırken Miyo ve Kiyoka aşklarının derinleştiğini hisseder. Miyo, Hazuki ile yemek kursuna gittiğinde eski bir sınıf arkadaşıyla tanışır!<br><br>(Kaynak: Netflix Animesi)"
         },
         {
-          "id": 180894,
+          "id": 211778,
           "title": {
-            "romaji": "Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
-            "english": "Romelia War Chronicle",
-            "native": "ロメリア戦記 〜魔王を倒した後も人類やばそうだから軍隊組織した〜"
+            "romaji": "Sekai Saikyou no Majo, Hajimemashita",
+            "english": "The World's Strongest Witch",
+            "native": "世界最強の魔女、始めました"
           },
           "synonyms": [
-            "A History of the Romelia"
+            "Sekai Saikyou no Majo, Hajimemashita: Watashi dake \"Kouryaku Site\" wo Mireru Sekai de Jiyuu ni Ikimasu",
+            "世界最強の魔女、始めました　～私だけ『攻略サイト』を見れる世界で自由に生きます～",
+            "Sekamajo",
+            "せかまじょ"
           ],
           "startDate": {
             "year": 2026,
             "month": 10,
-            "day": 3
+            "day": 7
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180894-o3pz4DWFm3je.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180894-o3pz4DWFm3je.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211778-0MXK5HqVFBYH.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211778-0MXK5HqVFBYH.jpg"
           },
-          "bannerImage": null,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/211778-ZbXEhqfFkj62.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1791633600,
+            "airingAt": 1791982800,
             "episode": 2
           },
           "isAdult": false,
           "genres": [
-            "Adventure",
-            "Drama",
+            "Action",
+            "Comedy",
             "Fantasy"
           ],
           "tags": [
@@ -4288,23 +4435,31 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Exiled",
+              "name": "Virtual World",
               "isMediaSpoiler": false
             },
             {
-              "name": "Politics",
+              "name": "Travel",
               "isMediaSpoiler": false
             },
             {
-              "name": "Military",
+              "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Royal Affairs",
+              "name": "Meta",
               "isMediaSpoiler": false
             },
             {
-              "name": "Economics",
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Parody",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
@@ -4312,187 +4467,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Villainess",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 68,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Atra"
-              }
-            ]
-          },
-          "description": "<p>Romelia and her party succeed in defeating the Demon King Zelgis, though Prince Henri’s reckless charge forces them into a grueling battle. In the aftermath, Romelia is branded &quot;dead weight&quot; for not fighting directly, and the Prince unilaterally breaks off their engagement. Denied a place in the victory celebrations, Romelia returns home, only to be met with cold indifference from her family and society. Yet, she refuses to break. She has already set her sights on the path that lies ahead.<br />\n<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br><br />\n<i>Note: Romelia War Chronicle was streamed 2 days in advance of the TV broadcast on AnimeTimes, U-NEXT, and Netflix beginning October 3, 2026. Regular broadcasting began on October 5, 2026.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://romelia-senki.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/romelia_senki"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/@anime.romeliasenki"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00384007/romelia-war-chronicle"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Romelia ve partisi Şeytan Kral Zelgis'i yenmeyi başarır, ancak Prens Henri'nin pervasız saldırısı onları zorlu bir savaşa sürükler. Sonrasında Romelia, doğrudan savaşmadığı için \"ölü ağırlık\" olarak damgalanır ve Prens, nişanlarını tek taraflı olarak keser. Zafer kutlamalarına katılması reddedilen Romelia, eve döndüğünde ailesinin ve toplumunun soğuk bir kayıtsızlığıyla karşılaşır. Ancak kırılmayı reddediyor. Şimdiden önündeki yola gözünü dikti.<br><br>(Kaynak: Crunchyroll)<br><br>Not: Romelia War Chronicle, 3 Ekim 2026'dan itibaren AnimeTimes, U-NEXT ve Netflix'teki TV yayınından 2 gün önce yayınlandı. Düzenli yayın 5 Ekim 2026'da başladı."
-        },
-        {
-          "id": 211877,
-          "title": {
-            "romaji": "Kanojo no Tomodachi",
-            "english": "My Girlfriend's Friend",
-            "native": "彼女の友達"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211877-yWQ2r7XmWvG6.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211877-yWQ2r7XmWvG6.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1791734700,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Ecchi",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
+              "name": "Gods",
               "isMediaSpoiler": false
             },
             {
-              "name": "Netorare",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cheating",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Episodic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Large Breasts",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 51,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Quad"
-              }
-            ]
-          },
-          "description": "<p>For the first time in my life, I have a girlfriend. But her friend tempts me with a body that's so seductive... What would you do if your girlfriend's friend came on to you like this?<br />\n<br><br><br />\n(Source: Yanmaga, translated)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/kanotomo_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kanojo-no-tomodachi.deregula.com/"
-            },
-            {
-              "site": "OceanVeil",
-              "url": "https://oceanveil.net/anime_titles/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Hayatımda ilk defa bir kız arkadaşım var. Ama arkadaşı o kadar baştan çıkarıcı bir vücutla beni baştan çıkarıyor ki... Kız arkadaşının arkadaşı sana böyle saldırsa ne yapardın?<br><br>(Kaynak: Yanmaga, tercüme)"
-        },
-        {
-          "id": 200455,
-          "title": {
-            "romaji": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
-            "english": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
-            "native": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200455-P3XStRQMJ7Di.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200455-P3XStRQMJ7Di.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200455-rlIXyuk0jHE3.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1791729000,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Villainess",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shoujo",
+              "name": "Witch",
               "isMediaSpoiler": false
             }
           ],
@@ -4500,100 +4479,38 @@
           "studios": {
             "nodes": [
               {
-                "name": "Jumondou"
-              }
-            ]
-          },
-          "description": "<p>I was reborn as a villainous daughter in a reverse harem otome game.<br />\n<br><br><br />\nAfter being sick with a high fever at the age of 10, Pia Rockwell suddenly remembered her past life as a university student in Japan. But far from going down the villainess route, all this super timid girl wants is to finally use her knowledge from when she was a grad student studying to get her doctorate in paleontology. Her ultimate goal is to become a commoner, excavate fossils, build a museum and then become a curator.<br />\n<br><br><br />\nSo in order to escape the villainess route and avoid being deported by her fiancé during the graduation ball, Pia decides to avoid the upcoming hurt and heartache and asks to break off her engagement to Rufus, the Prime Minister's son.<br />\n<br><br><br />\nBut will her cunning fiancé let her go that easily?</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://yowaki-max-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/yowaki_max/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00365562"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "Ters harem otome oyununda kötü niyetli bir kız olarak yeniden doğdum.<br><br>Pia Rockwell, 10 yaşındayken yüksek ateşle hastalandıktan sonra aniden Japonya'da bir üniversite öğrencisi olarak geçirdiği geçmiş yaşamını hatırladı. Ama kötülük yoluna gitmek şöyle dursun, bu süper çekingen kızın istediği tek şey, paleontoloji alanında doktora yapmak için okuyan yüksek lisans öğrencisiyken edindiği bilgileri nihayet kullanmaktır. Nihai hedefi halktan biri olmak, fosil çıkarmak, bir müze inşa etmek ve ardından küratör olmaktır.<br><br>Pia, kötülük yolundan kaçmak ve mezuniyet balosu sırasında nişanlısı tarafından sınır dışı edilmekten kaçınmak için yaklaşan acı ve gönül yarasından kaçınmaya karar verir ve Başbakanın oğlu Rufus'la olan nişanını bozmak ister.<br><br>Peki kurnaz nişanlısı onun gitmesine bu kadar kolay izin verecek mi?"
-        },
-        {
-          "id": 186742,
-          "title": {
-            "romaji": "Toaru Anbu no ITEM",
-            "english": "A Certain Dark Item",
-            "native": "とある暗部の少女共棲"
-          },
-          "synonyms": [
-            "A Certain Dark Side's Item"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 9
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186742-v7yfbefc8fuO.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186742-v7yfbefc8fuO.png"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1791552600,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Sci-Fi"
-          ],
-          "tags": [
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
+                "name": "Bridge"
+              },
               {
-                "name": "J.C.STAFF"
+                "name": "Aisle"
               }
             ]
           },
-          "description": "<p>This is a story of four girls living in the &quot;Dark Side&quot; of Academy City.<br><br />\n<br><br />\nIn Academy City where &quot;ESP&quot; has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.<br><br />\n<br><br />\n&quot;ITEM&quot; is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.<br><br />\n<br><br />\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!<br><br />\n<br><br />\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!<br><br />\n<br><br />\n(Source: Kadokawa, translated)</p>",
+          "description": "<p>After using her SSS-Rank skill, Internet, to crush her former family’s ambitions, Lorna is free to travel the world. Her next stop is the port town of Aquas, where she hopes to see the sights and chow down on some fresh seafood. But when she arrives, the place is on the brink of destruction thanks to a certain Weekly Quest… Good thing Lorna has the gods on her side!<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
           "externalLinks": [
             {
-              "site": "Twitter",
-              "url": "https://x.com/toaru_project"
+              "site": "Official Site",
+              "url": "https://sekamajo-anime.com/"
             },
             {
-              "site": "Official Site",
-              "url": "https://toaru-project.com/item/"
+              "site": "Twitter",
+              "url": "https://x.com/sekamajo_anime"
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/"
+              "url": "https://www.crunchyroll.com/series/GT00384009/the-worlds-strongest-witch"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2432827"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLLJ_VmZxSJuY"
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Bu, Akademi Şehri'nin \"Karanlık Tarafı\"nda yaşayan dört kızın hikayesidir.<br><br>\"ESP\"nin genel bir bilim olarak kabul edildiği Akademi Şehri'nde. Barışın arkasında kamuoyuna açıklanamayacak görevler üstlenen bir Karanlık Taraf örgütü var.<br><br>\"ITEM\" dört kızdan oluşan elit bir birimdir. Takitsubo Rikou, yetenekleri olanların yaydığı AIM alanlarını okuyabiliyor ve takip edebiliyor. Patlayıcılar ve tuzaklar kullanarak savaşta başarılı olan Frenda Seivelun.<br><br>Azotu istediği zaman manipüle edebilen ve savunma rolü oynayan Kinuhata Saiai. Ve Academy City'nin gurur duyduğu 7 Espers'tan biri: Mugino Shizuri. Akademi Şehri'nin karanlığında özgürce yaşıyorlar ve sessizce gözlerini hedeflerine dikiyorlar...!<br><br>Bu, sonunda korkunç bir olaya yol açan bir karşılaşma, dostluk ve karanlığın hikayesidir!<br><br>(Kaynak: Kadokawa, tercüme)"
+          "descriptionTr": "Eski ailesinin hırslarını kırmak için SSS Sıralaması becerisi olan İnternet'i kullandıktan sonra Lorna, dünyayı dolaşmak için özgürdür. Bir sonraki durağı, manzaraları görmeyi ve taze deniz ürünlerinin tadına bakmayı umduğu liman kenti Aquas'tır. Ama geldiğinde, bir Haftalık Görev sayesinde burası yıkımın eşiğindedir… İyi ki Lorna'nın tanrıları onun tarafında!<br><br>(Kaynak: Crunchyroll)"
         },
         {
           "id": 178868,
@@ -4700,7 +4617,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": null,
+          "averageScore": 65,
           "studios": {
             "nodes": [
               {
@@ -4733,6 +4650,159 @@
           ],
           "isMyList": false,
           "descriptionTr": "Hikaru Shidou, Umi Ryuuzaki ve Fuu Hououji Cephiro'dan değil. Tokyo Kulesi'ne yaptıkları okul gezisinde üç kızın aklı, sihir ve harikalarla dolu farklı dünyalardan başka her şeydedir. Ta ki Cephiro'nun Sütunu Prenses Emeraude, Sihir Şövalyelerine dünyasını kurtarmaları için haykırana kadar - ve bu üçü de öyle!<br><br>(Kaynak: Crunchyroll)"
+        },
+        {
+          "id": 200455,
+          "title": {
+            "romaji": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+            "english": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
+            "native": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200455-P3XStRQMJ7Di.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200455-P3XStRQMJ7Di.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200455-rlIXyuk0jHE3.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1791729000,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Villainess",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shoujo",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 66,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Jumondou"
+              }
+            ]
+          },
+          "description": "<p>I was reborn as a villainous daughter in a reverse harem otome game.<br />\n<br><br><br />\nAfter being sick with a high fever at the age of 10, Pia Rockwell suddenly remembered her past life as a university student in Japan. But far from going down the villainess route, all this super timid girl wants is to finally use her knowledge from when she was a grad student studying to get her doctorate in paleontology. Her ultimate goal is to become a commoner, excavate fossils, build a museum and then become a curator.<br />\n<br><br><br />\nSo in order to escape the villainess route and avoid being deported by her fiancé during the graduation ball, Pia decides to avoid the upcoming hurt and heartache and asks to break off her engagement to Rufus, the Prime Minister's son.<br />\n<br><br><br />\nBut will her cunning fiancé let her go that easily?</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://yowaki-max-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/yowaki_max/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00365562"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Ters harem otome oyununda kötü niyetli bir kız olarak yeniden doğdum.<br><br>Pia Rockwell, 10 yaşındayken yüksek ateşle hastalandıktan sonra birdenbire Japonya'da bir üniversite öğrencisi olarak geçirdiği geçmiş yaşamını hatırladı. Ama kötülük yoluna gitmek şöyle dursun, bu süper çekingen kızın istediği tek şey, paleontoloji alanında doktora yapmak için okuyan yüksek lisans öğrencisiyken edindiği bilgileri nihayet kullanmaktır. Nihai hedefi halktan biri olmak, fosil çıkarmak, bir müze inşa etmek ve ardından küratör olmaktır.<br><br>Pia, kötülük yolundan kaçmak ve mezuniyet balosu sırasında nişanlısı tarafından sınır dışı edilmekten kaçınmak için yaklaşan acı ve gönül yarasından kaçınmaya karar verir ve Başbakanın oğlu Rufus'la olan nişanını bozmak ister.<br><br>Peki kurnaz nişanlısı onun gitmesine bu kadar kolay izin verecek mi?"
+        },
+        {
+          "id": 186742,
+          "title": {
+            "romaji": "Toaru Anbu no ITEM",
+            "english": "A Certain Dark Item",
+            "native": "とある暗部の少女共棲"
+          },
+          "synonyms": [
+            "A Certain Dark Side's Item"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 9
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186742-v7yfbefc8fuO.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186742-v7yfbefc8fuO.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1791552600,
+            "episode": 1
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "tags": [
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "J.C.STAFF"
+              }
+            ]
+          },
+          "description": "<p>This is a story of four girls living in the &quot;Dark Side&quot; of Academy City.<br><br />\n<br><br />\nIn Academy City where &quot;ESP&quot; has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.<br><br />\n<br><br />\n&quot;ITEM&quot; is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.<br><br />\n<br><br />\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!<br><br />\n<br><br />\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!<br><br />\n<br><br />\n(Source: Kadokawa, translated)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/toaru_project"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://toaru-project.com/item/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "Bu, Akademi Şehri'nin \"Karanlık Tarafı\"nda yaşayan dört kızın hikayesidir.<br><br>\"ESP\"nin genel bir bilim olarak kabul edildiği Akademi Şehri'nde. Barışın arkasında kamuoyuna açıklanamayacak görevler üstlenen bir Karanlık Taraf örgütü var.<br><br>\"ITEM\" dört kızdan oluşan elit bir birimdir. Takitsubo Rikou, yetenekleri olanların yaydığı AIM alanlarını okuyabiliyor ve takip edebiliyor. Patlayıcılar ve tuzaklar kullanarak savaşta başarılı olan Frenda Seivelun.<br><br>Azotu istediği zaman manipüle edebilen ve savunma rolü oynayan Kinuhata Saiai. Ve Academy City'nin gurur duyduğu 7 Espers'tan biri: Mugino Shizuri. Akademi Şehri'nin karanlığında özgürce yaşıyorlar ve sessizce gözlerini hedeflerine dikiyorlar...!<br><br>Bu, sonunda korkunç bir olaya yol açan bir karşılaşma, dostluk ve karanlığın hikayesidir!<br><br>(Kaynak: Kadokawa, çevrildi)"
         },
         {
           "id": 199007,
@@ -5010,7 +5080,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "Yozakura-san Chi no Daisakusen'in ikinci sezonunun ikinci kursu."
+          "descriptionTr": "Yozakura-san Chi no Daisakusen'in ikinci sezonunun ikinci kürü."
         }
       ]
     }
