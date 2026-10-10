@@ -1080,6 +1080,62 @@
             {
               "name": "Urban",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Male Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Mafia",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crime",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Manipulation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Twins",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Motorcycles",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Guns",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Bisexual",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Revenge",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 76,
@@ -1708,7 +1764,7 @@
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/"
+              "url": "https://www.crunchyroll.com/series/GT00383999"
             }
           ],
           "isMyList": false,
@@ -1823,16 +1879,32 @@
           ],
           "tags": [
             {
-              "name": "Isekai",
+              "name": "Kingdom Management",
               "isMediaSpoiler": false
             },
             {
-              "name": "Kingdom Management",
+              "name": "Isekai",
               "isMediaSpoiler": false
             },
             {
               "name": "Yandere",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Regression",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Orphan",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 71,
@@ -2799,8 +2871,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169581-cdooqY7Jqy3x.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1791584160,
-            "episode": 3
+            "airingAt": 1792188960,
+            "episode": 4
           },
           "isAdult": false,
           "genres": [
@@ -4812,6 +4884,10 @@
             {
               "name": "Dystopian",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Anti-Hero",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": null,
@@ -4834,7 +4910,7 @@
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/"
+              "url": "https://www.crunchyroll.com/series/GT00383991/a-certain-dark-item"
             }
           ],
           "isMyList": false,
