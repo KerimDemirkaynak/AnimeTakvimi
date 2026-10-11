@@ -1343,19 +1343,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Femboy",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
@@ -1363,7 +1351,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Femboy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
@@ -3031,11 +3031,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Nudity",
               "isMediaSpoiler": false
             },
             {
-              "name": "Nudity",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -3412,6 +3412,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Economics",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Magic",
               "isMediaSpoiler": false
             },
@@ -3421,10 +3425,6 @@
             },
             {
               "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Economics",
               "isMediaSpoiler": false
             },
             {
@@ -3910,6 +3910,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Death Game",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Animals",
               "isMediaSpoiler": false
             },
@@ -3954,7 +3958,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Death Game",
+              "name": "Economics",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Conspiracy",
               "isMediaSpoiler": true
             },
             {
@@ -3964,14 +3972,6 @@
             {
               "name": "Angels",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Economics",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Conspiracy",
-              "isMediaSpoiler": true
             }
           ],
           "averageScore": 68,
@@ -5099,15 +5099,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Curses",
               "isMediaSpoiler": false
             },
             {
               "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
               "isMediaSpoiler": false
             }
           ],
