@@ -528,15 +528,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Iyashikei",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Badminton",
               "isMediaSpoiler": false
             },
             {
               "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Iyashikei",
               "isMediaSpoiler": false
             },
             {
@@ -866,6 +866,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Boys' Love",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Foreign",
               "isMediaSpoiler": false
             },
@@ -879,10 +883,6 @@
             },
             {
               "name": "Primarily Male Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Boys' Love",
               "isMediaSpoiler": false
             },
             {
@@ -1567,6 +1567,10 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Marriage",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Disability",
               "isMediaSpoiler": false
             },
@@ -1576,10 +1580,6 @@
             },
             {
               "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Marriage",
               "isMediaSpoiler": false
             },
             {
@@ -2870,6 +2870,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Slapstick",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Seinen",
               "isMediaSpoiler": false
             }
@@ -3420,6 +3424,14 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Slapstick",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Curses",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Love Triangle",
               "isMediaSpoiler": false
             },
@@ -3432,11 +3444,23 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
+              "name": "Animals",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Mixed Gender Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cultivation",
               "isMediaSpoiler": false
             },
             {
               "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             }
           ],
@@ -3620,11 +3644,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Dragons",
+              "name": "Reincarnation",
               "isMediaSpoiler": false
             },
             {
-              "name": "Reincarnation",
+              "name": "Dragons",
               "isMediaSpoiler": false
             },
             {
@@ -3874,6 +3898,10 @@
             {
               "site": "Netflix",
               "url": "https://www.netflix.com/title/83189604"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00389311/dragon-ball-super-beerus"
             }
           ],
           "isMyList": false,
@@ -4571,6 +4599,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Netorare",
               "isMediaSpoiler": false
             },
@@ -4580,10 +4612,6 @@
             },
             {
               "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
               "isMediaSpoiler": false
             },
             {
@@ -4881,7 +4909,7 @@
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195571-fvj7u5GI7BRT.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195571-fvj7u5GI7BRT.jpg"
           },
-          "bannerImage": null,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195571-UkdB06UpyL8k.jpg",
           "nextAiringEpisode": {
             "airingAt": 1792225800,
             "episode": 2
@@ -5095,6 +5123,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Tragedy",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Gyaru",
               "isMediaSpoiler": false
             },
@@ -5186,6 +5218,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Body Horror",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Rehabilitation",
               "isMediaSpoiler": false
             },
@@ -5211,10 +5247,6 @@
             },
             {
               "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Body Horror",
               "isMediaSpoiler": false
             }
           ],
