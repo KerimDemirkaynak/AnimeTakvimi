@@ -697,6 +697,123 @@
           "descriptionTr": "<p>Sequel to <i>Made in Abyss: Retsujitsu no Ougonkyou.</i><br><br></p>"
         },
         {
+          "id": 210482,
+          "title": {
+            "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
+            "english": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+            "native": "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE"
+          },
+          "synonyms": [
+            "JoJo's Bizarre Adventure: Part 7–Steel Ball Run",
+            "SBR"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 9,
+            "day": 25
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210482-P1VNKbqdJ6Zj.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210482-P1VNKbqdJ6Zj.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210482-pYAD0IbzNbgS.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1792137600,
+            "episode": 4
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Mystery",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Desert",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cowboys",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Disability",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Boys' Love",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Foreign",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Travel",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Male Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crime",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Body Horror",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Gore",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 85,
+          "studios": {
+            "nodes": [
+              {
+                "name": "david production"
+              }
+            ]
+          },
+          "description": "<p>In the 2nd STAGE, a desert crossing spanning roughly 750 miles- the land that Johnny Joestar and Gyro Zeppeli must challenge, is home to the area that is feared as the &quot;Devil's Palm.&quot; In 1875, a threat lurking in said desert wiped out a cavalry of 26 people, eliciting fear from the local native people. As ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition. The two press forward, where countless hidden motives collide..<br><br></p>\n<p>(Source: Warner Bros. Japan Anime, Netflix Anime, edited)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/anime_jojo"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://jojo-portal-anime.com/sbr/"
+            },
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/jojotheanimation/"
+            },
+            {
+              "site": "Netflix",
+              "url": "https://www.netflix.com/title/82116553"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>In the 2nd STAGE, a desert crossing spanning roughly 750 miles- the land that Johnny Joestar and Gyro Zeppeli must challenge, is home to the area that is feared as the &quot;Devil's Palm.&quot; In 1875, a threat lurking in said desert wiped out a cavalry of 26 people, eliciting fear from the local native people. As ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition. The two press forward, where countless hidden motives collide..<br><br></p>\n<p>(Source: Warner Bros. Japan Anime, Netflix Anime, edited)</p>"
+        },
+        {
           "id": 143103,
           "title": {
             "romaji": "Mahoutsukai no Yoru",
@@ -816,123 +933,6 @@
           "descriptionTr": "<p>Aoko Aozaki, an ordinary high school girl, is actually a Magician who lives in the modern world...though she is still only an apprentice. As she spends her days living alongside her housemate, Alice Kuonji, striving to become a full-fledged Magician...<br><br />\n<br><br />\nThe girl meets a boy.<br><br />\n<br><br />\nThis is the beginning of one young girl’s story — the tale of a Witch.<br><br />\n<br><br />\n(Source: Crunchyroll)</p>"
         },
         {
-          "id": 210482,
-          "title": {
-            "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
-            "english": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-            "native": "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE"
-          },
-          "synonyms": [
-            "JoJo's Bizarre Adventure: Part 7–Steel Ball Run",
-            "SBR"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 9,
-            "day": 25
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210482-P1VNKbqdJ6Zj.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210482-P1VNKbqdJ6Zj.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210482-pYAD0IbzNbgS.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1792137600,
-            "episode": 4
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Drama",
-            "Mystery",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "Desert",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cowboys",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Disability",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Boys' Love",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Foreign",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Travel",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Male Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Crime",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Body Horror",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 85,
-          "studios": {
-            "nodes": [
-              {
-                "name": "david production"
-              }
-            ]
-          },
-          "description": "<p>In the 2nd STAGE, a desert crossing spanning roughly 750 miles- the land that Johnny Joestar and Gyro Zeppeli must challenge, is home to the area that is feared as the &quot;Devil's Palm.&quot; In 1875, a threat lurking in said desert wiped out a cavalry of 26 people, eliciting fear from the local native people. As ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition. The two press forward, where countless hidden motives collide..<br><br></p>\n<p>(Source: Warner Bros. Japan Anime, Netflix Anime, edited)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/anime_jojo"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://jojo-portal-anime.com/sbr/"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/jojotheanimation/"
-            },
-            {
-              "site": "Netflix",
-              "url": "https://www.netflix.com/title/82116553"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>In the 2nd STAGE, a desert crossing spanning roughly 750 miles- the land that Johnny Joestar and Gyro Zeppeli must challenge, is home to the area that is feared as the &quot;Devil's Palm.&quot; In 1875, a threat lurking in said desert wiped out a cavalry of 26 people, eliciting fear from the local native people. As ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition. The two press forward, where countless hidden motives collide..<br><br></p>\n<p>(Source: Warner Bros. Japan Anime, Netflix Anime, edited)</p>"
-        },
-        {
           "id": 212888,
           "title": {
             "romaji": "Tempal: Item no Chikara",
@@ -991,12 +991,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "E-Sports",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
             },
             {
               "name": "Primarily Adult Cast",
@@ -1164,6 +1164,109 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>This is Fujinasu Academy, a private high school with top-achieving students located on the outskirts of town.<br />\n<br><br><br />\nHigh School 1st-Year Ume Mizunoe has excellent grades in Japanese language class and has received multiple literary awards.<br />\nHowever, his terrible grades in the sciences are affecting his ability to move up a grade. To avoid repeating a year, he becomes a member of the student council to improve his academic standing.<br />\n<br><br><br />\nHowever, in the student council, he meets the charismatic yet sullen student council president Kotobuki Hisako, and the scary yet kind and refined treasurer, Arisu Terui. Other members include a cheeky and cute boy, Tan Otori, and Komaro Michinoku, the admin who's like a small abandoned cat. This is the start of a slapstick, heartful, rom-com about a busy student council full of cute, mismatched, and quirky students!<br />\n<br><br><br />\n(Source: Even the Student Council Has Its Holes! Official Site)</p>"
+        },
+        {
+          "id": 205909,
+          "title": {
+            "romaji": "Hotaru no Yomeiri",
+            "english": "Firefly Wedding",
+            "native": "ホタルの嫁入り"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 9
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205909-DM0fAzNQulod.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/205909-hGeuFYrdhf9S.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1792161000,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Yandere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Josei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Assassins",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Prostitution",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Marriage",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Disability",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Survival",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 75,
+          "studios": {
+            "nodes": [
+              {
+                "name": "david production"
+              }
+            ]
+          },
+          "description": "<p>On the surface, Satoko has it all—she’s beautiful, the daughter of a nobleman, and at a prime age for marriage. Unfortunately, she is also quite ill and only has a short time left to live. Before she can secure a marriage that will redeem her worth in her family’s eyes, she finds herself the target of the mysterious assassin Shinpei, and her plans are put in jeopardy. In order to save herself, she makes a desperate proposal—of marriage! When it comes to love, however, Shinpei takes “until death do we part” seriously.<br><br />\n<br><br />\n(Source: VIZ Media)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://hotaru-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/hotaru_anime_pr"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00383999"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>On the surface, Satoko has it all—she’s beautiful, the daughter of a nobleman, and at a prime age for marriage. Unfortunately, she is also quite ill and only has a short time left to live. Before she can secure a marriage that will redeem her worth in her family’s eyes, she finds herself the target of the mysterious assassin Shinpei, and her plans are put in jeopardy. In order to save herself, she makes a desperate proposal—of marriage! When it comes to love, however, Shinpei takes “until death do we part” seriously.<br><br />\n<br><br />\n(Source: VIZ Media)</p>"
         },
         {
           "id": 178083,
@@ -1515,109 +1618,6 @@
           "descriptionTr": "<p><i>&quot;Actually, I’m Touko Kirishima.&quot;</i><br />\n<br><br><br />\nThe audience erupted in excitement upon learning that the true identity of the mysterious, wildly popular internet singer was none other than the nation’s favorite actress, Mai Sakurajima. The scene was exactly the same as the dream Sakuta Azusagawa had seen on Christmas Eve.<br />\n<br><br><br />\nStarting with Mai’s shocking confession on April 1, the impossible events that everyone once dreamed of keep happening one after another.</p>\n<p>The social media hashtag &quot;#Yumemiru,&quot; where dreams come true, has vanished, and as Sakuta struggles with the disconnect between the reality before him and his own perception, he receives a message from a version of himself in an alternate reality.<br />\n<br><br><br />\n<b>―Stop Touko Kirishima,<br />\n<br><br />\n―Before reality is rewritten.</b><br />\n<br><br><br />\nTo restore the world to its original state, Sakuta sets out to find Touko Kirishima. This is a story about overcoming the &quot;Adolescent Syndrome&quot;.<br><br></p>\n<p>(Source: Crunchyroll News, edited)</p>"
         },
         {
-          "id": 205909,
-          "title": {
-            "romaji": "Hotaru no Yomeiri",
-            "english": "Firefly Wedding",
-            "native": "ホタルの嫁入り"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 9
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205909-DM0fAzNQulod.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/205909-hGeuFYrdhf9S.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1792161000,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Yandere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Josei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Assassins",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Prostitution",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Historical",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Marriage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Disability",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Survival",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 75,
-          "studios": {
-            "nodes": [
-              {
-                "name": "david production"
-              }
-            ]
-          },
-          "description": "<p>On the surface, Satoko has it all—she’s beautiful, the daughter of a nobleman, and at a prime age for marriage. Unfortunately, she is also quite ill and only has a short time left to live. Before she can secure a marriage that will redeem her worth in her family’s eyes, she finds herself the target of the mysterious assassin Shinpei, and her plans are put in jeopardy. In order to save herself, she makes a desperate proposal—of marriage! When it comes to love, however, Shinpei takes “until death do we part” seriously.<br><br />\n<br><br />\n(Source: VIZ Media)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://hotaru-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/hotaru_anime_pr"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00383999"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>On the surface, Satoko has it all—she’s beautiful, the daughter of a nobleman, and at a prime age for marriage. Unfortunately, she is also quite ill and only has a short time left to live. Before she can secure a marriage that will redeem her worth in her family’s eyes, she finds herself the target of the mysterious assassin Shinpei, and her plans are put in jeopardy. In order to save herself, she makes a desperate proposal—of marriage! When it comes to love, however, Shinpei takes “until death do we part” seriously.<br><br />\n<br><br />\n(Source: VIZ Media)</p>"
-        },
-        {
           "id": 200929,
           "title": {
             "romaji": "Kusuriya no Hitorigoto: Bouhi no Hihou",
@@ -1798,8 +1798,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207329-9IqRSKIsM3TC.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1791903600,
-            "episode": 2
+            "airingAt": 1792508400,
+            "episode": 3
           },
           "isAdult": false,
           "genres": [
@@ -1852,6 +1852,10 @@
             {
               "name": "Gangs",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 73,
@@ -1895,86 +1899,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Rein, an enchanter, is suddenly expelled from his guild one day. But instead of despairing, he declares, “Now I can do anything!” and begins reclaiming the massive number of enhancement points he once poured into his guildmates’ gear, setting off on a brand-new path as an adventurer.<br><br><br />\nGathering around him are people carrying wounds that don’t fade easily: a genius adventurer who shut her heart after her party was slaughtered, a warrior who lost her family, and an assassin raised from childhood to kill. Yet Rein never rejects their pasts or their scars—he accepts them all with bright, straightforward warmth.<br><br><br />\nThe stage is a unique fantasy world where Uzis, slingshots, and even yakuza exist side by side. But in this world, the more people rely on convenient technology, the more their magic weakens, and adventurers grow fragile.<br><br><br />\nIntelligent, vicious monsters roam freely, while in the underworld, outlaws bare their greed and ambition as schemes and betrayals intertwine. In a world where ideals and justice are easily crushed, adventurers fight on with nothing but their magic and their convictions.<br><br><br />\nThis is the story of those who have lost their place in the world finding a new way to live. Rein and his companions’ wild, free-spirited second life begins now!<br />\n<br><br>(Source: The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life Site)</p>"
-        },
-        {
-          "id": 152677,
-          "title": {
-            "romaji": "Tantei wa mou, Shindeiru. Season 2",
-            "english": "The Detective Is Already Dead Season 2",
-            "native": "探偵はもう、死んでいる。Season2"
-          },
-          "synonyms": [
-            "The Detective Is Already Dead Season 2",
-            "La detective esta muerta. 2",
-            "Tanmoshi 2",
-            "นักสืบตายเเล้ว ภาค 2",
-            "たんもし 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 7
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152677-gtJbgjE94lCN.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1791981000,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Mystery",
-            "Romance",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Detective",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Aliens",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dissociative Identities",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 72,
-          "studios": {
-            "nodes": [
-              {
-                "name": "ENGI"
-              }
-            ]
-          },
-          "description": "<p>After thwarting a hijacking with beautiful, silver-haired detective Siesta, Kimihiko leads a life of globe-trotting and crime-solving—until Siesta dies. A year later, a new case will open old wounds as it threads murder, conspiracy, and his dead partner!<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/tanteiwamou_"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://tanmoshi-anime.jp/Season2/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/the-detective-is-already-dead"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>After thwarting a hijacking with beautiful, silver-haired detective Siesta, Kimihiko leads a life of globe-trotting and crime-solving—until Siesta dies. A year later, a new case will open old wounds as it threads murder, conspiracy, and his dead partner!<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
           "id": 185756,
@@ -2072,6 +1996,86 @@
           "descriptionTr": "<p>The third season of <i>Tensei Kizoku, Kantei Skill de Nariagaru</i>.<br />\n<br><br><br />\n<i>Note: On September 4, 2026, it was announced that GeyeG Pictures would take over the production from studio MOTHER while keeping the same staff.</i></p>"
         },
         {
+          "id": 152677,
+          "title": {
+            "romaji": "Tantei wa mou, Shindeiru. Season 2",
+            "english": "The Detective Is Already Dead Season 2",
+            "native": "探偵はもう、死んでいる。Season2"
+          },
+          "synonyms": [
+            "The Detective Is Already Dead Season 2",
+            "La detective esta muerta. 2",
+            "Tanmoshi 2",
+            "นักสืบตายเเล้ว ภาค 2",
+            "たんもし 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 7
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152677-gtJbgjE94lCN.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1791981000,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Mystery",
+            "Romance",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Detective",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Aliens",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Dissociative Identities",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 72,
+          "studios": {
+            "nodes": [
+              {
+                "name": "ENGI"
+              }
+            ]
+          },
+          "description": "<p>After thwarting a hijacking with beautiful, silver-haired detective Siesta, Kimihiko leads a life of globe-trotting and crime-solving—until Siesta dies. A year later, a new case will open old wounds as it threads murder, conspiracy, and his dead partner!<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/tanteiwamou_"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://tanmoshi-anime.jp/Season2/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/the-detective-is-already-dead"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>After thwarting a hijacking with beautiful, silver-haired detective Siesta, Kimihiko leads a life of globe-trotting and crime-solving—until Siesta dies. A year later, a new case will open old wounds as it threads murder, conspiracy, and his dead partner!<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
+        },
+        {
           "id": 191788,
           "title": {
             "romaji": "Aoashi 2nd Season",
@@ -2123,7 +2127,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 78,
+          "averageScore": 79,
           "studios": {
             "nodes": [
               {
@@ -2360,7 +2364,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 68,
+          "averageScore": 67,
           "studios": {
             "nodes": [
               {
@@ -2388,6 +2392,208 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Amona’s a dark summoner with demonic powers. Roni’s a devout priest who’s way too uptight. By all rights, they should hate each other. Instead, they end up fast-tracking their enemies-to-lovers arc with a one-night stand that somehow insists on becoming a recurring event. Now they must hide their situationship from the rest of the party while denying their growing attraction to one another, all while dealing with an imp who’s far too invested in their love life.<br />\n<br><br><br />\n(Source: HIDIVE)</p>"
+        },
+        {
+          "id": 207191,
+          "title": {
+            "romaji": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
+            "english": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
+            "native": "どうも、好きな人に惚れ薬を依頼された魔女です。"
+          },
+          "synonyms": [
+            "Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion",
+            "I'm a witch who's crush requested a love potion",
+            "惚れ魔女",
+            "Horemajo"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-VgkIzfH92WoZ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207191-VgkIzfH92WoZ.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207191-xYgpkCDnXc5m.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1792413000,
+            "episode": 3
+          },
+          "isAdult": false,
+          "genres": [
+            "Fantasy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Witch",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Josei",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Hikikomori",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Medicine",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Rural",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Slapstick",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 70,
+          "studios": {
+            "nodes": [
+              {
+                "name": "diomedéa"
+              }
+            ]
+          },
+          "description": "<p><b>“Make me a love potion.”</b><br />\n<br><br><br />\nAnd with that single sentence, the Good Witch of the Lake’s secret crush on the dashing Sir Harij ends in heartbreak. Still, when he promises to help her gather the ingredients, Rose is thrilled at the chance to gaze upon a man she’d normally never get to interact with. She learns to brace her pounding heart for their usual stilted conversations…but what is she to do when he inexplicably shows up at her doorstep with bread and a jar of apple butter?<br />\n<br><br><br />\n(Source: Yen Press)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/horemajo_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://horemajo-anime.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00378072/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p><b>“Make me a love potion.”</b><br />\n<br><br><br />\nAnd with that single sentence, the Good Witch of the Lake’s secret crush on the dashing Sir Harij ends in heartbreak. Still, when he promises to help her gather the ingredients, Rose is thrilled at the chance to gaze upon a man she’d normally never get to interact with. She learns to brace her pounding heart for their usual stilted conversations…but what is she to do when he inexplicably shows up at her doorstep with bread and a jar of apple butter?<br />\n<br><br><br />\n(Source: Yen Press)</p>"
+        },
+        {
+          "id": 206814,
+          "title": {
+            "romaji": "Dragon Ball Super: Beerus",
+            "english": "Dragon Ball Super: Beerus",
+            "native": "ドラゴンボール超 ビルス"
+          },
+          "synonyms": [
+            "DBS Beerus"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 11
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-PVVzRbf1IQpe.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206814-PVVzRbf1IQpe.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206814-ARuwrZJAGONN.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1792332960,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "tags": [
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Martial Arts",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gods",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Henshin",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Aliens",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Alternate Universe",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Space",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Angels",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 80,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Toei Animation"
+              }
+            ]
+          },
+          "description": "<p>Several years have passed since the fierce battle against Majin Buu, and Earth has finally regained a brief moment of peace. At the same time, Beerus, the God of Destruction, awakens from his long, deep sleep.<br><br />\nEven Kai and Supreme Kai, aware of Beerus's overwhelming power to destroy entire planets, watch his awakening with great fear… Meanwhile, Beerus hears rumors of a Saiyan who defeated Frieza—and suddenly appears before Goku.<br><br />\nTargeted by Beerus, the strongest being in the universe, Earth is in grave danger. Thus begins an earth-shattering cosmic battle between the God of Destruction and Goku and his alliesa—a conflict that will shake the entire universe.<br />\n<br><br><br />\n(Source: Official Site)<br />\n<br><br><br />\n<i>Note: “Enhanced” edition of Dragon Ball Super, featuring a large volume of newly added and redrawn cuts, a reconstructed narrative, and updated visuals for a more immersive and faithful representation of Akira Toriyama’s original manga.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://dragonball-super.com/"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://dragonball-super.com/en/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/DB_anime_info"
+            },
+            {
+              "site": "Netflix",
+              "url": "https://www.netflix.com/title/83189604"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00389311/dragon-ball-super-beerus"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Several years have passed since the fierce battle against Majin Buu, and Earth has finally regained a brief moment of peace. At the same time, Beerus, the God of Destruction, awakens from his long, deep sleep.<br><br />\nEven Kai and Supreme Kai, aware of Beerus's overwhelming power to destroy entire planets, watch his awakening with great fear… Meanwhile, Beerus hears rumors of a Saiyan who defeated Frieza—and suddenly appears before Goku.<br><br />\nTargeted by Beerus, the strongest being in the universe, Earth is in grave danger. Thus begins an earth-shattering cosmic battle between the God of Destruction and Goku and his alliesa—a conflict that will shake the entire universe.<br />\n<br><br><br />\n(Source: Official Site)<br />\n<br><br><br />\n<i>Note: “Enhanced” edition of Dragon Ball Super, featuring a large volume of newly added and redrawn cuts, a reconstructed narrative, and updated visuals for a more immersive and faithful representation of Akira Toriyama’s original manga.</i></p>"
         },
         {
           "id": 204389,
@@ -2588,208 +2794,6 @@
           "descriptionTr": "<p>Sato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!<br><br></p>\n<p>(Source: Seven Seas Entertainment)</p>"
         },
         {
-          "id": 207191,
-          "title": {
-            "romaji": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
-            "english": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
-            "native": "どうも、好きな人に惚れ薬を依頼された魔女です。"
-          },
-          "synonyms": [
-            "Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion",
-            "I'm a witch who's crush requested a love potion",
-            "惚れ魔女",
-            "Horemajo"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-VgkIzfH92WoZ.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207191-VgkIzfH92WoZ.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207191-xYgpkCDnXc5m.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1792413000,
-            "episode": 3
-          },
-          "isAdult": false,
-          "genres": [
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Witch",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Josei",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Hikikomori",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medicine",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Rural",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Slapstick",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 69,
-          "studios": {
-            "nodes": [
-              {
-                "name": "diomedéa"
-              }
-            ]
-          },
-          "description": "<p><b>“Make me a love potion.”</b><br />\n<br><br><br />\nAnd with that single sentence, the Good Witch of the Lake’s secret crush on the dashing Sir Harij ends in heartbreak. Still, when he promises to help her gather the ingredients, Rose is thrilled at the chance to gaze upon a man she’d normally never get to interact with. She learns to brace her pounding heart for their usual stilted conversations…but what is she to do when he inexplicably shows up at her doorstep with bread and a jar of apple butter?<br />\n<br><br><br />\n(Source: Yen Press)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/horemajo_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://horemajo-anime.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00378072/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p><b>“Make me a love potion.”</b><br />\n<br><br><br />\nAnd with that single sentence, the Good Witch of the Lake’s secret crush on the dashing Sir Harij ends in heartbreak. Still, when he promises to help her gather the ingredients, Rose is thrilled at the chance to gaze upon a man she’d normally never get to interact with. She learns to brace her pounding heart for their usual stilted conversations…but what is she to do when he inexplicably shows up at her doorstep with bread and a jar of apple butter?<br />\n<br><br><br />\n(Source: Yen Press)</p>"
-        },
-        {
-          "id": 206814,
-          "title": {
-            "romaji": "Dragon Ball Super: Beerus",
-            "english": "Dragon Ball Super: Beerus",
-            "native": "ドラゴンボール超 ビルス"
-          },
-          "synonyms": [
-            "DBS Beerus"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 11
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-PVVzRbf1IQpe.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206814-PVVzRbf1IQpe.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206814-ARuwrZJAGONN.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1792332960,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-          ],
-          "tags": [
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Martial Arts",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gods",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Henshin",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Aliens",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Alternate Universe",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Space",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Angels",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 80,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Toei Animation"
-              }
-            ]
-          },
-          "description": "<p>Several years have passed since the fierce battle against Majin Buu, and Earth has finally regained a brief moment of peace. At the same time, Beerus, the God of Destruction, awakens from his long, deep sleep.<br><br />\nEven Kai and Supreme Kai, aware of Beerus's overwhelming power to destroy entire planets, watch his awakening with great fear… Meanwhile, Beerus hears rumors of a Saiyan who defeated Frieza—and suddenly appears before Goku.<br><br />\nTargeted by Beerus, the strongest being in the universe, Earth is in grave danger. Thus begins an earth-shattering cosmic battle between the God of Destruction and Goku and his alliesa—a conflict that will shake the entire universe.<br />\n<br><br><br />\n(Source: Official Site)<br />\n<br><br><br />\n<i>Note: “Enhanced” edition of Dragon Ball Super, featuring a large volume of newly added and redrawn cuts, a reconstructed narrative, and updated visuals for a more immersive and faithful representation of Akira Toriyama’s original manga.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://dragonball-super.com/"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://dragonball-super.com/en/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/DB_anime_info"
-            },
-            {
-              "site": "Netflix",
-              "url": "https://www.netflix.com/title/83189604"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00389311/dragon-ball-super-beerus"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Several years have passed since the fierce battle against Majin Buu, and Earth has finally regained a brief moment of peace. At the same time, Beerus, the God of Destruction, awakens from his long, deep sleep.<br><br />\nEven Kai and Supreme Kai, aware of Beerus's overwhelming power to destroy entire planets, watch his awakening with great fear… Meanwhile, Beerus hears rumors of a Saiyan who defeated Frieza—and suddenly appears before Goku.<br><br />\nTargeted by Beerus, the strongest being in the universe, Earth is in grave danger. Thus begins an earth-shattering cosmic battle between the God of Destruction and Goku and his alliesa—a conflict that will shake the entire universe.<br />\n<br><br><br />\n(Source: Official Site)<br />\n<br><br><br />\n<i>Note: “Enhanced” edition of Dragon Ball Super, featuring a large volume of newly added and redrawn cuts, a reconstructed narrative, and updated visuals for a more immersive and faithful representation of Akira Toriyama’s original manga.</i></p>"
-        },
-        {
           "id": 169581,
           "title": {
             "romaji": "Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
@@ -2825,11 +2829,11 @@
           ],
           "tags": [
             {
-              "name": "Magic",
+              "name": "Isekai",
               "isMediaSpoiler": false
             },
             {
-              "name": "Isekai",
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
@@ -2930,8 +2934,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206949-c5hfhixdgvy5.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1791894360,
-            "episode": 2
+            "airingAt": 1792499160,
+            "episode": 3
           },
           "isAdult": false,
           "genres": [
@@ -2949,6 +2953,10 @@
             },
             {
               "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cultivation",
               "isMediaSpoiler": false
             },
             {
@@ -2981,6 +2989,14 @@
             },
             {
               "name": "Martial Arts",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tsundere",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Circus",
               "isMediaSpoiler": false
             }
           ],
@@ -3078,7 +3094,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 71,
+          "averageScore": 70,
           "studios": {
             "nodes": [
               {
@@ -3111,113 +3127,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>One day, high schooler Ageha Yoshina picks up a mysterious “red phone card” left behind in a public telephone booth.<br />\nA few days later, his childhood friend and classmate, Sakurako Amamiya—who possessed the same card—suddenly vanishes without a trace. In search of her, Ageha finds himself drawn into the rumors surrounding a nationwide string of mysterious disappearances, said to be the work of a secret organization known only as “Psyren.”<br><br><br />\nWhen he accesses the group, a deadly game begins—one that will change his fate forever.<br />\n<br><br><br />\n(Source: PSYЯEN Official Site)</p>"
-        },
-        {
-          "id": 204650,
-          "title": {
-            "romaji": "Tougen Anki: Nikko・Kegon no Taki-hen",
-            "english": "TOUGEN ANKI: Nikko Kegon Falls Arc",
-            "native": "桃源暗鬼 日光・華厳の滝編"
-          },
-          "synonyms": [
-            "桃源暗鬼 2期",
-            "Tougen Anki Season 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 2
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-cAQOzQ84Lwk8.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204650-cAQOzQ84Lwk8.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204650-MpownoVlYv69.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1792161000,
-            "episode": 3
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Mystery",
-            "Supernatural"
-          ],
-          "tags": [
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Guns",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Revenge",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 71,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Studio Hibari"
-              }
-            ]
-          },
-          "description": "<p>After battling in Kyoto and Nerima, the Rasetsu Academy students have grown stronger. But Yaoroshi leaves the academy to join the Oni Brigade for their &quot;the total eradication of the Momotaro.&quot;<br />\n<br><br><br />\nWhen Shiki realizes that they also target noncombatants, he sets out after Yaoroshi to bring him back. Meanwhile in Nikko, there's a research facility for horrific experiments atop the old Kegon Falls…<br />\n<br><br><br />\n(Source: REMOW)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://tougenanki-anime-global.com/"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/@tougen_anki"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@tougen_anki_project"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/tougenanki_anm"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://tougenanki-anime.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GP5HJ84D2/tougen-anki"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2431878"
-            },
-            {
-              "site": "Amazon Prime Video",
-              "url": "https://www.amazon.com/dp/B0FCM3YGCQ"
-            },
-            {
-              "site": "Netflix",
-              "url": "https://www.netflix.com/title/81969861"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>After battling in Kyoto and Nerima, the Rasetsu Academy students have grown stronger. But Yaoroshi leaves the academy to join the Oni Brigade for their &quot;the total eradication of the Momotaro.&quot;<br />\n<br><br><br />\nWhen Shiki realizes that they also target noncombatants, he sets out after Yaoroshi to bring him back. Meanwhile in Nikko, there's a research facility for horrific experiments atop the old Kegon Falls…<br />\n<br><br><br />\n(Source: REMOW)</p>"
         },
         {
           "id": 202250,
@@ -3313,6 +3222,117 @@
           "descriptionTr": "<p>If there's one thing you can never have enough of in a world of RPG-style swords and sorcery, it's magic points! Whether you're fueling spells, techniques, or showing off an incredible ability, you've gotta spend those points to do real damage. But what if you run out?<br />\n<br><br><br />\nLent is part of the up-and-coming party known as the “Skypiercers,” and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious…until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!<br><br><br />\n(Source: Seven Seas Entertainment)</p>"
         },
         {
+          "id": 204650,
+          "title": {
+            "romaji": "Tougen Anki: Nikko・Kegon no Taki-hen",
+            "english": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+            "native": "桃源暗鬼 日光・華厳の滝編"
+          },
+          "synonyms": [
+            "桃源暗鬼 2期",
+            "Tougen Anki Season 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 2
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-cAQOzQ84Lwk8.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204650-cAQOzQ84Lwk8.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204650-MpownoVlYv69.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1792161000,
+            "episode": 3
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Mystery",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Demons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Guns",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Revenge",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 71,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Studio Hibari"
+              }
+            ]
+          },
+          "description": "<p>After battling in Kyoto and Nerima, the Rasetsu Academy students have grown stronger. But Yaoroshi leaves the academy to join the Oni Brigade for their &quot;the total eradication of the Momotaro.&quot;<br />\n<br><br><br />\nWhen Shiki realizes that they also target noncombatants, he sets out after Yaoroshi to bring him back. Meanwhile in Nikko, there's a research facility for horrific experiments atop the old Kegon Falls…<br />\n<br><br><br />\n(Source: REMOW)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://tougenanki-anime-global.com/"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/@tougen_anki"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@tougen_anki_project"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/tougenanki_anm"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://tougenanki-anime.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GP5HJ84D2/tougen-anki"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2431878"
+            },
+            {
+              "site": "Amazon Prime Video",
+              "url": "https://www.amazon.com/dp/B0FCM3YGCQ"
+            },
+            {
+              "site": "Netflix",
+              "url": "https://www.netflix.com/title/81969861"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>After battling in Kyoto and Nerima, the Rasetsu Academy students have grown stronger. But Yaoroshi leaves the academy to join the Oni Brigade for their &quot;the total eradication of the Momotaro.&quot;<br />\n<br><br><br />\nWhen Shiki realizes that they also target noncombatants, he sets out after Yaoroshi to bring him back. Meanwhile in Nikko, there's a research facility for horrific experiments atop the old Kegon Falls…<br />\n<br><br><br />\n(Source: REMOW)</p>"
+        },
+        {
           "id": 212503,
           "title": {
             "romaji": "Hyouken no Majutsushi ga Sekai wo Suberu II",
@@ -3395,6 +3415,101 @@
           "descriptionTr": "<p>Once dismissed as the sole ordinary student at the elite Arnold Academy of Sorcery, Ray White—secretly, the Iceblade Sorcerer—has finally earned his place. With a new school year comes a new challenge: The Magicks War, a grand competition pitting teams from rival schools against each other. But an ominous shadow looms over Ray and his friends as the other grand sorcerers plot their next moves.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
+          "id": 209219,
+          "title": {
+            "romaji": "Tensei Goblin Dakedo Shitsumon Aru?",
+            "english": "So What's Wrong with Getting Reborn as a Goblin?",
+            "native": "転生ゴブリンだけど質問ある？"
+          },
+          "synonyms": [
+            "転ゴブ",
+            "เกิดใหม่เป็นก็อบลินแล้วไง มีคำถามอะไรไหม?",
+            "Tengobu"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209219-3yhKlRx0LX3p.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209219-3yhKlRx0LX3p.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1792414800,
+            "episode": 4
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Goblin",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 67,
+          "studios": {
+            "nodes": [
+              {
+                "name": "BAKKKA"
+              }
+            ]
+          },
+          "description": "<p>Office worker Akira Yagami’s altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira’s newfound powers let him defy the species’ normal life span...and are the key to his path to becoming the strongest goblin ever!<br />\n<br><br><br />\n(Source: Yen Press)<br><br></p>\n<p><i>Note: Tensei Goblin Dakedo Shitsumon Aru? is streaming 1 week in advance of the TV broadcast on ABEMA and Prime Video beginning with episode 2 on October 5th, 2026</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/tengobu_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://tengobu-anime.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00384010/so-whats-wrong-with-getting-reborn-as-a-goblin"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLYld27spJ0aA"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2433441"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/ffeb3x9fd5"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Office worker Akira Yagami’s altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira’s newfound powers let him defy the species’ normal life span...and are the key to his path to becoming the strongest goblin ever!<br />\n<br><br><br />\n(Source: Yen Press)<br><br></p>\n<p><i>Note: Tensei Goblin Dakedo Shitsumon Aru? is streaming 1 week in advance of the TV broadcast on ABEMA and Prime Video beginning with episode 2 on October 5th, 2026</i></p>"
+        },
+        {
           "id": 209502,
           "title": {
             "romaji": "Shiotaiou no Satou-san ga Ore ni dake Amai",
@@ -3416,8 +3531,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209502-TATgyznMxQOe.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1791896400,
-            "episode": 2
+            "airingAt": 1792501200,
+            "episode": 3
           },
           "isAdult": false,
           "genres": [
@@ -3653,6 +3768,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Dragons",
               "isMediaSpoiler": false
             },
@@ -3790,7 +3909,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 69,
+          "averageScore": 68,
           "studios": {
             "nodes": [
               {
@@ -3819,101 +3938,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>University student Kurumi Fukuga has finally fulfilled her long-held desire of starting foreign exchange (FX) trading, motivated by recouping the 20 million yen her late mother lost in trading. &quot;I'll easily make it back,&quot; she thought, but the world she enters can become heaven or hell in an instant. Unrealized losses, loss-cutting, unstoppable fluctuations… but she still wants to buy, sell and make money! With fellow FX addicts Mochiko, Mebuki and Yasuko along for the ride, the market heats up! Joy, despair, joy, despair — this is an endearing, yet slightly risky money game. Can Kurumi and her friends survive this turbulent world?<br><br />\n<br><br />\n(Source: Crunchyroll)</p>"
-        },
-        {
-          "id": 209219,
-          "title": {
-            "romaji": "Tensei Goblin Dakedo Shitsumon Aru?",
-            "english": "So What's Wrong with Getting Reborn as a Goblin?",
-            "native": "転生ゴブリンだけど質問ある？"
-          },
-          "synonyms": [
-            "転ゴブ",
-            "เกิดใหม่เป็นก็อบลินแล้วไง มีคำถามอะไรไหม?",
-            "Tengobu"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209219-3yhKlRx0LX3p.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209219-3yhKlRx0LX3p.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1792414800,
-            "episode": 4
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Goblin",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 67,
-          "studios": {
-            "nodes": [
-              {
-                "name": "BAKKKA"
-              }
-            ]
-          },
-          "description": "<p>Office worker Akira Yagami’s altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira’s newfound powers let him defy the species’ normal life span...and are the key to his path to becoming the strongest goblin ever!<br />\n<br><br><br />\n(Source: Yen Press)<br><br></p>\n<p><i>Note: Tensei Goblin Dakedo Shitsumon Aru? is streaming 1 week in advance of the TV broadcast on ABEMA and Prime Video beginning with episode 2 on October 5th, 2026</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/tengobu_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://tengobu-anime.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00384010/so-whats-wrong-with-getting-reborn-as-a-goblin"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLYld27spJ0aA"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2433441"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/ffeb3x9fd5"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Office worker Akira Yagami’s altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira’s newfound powers let him defy the species’ normal life span...and are the key to his path to becoming the strongest goblin ever!<br />\n<br><br><br />\n(Source: Yen Press)<br><br></p>\n<p><i>Note: Tensei Goblin Dakedo Shitsumon Aru? is streaming 1 week in advance of the TV broadcast on ABEMA and Prime Video beginning with episode 2 on October 5th, 2026</i></p>"
         },
         {
           "id": 178972,
@@ -4091,6 +4115,10 @@
             {
               "name": "Death Game",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
             },
             {
               "name": "Animals",
@@ -4394,97 +4422,6 @@
           "descriptionTr": "<p>After using her SSS-Rank skill, Internet, to crush her former family’s ambitions, Lorna is free to travel the world. Her next stop is the port town of Aquas, where she hopes to see the sights and chow down on some fresh seafood. But when she arrives, the place is on the brink of destruction thanks to a certain Weekly Quest… Good thing Lorna has the gods on her side!<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
-          "id": 198727,
-          "title": {
-            "romaji": "Chitose-kun wa Ramune Bin no Naka Part 2",
-            "english": "Chitose Is in the Ramune Bottle 2nd Cour",
-            "native": "千歳くんはラムネ瓶のなか 2クール"
-          },
-          "synonyms": [
-            "Chiramune",
-            "チラムネ",
-            "Chitose Is in the Ramune Bottle Part 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 13
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198727-BL0JTpg0G8tq.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198727-BL0JTpg0G8tq.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1791900000,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Philosophy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "feel."
-              }
-            ]
-          },
-          "description": "<p>The second part of <i>Chitose-kun wa Ramune Bin no Naka</i>.</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://chiramune.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/anime_chiramune"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00364783/chitose-is-in-the-ramune-bottle"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>The second part of <i>Chitose-kun wa Ramune Bin no Naka</i>.</p>"
-        },
-        {
           "id": 186742,
           "title": {
             "romaji": "Toaru Anbu no ITEM",
@@ -4572,6 +4509,97 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>This is a story of four girls living in the &quot;Dark Side&quot; of Academy City.<br><br />\n<br><br />\nIn Academy City where &quot;ESP&quot; has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.<br><br />\n<br><br />\n&quot;ITEM&quot; is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.<br><br />\n<br><br />\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!<br><br />\n<br><br />\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!<br><br />\n<br><br />\n(Source: Kadokawa, translated)</p>"
+        },
+        {
+          "id": 198727,
+          "title": {
+            "romaji": "Chitose-kun wa Ramune Bin no Naka Part 2",
+            "english": "Chitose Is in the Ramune Bottle 2nd Cour",
+            "native": "千歳くんはラムネ瓶のなか 2クール"
+          },
+          "synonyms": [
+            "Chiramune",
+            "チラムネ",
+            "Chitose Is in the Ramune Bottle Part 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 13
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198727-BL0JTpg0G8tq.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198727-BL0JTpg0G8tq.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1792504800,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Philosophy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "feel."
+              }
+            ]
+          },
+          "description": "<p>The second part of <i>Chitose-kun wa Ramune Bin no Naka</i>.</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://chiramune.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/anime_chiramune"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00364783/chitose-is-in-the-ramune-bottle"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>The second part of <i>Chitose-kun wa Ramune Bin no Naka</i>.</p>"
         },
         {
           "id": 195571,
@@ -4727,7 +4755,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 50,
+          "averageScore": 49,
           "studios": {
             "nodes": [
               {
@@ -4832,6 +4860,83 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>I was reborn as a villainous daughter in a reverse harem otome game.<br />\n<br><br><br />\nAfter being sick with a high fever at the age of 10, Pia Rockwell suddenly remembered her past life as a university student in Japan. But far from going down the villainess route, all this super timid girl wants is to finally use her knowledge from when she was a grad student studying to get her doctorate in paleontology. Her ultimate goal is to become a commoner, excavate fossils, build a museum and then become a curator.<br />\n<br><br><br />\nSo in order to escape the villainess route and avoid being deported by her fiancé during the graduation ball, Pia decides to avoid the upcoming hurt and heartache and asks to break off her engagement to Rufus, the Prime Minister's son.<br />\n<br><br><br />\nBut will her cunning fiancé let her go that easily?</p>"
+        },
+        {
+          "id": 205896,
+          "title": {
+            "romaji": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+            "english": "Full Clearing Another World under a Goddess with Zero Believers",
+            "native": "信者ゼロの女神サマと始める異世界攻略"
+          },
+          "synonyms": [
+            "Clear the World Like a Game with the Zero Believer Goddess"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 11
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205896-ElrV8oVAsuax.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205896-ElrV8oVAsuax.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1792333800,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Gods",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 63,
+          "studios": {
+            "nodes": [
+              {
+                "name": "HORNETS"
+              }
+            ]
+          },
+          "description": "<p>RPG player Makoto Takatsuki is hurled into another world with awful skills and stats. But he soon meets a goddess named Noah, who asks him to become her 1st believer in return for blessings.<br><br />\n<br><br />\n(Source: J-Novel Club)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://zero-believers-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/zero_believers"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00383992/full-clearing-another-world-under-a-goddess-with-zero-believers"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>RPG player Makoto Takatsuki is hurled into another world with awful skills and stats. But he soon meets a goddess named Noah, who asks him to become her 1st believer in return for blessings.<br><br />\n<br><br />\n(Source: J-Novel Club)</p>"
         },
         {
           "id": 178868,
@@ -5196,83 +5301,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>It may be a ruined city ravaged by zombies, but to Aki and her friends, it’s amazing! Having grown up only hearing stories of the old world and the mysterious outbreak that wiped out humanity, she sets off with her childhood friends in search of her missing father. Things quickly become a fight for survival outside the safety of their small village, yet they’ve never felt more alive.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
-        },
-        {
-          "id": 205896,
-          "title": {
-            "romaji": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
-            "english": "Full Clearing Another World under a Goddess with Zero Believers",
-            "native": "信者ゼロの女神サマと始める異世界攻略"
-          },
-          "synonyms": [
-            "Clear the World Like a Game with the Zero Believer Goddess"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 11
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205896-ElrV8oVAsuax.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205896-ElrV8oVAsuax.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1792333800,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Gods",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 62,
-          "studios": {
-            "nodes": [
-              {
-                "name": "HORNETS"
-              }
-            ]
-          },
-          "description": "<p>RPG player Makoto Takatsuki is hurled into another world with awful skills and stats. But he soon meets a goddess named Noah, who asks him to become her 1st believer in return for blessings.<br><br />\n<br><br />\n(Source: J-Novel Club)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://zero-believers-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/zero_believers"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00383992/full-clearing-another-world-under-a-goddess-with-zero-believers"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>RPG player Makoto Takatsuki is hurled into another world with awful skills and stats. But he soon meets a goddess named Noah, who asks him to become her 1st believer in return for blessings.<br><br />\n<br><br />\n(Source: J-Novel Club)</p>"
         }
       ]
     }
