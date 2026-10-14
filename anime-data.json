@@ -1091,6 +1091,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Mixed Gender Harem",
               "isMediaSpoiler": false
             },
@@ -1822,6 +1826,14 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Magic",
               "isMediaSpoiler": false
             },
@@ -1842,6 +1854,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Gore",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Shounen",
               "isMediaSpoiler": false
             },
@@ -1851,10 +1867,6 @@
             },
             {
               "name": "Gangs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gore",
               "isMediaSpoiler": false
             }
           ],
@@ -2956,27 +2968,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Maids",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Cultivation",
               "isMediaSpoiler": false
             },
             {
               "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Maids",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gender Bending",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
               "isMediaSpoiler": false
             },
             {
@@ -2992,11 +2992,27 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gender Bending",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Tsundere",
               "isMediaSpoiler": true
             },
             {
               "name": "Circus",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crime",
               "isMediaSpoiler": false
             }
           ],
@@ -3078,12 +3094,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Isekai",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
             },
             {
               "name": "Male Protagonist",
@@ -3545,11 +3561,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Seinen",
+              "name": "Photography",
               "isMediaSpoiler": false
             },
             {
               "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Food",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
@@ -3561,11 +3585,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Food",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Photography",
+              "name": "Kuudere",
               "isMediaSpoiler": false
             }
           ],
@@ -4121,6 +4141,22 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Dragons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Henshin",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Proxy Battle",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Animals",
               "isMediaSpoiler": false
             },
@@ -4129,12 +4165,20 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Isekai",
-              "isMediaSpoiler": false
+              "name": "Economics",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Conspiracy",
+              "isMediaSpoiler": true
             },
             {
               "name": "Yandere",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
             },
             {
               "name": "Politics",
@@ -4163,14 +4207,6 @@
             {
               "name": "Female Harem",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Economics",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Conspiracy",
-              "isMediaSpoiler": true
             },
             {
               "name": "Demons",
