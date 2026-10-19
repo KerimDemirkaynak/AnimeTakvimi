@@ -240,7 +240,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 86,
+          "averageScore": 87,
           "studios": {
             "nodes": [
               {
@@ -874,6 +874,107 @@
           "descriptionTr": "<p>Sequel to <i>Made in Abyss: Retsujitsu no Ougonkyou.</i><br><br></p>"
         },
         {
+          "id": 212888,
+          "title": {
+            "romaji": "Tempal: Item no Chikara",
+            "english": "Overgeared",
+            "native": "テムパル～アイテムの力～"
+          },
+          "synonyms": [
+            "템빨",
+            "Temppal",
+            "Tempal - Item no Chikara"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 9,
+            "day": 27
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-NhyvqPt5aIuJ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212888-NhyvqPt5aIuJ.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/212888-ZsnNegBCKXQq.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1792938600,
+            "episode": 5
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Virtual World",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Video Games",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Slapstick",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Marriage",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "E-Sports",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 76,
+          "studios": {
+            "nodes": [
+              {
+                "name": "J.C.STAFF"
+              }
+            ]
+          },
+          "description": "<p>Sin Yeong-U (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….<br><br></p>\n<p>(Source: Tapas, edited)<br><br></p>\n<p><i>Note: Tempal: Item no Chikara is streaming a week in advance of the TV broadcast on Prime Video and Crunchyroll beginning September 27th, 2026. Regular broadcasting began on October 2nd, 2026.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://tempal-anime.net/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00384004"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/tempal_anime"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Sin Yeong-U (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….<br><br></p>\n<p>(Source: Tapas, edited)<br><br></p>\n<p><i>Note: Tempal: Item no Chikara is streaming a week in advance of the TV broadcast on Prime Video and Crunchyroll beginning September 27th, 2026. Regular broadcasting began on October 2nd, 2026.</i></p>"
+        },
+        {
           "id": 143103,
           "title": {
             "romaji": "Mahoutsukai no Yoru",
@@ -991,107 +1092,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Aoko Aozaki, an ordinary high school girl, is actually a Magician who lives in the modern world...though she is still only an apprentice. As she spends her days living alongside her housemate, Alice Kuonji, striving to become a full-fledged Magician...<br><br />\n<br><br />\nThe girl meets a boy.<br><br />\n<br><br />\nThis is the beginning of one young girl’s story — the tale of a Witch.<br><br />\n<br><br />\n(Source: Crunchyroll)</p>"
-        },
-        {
-          "id": 212888,
-          "title": {
-            "romaji": "Tempal: Item no Chikara",
-            "english": "Overgeared",
-            "native": "テムパル～アイテムの力～"
-          },
-          "synonyms": [
-            "템빨",
-            "Temppal",
-            "Tempal - Item no Chikara"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 9,
-            "day": 27
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-NhyvqPt5aIuJ.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212888-NhyvqPt5aIuJ.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/212888-ZsnNegBCKXQq.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1792938600,
-            "episode": 5
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Virtual World",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Video Games",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Slapstick",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Marriage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "E-Sports",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 75,
-          "studios": {
-            "nodes": [
-              {
-                "name": "J.C.STAFF"
-              }
-            ]
-          },
-          "description": "<p>Sin Yeong-U (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….<br><br></p>\n<p>(Source: Tapas, edited)<br><br></p>\n<p><i>Note: Tempal: Item no Chikara is streaming a week in advance of the TV broadcast on Prime Video and Crunchyroll beginning September 27th, 2026. Regular broadcasting began on October 2nd, 2026.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://tempal-anime.net/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00384004"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/tempal_anime"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Sin Yeong-U (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….<br><br></p>\n<p>(Source: Tapas, edited)<br><br></p>\n<p><i>Note: Tempal: Item no Chikara is streaming a week in advance of the TV broadcast on Prime Video and Crunchyroll beginning September 27th, 2026. Regular broadcasting began on October 2nd, 2026.</i></p>"
         },
         {
           "id": 205909,
@@ -1829,7 +1829,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 70,
+          "averageScore": 69,
           "studios": {
             "nodes": [
               {
@@ -2051,92 +2051,6 @@
           "descriptionTr": "<p>After thwarting a hijacking with beautiful, silver-haired detective Siesta, Kimihiko leads a life of globe-trotting and crime-solving—until Siesta dies. A year later, a new case will open old wounds as it threads murder, conspiracy, and his dead partner!<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
-          "id": 191788,
-          "title": {
-            "romaji": "Aoashi 2nd Season",
-            "english": "Aoashi Season 2",
-            "native": "アオアシ 第2期"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191788-XC6F24LdX6a4.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191788-XC6F24LdX6a4.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191788-tyhsHpXeF26X.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1792915200,
-            "episode": 4
-          },
-          "isAdult": false,
-          "genres": [
-            "Sports"
-          ],
-          "tags": [
-            {
-              "name": "Football",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Male Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 79,
-          "studios": {
-            "nodes": [
-              {
-                "name": "TMS Entertainment"
-              }
-            ]
-          },
-          "description": "<p>Aoi Ashito’s game has now earned him a spot on the A team, but he is quickly overwhelmed by his harsh new reality. Surrounded by elite players like Kuribayashi and Akutsu, practices are just as merciless as the matches. In this U-18 Premier League of powerhouse talent, Ashito must evolve or be crushed, if he’s ever to be acknowledged.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/aoashi_pr"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://aoashi-pr.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/aoashi"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLYavYYpKm3cc"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/1627dg47zxl"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Aoi Ashito’s game has now earned him a spot on the A team, but he is quickly overwhelmed by his harsh new reality. Surrounded by elite players like Kuribayashi and Akutsu, practices are just as merciless as the matches. In this U-18 Premier League of powerhouse talent, Ashito must evolve or be crushed, if he’s ever to be acknowledged.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
-        },
-        {
           "id": 206814,
           "title": {
             "romaji": "Dragon Ball Super: Beerus",
@@ -2247,6 +2161,92 @@
           "descriptionTr": "<p>Several years have passed since the fierce battle against Majin Buu, and Earth has finally regained a brief moment of peace. At the same time, Beerus, the God of Destruction, awakens from his long, deep sleep.<br><br />\nEven Kai and Supreme Kai, aware of Beerus's overwhelming power to destroy entire planets, watch his awakening with great fear… Meanwhile, Beerus hears rumors of a Saiyan who defeated Frieza—and suddenly appears before Goku.<br><br />\nTargeted by Beerus, the strongest being in the universe, Earth is in grave danger. Thus begins an earth-shattering cosmic battle between the God of Destruction and Goku and his alliesa—a conflict that will shake the entire universe.<br />\n<br><br><br />\n(Source: Official Site)<br />\n<br><br><br />\n<i>Note: “Enhanced” edition of Dragon Ball Super, featuring a large volume of newly added and redrawn cuts, a reconstructed narrative, and updated visuals for a more immersive and faithful representation of Akira Toriyama’s original manga.</i></p>"
         },
         {
+          "id": 191788,
+          "title": {
+            "romaji": "Aoashi 2nd Season",
+            "english": "Aoashi Season 2",
+            "native": "アオアシ 第2期"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191788-XC6F24LdX6a4.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191788-XC6F24LdX6a4.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191788-tyhsHpXeF26X.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1792915200,
+            "episode": 4
+          },
+          "isAdult": false,
+          "genres": [
+            "Sports"
+          ],
+          "tags": [
+            {
+              "name": "Football",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Male Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 79,
+          "studios": {
+            "nodes": [
+              {
+                "name": "TMS Entertainment"
+              }
+            ]
+          },
+          "description": "<p>Aoi Ashito’s game has now earned him a spot on the A team, but he is quickly overwhelmed by his harsh new reality. Surrounded by elite players like Kuribayashi and Akutsu, practices are just as merciless as the matches. In this U-18 Premier League of powerhouse talent, Ashito must evolve or be crushed, if he’s ever to be acknowledged.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/aoashi_pr"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://aoashi-pr.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/aoashi"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLYavYYpKm3cc"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/1627dg47zxl"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Aoi Ashito’s game has now earned him a spot on the A team, but he is quickly overwhelmed by his harsh new reality. Surrounded by elite players like Kuribayashi and Akutsu, practices are just as merciless as the matches. In this U-18 Premier League of powerhouse talent, Ashito must evolve or be crushed, if he’s ever to be acknowledged.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
+        },
+        {
           "id": 207191,
           "title": {
             "romaji": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
@@ -2270,8 +2270,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207191-xYgpkCDnXc5m.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1792413000,
-            "episode": 3
+            "airingAt": 1793017800,
+            "episode": 4
           },
           "isAdult": false,
           "genres": [
@@ -2341,6 +2341,134 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p><b>“Make me a love potion.”</b><br />\n<br><br><br />\nAnd with that single sentence, the Good Witch of the Lake’s secret crush on the dashing Sir Harij ends in heartbreak. Still, when he promises to help her gather the ingredients, Rose is thrilled at the chance to gaze upon a man she’d normally never get to interact with. She learns to brace her pounding heart for their usual stilted conversations…but what is she to do when he inexplicably shows up at her doorstep with bread and a jar of apple butter?<br />\n<br><br><br />\n(Source: Yen Press)</p>"
+        },
+        {
+          "id": 208025,
+          "title": {
+            "romaji": "Dark Summoner to Dekiteiru",
+            "english": "I'm Dating a Dark Summoner",
+            "native": "ダークサモナーとデキている"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208025-JKvqWNr8rz8l.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208025-JKvqWNr8rz8l.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/208025-s7hcRQO7kwmH.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1792945200,
+            "episode": 4
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Fantasy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Large Breasts",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Slapstick",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Monster Girl",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Interspecies",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Demons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tsundere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Hypersexuality",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Sweat",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Virginity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Elf",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 67,
+          "studios": {
+            "nodes": [
+              {
+                "name": "AtoriE"
+              },
+              {
+                "name": "Nyan Pollution-ω-"
+              }
+            ]
+          },
+          "description": "<p>Amona’s a dark summoner with demonic powers. Roni’s a devout priest who’s way too uptight. By all rights, they should hate each other. Instead, they end up fast-tracking their enemies-to-lovers arc with a one-night stand that somehow insists on becoming a recurring event. Now they must hide their situationship from the rest of the party while denying their growing attraction to one another, all while dealing with an imp who’s far too invested in their love life.<br />\n<br><br><br />\n(Source: HIDIVE)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "http://darksummoner.deregula.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/dksummon_anime"
+            },
+            {
+              "site": "HIDIVE",
+              "url": "https://www.hidive.com/season/39541"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Amona’s a dark summoner with demonic powers. Roni’s a devout priest who’s way too uptight. By all rights, they should hate each other. Instead, they end up fast-tracking their enemies-to-lovers arc with a one-night stand that somehow insists on becoming a recurring event. Now they must hide their situationship from the rest of the party while denying their growing attraction to one another, all while dealing with an imp who’s far too invested in their love life.<br />\n<br><br><br />\n(Source: HIDIVE)</p>"
         },
         {
           "id": 213457,
@@ -2447,94 +2575,63 @@
           "descriptionTr": "<p>The earth of the distant future is covered in thick clouds, and the sun no longer shines. Plants wither, and oxygen is thin. To fight extinction, humankind has developed a technology that turns humans into plants, providing a small amount of oxygen. Is this process sustainable? Is it ethical? Toshiro Kamiya must consider these questions as he’s faced with a difficult choice—save his family or save himself.<br />\n<br><br><br />\nKamiya is at the end of his rope. His mother is ill, and his job barely pays for her medication, much less food. With few options left, he considers the life-changing process of transfloration. Ready to give his body up for a payday, Kamiya is about to explore the limits of society’s waning humanity.<br />\n<br><br><br />\n(Source: VIZ Media)</p>"
         },
         {
-          "id": 208025,
+          "id": 186541,
           "title": {
-            "romaji": "Dark Summoner to Dekiteiru",
-            "english": "I'm Dating a Dark Summoner",
-            "native": "ダークサモナーとデキている"
+            "romaji": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
+            "english": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+            "native": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい"
           },
-          "synonyms": [],
+          "synonyms": [
+            "Saikyosoubi",
+            "めざめざ"
+          ],
           "startDate": {
             "year": 2026,
             "month": 10,
-            "day": 5
+            "day": 4
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208025-JKvqWNr8rz8l.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208025-JKvqWNr8rz8l.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-caYpLsLmbCh7.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186541-caYpLsLmbCh7.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/208025-s7hcRQO7kwmH.jpg",
+          "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1792945200,
+            "airingAt": 1792931400,
             "episode": 4
           },
           "isAdult": false,
           "genres": [
+            "Action",
             "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Romance"
+            "Drama",
+            "Mecha",
+            "Romance",
+            "Sci-Fi"
           ],
           "tags": [
+            {
+              "name": "Space",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
             {
               "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
-              "name": "Nudity",
+              "name": "Space Opera",
               "isMediaSpoiler": false
             },
             {
-              "name": "Large Breasts",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Slapstick",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Monster Girl",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Interspecies",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Hypersexuality",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tsundere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Sweat",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Virginity",
-              "isMediaSpoiler": false
+              "name": "Polyamorous",
+              "isMediaSpoiler": true
             },
             {
               "name": "Elf",
@@ -2543,36 +2640,45 @@
             {
               "name": "Seinen",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Guns",
+              "isMediaSpoiler": false
             }
           ],
-          "averageScore": 67,
+          "averageScore": 68,
           "studios": {
             "nodes": [
               {
-                "name": "AtoriE"
-              },
-              {
-                "name": "Nyan Pollution-ω-"
+                "name": "studio A-CAT"
               }
             ]
           },
-          "description": "<p>Amona’s a dark summoner with demonic powers. Roni’s a devout priest who’s way too uptight. By all rights, they should hate each other. Instead, they end up fast-tracking their enemies-to-lovers arc with a one-night stand that somehow insists on becoming a recurring event. Now they must hide their situationship from the rest of the party while denying their growing attraction to one another, all while dealing with an imp who’s far too invested in their love life.<br />\n<br><br><br />\n(Source: HIDIVE)</p>",
+          "description": "<p>Sato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!<br><br></p>\n<p>(Source: Seven Seas Entertainment)</p>",
           "externalLinks": [
             {
-              "site": "Official Site",
-              "url": "http://darksummoner.deregula.com/"
-            },
-            {
               "site": "Twitter",
-              "url": "https://x.com/dksummon_anime"
+              "url": "https://x.com/saikyosoubi"
             },
             {
-              "site": "HIDIVE",
-              "url": "https://www.hidive.com/season/39541"
+              "site": "Official Site",
+              "url": "https://saikyosoubi.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00384006/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship"
             }
           ],
           "isMyList": false,
-          "descriptionTr": "<p>Amona’s a dark summoner with demonic powers. Roni’s a devout priest who’s way too uptight. By all rights, they should hate each other. Instead, they end up fast-tracking their enemies-to-lovers arc with a one-night stand that somehow insists on becoming a recurring event. Now they must hide their situationship from the rest of the party while denying their growing attraction to one another, all while dealing with an imp who’s far too invested in their love life.<br />\n<br><br><br />\n(Source: HIDIVE)</p>"
+          "descriptionTr": "<p>Sato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!<br><br></p>\n<p>(Source: Seven Seas Entertainment)</p>"
         },
         {
           "id": 206949,
@@ -2696,112 +2802,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>A great hero lies undefeated on her deathbed, regretting that she never found a foe who could take her down. She never intended to meet her fate anywhere other than on the battlefield, and her peaceful demise has her wishing desperately that things could have been different... But when she suddenly comes to in the body of the young, frail Nia Liston, she’s got an all-new fight ahead of her. Nia is a sickly child, meaning she has a long way to go before she’s in fighting form. Now that she’s been given a second shot at life, however, she’s determined to get what she wants. She’s going to live—and die—for battle this time! Make way for the Merciless Maiden!<br><br />\n<br><br />\n(Source: J-Novel Club)</p>"
-        },
-        {
-          "id": 186541,
-          "title": {
-            "romaji": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
-            "english": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
-            "native": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい"
-          },
-          "synonyms": [
-            "Saikyosoubi",
-            "めざめざ"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-caYpLsLmbCh7.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186541-caYpLsLmbCh7.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1792931400,
-            "episode": 4
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Drama",
-            "Mecha",
-            "Romance",
-            "Sci-Fi"
-          ],
-          "tags": [
-            {
-              "name": "Space",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Space Opera",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Polyamorous",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Elf",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Guns",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 68,
-          "studios": {
-            "nodes": [
-              {
-                "name": "studio A-CAT"
-              }
-            ]
-          },
-          "description": "<p>Sato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!<br><br></p>\n<p>(Source: Seven Seas Entertainment)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/saikyosoubi"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://saikyosoubi.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00384006/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Sato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!<br><br></p>\n<p>(Source: Seven Seas Entertainment)</p>"
         },
         {
           "id": 204389,
@@ -3030,100 +3030,6 @@
           "descriptionTr": "<p>Few titles are more revered among horndogs-(ahem) connoisseurs of Japanese erotic video games-than Magical Explorer. One day, our smut-loving hero wakes up to find he has been reincarnated into the body of the game’s dreamboat protagonist! Or rather, his hapless comic-relief best friend, Kousuke Takioto. But with his unparalleled knowledge of Magical Explorer and Kousuke’s unorthodox abilities (a scarf that doubles as a fist?), our hero vows to turn the game’s unluckiest loser into its mightiest heartthrob. In this world, nothing is out of reach when you’ve got the know-how!<br />\n<br><br><br />\n(Source: Yen Press)<br />\n<br><br><br />\n<i>Note: Each episode streamed 1 week early on ABEMA and d anime store. The original TV broadcast started on October 4th, 2026.<i></p>"
         },
         {
-          "id": 204011,
-          "title": {
-            "romaji": "PSYЯEN",
-            "english": "PSYREN",
-            "native": "PSYREN -サイレン-"
-          },
-          "synonyms": [
-            "САЙРЕН"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204011-j45RZoqYbdZK.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204011-j45RZoqYbdZK.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204011-hBOwte9MzykA.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1792418400,
-            "episode": 3
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-          ],
-          "tags": [
-            {
-              "name": "Death Game",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dystopian",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Manipulation",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 69,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Satelight"
-              }
-            ]
-          },
-          "description": "<p>One day, high schooler Ageha Yoshina picks up a mysterious “red phone card” left behind in a public telephone booth.<br />\nA few days later, his childhood friend and classmate, Sakurako Amamiya—who possessed the same card—suddenly vanishes without a trace. In search of her, Ageha finds himself drawn into the rumors surrounding a nationwide string of mysterious disappearances, said to be the work of a secret organization known only as “Psyren.”<br><br><br />\nWhen he accesses the group, a deadly game begins—one that will change his fate forever.<br />\n<br><br><br />\n(Source: PSYЯEN Official Site)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://psyren-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/PSYREN_official"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://psyren-anime-global.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/psyrenanime_en"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371866/psyren"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>One day, high schooler Ageha Yoshina picks up a mysterious “red phone card” left behind in a public telephone booth.<br />\nA few days later, his childhood friend and classmate, Sakurako Amamiya—who possessed the same card—suddenly vanishes without a trace. In search of her, Ageha finds himself drawn into the rumors surrounding a nationwide string of mysterious disappearances, said to be the work of a secret organization known only as “Psyren.”<br><br><br />\nWhen he accesses the group, a deadly game begins—one that will change his fate forever.<br />\n<br><br><br />\n(Source: PSYЯEN Official Site)</p>"
-        },
-        {
           "id": 202250,
           "title": {
             "romaji": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
@@ -3225,6 +3131,100 @@
           "descriptionTr": "<p>If there's one thing you can never have enough of in a world of RPG-style swords and sorcery, it's magic points! Whether you're fueling spells, techniques, or showing off an incredible ability, you've gotta spend those points to do real damage. But what if you run out?<br />\n<br><br><br />\nLent is part of the up-and-coming party known as the “Skypiercers,” and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious…until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!<br><br><br />\n(Source: Seven Seas Entertainment)</p>"
         },
         {
+          "id": 204011,
+          "title": {
+            "romaji": "PSYЯEN",
+            "english": "PSYREN",
+            "native": "PSYREN -サイレン-"
+          },
+          "synonyms": [
+            "САЙРЕН"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204011-j45RZoqYbdZK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204011-j45RZoqYbdZK.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204011-hBOwte9MzykA.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1793023200,
+            "episode": 4
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "tags": [
+            {
+              "name": "Death Game",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Dystopian",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Manipulation",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 69,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Satelight"
+              }
+            ]
+          },
+          "description": "<p>One day, high schooler Ageha Yoshina picks up a mysterious “red phone card” left behind in a public telephone booth.<br />\nA few days later, his childhood friend and classmate, Sakurako Amamiya—who possessed the same card—suddenly vanishes without a trace. In search of her, Ageha finds himself drawn into the rumors surrounding a nationwide string of mysterious disappearances, said to be the work of a secret organization known only as “Psyren.”<br><br><br />\nWhen he accesses the group, a deadly game begins—one that will change his fate forever.<br />\n<br><br><br />\n(Source: PSYЯEN Official Site)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://psyren-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/PSYREN_official"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://psyren-anime-global.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/psyrenanime_en"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371866/psyren"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>One day, high schooler Ageha Yoshina picks up a mysterious “red phone card” left behind in a public telephone booth.<br />\nA few days later, his childhood friend and classmate, Sakurako Amamiya—who possessed the same card—suddenly vanishes without a trace. In search of her, Ageha finds himself drawn into the rumors surrounding a nationwide string of mysterious disappearances, said to be the work of a secret organization known only as “Psyren.”<br><br><br />\nWhen he accesses the group, a deadly game begins—one that will change his fate forever.<br />\n<br><br><br />\n(Source: PSYЯEN Official Site)</p>"
+        },
+        {
           "id": 212503,
           "title": {
             "romaji": "Hyouken no Majutsushi ga Sekai wo Suberu II",
@@ -3305,6 +3305,108 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Once dismissed as the sole ordinary student at the elite Arnold Academy of Sorcery, Ray White—secretly, the Iceblade Sorcerer—has finally earned his place. With a new school year comes a new challenge: The Magicks War, a grand competition pitting teams from rival schools against each other. But an ominous shadow looms over Ray and his friends as the other grand sorcerers plot their next moves.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
+        },
+        {
+          "id": 209502,
+          "title": {
+            "romaji": "Shiotaiou no Satou-san ga Ore ni dake Amai",
+            "english": "The Cold Sato-san is Only Sweet to Me",
+            "native": "塩対応の佐藤さんが俺にだけ甘い"
+          },
+          "synonyms": [
+            "しおあま",
+            "ShioAma"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 6
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209502-C81oN8M4Smlo.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209502-C81oN8M4Smlo.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209502-TATgyznMxQOe.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1792501200,
+            "episode": 3
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Photography",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Food",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Work",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kuudere",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 68,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Tezuka Productions"
+              }
+            ]
+          },
+          "description": "<p>Sato-san is the unattainable flower of the class. She is always cold and curt with classmates, but only I know she's actually very cute when she smiles, even if she's not much of a photographer.<br />\n<br><br><br />\nOshio-kun is friendly and lively, but only I know he works at his family's cafe after school. He does a great job with the cafe's SNS account, and his mischievous smile makes my heart skip a beat!<br />\n<br><br><br />\nInnocent and sweet, but sometimes frustrating, this is a 120%-pure fluffy story about two people falling in love for the first time.</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/shioamaofficial"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@shioama_official"
+            },
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/shioama_official"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://shioama-anime.com"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00384014/the-cold-sato-san-is-only-sweet-to-me"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2433556"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Sato-san is the unattainable flower of the class. She is always cold and curt with classmates, but only I know she's actually very cute when she smiles, even if she's not much of a photographer.<br />\n<br><br><br />\nOshio-kun is friendly and lively, but only I know he works at his family's cafe after school. He does a great job with the cafe's SNS account, and his mischievous smile makes my heart skip a beat!<br />\n<br><br><br />\nInnocent and sweet, but sometimes frustrating, this is a 120%-pure fluffy story about two people falling in love for the first time.</p>"
         },
         {
           "id": 204650,
@@ -3418,108 +3520,6 @@
           "descriptionTr": "<p>After battling in Kyoto and Nerima, the Rasetsu Academy students have grown stronger. But Yaoroshi leaves the academy to join the Oni Brigade for their &quot;the total eradication of the Momotaro.&quot;<br />\n<br><br><br />\nWhen Shiki realizes that they also target noncombatants, he sets out after Yaoroshi to bring him back. Meanwhile in Nikko, there's a research facility for horrific experiments atop the old Kegon Falls…<br />\n<br><br><br />\n(Source: REMOW)</p>"
         },
         {
-          "id": 209502,
-          "title": {
-            "romaji": "Shiotaiou no Satou-san ga Ore ni dake Amai",
-            "english": "The Cold Sato-san is Only Sweet to Me",
-            "native": "塩対応の佐藤さんが俺にだけ甘い"
-          },
-          "synonyms": [
-            "しおあま",
-            "ShioAma"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 6
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209502-C81oN8M4Smlo.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209502-C81oN8M4Smlo.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209502-TATgyznMxQOe.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1792501200,
-            "episode": 3
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Photography",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Food",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Work",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kuudere",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 68,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Tezuka Productions"
-              }
-            ]
-          },
-          "description": "<p>Sato-san is the unattainable flower of the class. She is always cold and curt with classmates, but only I know she's actually very cute when she smiles, even if she's not much of a photographer.<br />\n<br><br><br />\nOshio-kun is friendly and lively, but only I know he works at his family's cafe after school. He does a great job with the cafe's SNS account, and his mischievous smile makes my heart skip a beat!<br />\n<br><br><br />\nInnocent and sweet, but sometimes frustrating, this is a 120%-pure fluffy story about two people falling in love for the first time.</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/shioamaofficial"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@shioama_official"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/shioama_official"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://shioama-anime.com"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00384014/the-cold-sato-san-is-only-sweet-to-me"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2433556"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Sato-san is the unattainable flower of the class. She is always cold and curt with classmates, but only I know she's actually very cute when she smiles, even if she's not much of a photographer.<br />\n<br><br><br />\nOshio-kun is friendly and lively, but only I know he works at his family's cafe after school. He does a great job with the cafe's SNS account, and his mischievous smile makes my heart skip a beat!<br />\n<br><br><br />\nInnocent and sweet, but sometimes frustrating, this is a 120%-pure fluffy story about two people falling in love for the first time.</p>"
-        },
-        {
           "id": 209219,
           "title": {
             "romaji": "Tensei Goblin Dakedo Shitsumon Aru?",
@@ -3542,8 +3542,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1792414800,
-            "episode": 4
+            "airingAt": 1793019600,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -3613,6 +3613,105 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Office worker Akira Yagami’s altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira’s newfound powers let him defy the species’ normal life span...and are the key to his path to becoming the strongest goblin ever!<br />\n<br><br><br />\n(Source: Yen Press)<br><br></p>\n<p><i>Note: Tensei Goblin Dakedo Shitsumon Aru? is streaming 1 week in advance of the TV broadcast on ABEMA and Prime Video beginning with episode 2 on October 5th, 2026</i></p>"
+        },
+        {
+          "id": 187402,
+          "title": {
+            "romaji": "Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu",
+            "english": "A Tale of the Secret Saint",
+            "native": "転生した大聖女は、聖女であることをひた隠す"
+          },
+          "synonyms": [
+            "大聖女",
+            "Daiseijo"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 3
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187402-ReKkLwFmMV3q.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187402-ReKkLwFmMV3q.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187402-bRt4OO90jcmt.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1792846800,
+            "episode": 5
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Dragons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 68,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Felix Film"
+              }
+            ]
+          },
+          "description": "<p>Fia always dreamed of becoming a knight. Born into a family of knights, she’s the least talented among them, but she still clutches to her hope and trains with everything she has. When the day comes for her to slay a small demon and prove her worth, she ends up face to face with a dragon instead! A deadly injury makes her life flash before her eyes…and she suddenly remembers her former life, when she was a powerful Saint in a bygone era who defeated the Demon King. That life ended in pain because of who she was, making her fear ever becoming a Saint again. Now that the magic from her previous life has been rekindled, she may become a more powerful knight than she ever dreamed–if only she can survive long enough!<br />\n<br><br><br />\n(Source: Seven Seas Entertainment)<br />\n<br><br><br />\n<i>Note: The series streamed a week in advance on ABEMA, Prime Video, and Crunchyroll starting with episode 2 released alongside episode 1.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/daiseijo_anime"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://daiseijo-anime.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371633"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2431959"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLFsBVQsxttbw"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/1tnlbxdm3vt"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Fia always dreamed of becoming a knight. Born into a family of knights, she’s the least talented among them, but she still clutches to her hope and trains with everything she has. When the day comes for her to slay a small demon and prove her worth, she ends up face to face with a dragon instead! A deadly injury makes her life flash before her eyes…and she suddenly remembers her former life, when she was a powerful Saint in a bygone era who defeated the Demon King. That life ended in pain because of who she was, making her fear ever becoming a Saint again. Now that the magic from her previous life has been rekindled, she may become a more powerful knight than she ever dreamed–if only she can survive long enough!<br />\n<br><br><br />\n(Source: Seven Seas Entertainment)<br />\n<br><br><br />\n<i>Note: The series streamed a week in advance on ABEMA, Prime Video, and Crunchyroll starting with episode 2 released alongside episode 1.</i></p>"
         },
         {
           "id": 206401,
@@ -3726,105 +3825,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>University student Kurumi Fukuga has finally fulfilled her long-held desire of starting foreign exchange (FX) trading, motivated by recouping the 20 million yen her late mother lost in trading. &quot;I'll easily make it back,&quot; she thought, but the world she enters can become heaven or hell in an instant. Unrealized losses, loss-cutting, unstoppable fluctuations… but she still wants to buy, sell and make money! With fellow FX addicts Mochiko, Mebuki and Yasuko along for the ride, the market heats up! Joy, despair, joy, despair — this is an endearing, yet slightly risky money game. Can Kurumi and her friends survive this turbulent world?<br><br />\n<br><br />\n(Source: Crunchyroll)</p>"
-        },
-        {
-          "id": 187402,
-          "title": {
-            "romaji": "Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu",
-            "english": "A Tale of the Secret Saint",
-            "native": "転生した大聖女は、聖女であることをひた隠す"
-          },
-          "synonyms": [
-            "大聖女",
-            "Daiseijo"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 3
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187402-ReKkLwFmMV3q.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187402-ReKkLwFmMV3q.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187402-bRt4OO90jcmt.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1792846800,
-            "episode": 5
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dragons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 68,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Felix Film"
-              }
-            ]
-          },
-          "description": "<p>Fia always dreamed of becoming a knight. Born into a family of knights, she’s the least talented among them, but she still clutches to her hope and trains with everything she has. When the day comes for her to slay a small demon and prove her worth, she ends up face to face with a dragon instead! A deadly injury makes her life flash before her eyes…and she suddenly remembers her former life, when she was a powerful Saint in a bygone era who defeated the Demon King. That life ended in pain because of who she was, making her fear ever becoming a Saint again. Now that the magic from her previous life has been rekindled, she may become a more powerful knight than she ever dreamed–if only she can survive long enough!<br />\n<br><br><br />\n(Source: Seven Seas Entertainment)<br />\n<br><br><br />\n<i>Note: The series streamed a week in advance on ABEMA, Prime Video, and Crunchyroll starting with episode 2 released alongside episode 1.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/daiseijo_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://daiseijo-anime.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371633"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2431959"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLFsBVQsxttbw"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/1tnlbxdm3vt"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Fia always dreamed of becoming a knight. Born into a family of knights, she’s the least talented among them, but she still clutches to her hope and trains with everything she has. When the day comes for her to slay a small demon and prove her worth, she ends up face to face with a dragon instead! A deadly injury makes her life flash before her eyes…and she suddenly remembers her former life, when she was a powerful Saint in a bygone era who defeated the Demon King. That life ended in pain because of who she was, making her fear ever becoming a Saint again. Now that the magic from her previous life has been rekindled, she may become a more powerful knight than she ever dreamed–if only she can survive long enough!<br />\n<br><br><br />\n(Source: Seven Seas Entertainment)<br />\n<br><br><br />\n<i>Note: The series streamed a week in advance on ABEMA, Prime Video, and Crunchyroll starting with episode 2 released alongside episode 1.</i></p>"
         },
         {
           "id": 209872,
@@ -4177,6 +4177,83 @@
           "descriptionTr": "<p>Romelia and her party succeed in defeating the Demon King Zelgis, though Prince Henri’s reckless charge forces them into a grueling battle. In the aftermath, Romelia is branded &quot;dead weight&quot; for not fighting directly, and the Prince unilaterally breaks off their engagement. Denied a place in the victory celebrations, Romelia returns home, only to be met with cold indifference from her family and society. Yet, she refuses to break. She has already set her sights on the path that lies ahead.<br />\n<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br><br />\n<i>Note: Romelia War Chronicle was streamed 2 days in advance of the TV broadcast on AnimeTimes, U-NEXT, and Netflix beginning October 3, 2026. Regular broadcasting began on October 5, 2026.</i></p>"
         },
         {
+          "id": 205896,
+          "title": {
+            "romaji": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+            "english": "Full Clearing Another World under a Goddess with Zero Believers",
+            "native": "信者ゼロの女神サマと始める異世界攻略"
+          },
+          "synonyms": [
+            "Clear the World Like a Game with the Zero Believer Goddess"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 11
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205896-ElrV8oVAsuax.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205896-ElrV8oVAsuax.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1792938600,
+            "episode": 3
+          },
+          "isAdult": false,
+          "genres": [
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gods",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 64,
+          "studios": {
+            "nodes": [
+              {
+                "name": "HORNETS"
+              }
+            ]
+          },
+          "description": "<p>RPG player Makoto Takatsuki is hurled into another world with awful skills and stats. But he soon meets a goddess named Noah, who asks him to become her 1st believer in return for blessings.<br><br />\n<br><br />\n(Source: J-Novel Club)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://zero-believers-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/zero_believers"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00383992/full-clearing-another-world-under-a-goddess-with-zero-believers"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>RPG player Makoto Takatsuki is hurled into another world with awful skills and stats. But he soon meets a goddess named Noah, who asks him to become her 1st believer in return for blessings.<br><br />\n<br><br />\n(Source: J-Novel Club)</p>"
+        },
+        {
           "id": 176314,
           "title": {
             "romaji": "Sasaki to Pii-chan Season 2",
@@ -4330,6 +4407,101 @@
           "descriptionTr": "<p>The second season of <i>Sasaki to Pii-chan</i>.</p>"
         },
         {
+          "id": 198727,
+          "title": {
+            "romaji": "Chitose-kun wa Ramune Bin no Naka Part 2",
+            "english": "Chitose Is in the Ramune Bottle 2nd Cour",
+            "native": "千歳くんはラムネ瓶のなか 2クール"
+          },
+          "synonyms": [
+            "Chiramune",
+            "チラムネ",
+            "Chitose Is in the Ramune Bottle Part 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 13
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198727-BL0JTpg0G8tq.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198727-BL0JTpg0G8tq.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1792504800,
+            "episode": 2
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Philosophy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Baseball",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 76,
+          "studios": {
+            "nodes": [
+              {
+                "name": "feel."
+              }
+            ]
+          },
+          "description": "<p>The second part of <i>Chitose-kun wa Ramune Bin no Naka</i>.</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://chiramune.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/anime_chiramune"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00364783/chitose-is-in-the-ramune-bottle"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>The second part of <i>Chitose-kun wa Ramune Bin no Naka</i>.</p>"
+        },
+        {
           "id": 178972,
           "title": {
             "romaji": "GROTESQQQUE",
@@ -4463,101 +4635,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Anthology movie consisting of three original animation segments:<br><br></p>\n<p><b>Q1 - ÆLIENS</b> (エリィアンズ)<br><br />\nEarth has entered an era of intergalatic exchange.<br><br />\nAmidst swirling prejudice and fear of aliens, Elie, an alien girl, arrives as a space goodwill ambassador. She loves Earth's culture and its often absurd daily life, and has teamed up with a civil servant working at the space agency to search for &quot;friends&quot;.<br><br></p>\n<p><b>Q2 - Yoroshiku★Shoujo</b> (夜露死駆★少女)<br><br />\nGALs TOKYO, a city where morning never comes.<br><br />\nNight after night, girls who have lost their place in reality, known as &quot;Gal P&quot;, gather here. Their goal is to become the winner, the &quot;Queen&quot; in a game called &quot;Queen of Butterfly&quot; or &quot;QoB&quot; for short.<br><br></p>\n<p><b>Q3 - Nocturne: Kono Grotesque na Yoru ni</b> (ノクターン～このグロテスクな夜に～)<br><br />\nA world after humanity has perished.<br><br />\nTraveling in a van are Ayame, a pure-blooded vampire, and three girls who survived by being bitten and &quot;infected&quot; by her. There, they find a sky full of stars that illuminate the night as brightly as day, and fields of glittering golden grass—even a desolate world looks so beautiful through the eyes of a vampire.<br><br />\nThey enjoy a simple everyday life in this world left behind.<br><br></p>\n<p>(Souce: Official Website, translated)</p>"
-        },
-        {
-          "id": 198727,
-          "title": {
-            "romaji": "Chitose-kun wa Ramune Bin no Naka Part 2",
-            "english": "Chitose Is in the Ramune Bottle 2nd Cour",
-            "native": "千歳くんはラムネ瓶のなか 2クール"
-          },
-          "synonyms": [
-            "Chiramune",
-            "チラムネ",
-            "Chitose Is in the Ramune Bottle Part 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 13
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198727-BL0JTpg0G8tq.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198727-BL0JTpg0G8tq.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1792504800,
-            "episode": 2
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Philosophy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Baseball",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 75,
-          "studios": {
-            "nodes": [
-              {
-                "name": "feel."
-              }
-            ]
-          },
-          "description": "<p>The second part of <i>Chitose-kun wa Ramune Bin no Naka</i>.</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://chiramune.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/anime_chiramune"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00364783/chitose-is-in-the-ramune-bottle"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>The second part of <i>Chitose-kun wa Ramune Bin no Naka</i>.</p>"
         },
         {
           "id": 195571,
@@ -4733,83 +4810,6 @@
           "descriptionTr": "<p>This is a story of four girls living in the &quot;Dark Side&quot; of Academy City.<br><br />\n<br><br />\nIn Academy City where &quot;ESP&quot; has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.<br><br />\n<br><br />\n&quot;ITEM&quot; is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.<br><br />\n<br><br />\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!<br><br />\n<br><br />\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!<br><br />\n<br><br />\n(Source: Kadokawa, translated)</p>"
         },
         {
-          "id": 205896,
-          "title": {
-            "romaji": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
-            "english": "Full Clearing Another World under a Goddess with Zero Believers",
-            "native": "信者ゼロの女神サマと始める異世界攻略"
-          },
-          "synonyms": [
-            "Clear the World Like a Game with the Zero Believer Goddess"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 11
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205896-ElrV8oVAsuax.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205896-ElrV8oVAsuax.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1792938600,
-            "episode": 3
-          },
-          "isAdult": false,
-          "genres": [
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gods",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 63,
-          "studios": {
-            "nodes": [
-              {
-                "name": "HORNETS"
-              }
-            ]
-          },
-          "description": "<p>RPG player Makoto Takatsuki is hurled into another world with awful skills and stats. But he soon meets a goddess named Noah, who asks him to become her 1st believer in return for blessings.<br><br />\n<br><br />\n(Source: J-Novel Club)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://zero-believers-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/zero_believers"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00383992/full-clearing-another-world-under-a-goddess-with-zero-believers"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>RPG player Makoto Takatsuki is hurled into another world with awful skills and stats. But he soon meets a goddess named Noah, who asks him to become her 1st believer in return for blessings.<br><br />\n<br><br />\n(Source: J-Novel Club)</p>"
-        },
-        {
           "id": 211877,
           "title": {
             "romaji": "Kanojo no Tomodachi",
@@ -4863,6 +4863,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Love Triangle",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Seinen",
               "isMediaSpoiler": false
             },
@@ -4885,6 +4889,18 @@
             {
               "name": "Handjob",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Fellatio",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Defloration",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Virginity",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 49,
