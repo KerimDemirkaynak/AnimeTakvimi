@@ -1168,6 +1168,10 @@
             {
               "name": "Survival",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Ojou-sama",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 75,
@@ -1254,10 +1258,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
@@ -1275,6 +1275,10 @@
             },
             {
               "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
@@ -2461,8 +2465,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/208025-s7hcRQO7kwmH.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1792340400,
-            "episode": 3
+            "airingAt": 1792945200,
+            "episode": 4
           },
           "isAdult": false,
           "genres": [
@@ -2747,6 +2751,10 @@
             {
               "name": "Space Opera",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Polyamorous",
+              "isMediaSpoiler": true
             },
             {
               "name": "Elf",
@@ -3053,15 +3061,7 @@
           ],
           "tags": [
             {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Death Game",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dystopian",
               "isMediaSpoiler": false
             },
             {
@@ -3069,11 +3069,19 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Super Power",
               "isMediaSpoiler": false
             },
             {
               "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Dystopian",
               "isMediaSpoiler": false
             },
             {
@@ -4759,15 +4767,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Gods",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
               "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gods",
               "isMediaSpoiler": false
             },
             {
@@ -4820,8 +4828,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1792339500,
-            "episode": 3
+            "airingAt": 1792944300,
+            "episode": 4
           },
           "isAdult": false,
           "genres": [
@@ -5034,6 +5042,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Tomboy",
               "isMediaSpoiler": false
             },
@@ -5051,10 +5063,6 @@
             },
             {
               "name": "Henshin",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Medieval",
               "isMediaSpoiler": false
             },
             {
