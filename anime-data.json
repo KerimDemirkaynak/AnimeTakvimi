@@ -743,6 +743,10 @@
             {
               "name": "Gore",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Femboy",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 86,
@@ -1130,16 +1134,16 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Gore",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Assassins",
               "isMediaSpoiler": false
             },
             {
               "name": "Heterosexual",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": true
             },
             {
               "name": "Prostitution",
@@ -2638,15 +2642,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
               "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
               "isMediaSpoiler": false
             },
             {
@@ -4211,15 +4215,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
+              "name": "Gods",
               "isMediaSpoiler": false
             },
             {
-              "name": "Gods",
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
