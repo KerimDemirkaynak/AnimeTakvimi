@@ -626,15 +626,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Male Cast",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Boys' Love",
               "isMediaSpoiler": false
             },
             {
               "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Male Cast",
               "isMediaSpoiler": false
             },
             {
@@ -2683,6 +2683,18 @@
             },
             {
               "name": "Crime",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Criminal Organization",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
               "isMediaSpoiler": false
             }
           ],
