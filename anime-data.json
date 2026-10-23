@@ -786,101 +786,6 @@
           "descriptionTr": "<p>In the 2nd STAGE, a desert crossing spanning roughly 750 miles- the land that Johnny Joestar and Gyro Zeppeli must challenge, is home to the area that is feared as the &quot;Devil's Palm.&quot; In 1875, a threat lurking in said desert wiped out a cavalry of 26 people, eliciting fear from the local native people. As ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition. The two press forward, where countless hidden motives collide..<br><br></p>\n<p>(Source: Warner Bros. Japan Anime, Netflix Anime, edited)</p>"
         },
         {
-          "id": 160275,
-          "title": {
-            "romaji": "Made in Abyss: Mezameru Shinpi",
-            "english": null,
-            "native": "メイドインアビス 目覚める神秘"
-          },
-          "synonyms": [
-            "Made In Abyss 3",
-            "Made in Abyss: Awakening Mystery"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 23
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160275-cBOWJpcCGeMq.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160275-cBOWJpcCGeMq.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": null,
-          "isAdult": false,
-          "genres": [
-            "Adventure",
-            "Drama",
-            "Fantasy",
-            "Horror",
-            "Mystery",
-            "Sci-Fi"
-          ],
-          "tags": [
-            {
-              "name": "Travel",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Survival",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Chibi",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Curses",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Child Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Monster Girl",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Kinema Citrus"
-              }
-            ]
-          },
-          "description": "<p>Sequel to <i>Made in Abyss: Retsujitsu no Ougonkyou.</i><br><br></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/miabyss_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "http://miabyss.com/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Sequel to <i>Made in Abyss: Retsujitsu no Ougonkyou.</i><br><br></p>"
-        },
-        {
           "id": 143103,
           "title": {
             "romaji": "Mahoutsukai no Yoru",
@@ -1554,10 +1459,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Shoujo",
               "isMediaSpoiler": false
             },
@@ -1571,6 +1472,10 @@
             },
             {
               "name": "Love Triangle",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -1632,8 +1537,8 @@
             "day": 11
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200929-ZnRFJbEqFbgJ.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200929-ZnRFJbEqFbgJ.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200929-dx3hnftE7K7C.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200929-dx3hnftE7K7C.jpg"
           },
           "bannerImage": null,
           "nextAiringEpisode": {
@@ -3163,7 +3068,8 @@
           },
           "synonyms": [
             "しおあま",
-            "ShioAma"
+            "ShioAma",
+            "The Salty Koharu Has a Soft Spot for Me"
           ],
           "startDate": {
             "year": 2026,
@@ -3216,6 +3122,10 @@
             {
               "name": "Iyashikei",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Love Triangle",
+              "isMediaSpoiler": true
             },
             {
               "name": "Kuudere",
@@ -4685,7 +4595,7 @@
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186742-v7yfbefc8fuO.png",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186742-v7yfbefc8fuO.png"
           },
-          "bannerImage": null,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186742-nZP1PcuUpcGg.jpg",
           "nextAiringEpisode": {
             "airingAt": 1792762200,
             "episode": 3
@@ -5513,6 +5423,118 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Shizuka takes on the most dangerous of assassin jobs, but she's not the one doing the killing. Rather, it's her brother, Nagi, a strong assassin who took a bullet to protect his sister, leaving him in a comatose state and having to use a wheelchair. However, Shizuka has figured out the key to waking her brother up: he must be faced with killing intent! Thus begins a violent journey of recovery, battling the most dangerous foes!<br />\n<br><br><br />\n(Source: Kodansha USA)</p>"
+        },
+        {
+          "id": 160803,
+          "title": {
+            "romaji": "Mahou Shoujo Ikusei Keikaku: restart",
+            "english": "MAGICAL GIRL RAISING PROJECT restart",
+            "native": "魔法少女育成計画 restart"
+          },
+          "synonyms": [
+            "まほいく",
+            "MahoIku"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 6
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160803-Rcr3IvhE7q9c.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160803-Rcr3IvhE7q9c.png"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1793034000,
+            "episode": 4
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Mahou Shoujo",
+            "Thriller"
+          ],
+          "tags": [
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kuudere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Death Game",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Battle Royale",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Gore",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Virtual World",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 60,
+          "studios": {
+            "nodes": [
+              {
+                "name": "SynergySP"
+              }
+            ]
+          },
+          "description": "<p>Some magical girls fight. Others do not. Chosen by the mysterious Land of Magic, which exists unbeknownst to the rest of the world, magical girls are each granted a unique power. Pechka, whose magic makes food delicious, is forced to take part in a mysterious virtual game together with 16 unfamiliar magical girls, each with her own distinctive personality. It was supposed to be a safe training exercise designed to improve their magical abilities. But instead, it marks the beginning of a carefully orchestrated nightmare - a forbidden trial. A new Magical Girl Raising Project has begun.<br><br></p>\n<p>(Source: OceanVeil)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/mahoiku_anime"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/monthlyMGRP"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://mahoiku.com/anime/restart"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/@mahoiku2official"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/MGRP_PrjRestart"
+            },
+            {
+              "site": "OceanVeil",
+              "url": "https://oceanveil.net/anime_titles/544"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLTPDFXU5mBC8"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Some magical girls fight. Others do not. Chosen by the mysterious Land of Magic, which exists unbeknownst to the rest of the world, magical girls are each granted a unique power. Pechka, whose magic makes food delicious, is forced to take part in a mysterious virtual game together with 16 unfamiliar magical girls, each with her own distinctive personality. It was supposed to be a safe training exercise designed to improve their magical abilities. But instead, it marks the beginning of a carefully orchestrated nightmare - a forbidden trial. A new Magical Girl Raising Project has begun.<br><br></p>\n<p>(Source: OceanVeil)</p>"
         }
       ]
     }
