@@ -148,8 +148,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195604-lQpCzTziSA17.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1792850400,
-            "episode": 4
+            "airingAt": 1793455200,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -897,125 +897,6 @@
           "descriptionTr": "<p>On the surface, Satoko has it all—she’s beautiful, the daughter of a nobleman, and at a prime age for marriage. Unfortunately, she is also quite ill and only has a short time left to live. Before she can secure a marriage that will redeem her worth in her family’s eyes, she finds herself the target of the mysterious assassin Shinpei, and her plans are put in jeopardy. In order to save herself, she makes a desperate proposal—of marriage! When it comes to love, however, Shinpei takes “until death do we part” seriously.<br><br />\n<br><br />\n(Source: VIZ Media)</p>"
         },
         {
-          "id": 143103,
-          "title": {
-            "romaji": "Mahoutsukai no Yoru",
-            "english": "Witch on the Holy Night",
-            "native": "魔法使いの夜"
-          },
-          "synonyms": [
-            "Mahoyo",
-            "Witch on the Holy Night - O Filme"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 11,
-            "day": 20
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143103-vvsaIpZPpIuE.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143103-vvsaIpZPpIuE.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143103-KwDRPfPl4OwL.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1795100400,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Drama",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Manipulation",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Witch",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kuudere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Fairy Tale",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Philosophy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Robots",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Werewolf",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Henshin",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Ojou-sama",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "ufotable"
-              }
-            ]
-          },
-          "description": "<p>Aoko Aozaki, an ordinary high school girl, is actually a Magician who lives in the modern world...though she is still only an apprentice. As she spends her days living alongside her housemate, Alice Kuonji, striving to become a full-fledged Magician...<br><br />\n<br><br />\nThe girl meets a boy.<br><br />\n<br><br />\nThis is the beginning of one young girl’s story — the tale of a Witch.<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/mahoyo_movie"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://mahoyo-movie.com/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Aoko Aozaki, an ordinary high school girl, is actually a Magician who lives in the modern world...though she is still only an apprentice. As she spends her days living alongside her housemate, Alice Kuonji, striving to become a full-fledged Magician...<br><br />\n<br><br />\nThe girl meets a boy.<br><br />\n<br><br />\nThis is the beginning of one young girl’s story — the tale of a Witch.<br><br />\n<br><br />\n(Source: Crunchyroll)</p>"
-        },
-        {
           "id": 191656,
           "title": {
             "romaji": "Seitokai ni mo Ana wa Aru!",
@@ -1146,6 +1027,125 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>This is Fujinasu Academy, a private high school with top-achieving students located on the outskirts of town.<br />\n<br><br><br />\nHigh School 1st-Year Ume Mizunoe has excellent grades in Japanese language class and has received multiple literary awards.<br />\nHowever, his terrible grades in the sciences are affecting his ability to move up a grade. To avoid repeating a year, he becomes a member of the student council to improve his academic standing.<br />\n<br><br><br />\nHowever, in the student council, he meets the charismatic yet sullen student council president Kotobuki Hisako, and the scary yet kind and refined treasurer, Arisu Terui. Other members include a cheeky and cute boy, Tan Otori, and Komaro Michinoku, the admin who's like a small abandoned cat. This is the start of a slapstick, heartful, rom-com about a busy student council full of cute, mismatched, and quirky students!<br />\n<br><br><br />\n(Source: Even the Student Council Has Its Holes! Official Site)</p>"
+        },
+        {
+          "id": 143103,
+          "title": {
+            "romaji": "Mahoutsukai no Yoru",
+            "english": "Witch on the Holy Night",
+            "native": "魔法使いの夜"
+          },
+          "synonyms": [
+            "Mahoyo",
+            "Witch on the Holy Night - O Filme"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 11,
+            "day": 20
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143103-vvsaIpZPpIuE.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143103-vvsaIpZPpIuE.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143103-KwDRPfPl4OwL.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1795100400,
+            "episode": 1
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Drama",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Manipulation",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Witch",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kuudere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Fairy Tale",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Philosophy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Robots",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Werewolf",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Henshin",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Ojou-sama",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": null,
+          "studios": {
+            "nodes": [
+              {
+                "name": "ufotable"
+              }
+            ]
+          },
+          "description": "<p>Aoko Aozaki, an ordinary high school girl, is actually a Magician who lives in the modern world...though she is still only an apprentice. As she spends her days living alongside her housemate, Alice Kuonji, striving to become a full-fledged Magician...<br><br />\n<br><br />\nThe girl meets a boy.<br><br />\n<br><br />\nThis is the beginning of one young girl’s story — the tale of a Witch.<br><br />\n<br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/mahoyo_movie"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://mahoyo-movie.com/"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Aoko Aozaki, an ordinary high school girl, is actually a Magician who lives in the modern world...though she is still only an apprentice. As she spends her days living alongside her housemate, Alice Kuonji, striving to become a full-fledged Magician...<br><br />\n<br><br />\nThe girl meets a boy.<br><br />\n<br><br />\nThis is the beginning of one young girl’s story — the tale of a Witch.<br><br />\n<br><br />\n(Source: Crunchyroll)</p>"
         },
         {
           "id": 207329,
@@ -2661,8 +2661,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1792848600,
-            "episode": 5
+            "airingAt": 1793453400,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -2769,8 +2769,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169581-cdooqY7Jqy3x.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1792854000,
-            "episode": 5
+            "airingAt": 1793458800,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -3064,6 +3064,92 @@
           "descriptionTr": "<p>If there's one thing you can never have enough of in a world of RPG-style swords and sorcery, it's magic points! Whether you're fueling spells, techniques, or showing off an incredible ability, you've gotta spend those points to do real damage. But what if you run out?<br />\n<br><br><br />\nLent is part of the up-and-coming party known as the “Skypiercers,” and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious…until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!<br><br><br />\n(Source: Seven Seas Entertainment)</p>"
         },
         {
+          "id": 212503,
+          "title": {
+            "romaji": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+            "english": "The Iceblade Sorcerer Shall Rule the World II",
+            "native": "冰剣の魔術師が世界を統べるⅡ"
+          },
+          "synonyms": [
+            "The Iceblade Sorcerer Shall Rule the World Season 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 9
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212503-sXBpRZr96c4e.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212503-sXBpRZr96c4e.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1793291280,
+            "episode": 4
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crossdressing",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Class Struggle",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 66,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Zero-G"
+              }
+            ]
+          },
+          "description": "<p>Once dismissed as the sole ordinary student at the elite Arnold Academy of Sorcery, Ray White—secretly, the Iceblade Sorcerer—has finally earned his place. With a new school year comes a new challenge: The Magicks War, a grand competition pitting teams from rival schools against each other. But an ominous shadow looms over Ray and his friends as the other grand sorcerers plot their next moves.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/hyouken_pr"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://hyouken-anime.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GDKHZEP21/the-iceblade-sorcerer-shall-rule-the-world"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2432333"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Once dismissed as the sole ordinary student at the elite Arnold Academy of Sorcery, Ray White—secretly, the Iceblade Sorcerer—has finally earned his place. With a new school year comes a new challenge: The Magicks War, a grand competition pitting teams from rival schools against each other. But an ominous shadow looms over Ray and his friends as the other grand sorcerers plot their next moves.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
+        },
+        {
           "id": 209502,
           "title": {
             "romaji": "Shiotaiou no Satou-san ga Ore ni dake Amai",
@@ -3173,92 +3259,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Sato-san is the unattainable flower of the class. She is always cold and curt with classmates, but only I know she's actually very cute when she smiles, even if she's not much of a photographer.<br />\n<br><br><br />\nOshio-kun is friendly and lively, but only I know he works at his family's cafe after school. He does a great job with the cafe's SNS account, and his mischievous smile makes my heart skip a beat!<br />\n<br><br><br />\nInnocent and sweet, but sometimes frustrating, this is a 120%-pure fluffy story about two people falling in love for the first time.</p>"
-        },
-        {
-          "id": 212503,
-          "title": {
-            "romaji": "Hyouken no Majutsushi ga Sekai wo Suberu II",
-            "english": "The Iceblade Sorcerer Shall Rule the World II",
-            "native": "冰剣の魔術師が世界を統べるⅡ"
-          },
-          "synonyms": [
-            "The Iceblade Sorcerer Shall Rule the World Season 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 9
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212503-sXBpRZr96c4e.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212503-sXBpRZr96c4e.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1793291280,
-            "episode": 4
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Crossdressing",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Class Struggle",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 66,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Zero-G"
-              }
-            ]
-          },
-          "description": "<p>Once dismissed as the sole ordinary student at the elite Arnold Academy of Sorcery, Ray White—secretly, the Iceblade Sorcerer—has finally earned his place. With a new school year comes a new challenge: The Magicks War, a grand competition pitting teams from rival schools against each other. But an ominous shadow looms over Ray and his friends as the other grand sorcerers plot their next moves.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/hyouken_pr"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://hyouken-anime.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GDKHZEP21/the-iceblade-sorcerer-shall-rule-the-world"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2432333"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Once dismissed as the sole ordinary student at the elite Arnold Academy of Sorcery, Ray White—secretly, the Iceblade Sorcerer—has finally earned his place. With a new school year comes a new challenge: The Magicks War, a grand competition pitting teams from rival schools against each other. But an ominous shadow looms over Ray and his friends as the other grand sorcerers plot their next moves.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
           "id": 209219,
@@ -3416,7 +3416,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 71,
+          "averageScore": 72,
           "studios": {
             "nodes": [
               {
@@ -3601,8 +3601,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187402-bRt4OO90jcmt.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1792846800,
-            "episode": 5
+            "airingAt": 1793451600,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -3640,7 +3640,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 68,
+          "averageScore": 69,
           "studios": {
             "nodes": [
               {
@@ -4028,8 +4028,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1792843200,
-            "episode": 4
+            "airingAt": 1793448000,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -4217,6 +4217,82 @@
           "descriptionTr": "<p>The second part of <i>Chitose-kun wa Ramune Bin no Naka</i>.</p>"
         },
         {
+          "id": 195571,
+          "title": {
+            "romaji": "Shuiro no Kamen",
+            "english": "The Vermilion Mask",
+            "native": "朱色の仮面"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 10
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195571-fvj7u5GI7BRT.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195571-fvj7u5GI7BRT.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195571-UkdB06UpyL8k.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1793435400,
+            "episode": 4
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Drama",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Curses",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 68,
+          "studios": {
+            "nodes": [
+              {
+                "name": "100studio"
+              }
+            ]
+          },
+          "description": "<p>&quot;The Mask” gives power to anyone who wears it.<br><br></p>\n<p>At times, that means endless possibility, or unimaginable tragedy…<br><br></p>\n<p>Peru, pupil of the legendary mask maker Gaston Roux, becomes controlled by the “Mask of the Warrior God,” and unintentionally kills his friends, and even his own master.<br />\n<br><br><br />\nIn order to prevent this type of tragedy from reoccurring, Peru swears to destroy all of Gaston’s masks that are spread around the world. Confronting the sins that he has committed, he embarks on his voyage. Meeting new friends, then confronting powerful foes. The boy continues on. Until the day he can atone for his sins against his master.<br />\n<br><br><br />\n(Source: The Vermillion Mask English Site)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://the-vermilion-mask.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/vermilion_PR"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/watch/GE00384363JAJP"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/vermilion_EN"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>&quot;The Mask” gives power to anyone who wears it.<br><br></p>\n<p>At times, that means endless possibility, or unimaginable tragedy…<br><br></p>\n<p>Peru, pupil of the legendary mask maker Gaston Roux, becomes controlled by the “Mask of the Warrior God,” and unintentionally kills his friends, and even his own master.<br />\n<br><br><br />\nIn order to prevent this type of tragedy from reoccurring, Peru swears to destroy all of Gaston’s masks that are spread around the world. Confronting the sins that he has committed, he embarks on his voyage. Meeting new friends, then confronting powerful foes. The boy continues on. Until the day he can atone for his sins against his master.<br />\n<br><br><br />\n(Source: The Vermillion Mask English Site)</p>"
+        },
+        {
           "id": 176314,
           "title": {
             "romaji": "Sasaki to Pii-chan Season 2",
@@ -4370,80 +4446,101 @@
           "descriptionTr": "<p>The second season of <i>Sasaki to Pii-chan</i>.</p>"
         },
         {
-          "id": 195571,
+          "id": 186742,
           "title": {
-            "romaji": "Shuiro no Kamen",
-            "english": "The Vermilion Mask",
-            "native": "朱色の仮面"
+            "romaji": "Toaru Anbu no ITEM",
+            "english": "A Certain Dark Item",
+            "native": "とある暗部の少女共棲"
           },
-          "synonyms": [],
+          "synonyms": [
+            "A Certain Dark Side's Item"
+          ],
           "startDate": {
             "year": 2026,
             "month": 10,
-            "day": 10
+            "day": 9
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195571-fvj7u5GI7BRT.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195571-fvj7u5GI7BRT.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186742-v7yfbefc8fuO.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186742-v7yfbefc8fuO.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195571-UkdB06UpyL8k.jpg",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186742-nZP1PcuUpcGg.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1792830600,
-            "episode": 3
+            "airingAt": 1793367000,
+            "episode": 4
           },
           "isAdult": false,
           "genres": [
             "Action",
-            "Drama",
-            "Supernatural"
+            "Sci-Fi"
           ],
           "tags": [
             {
-              "name": "Seinen",
+              "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Urban Fantasy",
               "isMediaSpoiler": false
             },
             {
-              "name": "Curses",
+              "name": "Urban",
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Human Experimentation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crime",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Dystopian",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anti-Hero",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Criminal Organization",
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 68,
+          "averageScore": 69,
           "studios": {
             "nodes": [
               {
-                "name": "100studio"
+                "name": "J.C.STAFF"
               }
             ]
           },
-          "description": "<p>&quot;The Mask” gives power to anyone who wears it.<br><br></p>\n<p>At times, that means endless possibility, or unimaginable tragedy…<br><br></p>\n<p>Peru, pupil of the legendary mask maker Gaston Roux, becomes controlled by the “Mask of the Warrior God,” and unintentionally kills his friends, and even his own master.<br />\n<br><br><br />\nIn order to prevent this type of tragedy from reoccurring, Peru swears to destroy all of Gaston’s masks that are spread around the world. Confronting the sins that he has committed, he embarks on his voyage. Meeting new friends, then confronting powerful foes. The boy continues on. Until the day he can atone for his sins against his master.<br />\n<br><br><br />\n(Source: The Vermillion Mask English Site)</p>",
+          "description": "<p>This is a story of four girls living in the &quot;Dark Side&quot; of Academy City.<br><br />\n<br><br />\nIn Academy City where &quot;ESP&quot; has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.<br><br />\n<br><br />\n&quot;ITEM&quot; is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.<br><br />\n<br><br />\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!<br><br />\n<br><br />\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!<br><br />\n<br><br />\n(Source: Kadokawa, translated)</p>",
           "externalLinks": [
             {
-              "site": "Official Site",
-              "url": "https://the-vermilion-mask.com/"
+              "site": "Twitter",
+              "url": "https://x.com/toaru_project"
             },
             {
-              "site": "Twitter",
-              "url": "https://x.com/vermilion_PR"
+              "site": "Official Site",
+              "url": "https://toaru-project.com/item/"
             },
             {
               "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/watch/GE00384363JAJP"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/vermilion_EN"
+              "url": "https://www.crunchyroll.com/series/GT00383991/a-certain-dark-item"
             }
           ],
           "isMyList": false,
-          "descriptionTr": "<p>&quot;The Mask” gives power to anyone who wears it.<br><br></p>\n<p>At times, that means endless possibility, or unimaginable tragedy…<br><br></p>\n<p>Peru, pupil of the legendary mask maker Gaston Roux, becomes controlled by the “Mask of the Warrior God,” and unintentionally kills his friends, and even his own master.<br />\n<br><br><br />\nIn order to prevent this type of tragedy from reoccurring, Peru swears to destroy all of Gaston’s masks that are spread around the world. Confronting the sins that he has committed, he embarks on his voyage. Meeting new friends, then confronting powerful foes. The boy continues on. Until the day he can atone for his sins against his master.<br />\n<br><br><br />\n(Source: The Vermillion Mask English Site)</p>"
+          "descriptionTr": "<p>This is a story of four girls living in the &quot;Dark Side&quot; of Academy City.<br><br />\n<br><br />\nIn Academy City where &quot;ESP&quot; has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.<br><br />\n<br><br />\n&quot;ITEM&quot; is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.<br><br />\n<br><br />\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!<br><br />\n<br><br />\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!<br><br />\n<br><br />\n(Source: Kadokawa, translated)</p>"
         },
         {
           "id": 178972,
@@ -4579,103 +4676,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Anthology movie consisting of three original animation segments:<br><br></p>\n<p><b>Q1 - ÆLIENS</b> (エリィアンズ)<br><br />\nEarth has entered an era of intergalatic exchange.<br><br />\nAmidst swirling prejudice and fear of aliens, Elie, an alien girl, arrives as a space goodwill ambassador. She loves Earth's culture and its often absurd daily life, and has teamed up with a civil servant working at the space agency to search for &quot;friends&quot;.<br><br></p>\n<p><b>Q2 - Yoroshiku★Shoujo</b> (夜露死駆★少女)<br><br />\nGALs TOKYO, a city where morning never comes.<br><br />\nNight after night, girls who have lost their place in reality, known as &quot;Gal P&quot;, gather here. Their goal is to become the winner, the &quot;Queen&quot; in a game called &quot;Queen of Butterfly&quot; or &quot;QoB&quot; for short.<br><br></p>\n<p><b>Q3 - Nocturne: Kono Grotesque na Yoru ni</b> (ノクターン～このグロテスクな夜に～)<br><br />\nA world after humanity has perished.<br><br />\nTraveling in a van are Ayame, a pure-blooded vampire, and three girls who survived by being bitten and &quot;infected&quot; by her. There, they find a sky full of stars that illuminate the night as brightly as day, and fields of glittering golden grass—even a desolate world looks so beautiful through the eyes of a vampire.<br><br />\nThey enjoy a simple everyday life in this world left behind.<br><br></p>\n<p>(Souce: Official Website, translated)</p>"
-        },
-        {
-          "id": 186742,
-          "title": {
-            "romaji": "Toaru Anbu no ITEM",
-            "english": "A Certain Dark Item",
-            "native": "とある暗部の少女共棲"
-          },
-          "synonyms": [
-            "A Certain Dark Side's Item"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 9
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186742-v7yfbefc8fuO.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186742-v7yfbefc8fuO.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186742-nZP1PcuUpcGg.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1793367000,
-            "episode": 4
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Sci-Fi"
-          ],
-          "tags": [
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Human Experimentation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Crime",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dystopian",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Anti-Hero",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Criminal Organization",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 69,
-          "studios": {
-            "nodes": [
-              {
-                "name": "J.C.STAFF"
-              }
-            ]
-          },
-          "description": "<p>This is a story of four girls living in the &quot;Dark Side&quot; of Academy City.<br><br />\n<br><br />\nIn Academy City where &quot;ESP&quot; has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.<br><br />\n<br><br />\n&quot;ITEM&quot; is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.<br><br />\n<br><br />\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!<br><br />\n<br><br />\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!<br><br />\n<br><br />\n(Source: Kadokawa, translated)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/toaru_project"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://toaru-project.com/item/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00383991/a-certain-dark-item"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>This is a story of four girls living in the &quot;Dark Side&quot; of Academy City.<br><br />\n<br><br />\nIn Academy City where &quot;ESP&quot; has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.<br><br />\n<br><br />\n&quot;ITEM&quot; is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.<br><br />\n<br><br />\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!<br><br />\n<br><br />\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!<br><br />\n<br><br />\n(Source: Kadokawa, translated)</p>"
         },
         {
           "id": 211877,
@@ -5130,8 +5130,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1792852200,
-            "episode": 4
+            "airingAt": 1793457000,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
