@@ -1306,8 +1306,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1792774380,
-            "episode": 4
+            "airingAt": 1793379180,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -5143,11 +5143,11 @@
           ],
           "tags": [
             {
-              "name": "Zombie",
+              "name": "Post-Apocalyptic",
               "isMediaSpoiler": false
             },
             {
-              "name": "Post-Apocalyptic",
+              "name": "Zombie",
               "isMediaSpoiler": false
             },
             {
