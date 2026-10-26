@@ -636,6 +636,10 @@
             {
               "name": "Swordplay",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Pregnancy",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 76,
@@ -739,15 +743,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Body Horror",
               "isMediaSpoiler": true
             },
             {
               "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
               "isMediaSpoiler": false
             }
           ],
@@ -1845,7 +1849,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 82,
+          "averageScore": 81,
           "studios": {
             "nodes": [
               {
@@ -1903,8 +1907,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207191-xYgpkCDnXc5m.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1793017800,
-            "episode": 4
+            "airingAt": 1793622600,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -1949,7 +1953,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 72,
+          "averageScore": 71,
           "studios": {
             "nodes": [
               {
@@ -1976,40 +1980,33 @@
           "descriptionTr": "<p><b>“Make me a love potion.”</b><br />\n<br><br><br />\nAnd with that single sentence, the Good Witch of the Lake’s secret crush on the dashing Sir Harij ends in heartbreak. Still, when he promises to help her gather the ingredients, Rose is thrilled at the chance to gaze upon a man she’d normally never get to interact with. She learns to brace her pounding heart for their usual stilted conversations…but what is she to do when he inexplicably shows up at her doorstep with bread and a jar of apple butter?<br />\n<br><br><br />\n(Source: Yen Press)</p>"
         },
         {
-          "id": 152677,
+          "id": 208025,
           "title": {
-            "romaji": "Tantei wa mou, Shindeiru. Season 2",
-            "english": "The Detective Is Already Dead Season 2",
-            "native": "探偵はもう、死んでいる。Season2"
+            "romaji": "Dark Summoner to Dekiteiru",
+            "english": "I'm Dating a Dark Summoner",
+            "native": "ダークサモナーとデキている"
           },
-          "synonyms": [
-            "The Detective Is Already Dead Season 2",
-            "La detective esta muerta. 2",
-            "Tanmoshi 2",
-            "นักสืบตายเเล้ว ภาค 2",
-            "たんもし 2"
-          ],
+          "synonyms": [],
           "startDate": {
             "year": 2026,
             "month": 10,
-            "day": 7
+            "day": 5
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152677-gtJbgjE94lCN.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208025-JKvqWNr8rz8l.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208025-JKvqWNr8rz8l.jpg"
           },
-          "bannerImage": null,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/208025-s7hcRQO7kwmH.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1793190600,
-            "episode": 4
+            "airingAt": 1793550000,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
             "Comedy",
-            "Drama",
-            "Mystery",
-            "Romance",
-            "Supernatural"
+            "Ecchi",
+            "Fantasy",
+            "Romance"
           ],
           "tags": [
             {
@@ -2017,59 +2014,204 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Detective",
+              "name": "Nudity",
               "isMediaSpoiler": false
             },
             {
-              "name": "Aliens",
+              "name": "Large Breasts",
               "isMediaSpoiler": false
             },
             {
-              "name": "Dissociative Identities",
-              "isMediaSpoiler": true
+              "name": "Magic",
+              "isMediaSpoiler": false
             },
             {
-              "name": "Human Experimentation",
-              "isMediaSpoiler": true
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
             },
             {
-              "name": "Body Horror",
-              "isMediaSpoiler": true
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
             },
             {
-              "name": "Orphan",
-              "isMediaSpoiler": true
+              "name": "Slapstick",
+              "isMediaSpoiler": false
             },
             {
-              "name": "Shapeshifting",
-              "isMediaSpoiler": true
+              "name": "Monster Girl",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Interspecies",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Demons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tsundere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Hypersexuality",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Sweat",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Virginity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Elf",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
             }
           ],
-          "averageScore": 72,
+          "averageScore": 67,
           "studios": {
             "nodes": [
               {
-                "name": "ENGI"
+                "name": "AtoriE"
+              },
+              {
+                "name": "Nyan Pollution-ω-"
               }
             ]
           },
-          "description": "<p>After thwarting a hijacking with beautiful, silver-haired detective Siesta, Kimihiko leads a life of globe-trotting and crime-solving—until Siesta dies. A year later, a new case will open old wounds as it threads murder, conspiracy, and his dead partner!<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
+          "description": "<p>Amona’s a dark summoner with demonic powers. Roni’s a devout priest who’s way too uptight. By all rights, they should hate each other. Instead, they end up fast-tracking their enemies-to-lovers arc with a one-night stand that somehow insists on becoming a recurring event. Now they must hide their situationship from the rest of the party while denying their growing attraction to one another, all while dealing with an imp who’s far too invested in their love life.<br />\n<br><br><br />\n(Source: HIDIVE)</p>",
           "externalLinks": [
             {
-              "site": "Twitter",
-              "url": "https://twitter.com/tanteiwamou_"
-            },
-            {
               "site": "Official Site",
-              "url": "https://tanmoshi-anime.jp/Season2/"
+              "url": "http://darksummoner.deregula.com/"
             },
             {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/the-detective-is-already-dead"
+              "site": "Twitter",
+              "url": "https://x.com/dksummon_anime"
+            },
+            {
+              "site": "HIDIVE",
+              "url": "https://www.hidive.com/season/39541"
             }
           ],
           "isMyList": false,
-          "descriptionTr": "<p>After thwarting a hijacking with beautiful, silver-haired detective Siesta, Kimihiko leads a life of globe-trotting and crime-solving—until Siesta dies. A year later, a new case will open old wounds as it threads murder, conspiracy, and his dead partner!<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
+          "descriptionTr": "<p>Amona’s a dark summoner with demonic powers. Roni’s a devout priest who’s way too uptight. By all rights, they should hate each other. Instead, they end up fast-tracking their enemies-to-lovers arc with a one-night stand that somehow insists on becoming a recurring event. Now they must hide their situationship from the rest of the party while denying their growing attraction to one another, all while dealing with an imp who’s far too invested in their love life.<br />\n<br><br><br />\n(Source: HIDIVE)</p>"
+        },
+        {
+          "id": 186541,
+          "title": {
+            "romaji": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
+            "english": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+            "native": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい"
+          },
+          "synonyms": [
+            "Saikyosoubi",
+            "めざめざ"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-caYpLsLmbCh7.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186541-caYpLsLmbCh7.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1793536200,
+            "episode": 5
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Mecha",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "tags": [
+            {
+              "name": "Space",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Space Opera",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Polyamorous",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Elf",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Guns",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 69,
+          "studios": {
+            "nodes": [
+              {
+                "name": "studio A-CAT"
+              }
+            ]
+          },
+          "description": "<p>Sato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!<br><br></p>\n<p>(Source: Seven Seas Entertainment)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/saikyosoubi"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://saikyosoubi.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00384006/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Sato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!<br><br></p>\n<p>(Source: Seven Seas Entertainment)</p>"
         },
         {
           "id": 206949,
@@ -2211,33 +2353,40 @@
           "descriptionTr": "<p>A great hero lies undefeated on her deathbed, regretting that she never found a foe who could take her down. She never intended to meet her fate anywhere other than on the battlefield, and her peaceful demise has her wishing desperately that things could have been different... But when she suddenly comes to in the body of the young, frail Nia Liston, she’s got an all-new fight ahead of her. Nia is a sickly child, meaning she has a long way to go before she’s in fighting form. Now that she’s been given a second shot at life, however, she’s determined to get what she wants. She’s going to live—and die—for battle this time! Make way for the Merciless Maiden!<br><br />\n<br><br />\n(Source: J-Novel Club)</p>"
         },
         {
-          "id": 208025,
+          "id": 152677,
           "title": {
-            "romaji": "Dark Summoner to Dekiteiru",
-            "english": "I'm Dating a Dark Summoner",
-            "native": "ダークサモナーとデキている"
+            "romaji": "Tantei wa mou, Shindeiru. Season 2",
+            "english": "The Detective Is Already Dead Season 2",
+            "native": "探偵はもう、死んでいる。Season2"
           },
-          "synonyms": [],
+          "synonyms": [
+            "The Detective Is Already Dead Season 2",
+            "La detective esta muerta. 2",
+            "Tanmoshi 2",
+            "นักสืบตายเเล้ว ภาค 2",
+            "たんもし 2"
+          ],
           "startDate": {
             "year": 2026,
             "month": 10,
-            "day": 5
+            "day": 7
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208025-JKvqWNr8rz8l.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208025-JKvqWNr8rz8l.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152677-gtJbgjE94lCN.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/208025-s7hcRQO7kwmH.jpg",
+          "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1793550000,
-            "episode": 5
+            "airingAt": 1793190600,
+            "episode": 4
           },
           "isAdult": false,
           "genres": [
             "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Romance"
+            "Drama",
+            "Mystery",
+            "Romance",
+            "Supernatural"
           ],
           "tags": [
             {
@@ -2245,98 +2394,59 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Nudity",
+              "name": "Detective",
               "isMediaSpoiler": false
             },
             {
-              "name": "Large Breasts",
+              "name": "Aliens",
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
-              "isMediaSpoiler": false
+              "name": "Dissociative Identities",
+              "isMediaSpoiler": true
             },
             {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
+              "name": "Human Experimentation",
+              "isMediaSpoiler": true
             },
             {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
+              "name": "Body Horror",
+              "isMediaSpoiler": true
             },
             {
-              "name": "Slapstick",
-              "isMediaSpoiler": false
+              "name": "Orphan",
+              "isMediaSpoiler": true
             },
             {
-              "name": "Monster Girl",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Interspecies",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tsundere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Hypersexuality",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Sweat",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Virginity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Elf",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
+              "name": "Shapeshifting",
+              "isMediaSpoiler": true
             }
           ],
-          "averageScore": 67,
+          "averageScore": 71,
           "studios": {
             "nodes": [
               {
-                "name": "AtoriE"
-              },
-              {
-                "name": "Nyan Pollution-ω-"
+                "name": "ENGI"
               }
             ]
           },
-          "description": "<p>Amona’s a dark summoner with demonic powers. Roni’s a devout priest who’s way too uptight. By all rights, they should hate each other. Instead, they end up fast-tracking their enemies-to-lovers arc with a one-night stand that somehow insists on becoming a recurring event. Now they must hide their situationship from the rest of the party while denying their growing attraction to one another, all while dealing with an imp who’s far too invested in their love life.<br />\n<br><br><br />\n(Source: HIDIVE)</p>",
+          "description": "<p>After thwarting a hijacking with beautiful, silver-haired detective Siesta, Kimihiko leads a life of globe-trotting and crime-solving—until Siesta dies. A year later, a new case will open old wounds as it threads murder, conspiracy, and his dead partner!<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
           "externalLinks": [
             {
-              "site": "Official Site",
-              "url": "http://darksummoner.deregula.com/"
-            },
-            {
               "site": "Twitter",
-              "url": "https://x.com/dksummon_anime"
+              "url": "https://twitter.com/tanteiwamou_"
             },
             {
-              "site": "HIDIVE",
-              "url": "https://www.hidive.com/season/39541"
+              "site": "Official Site",
+              "url": "https://tanmoshi-anime.jp/Season2/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/the-detective-is-already-dead"
             }
           ],
           "isMyList": false,
-          "descriptionTr": "<p>Amona’s a dark summoner with demonic powers. Roni’s a devout priest who’s way too uptight. By all rights, they should hate each other. Instead, they end up fast-tracking their enemies-to-lovers arc with a one-night stand that somehow insists on becoming a recurring event. Now they must hide their situationship from the rest of the party while denying their growing attraction to one another, all while dealing with an imp who’s far too invested in their love life.<br />\n<br><br><br />\n(Source: HIDIVE)</p>"
+          "descriptionTr": "<p>After thwarting a hijacking with beautiful, silver-haired detective Siesta, Kimihiko leads a life of globe-trotting and crime-solving—until Siesta dies. A year later, a new case will open old wounds as it threads murder, conspiracy, and his dead partner!<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
           "id": 191788,
@@ -2423,112 +2533,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Aoi Ashito’s game has now earned him a spot on the A team, but he is quickly overwhelmed by his harsh new reality. Surrounded by elite players like Kuribayashi and Akutsu, practices are just as merciless as the matches. In this U-18 Premier League of powerhouse talent, Ashito must evolve or be crushed, if he’s ever to be acknowledged.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
-        },
-        {
-          "id": 186541,
-          "title": {
-            "romaji": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
-            "english": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
-            "native": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい"
-          },
-          "synonyms": [
-            "Saikyosoubi",
-            "めざめざ"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-caYpLsLmbCh7.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186541-caYpLsLmbCh7.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1793536200,
-            "episode": 5
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Drama",
-            "Mecha",
-            "Romance",
-            "Sci-Fi"
-          ],
-          "tags": [
-            {
-              "name": "Space",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Space Opera",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Polyamorous",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Elf",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Guns",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 69,
-          "studios": {
-            "nodes": [
-              {
-                "name": "studio A-CAT"
-              }
-            ]
-          },
-          "description": "<p>Sato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!<br><br></p>\n<p>(Source: Seven Seas Entertainment)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/saikyosoubi"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://saikyosoubi.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00384006/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Sato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!<br><br></p>\n<p>(Source: Seven Seas Entertainment)</p>"
         },
         {
           "id": 213457,
@@ -2986,8 +2990,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204011-hBOwte9MzykA.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1793023200,
-            "episode": 4
+            "airingAt": 1793628000,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -3222,7 +3226,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 68,
+          "averageScore": 69,
           "studios": {
             "nodes": [
               {
@@ -3283,8 +3287,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1793019600,
-            "episode": 5
+            "airingAt": 1793624400,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -3648,7 +3652,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 68,
+          "averageScore": 67,
           "studios": {
             "nodes": [
               {
@@ -3677,6 +3681,87 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>University student Kurumi Fukuga has finally fulfilled her long-held desire of starting foreign exchange (FX) trading, motivated by recouping the 20 million yen her late mother lost in trading. &quot;I'll easily make it back,&quot; she thought, but the world she enters can become heaven or hell in an instant. Unrealized losses, loss-cutting, unstoppable fluctuations… but she still wants to buy, sell and make money! With fellow FX addicts Mochiko, Mebuki and Yasuko along for the ride, the market heats up! Joy, despair, joy, despair — this is an endearing, yet slightly risky money game. Can Kurumi and her friends survive this turbulent world?<br><br />\n<br><br />\n(Source: Crunchyroll)</p>"
+        },
+        {
+          "id": 205896,
+          "title": {
+            "romaji": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+            "english": "Full Clearing Another World under a Goddess with Zero Believers",
+            "native": "信者ゼロの女神サマと始める異世界攻略"
+          },
+          "synonyms": [
+            "Clear the World Like a Game with the Zero Believer Goddess"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 11
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205896-ElrV8oVAsuax.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205896-ElrV8oVAsuax.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1793543400,
+            "episode": 4
+          },
+          "isAdult": false,
+          "genres": [
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gods",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 65,
+          "studios": {
+            "nodes": [
+              {
+                "name": "HORNETS"
+              }
+            ]
+          },
+          "description": "<p>RPG player Makoto Takatsuki is hurled into another world with awful skills and stats. But he soon meets a goddess named Noah, who asks him to become her 1st believer in return for blessings.<br><br />\n<br><br />\n(Source: J-Novel Club)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://zero-believers-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/zero_believers"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00383992/full-clearing-another-world-under-a-goddess-with-zero-believers"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>RPG player Makoto Takatsuki is hurled into another world with awful skills and stats. But he soon meets a goddess named Noah, who asks him to become her 1st believer in return for blessings.<br><br />\n<br><br />\n(Source: J-Novel Club)</p>"
         },
         {
           "id": 209872,
@@ -3889,7 +3974,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 69,
+          "averageScore": 70,
           "studios": {
             "nodes": [
               {
@@ -3925,87 +4010,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>After using her SSS-Rank skill, Internet, to crush her former family’s ambitions, Lorna is free to travel the world. Her next stop is the port town of Aquas, where she hopes to see the sights and chow down on some fresh seafood. But when she arrives, the place is on the brink of destruction thanks to a certain Weekly Quest… Good thing Lorna has the gods on her side!<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
-        },
-        {
-          "id": 205896,
-          "title": {
-            "romaji": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
-            "english": "Full Clearing Another World under a Goddess with Zero Believers",
-            "native": "信者ゼロの女神サマと始める異世界攻略"
-          },
-          "synonyms": [
-            "Clear the World Like a Game with the Zero Believer Goddess"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 11
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205896-ElrV8oVAsuax.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205896-ElrV8oVAsuax.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1793543400,
-            "episode": 4
-          },
-          "isAdult": false,
-          "genres": [
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gods",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 65,
-          "studios": {
-            "nodes": [
-              {
-                "name": "HORNETS"
-              }
-            ]
-          },
-          "description": "<p>RPG player Makoto Takatsuki is hurled into another world with awful skills and stats. But he soon meets a goddess named Noah, who asks him to become her 1st believer in return for blessings.<br><br />\n<br><br />\n(Source: J-Novel Club)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://zero-believers-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/zero_believers"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00383992/full-clearing-another-world-under-a-goddess-with-zero-believers"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>RPG player Makoto Takatsuki is hurled into another world with awful skills and stats. But he soon meets a goddess named Noah, who asks him to become her 1st believer in return for blessings.<br><br />\n<br><br />\n(Source: J-Novel Club)</p>"
         },
         {
           "id": 180894,
@@ -4297,6 +4301,103 @@
           "descriptionTr": "<p>The second part of <i>Chitose-kun wa Ramune Bin no Naka</i>.</p>"
         },
         {
+          "id": 186742,
+          "title": {
+            "romaji": "Toaru Anbu no ITEM",
+            "english": "A Certain Dark Item",
+            "native": "とある暗部の少女共棲"
+          },
+          "synonyms": [
+            "A Certain Dark Side's Item"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 9
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186742-v7yfbefc8fuO.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186742-v7yfbefc8fuO.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186742-nZP1PcuUpcGg.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1793367000,
+            "episode": 4
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "tags": [
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Human Experimentation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crime",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Dystopian",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anti-Hero",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Criminal Organization",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 69,
+          "studios": {
+            "nodes": [
+              {
+                "name": "J.C.STAFF"
+              }
+            ]
+          },
+          "description": "<p>This is a story of four girls living in the &quot;Dark Side&quot; of Academy City.<br><br />\n<br><br />\nIn Academy City where &quot;ESP&quot; has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.<br><br />\n<br><br />\n&quot;ITEM&quot; is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.<br><br />\n<br><br />\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!<br><br />\n<br><br />\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!<br><br />\n<br><br />\n(Source: Kadokawa, translated)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/toaru_project"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://toaru-project.com/item/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00383991/a-certain-dark-item"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>This is a story of four girls living in the &quot;Dark Side&quot; of Academy City.<br><br />\n<br><br />\nIn Academy City where &quot;ESP&quot; has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.<br><br />\n<br><br />\n&quot;ITEM&quot; is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.<br><br />\n<br><br />\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!<br><br />\n<br><br />\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!<br><br />\n<br><br />\n(Source: Kadokawa, translated)</p>"
+        },
+        {
           "id": 176314,
           "title": {
             "romaji": "Sasaki to Pii-chan Season 2",
@@ -4448,103 +4549,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>The second season of <i>Sasaki to Pii-chan</i>.</p>"
-        },
-        {
-          "id": 186742,
-          "title": {
-            "romaji": "Toaru Anbu no ITEM",
-            "english": "A Certain Dark Item",
-            "native": "とある暗部の少女共棲"
-          },
-          "synonyms": [
-            "A Certain Dark Side's Item"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 9
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186742-v7yfbefc8fuO.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186742-v7yfbefc8fuO.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186742-nZP1PcuUpcGg.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1793367000,
-            "episode": 4
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Sci-Fi"
-          ],
-          "tags": [
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Human Experimentation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Crime",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dystopian",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Anti-Hero",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Criminal Organization",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 69,
-          "studios": {
-            "nodes": [
-              {
-                "name": "J.C.STAFF"
-              }
-            ]
-          },
-          "description": "<p>This is a story of four girls living in the &quot;Dark Side&quot; of Academy City.<br><br />\n<br><br />\nIn Academy City where &quot;ESP&quot; has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.<br><br />\n<br><br />\n&quot;ITEM&quot; is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.<br><br />\n<br><br />\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!<br><br />\n<br><br />\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!<br><br />\n<br><br />\n(Source: Kadokawa, translated)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/toaru_project"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://toaru-project.com/item/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00383991/a-certain-dark-item"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>This is a story of four girls living in the &quot;Dark Side&quot; of Academy City.<br><br />\n<br><br />\nIn Academy City where &quot;ESP&quot; has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.<br><br />\n<br><br />\n&quot;ITEM&quot; is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.<br><br />\n<br><br />\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!<br><br />\n<br><br />\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!<br><br />\n<br><br />\n(Source: Kadokawa, translated)</p>"
         },
         {
           "id": 178972,
@@ -5127,7 +5131,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 60,
+          "averageScore": 61,
           "studios": {
             "nodes": [
               {
@@ -5362,8 +5366,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1793034000,
-            "episode": 4
+            "airingAt": 1793638800,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
