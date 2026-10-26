@@ -470,7 +470,7 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189123-s2oirY2r1Svy.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1793518200,
+            "airingAt": 1794123000,
             "episode": 5
           },
           "isAdult": false,
@@ -2229,8 +2229,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/208025-s7hcRQO7kwmH.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1792945200,
-            "episode": 4
+            "airingAt": 1793550000,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -2468,11 +2468,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Harem",
+              "name": "Space Opera",
               "isMediaSpoiler": false
             },
             {
-              "name": "Space Opera",
+              "name": "Female Harem",
               "isMediaSpoiler": false
             },
             {
@@ -2488,15 +2488,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
               "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
               "isMediaSpoiler": false
             },
             {
@@ -3022,6 +3022,10 @@
             },
             {
               "name": "Time Manipulation",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Post-Apocalyptic",
               "isMediaSpoiler": true
             }
           ],
@@ -4022,7 +4026,7 @@
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180894-o3pz4DWFm3je.png",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180894-o3pz4DWFm3je.png"
           },
-          "bannerImage": null,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180894-NHYBUhwfDZGg.jpg",
           "nextAiringEpisode": {
             "airingAt": 1793448000,
             "episode": 5
@@ -4696,8 +4700,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1792944300,
-            "episode": 4
+            "airingAt": 1793549100,
+            "episode": 5
           },
           "isAdult": false,
           "genres": [
@@ -4723,7 +4727,15 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Large Breasts",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -4736,14 +4748,6 @@
             },
             {
               "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Large Breasts",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
