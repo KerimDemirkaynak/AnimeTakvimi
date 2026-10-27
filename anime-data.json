@@ -1183,15 +1183,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Found Family",
               "isMediaSpoiler": false
             },
             {
               "name": "Slapstick",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
               "isMediaSpoiler": false
             },
             {
@@ -1208,6 +1208,10 @@
             },
             {
               "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Parody",
               "isMediaSpoiler": false
             },
             {
@@ -2990,7 +2994,7 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204011-hBOwte9MzykA.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1793628000,
+            "airingAt": 1794232800,
             "episode": 5
           },
           "isAdult": false,
@@ -3318,6 +3322,10 @@
             },
             {
               "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
               "isMediaSpoiler": false
             }
           ],
@@ -5475,6 +5483,10 @@
             },
             {
               "name": "Spearplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Detective",
               "isMediaSpoiler": false
             }
           ],
