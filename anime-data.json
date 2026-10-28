@@ -358,11 +358,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Cute Girls Doing Cute Things",
+              "name": "Gore",
               "isMediaSpoiler": false
             },
             {
-              "name": "Gore",
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
@@ -394,16 +394,16 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Body Horror",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Demons",
               "isMediaSpoiler": false
             },
             {
               "name": "Human Experimentation",
               "isMediaSpoiler": true
-            },
-            {
-              "name": "Body Horror",
-              "isMediaSpoiler": false
             }
           ],
           "averageScore": 75,
@@ -2250,6 +2250,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Age Regression",
               "isMediaSpoiler": false
             },
@@ -2258,11 +2262,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Reincarnation",
+              "name": "Cultivation",
               "isMediaSpoiler": false
             },
             {
-              "name": "Cultivation",
+              "name": "Martial Arts",
               "isMediaSpoiler": false
             },
             {
@@ -2278,15 +2282,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Martial Arts",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Tsundere",
               "isMediaSpoiler": true
             },
             {
               "name": "Yuri",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": true
             },
             {
@@ -3199,6 +3203,10 @@
             },
             {
               "name": "Goblin",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
               "isMediaSpoiler": false
             },
             {
