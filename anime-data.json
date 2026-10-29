@@ -238,6 +238,42 @@
             {
               "name": "Dissociative Identities",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Politics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Kuudere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Orphan",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nun",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cultivation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Travel",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Espionage",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Conspiracy",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 87,
@@ -598,15 +634,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Iyashikei",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Badminton",
               "isMediaSpoiler": false
             },
             {
               "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Iyashikei",
               "isMediaSpoiler": false
             },
             {
@@ -1318,6 +1354,10 @@
           ],
           "tags": [
             {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Delinquents",
               "isMediaSpoiler": false
             },
@@ -1326,15 +1366,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Suicide",
               "isMediaSpoiler": true
             },
             {
               "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -1371,10 +1411,6 @@
             },
             {
               "name": "Guns",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -3994,6 +4030,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Elf",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Shounen",
               "isMediaSpoiler": false
             },
@@ -4006,7 +4046,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Elf",
+              "name": "Pandemic",
               "isMediaSpoiler": false
             }
           ],
@@ -5426,15 +5466,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Kuudere",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
@@ -5446,11 +5482,27 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Virtual World",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Kuudere",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Gore",
               "isMediaSpoiler": true
             },
             {
-              "name": "Virtual World",
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Memory Manipulation",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Tragedy",
               "isMediaSpoiler": true
             },
             {
@@ -5462,24 +5514,28 @@
               "isMediaSpoiler": true
             },
             {
+              "name": "Revenge",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crime",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Detective",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Maids",
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Memory Manipulation",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Henshin",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
             },
             {
               "name": "Super Power",
@@ -5490,23 +5546,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Tsundere",
               "isMediaSpoiler": false
             },
             {
-              "name": "Crime",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Bullying",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Revenge",
               "isMediaSpoiler": true
             },
             {
@@ -5519,10 +5563,6 @@
             },
             {
               "name": "Spearplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Detective",
               "isMediaSpoiler": false
             }
           ],
