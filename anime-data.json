@@ -240,14 +240,6 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Politics",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Kuudere",
               "isMediaSpoiler": false
             },
@@ -274,6 +266,14 @@
             {
               "name": "Conspiracy",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Politics",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 87,
