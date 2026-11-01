@@ -168,6 +168,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "War",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Shounen",
               "isMediaSpoiler": false
             },
@@ -180,15 +184,15 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "War",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Medieval",
               "isMediaSpoiler": false
             },
             {
               "name": "Time Manipulation",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Conspiracy",
               "isMediaSpoiler": true
             },
             {
@@ -262,10 +266,6 @@
             {
               "name": "Espionage",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Conspiracy",
-              "isMediaSpoiler": true
             },
             {
               "name": "Ensemble Cast",
@@ -609,7 +609,7 @@
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189123-0secXELIhkIW.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189123-0secXELIhkIW.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189123-s2oirY2r1Svy.jpg",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189123-aGJ7pIDUo2Xs.jpg",
           "nextAiringEpisode": {
             "airingAt": 1794123000,
             "episode": 5
@@ -630,7 +630,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Athletics",
               "isMediaSpoiler": false
             },
             {
@@ -642,23 +654,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Athletics",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School Club",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Basketball",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -670,7 +670,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "School Club",
               "isMediaSpoiler": false
             },
             {
@@ -686,7 +686,7 @@
               }
             ]
           },
-          "description": "<p>The second season of <i>Ao no Hako</i>.</p>",
+          "description": "<p>The second season of <i>Ao no Hako</i>.<br><br></p>\n<p>As Taiki and Chinatsu navigate their evolving feelings, a fractured friendship from the past and fierce competition cloud the road to nationals.<br><br></p>\n<p>(Source: Netflix, edited)</p>",
           "externalLinks": [
             {
               "site": "Twitter",
@@ -702,7 +702,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "<p>The second season of <i>Ao no Hako</i>.</p>"
+          "descriptionTr": "<p>The second season of <i>Ao no Hako</i>.<br><br></p>\n<p>As Taiki and Chinatsu navigate their evolving feelings, a fractured friendship from the past and fierce competition cloud the road to nationals.<br><br></p>\n<p>(Source: Netflix, edited)</p>"
         },
         {
           "id": 210482,
@@ -986,15 +986,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Mixed Gender Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -1010,19 +1014,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Meta",
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             }
           ],
@@ -2205,10 +2201,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Large Breasts",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Magic",
               "isMediaSpoiler": false
             },
@@ -2617,7 +2609,7 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213457-4m8VEkWwzJEq.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1795676400,
+            "airingAt": 1795680000,
             "episode": 1
           },
           "isAdult": false,
@@ -2738,7 +2730,7 @@
           ],
           "tags": [
             {
-              "name": "Isekai",
+              "name": "Reincarnation",
               "isMediaSpoiler": false
             },
             {
@@ -2746,7 +2738,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Reincarnation",
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
               "isMediaSpoiler": false
             },
             {
@@ -2755,10 +2751,6 @@
             },
             {
               "name": "Slapstick",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
               "isMediaSpoiler": false
             },
             {
@@ -3931,10 +3923,6 @@
             {
               "name": "Time Skip",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Large Breasts",
-              "isMediaSpoiler": false
             }
           ],
           "averageScore": 67,
@@ -4069,7 +4057,7 @@
               }
             ]
           },
-          "description": "<p>The third season of <i>Ranma 1/2 (2024)</i>.</p>",
+          "description": "<p>The third season of <i>Ranma 1/2 (2024)</i>.<br><br></p>\n<p>More rivals and misadventures follow Ranma and Akane as Cologne trains Ryouga, a cookie war crumbles out of control, and Shampoo brews new schemes.<br><br></p>\n<p>(Source: Netflix, edited)</p>",
           "externalLinks": [
             {
               "site": "Official Site",
@@ -4089,7 +4077,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "<p>The third season of <i>Ranma 1/2 (2024)</i>.</p>"
+          "descriptionTr": "<p>The third season of <i>Ranma 1/2 (2024)</i>.<br><br></p>\n<p>More rivals and misadventures follow Ranma and Akane as Cologne trains Ryouga, a cookie war crumbles out of control, and Shampoo brews new schemes.<br><br></p>\n<p>(Source: Netflix, edited)</p>"
         },
         {
           "id": 180894,
@@ -4099,7 +4087,9 @@
             "native": "ロメリア戦記 〜魔王を倒した後も人類やばそうだから軍隊組織した〜"
           },
           "synonyms": [
-            "A History of the Romelia"
+            "A History of the Romelia",
+            "ロメリア戦記",
+            "Romelia Senki"
           ],
           "startDate": {
             "year": 2026,
@@ -4110,7 +4100,7 @@
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180894-o3pz4DWFm3je.png",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180894-o3pz4DWFm3je.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180894-NHYBUhwfDZGg.jpg",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180894-msSUHJ5Qejvf.jpg",
           "nextAiringEpisode": {
             "airingAt": 1794052800,
             "episode": 6
@@ -4179,7 +4169,7 @@
               }
             ]
           },
-          "description": "<p>Romelia and her party succeed in defeating the Demon King Zelgis, though Prince Henri’s reckless charge forces them into a grueling battle. In the aftermath, Romelia is branded &quot;dead weight&quot; for not fighting directly, and the Prince unilaterally breaks off their engagement. Denied a place in the victory celebrations, Romelia returns home, only to be met with cold indifference from her family and society. Yet, she refuses to break. She has already set her sights on the path that lies ahead.<br />\n<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br><br />\n<i>Note: Romelia War Chronicle was streamed 2 days in advance of the TV broadcast on AnimeTimes, U-NEXT, and Netflix beginning October 3, 2026. Regular broadcasting began on October 5, 2026.</i></p>",
+          "description": "<p>Romelia and her party succeed in defeating the Demon King Zelgis, though Prince Henri’s reckless charge forces them into a grueling battle. In the aftermath, Romelia is branded &quot;dead weight&quot; for not fighting directly, and the Prince unilaterally breaks off their engagement. Denied a place in the victory celebrations, Romelia returns home, only to be met with cold indifference from her family and society. Yet, she refuses to break. She has already set her sights on the path that lies ahead.<br />\n<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br><br />\n<i>Note: Romelia War Chronicle streamed 2 days in advance of the TV broadcast on AnimeTimes, U-NEXT, and Netflix beginning October 3, 2026. Regular broadcasting began on October 5, 2026.</i></p>",
           "externalLinks": [
             {
               "site": "Official Site",
@@ -4199,7 +4189,7 @@
             }
           ],
           "isMyList": false,
-          "descriptionTr": "<p>Romelia and her party succeed in defeating the Demon King Zelgis, though Prince Henri’s reckless charge forces them into a grueling battle. In the aftermath, Romelia is branded &quot;dead weight&quot; for not fighting directly, and the Prince unilaterally breaks off their engagement. Denied a place in the victory celebrations, Romelia returns home, only to be met with cold indifference from her family and society. Yet, she refuses to break. She has already set her sights on the path that lies ahead.<br />\n<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br><br />\n<i>Note: Romelia War Chronicle was streamed 2 days in advance of the TV broadcast on AnimeTimes, U-NEXT, and Netflix beginning October 3, 2026. Regular broadcasting began on October 5, 2026.</i></p>"
+          "descriptionTr": "<p>Romelia and her party succeed in defeating the Demon King Zelgis, though Prince Henri’s reckless charge forces them into a grueling battle. In the aftermath, Romelia is branded &quot;dead weight&quot; for not fighting directly, and the Prince unilaterally breaks off their engagement. Denied a place in the victory celebrations, Romelia returns home, only to be met with cold indifference from her family and society. Yet, she refuses to break. She has already set her sights on the path that lies ahead.<br />\n<br><br><br />\n(Source: Crunchyroll)<br />\n<br><br><br />\n<i>Note: Romelia War Chronicle streamed 2 days in advance of the TV broadcast on AnimeTimes, U-NEXT, and Netflix beginning October 3, 2026. Regular broadcasting began on October 5, 2026.</i></p>"
         },
         {
           "id": 195571,
@@ -4819,10 +4809,6 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Large Breasts",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
@@ -4944,6 +4930,14 @@
             },
             {
               "name": "Shoujo",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Arranged Marriage",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Royal Affairs",
               "isMediaSpoiler": false
             }
           ],
