@@ -1479,6 +1479,14 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tragedy",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Heterosexual",
               "isMediaSpoiler": false
             },
@@ -1511,19 +1519,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Tragedy",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Guns",
               "isMediaSpoiler": false
             },
             {
               "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
             {
@@ -2330,8 +2330,16 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Boarding School",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Tsundere",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
             },
             {
               "name": "Seinen",
@@ -2637,6 +2645,10 @@
           ],
           "tags": [
             {
+              "name": "Eco-Horror",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Class Struggle",
               "isMediaSpoiler": false
             },
@@ -2645,7 +2657,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Eco-Horror",
+              "name": "Urban Fantasy",
               "isMediaSpoiler": false
             },
             {
@@ -2658,10 +2670,6 @@
             },
             {
               "name": "Body Horror",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
               "isMediaSpoiler": false
             },
             {
