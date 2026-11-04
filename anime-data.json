@@ -444,8 +444,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/159042-X0mqyaUFBkms.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1793806200,
-            "episode": 6
+            "airingAt": 1794411000,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -854,11 +854,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Super Power",
+              "name": "Cowboys",
               "isMediaSpoiler": false
             },
             {
-              "name": "Cowboys",
+              "name": "Super Power",
               "isMediaSpoiler": false
             },
             {
@@ -890,20 +890,20 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Crime",
-              "isMediaSpoiler": false
+              "name": "Religion",
+              "isMediaSpoiler": true
             },
             {
               "name": "Body Horror",
               "isMediaSpoiler": true
             },
             {
-              "name": "Gore",
+              "name": "Crime",
               "isMediaSpoiler": false
             },
             {
-              "name": "Religion",
-              "isMediaSpoiler": true
+              "name": "Gore",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 86,
@@ -1069,6 +1069,148 @@
           "descriptionTr": "<p>This is Fujinasu Academy, a private high school with top-achieving students located on the outskirts of town.<br />\n<br><br><br />\nHigh School 1st-Year Ume Mizunoe has excellent grades in Japanese language class and has received multiple literary awards.<br />\nHowever, his terrible grades in the sciences are affecting his ability to move up a grade. To avoid repeating a year, he becomes a member of the student council to improve his academic standing.<br />\n<br><br><br />\nHowever, in the student council, he meets the charismatic yet sullen student council president Kotobuki Hisako, and the scary yet kind and refined treasurer, Arisu Terui. Other members include a cheeky and cute boy, Tan Otori, and Komaro Michinoku, the admin who's like a small abandoned cat. This is the start of a slapstick, heartful, rom-com about a busy student council full of cute, mismatched, and quirky students!<br />\n<br><br><br />\n(Source: Even the Student Council Has Its Holes! Official Site)</p>"
         },
         {
+          "id": 207329,
+          "title": {
+            "romaji": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
+            "english": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+            "native": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。　～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～"
+          },
+          "synonyms": [
+            "The Exiled Cheating Magician Enjoys an Unrestrained Second Life.: I Can Give \"Strengthening Points\" Not Only to Weapons, But Also to Everything, and I Can Unlock the Effect at Any Time of My Will, But are the Rest Okay?",
+            "Chii-Fuyo",
+            "チー付与",
+            "The Laid-Off Cheat-Granting Mage Enjoys a New Life"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 7
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207329-9IqRSKIsM3TC.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1794322800,
+            "episode": 6
+          },
+          "isAdult": false,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Surreal Comedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Found Family",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Exiled",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Slapstick",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Chibi",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Parody",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Delinquents",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gangs",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Rehabilitation",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Revenge",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Dragons",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 73,
+          "studios": {
+            "nodes": [
+              {
+                "name": "P.A.WORKS"
+              }
+            ]
+          },
+          "description": "<p>Rein, an enchanter, is suddenly expelled from his guild one day. But instead of despairing, he declares, “Now I can do anything!” and begins reclaiming the massive number of enhancement points he once poured into his guildmates’ gear, setting off on a brand-new path as an adventurer.<br><br><br />\nGathering around him are people carrying wounds that don’t fade easily: a genius adventurer who shut her heart after her party was slaughtered, a warrior who lost her family, and an assassin raised from childhood to kill. Yet Rein never rejects their pasts or their scars—he accepts them all with bright, straightforward warmth.<br><br><br />\nThe stage is a unique fantasy world where Uzis, slingshots, and even yakuza exist side by side. But in this world, the more people rely on convenient technology, the more their magic weakens, and adventurers grow fragile.<br><br><br />\nIntelligent, vicious monsters roam freely, while in the underworld, outlaws bare their greed and ambition as schemes and betrayals intertwine. In a world where ideals and justice are easily crushed, adventurers fight on with nothing but their magic and their convictions.<br><br><br />\nThis is the story of those who have lost their place in the world finding a new way to live. Rein and his companions’ wild, free-spirited second life begins now!<br />\n<br><br>(Source: The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life Site)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/chi_fuyo"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://sh-anime.shochiku.co.jp/chiifuyo-anime/"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@chi_fuyo_official"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00384016/"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://sh-anime.shochiku.co.jp/chiifuyo-anime/en"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLcCDyXGi-y_w"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2432178"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Rein, an enchanter, is suddenly expelled from his guild one day. But instead of despairing, he declares, “Now I can do anything!” and begins reclaiming the massive number of enhancement points he once poured into his guildmates’ gear, setting off on a brand-new path as an adventurer.<br><br><br />\nGathering around him are people carrying wounds that don’t fade easily: a genius adventurer who shut her heart after her party was slaughtered, a warrior who lost her family, and an assassin raised from childhood to kill. Yet Rein never rejects their pasts or their scars—he accepts them all with bright, straightforward warmth.<br><br><br />\nThe stage is a unique fantasy world where Uzis, slingshots, and even yakuza exist side by side. But in this world, the more people rely on convenient technology, the more their magic weakens, and adventurers grow fragile.<br><br><br />\nIntelligent, vicious monsters roam freely, while in the underworld, outlaws bare their greed and ambition as schemes and betrayals intertwine. In a world where ideals and justice are easily crushed, adventurers fight on with nothing but their magic and their convictions.<br><br><br />\nThis is the story of those who have lost their place in the world finding a new way to live. Rein and his companions’ wild, free-spirited second life begins now!<br />\n<br><br>(Source: The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life Site)</p>"
+        },
+        {
           "id": 143103,
           "title": {
             "romaji": "Mahoutsukai no Yoru",
@@ -1186,148 +1328,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Aoko Aozaki, an ordinary high school girl, is actually a Magician who lives in the modern world...though she is still only an apprentice. As she spends her days living alongside her housemate, Alice Kuonji, striving to become a full-fledged Magician...<br><br />\n<br><br />\nThe girl meets a boy.<br><br />\n<br><br />\nThis is the beginning of one young girl’s story — the tale of a Witch.<br><br />\n<br><br />\n(Source: Crunchyroll)</p>"
-        },
-        {
-          "id": 207329,
-          "title": {
-            "romaji": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
-            "english": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-            "native": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。　～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～"
-          },
-          "synonyms": [
-            "The Exiled Cheating Magician Enjoys an Unrestrained Second Life.: I Can Give \"Strengthening Points\" Not Only to Weapons, But Also to Everything, and I Can Unlock the Effect at Any Time of My Will, But are the Rest Okay?",
-            "Chii-Fuyo",
-            "チー付与",
-            "The Laid-Off Cheat-Granting Mage Enjoys a New Life"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 7
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207329-9IqRSKIsM3TC.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1794322800,
-            "episode": 6
-          },
-          "isAdult": false,
-          "genres": [
-            "Adventure",
-            "Comedy",
-            "Fantasy",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "Surreal Comedy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Found Family",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Slapstick",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Chibi",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Exiled",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Parody",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Delinquents",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gangs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Rehabilitation",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Revenge",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Dragons",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 73,
-          "studios": {
-            "nodes": [
-              {
-                "name": "P.A.WORKS"
-              }
-            ]
-          },
-          "description": "<p>Rein, an enchanter, is suddenly expelled from his guild one day. But instead of despairing, he declares, “Now I can do anything!” and begins reclaiming the massive number of enhancement points he once poured into his guildmates’ gear, setting off on a brand-new path as an adventurer.<br><br><br />\nGathering around him are people carrying wounds that don’t fade easily: a genius adventurer who shut her heart after her party was slaughtered, a warrior who lost her family, and an assassin raised from childhood to kill. Yet Rein never rejects their pasts or their scars—he accepts them all with bright, straightforward warmth.<br><br><br />\nThe stage is a unique fantasy world where Uzis, slingshots, and even yakuza exist side by side. But in this world, the more people rely on convenient technology, the more their magic weakens, and adventurers grow fragile.<br><br><br />\nIntelligent, vicious monsters roam freely, while in the underworld, outlaws bare their greed and ambition as schemes and betrayals intertwine. In a world where ideals and justice are easily crushed, adventurers fight on with nothing but their magic and their convictions.<br><br><br />\nThis is the story of those who have lost their place in the world finding a new way to live. Rein and his companions’ wild, free-spirited second life begins now!<br />\n<br><br>(Source: The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life Site)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/chi_fuyo"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://sh-anime.shochiku.co.jp/chiifuyo-anime/"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@chi_fuyo_official"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00384016/"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://sh-anime.shochiku.co.jp/chiifuyo-anime/en"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLcCDyXGi-y_w"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2432178"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Rein, an enchanter, is suddenly expelled from his guild one day. But instead of despairing, he declares, “Now I can do anything!” and begins reclaiming the massive number of enhancement points he once poured into his guildmates’ gear, setting off on a brand-new path as an adventurer.<br><br><br />\nGathering around him are people carrying wounds that don’t fade easily: a genius adventurer who shut her heart after her party was slaughtered, a warrior who lost her family, and an assassin raised from childhood to kill. Yet Rein never rejects their pasts or their scars—he accepts them all with bright, straightforward warmth.<br><br><br />\nThe stage is a unique fantasy world where Uzis, slingshots, and even yakuza exist side by side. But in this world, the more people rely on convenient technology, the more their magic weakens, and adventurers grow fragile.<br><br><br />\nIntelligent, vicious monsters roam freely, while in the underworld, outlaws bare their greed and ambition as schemes and betrayals intertwine. In a world where ideals and justice are easily crushed, adventurers fight on with nothing but their magic and their convictions.<br><br><br />\nThis is the story of those who have lost their place in the world finding a new way to live. Rein and his companions’ wild, free-spirited second life begins now!<br />\n<br><br>(Source: The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life Site)</p>"
         },
         {
           "id": 213805,
@@ -1588,8 +1588,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172192-jibcmb7wdbzk.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1793807100,
-            "episode": 5
+            "airingAt": 1794411900,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -2160,112 +2160,6 @@
           "descriptionTr": "<p>Amona’s a dark summoner with demonic powers. Roni’s a devout priest who’s way too uptight. By all rights, they should hate each other. Instead, they end up fast-tracking their enemies-to-lovers arc with a one-night stand that somehow insists on becoming a recurring event. Now they must hide their situationship from the rest of the party while denying their growing attraction to one another, all while dealing with an imp who’s far too invested in their love life.<br />\n<br><br><br />\n(Source: HIDIVE)</p>"
         },
         {
-          "id": 186541,
-          "title": {
-            "romaji": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
-            "english": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
-            "native": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい"
-          },
-          "synonyms": [
-            "Saikyosoubi",
-            "めざめざ"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-caYpLsLmbCh7.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186541-caYpLsLmbCh7.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1794141000,
-            "episode": 6
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Drama",
-            "Mecha",
-            "Romance",
-            "Sci-Fi"
-          ],
-          "tags": [
-            {
-              "name": "Space",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Space Opera",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Polyamorous",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Elf",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Guns",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 69,
-          "studios": {
-            "nodes": [
-              {
-                "name": "studio A-CAT"
-              }
-            ]
-          },
-          "description": "<p>Sato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!<br><br></p>\n<p>(Source: Seven Seas Entertainment)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/saikyosoubi"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://saikyosoubi.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00384006/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Sato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!<br><br></p>\n<p>(Source: Seven Seas Entertainment)</p>"
-        },
-        {
           "id": 206949,
           "title": {
             "romaji": "Kyouran Reijou Nia Liston",
@@ -2417,6 +2311,112 @@
           "descriptionTr": "<p>A great hero lies undefeated on her deathbed, regretting that she never found a foe who could take her down. She never intended to meet her fate anywhere other than on the battlefield, and her peaceful demise has her wishing desperately that things could have been different... But when she suddenly comes to in the body of the young, frail Nia Liston, she’s got an all-new fight ahead of her. Nia is a sickly child, meaning she has a long way to go before she’s in fighting form. Now that she’s been given a second shot at life, however, she’s determined to get what she wants. She’s going to live—and die—for battle this time! Make way for the Merciless Maiden!<br><br />\n<br><br />\n(Source: J-Novel Club)</p>"
         },
         {
+          "id": 186541,
+          "title": {
+            "romaji": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
+            "english": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+            "native": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい"
+          },
+          "synonyms": [
+            "Saikyosoubi",
+            "めざめざ"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-caYpLsLmbCh7.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186541-caYpLsLmbCh7.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1794141000,
+            "episode": 6
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Mecha",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "tags": [
+            {
+              "name": "Space",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Space Opera",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Polyamorous",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Elf",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Guns",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 69,
+          "studios": {
+            "nodes": [
+              {
+                "name": "studio A-CAT"
+              }
+            ]
+          },
+          "description": "<p>Sato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!<br><br></p>\n<p>(Source: Seven Seas Entertainment)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/saikyosoubi"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://saikyosoubi.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00384006/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Sato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!<br><br></p>\n<p>(Source: Seven Seas Entertainment)</p>"
+        },
+        {
           "id": 191788,
           "title": {
             "romaji": "Aoashi 2nd Season",
@@ -2527,8 +2527,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1793795400,
-            "episode": 5
+            "airingAt": 1794400200,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -3263,92 +3263,6 @@
           "descriptionTr": "<p>Office worker Akira Yagami’s altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira’s newfound powers let him defy the species’ normal life span...and are the key to his path to becoming the strongest goblin ever!<br />\n<br><br><br />\n(Source: Yen Press)<br><br></p>\n<p><i>Note: Tensei Goblin Dakedo Shitsumon Aru? is streaming 1 week in advance of the TV broadcast on ABEMA and Prime Video beginning with episode 2 on October 5th, 2026</i></p>"
         },
         {
-          "id": 212503,
-          "title": {
-            "romaji": "Hyouken no Majutsushi ga Sekai wo Suberu II",
-            "english": "The Iceblade Sorcerer Shall Rule the World II",
-            "native": "冰剣の魔術師が世界を統べるⅡ"
-          },
-          "synonyms": [
-            "The Iceblade Sorcerer Shall Rule the World Season 2"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 9
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212503-sXBpRZr96c4e.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212503-sXBpRZr96c4e.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1793896080,
-            "episode": 5
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Crossdressing",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Class Struggle",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 66,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Zero-G"
-              }
-            ]
-          },
-          "description": "<p>Once dismissed as the sole ordinary student at the elite Arnold Academy of Sorcery, Ray White—secretly, the Iceblade Sorcerer—has finally earned his place. With a new school year comes a new challenge: The Magicks War, a grand competition pitting teams from rival schools against each other. But an ominous shadow looms over Ray and his friends as the other grand sorcerers plot their next moves.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/hyouken_pr"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://hyouken-anime.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GDKHZEP21/the-iceblade-sorcerer-shall-rule-the-world"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2432333"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Once dismissed as the sole ordinary student at the elite Arnold Academy of Sorcery, Ray White—secretly, the Iceblade Sorcerer—has finally earned his place. With a new school year comes a new challenge: The Magicks War, a grand competition pitting teams from rival schools against each other. But an ominous shadow looms over Ray and his friends as the other grand sorcerers plot their next moves.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
-        },
-        {
           "id": 209502,
           "title": {
             "romaji": "Shiotaiou no Satou-san ga Ore ni dake Amai",
@@ -3460,6 +3374,92 @@
           "descriptionTr": "<p>Sato-san is the unattainable flower of the class. She is always cold and curt with classmates, but only I know she's actually very cute when she smiles, even if she's not much of a photographer.<br />\n<br><br><br />\nOshio-kun is friendly and lively, but only I know he works at his family's cafe after school. He does a great job with the cafe's SNS account, and his mischievous smile makes my heart skip a beat!<br />\n<br><br><br />\nInnocent and sweet, but sometimes frustrating, this is a 120%-pure fluffy story about two people falling in love for the first time.</p>"
         },
         {
+          "id": 212503,
+          "title": {
+            "romaji": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+            "english": "The Iceblade Sorcerer Shall Rule the World II",
+            "native": "冰剣の魔術師が世界を統べるⅡ"
+          },
+          "synonyms": [
+            "The Iceblade Sorcerer Shall Rule the World Season 2"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 9
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212503-sXBpRZr96c4e.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212503-sXBpRZr96c4e.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1793896080,
+            "episode": 5
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crossdressing",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Class Struggle",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 66,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Zero-G"
+              }
+            ]
+          },
+          "description": "<p>Once dismissed as the sole ordinary student at the elite Arnold Academy of Sorcery, Ray White—secretly, the Iceblade Sorcerer—has finally earned his place. With a new school year comes a new challenge: The Magicks War, a grand competition pitting teams from rival schools against each other. But an ominous shadow looms over Ray and his friends as the other grand sorcerers plot their next moves.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/hyouken_pr"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://hyouken-anime.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GDKHZEP21/the-iceblade-sorcerer-shall-rule-the-world"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2432333"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Once dismissed as the sole ordinary student at the elite Arnold Academy of Sorcery, Ray White—secretly, the Iceblade Sorcerer—has finally earned his place. With a new school year comes a new challenge: The Magicks War, a grand competition pitting teams from rival schools against each other. But an ominous shadow looms over Ray and his friends as the other grand sorcerers plot their next moves.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
+        },
+        {
           "id": 204650,
           "title": {
             "romaji": "Tougen Anki: Nikko・Kegon no Taki-hen",
@@ -3520,7 +3520,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 72,
+          "averageScore": 73,
           "studios": {
             "nodes": [
               {
@@ -3675,8 +3675,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/211778-ZbXEhqfFkj62.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1793797200,
-            "episode": 5
+            "airingAt": 1794402000,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -3848,7 +3848,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 69,
+          "averageScore": 70,
           "studios": {
             "nodes": [
               {
@@ -4551,8 +4551,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176314-nj2hmqbGQ9HJ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1793797200,
-            "episode": 5
+            "airingAt": 1794402000,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -5060,8 +5060,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178868-l7VyM7j7LRtH.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1793803560,
-            "episode": 5
+            "airingAt": 1794408360,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -5673,7 +5673,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 51,
+          "averageScore": 52,
           "studios": {
             "nodes": [
               {
