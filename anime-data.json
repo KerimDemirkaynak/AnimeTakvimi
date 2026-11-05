@@ -545,6 +545,10 @@
             {
               "name": "Human Experimentation",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Twins",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 75,
@@ -699,6 +703,14 @@
             {
               "site": "Netflix",
               "url": "https://www.netflix.com/title/81663323"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@aonohako_pr"
+            },
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/aonohako_ig/"
             }
           ],
           "isMyList": false,
@@ -810,6 +822,14 @@
             {
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/GT00383999"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@hotaru_anime_pr"
+            },
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/hotaru_anime_pr/"
             }
           ],
           "isMyList": false,
@@ -1368,15 +1388,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Love Triangle",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Coming of Age",
               "isMediaSpoiler": false
             },
             {
@@ -1384,15 +1400,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Ensemble Cast",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
             {
@@ -1839,7 +1859,9 @@
             "english": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
             "native": "転生貴族、鑑定スキルで成り上がる 第3期"
           },
-          "synonyms": [],
+          "synonyms": [
+            "KanteiSkill 3"
+          ],
           "startDate": {
             "year": 2026,
             "month": 9,
@@ -1922,6 +1944,14 @@
             {
               "site": "YouTube",
               "url": "https://www.youtube.com/playlist?list=PLfEwGegYhFGY"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@kanteiskill"
+            },
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/kanteiskill_official/"
             }
           ],
           "isMyList": false,
@@ -1985,15 +2015,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Iyashikei",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Rural",
               "isMediaSpoiler": false
             },
             {
               "name": "Slapstick",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Iyashikei",
               "isMediaSpoiler": false
             },
             {
@@ -3744,6 +3774,10 @@
             {
               "name": "Pandemic",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Religion",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 70,
@@ -4737,6 +4771,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Gyaru",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Vampire",
               "isMediaSpoiler": false
             },
@@ -4749,10 +4787,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Gyaru",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Video Games",
               "isMediaSpoiler": false
             },
@@ -4761,15 +4795,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Virtual World",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Battle Royale",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cohabitation",
               "isMediaSpoiler": false
             },
             {
@@ -4781,7 +4807,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Yuri",
+              "name": "Virtual World",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cohabitation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Motorcycles",
               "isMediaSpoiler": false
             },
             {
@@ -4789,11 +4823,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Cute Girls Doing Cute Things",
+              "name": "Yuri",
               "isMediaSpoiler": false
             },
             {
-              "name": "Motorcycles",
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
