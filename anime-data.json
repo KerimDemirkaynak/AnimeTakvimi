@@ -188,16 +188,28 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Time Manipulation",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Elf",
               "isMediaSpoiler": false
             },
             {
-              "name": "Time Manipulation",
+              "name": "Dissociative Identities",
               "isMediaSpoiler": true
             },
             {
               "name": "Conspiracy",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Travel",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Espionage",
+              "isMediaSpoiler": false
             },
             {
               "name": "Dungeon",
@@ -240,10 +252,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Dissociative Identities",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Kuudere",
               "isMediaSpoiler": false
             },
@@ -257,14 +265,6 @@
             },
             {
               "name": "Cultivation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Travel",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Espionage",
               "isMediaSpoiler": false
             },
             {
@@ -3749,6 +3749,10 @@
             },
             {
               "name": "Parody",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Medieval",
               "isMediaSpoiler": false
             },
             {
