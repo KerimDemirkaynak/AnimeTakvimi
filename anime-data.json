@@ -21,8 +21,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195516-B5M0cPaQbQXI.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1793973600,
-            "episode": 6
+            "airingAt": 1794578400,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -735,8 +735,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/205909-hGeuFYrdhf9S.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1793975400,
-            "episode": 5
+            "airingAt": 1794580200,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -857,8 +857,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210482-pYAD0IbzNbgS.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1793952000,
-            "episode": 7
+            "airingAt": 1794556800,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -903,6 +903,10 @@
             },
             {
               "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Wilderness",
               "isMediaSpoiler": false
             },
             {
@@ -1471,8 +1475,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1793983980,
-            "episode": 6
+            "airingAt": 1794588780,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -2023,7 +2027,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 69,
+          "averageScore": 68,
           "studios": {
             "nodes": [
               {
@@ -2068,130 +2072,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>The third season of <i>Tensei Kizoku, Kantei Skill de Nariagaru</i>.<br />\n<br><br><br />\n<i>Note: On September 4, 2026, it was announced that GeyeG Pictures would take over the production from studio MOTHER while keeping the same staff.</i></p>"
-        },
-        {
-          "id": 208025,
-          "title": {
-            "romaji": "Dark Summoner to Dekiteiru",
-            "english": "I'm Dating a Dark Summoner",
-            "native": "ダークサモナーとデキている"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208025-JKvqWNr8rz8l.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208025-JKvqWNr8rz8l.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/208025-s7hcRQO7kwmH.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1794154800,
-            "episode": 6
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Romance"
-          ],
-          "tags": [
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Slapstick",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Monster Girl",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Interspecies",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Demons",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tsundere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Hypersexuality",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Sweat",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Virginity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Elf",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 67,
-          "studios": {
-            "nodes": [
-              {
-                "name": "AtoriE"
-              },
-              {
-                "name": "Nyan Pollution-ω-"
-              }
-            ]
-          },
-          "description": "<p>Amona’s a dark summoner with demonic powers. Roni’s a devout priest who’s way too uptight. By all rights, they should hate each other. Instead, they end up fast-tracking their enemies-to-lovers arc with a one-night stand that somehow insists on becoming a recurring event. Now they must hide their situationship from the rest of the party while denying their growing attraction to one another, all while dealing with an imp who’s far too invested in their love life.<br />\n<br><br><br />\n(Source: HIDIVE)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "http://darksummoner.deregula.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/dksummon_anime"
-            },
-            {
-              "site": "HIDIVE",
-              "url": "https://www.hidive.com/season/39541"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Amona’s a dark summoner with demonic powers. Roni’s a devout priest who’s way too uptight. By all rights, they should hate each other. Instead, they end up fast-tracking their enemies-to-lovers arc with a one-night stand that somehow insists on becoming a recurring event. Now they must hide their situationship from the rest of the party while denying their growing attraction to one another, all while dealing with an imp who’s far too invested in their love life.<br />\n<br><br><br />\n(Source: HIDIVE)</p>"
         },
         {
           "id": 206949,
@@ -2343,6 +2223,130 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>A great hero lies undefeated on her deathbed, regretting that she never found a foe who could take her down. She never intended to meet her fate anywhere other than on the battlefield, and her peaceful demise has her wishing desperately that things could have been different... But when she suddenly comes to in the body of the young, frail Nia Liston, she’s got an all-new fight ahead of her. Nia is a sickly child, meaning she has a long way to go before she’s in fighting form. Now that she’s been given a second shot at life, however, she’s determined to get what she wants. She’s going to live—and die—for battle this time! Make way for the Merciless Maiden!<br><br />\n<br><br />\n(Source: J-Novel Club)</p>"
+        },
+        {
+          "id": 208025,
+          "title": {
+            "romaji": "Dark Summoner to Dekiteiru",
+            "english": "I'm Dating a Dark Summoner",
+            "native": "ダークサモナーとデキている"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208025-JKvqWNr8rz8l.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208025-JKvqWNr8rz8l.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/208025-s7hcRQO7kwmH.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1794154800,
+            "episode": 6
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Fantasy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Slapstick",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Monster Girl",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Interspecies",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Demons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tsundere",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Hypersexuality",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Sweat",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Virginity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Elf",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 67,
+          "studios": {
+            "nodes": [
+              {
+                "name": "AtoriE"
+              },
+              {
+                "name": "Nyan Pollution-ω-"
+              }
+            ]
+          },
+          "description": "<p>Amona’s a dark summoner with demonic powers. Roni’s a devout priest who’s way too uptight. By all rights, they should hate each other. Instead, they end up fast-tracking their enemies-to-lovers arc with a one-night stand that somehow insists on becoming a recurring event. Now they must hide their situationship from the rest of the party while denying their growing attraction to one another, all while dealing with an imp who’s far too invested in their love life.<br />\n<br><br><br />\n(Source: HIDIVE)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "http://darksummoner.deregula.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/dksummon_anime"
+            },
+            {
+              "site": "HIDIVE",
+              "url": "https://www.hidive.com/season/39541"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Amona’s a dark summoner with demonic powers. Roni’s a devout priest who’s way too uptight. By all rights, they should hate each other. Instead, they end up fast-tracking their enemies-to-lovers arc with a one-night stand that somehow insists on becoming a recurring event. Now they must hide their situationship from the rest of the party while denying their growing attraction to one another, all while dealing with an imp who’s far too invested in their love life.<br />\n<br><br><br />\n(Source: HIDIVE)</p>"
         },
         {
           "id": 186541,
@@ -3515,8 +3519,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204650-MpownoVlYv69.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1793975400,
-            "episode": 6
+            "airingAt": 1794580200,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -4135,7 +4139,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 78,
+          "averageScore": 79,
           "studios": {
             "nodes": [
               {
@@ -4493,8 +4497,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186742-nZP1PcuUpcGg.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1793971800,
-            "episode": 5
+            "airingAt": 1794576600,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -5473,7 +5477,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 59,
+          "averageScore": 58,
           "studios": {
             "nodes": [
               {
@@ -5580,7 +5584,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 52,
+          "averageScore": 51,
           "studios": {
             "nodes": [
               {
