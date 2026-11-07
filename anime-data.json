@@ -1352,6 +1352,14 @@
             {
               "site": "Official Site",
               "url": "https://mahoyo-movie.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/mahoyo_movie_en"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://mahoyo-movie-en.com/"
             }
           ],
           "isMyList": false,
@@ -3234,6 +3242,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Photography",
               "isMediaSpoiler": false
             },
@@ -3242,12 +3254,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Teen Cast",
+              "name": "Food",
               "isMediaSpoiler": false
             },
             {
-              "name": "Food",
-              "isMediaSpoiler": false
+              "name": "Love Triangle",
+              "isMediaSpoiler": true
             },
             {
               "name": "Work",
@@ -3260,10 +3272,6 @@
             {
               "name": "Iyashikei",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Love Triangle",
-              "isMediaSpoiler": true
             },
             {
               "name": "Kuudere",
