@@ -148,8 +148,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195604-lQpCzTziSA17.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1794060000,
-            "episode": 6
+            "airingAt": 1794664800,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -463,7 +463,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Reincarnation",
+              "name": "Swordplay",
               "isMediaSpoiler": false
             },
             {
@@ -471,7 +471,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Swordplay",
+              "name": "Reincarnation",
               "isMediaSpoiler": false
             },
             {
@@ -491,6 +491,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Cute Girls Doing Cute Things",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Medieval",
               "isMediaSpoiler": false
             },
@@ -500,10 +504,6 @@
             },
             {
               "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
@@ -983,8 +983,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191656-JQILdzh3FQxN.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1794065400,
-            "episode": 6
+            "airingAt": 1794670200,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -1038,15 +1038,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
               "name": "Meta",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             }
           ],
@@ -2787,8 +2787,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169581-cdooqY7Jqy3x.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1794063600,
-            "episode": 7
+            "airingAt": 1794668400,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -2914,8 +2914,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1794069000,
-            "episode": 6
+            "airingAt": 1794673800,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -3018,8 +3018,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1794058200,
-            "episode": 7
+            "airingAt": 1794663000,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -3859,8 +3859,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187402-bRt4OO90jcmt.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1794056400,
-            "episode": 7
+            "airingAt": 1794661200,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -4068,8 +4068,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209872-Qczb4k9Mw0pq.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1794066960,
-            "episode": 6
+            "airingAt": 1794671760,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -4200,8 +4200,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180894-msSUHJ5Qejvf.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1794052800,
-            "episode": 6
+            "airingAt": 1794657600,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -4320,8 +4320,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195571-UkdB06UpyL8k.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1794040200,
-            "episode": 5
+            "airingAt": 1794645000,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -4380,6 +4380,103 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>&quot;The Mask” gives power to anyone who wears it.<br><br></p>\n<p>At times, that means endless possibility, or unimaginable tragedy…<br><br></p>\n<p>Peru, pupil of the legendary mask maker Gaston Roux, becomes controlled by the “Mask of the Warrior God,” and unintentionally kills his friends, and even his own master.<br />\n<br><br><br />\nIn order to prevent this type of tragedy from reoccurring, Peru swears to destroy all of Gaston’s masks that are spread around the world. Confronting the sins that he has committed, he embarks on his voyage. Meeting new friends, then confronting powerful foes. The boy continues on. Until the day he can atone for his sins against his master.<br />\n<br><br><br />\n(Source: The Vermillion Mask English Site)</p>"
+        },
+        {
+          "id": 186742,
+          "title": {
+            "romaji": "Toaru Anbu no ITEM",
+            "english": "A Certain Dark Item",
+            "native": "とある暗部の少女共棲"
+          },
+          "synonyms": [
+            "A Certain Dark Side's Item"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 9
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186742-v7yfbefc8fuO.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186742-v7yfbefc8fuO.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186742-nZP1PcuUpcGg.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1794576600,
+            "episode": 6
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "tags": [
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Human Experimentation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crime",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Dystopian",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anti-Hero",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Criminal Organization",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 67,
+          "studios": {
+            "nodes": [
+              {
+                "name": "J.C.STAFF"
+              }
+            ]
+          },
+          "description": "<p>This is a story of four girls living in the &quot;Dark Side&quot; of Academy City.<br><br />\n<br><br />\nIn Academy City where &quot;ESP&quot; has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.<br><br />\n<br><br />\n&quot;ITEM&quot; is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.<br><br />\n<br><br />\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!<br><br />\n<br><br />\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!<br><br />\n<br><br />\n(Source: Kadokawa, translated)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/toaru_project"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://toaru-project.com/item/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00383991/a-certain-dark-item"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>This is a story of four girls living in the &quot;Dark Side&quot; of Academy City.<br><br />\n<br><br />\nIn Academy City where &quot;ESP&quot; has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.<br><br />\n<br><br />\n&quot;ITEM&quot; is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.<br><br />\n<br><br />\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!<br><br />\n<br><br />\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!<br><br />\n<br><br />\n(Source: Kadokawa, translated)</p>"
         },
         {
           "id": 198727,
@@ -4483,103 +4580,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>The second part of <i>Chitose-kun wa Ramune Bin no Naka</i>.</p>"
-        },
-        {
-          "id": 186742,
-          "title": {
-            "romaji": "Toaru Anbu no ITEM",
-            "english": "A Certain Dark Item",
-            "native": "とある暗部の少女共棲"
-          },
-          "synonyms": [
-            "A Certain Dark Side's Item"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 9
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186742-v7yfbefc8fuO.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186742-v7yfbefc8fuO.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186742-nZP1PcuUpcGg.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1794576600,
-            "episode": 6
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Sci-Fi"
-          ],
-          "tags": [
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Human Experimentation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Crime",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dystopian",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Anti-Hero",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Criminal Organization",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 67,
-          "studios": {
-            "nodes": [
-              {
-                "name": "J.C.STAFF"
-              }
-            ]
-          },
-          "description": "<p>This is a story of four girls living in the &quot;Dark Side&quot; of Academy City.<br><br />\n<br><br />\nIn Academy City where &quot;ESP&quot; has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.<br><br />\n<br><br />\n&quot;ITEM&quot; is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.<br><br />\n<br><br />\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!<br><br />\n<br><br />\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!<br><br />\n<br><br />\n(Source: Kadokawa, translated)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/toaru_project"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://toaru-project.com/item/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00383991/a-certain-dark-item"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>This is a story of four girls living in the &quot;Dark Side&quot; of Academy City.<br><br />\n<br><br />\nIn Academy City where &quot;ESP&quot; has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.<br><br />\n<br><br />\n&quot;ITEM&quot; is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.<br><br />\n<br><br />\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!<br><br />\n<br><br />\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!<br><br />\n<br><br />\n(Source: Kadokawa, translated)</p>"
         },
         {
           "id": 176314,
@@ -5391,7 +5391,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 62,
+          "averageScore": 61,
           "studios": {
             "nodes": [
               {
@@ -5428,6 +5428,94 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Shizuka takes on the most dangerous of assassin jobs, but she's not the one doing the killing. Rather, it's her brother, Nagi, a strong assassin who took a bullet to protect his sister, leaving him in a comatose state and having to use a wheelchair. However, Shizuka has figured out the key to waking her brother up: he must be faced with killing intent! Thus begins a violent journey of recovery, battling the most dangerous foes!<br />\n<br><br><br />\n(Source: Kodansha USA)</p>"
+        },
+        {
+          "id": 203275,
+          "title": {
+            "romaji": "Demons' Crest",
+            "english": "Devils' Crest",
+            "native": "デモンズ・クレスト"
+          },
+          "synonyms": [
+            "デモクレ",
+            "DemoKure",
+            "Diabelska pieczęć"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 11,
+            "day": 6
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/203275-g8zkD7HCkJCn.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1794571200,
+            "episode": 3
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Video Games",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Death Game",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 50,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Production I.G"
+              }
+            ]
+          },
+          "description": "<p>Sixth-grader Yuuma Ashihara and his twin sister, Sawa, are playing Actual Magic, a brand-new virtual reality MMORPG, when it suddenly begins fusing with the real world. Amid all the chaos and confusion, it becomes clear that death is lurking around every corner, including when Yuuma runs into his classmate Sumika. Before, she was one of the cutest girls in his class, but she’s since undergone a terrible metamorphosis—into one of the game’s horrifying monsters! From the author of Sword Art Online and Accel World comes a story beyond VR and AR, where gaming and reality are one and the same…and staying alive is just the beginning!<br />\n<br><br><br />\n(Source: Yen Press)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://demonscrest-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/demonscrestPR"
+            },
+            {
+              "site": "Prime Video",
+              "url": "https://www.primevideo.com/detail/0J35D20PPSSNACER7Z6BEAHQFW"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Sixth-grader Yuuma Ashihara and his twin sister, Sawa, are playing Actual Magic, a brand-new virtual reality MMORPG, when it suddenly begins fusing with the real world. Amid all the chaos and confusion, it becomes clear that death is lurking around every corner, including when Yuuma runs into his classmate Sumika. Before, she was one of the cutest girls in his class, but she’s since undergone a terrible metamorphosis—into one of the game’s horrifying monsters! From the author of Sword Art Online and Accel World comes a story beyond VR and AR, where gaming and reality are one and the same…and staying alive is just the beginning!<br />\n<br><br><br />\n(Source: Yen Press)</p>"
         },
         {
           "id": 187316,
@@ -5621,190 +5709,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>What if you could control reality with a mouse cursor?<br />\n<br><br><br />\nOne day during class, Takumi— an otaku — notices his mouse cursor has sprung out of the screen.<br />\n<br><br><br />\nPanicked, he asks his childhood friend Mone, sitting next to him, to take a look, only to be brushed off...<br />\n<br><br><br />\nOnce Takumi realizes he could actually control it himself, he uses the mouse cursor— visible only to him— to slip it in between Mone's clothes and starts clicking away...<br />\n<br><br><br />\nHere's Japan’s (probably) first new genre of romcom, &quot;Clicking Away at a Gyaru Who's Mean to Otakus with a Mouse Cursor&quot;!<br />\n<br><br><br />\n(Source: Official Site)<br />\n<br><br><br />\n<i>Note: Episode 1 receives an advanced distribution on AnimeFesta on September 11th, 2026. The start date reflects the start of the regular series broadcasting.</i></p>"
-        },
-        {
-          "id": 160803,
-          "title": {
-            "romaji": "Mahou Shoujo Ikusei Keikaku: restart",
-            "english": "MAGICAL GIRL RAISING PROJECT restart",
-            "native": "魔法少女育成計画 restart"
-          },
-          "synonyms": [
-            "まほいく",
-            "MahoIku"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 6
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160803-Rcr3IvhE7q9c.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160803-Rcr3IvhE7q9c.png"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1794243600,
-            "episode": 6
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Fantasy",
-            "Mahou Shoujo",
-            "Thriller"
-          ],
-          "tags": [
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Death Game",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Battle Royale",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Virtual World",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Kuudere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Memory Manipulation",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Tragedy",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Survival",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Revenge",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Spearplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Crime",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Detective",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Maids",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Henshin",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Guns",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tsundere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Bullying",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Denpa",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Robot",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 61,
-          "studios": {
-            "nodes": [
-              {
-                "name": "SynergySP"
-              }
-            ]
-          },
-          "description": "<p>Some magical girls fight. Others do not. Chosen by the mysterious Land of Magic, which exists unbeknownst to the rest of the world, magical girls are each granted a unique power. Pechka, whose magic makes food delicious, is forced to take part in a mysterious virtual game together with 16 unfamiliar magical girls, each with her own distinctive personality. It was supposed to be a safe training exercise designed to improve their magical abilities. But instead, it marks the beginning of a carefully orchestrated nightmare - a forbidden trial. A new Magical Girl Raising Project has begun.<br><br></p>\n<p>(Source: OceanVeil)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/mahoiku_anime"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://twitter.com/monthlyMGRP"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://mahoiku.com/anime/restart"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/@mahoiku2official"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/MGRP_PrjRestart"
-            },
-            {
-              "site": "OceanVeil",
-              "url": "https://oceanveil.net/anime_titles/544"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLTPDFXU5mBC8"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Some magical girls fight. Others do not. Chosen by the mysterious Land of Magic, which exists unbeknownst to the rest of the world, magical girls are each granted a unique power. Pechka, whose magic makes food delicious, is forced to take part in a mysterious virtual game together with 16 unfamiliar magical girls, each with her own distinctive personality. It was supposed to be a safe training exercise designed to improve their magical abilities. But instead, it marks the beginning of a carefully orchestrated nightmare - a forbidden trial. A new Magical Girl Raising Project has begun.<br><br></p>\n<p>(Source: OceanVeil)</p>"
         }
       ]
     }
