@@ -2408,10 +2408,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Polyamorous",
               "isMediaSpoiler": true
             },
@@ -2420,11 +2416,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Nudity",
               "isMediaSpoiler": false
             },
             {
-              "name": "Seinen",
+              "name": "Guns",
               "isMediaSpoiler": false
             },
             {
@@ -2432,7 +2432,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Guns",
+              "name": "Seinen",
               "isMediaSpoiler": false
             }
           ],
@@ -2800,6 +2800,10 @@
           ],
           "tags": [
             {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Reincarnation",
               "isMediaSpoiler": false
             },
@@ -2808,23 +2812,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Female Harem",
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Slapstick",
+              "name": "Isekai",
               "isMediaSpoiler": false
             },
             {
               "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Slapstick",
               "isMediaSpoiler": false
             },
             {
@@ -2857,6 +2857,14 @@
             },
             {
               "name": "Dungeon",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Angels",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Elf",
               "isMediaSpoiler": false
             },
             {
@@ -4099,10 +4107,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Slapstick",
               "isMediaSpoiler": false
             },
@@ -4119,6 +4123,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Love Triangle",
               "isMediaSpoiler": false
             },
@@ -4128,6 +4136,10 @@
             },
             {
               "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
@@ -4144,6 +4156,14 @@
             },
             {
               "name": "Episodic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Food",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Acrobatics",
               "isMediaSpoiler": false
             }
           ],
