@@ -789,11 +789,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Acrobatics",
+              "name": "School Club",
               "isMediaSpoiler": false
             },
             {
-              "name": "School Club",
+              "name": "Acrobatics",
               "isMediaSpoiler": false
             },
             {
@@ -4373,6 +4373,10 @@
             {
               "name": "Orphan",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 68,
@@ -5487,19 +5491,19 @@
           ],
           "tags": [
             {
+              "name": "Virtual World",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Video Games",
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Death Game",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -5508,6 +5512,10 @@
             },
             {
               "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Death Game",
               "isMediaSpoiler": false
             },
             {
@@ -5701,6 +5709,14 @@
             },
             {
               "name": "Virginity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Handjob",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Facial",
               "isMediaSpoiler": false
             }
           ],
