@@ -276,7 +276,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 87,
+          "averageScore": 88,
           "studios": {
             "nodes": [
               {
@@ -365,19 +365,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Marriage",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
               "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Marriage",
               "isMediaSpoiler": false
             },
             {
@@ -840,6 +840,142 @@
           "descriptionTr": "<p>The second season of <i>Ao no Hako</i>.<br><br></p>\n<p>As Taiki and Chinatsu navigate their evolving feelings, a fractured friendship from the past and fierce competition cloud the road to nationals.<br><br></p>\n<p>(Source: Netflix, edited)</p>"
         },
         {
+          "id": 191656,
+          "title": {
+            "romaji": "Seitokai ni mo Ana wa Aru!",
+            "english": "Even the Student Council Has Its Holes!",
+            "native": "生徒会にも穴はある！"
+          },
+          "synonyms": [
+            "生穴る",
+            "NamaAnaru",
+            "สภานักเรียนฉบับรั่ว!"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 4
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191656-xFHtxM8SUTdU.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191656-xFHtxM8SUTdU.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191656-JQILdzh3FQxN.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1794670200,
+            "episode": 7
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "School Club",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Slapstick",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nudity",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Mixed Gender Harem",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Femboy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ensemble Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Meta",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 73,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Passione"
+              }
+            ]
+          },
+          "description": "<p>This is Fujinasu Academy, a private high school with top-achieving students located on the outskirts of town.<br />\n<br><br><br />\nHigh School 1st-Year Ume Mizunoe has excellent grades in Japanese language class and has received multiple literary awards.<br />\nHowever, his terrible grades in the sciences are affecting his ability to move up a grade. To avoid repeating a year, he becomes a member of the student council to improve his academic standing.<br />\n<br><br><br />\nHowever, in the student council, he meets the charismatic yet sullen student council president Kotobuki Hisako, and the scary yet kind and refined treasurer, Arisu Terui. Other members include a cheeky and cute boy, Tan Otori, and Komaro Michinoku, the admin who's like a small abandoned cat. This is the start of a slapstick, heartful, rom-com about a busy student council full of cute, mismatched, and quirky students!<br />\n<br><br><br />\n(Source: Even the Student Council Has Its Holes! Official Site)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://nama-anaru.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/nama_anaru"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@nama_anaru"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://aniplexusa.com/studentholes/"
+            },
+            {
+              "site": "OceanVeil",
+              "url": "https://oceanveil.net/anime_titles/542"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2433041"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/28ki6pjn6a1"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/councilhasholes"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>This is Fujinasu Academy, a private high school with top-achieving students located on the outskirts of town.<br />\n<br><br><br />\nHigh School 1st-Year Ume Mizunoe has excellent grades in Japanese language class and has received multiple literary awards.<br />\nHowever, his terrible grades in the sciences are affecting his ability to move up a grade. To avoid repeating a year, he becomes a member of the student council to improve his academic standing.<br />\n<br><br><br />\nHowever, in the student council, he meets the charismatic yet sullen student council president Kotobuki Hisako, and the scary yet kind and refined treasurer, Arisu Terui. Other members include a cheeky and cute boy, Tan Otori, and Komaro Michinoku, the admin who's like a small abandoned cat. This is the start of a slapstick, heartful, rom-com about a busy student council full of cute, mismatched, and quirky students!<br />\n<br><br><br />\n(Source: Even the Student Council Has Its Holes! Official Site)</p>"
+        },
+        {
           "id": 210482,
           "title": {
             "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
@@ -965,142 +1101,6 @@
           "descriptionTr": "<p>In the 2nd STAGE, a desert crossing spanning roughly 750 miles- the land that Johnny Joestar and Gyro Zeppeli must challenge, is home to the area that is feared as the &quot;Devil's Palm.&quot; In 1875, a threat lurking in said desert wiped out a cavalry of 26 people, eliciting fear from the local native people. As ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition. The two press forward, where countless hidden motives collide..<br><br></p>\n<p>(Source: Warner Bros. Japan Anime, Netflix Anime, edited)</p>"
         },
         {
-          "id": 191656,
-          "title": {
-            "romaji": "Seitokai ni mo Ana wa Aru!",
-            "english": "Even the Student Council Has Its Holes!",
-            "native": "生徒会にも穴はある！"
-          },
-          "synonyms": [
-            "生穴る",
-            "NamaAnaru",
-            "สภานักเรียนฉบับรั่ว!"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 4
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191656-xFHtxM8SUTdU.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191656-xFHtxM8SUTdU.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191656-JQILdzh3FQxN.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1794670200,
-            "episode": 7
-          },
-          "isAdult": false,
-          "genres": [
-            "Comedy",
-            "Ecchi",
-            "Slice of Life"
-          ],
-          "tags": [
-            {
-              "name": "School Club",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Slapstick",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Teen Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nudity",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Mixed Gender Harem",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Femboy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ensemble Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Meta",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 73,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Passione"
-              }
-            ]
-          },
-          "description": "<p>This is Fujinasu Academy, a private high school with top-achieving students located on the outskirts of town.<br />\n<br><br><br />\nHigh School 1st-Year Ume Mizunoe has excellent grades in Japanese language class and has received multiple literary awards.<br />\nHowever, his terrible grades in the sciences are affecting his ability to move up a grade. To avoid repeating a year, he becomes a member of the student council to improve his academic standing.<br />\n<br><br><br />\nHowever, in the student council, he meets the charismatic yet sullen student council president Kotobuki Hisako, and the scary yet kind and refined treasurer, Arisu Terui. Other members include a cheeky and cute boy, Tan Otori, and Komaro Michinoku, the admin who's like a small abandoned cat. This is the start of a slapstick, heartful, rom-com about a busy student council full of cute, mismatched, and quirky students!<br />\n<br><br><br />\n(Source: Even the Student Council Has Its Holes! Official Site)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://nama-anaru.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/nama_anaru"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@nama_anaru"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://aniplexusa.com/studentholes/"
-            },
-            {
-              "site": "OceanVeil",
-              "url": "https://oceanveil.net/anime_titles/542"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2433041"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/28ki6pjn6a1"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/councilhasholes"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>This is Fujinasu Academy, a private high school with top-achieving students located on the outskirts of town.<br />\n<br><br><br />\nHigh School 1st-Year Ume Mizunoe has excellent grades in Japanese language class and has received multiple literary awards.<br />\nHowever, his terrible grades in the sciences are affecting his ability to move up a grade. To avoid repeating a year, he becomes a member of the student council to improve his academic standing.<br />\n<br><br><br />\nHowever, in the student council, he meets the charismatic yet sullen student council president Kotobuki Hisako, and the scary yet kind and refined treasurer, Arisu Terui. Other members include a cheeky and cute boy, Tan Otori, and Komaro Michinoku, the admin who's like a small abandoned cat. This is the start of a slapstick, heartful, rom-com about a busy student council full of cute, mismatched, and quirky students!<br />\n<br><br><br />\n(Source: Even the Student Council Has Its Holes! Official Site)</p>"
-        },
-        {
           "id": 207329,
           "title": {
             "romaji": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
@@ -1124,8 +1124,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207329-9IqRSKIsM3TC.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1794322800,
-            "episode": 6
+            "airingAt": 1794927600,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -1144,11 +1144,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Slapstick",
               "isMediaSpoiler": false
             },
             {
-              "name": "Slapstick",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -1763,116 +1763,6 @@
           "descriptionTr": "<p>The curtains rise on a new mystery surrounding a secret treasure hidden in a city on the water.<br><br></p>\n<p>The emperor gives Jinshi an order. He must grant the final wish of a concubine who passed away five years ago by returning her to her homeland. In order to return her to her family, Jinshi examines the remains, only to discover that they’re in pristine condition. She’s beautiful, as if she were still alive. To solve the mystery of the remains, Jinshi drags Maomao along on a journey to Binan-shu, the southern province ruled by the Bi clan.<br><br></p>\n<p>They arrive at a bustling city on the water. Maomao is excited to see herbs and medicines she has never seen before, but tensions are high in the area, as pirates are viciously trying to find the treasure their late leader hid away.<br><br></p>\n<p><i>“I hope nothing happens...”</i><br />\n<br><br><br />\nJinshi’s premonition comes true. On the day of the concubine’s funeral, a huge incident occurs, triggering a chain of events that nobody could see coming.<br><br></p>\n<p>(Source: Crunchyroll)</p>"
         },
         {
-          "id": 206814,
-          "title": {
-            "romaji": "Dragon Ball Super: Beerus",
-            "english": "Dragon Ball Super: Beerus",
-            "native": "ドラゴンボール超 ビルス"
-          },
-          "synonyms": [
-            "DBS Beerus"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 11
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-PVVzRbf1IQpe.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206814-PVVzRbf1IQpe.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206814-ARuwrZJAGONN.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1794752160,
-            "episode": 6
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-          ],
-          "tags": [
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Martial Arts",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gods",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Henshin",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Aliens",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Alternate Universe",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Angels",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Space",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 81,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Toei Animation"
-              }
-            ]
-          },
-          "description": "<p>Several years have passed since the fierce battle against Majin Buu, and Earth has finally regained a brief moment of peace. At the same time, Beerus, the God of Destruction, awakens from his long, deep sleep.<br><br />\nEven Kai and Supreme Kai, aware of Beerus's overwhelming power to destroy entire planets, watch his awakening with great fear… Meanwhile, Beerus hears rumors of a Saiyan who defeated Frieza—and suddenly appears before Goku.<br><br />\nTargeted by Beerus, the strongest being in the universe, Earth is in grave danger. Thus begins an earth-shattering cosmic battle between the God of Destruction and Goku and his alliesa—a conflict that will shake the entire universe.<br />\n<br><br><br />\n(Source: Official Site)<br />\n<br><br><br />\n<i>Note: “Enhanced” edition of Dragon Ball Super, featuring a large volume of newly added and redrawn cuts, a reconstructed narrative, and updated visuals for a more immersive and faithful representation of Akira Toriyama’s original manga.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://dragonball-super.com/"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://dragonball-super.com/en/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/DB_anime_info"
-            },
-            {
-              "site": "Netflix",
-              "url": "https://www.netflix.com/title/83189604"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00389311/dragon-ball-super-beerus"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Several years have passed since the fierce battle against Majin Buu, and Earth has finally regained a brief moment of peace. At the same time, Beerus, the God of Destruction, awakens from his long, deep sleep.<br><br />\nEven Kai and Supreme Kai, aware of Beerus's overwhelming power to destroy entire planets, watch his awakening with great fear… Meanwhile, Beerus hears rumors of a Saiyan who defeated Frieza—and suddenly appears before Goku.<br><br />\nTargeted by Beerus, the strongest being in the universe, Earth is in grave danger. Thus begins an earth-shattering cosmic battle between the God of Destruction and Goku and his alliesa—a conflict that will shake the entire universe.<br />\n<br><br><br />\n(Source: Official Site)<br />\n<br><br><br />\n<i>Note: “Enhanced” edition of Dragon Ball Super, featuring a large volume of newly added and redrawn cuts, a reconstructed narrative, and updated visuals for a more immersive and faithful representation of Akira Toriyama’s original manga.</i></p>"
-        },
-        {
           "id": 207191,
           "title": {
             "romaji": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
@@ -1983,6 +1873,116 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p><b>“Make me a love potion.”</b><br />\n<br><br><br />\nAnd with that single sentence, the Good Witch of the Lake’s secret crush on the dashing Sir Harij ends in heartbreak. Still, when he promises to help her gather the ingredients, Rose is thrilled at the chance to gaze upon a man she’d normally never get to interact with. She learns to brace her pounding heart for their usual stilted conversations…but what is she to do when he inexplicably shows up at her doorstep with bread and a jar of apple butter?<br />\n<br><br><br />\n(Source: Yen Press)</p>"
+        },
+        {
+          "id": 206814,
+          "title": {
+            "romaji": "Dragon Ball Super: Beerus",
+            "english": "Dragon Ball Super: Beerus",
+            "native": "ドラゴンボール超 ビルス"
+          },
+          "synonyms": [
+            "DBS Beerus"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 11
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-PVVzRbf1IQpe.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206814-PVVzRbf1IQpe.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206814-ARuwrZJAGONN.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1794752160,
+            "episode": 6
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "tags": [
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Martial Arts",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gods",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Henshin",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Aliens",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Alternate Universe",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Angels",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Space",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 81,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Toei Animation"
+              }
+            ]
+          },
+          "description": "<p>Several years have passed since the fierce battle against Majin Buu, and Earth has finally regained a brief moment of peace. At the same time, Beerus, the God of Destruction, awakens from his long, deep sleep.<br><br />\nEven Kai and Supreme Kai, aware of Beerus's overwhelming power to destroy entire planets, watch his awakening with great fear… Meanwhile, Beerus hears rumors of a Saiyan who defeated Frieza—and suddenly appears before Goku.<br><br />\nTargeted by Beerus, the strongest being in the universe, Earth is in grave danger. Thus begins an earth-shattering cosmic battle between the God of Destruction and Goku and his alliesa—a conflict that will shake the entire universe.<br />\n<br><br><br />\n(Source: Official Site)<br />\n<br><br><br />\n<i>Note: “Enhanced” edition of Dragon Ball Super, featuring a large volume of newly added and redrawn cuts, a reconstructed narrative, and updated visuals for a more immersive and faithful representation of Akira Toriyama’s original manga.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://dragonball-super.com/"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://dragonball-super.com/en/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/DB_anime_info"
+            },
+            {
+              "site": "Netflix",
+              "url": "https://www.netflix.com/title/83189604"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00389311/dragon-ball-super-beerus"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Several years have passed since the fierce battle against Majin Buu, and Earth has finally regained a brief moment of peace. At the same time, Beerus, the God of Destruction, awakens from his long, deep sleep.<br><br />\nEven Kai and Supreme Kai, aware of Beerus's overwhelming power to destroy entire planets, watch his awakening with great fear… Meanwhile, Beerus hears rumors of a Saiyan who defeated Frieza—and suddenly appears before Goku.<br><br />\nTargeted by Beerus, the strongest being in the universe, Earth is in grave danger. Thus begins an earth-shattering cosmic battle between the God of Destruction and Goku and his alliesa—a conflict that will shake the entire universe.<br />\n<br><br><br />\n(Source: Official Site)<br />\n<br><br><br />\n<i>Note: “Enhanced” edition of Dragon Ball Super, featuring a large volume of newly added and redrawn cuts, a reconstructed narrative, and updated visuals for a more immersive and faithful representation of Akira Toriyama’s original manga.</i></p>"
         },
         {
           "id": 185756,
@@ -2362,8 +2362,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206949-c5hfhixdgvy5.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1794313560,
-            "episode": 6
+            "airingAt": 1794918360,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -2385,6 +2385,10 @@
             },
             {
               "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
@@ -3268,8 +3272,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209502-TATgyznMxQOe.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1794315600,
-            "episode": 6
+            "airingAt": 1794920400,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -4557,8 +4561,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1794319200,
-            "episode": 5
+            "airingAt": 1794924000,
+            "episode": 6
           },
           "isAdult": false,
           "genres": [
@@ -5196,6 +5200,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Travel",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
@@ -5204,23 +5212,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Travel",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cute Girls Doing Cute Things",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Shounen",
               "isMediaSpoiler": false
             },
             {
@@ -5232,11 +5224,19 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Tomboy",
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
-              "name": "Gyaru",
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tomboy",
               "isMediaSpoiler": false
             },
             {
@@ -5244,15 +5244,11 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Gyaru",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Coming of Age",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cars",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gore",
               "isMediaSpoiler": false
             },
             {
@@ -5261,6 +5257,14 @@
             },
             {
               "name": "Tanned Skin",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cars",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
               "isMediaSpoiler": false
             }
           ],
@@ -5444,7 +5448,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 52,
+          "averageScore": 53,
           "studios": {
             "nodes": [
               {
@@ -5539,7 +5543,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 61,
+          "averageScore": 62,
           "studios": {
             "nodes": [
               {
@@ -5709,8 +5713,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1794321000,
-            "episode": 6
+            "airingAt": 1794925800,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
