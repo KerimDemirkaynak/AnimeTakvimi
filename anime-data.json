@@ -188,11 +188,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Elf",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Time Manipulation",
               "isMediaSpoiler": true
             },
             {
-              "name": "Elf",
+              "name": "Espionage",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
               "isMediaSpoiler": false
             },
             {
@@ -208,19 +216,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Espionage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dungeon",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Tsundere",
               "isMediaSpoiler": false
             },
             {
-              "name": "Super Power",
+              "name": "Orphan",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Nun",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Dungeon",
               "isMediaSpoiler": false
             },
             {
@@ -253,14 +261,6 @@
             },
             {
               "name": "Kuudere",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Orphan",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Nun",
               "isMediaSpoiler": false
             },
             {
@@ -448,8 +448,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/159042-X0mqyaUFBkms.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1794411000,
-            "episode": 7
+            "airingAt": 1795015800,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -1176,6 +1176,14 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Rehabilitation",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Anachronism",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Gore",
               "isMediaSpoiler": false
             },
@@ -1188,15 +1196,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Rehabilitation",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Revenge",
               "isMediaSpoiler": true
             },
             {
               "name": "Dragons",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Assassins",
               "isMediaSpoiler": false
             }
           ],
@@ -1628,8 +1636,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172192-jibcmb7wdbzk.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1794411900,
-            "episode": 6
+            "airingAt": 1795016700,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -1950,7 +1958,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 81,
+          "averageScore": 80,
           "studios": {
             "nodes": [
               {
@@ -2112,6 +2120,161 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>The third season of <i>Tensei Kizoku, Kantei Skill de Nariagaru</i>.<br />\n<br><br><br />\n<i>Note: On September 4, 2026, it was announced that GeyeG Pictures would take over the production from studio MOTHER while keeping the same staff.</i></p>"
+        },
+        {
+          "id": 206949,
+          "title": {
+            "romaji": "Kyouran Reijou Nia Liston",
+            "english": "Nia Liston: The Merciless Maiden",
+            "native": "凶乱令嬢ニア・リストン"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 6
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206949-4HYI3YuP0eLI.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206949-4HYI3YuP0eLI.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206949-c5hfhixdgvy5.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1794918360,
+            "episode": 7
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Regression",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cute Girls Doing Cute Things",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Cultivation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Martial Arts",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Maids",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ojou-sama",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Acting",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Boarding School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tsundere",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yuri",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Gender Bending",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Circus",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crime",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Criminal Organization",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "School",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 75,
+          "studios": {
+            "nodes": [
+              {
+                "name": "KONAMI animation"
+              }
+            ]
+          },
+          "description": "<p>A great hero lies undefeated on her deathbed, regretting that she never found a foe who could take her down. She never intended to meet her fate anywhere other than on the battlefield, and her peaceful demise has her wishing desperately that things could have been different... But when she suddenly comes to in the body of the young, frail Nia Liston, she’s got an all-new fight ahead of her. Nia is a sickly child, meaning she has a long way to go before she’s in fighting form. Now that she’s been given a second shot at life, however, she’s determined to get what she wants. She’s going to live—and die—for battle this time! Make way for the Merciless Maiden!<br><br />\n<br><br />\n(Source: J-Novel Club)</p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/kyoranreijo_pr"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://kyoranreijo-pr.com/"
+            },
+            {
+              "site": "HIDIVE",
+              "url": "https://www.hidive.com/season/39540"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2433665"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/tvod2397yt"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>A great hero lies undefeated on her deathbed, regretting that she never found a foe who could take her down. She never intended to meet her fate anywhere other than on the battlefield, and her peaceful demise has her wishing desperately that things could have been different... But when she suddenly comes to in the body of the young, frail Nia Liston, she’s got an all-new fight ahead of her. Nia is a sickly child, meaning she has a long way to go before she’s in fighting form. Now that she’s been given a second shot at life, however, she’s determined to get what she wants. She’s going to live—and die—for battle this time! Make way for the Merciless Maiden!<br><br />\n<br><br />\n(Source: J-Novel Club)</p>"
         },
         {
           "id": 208025,
@@ -2344,161 +2507,6 @@
           "descriptionTr": "<p>Sato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!<br><br></p>\n<p>(Source: Seven Seas Entertainment)</p>"
         },
         {
-          "id": 206949,
-          "title": {
-            "romaji": "Kyouran Reijou Nia Liston",
-            "english": "Nia Liston: The Merciless Maiden",
-            "native": "凶乱令嬢ニア・リストン"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 6
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206949-4HYI3YuP0eLI.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206949-4HYI3YuP0eLI.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206949-c5hfhixdgvy5.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1794918360,
-            "episode": 7
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Regression",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cute Girls Doing Cute Things",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cultivation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Martial Arts",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Maids",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Ojou-sama",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Acting",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Boarding School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Tsundere",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yuri",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Gender Bending",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Circus",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Crime",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Criminal Organization",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 75,
-          "studios": {
-            "nodes": [
-              {
-                "name": "KONAMI animation"
-              }
-            ]
-          },
-          "description": "<p>A great hero lies undefeated on her deathbed, regretting that she never found a foe who could take her down. She never intended to meet her fate anywhere other than on the battlefield, and her peaceful demise has her wishing desperately that things could have been different... But when she suddenly comes to in the body of the young, frail Nia Liston, she’s got an all-new fight ahead of her. Nia is a sickly child, meaning she has a long way to go before she’s in fighting form. Now that she’s been given a second shot at life, however, she’s determined to get what she wants. She’s going to live—and die—for battle this time! Make way for the Merciless Maiden!<br><br />\n<br><br />\n(Source: J-Novel Club)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/kyoranreijo_pr"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kyoranreijo-pr.com/"
-            },
-            {
-              "site": "HIDIVE",
-              "url": "https://www.hidive.com/season/39540"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2433665"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/tvod2397yt"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>A great hero lies undefeated on her deathbed, regretting that she never found a foe who could take her down. She never intended to meet her fate anywhere other than on the battlefield, and her peaceful demise has her wishing desperately that things could have been different... But when she suddenly comes to in the body of the young, frail Nia Liston, she’s got an all-new fight ahead of her. Nia is a sickly child, meaning she has a long way to go before she’s in fighting form. Now that she’s been given a second shot at life, however, she’s determined to get what she wants. She’s going to live—and die—for battle this time! Make way for the Merciless Maiden!<br><br />\n<br><br />\n(Source: J-Novel Club)</p>"
-        },
-        {
           "id": 191788,
           "title": {
             "romaji": "Aoashi 2nd Season",
@@ -2609,8 +2617,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1794400200,
-            "episode": 6
+            "airingAt": 1795005000,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -3765,8 +3773,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/211778-ZbXEhqfFkj62.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1794402000,
-            "episode": 6
+            "airingAt": 1795006800,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -4039,11 +4047,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Tragedy",
+              "name": "Educational",
               "isMediaSpoiler": false
             },
             {
-              "name": "Educational",
+              "name": "Tragedy",
               "isMediaSpoiler": false
             },
             {
@@ -4051,12 +4059,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Suicide",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "Work",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Suicide",
+              "isMediaSpoiler": true
             },
             {
               "name": "Time Skip",
@@ -4615,7 +4623,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 79,
+          "averageScore": 78,
           "studios": {
             "nodes": [
               {
@@ -4665,8 +4673,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176314-nj2hmqbGQ9HJ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1794402000,
-            "episode": 6
+            "airingAt": 1795006800,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -5039,8 +5047,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178868-l7VyM7j7LRtH.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1794408360,
-            "episode": 6
+            "airingAt": 1795013160,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -5543,7 +5551,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 62,
+          "averageScore": 61,
           "studios": {
             "nodes": [
               {
