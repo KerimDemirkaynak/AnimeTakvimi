@@ -503,11 +503,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Tragedy",
+              "name": "Gore",
               "isMediaSpoiler": false
             },
             {
-              "name": "Gore",
+              "name": "Tragedy",
               "isMediaSpoiler": false
             },
             {
@@ -515,12 +515,24 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Skeleton",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Necromancy",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Urban Fantasy",
               "isMediaSpoiler": false
             },
             {
-              "name": "Skeleton",
+              "name": "Zombie",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Human Experimentation",
+              "isMediaSpoiler": true
             },
             {
               "name": "Dungeon",
@@ -531,24 +543,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Necromancy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Zombie",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Body Horror",
               "isMediaSpoiler": false
             },
             {
               "name": "Demons",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Human Experimentation",
-              "isMediaSpoiler": true
             },
             {
               "name": "Twins",
