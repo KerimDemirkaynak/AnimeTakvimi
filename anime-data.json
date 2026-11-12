@@ -95,6 +95,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Survival",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Amnesia",
               "isMediaSpoiler": true
             }
@@ -483,10 +487,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Ships",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
@@ -495,11 +495,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Cute Girls Doing Cute Things",
+              "name": "Medieval",
               "isMediaSpoiler": false
             },
             {
-              "name": "Medieval",
+              "name": "Cute Girls Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
@@ -512,6 +512,10 @@
             },
             {
               "name": "Coastal",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Ships",
               "isMediaSpoiler": false
             },
             {
@@ -552,6 +556,18 @@
             },
             {
               "name": "Twins",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Fishing",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Pirates",
               "isMediaSpoiler": false
             }
           ],
@@ -1781,7 +1797,8 @@
             "Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion",
             "I'm a witch who's crush requested a love potion",
             "惚れ魔女",
-            "Horemajo"
+            "Horemajo",
+            "Love Potion, la sorcière mal-aimée"
           ],
           "startDate": {
             "year": 2026,
@@ -3850,6 +3867,10 @@
             {
               "name": "Religion",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Coastal",
+              "isMediaSpoiler": false
             }
           ],
           "averageScore": 70,
@@ -4484,14 +4505,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Super Power",
               "isMediaSpoiler": false
             },
@@ -4500,15 +4513,23 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Anti-Hero",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Crime",
               "isMediaSpoiler": false
             },
             {
               "name": "Dystopian",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Anti-Hero",
               "isMediaSpoiler": false
             },
             {
