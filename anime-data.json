@@ -1224,7 +1224,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 73,
+          "averageScore": 74,
           "studios": {
             "nodes": [
               {
@@ -1412,8 +1412,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1794495360,
-            "episode": 7
+            "airingAt": 1795100160,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -2465,6 +2465,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Polyamorous",
               "isMediaSpoiler": true
             },
@@ -2474,10 +2478,6 @@
             },
             {
               "name": "Elf",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
@@ -3509,8 +3509,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1794500880,
-            "episode": 6
+            "airingAt": 1795105680,
+            "episode": 7
           },
           "isAdult": false,
           "genres": [
@@ -4034,8 +4034,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206401-sKPZQks8FxNL.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1794486600,
-            "episode": 7
+            "airingAt": 1795091400,
+            "episode": 8
           },
           "isAdult": false,
           "genres": [
@@ -4068,10 +4068,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Educational",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Tragedy",
               "isMediaSpoiler": false
             },
@@ -4080,12 +4076,16 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Work",
+              "name": "Educational",
               "isMediaSpoiler": false
             },
             {
               "name": "Suicide",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Work",
+              "isMediaSpoiler": false
             },
             {
               "name": "Time Skip",
@@ -4216,7 +4216,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 72,
+          "averageScore": 73,
           "studios": {
             "nodes": [
               {
@@ -5152,7 +5152,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 69,
+          "averageScore": 68,
           "studios": {
             "nodes": [
               {
@@ -5691,7 +5691,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 52,
+          "averageScore": 51,
           "studios": {
             "nodes": [
               {
