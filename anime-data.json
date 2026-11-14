@@ -943,6 +943,10 @@
             {
               "name": "Meta",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Orphan",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 73,
