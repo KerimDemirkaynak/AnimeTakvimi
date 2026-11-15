@@ -2829,6 +2829,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Episodic",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Seinen",
               "isMediaSpoiler": false
             }
@@ -3812,7 +3816,8 @@
           },
           "synonyms": [
             "桃源暗鬼 2期",
-            "Tougen Anki Season 2"
+            "Tougen Anki Season 2",
+            "Tougen Anki: Arco das Cataratas Kegon em Nikko"
           ],
           "startDate": {
             "year": 2026,
@@ -5348,7 +5353,7 @@
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/203275-g8zkD7HCkJCn.jpg",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/203275-4qPKsW5SXLzC.jpg",
           "nextAiringEpisode": {
             "airingAt": 1795176000,
             "episode": 4
