@@ -79,6 +79,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Survival",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Maids",
               "isMediaSpoiler": false
             },
@@ -92,10 +96,6 @@
             },
             {
               "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Survival",
               "isMediaSpoiler": false
             },
             {
@@ -782,11 +782,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Nudity",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Nudity",
               "isMediaSpoiler": false
             },
             {
@@ -2188,14 +2188,6 @@
             },
             {
               "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cute Girls Doing Cute Things",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Cultivation",
               "isMediaSpoiler": false
             },
             {
@@ -3638,6 +3630,10 @@
             },
             {
               "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Dungeon",
               "isMediaSpoiler": false
             }
           ],
