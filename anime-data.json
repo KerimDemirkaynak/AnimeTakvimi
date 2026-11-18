@@ -377,15 +377,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Shounen",
               "isMediaSpoiler": false
             },
             {
               "name": "Marriage",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
@@ -650,14 +650,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Gore",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Assassins",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Heterosexual",
               "isMediaSpoiler": false
             },
@@ -666,11 +658,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Gore",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Prostitution",
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Assassins",
               "isMediaSpoiler": false
             },
             {
@@ -678,15 +674,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Survival",
               "isMediaSpoiler": false
             },
             {
-              "name": "Disability",
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
               "isMediaSpoiler": false
             },
             {
@@ -695,6 +691,14 @@
             },
             {
               "name": "Oiran",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Disability",
               "isMediaSpoiler": false
             }
           ],
@@ -1971,11 +1975,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Alternate Universe",
+              "name": "Urban Fantasy",
               "isMediaSpoiler": false
             },
             {
-              "name": "Urban Fantasy",
+              "name": "Alternate Universe",
               "isMediaSpoiler": false
             },
             {
@@ -2794,27 +2798,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Adoption",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Cohabitation",
-              "isMediaSpoiler": true
-            },
-            {
               "name": "School",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Maids",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Royal Affairs",
               "isMediaSpoiler": false
             },
             {
@@ -2830,7 +2814,27 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Adoption",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Cohabitation",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Maids",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Seinen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Royal Affairs",
               "isMediaSpoiler": false
             },
             {
@@ -3105,7 +3109,7 @@
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204389-jCoFCeTthDMy.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204389-jCoFCeTthDMy.jpg"
           },
-          "bannerImage": null,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204389-PFtzs8KcRzCz.jpg",
           "nextAiringEpisode": {
             "airingAt": 1795267800,
             "episode": 9
@@ -5754,7 +5758,7 @@
           "id": 187316,
           "title": {
             "romaji": "Gensou Suikoden",
-            "english": null,
+            "english": "Suikoden",
             "native": "幻想水滸伝"
           },
           "synonyms": [
@@ -5814,7 +5818,7 @@
               }
             ]
           },
-          "description": "<p>Two young boys... the hero, Riliu, and his best friend Jowy, were members of a youth brigade of their home nation, the Highland Kingdom - a powerful military nation located in the north-east of the Dunan region.<br><br></p>\n<p>The two of them looked up at the same starry skies, slept in the same tent, and believed in the same future. Once the fighting was over, and the night ended, their daily lives were sure to return.<br><br></p>\n<p>Contrary to their hopes, the two boys become swept up in the whirlpool of fate, guided by the flames of war.<br><br></p>\n<p>The powerless boys reached for, and grasped immense power. As the 108 stars shine brightly in the murky horizon, the boys step forward, each with their own beliefs for an answer-less question.<br><br></p>\n<p>(Source: Official Website, translated)<br><br></p>\n<p><i>Note: The first episode aired with a runtime of ~50 minutes as opposed to the standard 24 minute long episode.</i></p>",
+          "description": "<p>Riliu and Jowy have always fought side by side, dreaming of a future beyond the battlefield. But when war engulfs the Highland Kingdom, the childhood friends are swept into a struggle far greater than themselves. As the 108 Stars of Destiny begin to gather, the boys must face a conflict that will challenge their beliefs and put their friendship to the test.<br><br></p>\n<p>(Source: Crunchyroll)<br><br></p>\n<p><i>Note: The first episode aired with a runtime of ~50 minutes as opposed to the standard 24 minute long episode.</i></p>",
           "externalLinks": [
             {
               "site": "Twitter",
@@ -5835,10 +5839,14 @@
             {
               "site": "YouTube",
               "url": "https://www.youtube.com/@SuikodenTheAnime-EN/videos"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00393473/suikoden"
             }
           ],
           "isMyList": false,
-          "descriptionTr": "<p>Two young boys... the hero, Riliu, and his best friend Jowy, were members of a youth brigade of their home nation, the Highland Kingdom - a powerful military nation located in the north-east of the Dunan region.<br><br></p>\n<p>The two of them looked up at the same starry skies, slept in the same tent, and believed in the same future. Once the fighting was over, and the night ended, their daily lives were sure to return.<br><br></p>\n<p>Contrary to their hopes, the two boys become swept up in the whirlpool of fate, guided by the flames of war.<br><br></p>\n<p>The powerless boys reached for, and grasped immense power. As the 108 stars shine brightly in the murky horizon, the boys step forward, each with their own beliefs for an answer-less question.<br><br></p>\n<p>(Source: Official Website, translated)<br><br></p>\n<p><i>Note: The first episode aired with a runtime of ~50 minutes as opposed to the standard 24 minute long episode.</i></p>"
+          "descriptionTr": "<p>Riliu and Jowy have always fought side by side, dreaming of a future beyond the battlefield. But when war engulfs the Highland Kingdom, the childhood friends are swept into a struggle far greater than themselves. As the 108 Stars of Destiny begin to gather, the boys must face a conflict that will challenge their beliefs and put their friendship to the test.<br><br></p>\n<p>(Source: Crunchyroll)<br><br></p>\n<p><i>Note: The first episode aired with a runtime of ~50 minutes as opposed to the standard 24 minute long episode.</i></p>"
         }
       ]
     }
