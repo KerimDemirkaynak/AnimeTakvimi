@@ -3989,6 +3989,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "War",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Shounen",
               "isMediaSpoiler": false
             },
@@ -4022,10 +4026,6 @@
             },
             {
               "name": "Survival",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "War",
               "isMediaSpoiler": false
             }
           ],
