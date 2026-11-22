@@ -9,7 +9,13 @@
             "english": "The Apothecary Diaries Season 3",
             "native": "薬屋のひとりごと 第3期"
           },
-          "synonyms": [],
+          "synonyms": [
+            "Les Carnets de l'Apothicaire Saison 3",
+            "Die Tagebücher der Apothekerin Season 3",
+            "Diários de uma Apotecária 3ª Temporada",
+            "Монолог фармацевта 3",
+            "Los diarios de la boticaria temporada 3"
+          ],
           "startDate": {
             "year": 2026,
             "month": 10,
@@ -96,6 +102,10 @@
             },
             {
               "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Drugs",
               "isMediaSpoiler": false
             },
             {
@@ -834,12 +844,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Meta",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Orphan",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Meta",
+              "isMediaSpoiler": false
             },
             {
               "name": "Episodic",
@@ -2679,11 +2689,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Nudity",
+              "name": "Slapstick",
               "isMediaSpoiler": false
             },
             {
-              "name": "Slapstick",
+              "name": "Nudity",
               "isMediaSpoiler": false
             },
             {
@@ -3770,11 +3780,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Guns",
+              "name": "Revenge",
               "isMediaSpoiler": false
             },
             {
-              "name": "Revenge",
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Guns",
               "isMediaSpoiler": false
             },
             {
@@ -3783,10 +3797,6 @@
             },
             {
               "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
               "isMediaSpoiler": false
             }
           ],
@@ -3902,6 +3912,10 @@
             },
             {
               "name": "Creature Taming",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Male Cast",
               "isMediaSpoiler": false
             }
           ],
@@ -4034,6 +4048,10 @@
             },
             {
               "name": "Survival",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Male Cast",
               "isMediaSpoiler": false
             }
           ],
@@ -4283,6 +4301,10 @@
             },
             {
               "name": "Acrobatics",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Crossdressing",
               "isMediaSpoiler": false
             }
           ],
