@@ -411,7 +411,7 @@
               "isMediaSpoiler": true
             }
           ],
-          "averageScore": 76,
+          "averageScore": 77,
           "studios": {
             "nodes": [
               {
@@ -1641,8 +1641,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207191-xYgpkCDnXc5m.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1795437000,
-            "episode": 8
+            "airingAt": 1796041800,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -1687,12 +1687,12 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Slapstick",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Royal Affairs",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Slapstick",
+              "isMediaSpoiler": false
             },
             {
               "name": "Coming of Age",
@@ -2174,135 +2174,6 @@
           "descriptionTr": "<p>Sato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!<br><br></p>\n<p>(Source: Seven Seas Entertainment)</p>"
         },
         {
-          "id": 185756,
-          "title": {
-            "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
-            "english": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
-            "native": "転生貴族、鑑定スキルで成り上がる 第3期"
-          },
-          "synonyms": [
-            "KanteiSkill 3"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 9,
-            "day": 27
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185756-xPCl0RyQ7fXD.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185756-xPCl0RyQ7fXD.jpg"
-          },
-          "bannerImage": null,
-          "nextAiringEpisode": {
-            "airingAt": 1795962600,
-            "episode": 10
-          },
-          "isAdult": false,
-          "genres": [
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Kingdom Management",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Yandere",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Medieval",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Reincarnation",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Age Regression",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Orphan",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Heterosexual",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Swordplay",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 68,
-          "studios": {
-            "nodes": [
-              {
-                "name": "GeyeG Pictures"
-              }
-            ]
-          },
-          "description": "<p>The third season of <i>Tensei Kizoku, Kantei Skill de Nariagaru</i>.<br />\n<br><br><br />\n<i>Note: On September 4, 2026, it was announced that GeyeG Pictures would take over the production from studio MOTHER while keeping the same staff.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/kanteiskill"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://kanteiskill.com/"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GG5H5XQMD/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world"
-            },
-            {
-              "site": "iQ",
-              "url": "https://www.iq.com/album/onlibp0le1"
-            },
-            {
-              "site": "Bilibili TV",
-              "url": "https://www.bilibili.tv/en/media/2432255"
-            },
-            {
-              "site": "YouTube",
-              "url": "https://www.youtube.com/playlist?list=PLfEwGegYhFGY"
-            },
-            {
-              "site": "TikTok",
-              "url": "https://www.tiktok.com/@kanteiskill"
-            },
-            {
-              "site": "Instagram",
-              "url": "https://www.instagram.com/kanteiskill_official/"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>The third season of <i>Tensei Kizoku, Kantei Skill de Nariagaru</i>.<br />\n<br><br><br />\n<i>Note: On September 4, 2026, it was announced that GeyeG Pictures would take over the production from studio MOTHER while keeping the same staff.</i></p>"
-        },
-        {
           "id": 208025,
           "title": {
             "romaji": "Dark Summoner to Dekiteiru",
@@ -2437,6 +2308,135 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Amona’s a dark summoner with demonic powers. Roni’s a devout priest who’s way too uptight. By all rights, they should hate each other. Instead, they end up fast-tracking their enemies-to-lovers arc with a one-night stand that somehow insists on becoming a recurring event. Now they must hide their situationship from the rest of the party while denying their growing attraction to one another, all while dealing with an imp who’s far too invested in their love life.<br />\n<br><br><br />\n(Source: HIDIVE)</p>"
+        },
+        {
+          "id": 185756,
+          "title": {
+            "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+            "english": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
+            "native": "転生貴族、鑑定スキルで成り上がる 第3期"
+          },
+          "synonyms": [
+            "KanteiSkill 3"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 9,
+            "day": 27
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185756-xPCl0RyQ7fXD.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185756-xPCl0RyQ7fXD.jpg"
+          },
+          "bannerImage": null,
+          "nextAiringEpisode": {
+            "airingAt": 1795962600,
+            "episode": 10
+          },
+          "isAdult": false,
+          "genres": [
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Kingdom Management",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Yandere",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Medieval",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Reincarnation",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Age Regression",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Orphan",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Royal Affairs",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 68,
+          "studios": {
+            "nodes": [
+              {
+                "name": "GeyeG Pictures"
+              }
+            ]
+          },
+          "description": "<p>The third season of <i>Tensei Kizoku, Kantei Skill de Nariagaru</i>.<br />\n<br><br><br />\n<i>Note: On September 4, 2026, it was announced that GeyeG Pictures would take over the production from studio MOTHER while keeping the same staff.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Twitter",
+              "url": "https://x.com/kanteiskill"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://kanteiskill.com/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GG5H5XQMD/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world"
+            },
+            {
+              "site": "iQ",
+              "url": "https://www.iq.com/album/onlibp0le1"
+            },
+            {
+              "site": "Bilibili TV",
+              "url": "https://www.bilibili.tv/en/media/2432255"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLfEwGegYhFGY"
+            },
+            {
+              "site": "TikTok",
+              "url": "https://www.tiktok.com/@kanteiskill"
+            },
+            {
+              "site": "Instagram",
+              "url": "https://www.instagram.com/kanteiskill_official/"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>The third season of <i>Tensei Kizoku, Kantei Skill de Nariagaru</i>.<br />\n<br><br><br />\n<i>Note: On September 4, 2026, it was announced that GeyeG Pictures would take over the production from studio MOTHER while keeping the same staff.</i></p>"
         },
         {
           "id": 191788,
@@ -3136,104 +3136,6 @@
           "descriptionTr": "<p>The second season of <i>Yasei no Last Boss ga Arawareta!</i></p>"
         },
         {
-          "id": 204011,
-          "title": {
-            "romaji": "PSYЯEN",
-            "english": "PSYREN",
-            "native": "PSYREN -サイレン-"
-          },
-          "synonyms": [
-            "САЙРЕН"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 5
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204011-j45RZoqYbdZK.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204011-j45RZoqYbdZK.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204011-hBOwte9MzykA.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1796047200,
-            "episode": 7
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-          ],
-          "tags": [
-            {
-              "name": "Death Game",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Isekai",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Shounen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Time Manipulation",
-              "isMediaSpoiler": true
-            },
-            {
-              "name": "Dystopian",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Post-Apocalyptic",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 69,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Satelight"
-              }
-            ]
-          },
-          "description": "<p>One day, high schooler Ageha Yoshina picks up a mysterious “red phone card” left behind in a public telephone booth.<br />\nA few days later, his childhood friend and classmate, Sakurako Amamiya—who possessed the same card—suddenly vanishes without a trace. In search of her, Ageha finds himself drawn into the rumors surrounding a nationwide string of mysterious disappearances, said to be the work of a secret organization known only as “Psyren.”<br><br><br />\nWhen he accesses the group, a deadly game begins—one that will change his fate forever.<br />\n<br><br><br />\n(Source: PSYЯEN Official Site)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://psyren-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/PSYREN_official"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://psyren-anime-global.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/psyrenanime_en"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00371866/psyren"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>One day, high schooler Ageha Yoshina picks up a mysterious “red phone card” left behind in a public telephone booth.<br />\nA few days later, his childhood friend and classmate, Sakurako Amamiya—who possessed the same card—suddenly vanishes without a trace. In search of her, Ageha finds himself drawn into the rumors surrounding a nationwide string of mysterious disappearances, said to be the work of a secret organization known only as “Psyren.”<br><br><br />\nWhen he accesses the group, a deadly game begins—one that will change his fate forever.<br />\n<br><br><br />\n(Source: PSYЯEN Official Site)</p>"
-        },
-        {
           "id": 205896,
           "title": {
             "romaji": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
@@ -3317,6 +3219,104 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>RPG player Makoto Takatsuki is hurled into another world with awful skills and stats. But he soon meets a goddess named Noah, who asks him to become her 1st believer in return for blessings.<br><br />\n<br><br />\n(Source: J-Novel Club)</p>"
+        },
+        {
+          "id": 204011,
+          "title": {
+            "romaji": "PSYЯEN",
+            "english": "PSYREN",
+            "native": "PSYREN -サイレン-"
+          },
+          "synonyms": [
+            "САЙРЕН"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 5
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204011-j45RZoqYbdZK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204011-j45RZoqYbdZK.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204011-hBOwte9MzykA.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1796652000,
+            "episode": 7
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "tags": [
+            {
+              "name": "Death Game",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Isekai",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Time Manipulation",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Dystopian",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Post-Apocalyptic",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 69,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Satelight"
+              }
+            ]
+          },
+          "description": "<p>One day, high schooler Ageha Yoshina picks up a mysterious “red phone card” left behind in a public telephone booth.<br />\nA few days later, his childhood friend and classmate, Sakurako Amamiya—who possessed the same card—suddenly vanishes without a trace. In search of her, Ageha finds himself drawn into the rumors surrounding a nationwide string of mysterious disappearances, said to be the work of a secret organization known only as “Psyren.”<br><br><br />\nWhen he accesses the group, a deadly game begins—one that will change his fate forever.<br />\n<br><br><br />\n(Source: PSYЯEN Official Site)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://psyren-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/PSYREN_official"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://psyren-anime-global.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/psyrenanime_en"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00371866/psyren"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>One day, high schooler Ageha Yoshina picks up a mysterious “red phone card” left behind in a public telephone booth.<br />\nA few days later, his childhood friend and classmate, Sakurako Amamiya—who possessed the same card—suddenly vanishes without a trace. In search of her, Ageha finds himself drawn into the rumors surrounding a nationwide string of mysterious disappearances, said to be the work of a secret organization known only as “Psyren.”<br><br><br />\nWhen he accesses the group, a deadly game begins—one that will change his fate forever.<br />\n<br><br><br />\n(Source: PSYЯEN Official Site)</p>"
         },
         {
           "id": 209502,
@@ -3452,8 +3452,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1795438800,
-            "episode": 8
+            "airingAt": 1796043600,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -5032,6 +5032,98 @@
           "descriptionTr": "<p>For the first time in my life, I have a girlfriend. But her friend tempts me with a body that's so seductive... What would you do if your girlfriend's friend came on to you like this?<br />\n<br><br><br />\n(Source: Yanmaga, translated)</p>"
         },
         {
+          "id": 203275,
+          "title": {
+            "romaji": "Demons' Crest",
+            "english": "Devils' Crest",
+            "native": "デモンズ・クレスト"
+          },
+          "synonyms": [
+            "デモクレ",
+            "DemoKure",
+            "Diabelska pieczęć"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 11,
+            "day": 6
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/203275-4qPKsW5SXLzC.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1795780800,
+            "episode": 5
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Virtual World",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Video Games",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "CGI",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Death Game",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gore",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 54,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Production I.G"
+              }
+            ]
+          },
+          "description": "<p>Sixth-grader Yuuma Ashihara and his twin sister, Sawa, are playing Actual Magic, a brand-new virtual reality MMORPG, when it suddenly begins fusing with the real world. Amid all the chaos and confusion, it becomes clear that death is lurking around every corner, including when Yuuma runs into his classmate Sumika. Before, she was one of the cutest girls in his class, but she’s since undergone a terrible metamorphosis—into one of the game’s horrifying monsters! From the author of Sword Art Online and Accel World comes a story beyond VR and AR, where gaming and reality are one and the same…and staying alive is just the beginning!<br />\n<br><br><br />\n(Source: Yen Press)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://demonscrest-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/demonscrestPR"
+            },
+            {
+              "site": "Prime Video",
+              "url": "https://www.primevideo.com/detail/0J35D20PPSSNACER7Z6BEAHQFW"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Sixth-grader Yuuma Ashihara and his twin sister, Sawa, are playing Actual Magic, a brand-new virtual reality MMORPG, when it suddenly begins fusing with the real world. Amid all the chaos and confusion, it becomes clear that death is lurking around every corner, including when Yuuma runs into his classmate Sumika. Before, she was one of the cutest girls in his class, but she’s since undergone a terrible metamorphosis—into one of the game’s horrifying monsters! From the author of Sword Art Online and Accel World comes a story beyond VR and AR, where gaming and reality are one and the same…and staying alive is just the beginning!<br />\n<br><br><br />\n(Source: Yen Press)</p>"
+        },
+        {
           "id": 178868,
           "title": {
             "romaji": "Magic Knight Rayearth (2026)",
@@ -5169,98 +5261,6 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>Hikaru Shidou, Umi Ryuuzaki, and Fuu Hououji aren't from Cephiro. While on a school field trip to the Tokyo Tower, the three girls' minds are on anything but different worlds filled with magic and wonder. That is, until Princess Emeraude, the Pillar of Cephiro, cries out for the Magic Knights to save her world--and that just happens to be those three!<br />\n<br><br></p>\n<p>(Source: Crunchyroll)</p>"
-        },
-        {
-          "id": 203275,
-          "title": {
-            "romaji": "Demons' Crest",
-            "english": "Devils' Crest",
-            "native": "デモンズ・クレスト"
-          },
-          "synonyms": [
-            "デモクレ",
-            "DemoKure",
-            "Diabelska pieczęć"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 11,
-            "day": 6
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/203275-4qPKsW5SXLzC.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1795780800,
-            "episode": 5
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "tags": [
-            {
-              "name": "Virtual World",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Video Games",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "CGI",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Death Game",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gore",
-              "isMediaSpoiler": true
-            }
-          ],
-          "averageScore": 54,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Production I.G"
-              }
-            ]
-          },
-          "description": "<p>Sixth-grader Yuuma Ashihara and his twin sister, Sawa, are playing Actual Magic, a brand-new virtual reality MMORPG, when it suddenly begins fusing with the real world. Amid all the chaos and confusion, it becomes clear that death is lurking around every corner, including when Yuuma runs into his classmate Sumika. Before, she was one of the cutest girls in his class, but she’s since undergone a terrible metamorphosis—into one of the game’s horrifying monsters! From the author of Sword Art Online and Accel World comes a story beyond VR and AR, where gaming and reality are one and the same…and staying alive is just the beginning!<br />\n<br><br><br />\n(Source: Yen Press)</p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://demonscrest-anime.com/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/demonscrestPR"
-            },
-            {
-              "site": "Prime Video",
-              "url": "https://www.primevideo.com/detail/0J35D20PPSSNACER7Z6BEAHQFW"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Sixth-grader Yuuma Ashihara and his twin sister, Sawa, are playing Actual Magic, a brand-new virtual reality MMORPG, when it suddenly begins fusing with the real world. Amid all the chaos and confusion, it becomes clear that death is lurking around every corner, including when Yuuma runs into his classmate Sumika. Before, she was one of the cutest girls in his class, but she’s since undergone a terrible metamorphosis—into one of the game’s horrifying monsters! From the author of Sword Art Online and Accel World comes a story beyond VR and AR, where gaming and reality are one and the same…and staying alive is just the beginning!<br />\n<br><br><br />\n(Source: Yen Press)</p>"
         },
         {
           "id": 199007,
@@ -5837,7 +5837,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Cute Boys Doing Cute Things",
+              "name": "Ensemble Cast",
               "isMediaSpoiler": false
             },
             {
@@ -5845,7 +5845,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Ensemble Cast",
+              "name": "Cute Boys Doing Cute Things",
               "isMediaSpoiler": false
             },
             {
@@ -5861,6 +5861,14 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Female Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Swordplay",
               "isMediaSpoiler": false
             },
@@ -5871,17 +5879,9 @@
             {
               "name": "Bisexual",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Female Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Magic",
-              "isMediaSpoiler": false
             }
           ],
-          "averageScore": 70,
+          "averageScore": 69,
           "studios": {
             "nodes": [
               {
