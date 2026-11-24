@@ -1679,16 +1679,16 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Royal Affairs",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Medieval",
               "isMediaSpoiler": false
             },
             {
               "name": "Rural",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Royal Affairs",
-              "isMediaSpoiler": true
             },
             {
               "name": "Slapstick",
@@ -2786,7 +2786,7 @@
         {
           "id": 152677,
           "title": {
-            "romaji": "Tantei wa mou, Shindeiru. Season 2",
+            "romaji": "Tantei wa Mou, Shindeiru. Season 2",
             "english": "The Detective Is Already Dead Season 2",
             "native": "探偵はもう、死んでいる。Season2"
           },
@@ -3170,10 +3170,6 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Harem",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
@@ -3183,6 +3179,10 @@
             },
             {
               "name": "Magic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Harem",
               "isMediaSpoiler": false
             },
             {
@@ -4148,11 +4148,11 @@
           ],
           "tags": [
             {
-              "name": "Female Protagonist",
+              "name": "Economics",
               "isMediaSpoiler": false
             },
             {
-              "name": "Economics",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -4164,15 +4164,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Female Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Tragedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Female Cast",
               "isMediaSpoiler": false
             },
             {
@@ -4180,16 +4176,20 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Educational",
+              "name": "Seinen",
               "isMediaSpoiler": false
             },
             {
-              "name": "Work",
+              "name": "Educational",
               "isMediaSpoiler": false
             },
             {
               "name": "Suicide",
               "isMediaSpoiler": true
+            },
+            {
+              "name": "Work",
+              "isMediaSpoiler": false
             },
             {
               "name": "Time Skip",
