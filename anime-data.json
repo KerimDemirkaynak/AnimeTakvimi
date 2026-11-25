@@ -585,8 +585,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/159042-X0mqyaUFBkms.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1795620600,
-            "episode": 9
+            "airingAt": 1796225400,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -781,7 +781,7 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191656-JQILdzh3FQxN.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1795879800,
+            "airingAt": 1796484600,
             "episode": 9
           },
           "isAdult": false,
@@ -804,11 +804,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Primarily Teen Cast",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Primarily Teen Cast",
               "isMediaSpoiler": false
             },
             {
@@ -816,11 +816,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Female Protagonist",
+              "name": "Mixed Gender Harem",
               "isMediaSpoiler": false
             },
             {
-              "name": "Mixed Gender Harem",
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -840,19 +840,19 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "LGBTQ+ Themes",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Orphan",
               "isMediaSpoiler": true
             },
             {
-              "name": "Meta",
+              "name": "LGBTQ+ Themes",
               "isMediaSpoiler": false
             },
             {
               "name": "Episodic",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Meta",
               "isMediaSpoiler": false
             }
           ],
@@ -1012,6 +1012,14 @@
             {
               "name": "Assassins",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Swordplay",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Estranged Family",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 74,
@@ -1563,8 +1571,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172192-jibcmb7wdbzk.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1795621500,
-            "episode": 8
+            "airingAt": 1796226300,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -1811,112 +1819,6 @@
           "descriptionTr": "<p>The curtains rise on a new mystery surrounding a secret treasure hidden in a city on the water.<br><br></p>\n<p>The emperor gives Jinshi an order. He must grant the final wish of a concubine who passed away five years ago by returning her to her homeland. In order to return her to her family, Jinshi examines the remains, only to discover that they’re in pristine condition. She’s beautiful, as if she were still alive. To solve the mystery of the remains, Jinshi drags Maomao along on a journey to Binan-shu, the southern province ruled by the Bi clan.<br><br></p>\n<p>They arrive at a bustling city on the water. Maomao is excited to see herbs and medicines she has never seen before, but tensions are high in the area, as pirates are viciously trying to find the treasure their late leader hid away.<br><br></p>\n<p><i>“I hope nothing happens...”</i><br />\n<br><br><br />\nJinshi’s premonition comes true. On the day of the concubine’s funeral, a huge incident occurs, triggering a chain of events that nobody could see coming.<br><br></p>\n<p>(Source: Crunchyroll)</p>"
         },
         {
-          "id": 206814,
-          "title": {
-            "romaji": "Dragon Ball Super: Beerus",
-            "english": "Dragon Ball Super: Beerus",
-            "native": "ドラゴンボール超 ビルス"
-          },
-          "synonyms": [
-            "DBS Beerus"
-          ],
-          "startDate": {
-            "year": 2026,
-            "month": 10,
-            "day": 11
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-PVVzRbf1IQpe.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206814-PVVzRbf1IQpe.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206814-ARuwrZJAGONN.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1795961700,
-            "episode": 8
-          },
-          "isAdult": false,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-          ],
-          "tags": [
-            {
-              "name": "Super Power",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Martial Arts",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Male Protagonist",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Gods",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Henshin",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Aliens",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Alternate Universe",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Angels",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Space",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": 80,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Toei Animation"
-              }
-            ]
-          },
-          "description": "<p>Several years have passed since the fierce battle against Majin Buu, and Earth has finally regained a brief moment of peace. At the same time, Beerus, the God of Destruction, awakens from his long, deep sleep.<br><br />\nEven Kai and Supreme Kai, aware of Beerus's overwhelming power to destroy entire planets, watch his awakening with great fear… Meanwhile, Beerus hears rumors of a Saiyan who defeated Frieza—and suddenly appears before Goku.<br><br />\nTargeted by Beerus, the strongest being in the universe, Earth is in grave danger. Thus begins an earth-shattering cosmic battle between the God of Destruction and Goku and his alliesa—a conflict that will shake the entire universe.<br />\n<br><br><br />\n(Source: Official Site)<br />\n<br><br><br />\n<i>Note: “Enhanced” edition of Dragon Ball Super, featuring a large volume of newly added and redrawn cuts, a reconstructed narrative, and updated visuals for a more immersive and faithful representation of Akira Toriyama’s original manga.</i></p>",
-          "externalLinks": [
-            {
-              "site": "Official Site",
-              "url": "https://dragonball-super.com/"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://dragonball-super.com/en/"
-            },
-            {
-              "site": "Twitter",
-              "url": "https://x.com/DB_anime_info"
-            },
-            {
-              "site": "Netflix",
-              "url": "https://www.netflix.com/title/83189604"
-            },
-            {
-              "site": "Crunchyroll",
-              "url": "https://www.crunchyroll.com/series/GT00389311/dragon-ball-super-beerus"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>Several years have passed since the fierce battle against Majin Buu, and Earth has finally regained a brief moment of peace. At the same time, Beerus, the God of Destruction, awakens from his long, deep sleep.<br><br />\nEven Kai and Supreme Kai, aware of Beerus's overwhelming power to destroy entire planets, watch his awakening with great fear… Meanwhile, Beerus hears rumors of a Saiyan who defeated Frieza—and suddenly appears before Goku.<br><br />\nTargeted by Beerus, the strongest being in the universe, Earth is in grave danger. Thus begins an earth-shattering cosmic battle between the God of Destruction and Goku and his alliesa—a conflict that will shake the entire universe.<br />\n<br><br><br />\n(Source: Official Site)<br />\n<br><br><br />\n<i>Note: “Enhanced” edition of Dragon Ball Super, featuring a large volume of newly added and redrawn cuts, a reconstructed narrative, and updated visuals for a more immersive and faithful representation of Akira Toriyama’s original manga.</i></p>"
-        },
-        {
           "id": 206949,
           "title": {
             "romaji": "Kyouran Reijou Nia Liston",
@@ -2066,6 +1968,112 @@
           ],
           "isMyList": false,
           "descriptionTr": "<p>A great hero lies undefeated on her deathbed, regretting that she never found a foe who could take her down. She never intended to meet her fate anywhere other than on the battlefield, and her peaceful demise has her wishing desperately that things could have been different... But when she suddenly comes to in the body of the young, frail Nia Liston, she’s got an all-new fight ahead of her. Nia is a sickly child, meaning she has a long way to go before she’s in fighting form. Now that she’s been given a second shot at life, however, she’s determined to get what she wants. She’s going to live—and die—for battle this time! Make way for the Merciless Maiden!<br><br />\n<br><br />\n(Source: J-Novel Club)</p>"
+        },
+        {
+          "id": 206814,
+          "title": {
+            "romaji": "Dragon Ball Super: Beerus",
+            "english": "Dragon Ball Super: Beerus",
+            "native": "ドラゴンボール超 ビルス"
+          },
+          "synonyms": [
+            "DBS Beerus"
+          ],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 11
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-PVVzRbf1IQpe.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206814-PVVzRbf1IQpe.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206814-ARuwrZJAGONN.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1795961700,
+            "episode": 8
+          },
+          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "tags": [
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Martial Arts",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Male Protagonist",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Gods",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Henshin",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Aliens",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban Fantasy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Alternate Universe",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Angels",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Space",
+              "isMediaSpoiler": false
+            }
+          ],
+          "averageScore": 80,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Toei Animation"
+              }
+            ]
+          },
+          "description": "<p>Several years have passed since the fierce battle against Majin Buu, and Earth has finally regained a brief moment of peace. At the same time, Beerus, the God of Destruction, awakens from his long, deep sleep.<br><br />\nEven Kai and Supreme Kai, aware of Beerus's overwhelming power to destroy entire planets, watch his awakening with great fear… Meanwhile, Beerus hears rumors of a Saiyan who defeated Frieza—and suddenly appears before Goku.<br><br />\nTargeted by Beerus, the strongest being in the universe, Earth is in grave danger. Thus begins an earth-shattering cosmic battle between the God of Destruction and Goku and his alliesa—a conflict that will shake the entire universe.<br />\n<br><br><br />\n(Source: Official Site)<br />\n<br><br><br />\n<i>Note: “Enhanced” edition of Dragon Ball Super, featuring a large volume of newly added and redrawn cuts, a reconstructed narrative, and updated visuals for a more immersive and faithful representation of Akira Toriyama’s original manga.</i></p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://dragonball-super.com/"
+            },
+            {
+              "site": "Official Site",
+              "url": "https://dragonball-super.com/en/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://x.com/DB_anime_info"
+            },
+            {
+              "site": "Netflix",
+              "url": "https://www.netflix.com/title/83189604"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00389311/dragon-ball-super-beerus"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>Several years have passed since the fierce battle against Majin Buu, and Earth has finally regained a brief moment of peace. At the same time, Beerus, the God of Destruction, awakens from his long, deep sleep.<br><br />\nEven Kai and Supreme Kai, aware of Beerus's overwhelming power to destroy entire planets, watch his awakening with great fear… Meanwhile, Beerus hears rumors of a Saiyan who defeated Frieza—and suddenly appears before Goku.<br><br />\nTargeted by Beerus, the strongest being in the universe, Earth is in grave danger. Thus begins an earth-shattering cosmic battle between the God of Destruction and Goku and his alliesa—a conflict that will shake the entire universe.<br />\n<br><br><br />\n(Source: Official Site)<br />\n<br><br><br />\n<i>Note: “Enhanced” edition of Dragon Ball Super, featuring a large volume of newly added and redrawn cuts, a reconstructed narrative, and updated visuals for a more immersive and faithful representation of Akira Toriyama’s original manga.</i></p>"
         },
         {
           "id": 186541,
@@ -2280,7 +2288,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 66,
+          "averageScore": 67,
           "studios": {
             "nodes": [
               {
@@ -2701,11 +2709,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Nudity",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Nudity",
               "isMediaSpoiler": false
             },
             {
@@ -2808,8 +2816,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1795609800,
-            "episode": 8
+            "airingAt": 1796214600,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -3646,8 +3654,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/211778-ZbXEhqfFkj62.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1795611600,
-            "episode": 8
+            "airingAt": 1796216400,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -4686,8 +4694,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176314-nj2hmqbGQ9HJ.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1795611600,
-            "episode": 8
+            "airingAt": 1796216400,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -4977,6 +4985,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Bisexual",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Masturbation",
               "isMediaSpoiler": false
             },
@@ -5152,8 +5164,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178868-l7VyM7j7LRtH.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1795617900,
-            "episode": 8
+            "airingAt": 1796222700,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
