@@ -3657,6 +3657,10 @@
           ],
           "tags": [
             {
+              "name": "Meta",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
@@ -3674,10 +3678,6 @@
             },
             {
               "name": "Cute Girls Doing Cute Things",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Meta",
               "isMediaSpoiler": false
             },
             {
@@ -4338,6 +4338,10 @@
             {
               "name": "Crossdressing",
               "isMediaSpoiler": false
+            },
+            {
+              "name": "Femboy",
+              "isMediaSpoiler": true
             }
           ],
           "averageScore": 79,
@@ -4486,6 +4490,10 @@
           "tags": [
             {
               "name": "Primarily Female Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Female Protagonist",
               "isMediaSpoiler": false
             },
             {
