@@ -856,7 +856,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 74,
+          "averageScore": 75,
           "studios": {
             "nodes": [
               {
@@ -1331,8 +1331,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213805-DKKoBepaY2bj.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1795704960,
-            "episode": 9
+            "airingAt": 1796309760,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -2029,15 +2029,15 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Alternate Universe",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Angels",
               "isMediaSpoiler": false
             },
             {
               "name": "Space",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Alternate Universe",
               "isMediaSpoiler": false
             }
           ],
@@ -2400,7 +2400,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 68,
+          "averageScore": 69,
           "studios": {
             "nodes": [
               {
@@ -2912,110 +2912,6 @@
           "descriptionTr": "<p>After thwarting a hijacking with beautiful, silver-haired detective Siesta, Kimihiko leads a life of globe-trotting and crime-solving—until Siesta dies. A year later, a new case will open old wounds as it threads murder, conspiracy, and his dead partner!<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
-          "id": 213457,
-          "title": {
-            "romaji": "Fool Night",
-            "english": "Fool Night",
-            "native": "フールナイト"
-          },
-          "synonyms": [],
-          "startDate": {
-            "year": 2026,
-            "month": 11,
-            "day": 26
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213457-gN5p1GZjK3zi.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213457-xUUdWSFdK8At.jpg",
-          "nextAiringEpisode": {
-            "airingAt": 1795680000,
-            "episode": 1
-          },
-          "isAdult": false,
-          "genres": [
-            "Drama",
-            "Psychological",
-            "Sci-Fi",
-            "Thriller"
-          ],
-          "tags": [
-            {
-              "name": "Eco-Horror",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Class Struggle",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Seinen",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban Fantasy",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Primarily Adult Cast",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Dystopian",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Body Horror",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Post-Apocalyptic",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Suicide",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Urban",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Work",
-              "isMediaSpoiler": false
-            }
-          ],
-          "averageScore": null,
-          "studios": {
-            "nodes": [
-              {
-                "name": "Shaft"
-              },
-              {
-                "name": "Sunrise"
-              }
-            ]
-          },
-          "description": "<p>The earth of the distant future is covered in thick clouds, and the sun no longer shines. Plants wither, and oxygen is thin. To fight extinction, humankind has developed a technology that turns humans into plants, providing a small amount of oxygen. Is this process sustainable? Is it ethical? Toshiro Kamiya must consider these questions as he’s faced with a difficult choice—save his family or save himself.<br />\n<br><br><br />\nKamiya is at the end of his rope. His mother is ill, and his job barely pays for her medication, much less food. With few options left, he considers the life-changing process of transfloration. Ready to give his body up for a payday, Kamiya is about to explore the limits of society’s waning humanity.<br />\n<br><br><br />\n(Source: VIZ Media)</p>",
-          "externalLinks": [
-            {
-              "site": "Twitter",
-              "url": "https://x.com/foolnight_anime"
-            },
-            {
-              "site": "Official Site",
-              "url": "https://www.foolnight.com/"
-            },
-            {
-              "site": "Netflix",
-              "url": "https://www.netflix.com/title/81991076"
-            }
-          ],
-          "isMyList": false,
-          "descriptionTr": "<p>The earth of the distant future is covered in thick clouds, and the sun no longer shines. Plants wither, and oxygen is thin. To fight extinction, humankind has developed a technology that turns humans into plants, providing a small amount of oxygen. Is this process sustainable? Is it ethical? Toshiro Kamiya must consider these questions as he’s faced with a difficult choice—save his family or save himself.<br />\n<br><br><br />\nKamiya is at the end of his rope. His mother is ill, and his job barely pays for her medication, much less food. With few options left, he considers the life-changing process of transfloration. Ready to give his body up for a payday, Kamiya is about to explore the limits of society’s waning humanity.<br />\n<br><br><br />\n(Source: VIZ Media)</p>"
-        },
-        {
           "id": 204389,
           "title": {
             "romaji": "Yasei no Last Boss ga Arawareta! 2nd Season",
@@ -3399,7 +3295,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 67,
+          "averageScore": 66,
           "studios": {
             "nodes": [
               {
@@ -3565,8 +3461,8 @@
           },
           "bannerImage": null,
           "nextAiringEpisode": {
-            "airingAt": 1795710480,
-            "episode": 8
+            "airingAt": 1796315280,
+            "episode": 9
           },
           "isAdult": false,
           "genres": [
@@ -3600,7 +3496,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 66,
+          "averageScore": 65,
           "studios": {
             "nodes": [
               {
@@ -3742,6 +3638,10 @@
             },
             {
               "name": "Fishing",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Spearplay",
               "isMediaSpoiler": false
             }
           ],
@@ -4150,8 +4050,8 @@
           },
           "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206401-sKPZQks8FxNL.jpg",
           "nextAiringEpisode": {
-            "airingAt": 1795696200,
-            "episode": 9
+            "airingAt": 1796301000,
+            "episode": 10
           },
           "isAdult": false,
           "genres": [
@@ -4620,11 +4520,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Male Protagonist",
+              "name": "Heterosexual",
               "isMediaSpoiler": false
             },
             {
-              "name": "Heterosexual",
+              "name": "Male Protagonist",
               "isMediaSpoiler": false
             },
             {
@@ -5781,7 +5681,7 @@
               "isMediaSpoiler": false
             }
           ],
-          "averageScore": 58,
+          "averageScore": 57,
           "studios": {
             "nodes": [
               {
@@ -5814,10 +5714,113 @@
             {
               "site": "Crunchyroll",
               "url": "https://www.crunchyroll.com/series/GT00393473/suikoden"
+            },
+            {
+              "site": "YouTube",
+              "url": "https://www.youtube.com/playlist?list=PLe-9lGJEv2i4"
             }
           ],
           "isMyList": false,
           "descriptionTr": "<p>Riliu and Jowy have always fought side by side, dreaming of a future beyond the battlefield. But when war engulfs the Highland Kingdom, the childhood friends are swept into a struggle far greater than themselves. As the 108 Stars of Destiny begin to gather, the boys must face a conflict that will challenge their beliefs and put their friendship to the test.<br><br></p>\n<p>(Source: Crunchyroll)<br><br></p>\n<p><i>Note: The first episode aired with a runtime of ~50 minutes as opposed to the standard 24 minute long episode.</i></p>"
+        },
+        {
+          "id": 200294,
+          "title": {
+            "romaji": "Choujun! Choujou Senpai",
+            "english": "Super Psychic Policeman Chojo",
+            "native": "超巡！超条先輩"
+          },
+          "synonyms": [],
+          "startDate": {
+            "year": 2026,
+            "month": 10,
+            "day": 6
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200294-E6KIgkFaJOfG.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200294-E6KIgkFaJOfG.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200294-PPEwId1xfGNO.jpg",
+          "nextAiringEpisode": {
+            "airingAt": 1796133600,
+            "episode": 9
+          },
+          "isAdult": false,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "Police",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Super Power",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Shounen",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Real Robot",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Surreal Comedy",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Urban",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Meta",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Parody",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Tokusatsu",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Card Battle",
+              "isMediaSpoiler": true
+            }
+          ],
+          "averageScore": 65,
+          "studios": {
+            "nodes": [
+              {
+                "name": "Arvo Animation"
+              }
+            ]
+          },
+          "description": "<p>The ultimate police duo is here to keep the peace! Rookie officer Nao just joined the force. She’s got a black belt in judo and earned the nickname “Gorilla” for her insane strength. Then there’s her partner Chojo, who wields every psychic power imaginable. But for a guy who can read minds, he still can’t seem to read the room. Now, these two are taking on crime together in Chinjuku.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>",
+          "externalLinks": [
+            {
+              "site": "Official Site",
+              "url": "https://chojun-anime.com/"
+            },
+            {
+              "site": "Twitter",
+              "url": "https://twitter.com/Chojun_Anime/"
+            },
+            {
+              "site": "Crunchyroll",
+              "url": "https://www.crunchyroll.com/series/GT00384013/super-psychic-policeman-chojo"
+            }
+          ],
+          "isMyList": false,
+          "descriptionTr": "<p>The ultimate police duo is here to keep the peace! Rookie officer Nao just joined the force. She’s got a black belt in judo and earned the nickname “Gorilla” for her insane strength. Then there’s her partner Chojo, who wields every psychic power imaginable. But for a guy who can read minds, he still can’t seem to read the room. Now, these two are taking on crime together in Chinjuku.<br />\n<br><br><br />\n(Source: Crunchyroll)</p>"
         },
         {
           "id": 212799,
