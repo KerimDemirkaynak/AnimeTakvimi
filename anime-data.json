@@ -3713,6 +3713,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Coastal",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Cult",
               "isMediaSpoiler": false
             },
@@ -3737,7 +3741,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Coastal",
+              "name": "Fishing",
               "isMediaSpoiler": false
             }
           ],
@@ -4336,6 +4340,10 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Femboy",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "Food",
               "isMediaSpoiler": false
             },
@@ -4346,10 +4354,6 @@
             {
               "name": "Crossdressing",
               "isMediaSpoiler": false
-            },
-            {
-              "name": "Femboy",
-              "isMediaSpoiler": true
             }
           ],
           "averageScore": 79,
