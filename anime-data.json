@@ -399,7 +399,19 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Economics",
+              "isMediaSpoiler": true
+            },
+            {
               "name": "E-Sports",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Heterosexual",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Conspiracy",
               "isMediaSpoiler": true
             },
             {
@@ -407,7 +419,11 @@
               "isMediaSpoiler": true
             },
             {
-              "name": "Conspiracy",
+              "name": "Poverty",
+              "isMediaSpoiler": true
+            },
+            {
+              "name": "Blackmail",
               "isMediaSpoiler": true
             }
           ],
@@ -3585,11 +3601,11 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Magic",
+              "name": "Parody",
               "isMediaSpoiler": false
             },
             {
-              "name": "Parody",
+              "name": "Magic",
               "isMediaSpoiler": false
             },
             {
