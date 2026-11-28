@@ -61,7 +61,15 @@
               "isMediaSpoiler": false
             },
             {
+              "name": "Survival",
+              "isMediaSpoiler": false
+            },
+            {
               "name": "Historical",
+              "isMediaSpoiler": false
+            },
+            {
+              "name": "Foreign",
               "isMediaSpoiler": false
             },
             {
@@ -77,15 +85,7 @@
               "isMediaSpoiler": false
             },
             {
-              "name": "Foreign",
-              "isMediaSpoiler": false
-            },
-            {
               "name": "Prostitution",
-              "isMediaSpoiler": false
-            },
-            {
-              "name": "Survival",
               "isMediaSpoiler": false
             },
             {
